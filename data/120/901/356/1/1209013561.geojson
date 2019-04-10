@@ -1,0 +1,64 @@
+{
+  "id": 1209013561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67783,32.11283,69.67783,32.11283",
+    "geom:latitude":32.11283,
+    "geom:longitude":69.67783,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Spin Killa",
+    "gn:country_code":"PK",
+    "gn:dem":874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1365227,
+    "gn:latitude":32.11283,
+    "gn:longitude":69.67783,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Spin Killa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Spin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365227
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"363e34f8b082a556b8069e3a69fed13e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209013561
+        }
+    ],
+    "wof:id":1209013561,
+    "wof:lastmodified":1537680484,
+    "wof:name":"Spin Killa",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67783,
+    32.11283,
+    69.67783,
+    32.11283
+],
+  "geometry": {"coordinates":[69.67783,32.11283],"type":"Point"}
+}

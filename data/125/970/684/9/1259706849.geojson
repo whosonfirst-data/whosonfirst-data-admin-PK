@@ -1,0 +1,67 @@
+{
+  "id": 1259706849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46056,31.5825,74.46056,31.5825",
+    "geom:latitude":31.5825,
+    "geom:longitude":74.46056,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tulspura",
+    "gn:country_code":"PK",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331529,
+    "gn:latitude":31.5825,
+    "gn:longitude":74.46056,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Tulspura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331529
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ad4d88e216a4fa6ffed20da9459a1e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1259706849,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259706849,
+    "wof:lastmodified":1537032060,
+    "wof:name":"Tulspura",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46056,
+    31.5825,
+    74.46056,
+    31.5825
+],
+  "geometry": {"coordinates":[74.46056,31.5825],"type":"Point"}
+}

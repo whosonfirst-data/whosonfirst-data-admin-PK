@@ -1,0 +1,67 @@
+{
+  "id": 1210017407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95329,34.61713,72.95329,34.61713",
+    "geom:latitude":34.61713,
+    "geom:longitude":72.95329,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Seta",
+    "gn:country_code":"PK",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482633,
+    "gn:latitude":34.61713,
+    "gn:longitude":72.95329,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Seta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482633
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"882075791ee5045cc6726570312015a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1210017407,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017407,
+    "wof:lastmodified":1543515340,
+    "wof:name":"Seta",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95329,
+    34.61713,
+    72.95329,
+    34.61713
+],
+  "geometry": {"coordinates":[72.95329,34.61713],"type":"Point"}
+}

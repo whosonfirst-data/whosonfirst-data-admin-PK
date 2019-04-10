@@ -1,0 +1,67 @@
+{
+  "id": 1310694343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.26899,24.39959,69.26899,24.39959",
+    "geom:latitude":24.39959,
+    "geom:longitude":69.26899,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tobo",
+    "gn:country_code":"PK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410259,
+    "gn:latitude":24.39959,
+    "gn:longitude":69.26899,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Tobo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410259
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e10e21199d482a5b928af7953c4f8a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1310694343,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310694343,
+    "wof:lastmodified":1536643862,
+    "wof:name":"Tobo",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.26899,
+    24.39959,
+    69.26899,
+    24.39959
+],
+  "geometry": {"coordinates":[69.26899,24.39959],"type":"Point"}
+}

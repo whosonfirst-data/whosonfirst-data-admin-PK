@@ -1,0 +1,67 @@
+{
+  "id": 1209721089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.0267,29.7055,71.0267,29.7055",
+    "geom:latitude":29.7055,
+    "geom:longitude":71.0267,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shewran",
+    "gn:country_code":"PK",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388211,
+    "gn:latitude":29.7055,
+    "gn:longitude":71.0267,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Shewran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388211
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b16127d77821151c5e176f3723832b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1209721089,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209721089,
+    "wof:lastmodified":1536386341,
+    "wof:name":"Shewran",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.0267,
+    29.7055,
+    71.0267,
+    29.7055
+],
+  "geometry": {"coordinates":[71.02670000000001,29.7055],"type":"Point"}
+}

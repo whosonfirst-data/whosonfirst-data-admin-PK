@@ -1,0 +1,78 @@
+{
+  "id": 1259901395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7664,34.05166,73.7664,34.05166",
+    "geom:latitude":34.05166,
+    "geom:longitude":73.7664,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Basuti",
+    "gn:country_code":"PK",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415531,
+    "gn:latitude":34.05166,
+    "gn:longitude":73.7664,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Basuti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"15d05d82636b7a1d077a5e90d90be974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259901395,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259901395,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259901395,
+    "wof:lastmodified":1536753361,
+    "wof:name":"Basuti",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7664,
+    34.05166,
+    73.7664,
+    34.05166
+],
+  "geometry": {"coordinates":[73.7664,34.05166],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209415783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.82917,33.58884,71.82917,33.58884",
+    "geom:latitude":33.58884,
+    "geom:longitude":71.82917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tarkhobi",
+    "gn:country_code":"PK",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7081108,
+    "gn:latitude":33.58884,
+    "gn:longitude":71.82917,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Tarkhobi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081108
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"75ab9e114f312871ca514332e4e5b9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209415783
+        }
+    ],
+    "wof:id":1209415783,
+    "wof:lastmodified":1536287693,
+    "wof:name":"Tarkhobi",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.82916999999998,
+    33.588840000000005,
+    71.82916999999998,
+    33.588840000000005
+],
+  "geometry": {"coordinates":[71.82916999999998,33.58884],"type":"Point"}
+}

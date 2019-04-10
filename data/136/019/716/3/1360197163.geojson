@@ -1,0 +1,67 @@
+{
+  "id": 1360197163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.9805,29.09329,66.9805,29.09329",
+    "geom:latitude":29.09329,
+    "geom:longitude":66.9805,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chizar",
+    "gn:country_code":"PK",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1351686,
+    "gn:latitude":29.09329,
+    "gn:longitude":66.9805,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Chizar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"020303245b8d1d85badc1b7d816720c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1360197163,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360197163,
+    "wof:lastmodified":1536784400,
+    "wof:name":"Chizar",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.9805,
+    29.09329,
+    66.9805,
+    29.09329
+],
+  "geometry": {"coordinates":[66.98050000000001,29.09329],"type":"Point"}
+}

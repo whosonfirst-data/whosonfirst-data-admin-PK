@@ -1,0 +1,67 @@
+{
+  "id": 1343763201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.05305,34.39684,73.05305,34.39684",
+    "geom:latitude":34.39684,
+    "geom:longitude":73.05305,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Hathian",
+    "gn:country_code":"PK",
+    "gn:dem":1294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390230,
+    "gn:latitude":34.39684,
+    "gn:longitude":73.05305,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Hathian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390230
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"377668bd8a2e9a4faa00f15900260b50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1343763201,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343763201,
+    "wof:lastmodified":1536806732,
+    "wof:name":"Hathian",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.05305,
+    34.39684,
+    73.05305,
+    34.39684
+],
+  "geometry": {"coordinates":[73.05305,34.39684],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210028953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.30107,28.45866,66.30107,28.45866",
+    "geom:latitude":28.45866,
+    "geom:longitude":66.30107,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dasht",
+    "gn:country_code":"PK",
+    "gn:dem":2012,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11093238,
+    "gn:latitude":28.45866,
+    "gn:longitude":66.30107,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11093238
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b3b9bc6d532d507768273c08c5a096a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1210028953,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1210028953,
+    "wof:lastmodified":1536389455,
+    "wof:name":"Dasht",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.30107,
+    28.45866,
+    66.30107,
+    28.45866
+],
+  "geometry": {"coordinates":[66.30107,28.45866],"type":"Point"}
+}

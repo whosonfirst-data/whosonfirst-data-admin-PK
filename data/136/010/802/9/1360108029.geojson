@@ -1,0 +1,67 @@
+{
+  "id": 1360108029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65,31.0,73.65,31.0",
+    "geom:latitude":31.0,
+    "geom:longitude":73.65,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koda Mehlu",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173523,
+    "gn:latitude":31.0,
+    "gn:longitude":73.65,
+    "gn:modification_date":"1995-05-08",
+    "gn:name":"Koda Mehlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173523
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02c02335c27dd40b84861ad05d4881a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1360108029,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360108029,
+    "wof:lastmodified":1536912956,
+    "wof:name":"Koda Mehlu",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65,
+    31.0,
+    73.65,
+    31.0
+],
+  "geometry": {"coordinates":[73.65000000000001,31.0],"type":"Point"}
+}

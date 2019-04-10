@@ -1,0 +1,82 @@
+{
+  "id": 1277071693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.89968,33.13134,73.89968,33.13134",
+    "geom:latitude":33.13134,
+    "geom:longitude":73.89968,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kas Guma",
+    "gn:country_code":"PK",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386361,
+    "gn:latitude":33.13134,
+    "gn:longitude":73.89968,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kas Guma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhamawah",
+        "Kas Guma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386361
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"84477eee8a049c6924ad8bb35db32fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277071693,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277071693,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277071693,
+    "wof:lastmodified":1537680859,
+    "wof:name":"Kas Guma",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.89968,
+    33.13134,
+    73.89968,
+    33.13134
+],
+  "geometry": {"coordinates":[73.89968,33.13134],"type":"Point"}
+}

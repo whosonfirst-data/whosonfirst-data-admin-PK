@@ -1,0 +1,81 @@
+{
+  "id": 1209837081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.701,33.54638,73.701,33.54638",
+    "geom:latitude":33.54638,
+    "geom:longitude":73.701,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Palet Paiah",
+    "gn:country_code":"PK",
+    "gn:dem":589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100614,
+    "gn:latitude":33.54638,
+    "gn:longitude":73.701,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Palet Paiah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Poin Paliat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100614
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"082e164f5c49b619d531836ac0474f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1209837081,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1209837081,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209837081,
+    "wof:lastmodified":1537681692,
+    "wof:name":"Palet Paiah",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70100000000002,
+    33.54638,
+    73.70100000000002,
+    33.54638
+],
+  "geometry": {"coordinates":[73.70100000000002,33.54638],"type":"Point"}
+}

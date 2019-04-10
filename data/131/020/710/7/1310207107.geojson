@@ -1,0 +1,67 @@
+{
+  "id": 1310207107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06503,31.02399,70.06503,31.02399",
+    "geom:latitude":31.02399,
+    "geom:longitude":70.06503,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nushpai",
+    "gn:country_code":"PK",
+    "gn:dem":1481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311480,
+    "gn:latitude":31.02399,
+    "gn:longitude":70.06503,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Nushpai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311480
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e2017bf50d7a28649e26d4016e31f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1310207107,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310207107,
+    "wof:lastmodified":1536848832,
+    "wof:name":"Nushpai",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06503000000001,
+    31.02399,
+    70.06503000000001,
+    31.02399
+],
+  "geometry": {"coordinates":[70.06503000000001,31.02399],"type":"Point"}
+}

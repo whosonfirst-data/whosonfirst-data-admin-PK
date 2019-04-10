@@ -1,0 +1,67 @@
+{
+  "id": 1326630885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15461,35.22207,73.15461,35.22207",
+    "geom:latitude":35.22207,
+    "geom:longitude":73.15461,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mandraza",
+    "gn:country_code":"PK",
+    "gn:dem":745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045621,
+    "gn:latitude":35.22207,
+    "gn:longitude":73.15461,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mandraza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5dee198b46ccb9981f3b37f74c1e53e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1326630885,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326630885,
+    "wof:lastmodified":1536840725,
+    "wof:name":"Mandraza",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15460999999998,
+    35.22207,
+    73.15460999999998,
+    35.22207
+],
+  "geometry": {"coordinates":[73.15460999999998,35.22207],"type":"Point"}
+}

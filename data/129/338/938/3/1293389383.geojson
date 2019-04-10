@@ -1,0 +1,67 @@
+{
+  "id": 1293389383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05846,30.49667,71.05846,30.49667",
+    "geom:latitude":30.49667,
+    "geom:longitude":71.05846,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dallewala",
+    "gn:country_code":"PK",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367787,
+    "gn:latitude":30.49667,
+    "gn:longitude":71.05846,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dallewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367787
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"27d8c6aa80a4ab893151db6cf70e2a1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1293389383,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293389383,
+    "wof:lastmodified":1536929170,
+    "wof:name":"Dallewala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05846,
+    30.49667,
+    71.05846,
+    30.49667
+],
+  "geometry": {"coordinates":[71.05846,30.49667],"type":"Point"}
+}

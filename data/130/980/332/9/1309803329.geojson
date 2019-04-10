@@ -1,0 +1,67 @@
+{
+  "id": 1309803329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.56807,31.47365,74.56807,31.47365",
+    "geom:latitude":31.47365,
+    "geom:longitude":74.56807,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhilwan",
+    "gn:country_code":"PK",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180026,
+    "gn:latitude":31.47365,
+    "gn:longitude":74.56807,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dhilwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180026
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83eb8668c0a3efb9dbb7d2399c97db85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1309803329,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309803329,
+    "wof:lastmodified":1536935367,
+    "wof:name":"Dhilwan",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.56806999999998,
+    31.47365,
+    74.56806999999998,
+    31.47365
+],
+  "geometry": {"coordinates":[74.56806999999998,31.47365],"type":"Point"}
+}

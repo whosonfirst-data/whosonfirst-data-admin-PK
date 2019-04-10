@@ -1,0 +1,78 @@
+{
+  "id": 1309899583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.08446,35.2038,76.08446,35.2038",
+    "geom:latitude":35.2038,
+    "geom:longitude":76.08446,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hardyaq Pa",
+    "gn:country_code":"PK",
+    "gn:dem":3232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088089,
+    "gn:latitude":35.2038,
+    "gn:longitude":76.08446,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Hardyaq Pa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088089
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8577f883e2502cabe1a989f21a1853ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1309899583,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1309899583,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309899583,
+    "wof:lastmodified":1536796113,
+    "wof:name":"Hardyaq Pa",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.08445999999998,
+    35.2038,
+    76.08445999999998,
+    35.2038
+],
+  "geometry": {"coordinates":[76.08445999999998,35.2038],"type":"Point"}
+}

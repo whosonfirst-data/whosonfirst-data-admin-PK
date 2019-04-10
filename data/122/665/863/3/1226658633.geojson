@@ -1,0 +1,67 @@
+{
+  "id": 1226658633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.86319,30.45462,68.86319,30.45462",
+    "geom:latitude":30.45462,
+    "geom:longitude":68.86319,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Zarai",
+    "gn:country_code":"PK",
+    "gn:dem":1288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1396621,
+    "gn:latitude":30.45462,
+    "gn:longitude":68.86319,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Zarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1396621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"29e89330fa05f954dce32d20fefaf5a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1226658633,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226658633,
+    "wof:lastmodified":1536839789,
+    "wof:name":"Zarai",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.86319,
+    30.45462,
+    68.86319,
+    30.45462
+],
+  "geometry": {"coordinates":[68.86319,30.45462],"type":"Point"}
+}

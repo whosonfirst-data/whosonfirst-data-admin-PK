@@ -1,0 +1,67 @@
+{
+  "id": 1343363359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.74725,24.37275,69.74725,24.37275",
+    "geom:latitude":24.37275,
+    "geom:longitude":69.74725,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Liari",
+    "gn:country_code":"PK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410707,
+    "gn:latitude":24.37275,
+    "gn:longitude":69.74725,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Liari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410707
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5e0a5955023862058afcfa8c099ba92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1343363359,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343363359,
+    "wof:lastmodified":1536885791,
+    "wof:name":"Liari",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.74725,
+    24.37275,
+    69.74725,
+    24.37275
+],
+  "geometry": {"coordinates":[69.74724999999999,24.37275],"type":"Point"}
+}

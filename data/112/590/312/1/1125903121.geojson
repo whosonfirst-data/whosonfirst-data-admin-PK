@@ -1,0 +1,81 @@
+{
+  "id": 1125903121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.06667,32.18333,75.06667,32.18333",
+    "geom:latitude":32.18333,
+    "geom:longitude":75.06667,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":28213,
+    "gn:population":28213,
+    "iso:country":"PK",
+    "lbl:latitude":32.18333,
+    "lbl:longitude":75.06667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "F\u0101zilpur"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1179255,
+    "qs_pg:gn_pop":28213,
+    "qs_pg:name":"Fazalpur",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1030029,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179255,
+        "qs_pg:id":1030029
+    },
+    "wof:country":"PK",
+    "wof:created":1497295886,
+    "wof:geomhash":"d13da57b493b3979e7a8731484836188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1125903121,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125903121,
+    "wof:lastmodified":1509399568,
+    "wof:name":"Fazalpur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:population":28213,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.06667,
+    32.18333,
+    75.06667,
+    32.18333
+],
+  "geometry": {"coordinates":[75.06667,32.18333],"type":"Point"}
+}

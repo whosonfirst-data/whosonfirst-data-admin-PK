@@ -1,0 +1,67 @@
+{
+  "id": 1360185449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06388,34.56737,73.06388,34.56737",
+    "geom:latitude":34.56737,
+    "geom:longitude":73.06388,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ranja",
+    "gn:country_code":"PK",
+    "gn:dem":1506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389551,
+    "gn:latitude":34.56737,
+    "gn:longitude":73.06388,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ranja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389551
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e67a0efcf58b776c54479241d634ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1360185449,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360185449,
+    "wof:lastmodified":1543515294,
+    "wof:name":"Ranja",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06388000000003,
+    34.56737,
+    73.06388000000003,
+    34.56737
+],
+  "geometry": {"coordinates":[73.06388000000003,34.56737],"type":"Point"}
+}

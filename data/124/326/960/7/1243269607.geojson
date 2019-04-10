@@ -1,0 +1,67 @@
+{
+  "id": 1243269607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21757,31.97277,72.21757,31.97277",
+    "geom:latitude":31.97277,
+    "geom:longitude":72.21757,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shergarh",
+    "gn:country_code":"PK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165185,
+    "gn:latitude":31.97277,
+    "gn:longitude":72.21757,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Shergarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165185
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d56318fbb8eb381920c039aed6aee0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1243269607,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243269607,
+    "wof:lastmodified":1537057870,
+    "wof:name":"Shergarh",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21757,
+    31.97277,
+    72.21757,
+    31.97277
+],
+  "geometry": {"coordinates":[72.21756999999999,31.97277],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327340235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91082,31.93827,70.91082,31.93827",
+    "geom:latitude":31.93827,
+    "geom:longitude":70.91082,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Diyal",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419068,
+    "gn:latitude":31.93827,
+    "gn:longitude":70.91082,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Diyal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419068
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1ddf8e6f0bce34a200c109c56b828375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1327340235,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327340235,
+    "wof:lastmodified":1536813207,
+    "wof:name":"Diyal",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91082,
+    31.93827000000001,
+    70.91082,
+    31.93827000000001
+],
+  "geometry": {"coordinates":[70.91082,31.93827000000001],"type":"Point"}
+}

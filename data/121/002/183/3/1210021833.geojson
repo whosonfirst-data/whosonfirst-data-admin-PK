@@ -1,0 +1,67 @@
+{
+  "id": 1210021833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47036,34.00402,73.47036,34.00402",
+    "geom:latitude":34.00402,
+    "geom:longitude":73.47036,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dewal",
+    "gn:country_code":"PK",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407757,
+    "gn:latitude":34.00402,
+    "gn:longitude":73.47036,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dewal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407757
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e6f3403902007bf274157fa636b11f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1210021833,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1210021833,
+    "wof:lastmodified":1536392505,
+    "wof:name":"Dewal",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47036,
+    34.00402,
+    73.47036,
+    34.00402
+],
+  "geometry": {"coordinates":[73.47036,34.00402],"type":"Point"}
+}

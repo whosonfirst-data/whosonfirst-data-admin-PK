@@ -1,0 +1,89 @@
+{
+  "id": 1259901413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65973,33.80302,73.65973,33.80302",
+    "geom:latitude":33.80302,
+    "geom:longitude":73.65973,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bhagera",
+    "gn:country_code":"PK",
+    "gn:dem":1345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097542,
+    "gn:latitude":33.80302,
+    "gn:longitude":73.65973,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhagera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101ghera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097542
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca398e3bb1a27837ebc938226384c946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1259901413,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259901413,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259901413,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259901413,
+    "wof:lastmodified":1537681682,
+    "wof:name":"Bhagera",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65973000000002,
+    33.80302,
+    73.65973000000002,
+    33.80302
+],
+  "geometry": {"coordinates":[73.65973000000002,33.80302],"type":"Point"}
+}

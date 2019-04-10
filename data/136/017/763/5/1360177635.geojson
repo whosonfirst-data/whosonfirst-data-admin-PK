@@ -1,0 +1,70 @@
+{
+  "id": 1360177635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.18662,28.09999,68.18662,28.09999",
+    "geom:latitude":28.09999,
+    "geom:longitude":68.18662,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kohri",
+    "gn:country_code":"PK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397590,
+    "gn:latitude":28.09999,
+    "gn:longitude":68.18662,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Kohri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kohiri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397590
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78c369c785f7ed977f7cb041a53e6b0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1360177635,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1360177635,
+    "wof:lastmodified":1537681062,
+    "wof:name":"Kohri",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.18661999999999,
+    28.09999,
+    68.18661999999999,
+    28.09999
+],
+  "geometry": {"coordinates":[68.18661999999999,28.09999],"type":"Point"}
+}

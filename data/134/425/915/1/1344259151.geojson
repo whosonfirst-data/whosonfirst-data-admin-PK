@@ -1,0 +1,70 @@
+{
+  "id": 1344259151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96107,31.10884,69.96107,31.10884",
+    "geom:latitude":31.10884,
+    "geom:longitude":69.96107,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Londai",
+    "gn:country_code":"PK",
+    "gn:dem":1204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337971,
+    "gn:latitude":31.10884,
+    "gn:longitude":69.96107,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Londai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337971
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c98d9c909215b8ff05dd1032b806865d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1344259151,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344259151,
+    "wof:lastmodified":1537680150,
+    "wof:name":"Londai",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96106999999999,
+    31.10884,
+    69.96106999999999,
+    31.10884
+],
+  "geometry": {"coordinates":[69.96106999999999,31.10884],"type":"Point"}
+}

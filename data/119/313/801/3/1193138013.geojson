@@ -1,0 +1,67 @@
+{
+  "id": 1193138013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98814,34.78983,71.98814,34.78983",
+    "geom:latitude":34.78983,
+    "geom:longitude":71.98814,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lalku",
+    "gn:country_code":"PK",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111227,
+    "gn:latitude":34.78983,
+    "gn:longitude":71.98814,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Lalku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111227
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c025fb52a1dac492becda8f0207a90f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1193138013,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193138013,
+    "wof:lastmodified":1543515416,
+    "wof:name":"Lalku",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98814,
+    34.78983,
+    71.98814,
+    34.78983
+],
+  "geometry": {"coordinates":[71.98814,34.78983],"type":"Point"}
+}

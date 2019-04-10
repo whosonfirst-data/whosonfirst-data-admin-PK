@@ -1,0 +1,67 @@
+{
+  "id": 1226244867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79426,28.44894,67.79426,28.44894",
+    "geom:latitude":28.44894,
+    "geom:longitude":67.79426,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Sona",
+    "gn:country_code":"PK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1410607,
+    "gn:latitude":28.44894,
+    "gn:longitude":67.79426,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Sona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410607
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"df5d81f6ae3fa7688983e0b63ccf85df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1226244867,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226244867,
+    "wof:lastmodified":1536935641,
+    "wof:name":"Sona",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79426,
+    28.44894,
+    67.79426,
+    28.44894
+],
+  "geometry": {"coordinates":[67.79425999999999,28.44894],"type":"Point"}
+}

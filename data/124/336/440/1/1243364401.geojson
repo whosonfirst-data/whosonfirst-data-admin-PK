@@ -1,0 +1,67 @@
+{
+  "id": 1243364401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32232,34.81512,72.32232,34.81512",
+    "geom:latitude":34.81512,
+    "geom:longitude":72.32232,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandah",
+    "gn:country_code":"PK",
+    "gn:dem":994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481837,
+    "gn:latitude":34.81512,
+    "gn:longitude":72.32232,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Bandah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481837
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"439dee9ffb220f7baf6fe6798c8db2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1243364401,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243364401,
+    "wof:lastmodified":1536924590,
+    "wof:name":"Bandah",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32231999999998,
+    34.81512,
+    72.32231999999998,
+    34.81512
+],
+  "geometry": {"coordinates":[72.32231999999998,34.81512],"type":"Point"}
+}

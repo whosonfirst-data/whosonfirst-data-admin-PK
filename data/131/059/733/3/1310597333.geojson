@@ -1,0 +1,81 @@
+{
+  "id": 1310597333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.60313,35.31793,75.60313,35.31793",
+    "geom:latitude":35.31793,
+    "geom:longitude":75.60313,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gons",
+    "gn:country_code":"PK",
+    "gn:dem":2197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419780,
+    "gn:latitude":35.31793,
+    "gn:longitude":75.60313,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Gons",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gonse"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419780
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8b76a10a7d5d13579c00c02b6ec220f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310597333,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310597333,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310597333,
+    "wof:lastmodified":1537681903,
+    "wof:name":"Gons",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.60313000000002,
+    35.31793,
+    75.60313000000002,
+    35.31793
+],
+  "geometry": {"coordinates":[75.60313000000002,35.31793],"type":"Point"}
+}

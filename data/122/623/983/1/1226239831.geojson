@@ -1,0 +1,81 @@
+{
+  "id": 1226239831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79134,34.5281,73.79134,34.5281",
+    "geom:latitude":34.5281,
+    "geom:longitude":73.79134,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nimali",
+    "gn:country_code":"PK",
+    "gn:dem":3224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415965,
+    "gn:latitude":34.5281,
+    "gn:longitude":73.79134,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nimali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u012bm\u0101li Baihk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415965
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"572d27b5b8e77b0eb680aa3b264f89c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1226239831,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1226239831,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226239831,
+    "wof:lastmodified":1537681372,
+    "wof:name":"Nimali",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79134,
+    34.5281,
+    73.79134,
+    34.5281
+],
+  "geometry": {"coordinates":[73.79134000000001,34.5281],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1360085723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06161,34.17988,73.06161,34.17988",
+    "geom:latitude":34.17988,
+    "geom:longitude":73.06161,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Hal Baluch",
+    "gn:country_code":"PK",
+    "gn:dem":1410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416198,
+    "gn:latitude":34.17988,
+    "gn:longitude":73.06161,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Hal Baluch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416198
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9abc0432881688b4d0d9629ad8b0dc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1360085723,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360085723,
+    "wof:lastmodified":1543515292,
+    "wof:name":"Hal Baluch",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06161,
+    34.17988,
+    73.06161,
+    34.17988
+],
+  "geometry": {"coordinates":[73.06161,34.17988],"type":"Point"}
+}

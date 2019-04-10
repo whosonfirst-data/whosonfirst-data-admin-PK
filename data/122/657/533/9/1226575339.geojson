@@ -1,0 +1,67 @@
+{
+  "id": 1226575339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58157,30.1625,71.58157,30.1625",
+    "geom:latitude":30.1625,
+    "geom:longitude":71.58157,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hakimwala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180947,
+    "gn:latitude":30.1625,
+    "gn:longitude":71.58157,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hakimwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180947
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3930c2d3a5bb048a5471a07ad08b55fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1226575339,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226575339,
+    "wof:lastmodified":1536956737,
+    "wof:name":"Hakimwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58157,
+    30.1625,
+    71.58157,
+    30.1625
+],
+  "geometry": {"coordinates":[71.58157,30.1625],"type":"Point"}
+}

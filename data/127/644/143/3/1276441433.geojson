@@ -1,0 +1,67 @@
+{
+  "id": 1276441433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49549,32.61305,73.49549,32.61305",
+    "geom:latitude":32.61305,
+    "geom:longitude":73.49549,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kandhanwala",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444396,
+    "gn:latitude":32.61305,
+    "gn:longitude":73.49549,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kandhanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444396
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7c222ee5ad1238eaa160e5704a394dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1276441433,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276441433,
+    "wof:lastmodified":1536632308,
+    "wof:name":"Kandhanwala",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49549,
+    32.61305,
+    73.49549,
+    32.61305
+],
+  "geometry": {"coordinates":[73.49549,32.61305],"type":"Point"}
+}

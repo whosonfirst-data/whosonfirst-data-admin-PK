@@ -1,0 +1,78 @@
+{
+  "id": 1243168193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46783,35.80204,74.46783,35.80204",
+    "geom:latitude":35.80204,
+    "geom:longitude":74.46783,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chator Bari",
+    "gn:country_code":"PK",
+    "gn:dem":2814,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423550,
+    "gn:latitude":35.80204,
+    "gn:longitude":74.46783,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Chator Bari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423550
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"54677c658fa47b1e7bf8e62938e05f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1243168193,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1243168193,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243168193,
+    "wof:lastmodified":1536710058,
+    "wof:name":"Chator Bari",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46783,
+    35.80204000000001,
+    74.46783,
+    35.80204000000001
+],
+  "geometry": {"coordinates":[74.46783000000001,35.80204000000001],"type":"Point"}
+}

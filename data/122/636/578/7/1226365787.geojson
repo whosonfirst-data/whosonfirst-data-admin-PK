@@ -1,0 +1,67 @@
+{
+  "id": 1226365787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46806,30.75694,74.46806,30.75694",
+    "geom:latitude":30.75694,
+    "geom:longitude":74.46806,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jamiat Singhwala",
+    "gn:country_code":"PK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421385,
+    "gn:latitude":30.75694,
+    "gn:longitude":74.46806,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jamiat Singhwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672195,
+        890508949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421385
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"50f796f4fdece63bdc8a83fac3e70afd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890508949,
+            "locality_id":1226365787,
+            "region_id":85672195
+        }
+    ],
+    "wof:id":1226365787,
+    "wof:lastmodified":1536760878,
+    "wof:name":"Jamiat Singhwala",
+    "wof:parent_id":890508949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46806,
+    30.75694,
+    74.46806,
+    30.75694
+],
+  "geometry": {"coordinates":[74.46805999999999,30.75694],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343260199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23333,27.06667,68.23333,27.06667",
+    "geom:latitude":27.06667,
+    "geom:longitude":68.23333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sethar",
+    "gn:country_code":"PK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165753,
+    "gn:latitude":27.06667,
+    "gn:longitude":68.23333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Sethar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165753
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a1cc437d01a535fe0551a2edea72de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692329,
+            "locality_id":1343260199,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343260199,
+    "wof:lastmodified":1537033823,
+    "wof:name":"Sethar",
+    "wof:parent_id":1108692329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23333000000001,
+    27.06667,
+    68.23333000000001,
+    27.06667
+],
+  "geometry": {"coordinates":[68.23333000000001,27.06667],"type":"Point"}
+}

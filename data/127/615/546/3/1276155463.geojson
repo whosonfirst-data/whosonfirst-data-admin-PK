@@ -1,0 +1,67 @@
+{
+  "id": 1276155463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06056,32.99691,73.06056,32.99691",
+    "geom:latitude":32.99691,
+    "geom:longitude":73.06056,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotla",
+    "gn:country_code":"PK",
+    "gn:dem":451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173159,
+    "gn:latitude":32.99691,
+    "gn:longitude":73.06056,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kotla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173159
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81013ec60f9f903e8cc22be4f11170f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1276155463,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276155463,
+    "wof:lastmodified":1537016443,
+    "wof:name":"Kotla",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06056,
+    32.99691,
+    73.06056,
+    32.99691
+],
+  "geometry": {"coordinates":[73.06056,32.99691],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1360204881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35372,36.46289,73.35372,36.46289",
+    "geom:latitude":36.46289,
+    "geom:longitude":73.35372,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghinsil",
+    "gn:country_code":"PK",
+    "gn:dem":2489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450819,
+    "gn:latitude":36.46289,
+    "gn:longitude":73.35372,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ghinsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghainsil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450819
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c7cb61007fb538ccd94007e7ea8878da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1360204881,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1360204881,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1360204881,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360204881,
+    "wof:lastmodified":1537681917,
+    "wof:name":"Ghinsil",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35372,
+    36.46289,
+    73.35372,
+    36.46289
+],
+  "geometry": {"coordinates":[73.35372,36.46289],"type":"Point"}
+}

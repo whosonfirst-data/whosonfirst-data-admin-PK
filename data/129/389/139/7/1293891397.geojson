@@ -1,0 +1,67 @@
+{
+  "id": 1293891397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90589,30.8937,67.90589,30.8937",
+    "geom:latitude":30.8937,
+    "geom:longitude":67.90589,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zhowa",
+    "gn:country_code":"PK",
+    "gn:dem":1964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347570,
+    "gn:latitude":30.8937,
+    "gn:longitude":67.90589,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Zhowa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347570
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cde278cf720647cac8f3de6191bb2f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1293891397,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293891397,
+    "wof:lastmodified":1536702167,
+    "wof:name":"Zhowa",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90589,
+    30.8937,
+    67.90589,
+    30.8937
+],
+  "geometry": {"coordinates":[67.90589,30.8937],"type":"Point"}
+}

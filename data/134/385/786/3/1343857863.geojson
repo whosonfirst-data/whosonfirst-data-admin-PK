@@ -1,0 +1,70 @@
+{
+  "id": 1343857863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.04914,32.88945,74.04914,32.88945",
+    "geom:latitude":32.88945,
+    "geom:longitude":74.04914,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kherian",
+    "gn:country_code":"PK",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371640,
+    "gn:latitude":32.88945,
+    "gn:longitude":74.04914,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kherian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burli Khoirian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371640
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8cd3a865cc518be09d6191658857106",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1343857863,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343857863,
+    "wof:lastmodified":1537680591,
+    "wof:name":"Kherian",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.04914000000002,
+    32.88945,
+    74.04914000000002,
+    32.88945
+],
+  "geometry": {"coordinates":[74.04914000000002,32.88945],"type":"Point"}
+}

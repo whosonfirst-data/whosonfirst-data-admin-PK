@@ -1,0 +1,82 @@
+{
+  "id": 1343482701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93998,34.66103,73.93998,34.66103",
+    "geom:latitude":34.66103,
+    "geom:longitude":73.93998,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tikki Nilam",
+    "gn:country_code":"PK",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416117,
+    "gn:latitude":34.66103,
+    "gn:longitude":73.93998,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tikki Nilam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u012blam",
+        "Nilam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416117
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4e25f1f708296a2d80517afa5bbc90b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1343482701,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1343482701,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343482701,
+    "wof:lastmodified":1537681375,
+    "wof:name":"Tikki Nilam",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93998,
+    34.66103,
+    73.93998,
+    34.66103
+],
+  "geometry": {"coordinates":[73.93998000000001,34.66103],"type":"Point"}
+}

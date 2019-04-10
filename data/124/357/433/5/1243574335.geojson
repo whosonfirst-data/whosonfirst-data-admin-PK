@@ -1,0 +1,78 @@
+{
+  "id": 1243574335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.07447,35.32952,76.07447,35.32952",
+    "geom:latitude":35.32952,
+    "geom:longitude":76.07447,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Harzging Bransa",
+    "gn:country_code":"PK",
+    "gn:dem":4716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087782,
+    "gn:latitude":35.32952,
+    "gn:longitude":76.07447,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Harzging Bransa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087782
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4344ca6f0b7425d06694000f3c00c74f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1243574335,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1243574335,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243574335,
+    "wof:lastmodified":1536619182,
+    "wof:name":"Harzging Bransa",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.07446999999998,
+    35.32952,
+    76.07446999999998,
+    35.32952
+],
+  "geometry": {"coordinates":[76.07446999999998,35.32952],"type":"Point"}
+}

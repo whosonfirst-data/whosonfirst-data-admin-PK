@@ -1,0 +1,67 @@
+{
+  "id": 1209920933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10921,35.03503,72.10921,35.03503",
+    "geom:latitude":35.03503,
+    "geom:longitude":72.10921,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maskarai",
+    "gn:country_code":"PK",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605153,
+    "gn:latitude":35.03503,
+    "gn:longitude":72.10921,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Maskarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605153
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c4dad6240f4e7983128d6ee08d3b3c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1209920933,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209920933,
+    "wof:lastmodified":1543515630,
+    "wof:name":"Maskarai",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10921,
+    35.03503,
+    72.10921,
+    35.03503
+],
+  "geometry": {"coordinates":[72.10921,35.03503],"type":"Point"}
+}

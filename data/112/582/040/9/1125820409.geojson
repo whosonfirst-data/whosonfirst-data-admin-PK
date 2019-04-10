@@ -1,0 +1,78 @@
+{
+  "id": 1125820409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.92083,28.01944,67.92083,28.01944",
+    "geom:latitude":28.01944,
+    "geom:longitude":67.92083,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":2000,
+    "gn:population":2000,
+    "iso:country":"PK",
+    "lbl:latitude":28.01944,
+    "lbl:longitude":67.92083,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1410796,
+    "qs_pg:gn_pop":2000,
+    "qs_pg:name":"Chowki Jamali",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":3,
+    "qs_pg:qs_id":132745,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410796,
+        "qs_pg:id":132745
+    },
+    "wof:country":"PK",
+    "wof:created":1497292021,
+    "wof:geomhash":"34e499e740ad65affacbf0800d667928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1125820409,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1125820409,
+    "wof:lastmodified":1509394054,
+    "wof:name":"Chowki Jamali",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:population":2000,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.92083,
+    28.01944,
+    67.92083,
+    28.01944
+],
+  "geometry": {"coordinates":[67.92083,28.01944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209323741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12761,34.5748,71.12761,34.5748",
+    "geom:latitude":34.5748,
+    "geom:longitude":71.12761,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gulma",
+    "gn:country_code":"PK",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352902,
+    "gn:latitude":34.5748,
+    "gn:longitude":71.12761,
+    "gn:modification_date":"2012-11-22",
+    "gn:name":"Gulma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352902
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dbd26196ed07b13beeca0f26185eaace",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1209323741,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209323741,
+    "wof:lastmodified":1543515532,
+    "wof:name":"Gulma",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12761,
+    34.5748,
+    71.12761,
+    34.5748
+],
+  "geometry": {"coordinates":[71.12761,34.5748],"type":"Point"}
+}

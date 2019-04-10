@@ -1,0 +1,67 @@
+{
+  "id": 1226248297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.33333,32.23333,75.33333,32.23333",
+    "geom:latitude":32.23333,
+    "geom:longitude":75.33333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fatta",
+    "gn:country_code":"PK",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179283,
+    "gn:latitude":32.23333,
+    "gn:longitude":75.33333,
+    "gn:modification_date":"1996-05-08",
+    "gn:name":"Fatta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179283
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2d642cfd76d860c171c7488ca43e1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226248297,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226248297,
+    "wof:lastmodified":1536930630,
+    "wof:name":"Fatta",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.33333,
+    32.23333,
+    75.33333,
+    32.23333
+],
+  "geometry": {"coordinates":[75.33333,32.23333],"type":"Point"}
+}

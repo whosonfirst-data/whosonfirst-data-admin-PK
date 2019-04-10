@@ -1,0 +1,81 @@
+{
+  "id": 1209911343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8002,34.5167,73.8002,34.5167",
+    "geom:latitude":34.5167,
+    "geom:longitude":73.8002,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Satran",
+    "gn:country_code":"PK",
+    "gn:dem":2765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415957,
+    "gn:latitude":34.5167,
+    "gn:longitude":73.8002,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Satran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Par Baihk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415957
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4ef14f94fcc58560e0f6712d2bdc5d51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1209911343,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1209911343,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209911343,
+    "wof:lastmodified":1537681372,
+    "wof:name":"Satran",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8002,
+    34.5167,
+    73.8002,
+    34.5167
+],
+  "geometry": {"coordinates":[73.8002,34.5167],"type":"Point"}
+}

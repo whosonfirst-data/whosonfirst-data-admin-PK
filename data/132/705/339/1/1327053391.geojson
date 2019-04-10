@@ -1,0 +1,67 @@
+{
+  "id": 1327053391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.04642,30.25889,71.04642,30.25889",
+    "geom:latitude":30.25889,
+    "geom:longitude":71.04642,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Balol",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368162,
+    "gn:latitude":30.25889,
+    "gn:longitude":71.04642,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Balol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368162
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b3bc47705b8f7ddc016ca31942f19991",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1327053391,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327053391,
+    "wof:lastmodified":1536730476,
+    "wof:name":"Balol",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.04642,
+    30.25889,
+    71.04642,
+    30.25889
+],
+  "geometry": {"coordinates":[71.04642,30.25889],"type":"Point"}
+}

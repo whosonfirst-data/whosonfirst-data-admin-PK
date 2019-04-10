@@ -1,0 +1,81 @@
+{
+  "id": 1327120075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.50568,35.53176,74.50568,35.53176",
+    "geom:latitude":35.53176,
+    "geom:longitude":74.50568,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gorabad",
+    "gn:country_code":"PK",
+    "gn:dem":2406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178170,
+    "gn:latitude":35.53176,
+    "gn:longitude":74.50568,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Gorabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178170
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"37d53c16d721e8a33b08e067c954a1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327120075,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327120075,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327120075,
+    "wof:lastmodified":1537679739,
+    "wof:name":"Gorabad",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.50568,
+    35.53176,
+    74.50568,
+    35.53176
+],
+  "geometry": {"coordinates":[74.50568,35.53176],"type":"Point"}
+}

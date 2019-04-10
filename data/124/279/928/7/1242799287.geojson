@@ -1,0 +1,83 @@
+{
+  "id": 1242799287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88809,33.26877,73.88809,33.26877",
+    "geom:latitude":33.26877,
+    "geom:longitude":73.88809,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Palal Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168550,
+    "gn:latitude":33.26877,
+    "gn:longitude":73.88809,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Palal Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pal\u0101hal",
+        "Pal\u0101hal Khurd",
+        "Palal Khurd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168550
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d3fd75b7cca82eb068fa279ac9d9bbf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1242799287,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1242799287,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242799287,
+    "wof:lastmodified":1537679400,
+    "wof:name":"Palal Khurd",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88809,
+    33.26877,
+    73.88809,
+    33.26877
+],
+  "geometry": {"coordinates":[73.88809000000001,33.26877],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343950057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61825,34.42985,73.61825,34.42985",
+    "geom:latitude":34.42985,
+    "geom:longitude":73.61825,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nakka Palani",
+    "gn:country_code":"PK",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385612,
+    "gn:latitude":34.42985,
+    "gn:longitude":73.61825,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nakka Palani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385612
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f3bbe5fdb2d9bd6c1239d165d4e015cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1343950057,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1343950057,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343950057,
+    "wof:lastmodified":1537033622,
+    "wof:name":"Nakka Palani",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61825,
+    34.42985,
+    73.61825,
+    34.42985
+],
+  "geometry": {"coordinates":[73.61825,34.42985],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209314057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.55167,32.54743,74.55167,32.54743",
+    "geom:latitude":32.54743,
+    "geom:longitude":74.55167,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khichian",
+    "gn:country_code":"PK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371965,
+    "gn:latitude":32.54743,
+    "gn:longitude":74.55167,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khichian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahimpur",
+        "Khich\u012b\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371965
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"64dd036b10341771ff3d0bb346ba82fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314057
+        }
+    ],
+    "wof:id":1209314057,
+    "wof:lastmodified":1537680599,
+    "wof:name":"Khichian",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.55167,
+    32.54743,
+    74.55167,
+    32.54743
+],
+  "geometry": {"coordinates":[74.55167,32.54743],"type":"Point"}
+}

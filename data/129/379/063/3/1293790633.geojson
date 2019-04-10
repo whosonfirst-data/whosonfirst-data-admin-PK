@@ -1,0 +1,67 @@
+{
+  "id": 1293790633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14599,35.64566,73.14599,35.64566",
+    "geom:latitude":35.64566,
+    "geom:longitude":73.14599,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dhaki",
+    "gn:country_code":"PK",
+    "gn:dem":3548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000386,
+    "gn:latitude":35.64566,
+    "gn:longitude":73.14599,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dhaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000386
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2ab6230ebff0b58f218a46ecf1e2d4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1293790633,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293790633,
+    "wof:lastmodified":1536845943,
+    "wof:name":"Dhaki",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14599,
+    35.64566,
+    73.14599,
+    35.64566
+],
+  "geometry": {"coordinates":[73.14599,35.64566],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326632169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.89305,31.0503,69.89305,31.0503",
+    "geom:latitude":31.0503,
+    "geom:longitude":69.89305,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tor Ghundai",
+    "gn:country_code":"PK",
+    "gn:dem":1205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11268207,
+    "gn:latitude":31.0503,
+    "gn:longitude":69.89305,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Tor Ghundai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11268207
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9c1ad6bcbc1402b9b822441e27b122ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1326632169,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326632169,
+    "wof:lastmodified":1536838862,
+    "wof:name":"Tor Ghundai",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.89305,
+    31.0503,
+    69.89305,
+    31.0503
+],
+  "geometry": {"coordinates":[69.89305,31.0503],"type":"Point"}
+}

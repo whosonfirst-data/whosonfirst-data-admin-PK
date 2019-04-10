@@ -1,0 +1,64 @@
+{
+  "id": 1209620585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9051,29.78256,70.9051,29.78256",
+    "geom:latitude":29.78256,
+    "geom:longitude":70.9051,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Naiwala",
+    "gn:country_code":"PK",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392761,
+    "gn:latitude":29.78256,
+    "gn:longitude":70.9051,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Naiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101iw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392761
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f208755881d05f2af2f3815363378e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209620585
+        }
+    ],
+    "wof:id":1209620585,
+    "wof:lastmodified":1537681017,
+    "wof:name":"Naiwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9051,
+    29.78256,
+    70.9051,
+    29.78256
+],
+  "geometry": {"coordinates":[70.9051,29.78256],"type":"Point"}
+}

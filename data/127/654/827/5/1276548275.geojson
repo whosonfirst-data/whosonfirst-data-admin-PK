@@ -1,0 +1,67 @@
+{
+  "id": 1276548275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75407,35.4207,71.75407,35.4207",
+    "geom:latitude":35.4207,
+    "geom:longitude":71.75407,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kuchan",
+    "gn:country_code":"PK",
+    "gn:dem":1700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137971,
+    "gn:latitude":35.4207,
+    "gn:longitude":71.75407,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Kuchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137971
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aebf62785ad7afd6bb25ece2a718971a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1276548275,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276548275,
+    "wof:lastmodified":1536987185,
+    "wof:name":"Kuchan",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75407,
+    35.4207,
+    71.75407,
+    35.4207
+],
+  "geometry": {"coordinates":[71.75407,35.4207],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1310228005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.0876,32.15479,75.0876,32.15479",
+    "geom:latitude":32.15479,
+    "geom:longitude":75.0876,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sundarpur",
+    "gn:country_code":"PK",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164322,
+    "gn:latitude":32.15479,
+    "gn:longitude":75.0876,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sundarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunderpur",
+        "Sundarpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164322
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"24d65c45a9393e88ad844c80f3d26638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1310228005,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310228005,
+    "wof:lastmodified":1537679258,
+    "wof:name":"Sundarpur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.0876,
+    32.15479000000001,
+    75.0876,
+    32.15479000000001
+],
+  "geometry": {"coordinates":[75.08759999999999,32.15479000000001],"type":"Point"}
+}

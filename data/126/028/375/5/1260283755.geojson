@@ -1,0 +1,67 @@
+{
+  "id": 1260283755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.43524,31.95451,72.43524,31.95451",
+    "geom:latitude":31.95451,
+    "geom:longitude":72.43524,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chachoka",
+    "gn:country_code":"PK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181963,
+    "gn:latitude":31.95451,
+    "gn:longitude":72.43524,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Chachoka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181963
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"555717c31f016b9453264d899133e49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1260283755,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260283755,
+    "wof:lastmodified":1536711886,
+    "wof:name":"Chachoka",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.43524000000002,
+    31.95451,
+    72.43524000000002,
+    31.95451
+],
+  "geometry": {"coordinates":[72.43524000000002,31.95451],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326653243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.02705,30.64346,72.02705,30.64346",
+    "geom:latitude":30.64346,
+    "geom:longitude":72.02705,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Koranga",
+    "gn:country_code":"PK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173420,
+    "gn:latitude":30.64346,
+    "gn:longitude":72.02705,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Koranga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173420
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6f6ed80a2268696f6b3d80bfe000336f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1326653243,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326653243,
+    "wof:lastmodified":1536809191,
+    "wof:name":"Koranga",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.02705,
+    30.64346,
+    72.02705,
+    30.64346
+],
+  "geometry": {"coordinates":[72.02705,30.64346],"type":"Point"}
+}

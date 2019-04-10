@@ -1,0 +1,78 @@
+{
+  "id": 1193013209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97479,33.20495,73.97479,33.20495",
+    "geom:latitude":33.20495,
+    "geom:longitude":73.97479,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tandar",
+    "gn:country_code":"PK",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163972,
+    "gn:latitude":33.20495,
+    "gn:longitude":73.97479,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Tandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163972
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ff64bd73acf5b265fcc6d314a8a4c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193013209,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193013209,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193013209,
+    "wof:lastmodified":1536381296,
+    "wof:name":"Tandar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97479,
+    33.20495,
+    73.97479,
+    33.20495
+],
+  "geometry": {"coordinates":[73.97479,33.20495],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259786849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05917,33.99319,71.05917,33.99319",
+    "geom:latitude":33.99319,
+    "geom:longitude":71.05917,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"China",
+    "gn:country_code":"PK",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181113,
+    "gn:latitude":33.99319,
+    "gn:longitude":71.05917,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"China",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chira",
+        "China"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181113
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b24590645be8ad9fd936de5804dd8bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1259786849,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259786849,
+    "wof:lastmodified":1537679841,
+    "wof:name":"China",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05917,
+    33.99319000000001,
+    71.05917,
+    33.99319000000001
+],
+  "geometry": {"coordinates":[71.05916999999999,33.99319000000001],"type":"Point"}
+}

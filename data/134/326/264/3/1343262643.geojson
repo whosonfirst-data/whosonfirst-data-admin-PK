@@ -1,0 +1,67 @@
+{
+  "id": 1343262643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.80339,34.92343,72.80339,34.92343",
+    "geom:latitude":34.92343,
+    "geom:longitude":72.80339,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Jabrai",
+    "gn:country_code":"PK",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378223,
+    "gn:latitude":34.92343,
+    "gn:longitude":72.80339,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Jabrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378223
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c0ea99d01c1c76ed99ff9fa08871603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1343262643,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343262643,
+    "wof:lastmodified":1537030428,
+    "wof:name":"Jabrai",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.80339000000002,
+    34.92343,
+    72.80339000000002,
+    34.92343
+],
+  "geometry": {"coordinates":[72.80339000000002,34.92343],"type":"Point"}
+}

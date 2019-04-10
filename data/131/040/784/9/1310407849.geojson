@@ -1,0 +1,67 @@
+{
+  "id": 1310407849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14339,30.95239,70.14339,30.95239",
+    "geom:latitude":30.95239,
+    "geom:longitude":70.14339,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bar Kuhai",
+    "gn:country_code":"PK",
+    "gn:dem":983,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11336170,
+    "gn:latitude":30.95239,
+    "gn:longitude":70.14339,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Bar Kuhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11336170
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2b5bf91773b7c2564d1c54bedebce124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1310407849,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310407849,
+    "wof:lastmodified":1537055485,
+    "wof:name":"Bar Kuhai",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14339,
+    30.95239,
+    70.14339,
+    30.95239
+],
+  "geometry": {"coordinates":[70.14339,30.95239],"type":"Point"}
+}

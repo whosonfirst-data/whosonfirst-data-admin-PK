@@ -1,0 +1,67 @@
+{
+  "id": 1326835531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.44678,29.29937,70.44678,29.29937",
+    "geom:latitude":29.29937,
+    "geom:longitude":70.44678,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sarkiwala",
+    "gn:country_code":"PK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1408598,
+    "gn:latitude":29.29937,
+    "gn:longitude":70.44678,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sarkiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1408598
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"72672f21d300f93496506c4b01b03c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1326835531,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326835531,
+    "wof:lastmodified":1537042205,
+    "wof:name":"Sarkiwala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.44678,
+    29.29937,
+    70.44678,
+    29.29937
+],
+  "geometry": {"coordinates":[70.44678,29.29937],"type":"Point"}
+}

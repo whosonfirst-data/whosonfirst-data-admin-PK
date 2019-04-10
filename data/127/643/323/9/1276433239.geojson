@@ -1,0 +1,82 @@
+{
+  "id": 1276433239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.51944,34.99722,74.51944,34.99722",
+    "geom:latitude":34.99722,
+    "geom:longitude":74.51944,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maidanwali",
+    "gn:country_code":"PK",
+    "gn:dem":3353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412647,
+    "gn:latitude":34.99722,
+    "gn:longitude":74.51944,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Maidanwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maidan Wali Baihk",
+        "Maidanwali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412647
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"758c35a156e341379a2a460d76c402f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1276433239,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1276433239,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276433239,
+    "wof:lastmodified":1537681297,
+    "wof:name":"Maidanwali",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.51944,
+    34.99722,
+    74.51944,
+    34.99722
+],
+  "geometry": {"coordinates":[74.51944,34.99722],"type":"Point"}
+}

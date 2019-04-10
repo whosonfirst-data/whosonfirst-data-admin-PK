@@ -1,0 +1,67 @@
+{
+  "id": 1293487297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88009,28.95253,70.88009,28.95253",
+    "geom:latitude":28.95253,
+    "geom:longitude":70.88009,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Allahabad",
+    "gn:country_code":"PK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184620,
+    "gn:latitude":28.95253,
+    "gn:longitude":70.88009,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Allahabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184620
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60f21ad8afa80595cd2de286583e7879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1293487297,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293487297,
+    "wof:lastmodified":1536787778,
+    "wof:name":"Allahabad",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88009,
+    28.95253,
+    70.88009,
+    28.95253
+],
+  "geometry": {"coordinates":[70.88009,28.95253],"type":"Point"}
+}

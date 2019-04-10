@@ -1,0 +1,78 @@
+{
+  "id": 1259669499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.39458,35.65546,75.39458,35.65546",
+    "geom:latitude":35.65546,
+    "geom:longitude":75.39458,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yohozed Brok",
+    "gn:country_code":"PK",
+    "gn:dem":4060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070807,
+    "gn:latitude":35.65546,
+    "gn:longitude":75.39458,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Yohozed Brok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070807
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc776a8922e13ecfdad1bdf682b61f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1259669499,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1259669499,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259669499,
+    "wof:lastmodified":1537084024,
+    "wof:name":"Yohozed Brok",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.39458,
+    35.65546,
+    75.39458,
+    35.65546
+],
+  "geometry": {"coordinates":[75.39458,35.65546],"type":"Point"}
+}

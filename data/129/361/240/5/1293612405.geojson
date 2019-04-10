@@ -1,0 +1,67 @@
+{
+  "id": 1293612405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.2309,29.71013,71.2309,29.71013",
+    "geom:latitude":29.71013,
+    "geom:longitude":71.2309,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Panjani",
+    "gn:country_code":"PK",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168461,
+    "gn:latitude":29.71013,
+    "gn:longitude":71.2309,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Panjani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168461
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a6240289b4c1123a6069ce0e7553fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1293612405,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293612405,
+    "wof:lastmodified":1536604020,
+    "wof:name":"Panjani",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.2309,
+    29.71013,
+    71.2309,
+    29.71013
+],
+  "geometry": {"coordinates":[71.23090000000001,29.71013],"type":"Point"}
+}

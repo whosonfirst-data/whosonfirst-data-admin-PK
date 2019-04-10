@@ -1,0 +1,67 @@
+{
+  "id": 1225848477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.33418,32.79131,70.33418,32.79131",
+    "geom:latitude":32.79131,
+    "geom:longitude":70.33418,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tauda China",
+    "gn:country_code":"PK",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339223,
+    "gn:latitude":32.79131,
+    "gn:longitude":70.33418,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Tauda China",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339223
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"89ddadc9404403e97aa4598343d3edf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692173,
+            "locality_id":1225848477,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225848477,
+    "wof:lastmodified":1543515488,
+    "wof:name":"Tauda China",
+    "wof:parent_id":1108692173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.33418,
+    32.79131,
+    70.33418,
+    32.79131
+],
+  "geometry": {"coordinates":[70.33418,32.79131],"type":"Point"}
+}

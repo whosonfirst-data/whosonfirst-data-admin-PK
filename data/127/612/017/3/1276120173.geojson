@@ -1,0 +1,67 @@
+{
+  "id": 1276120173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.12478,28.29612,66.12478,28.29612",
+    "geom:latitude":28.29612,
+    "geom:longitude":66.12478,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chad",
+    "gn:country_code":"PK",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181958,
+    "gn:latitude":28.29612,
+    "gn:longitude":66.12478,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Chad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181958
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b71ebad3cec85ff11216ca4c87d1405c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1276120173,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276120173,
+    "wof:lastmodified":1537061477,
+    "wof:name":"Chad",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.12478,
+    28.29612,
+    66.12478,
+    28.29612
+],
+  "geometry": {"coordinates":[66.12478,28.29612],"type":"Point"}
+}

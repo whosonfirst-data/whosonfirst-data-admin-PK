@@ -1,0 +1,72 @@
+{
+  "id": 1226242343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07453,29.95069,73.07453,29.95069",
+    "geom:latitude":29.95069,
+    "geom:longitude":73.07453,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Phuganwala",
+    "gn:country_code":"PK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181704,
+    "gn:latitude":29.95069,
+    "gn:longitude":73.07453,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Chak Phuganwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phoganwala",
+        "Chak Phog\u0101nw\u0101la",
+        "Chak Phuganwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181704
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba2d8b6cec6a9ff751bf353d834ab675",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1226242343,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226242343,
+    "wof:lastmodified":1537679864,
+    "wof:name":"Chak Phuganwala",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07453000000002,
+    29.95069,
+    73.07453000000002,
+    29.95069
+],
+  "geometry": {"coordinates":[73.07453000000002,29.95069],"type":"Point"}
+}

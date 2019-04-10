@@ -1,0 +1,86 @@
+{
+  "id": 1242958987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35963,36.34006,73.35963,36.34006",
+    "geom:latitude":36.34006,
+    "geom:longitude":73.35963,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Murkha",
+    "gn:country_code":"PK",
+    "gn:dem":2334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450873,
+    "gn:latitude":36.34006,
+    "gn:longitude":73.35963,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Murkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450873
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c1f228982e5a014202b57c18efa9bff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1242958987,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1242958987,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1242958987,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242958987,
+    "wof:lastmodified":1537010692,
+    "wof:name":"Murkha",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35963000000002,
+    36.34006,
+    73.35963000000002,
+    36.34006
+],
+  "geometry": {"coordinates":[73.35963000000002,36.34006],"type":"Point"}
+}

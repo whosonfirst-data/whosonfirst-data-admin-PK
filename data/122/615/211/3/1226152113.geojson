@@ -1,0 +1,67 @@
+{
+  "id": 1226152113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61205,33.13313,70.61205,33.13313",
+    "geom:latitude":33.13313,
+    "geom:longitude":70.61205,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"China Ziarat",
+    "gn:country_code":"PK",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335906,
+    "gn:latitude":33.13313,
+    "gn:longitude":70.61205,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"China Ziarat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"47503bc873d7f87d6729b3cc6a1093b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692173,
+            "locality_id":1226152113,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226152113,
+    "wof:lastmodified":1537065544,
+    "wof:name":"China Ziarat",
+    "wof:parent_id":1108692173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61205,
+    33.13313,
+    70.61205,
+    33.13313
+],
+  "geometry": {"coordinates":[70.61205,33.13313],"type":"Point"}
+}

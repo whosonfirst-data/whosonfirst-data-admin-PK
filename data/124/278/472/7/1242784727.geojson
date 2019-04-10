@@ -1,0 +1,70 @@
+{
+  "id": 1242784727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.505,34.69032,73.505,34.69032",
+    "geom:latitude":34.69032,
+    "geom:longitude":73.505,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kithar",
+    "gn:country_code":"PK",
+    "gn:dem":2362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385222,
+    "gn:latitude":34.69032,
+    "gn:longitude":73.505,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kithar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khetar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385222
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6bdc76fd289bfca513dd36496b88953a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242784727,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242784727,
+    "wof:lastmodified":1543515559,
+    "wof:name":"Kithar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.505,
+    34.69032,
+    73.505,
+    34.69032
+],
+  "geometry": {"coordinates":[73.505,34.69032],"type":"Point"}
+}

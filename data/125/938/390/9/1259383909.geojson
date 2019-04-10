@@ -1,0 +1,67 @@
+{
+  "id": 1259383909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08377,33.53876,71.08377,33.53876",
+    "geom:latitude":33.53876,
+    "geom:longitude":71.08377,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kharsha",
+    "gn:country_code":"PK",
+    "gn:dem":797,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446932,
+    "gn:latitude":33.53876,
+    "gn:longitude":71.08377,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Kharsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446932
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b15a5d463083de9217d610a7c0138ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692203,
+            "locality_id":1259383909,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259383909,
+    "wof:lastmodified":1537000900,
+    "wof:name":"Kharsha",
+    "wof:parent_id":1108692203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08377,
+    33.53876,
+    71.08377,
+    33.53876
+],
+  "geometry": {"coordinates":[71.08377,33.53876],"type":"Point"}
+}

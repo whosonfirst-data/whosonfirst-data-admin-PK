@@ -1,0 +1,67 @@
+{
+  "id": 1310211789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91309,35.59703,72.91309,35.59703",
+    "geom:latitude":35.59703,
+    "geom:longitude":72.91309,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baro",
+    "gn:country_code":"PK",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023795,
+    "gn:latitude":35.59703,
+    "gn:longitude":72.91309,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Baro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023795
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d0b259592209f64bea831bba232cba93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310211789,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310211789,
+    "wof:lastmodified":1536842094,
+    "wof:name":"Baro",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91309,
+    35.59703,
+    72.91309,
+    35.59703
+],
+  "geometry": {"coordinates":[72.91309,35.59703],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209438043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23794,30.21902,70.23794,30.21902",
+    "geom:latitude":30.21902,
+    "geom:longitude":70.23794,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Heri",
+    "gn:country_code":"PK",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090843,
+    "gn:latitude":30.21902,
+    "gn:longitude":70.23794,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Heri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Heri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090843
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ac39d1f35936918933eb8b4071b17649",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209438043
+        }
+    ],
+    "wof:id":1209438043,
+    "wof:lastmodified":1537681672,
+    "wof:name":"Heri",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23794000000001,
+    30.21902,
+    70.23794000000001,
+    30.21902
+],
+  "geometry": {"coordinates":[70.23794000000001,30.21902],"type":"Point"}
+}

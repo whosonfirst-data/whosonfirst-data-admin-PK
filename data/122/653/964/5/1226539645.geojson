@@ -1,0 +1,67 @@
+{
+  "id": 1226539645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26825,33.16472,73.26825,33.16472",
+    "geom:latitude":33.16472,
+    "geom:longitude":73.26825,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chhina",
+    "gn:country_code":"PK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379575,
+    "gn:latitude":33.16472,
+    "gn:longitude":73.26825,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chhina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379575
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b5c108f433277febec41957c70a003ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1226539645,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226539645,
+    "wof:lastmodified":1537006124,
+    "wof:name":"Chhina",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26825,
+    33.16472,
+    73.26825,
+    33.16472
+],
+  "geometry": {"coordinates":[73.26824999999999,33.16472],"type":"Point"}
+}

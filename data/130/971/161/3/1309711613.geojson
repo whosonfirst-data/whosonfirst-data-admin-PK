@@ -1,0 +1,78 @@
+{
+  "id": 1309711613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56461,33.91484,73.56461,33.91484",
+    "geom:latitude":33.91484,
+    "geom:longitude":73.56461,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Barian",
+    "gn:country_code":"PK",
+    "gn:dem":658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098656,
+    "gn:latitude":33.91484,
+    "gn:longitude":73.56461,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Barian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098656
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d8de76fb2d316818452b1d632095298d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1309711613,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1309711613,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309711613,
+    "wof:lastmodified":1537064075,
+    "wof:name":"Barian",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56461,
+    33.91484000000001,
+    73.56461,
+    33.91484000000001
+],
+  "geometry": {"coordinates":[73.56461,33.91484000000001],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209327123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.44307,27.30593,66.44307,27.30593",
+    "geom:latitude":27.30593,
+    "geom:longitude":66.44307,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kili Khuda Bakhsh",
+    "gn:country_code":"PK",
+    "gn:dem":1274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11245375,
+    "gn:latitude":27.30593,
+    "gn:longitude":66.44307,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Kili Khuda Bakhsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11245375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c063218972c3c462c474bee0f1c5d327",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209327123
+        }
+    ],
+    "wof:id":1209327123,
+    "wof:lastmodified":1536290496,
+    "wof:name":"Kili Khuda Bakhsh",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.44306999999999,
+    27.30593,
+    66.44306999999999,
+    27.30593
+],
+  "geometry": {"coordinates":[66.44306999999999,27.30593],"type":"Point"}
+}

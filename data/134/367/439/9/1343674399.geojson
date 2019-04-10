@@ -1,0 +1,67 @@
+{
+  "id": 1343674399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.7947,26.9416,64.7947,26.9416",
+    "geom:latitude":26.9416,
+    "geom:longitude":64.7947,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garkal",
+    "gn:country_code":"PK",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7571500,
+    "gn:latitude":26.9416,
+    "gn:longitude":64.7947,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Garkal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7571500
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c85a1fd8d6791880f87b2ae95d4568b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1343674399,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343674399,
+    "wof:lastmodified":1536935657,
+    "wof:name":"Garkal",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.7947,
+    26.9416,
+    64.7947,
+    26.9416
+],
+  "geometry": {"coordinates":[64.79470000000001,26.9416],"type":"Point"}
+}

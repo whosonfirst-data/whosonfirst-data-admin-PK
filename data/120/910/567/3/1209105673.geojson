@@ -1,0 +1,64 @@
+{
+  "id": 1209105673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.07213,31.49095,74.07213,31.49095",
+    "geom:latitude":31.49095,
+    "geom:longitude":74.07213,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kakripur",
+    "gn:country_code":"PK",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330741,
+    "gn:latitude":31.49095,
+    "gn:longitude":74.07213,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kakripur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kukripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330741
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f22c4d223922397bbea1593bf7275aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209105673
+        }
+    ],
+    "wof:id":1209105673,
+    "wof:lastmodified":1537680017,
+    "wof:name":"Kakripur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.07213,
+    31.49095,
+    74.07213,
+    31.49095
+],
+  "geometry": {"coordinates":[74.07213,31.49095],"type":"Point"}
+}

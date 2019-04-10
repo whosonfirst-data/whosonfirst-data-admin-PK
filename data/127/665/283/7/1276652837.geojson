@@ -1,0 +1,81 @@
+{
+  "id": 1276652837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.69519,35.47963,75.69519,35.47963",
+    "geom:latitude":35.47963,
+    "geom:longitude":75.69519,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sahoqpa",
+    "gn:country_code":"PK",
+    "gn:dem":2290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419534,
+    "gn:latitude":35.47963,
+    "gn:longitude":75.69519,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Sahoqpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chokpogron"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419534
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa688736f223595be0c2b4dd25c1bb56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276652837,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276652837,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276652837,
+    "wof:lastmodified":1537681901,
+    "wof:name":"Sahoqpa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.69519,
+    35.47963,
+    75.69519,
+    35.47963
+],
+  "geometry": {"coordinates":[75.69519,35.47963],"type":"Point"}
+}

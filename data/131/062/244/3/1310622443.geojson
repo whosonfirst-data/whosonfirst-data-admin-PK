@@ -1,0 +1,81 @@
+{
+  "id": 1310622443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08297,33.10519,74.08297,33.10519",
+    "geom:latitude":33.10519,
+    "geom:longitude":74.08297,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gura Tailian",
+    "gn:country_code":"PK",
+    "gn:dem":670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415390,
+    "gn:latitude":33.10519,
+    "gn:longitude":74.08297,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gura Tailian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Th\u0101ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415390
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ff407d4d1d3cbf66c2c74a434259fc2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310622443,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310622443,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310622443,
+    "wof:lastmodified":1537681361,
+    "wof:name":"Gura Tailian",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08296999999997,
+    33.10519,
+    74.08296999999997,
+    33.10519
+],
+  "geometry": {"coordinates":[74.08296999999997,33.10519],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 421170779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76597,33.32741,73.76597,33.32741",
+    "geom:latitude":33.32741,
+    "geom:longitude":73.76597,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fra_x_preferred":[
+        "Palak"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u06a9\u060c \u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1386270,
+    "qs:gn_pop":0,
+    "qs:name":"Palak",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Azad Kashmir",
+    "qs:photos":2,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":2,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1197275,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":22722969,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":582,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386270,
+        "gp:id":22722969,
+        "qs:id":1197275,
+        "wd:id":"Q7126626"
+    },
+    "wof:country":"PK",
+    "wof:created":1459008867,
+    "wof:geomhash":"dbe0f0410690bbb57ffa0ba9eb11cd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":421170779,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":421170779,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":421170779,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":421170779,
+    "wof:lastmodified":1533678758,
+    "wof:name":"Palak",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76597,
+    33.32741,
+    73.76597,
+    33.32741
+],
+  "geometry": {"coordinates":[73.76597,33.32741],"type":"Point"}
+}

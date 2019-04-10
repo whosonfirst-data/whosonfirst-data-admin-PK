@@ -1,0 +1,67 @@
+{
+  "id": 1327240679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12566,32.3262,70.12566,32.3262",
+    "geom:latitude":32.3262,
+    "geom:longitude":70.12566,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kirri",
+    "gn:country_code":"PK",
+    "gn:dem":686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10430692,
+    "gn:latitude":32.3262,
+    "gn:longitude":70.12566,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Kirri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10430692
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31a7ab55c3dfbb6f0cce8a0cf7fae273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692183,
+            "locality_id":1327240679,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1327240679,
+    "wof:lastmodified":1536957516,
+    "wof:name":"Kirri",
+    "wof:parent_id":1108692183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12566,
+    32.3262,
+    70.12566,
+    32.3262
+],
+  "geometry": {"coordinates":[70.12566,32.3262],"type":"Point"}
+}

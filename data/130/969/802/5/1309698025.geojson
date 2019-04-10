@@ -1,0 +1,78 @@
+{
+  "id": 1309698025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.11025,36.1562,75.11025,36.1562",
+    "geom:latitude":36.1562,
+    "geom:longitude":75.11025,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Daltanas",
+    "gn:country_code":"PK",
+    "gn:dem":3990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7449750,
+    "gn:latitude":36.1562,
+    "gn:longitude":75.11025,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Daltanas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7449750
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b87b1017ecbe799d7648b35221dcf457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1309698025,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1309698025,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309698025,
+    "wof:lastmodified":1537083364,
+    "wof:name":"Daltanas",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.11025,
+    36.1562,
+    75.11025,
+    36.1562
+],
+  "geometry": {"coordinates":[75.11024999999999,36.1562],"type":"Point"}
+}

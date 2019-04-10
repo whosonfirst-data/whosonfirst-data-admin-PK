@@ -1,0 +1,67 @@
+{
+  "id": 1326830861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13953,34.416,73.13953,34.416",
+    "geom:latitude":34.416,
+    "geom:longitude":73.13953,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sirori",
+    "gn:country_code":"PK",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390258,
+    "gn:latitude":34.416,
+    "gn:longitude":73.13953,
+    "gn:modification_date":"2009-09-15",
+    "gn:name":"Sirori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390258
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"026e7595e9f5040986d115d1f0ce57c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1326830861,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326830861,
+    "wof:lastmodified":1537048690,
+    "wof:name":"Sirori",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13953000000002,
+    34.416,
+    73.13953000000002,
+    34.416
+],
+  "geometry": {"coordinates":[73.13953000000002,34.416],"type":"Point"}
+}

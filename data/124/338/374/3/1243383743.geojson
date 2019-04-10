@@ -1,0 +1,86 @@
+{
+  "id": 1243383743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.66384,35.93676,73.66384,35.93676",
+    "geom:latitude":35.93676,
+    "geom:longitude":73.66384,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Taj Muhammad di Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":3703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000044,
+    "gn:latitude":35.93676,
+    "gn:longitude":73.66384,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Taj Muhammad di Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000044
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7107c73ab574ea4cf712a1547e5f4a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1243383743,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1243383743,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1243383743,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243383743,
+    "wof:lastmodified":1536895870,
+    "wof:name":"Taj Muhammad di Baihk",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.66384000000002,
+    35.93676,
+    73.66384000000002,
+    35.93676
+],
+  "geometry": {"coordinates":[73.66384000000002,35.93676],"type":"Point"}
+}

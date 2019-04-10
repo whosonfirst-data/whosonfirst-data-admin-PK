@@ -1,0 +1,86 @@
+{
+  "id": 1226239847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64212,33.65434,73.64212,33.65434",
+    "geom:latitude":33.65434,
+    "geom:longitude":73.64212,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nandi",
+    "gn:country_code":"PK",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100360,
+    "gn:latitude":33.65434,
+    "gn:longitude":73.64212,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Nandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100360
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5c47b4f94c4d892906768dc97b8ee0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1226239847,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226239847,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226239847,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226239847,
+    "wof:lastmodified":1536942713,
+    "wof:name":"Nandi",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64211999999998,
+    33.65434,
+    73.64211999999998,
+    33.65434
+],
+  "geometry": {"coordinates":[73.64211999999998,33.65434],"type":"Point"}
+}

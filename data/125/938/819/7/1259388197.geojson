@@ -1,0 +1,67 @@
+{
+  "id": 1259388197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.18056,29.75,72.18056,29.75",
+    "geom:latitude":29.75,
+    "geom:longitude":72.18056,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nagarkot",
+    "gn:country_code":"PK",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383066,
+    "gn:latitude":29.75,
+    "gn:longitude":72.18056,
+    "gn:modification_date":"2001-10-09",
+    "gn:name":"Nagarkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383066
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e64f01e48b79d069bf532a296c52fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1259388197,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259388197,
+    "wof:lastmodified":1536994601,
+    "wof:name":"Nagarkot",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.18056,
+    29.75,
+    72.18056,
+    29.75
+],
+  "geometry": {"coordinates":[72.18056,29.75],"type":"Point"}
+}

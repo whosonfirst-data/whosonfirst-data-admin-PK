@@ -1,0 +1,86 @@
+{
+  "id": 1343753831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.68412,33.20111,73.68412,33.20111",
+    "geom:latitude":33.20111,
+    "geom:longitude":73.68412,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mohra Gulpera",
+    "gn:country_code":"PK",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7101476,
+    "gn:latitude":33.20111,
+    "gn:longitude":73.68412,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Mohra Gulpera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101476
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"245061951711681921d42c4fbcf06576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1343753831,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1343753831,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1343753831,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343753831,
+    "wof:lastmodified":1536819646,
+    "wof:name":"Mohra Gulpera",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.68412,
+    33.20111,
+    73.68412,
+    33.20111
+],
+  "geometry": {"coordinates":[73.68411999999999,33.20111],"type":"Point"}
+}

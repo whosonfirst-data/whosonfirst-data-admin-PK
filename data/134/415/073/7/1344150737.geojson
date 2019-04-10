@@ -1,0 +1,78 @@
+{
+  "id": 1344150737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.33087,36.28316,74.33087,36.28316",
+    "geom:latitude":36.28316,
+    "geom:longitude":74.33087,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Budelas",
+    "gn:country_code":"PK",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427830,
+    "gn:latitude":36.28316,
+    "gn:longitude":74.33087,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Budelas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427830
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f7cf5ba377d62289c7376f87010bea54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1344150737,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1344150737,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1344150737,
+    "wof:lastmodified":1536745022,
+    "wof:name":"Budelas",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.33086999999998,
+    36.28316,
+    74.33086999999998,
+    36.28316
+],
+  "geometry": {"coordinates":[74.33086999999998,36.28316],"type":"Point"}
+}

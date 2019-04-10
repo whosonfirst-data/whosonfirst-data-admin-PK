@@ -1,0 +1,81 @@
+{
+  "id": 1343353521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15441,33.08445,74.15441,33.08445",
+    "geom:latitude":33.08445,
+    "geom:longitude":74.15441,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gai",
+    "gn:country_code":"PK",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415386,
+    "gn:latitude":33.08445,
+    "gn:longitude":74.15441,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415386
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b7cd5ed1c900fc6117a9c0ccc00a78c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343353521,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343353521,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343353521,
+    "wof:lastmodified":1537681361,
+    "wof:name":"Gai",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15441,
+    33.08445,
+    74.15441,
+    33.08445
+],
+  "geometry": {"coordinates":[74.15441,33.08445],"type":"Point"}
+}

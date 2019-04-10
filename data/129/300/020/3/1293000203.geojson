@@ -1,0 +1,67 @@
+{
+  "id": 1293000203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.21238,32.34409,75.21238,32.34409",
+    "geom:latitude":32.34409,
+    "geom:longitude":75.21238,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chhamal",
+    "gn:country_code":"PK",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181292,
+    "gn:latitude":32.34409,
+    "gn:longitude":75.21238,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Chhamal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181292
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"79f356115d5b366ac3afa99f6d3c1e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1293000203,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293000203,
+    "wof:lastmodified":1536991705,
+    "wof:name":"Chhamal",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.21238000000002,
+    32.34409,
+    75.21238000000002,
+    32.34409
+],
+  "geometry": {"coordinates":[75.21238000000002,32.34409],"type":"Point"}
+}

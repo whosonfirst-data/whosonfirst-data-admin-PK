@@ -1,0 +1,67 @@
+{
+  "id": 1225949603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20878,32.11318,72.20878,32.11318",
+    "geom:latitude":32.11318,
+    "geom:longitude":72.20878,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sem Pul",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022775,
+    "gn:latitude":32.11318,
+    "gn:longitude":72.20878,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Sem Pul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022775
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"301a528442a56c16e7ea3e4a792d6f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1225949603,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225949603,
+    "wof:lastmodified":1536862304,
+    "wof:name":"Sem Pul",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20878,
+    32.11318,
+    72.20878,
+    32.11318
+],
+  "geometry": {"coordinates":[72.20878,32.11318],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1326935605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.33966,29.57639,70.33966,29.57639",
+    "geom:latitude":29.57639,
+    "geom:longitude":70.33966,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Waddi Basti",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1402823,
+    "gn:latitude":29.57639,
+    "gn:longitude":70.33966,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Waddi Basti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basti H\u0101du",
+        "Basti K\u0101du",
+        "Basti Malikw\u0101li",
+        "Waddi Basti",
+        "Basti Allu",
+        "Malikw\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1402823
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61d201800125801588fe113fdafa53df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1326935605,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326935605,
+    "wof:lastmodified":1537681134,
+    "wof:name":"Waddi Basti",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.33966,
+    29.57639,
+    70.33966,
+    29.57639
+],
+  "geometry": {"coordinates":[70.33965999999999,29.57639],"type":"Point"}
+}

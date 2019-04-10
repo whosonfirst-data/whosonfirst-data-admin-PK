@@ -1,0 +1,78 @@
+{
+  "id": 1310693367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.62018,34.09539,73.62018,34.09539",
+    "geom:latitude":34.09539,
+    "geom:longitude":73.62018,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rhidot",
+    "gn:country_code":"PK",
+    "gn:dem":1551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379265,
+    "gn:latitude":34.09539,
+    "gn:longitude":73.62018,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Rhidot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379265
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"673282952d8510548a44619075697e25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310693367,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310693367,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310693367,
+    "wof:lastmodified":1536645379,
+    "wof:name":"Rhidot",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.62018,
+    34.09539,
+    73.62018,
+    34.09539
+],
+  "geometry": {"coordinates":[73.62018,34.09539],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343763253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34347,33.96718,73.34347,33.96718",
+    "geom:latitude":33.96718,
+    "geom:longitude":73.34347,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sir",
+    "gn:country_code":"PK",
+    "gn:dem":1584,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11473225,
+    "gn:latitude":33.96718,
+    "gn:longitude":73.34347,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Sir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11473225
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c346d6119d4c04be7065c87a47d93258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1343763253,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343763253,
+    "wof:lastmodified":1536806667,
+    "wof:name":"Sir",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34347,
+    33.96718,
+    73.34347,
+    33.96718
+],
+  "geometry": {"coordinates":[73.34347,33.96718],"type":"Point"}
+}

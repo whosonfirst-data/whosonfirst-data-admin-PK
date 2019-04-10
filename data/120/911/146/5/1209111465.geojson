@@ -1,0 +1,64 @@
+{
+  "id": 1209111465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.54311,32.43964,74.54311,32.43964",
+    "geom:latitude":32.43964,
+    "geom:longitude":74.54311,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kishanpur",
+    "gn:country_code":"PK",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381458,
+    "gn:latitude":32.43964,
+    "gn:longitude":74.54311,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kishanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kishangarh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381458
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b0768ec64c9a5baada13e7485d7d9f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209111465
+        }
+    ],
+    "wof:id":1209111465,
+    "wof:lastmodified":1537680744,
+    "wof:name":"Kishanpur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.54311,
+    32.43964,
+    74.54311,
+    32.43964
+],
+  "geometry": {"coordinates":[74.54311,32.43964],"type":"Point"}
+}

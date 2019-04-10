@@ -1,0 +1,67 @@
+{
+  "id": 1293493161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06527,32.83102,73.06527,32.83102",
+    "geom:latitude":32.83102,
+    "geom:longitude":73.06527,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok Kahut",
+    "gn:country_code":"PK",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11442429,
+    "gn:latitude":32.83102,
+    "gn:longitude":73.06527,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Dhok Kahut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11442429
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"80f02b5b889a478234e180bfec3d5901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1293493161,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293493161,
+    "wof:lastmodified":1536779349,
+    "wof:name":"Dhok Kahut",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06527,
+    32.83102,
+    73.06527,
+    32.83102
+],
+  "geometry": {"coordinates":[73.06527,32.83102],"type":"Point"}
+}

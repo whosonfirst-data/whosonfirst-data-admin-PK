@@ -1,0 +1,74 @@
+{
+  "id": 1259585459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.75867,31.59895,69.75867,31.59895",
+    "geom:latitude":31.59895,
+    "geom:longitude":69.75867,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shinkai Khwuna Kili",
+    "gn:country_code":"PK",
+    "gn:dem":2051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339390,
+    "gn:latitude":31.59895,
+    "gn:longitude":69.75867,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Shinkai Khwuna Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Khw\u016bna Kili"
+    ],
+    "name:und_x_variant":[
+        "Khw\u016bna Kili",
+        "Shinkai Khwuna Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339390
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"73544ab5168057e2ecd9029ca121f8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1259585459,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259585459,
+    "wof:lastmodified":1537680168,
+    "wof:name":"Shinkai Khwuna Kili",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.75867,
+    31.59895,
+    69.75867,
+    31.59895
+],
+  "geometry": {"coordinates":[69.75867,31.59895],"type":"Point"}
+}

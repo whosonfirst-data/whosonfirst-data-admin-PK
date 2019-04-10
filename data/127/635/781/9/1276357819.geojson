@@ -1,0 +1,82 @@
+{
+  "id": 1276357819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.99854,33.22993,73.99854,33.22993",
+    "geom:latitude":33.22993,
+    "geom:longitude":73.99854,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Hariput",
+    "gn:country_code":"PK",
+    "gn:dem":739,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415248,
+    "gn:latitude":33.22993,
+    "gn:longitude":73.99854,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Hariput",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhed",
+        "Haripur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"652b33c2fe818b73f4ecf54fd1411c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276357819,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276357819,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276357819,
+    "wof:lastmodified":1537681358,
+    "wof:name":"Hariput",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.99854,
+    33.22993,
+    73.99854,
+    33.22993
+],
+  "geometry": {"coordinates":[73.99854000000001,33.22993],"type":"Point"}
+}

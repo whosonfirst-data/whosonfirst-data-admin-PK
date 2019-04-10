@@ -1,0 +1,67 @@
+{
+  "id": 1260190587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.0835,31.2168,70.0835,31.2168",
+    "geom:latitude":31.2168,
+    "geom:longitude":70.0835,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Awara",
+    "gn:country_code":"PK",
+    "gn:dem":1341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10311288,
+    "gn:latitude":31.2168,
+    "gn:longitude":70.0835,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Awara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311288
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebf87f55b50bf935e634651dbf8a2fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1260190587,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260190587,
+    "wof:lastmodified":1536837169,
+    "wof:name":"Awara",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.0835,
+    31.2168,
+    70.0835,
+    31.2168
+],
+  "geometry": {"coordinates":[70.0835,31.2168],"type":"Point"}
+}

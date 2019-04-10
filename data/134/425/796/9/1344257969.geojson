@@ -1,0 +1,67 @@
+{
+  "id": 1344257969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4175,35.99556,71.4175,35.99556",
+    "geom:latitude":35.99556,
+    "geom:longitude":71.4175,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Khoter",
+    "gn:country_code":"PK",
+    "gn:dem":3152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1373167,
+    "gn:latitude":35.99556,
+    "gn:longitude":71.4175,
+    "gn:modification_date":"2004-10-20",
+    "gn:name":"Khoter",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1373167
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e721920f30d20f4abce647f9a5b85a96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1344257969,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344257969,
+    "wof:lastmodified":1537084604,
+    "wof:name":"Khoter",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4175,
+    35.99556,
+    71.4175,
+    35.99556
+],
+  "geometry": {"coordinates":[71.4175,35.99556],"type":"Point"}
+}

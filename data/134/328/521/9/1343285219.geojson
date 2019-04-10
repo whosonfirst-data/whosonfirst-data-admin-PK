@@ -1,0 +1,67 @@
+{
+  "id": 1343285219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.23384,30.73075,70.23384,30.73075",
+    "geom:latitude":30.73075,
+    "geom:longitude":70.23384,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Juro",
+    "gn:country_code":"PK",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11337061,
+    "gn:latitude":30.73075,
+    "gn:longitude":70.23384,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Juro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11337061
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d0a991c974b7c319e0d60124c7f0effd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1343285219,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343285219,
+    "wof:lastmodified":1536998455,
+    "wof:name":"Juro",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.23384,
+    30.73075,
+    70.23384,
+    30.73075
+],
+  "geometry": {"coordinates":[70.23384,30.73075],"type":"Point"}
+}

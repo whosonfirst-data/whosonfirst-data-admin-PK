@@ -1,0 +1,67 @@
+{
+  "id": 1293721841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80556,29.54306,70.80556,29.54306",
+    "geom:latitude":29.54306,
+    "geom:longitude":70.80556,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Stogwala",
+    "gn:country_code":"PK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392844,
+    "gn:latitude":29.54306,
+    "gn:longitude":70.80556,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Stogwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392844
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0cce98f6690d494b37f422be7ee26534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1293721841,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293721841,
+    "wof:lastmodified":1536947010,
+    "wof:name":"Stogwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80556,
+    29.54306,
+    70.80556,
+    29.54306
+],
+  "geometry": {"coordinates":[70.80556,29.54306],"type":"Point"}
+}

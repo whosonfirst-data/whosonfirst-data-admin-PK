@@ -1,0 +1,67 @@
+{
+  "id": 1209919643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.68774,32.92941,71.68774,32.92941",
+    "geom:latitude":32.92941,
+    "geom:longitude":71.68774,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jan Baz",
+    "gn:country_code":"PK",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405391,
+    "gn:latitude":32.92941,
+    "gn:longitude":71.68774,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Jan Baz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405391
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"73de53bf5dcb25a8ed7d023e9aeac920",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1209919643,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209919643,
+    "wof:lastmodified":1536369879,
+    "wof:name":"Jan Baz",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.68774,
+    32.92941,
+    71.68774,
+    32.92941
+],
+  "geometry": {"coordinates":[71.68774000000001,32.92941],"type":"Point"}
+}

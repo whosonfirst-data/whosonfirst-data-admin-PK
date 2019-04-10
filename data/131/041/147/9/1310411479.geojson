@@ -1,0 +1,67 @@
+{
+  "id": 1310411479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44531,33.48605,73.44531,33.48605",
+    "geom:latitude":33.48605,
+    "geom:longitude":73.44531,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sagad",
+    "gn:country_code":"PK",
+    "gn:dem":687,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091681,
+    "gn:latitude":33.48605,
+    "gn:longitude":73.44531,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sagad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091681
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cb9b1445e602804475ace64aa6f0696e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1310411479,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310411479,
+    "wof:lastmodified":1537050493,
+    "wof:name":"Sagad",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44530999999998,
+    33.48605,
+    73.44530999999998,
+    33.48605
+],
+  "geometry": {"coordinates":[73.44530999999998,33.48605],"type":"Point"}
+}

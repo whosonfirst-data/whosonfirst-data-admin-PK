@@ -1,0 +1,67 @@
+{
+  "id": 1343459477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.53244,33.41879,71.53244,33.41879",
+    "geom:latitude":33.41879,
+    "geom:longitude":71.53244,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamal Khel",
+    "gn:country_code":"PK",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175153,
+    "gn:latitude":33.41879,
+    "gn:longitude":71.53244,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kamal Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175153
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d5bba840fb3e9bd77f4944154e7c6f6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692263,
+            "locality_id":1343459477,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343459477,
+    "wof:lastmodified":1536747377,
+    "wof:name":"Kamal Khel",
+    "wof:parent_id":1108692263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.53244000000002,
+    33.41879,
+    71.53244000000002,
+    33.41879
+],
+  "geometry": {"coordinates":[71.53244000000002,33.41879],"type":"Point"}
+}

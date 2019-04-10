@@ -1,0 +1,67 @@
+{
+  "id": 1343963453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25306,31.545,74.25306,31.545",
+    "geom:latitude":31.545,
+    "geom:longitude":74.25306,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhadru",
+    "gn:country_code":"PK",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331466,
+    "gn:latitude":31.545,
+    "gn:longitude":74.25306,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Bhadru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331466
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22160bc5187836cc9de4731628e7cf1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1343963453,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343963453,
+    "wof:lastmodified":1537014870,
+    "wof:name":"Bhadru",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25305999999998,
+    31.545,
+    74.25305999999998,
+    31.545
+],
+  "geometry": {"coordinates":[74.25305999999998,31.545],"type":"Point"}
+}

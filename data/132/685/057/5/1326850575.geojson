@@ -1,0 +1,78 @@
+{
+  "id": 1326850575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.80683,36.29865,75.80683,36.29865",
+    "geom:latitude":36.29865,
+    "geom:longitude":75.80683,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Uchelga",
+    "gn:country_code":"PK",
+    "gn:dem":3926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7449818,
+    "gn:latitude":36.29865,
+    "gn:longitude":75.80683,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Uchelga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7449818
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c4f302feee8bae28e3bdff4157904657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1326850575,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1326850575,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326850575,
+    "wof:lastmodified":1537021432,
+    "wof:name":"Uchelga",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.80683,
+    36.29865,
+    75.80683,
+    36.29865
+],
+  "geometry": {"coordinates":[75.80683000000001,36.29865],"type":"Point"}
+}

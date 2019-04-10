@@ -1,0 +1,78 @@
+{
+  "id": 1225929621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.94293,35.08572,75.94293,35.08572",
+    "geom:latitude":35.08572,
+    "geom:longitude":75.94293,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zaharmin",
+    "gn:country_code":"PK",
+    "gn:dem":3127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081009,
+    "gn:latitude":35.08572,
+    "gn:longitude":75.94293,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Zaharmin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081009
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7935e84c5d3b7d63441bdd13b8fa7fac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1225929621,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1225929621,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1225929621,
+    "wof:lastmodified":1536892430,
+    "wof:name":"Zaharmin",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.94293,
+    35.08572,
+    75.94293,
+    35.08572
+],
+  "geometry": {"coordinates":[75.94293,35.08572],"type":"Point"}
+}

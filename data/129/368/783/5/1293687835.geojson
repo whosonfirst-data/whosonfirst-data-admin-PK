@@ -1,0 +1,67 @@
+{
+  "id": 1293687835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78842,34.60426,72.78842,34.60426",
+    "geom:latitude":34.60426,
+    "geom:longitude":72.78842,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gumbat",
+    "gn:country_code":"PK",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482659,
+    "gn:latitude":34.60426,
+    "gn:longitude":72.78842,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Gumbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482659
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b5c3ce8554b636010ef783399918f26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692415,
+            "locality_id":1293687835,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293687835,
+    "wof:lastmodified":1536994709,
+    "wof:name":"Gumbat",
+    "wof:parent_id":1108692415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78842,
+    34.60426,
+    72.78842,
+    34.60426
+],
+  "geometry": {"coordinates":[72.78842,34.60426],"type":"Point"}
+}

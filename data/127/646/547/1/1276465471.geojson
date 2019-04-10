@@ -1,0 +1,78 @@
+{
+  "id": 1276465471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96451,33.73569,73.96451,33.73569",
+    "geom:latitude":33.73569,
+    "geom:longitude":73.96451,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Madarpur",
+    "gn:country_code":"PK",
+    "gn:dem":859,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413833,
+    "gn:latitude":33.73569,
+    "gn:longitude":73.96451,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Madarpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413833
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6290845bd34591fc6cf7f358df24d5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276465471,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276465471,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276465471,
+    "wof:lastmodified":1537095603,
+    "wof:name":"Madarpur",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96451,
+    33.73569000000001,
+    73.96451,
+    33.73569000000001
+],
+  "geometry": {"coordinates":[73.96451,33.73569000000001],"type":"Point"}
+}

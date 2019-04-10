@@ -1,0 +1,64 @@
+{
+  "id": 1209638701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.94586,30.3243,70.94586,30.3243",
+    "geom:latitude":30.3243,
+    "geom:longitude":70.94586,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Haji Ishaqwala",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392293,
+    "gn:latitude":30.3243,
+    "gn:longitude":70.94586,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Haji Ishaqwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Haji Ishaqwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392293
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"295b454a26b0a6d6a6bf2767a1fddcc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638701
+        }
+    ],
+    "wof:id":1209638701,
+    "wof:lastmodified":1537680999,
+    "wof:name":"Haji Ishaqwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.94586,
+    30.3243,
+    70.94586,
+    30.3243
+],
+  "geometry": {"coordinates":[70.94586,30.3243],"type":"Point"}
+}

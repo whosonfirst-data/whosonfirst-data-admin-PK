@@ -1,0 +1,67 @@
+{
+  "id": 1259885437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.04954,32.25823,75.04954,32.25823",
+    "geom:latitude":32.25823,
+    "geom:longitude":75.04954,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chaura",
+    "gn:country_code":"PK",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081386,
+    "gn:latitude":32.25823,
+    "gn:longitude":75.04954,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Chaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081386
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc585aaeee7d455c6f6450f09ab5b44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1259885437,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259885437,
+    "wof:lastmodified":1536776858,
+    "wof:name":"Chaura",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.04954000000002,
+    32.25823,
+    75.04954000000002,
+    32.25823
+],
+  "geometry": {"coordinates":[75.04954000000002,32.25823],"type":"Point"}
+}

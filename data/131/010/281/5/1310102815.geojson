@@ -1,0 +1,78 @@
+{
+  "id": 1310102815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.81142,33.90926,73.81142,33.90926",
+    "geom:latitude":33.90926,
+    "geom:longitude":73.81142,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hill Chauk",
+    "gn:country_code":"PK",
+    "gn:dem":2157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955687,
+    "gn:latitude":33.90926,
+    "gn:longitude":73.81142,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Hill Chauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955687
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c4ec721f805d565459d53f9ac20ef28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1310102815,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1310102815,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310102815,
+    "wof:lastmodified":1536999651,
+    "wof:name":"Hill Chauk",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.81142,
+    33.90926,
+    73.81142,
+    33.90926
+],
+  "geometry": {"coordinates":[73.81142,33.90926],"type":"Point"}
+}

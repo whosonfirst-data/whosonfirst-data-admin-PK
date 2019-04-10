@@ -1,0 +1,83 @@
+{
+  "id": 1293710671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.17151,33.45518,74.17151,33.45518",
+    "geom:latitude":33.45518,
+    "geom:longitude":74.17151,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"005",
+    "gn:asciiname":"Tarkundi",
+    "gn:country_code":"PK",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415203,
+    "gn:latitude":33.45518,
+    "gn:longitude":74.17151,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tarkundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Torkandi",
+        "Tarkundi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415203
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74fe875bbdc2ef1131bbb9cbda654754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293710671,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293710671,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293710671,
+    "wof:lastmodified":1537681358,
+    "wof:name":"Tarkundi",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.17151,
+    33.45518,
+    74.17151,
+    33.45518
+],
+  "geometry": {"coordinates":[74.17151,33.45518],"type":"Point"}
+}

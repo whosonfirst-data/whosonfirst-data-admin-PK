@@ -1,0 +1,81 @@
+{
+  "id": 1259876941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.41111,32.80414,74.41111,32.80414",
+    "geom:latitude":32.80414,
+    "geom:longitude":74.41111,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gotre",
+    "gn:country_code":"PK",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413396,
+    "gn:latitude":32.80414,
+    "gn:longitude":74.41111,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gotre",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101hd\u0101nw\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413396
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43fe4f5bc0b4e5f0f7299bb34ca1b209",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259876941,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259876941,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259876941,
+    "wof:lastmodified":1537681314,
+    "wof:name":"Gotre",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.41111,
+    32.80414,
+    74.41111,
+    32.80414
+],
+  "geometry": {"coordinates":[74.41110999999999,32.80414],"type":"Point"}
+}

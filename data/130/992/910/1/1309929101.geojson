@@ -1,0 +1,67 @@
+{
+  "id": 1309929101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.56626,32.42424,72.56626,32.42424",
+    "geom:latitude":32.42424,
+    "geom:longitude":72.56626,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bansi",
+    "gn:country_code":"PK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11416651,
+    "gn:latitude":32.42424,
+    "gn:longitude":72.56626,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Bansi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11416651
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0e9a9223250838613f7f0b4b3f92cde5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1309929101,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309929101,
+    "wof:lastmodified":1536753390,
+    "wof:name":"Bansi",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.56626,
+    32.42424,
+    72.56626,
+    32.42424
+],
+  "geometry": {"coordinates":[72.56626,32.42424],"type":"Point"}
+}

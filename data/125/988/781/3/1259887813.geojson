@@ -1,0 +1,67 @@
+{
+  "id": 1259887813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.90168,26.12111,61.90168,26.12111",
+    "geom:latitude":26.12111,
+    "geom:longitude":61.90168,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gajjo",
+    "gn:country_code":"PK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336350,
+    "gn:latitude":26.12111,
+    "gn:longitude":61.90168,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Gajjo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336350
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d0f87546f1eb37c03f5b18f6fdc5e278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1259887813,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259887813,
+    "wof:lastmodified":1536773469,
+    "wof:name":"Gajjo",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.90168000000001,
+    26.12111,
+    61.90168000000001,
+    26.12111
+],
+  "geometry": {"coordinates":[61.90168000000001,26.12111],"type":"Point"}
+}

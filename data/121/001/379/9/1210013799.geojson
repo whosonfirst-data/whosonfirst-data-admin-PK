@@ -1,0 +1,81 @@
+{
+  "id": 1210013799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79843,34.00393,73.79843,34.00393",
+    "geom:latitude":34.00393,
+    "geom:longitude":73.79843,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dadia",
+    "gn:country_code":"PK",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415478,
+    "gn:latitude":34.00393,
+    "gn:longitude":73.79843,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dadia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dadlya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415478
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f41c40e4d01d613c928b1d7e6781a8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1210013799,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1210013799,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1210013799,
+    "wof:lastmodified":1537681362,
+    "wof:name":"Dadia",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79843000000002,
+    34.00393,
+    73.79843000000002,
+    34.00393
+],
+  "geometry": {"coordinates":[73.79843000000002,34.00393],"type":"Point"}
+}

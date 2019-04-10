@@ -1,0 +1,67 @@
+{
+  "id": 1259386881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12006,25.47913,70.12006,25.47913",
+    "geom:latitude":25.47913,
+    "geom:longitude":70.12006,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hardawail",
+    "gn:country_code":"PK",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038847,
+    "gn:latitude":25.47913,
+    "gn:longitude":70.12006,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Hardawail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038847
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d46a39b433dcd6f8b38b9b95db713067",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1259386881,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259386881,
+    "wof:lastmodified":1536996538,
+    "wof:name":"Hardawail",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12006,
+    25.47913,
+    70.12006,
+    25.47913
+],
+  "geometry": {"coordinates":[70.12006,25.47913],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259879561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4368,29.579,71.4368,29.579",
+    "geom:latitude":29.579,
+    "geom:longitude":71.4368,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sherpur",
+    "gn:country_code":"PK",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165154,
+    "gn:latitude":29.579,
+    "gn:longitude":71.4368,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sherpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165154
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9cddbee10f44f6aef2f2b087edd9531f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1259879561,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259879561,
+    "wof:lastmodified":1536785342,
+    "wof:name":"Sherpur",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4368,
+    29.579,
+    71.4368,
+    29.579
+],
+  "geometry": {"coordinates":[71.43680000000001,29.579],"type":"Point"}
+}

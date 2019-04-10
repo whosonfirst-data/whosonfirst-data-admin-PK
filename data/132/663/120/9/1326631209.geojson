@@ -1,0 +1,67 @@
+{
+  "id": 1326631209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.84369,33.76459,72.84369,33.76459",
+    "geom:latitude":33.76459,
+    "geom:longitude":72.84369,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gandhara",
+    "gn:country_code":"PK",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":9199771,
+    "gn:latitude":33.76459,
+    "gn:longitude":72.84369,
+    "gn:modification_date":"2014-07-10",
+    "gn:name":"Gandhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9199771
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a8849e8589b56414e7e6a6dc2794ae3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1326631209,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326631209,
+    "wof:lastmodified":1536840253,
+    "wof:name":"Gandhara",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.84369000000002,
+    33.76459000000001,
+    72.84369000000002,
+    33.76459000000001
+],
+  "geometry": {"coordinates":[72.84369000000002,33.76459000000001],"type":"Point"}
+}

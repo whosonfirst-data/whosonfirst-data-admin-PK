@@ -1,0 +1,70 @@
+{
+  "id": 1293488359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.17943,34.334,73.17943,34.334",
+    "geom:latitude":34.334,
+    "geom:longitude":73.17943,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Karkala",
+    "gn:country_code":"PK",
+    "gn:dem":1071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390143,
+    "gn:latitude":34.334,
+    "gn:longitude":73.17943,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Karkala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gharkola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390143
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bbd03a6784ed8d39c4572b194ece6785",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1293488359,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293488359,
+    "wof:lastmodified":1537680959,
+    "wof:name":"Karkala",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.17943000000002,
+    34.334,
+    73.17943000000002,
+    34.334
+],
+  "geometry": {"coordinates":[73.17943000000002,34.334],"type":"Point"}
+}

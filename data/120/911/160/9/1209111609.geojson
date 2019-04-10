@@ -1,0 +1,64 @@
+{
+  "id": 1209111609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88975,33.10127,71.88975,33.10127",
+    "geom:latitude":33.10127,
+    "geom:longitude":71.88975,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok Kaider",
+    "gn:country_code":"PK",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096987,
+    "gn:latitude":33.10127,
+    "gn:longitude":71.88975,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Dhok Kaider",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhok Gidar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096987
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2431b6dbbb3e957a668b796ba79f448b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209111609
+        }
+    ],
+    "wof:id":1209111609,
+    "wof:lastmodified":1537681681,
+    "wof:name":"Dhok Kaider",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88975,
+    33.10127,
+    71.88975,
+    33.10127
+],
+  "geometry": {"coordinates":[71.88975000000001,33.10127],"type":"Point"}
+}

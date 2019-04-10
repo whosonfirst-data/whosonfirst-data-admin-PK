@@ -1,0 +1,67 @@
+{
+  "id": 1226055137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.485,25.89034,66.485,25.89034",
+    "geom:latitude":25.89034,
+    "geom:longitude":66.485,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goth Sumar",
+    "gn:country_code":"PK",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111560,
+    "gn:latitude":25.89034,
+    "gn:longitude":66.485,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Goth Sumar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111560
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3ef8ae4488617cca1c92c5c88ae36dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1226055137,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226055137,
+    "wof:lastmodified":1536711867,
+    "wof:name":"Goth Sumar",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.485,
+    25.89034,
+    66.485,
+    25.89034
+],
+  "geometry": {"coordinates":[66.485,25.89034],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242784703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99209,33.85022,72.99209,33.85022",
+    "geom:latitude":33.85022,
+    "geom:longitude":72.99209,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chanba",
+    "gn:country_code":"PK",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338841,
+    "gn:latitude":33.85022,
+    "gn:longitude":72.99209,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Chanba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338841
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"06dc200ae622dce26a60295bf60c0622",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1242784703,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242784703,
+    "wof:lastmodified":1543515561,
+    "wof:name":"Chanba",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99209,
+    33.85022,
+    72.99209,
+    33.85022
+],
+  "geometry": {"coordinates":[72.99209,33.85022],"type":"Point"}
+}

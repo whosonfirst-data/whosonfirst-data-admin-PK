@@ -1,0 +1,67 @@
+{
+  "id": 1276878153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39653,33.90034,73.39653,33.90034",
+    "geom:latitude":33.90034,
+    "geom:longitude":73.39653,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cantonment",
+    "gn:country_code":"PK",
+    "gn:dem":1921,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454082,
+    "gn:latitude":33.90034,
+    "gn:longitude":73.39653,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Cantonment",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454082
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"acb15bbcc9ecc24b2d7826895c8b591d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1276878153,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276878153,
+    "wof:lastmodified":1537041631,
+    "wof:name":"Cantonment",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39653,
+    33.90034,
+    73.39653,
+    33.90034
+],
+  "geometry": {"coordinates":[73.39653,33.90034],"type":"Point"}
+}

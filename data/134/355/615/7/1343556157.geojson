@@ -1,0 +1,78 @@
+{
+  "id": 1343556157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.659,33.53699,73.659,33.53699",
+    "geom:latitude":33.53699,
+    "geom:longitude":73.659,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Nawan",
+    "gn:country_code":"PK",
+    "gn:dem":564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169103,
+    "gn:latitude":33.53699,
+    "gn:longitude":73.659,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Nawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169103
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"13bd705bc3686218a4d84d855809c732",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343556157,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343556157,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343556157,
+    "wof:lastmodified":1536605163,
+    "wof:name":"Nawan",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65899999999998,
+    33.53699,
+    73.65899999999998,
+    33.53699
+],
+  "geometry": {"coordinates":[73.65899999999998,33.53699],"type":"Point"}
+}

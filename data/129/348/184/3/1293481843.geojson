@@ -1,0 +1,78 @@
+{
+  "id": 1293481843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7075,33.94761,73.7075,33.94761",
+    "geom:latitude":33.94761,
+    "geom:longitude":73.7075,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Padhal",
+    "gn:country_code":"PK",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098990,
+    "gn:latitude":33.94761,
+    "gn:longitude":73.7075,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Padhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098990
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56c0f9ae6b8e08010f767d5d5bcc286a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293481843,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293481843,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293481843,
+    "wof:lastmodified":1536795480,
+    "wof:name":"Padhal",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7075,
+    33.94761,
+    73.7075,
+    33.94761
+],
+  "geometry": {"coordinates":[73.7075,33.94761],"type":"Point"}
+}

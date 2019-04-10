@@ -1,0 +1,67 @@
+{
+  "id": 1344259081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76303,28.69086,65.76303,28.69086",
+    "geom:latitude":28.69086,
+    "geom:longitude":65.76303,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pandoi",
+    "gn:country_code":"PK",
+    "gn:dem":987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7541662,
+    "gn:latitude":28.69086,
+    "gn:longitude":65.76303,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Pandoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7541662
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"765ffc6def1563082ed5840a927bb148",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1344259081,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344259081,
+    "wof:lastmodified":1537082980,
+    "wof:name":"Pandoi",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76303,
+    28.69086,
+    65.76303,
+    28.69086
+],
+  "geometry": {"coordinates":[65.76303,28.69086],"type":"Point"}
+}

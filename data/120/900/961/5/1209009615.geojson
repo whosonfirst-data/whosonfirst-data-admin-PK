@@ -1,0 +1,64 @@
+{
+  "id": 1209009615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16247,33.30257,73.16247,33.30257",
+    "geom:latitude":33.30257,
+    "geom:longitude":73.16247,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cher Bala",
+    "gn:country_code":"PK",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7088990,
+    "gn:latitude":33.30257,
+    "gn:longitude":73.16247,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Cher Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cher"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7088990
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d61291c9605fd0fd84beda63166bb0b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209009615
+        }
+    ],
+    "wof:id":1209009615,
+    "wof:lastmodified":1537681667,
+    "wof:name":"Cher Bala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16247,
+    33.30257,
+    73.16247,
+    33.30257
+],
+  "geometry": {"coordinates":[73.16247,33.30257],"type":"Point"}
+}

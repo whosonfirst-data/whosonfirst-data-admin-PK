@@ -1,0 +1,78 @@
+{
+  "id": 1242669521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.27222,33.97778,74.27222,33.97778",
+    "geom:latitude":33.97778,
+    "geom:longitude":74.27222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jauli",
+    "gn:country_code":"PK",
+    "gn:dem":3124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1432364,
+    "gn:latitude":33.97778,
+    "gn:longitude":74.27222,
+    "gn:modification_date":"2002-08-13",
+    "gn:name":"Jauli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695703,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1432364
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9777e742ce115e26ca356e918332add7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695703,
+            "disputed_id":85632427,
+            "locality_id":1242669521,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695703,
+            "disputed_id":85632427,
+            "locality_id":1242669521,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1242669521,
+    "wof:lastmodified":1536932151,
+    "wof:name":"Jauli",
+    "wof:parent_id":1108695703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.27221999999998,
+    33.97778,
+    74.27221999999998,
+    33.97778
+],
+  "geometry": {"coordinates":[74.27221999999998,33.97778],"type":"Point"}
+}

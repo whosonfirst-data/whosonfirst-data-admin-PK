@@ -1,0 +1,67 @@
+{
+  "id": 1343769893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.39922,26.81795,65.39922,26.81795",
+    "geom:latitude":26.81795,
+    "geom:longitude":65.39922,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dairi",
+    "gn:country_code":"PK",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235764,
+    "gn:latitude":26.81795,
+    "gn:longitude":65.39922,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Dairi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235764
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"13f7e00533f575f6fe6ea3875e8c0b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1343769893,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343769893,
+    "wof:lastmodified":1536797430,
+    "wof:name":"Dairi",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.39922,
+    26.81795,
+    65.39922,
+    26.81795
+],
+  "geometry": {"coordinates":[65.39922,26.81795],"type":"Point"}
+}

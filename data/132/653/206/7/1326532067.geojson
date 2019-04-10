@@ -1,0 +1,65 @@
+{
+  "id": 1326532067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.7686,25.08341,61.7686,25.08341",
+    "geom:latitude":25.08341,
+    "geom:longitude":61.7686,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bandri",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986105,
+    "gn:latitude":25.08341,
+    "gn:longitude":61.7686,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bandri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7dd277930a85c7fd9dc9dab2b2d3c119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":1326532067,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326532067,
+    "wof:lastmodified":1536983514,
+    "wof:name":"Bandri",
+    "wof:parent_id":85675733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.7686,
+    25.08341,
+    61.7686,
+    25.08341
+],
+  "geometry": {"coordinates":[61.7686,25.08341],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1226534251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82727,33.15814,73.82727,33.15814",
+    "geom:latitude":33.15814,
+    "geom:longitude":73.82727,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sohal",
+    "gn:country_code":"PK",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386375,
+    "gn:latitude":33.15814,
+    "gn:longitude":73.82727,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sohal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ddcced102568ffad7f660b0c66479d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1226534251,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1226534251,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1226534251,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226534251,
+    "wof:lastmodified":1537013955,
+    "wof:name":"Sohal",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82727,
+    33.15814,
+    73.82727,
+    33.15814
+],
+  "geometry": {"coordinates":[73.82727,33.15814],"type":"Point"}
+}

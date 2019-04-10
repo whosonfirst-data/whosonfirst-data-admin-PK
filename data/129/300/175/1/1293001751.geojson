@@ -1,0 +1,67 @@
+{
+  "id": 1293001751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65188,36.15612,71.65188,36.15612",
+    "geom:latitude":36.15612,
+    "geom:longitude":71.65188,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sadam",
+    "gn:country_code":"PK",
+    "gn:dem":2589,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999673,
+    "gn:latitude":36.15612,
+    "gn:longitude":71.65188,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Sadam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999673
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca87b2ce9dda422e4679ba18ea9cf9c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1293001751,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293001751,
+    "wof:lastmodified":1536989439,
+    "wof:name":"Sadam",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65188,
+    36.15612,
+    71.65188,
+    36.15612
+],
+  "geometry": {"coordinates":[71.65188000000001,36.15612],"type":"Point"}
+}

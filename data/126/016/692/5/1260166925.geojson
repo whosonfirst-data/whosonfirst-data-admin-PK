@@ -1,0 +1,81 @@
+{
+  "id": 1260166925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.84398,35.30112,74.84398,35.30112",
+    "geom:latitude":35.30112,
+    "geom:longitude":74.84398,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hilbich",
+    "gn:country_code":"PK",
+    "gn:dem":2565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423748,
+    "gn:latitude":35.30112,
+    "gn:longitude":74.84398,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Hilbich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hilbiche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423748
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e29aa325c04562ead3013c95a987493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260166925,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260166925,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260166925,
+    "wof:lastmodified":1537681908,
+    "wof:name":"Hilbich",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.84398,
+    35.30112000000001,
+    74.84398,
+    35.30112000000001
+],
+  "geometry": {"coordinates":[74.84398,35.30112000000001],"type":"Point"}
+}

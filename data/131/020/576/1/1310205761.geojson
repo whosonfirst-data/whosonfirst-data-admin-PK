@@ -1,0 +1,67 @@
+{
+  "id": 1310205761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.24326,34.99699,72.24326,34.99699",
+    "geom:latitude":34.99699,
+    "geom:longitude":72.24326,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shandal",
+    "gn:country_code":"PK",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165312,
+    "gn:latitude":34.99699,
+    "gn:longitude":72.24326,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Shandal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165312
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09b416161fc98bd4c2d71c5e177f3f0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1310205761,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310205761,
+    "wof:lastmodified":1536850781,
+    "wof:name":"Shandal",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.24325999999998,
+    34.99699,
+    72.24325999999998,
+    34.99699
+],
+  "geometry": {"coordinates":[72.24325999999998,34.99699],"type":"Point"}
+}

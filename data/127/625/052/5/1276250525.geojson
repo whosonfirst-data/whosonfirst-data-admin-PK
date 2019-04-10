@@ -1,0 +1,86 @@
+{
+  "id": 1276250525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.67278,33.80784,73.67278,33.80784",
+    "geom:latitude":33.80784,
+    "geom:longitude":73.67278,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dar",
+    "gn:country_code":"PK",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097540,
+    "gn:latitude":33.80784,
+    "gn:longitude":73.67278,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097540
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3682255e19e064e015da741617721d0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1276250525,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1276250525,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1276250525,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276250525,
+    "wof:lastmodified":1536889289,
+    "wof:name":"Dar",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.67278,
+    33.80784,
+    73.67278,
+    33.80784
+],
+  "geometry": {"coordinates":[73.67278,33.80784],"type":"Point"}
+}

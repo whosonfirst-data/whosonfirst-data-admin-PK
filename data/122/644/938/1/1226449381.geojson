@@ -1,0 +1,67 @@
+{
+  "id": 1226449381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.67643,32.88406,70.67643,32.88406",
+    "geom:latitude":32.88406,
+    "geom:longitude":70.67643,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malang",
+    "gn:country_code":"PK",
+    "gn:dem":329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436529,
+    "gn:latitude":32.88406,
+    "gn:longitude":70.67643,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Malang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436529
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"47a5a8f1ff2276895565c2d8cccc8a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1226449381,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226449381,
+    "wof:lastmodified":1536639178,
+    "wof:name":"Malang",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.67643000000002,
+    32.88406,
+    70.67643000000002,
+    32.88406
+],
+  "geometry": {"coordinates":[70.67643000000002,32.88406],"type":"Point"}
+}

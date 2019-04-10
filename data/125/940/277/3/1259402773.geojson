@@ -1,0 +1,81 @@
+{
+  "id": 1259402773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.63924,35.26421,76.63924,35.26421",
+    "geom:latitude":35.26421,
+    "geom:longitude":76.63924,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lachhit",
+    "gn:country_code":"PK",
+    "gn:dem":2951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418520,
+    "gn:latitude":35.26421,
+    "gn:longitude":76.63924,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Lachhit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lachit"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418520
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a159779af65b365a6d9adba3a791084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1259402773,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1259402773,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259402773,
+    "wof:lastmodified":1537681900,
+    "wof:name":"Lachhit",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.63924,
+    35.26421,
+    76.63924,
+    35.26421
+],
+  "geometry": {"coordinates":[76.63924,35.26421],"type":"Point"}
+}

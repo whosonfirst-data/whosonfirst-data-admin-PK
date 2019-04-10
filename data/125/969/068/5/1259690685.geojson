@@ -1,0 +1,67 @@
+{
+  "id": 1259690685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91547,34.31299,72.91547,34.31299",
+    "geom:latitude":34.31299,
+    "geom:longitude":72.91547,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gand",
+    "gn:country_code":"PK",
+    "gn:dem":1554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378489,
+    "gn:latitude":34.31299,
+    "gn:longitude":72.91547,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Gand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378489
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3095face3640098b0379d21f723dfae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1259690685,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259690685,
+    "wof:lastmodified":1537054233,
+    "wof:name":"Gand",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91547,
+    34.31299,
+    72.91547,
+    34.31299
+],
+  "geometry": {"coordinates":[72.91547,34.31299],"type":"Point"}
+}

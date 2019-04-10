@@ -1,0 +1,67 @@
+{
+  "id": 1260285029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22075,35.175,72.22075,35.175",
+    "geom:latitude":35.175,
+    "geom:longitude":72.22075,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kandao Barit",
+    "gn:country_code":"PK",
+    "gn:dem":3099,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477861,
+    "gn:latitude":35.175,
+    "gn:longitude":72.22075,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kandao Barit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477861
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f5155c91b85ba4ebebae4dd2dd33c6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1260285029,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260285029,
+    "wof:lastmodified":1536710180,
+    "wof:name":"Kandao Barit",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22075,
+    35.175,
+    72.22075,
+    35.175
+],
+  "geometry": {"coordinates":[72.22075,35.175],"type":"Point"}
+}

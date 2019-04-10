@@ -1,0 +1,67 @@
+{
+  "id": 1309904355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79878,26.9714,67.79878,26.9714",
+    "geom:latitude":26.9714,
+    "geom:longitude":67.79878,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Taga",
+    "gn:country_code":"PK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1404429,
+    "gn:latitude":26.9714,
+    "gn:longitude":67.79878,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Taga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1404429
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05f2e00da767e84d0c6aad2b01391694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692159,
+            "locality_id":1309904355,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1309904355,
+    "wof:lastmodified":1536789477,
+    "wof:name":"Taga",
+    "wof:parent_id":1108692159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79878000000001,
+    26.9714,
+    67.79878000000001,
+    26.9714
+],
+  "geometry": {"coordinates":[67.79878000000001,26.9714],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310217665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.1116,28.3334,65.1116,28.3334",
+    "geom:latitude":28.3334,
+    "geom:longitude":65.1116,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Patwar Khana",
+    "gn:country_code":"PK",
+    "gn:dem":660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1375458,
+    "gn:latitude":28.3334,
+    "gn:longitude":65.1116,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Patwar Khana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1375458
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"790678028e26c79c75b51a828d09b36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1310217665,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310217665,
+    "wof:lastmodified":1536833630,
+    "wof:name":"Patwar Khana",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.1116,
+    28.3334,
+    65.1116,
+    28.3334
+],
+  "geometry": {"coordinates":[65.1116,28.3334],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276426795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.64201,35.83236,74.64201,35.83236",
+    "geom:latitude":35.83236,
+    "geom:longitude":74.64201,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shuta",
+    "gn:country_code":"PK",
+    "gn:dem":1924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423512,
+    "gn:latitude":35.83236,
+    "gn:longitude":74.64201,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423512
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"feb9eb86dacfef1c0eefd069ac8239be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1276426795,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1276426795,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276426795,
+    "wof:lastmodified":1536653387,
+    "wof:name":"Shuta",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.64201,
+    35.83235999999999,
+    74.64201,
+    35.83235999999999
+],
+  "geometry": {"coordinates":[74.64201,35.83235999999999],"type":"Point"}
+}

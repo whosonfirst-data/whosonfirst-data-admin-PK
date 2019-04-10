@@ -1,0 +1,65 @@
+{
+  "id": 1209627787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68523,30.82842,67.68523,30.82842",
+    "geom:latitude":30.82842,
+    "geom:longitude":67.68523,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Zama",
+    "gn:country_code":"PK",
+    "gn:dem":1849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162241,
+    "gn:latitude":30.82842,
+    "gn:longitude":67.68523,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Zama",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zama Shah Murad",
+        "Zama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162241
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa067c831cd28e80d0fd6998833acb72",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209627787
+        }
+    ],
+    "wof:id":1209627787,
+    "wof:lastmodified":1537679187,
+    "wof:name":"Zama",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68523,
+    30.82842,
+    67.68523,
+    30.82842
+],
+  "geometry": {"coordinates":[67.68523,30.82842],"type":"Point"}
+}

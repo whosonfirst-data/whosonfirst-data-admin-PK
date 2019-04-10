@@ -1,0 +1,67 @@
+{
+  "id": 1226155521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25574,28.46036,68.25574,28.46036",
+    "geom:latitude":28.46036,
+    "geom:longitude":68.25574,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hatti",
+    "gn:country_code":"PK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11146499,
+    "gn:latitude":28.46036,
+    "gn:longitude":68.25574,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Hatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11146499
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"53b597566daf6a9c70422fb39be5b0ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1226155521,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226155521,
+    "wof:lastmodified":1537060848,
+    "wof:name":"Hatti",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25574,
+    28.46036,
+    68.25574,
+    28.46036
+],
+  "geometry": {"coordinates":[68.25574,28.46036],"type":"Point"}
+}

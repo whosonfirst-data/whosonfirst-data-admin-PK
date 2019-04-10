@@ -1,0 +1,67 @@
+{
+  "id": 1226648207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.20876,26.15541,64.20876,26.15541",
+    "geom:latitude":26.15541,
+    "geom:longitude":64.20876,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kad Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11240347,
+    "gn:latitude":26.15541,
+    "gn:longitude":64.20876,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Kad Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11240347
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"096e0cd8e312ee4570bf75b2f8bf80e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1226648207,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226648207,
+    "wof:lastmodified":1536854695,
+    "wof:name":"Kad Bazar",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.20876,
+    26.15541,
+    64.20876,
+    26.15541
+],
+  "geometry": {"coordinates":[64.20876,26.15541],"type":"Point"}
+}

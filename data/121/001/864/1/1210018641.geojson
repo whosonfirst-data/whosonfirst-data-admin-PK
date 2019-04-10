@@ -1,0 +1,67 @@
+{
+  "id": 1210018641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.47273,28.42627,65.47273,28.42627",
+    "geom:latitude":28.42627,
+    "geom:longitude":65.47273,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kasag",
+    "gn:country_code":"PK",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230048,
+    "gn:latitude":28.42627,
+    "gn:longitude":65.47273,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Kasag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230048
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78afe0d3be563d087a61994fe92c439d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1210018641,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1210018641,
+    "wof:lastmodified":1536393903,
+    "wof:name":"Kasag",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.47273,
+    28.42627,
+    65.47273,
+    28.42627
+],
+  "geometry": {"coordinates":[65.47273,28.42627],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276981003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50488,35.98967,71.50488,35.98967",
+    "geom:latitude":35.98967,
+    "geom:longitude":71.50488,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Rui",
+    "gn:country_code":"PK",
+    "gn:dem":2489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1373198,
+    "gn:latitude":35.98967,
+    "gn:longitude":71.50488,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Rui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rui"
+    ],
+    "name:urd_x_preferred":[
+        "R\u016b\u012b"
+    ],
+    "name:urd_x_variant":[
+        "\u0631\u064f\u0648\u0640\u0654\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1373198
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"378f6f3c1c7750d29a528b211568015c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1276981003,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276981003,
+    "wof:lastmodified":1537680623,
+    "wof:name":"Rui",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50488,
+    35.98967000000001,
+    71.50488,
+    35.98967000000001
+],
+  "geometry": {"coordinates":[71.50488,35.98967000000001],"type":"Point"}
+}

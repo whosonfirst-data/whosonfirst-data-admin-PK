@@ -1,0 +1,67 @@
+{
+  "id": 1243074495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.29566,33.01716,71.29566,33.01716",
+    "geom:latitude":33.01716,
+    "geom:longitude":71.29566,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sho",
+    "gn:country_code":"PK",
+    "gn:dem":1015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067776,
+    "gn:latitude":33.01716,
+    "gn:longitude":71.29566,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Sho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067776
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f8ef542bd4d0b9f2fbfa995852b2093a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1243074495,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243074495,
+    "wof:lastmodified":1536843608,
+    "wof:name":"Sho",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.29566,
+    33.01716,
+    71.29566,
+    33.01716
+],
+  "geometry": {"coordinates":[71.29566,33.01716],"type":"Point"}
+}

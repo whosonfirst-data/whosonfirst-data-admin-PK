@@ -1,0 +1,78 @@
+{
+  "id": 1226339427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97413,33.94235,73.97413,33.94235",
+    "geom:latitude":33.94235,
+    "geom:longitude":73.97413,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhariwali Dhok",
+    "gn:country_code":"PK",
+    "gn:dem":2504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386035,
+    "gn:latitude":33.94235,
+    "gn:longitude":73.97413,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhariwali Dhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386035
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f2deee036582520ef2ac563fc8d8b277",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226339427,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226339427,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226339427,
+    "wof:lastmodified":1536798700,
+    "wof:name":"Dhariwali Dhok",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97413,
+    33.94235,
+    73.97413,
+    33.94235
+],
+  "geometry": {"coordinates":[73.97413,33.94235],"type":"Point"}
+}

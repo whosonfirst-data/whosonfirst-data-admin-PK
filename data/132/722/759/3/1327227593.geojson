@@ -1,0 +1,78 @@
+{
+  "id": 1327227593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41971,35.69603,73.41971,35.69603",
+    "geom:latitude":35.69603,
+    "geom:longitude":73.41971,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bigo",
+    "gn:country_code":"PK",
+    "gn:dem":1930,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022657,
+    "gn:latitude":35.69603,
+    "gn:longitude":73.41971,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Bigo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022657
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1a79acffadac23cdf61561c4c0279dcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327227593,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327227593,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327227593,
+    "wof:lastmodified":1536976015,
+    "wof:name":"Bigo",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41971,
+    35.69603,
+    73.41971,
+    35.69603
+],
+  "geometry": {"coordinates":[73.41970999999999,35.69603],"type":"Point"}
+}

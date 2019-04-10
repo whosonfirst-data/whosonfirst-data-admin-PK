@@ -1,0 +1,67 @@
+{
+  "id": 1259606523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.33848,32.59251,74.33848,32.59251",
+    "geom:latitude":32.59251,
+    "geom:longitude":74.33848,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khasa",
+    "gn:country_code":"PK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386771,
+    "gn:latitude":32.59251,
+    "gn:longitude":74.33848,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khasa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386771
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5241b316bc660bba7811d35a802b952b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1259606523,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259606523,
+    "wof:lastmodified":1536681585,
+    "wof:name":"Khasa",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.33848,
+    32.59251,
+    74.33848,
+    32.59251
+],
+  "geometry": {"coordinates":[74.33848,32.59251],"type":"Point"}
+}

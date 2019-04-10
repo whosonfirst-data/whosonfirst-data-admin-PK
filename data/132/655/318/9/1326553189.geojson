@@ -1,0 +1,67 @@
+{
+  "id": 1326553189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12724,32.74584,74.12724,32.74584",
+    "geom:latitude":32.74584,
+    "geom:longitude":74.12724,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Lahorian",
+    "gn:country_code":"PK",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412692,
+    "gn:latitude":32.74584,
+    "gn:longitude":74.12724,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lahorian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412692
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"543eb0c538ba27dc0b562b404305cfde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1326553189,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326553189,
+    "wof:lastmodified":1536953907,
+    "wof:name":"Lahorian",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12724,
+    32.74584,
+    74.12724,
+    32.74584
+],
+  "geometry": {"coordinates":[74.12724,32.74584],"type":"Point"}
+}

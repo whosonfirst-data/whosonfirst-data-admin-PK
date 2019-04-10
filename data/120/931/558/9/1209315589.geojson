@@ -1,0 +1,67 @@
+{
+  "id": 1209315589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13172,34.68881,73.13172,34.68881",
+    "geom:latitude":34.68881,
+    "geom:longitude":73.13172,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Thur",
+    "gn:country_code":"PK",
+    "gn:dem":1555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11420570,
+    "gn:latitude":34.68881,
+    "gn:longitude":73.13172,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Thur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11420570
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"39c30a6c4aa0d295bf176a48ee2eefa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1209315589,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315589,
+    "wof:lastmodified":1543515569,
+    "wof:name":"Thur",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13172,
+    34.68881,
+    73.13172,
+    34.68881
+],
+  "geometry": {"coordinates":[73.13172,34.68881],"type":"Point"}
+}

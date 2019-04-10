@@ -1,0 +1,67 @@
+{
+  "id": 1243264647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19062,35.54506,73.19062,35.54506",
+    "geom:latitude":35.54506,
+    "geom:longitude":73.19062,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kuz Koi",
+    "gn:country_code":"PK",
+    "gn:dem":2799,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000421,
+    "gn:latitude":35.54506,
+    "gn:longitude":73.19062,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kuz Koi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000421
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d5f9badccfc5f3f276f161ef21777a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1243264647,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243264647,
+    "wof:lastmodified":1537064749,
+    "wof:name":"Kuz Koi",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19062,
+    35.54506,
+    73.19062,
+    35.54506
+],
+  "geometry": {"coordinates":[73.19062,35.54506],"type":"Point"}
+}

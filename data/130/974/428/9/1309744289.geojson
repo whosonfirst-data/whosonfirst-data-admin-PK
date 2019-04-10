@@ -1,0 +1,71 @@
+{
+  "id": 1309744289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54379,33.79853,72.54379,33.79853",
+    "geom:latitude":33.79853,
+    "geom:longitude":72.54379,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khudah",
+    "gn:country_code":"PK",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173767,
+    "gn:latitude":33.79853,
+    "gn:longitude":72.54379,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Khudah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khoda",
+        "Khudah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173767
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a5431e39393a25925b7cc41d28f1b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1309744289,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309744289,
+    "wof:lastmodified":1537679584,
+    "wof:name":"Khudah",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54379,
+    33.79853,
+    72.54379,
+    33.79853
+],
+  "geometry": {"coordinates":[72.54379,33.79853],"type":"Point"}
+}

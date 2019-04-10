@@ -1,0 +1,86 @@
+{
+  "id": 1259965469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51498,36.39522,73.51498,36.39522",
+    "geom:latitude":36.39522,
+    "geom:longitude":73.51498,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gonomo Kutanz",
+    "gn:country_code":"PK",
+    "gn:dem":3483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11043771,
+    "gn:latitude":36.39522,
+    "gn:longitude":73.51498,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gonomo Kutanz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11043771
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02b3a6c0deef998ea914f8d6a5c057ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1259965469,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1259965469,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1259965469,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259965469,
+    "wof:lastmodified":1536661166,
+    "wof:name":"Gonomo Kutanz",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51498000000002,
+    36.39522,
+    73.51498000000002,
+    36.39522
+],
+  "geometry": {"coordinates":[73.51498000000002,36.39522],"type":"Point"}
+}

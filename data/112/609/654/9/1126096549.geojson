@@ -1,0 +1,107 @@
+{
+  "id": 1126096549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03917,33.58549,73.03917,33.58549",
+    "geom:latitude":33.58549,
+    "geom:longitude":73.03917,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":33.58549,
+    "gn:longitude":73.03917,
+    "iso:country":"PK",
+    "lbl:latitude":33.58549,
+    "lbl:longitude":73.03917,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "\u0100dra"
+    ],
+    "name:und_x_colloquial":[
+        "Aadra",
+        "Adra"
+    ],
+    "name:und_x_preferred":[
+        "\u00c5dra"
+    ],
+    "name:unk_x_variant":[
+        "\u00c5dra"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1184937,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"\u00c5dra",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Punjab",
+    "qs_pg:photos":18,
+    "qs_pg:photos_1k":4,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":1,
+    "qs_pg:photos_all":18,
+    "qs_pg:photos_sr":1,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":59317,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2189950,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Punjab",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675753,
+        102191569,
+        85632659,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184937,
+        "gp:id":2189950,
+        "qs:id":59317,
+        "qs_pg:id":59317
+    },
+    "wof:country":"PK",
+    "wof:created":1497315335,
+    "wof:geomhash":"6b1f2a14070a9a7438ddf784e95c9745",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":-1,
+            "neighbourhood_id":1126096549,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1126096549,
+    "wof:lastmodified":1534379407,
+    "wof:name":"\u00c5dra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903655
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03917,
+    33.58549,
+    73.03917,
+    33.58549
+],
+  "geometry": {"coordinates":[73.03917,33.58549],"type":"Point"}
+}

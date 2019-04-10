@@ -1,0 +1,67 @@
+{
+  "id": 1209819787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25005,26.94952,68.25005,26.94952",
+    "geom:latitude":26.94952,
+    "geom:longitude":68.25005,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Miani",
+    "gn:country_code":"PK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368815,
+    "gn:latitude":26.94952,
+    "gn:longitude":68.25005,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Miani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692329
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368815
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e1e9b7da090acf837ce084da25923585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692329,
+            "locality_id":1209819787,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209819787,
+    "wof:lastmodified":1536379992,
+    "wof:name":"Miani",
+    "wof:parent_id":1108692329,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25005,
+    26.94952,
+    68.25005,
+    26.94952
+],
+  "geometry": {"coordinates":[68.25005,26.94952],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243355503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61633,34.54744,73.61633,34.54744",
+    "geom:latitude":34.54744,
+    "geom:longitude":73.61633,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kothiali",
+    "gn:country_code":"PK",
+    "gn:dem":3118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385364,
+    "gn:latitude":34.54744,
+    "gn:longitude":73.61633,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kothiali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuthi\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385364
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fdfe32b3ab6a065f0fce3a2884aa43fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243355503,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243355503,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243355503,
+    "wof:lastmodified":1537680838,
+    "wof:name":"Kothiali",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61633,
+    34.54744,
+    73.61633,
+    34.54744
+],
+  "geometry": {"coordinates":[73.61633,34.54744],"type":"Point"}
+}

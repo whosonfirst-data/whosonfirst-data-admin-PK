@@ -1,0 +1,67 @@
+{
+  "id": 1243455539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56977,35.98383,71.56977,35.98383",
+    "geom:latitude":35.98383,
+    "geom:longitude":71.56977,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Askalam",
+    "gn:country_code":"PK",
+    "gn:dem":2634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11123682,
+    "gn:latitude":35.98383,
+    "gn:longitude":71.56977,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Askalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11123682
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8d092b41edaa7fe3a1075900b899c026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1243455539,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243455539,
+    "wof:lastmodified":1536792699,
+    "wof:name":"Askalam",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56976999999998,
+    35.98383,
+    71.56976999999998,
+    35.98383
+],
+  "geometry": {"coordinates":[71.56976999999998,35.98383],"type":"Point"}
+}

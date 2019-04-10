@@ -1,0 +1,67 @@
+{
+  "id": 1310505915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51713,28.18856,68.51713,28.18856",
+    "geom:latitude":28.18856,
+    "geom:longitude":68.51713,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Abad",
+    "gn:country_code":"PK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11559122,
+    "gn:latitude":28.18856,
+    "gn:longitude":68.51713,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Abad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11559122
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0242ae949c843224e73604346d982821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1310505915,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310505915,
+    "wof:lastmodified":1536916801,
+    "wof:name":"Abad",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51713000000001,
+    28.18856,
+    68.51713000000001,
+    28.18856
+],
+  "geometry": {"coordinates":[68.51713000000001,28.18856],"type":"Point"}
+}

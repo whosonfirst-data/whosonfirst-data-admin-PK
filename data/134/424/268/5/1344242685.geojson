@@ -1,0 +1,78 @@
+{
+  "id": 1344242685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.00268,35.15836,75.00268,35.15836",
+    "geom:latitude":35.15836,
+    "geom:longitude":75.00268,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ai Gah",
+    "gn:country_code":"PK",
+    "gn:dem":2933,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070713,
+    "gn:latitude":35.15836,
+    "gn:longitude":75.00268,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Ai Gah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070713
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fc7ba6b4347833fb1be78654ee8585b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1344242685,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1344242685,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1344242685,
+    "wof:lastmodified":1536610025,
+    "wof:name":"Ai Gah",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.00268,
+    35.15835999999999,
+    75.00268,
+    35.15835999999999
+],
+  "geometry": {"coordinates":[75.00268,35.15835999999999],"type":"Point"}
+}

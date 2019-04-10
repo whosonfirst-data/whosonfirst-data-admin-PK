@@ -1,0 +1,81 @@
+{
+  "id": 1259475121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15347,33.12002,74.15347,33.12002",
+    "geom:latitude":33.12002,
+    "geom:longitude":74.15347,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bhata Khetar",
+    "gn:country_code":"PK",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415403,
+    "gn:latitude":33.12002,
+    "gn:longitude":74.15347,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhata Khetar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bh\u0101la Khatar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415403
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3b08c3798f8c521ae77d7aa75ac0fb47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259475121,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259475121,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259475121,
+    "wof:lastmodified":1537681361,
+    "wof:name":"Bhata Khetar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15347,
+    33.12002,
+    74.15347,
+    33.12002
+],
+  "geometry": {"coordinates":[74.15347,33.12002],"type":"Point"}
+}

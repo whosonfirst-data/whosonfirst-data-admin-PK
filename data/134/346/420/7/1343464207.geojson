@@ -1,0 +1,67 @@
+{
+  "id": 1343464207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.82789,30.54885,71.82789,30.54885",
+    "geom:latitude":30.54885,
+    "geom:longitude":71.82789,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mangawala",
+    "gn:country_code":"PK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409810,
+    "gn:latitude":30.54885,
+    "gn:longitude":71.82789,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mangawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409810
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97855ec74e2c30bbda92aecf4d97350d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1343464207,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343464207,
+    "wof:lastmodified":1536740511,
+    "wof:name":"Mangawala",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.82789,
+    30.54885,
+    71.82789,
+    30.54885
+],
+  "geometry": {"coordinates":[71.82789,30.54885],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225950977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0344,34.6271,73.0344,34.6271",
+    "geom:latitude":34.6271,
+    "geom:longitude":73.0344,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Banara",
+    "gn:country_code":"PK",
+    "gn:dem":1269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389711,
+    "gn:latitude":34.6271,
+    "gn:longitude":73.0344,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Banara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389711
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"098f03f51017d5b23d48ab9c2718fa2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1225950977,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225950977,
+    "wof:lastmodified":1543515604,
+    "wof:name":"Banara",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0344,
+    34.6271,
+    73.0344,
+    34.6271
+],
+  "geometry": {"coordinates":[73.03440000000001,34.6271],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310702609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13181,35.55546,73.13181,35.55546",
+    "geom:latitude":35.55546,
+    "geom:longitude":73.13181,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kohvey",
+    "gn:country_code":"PK",
+    "gn:dem":2705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000413,
+    "gn:latitude":35.55546,
+    "gn:longitude":73.13181,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kohvey",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000413
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2147e4c4a1df142c8aea0ecb25b405f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310702609,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310702609,
+    "wof:lastmodified":1536630959,
+    "wof:name":"Kohvey",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13181,
+    35.55546,
+    73.13181,
+    35.55546
+],
+  "geometry": {"coordinates":[73.13181,35.55546],"type":"Point"}
+}

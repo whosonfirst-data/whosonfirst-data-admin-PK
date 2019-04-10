@@ -1,0 +1,67 @@
+{
+  "id": 1293521473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.75412,33.85503,72.75412,33.85503",
+    "geom:latitude":33.85503,
+    "geom:longitude":72.75412,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lab",
+    "gn:country_code":"PK",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338365,
+    "gn:latitude":33.85503,
+    "gn:longitude":72.75412,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Lab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338365
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83751543c8b41973ae1df7274ffc395b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1293521473,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293521473,
+    "wof:lastmodified":1536738026,
+    "wof:name":"Lab",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.75412,
+    33.85503,
+    72.75412,
+    33.85503
+],
+  "geometry": {"coordinates":[72.75412,33.85503],"type":"Point"}
+}

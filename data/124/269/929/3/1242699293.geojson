@@ -1,0 +1,78 @@
+{
+  "id": 1242699293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.0,33.925,74.0,33.925",
+    "geom:latitude":33.925,
+    "geom:longitude":74.0,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Budhia",
+    "gn:country_code":"PK",
+    "gn:dem":2105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414797,
+    "gn:latitude":33.925,
+    "gn:longitude":74.0,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Budhia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414797
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f7fb74c8918586d16de8cebc7230765",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1242699293,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1242699293,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242699293,
+    "wof:lastmodified":1536888107,
+    "wof:name":"Budhia",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.0,
+    33.925,
+    74.0,
+    33.925
+],
+  "geometry": {"coordinates":[74.0,33.925],"type":"Point"}
+}

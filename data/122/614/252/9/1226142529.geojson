@@ -1,0 +1,67 @@
+{
+  "id": 1226142529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.57725,32.52194,71.57725,32.52194",
+    "geom:latitude":32.52194,
+    "geom:longitude":71.57725,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Azimwala",
+    "gn:country_code":"PK",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333429,
+    "gn:latitude":32.52194,
+    "gn:longitude":71.57725,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Azimwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333429
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9aa6eb07edb78a254947af7acd463111",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1226142529,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226142529,
+    "wof:lastmodified":1537079221,
+    "wof:name":"Azimwala",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.57725,
+    32.52194,
+    71.57725,
+    32.52194
+],
+  "geometry": {"coordinates":[71.57725000000001,32.52194],"type":"Point"}
+}

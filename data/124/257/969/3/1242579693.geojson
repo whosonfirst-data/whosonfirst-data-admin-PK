@@ -1,0 +1,67 @@
+{
+  "id": 1242579693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.87434,26.03299,62.87434,26.03299",
+    "geom:latitude":26.03299,
+    "geom:longitude":62.87434,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mirmir",
+    "gn:country_code":"PK",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988179,
+    "gn:latitude":26.03299,
+    "gn:longitude":62.87434,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Mirmir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988179
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebe799ed5c3e0d7fe75d2a81fa008d8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1242579693,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242579693,
+    "wof:lastmodified":1537058074,
+    "wof:name":"Mirmir",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.87434,
+    26.03299,
+    62.87434,
+    26.03299
+],
+  "geometry": {"coordinates":[62.87434,26.03299],"type":"Point"}
+}

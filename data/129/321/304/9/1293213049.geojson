@@ -1,0 +1,67 @@
+{
+  "id": 1293213049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8352,30.42302,68.8352,30.42302",
+    "geom:latitude":30.42302,
+    "geom:longitude":68.8352,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mughal Qila",
+    "gn:country_code":"PK",
+    "gn:dem":1291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1396636,
+    "gn:latitude":30.42302,
+    "gn:longitude":68.8352,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Mughal Qila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1396636
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c47175e9ccf483575802424693a39f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1293213049,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293213049,
+    "wof:lastmodified":1536685618,
+    "wof:name":"Mughal Qila",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8352,
+    30.42302,
+    68.8352,
+    30.42302
+],
+  "geometry": {"coordinates":[68.8352,30.42302],"type":"Point"}
+}

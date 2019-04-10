@@ -1,0 +1,67 @@
+{
+  "id": 1193138481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.45113,35.02517,73.45113,35.02517",
+    "geom:latitude":35.02517,
+    "geom:longitude":73.45113,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shenkhor",
+    "gn:country_code":"PK",
+    "gn:dem":3375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165212,
+    "gn:latitude":35.02517,
+    "gn:longitude":73.45113,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Shenkhor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165212
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d6f9339186ceee917de6e091e3af7ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1193138481,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193138481,
+    "wof:lastmodified":1543515428,
+    "wof:name":"Shenkhor",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.45113,
+    35.02517,
+    73.45113,
+    35.02517
+],
+  "geometry": {"coordinates":[73.45113000000001,35.02517],"type":"Point"}
+}

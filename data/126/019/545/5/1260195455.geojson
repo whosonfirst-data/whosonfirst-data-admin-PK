@@ -1,0 +1,67 @@
+{
+  "id": 1260195455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77115,31.39548,69.77115,31.39548",
+    "geom:latitude":31.39548,
+    "geom:longitude":69.77115,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Barkat Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337707,
+    "gn:latitude":31.39548,
+    "gn:longitude":69.77115,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Barkat Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337707
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7b61a85c76acd1b2105f6c17a3f5cdb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1260195455,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260195455,
+    "wof:lastmodified":1536830451,
+    "wof:name":"Barkat Kili",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77115,
+    31.39548,
+    69.77115,
+    31.39548
+],
+  "geometry": {"coordinates":[69.77115000000001,31.39548],"type":"Point"}
+}

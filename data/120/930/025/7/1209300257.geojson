@@ -1,0 +1,64 @@
+{
+  "id": 1209300257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.70692,36.75349,74.70692,36.75349",
+    "geom:latitude":36.75349,
+    "geom:longitude":74.70692,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khairabad",
+    "gn:country_code":"PK",
+    "gn:dem":3061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464527,
+    "gn:latitude":36.75349,
+    "gn:longitude":74.70692,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Khairabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Raminj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464527
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2652bfbf433066a6dfc5b1934532f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209300257
+        }
+    ],
+    "wof:id":1209300257,
+    "wof:lastmodified":1537681547,
+    "wof:name":"Khairabad",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.70692,
+    36.75349,
+    74.70692,
+    36.75349
+],
+  "geometry": {"coordinates":[74.70692,36.75349],"type":"Point"}
+}

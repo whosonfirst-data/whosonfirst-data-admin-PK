@@ -1,0 +1,67 @@
+{
+  "id": 1242679877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40519,30.74546,69.40519,30.74546",
+    "geom:latitude":30.74546,
+    "geom:longitude":69.40519,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ahmad Tsah",
+    "gn:country_code":"PK",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353528,
+    "gn:latitude":30.74546,
+    "gn:longitude":69.40519,
+    "gn:modification_date":"2001-05-07",
+    "gn:name":"Ahmad Tsah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353528
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9a3db3127516ac248078087541da7af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1242679877,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242679877,
+    "wof:lastmodified":1536916982,
+    "wof:name":"Ahmad Tsah",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40519,
+    30.74546,
+    69.40519,
+    30.74546
+],
+  "geometry": {"coordinates":[69.40519,30.74546],"type":"Point"}
+}

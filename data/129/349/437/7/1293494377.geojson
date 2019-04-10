@@ -1,0 +1,67 @@
+{
+  "id": 1293494377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.04563,32.07583,71.04563,32.07583",
+    "geom:latitude":32.07583,
+    "geom:longitude":71.04563,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khaki",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318960,
+    "gn:latitude":32.07583,
+    "gn:longitude":71.04563,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Khaki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318960
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8b21bf52761304e37ed4d5c4c7c87175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1293494377,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293494377,
+    "wof:lastmodified":1536777620,
+    "wof:name":"Khaki",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.04563,
+    32.07583,
+    71.04563,
+    32.07583
+],
+  "geometry": {"coordinates":[71.04563,32.07583],"type":"Point"}
+}

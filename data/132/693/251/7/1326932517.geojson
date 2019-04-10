@@ -1,0 +1,67 @@
+{
+  "id": 1326932517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.28963,28.01182,63.28963,28.01182",
+    "geom:latitude":28.01182,
+    "geom:longitude":63.28963,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalago",
+    "gn:country_code":"PK",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200912,
+    "gn:latitude":28.01182,
+    "gn:longitude":63.28963,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Kalago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200912
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"90717dfcc753bf92c696f4ef6bd59ab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1326932517,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326932517,
+    "wof:lastmodified":1536904511,
+    "wof:name":"Kalago",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.28963,
+    28.01182,
+    63.28963,
+    28.01182
+],
+  "geometry": {"coordinates":[63.28963,28.01182],"type":"Point"}
+}

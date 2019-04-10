@@ -1,0 +1,88 @@
+{
+  "id": 1125937531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8,30.83333,72.8,30.83333",
+    "geom:latitude":30.83333,
+    "geom:longitude":72.8,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":31914,
+    "gn:population":31914,
+    "iso:country":"PK",
+    "lbl:latitude":30.83333,
+    "lbl:longitude":72.8,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Mamu Kanjan"
+    ],
+    "name:eng_x_preferred":[
+        "Mamu Kanjan"
+    ],
+    "name:por_x_preferred":[
+        "Mamu Kanjan"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1171198,
+    "qs_pg:gn_pop":31914,
+    "qs_pg:name":"M\u0101mu K\u0101njan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":130747,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171198,
+        "qs_pg:id":130747,
+        "wd:id":"Q6745993"
+    },
+    "wof:country":"PK",
+    "wof:created":1497297014,
+    "wof:geomhash":"55447a36f7cf32c39c4e2a697f51b2dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1125937531,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125937531,
+    "wof:lastmodified":1514496835,
+    "wof:name":"M\u0101mu K\u0101njan",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"locality",
+    "wof:population":31914,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8,
+    30.83333,
+    72.8,
+    30.83333
+],
+  "geometry": {"coordinates":[72.8,30.83333],"type":"Point"}
+}

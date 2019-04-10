@@ -1,0 +1,93 @@
+{
+  "id": 1126065027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98754,24.82345,66.98754,24.82345",
+    "geom:latitude":24.82345,
+    "geom:longitude":66.98754,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "iso:country":"PK",
+    "lbl:latitude":24.82345,
+    "lbl:longitude":66.98754,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1173638,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Kiam\u00e5ri",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":136,
+    "qs_pg:photos_1k":28,
+    "qs_pg:photos_9k":1,
+    "qs_pg:photos_9r":3,
+    "qs_pg:photos_all":136,
+    "qs_pg:photos_sr":3,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1168422,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2200646,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675757,
+        102191569,
+        85632659,
+        1108692233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173638,
+        "gp:id":2200646,
+        "qs_pg:id":1168422
+    },
+    "wof:country":"PK",
+    "wof:created":1497308731,
+    "wof:geomhash":"32158ec55b2717ea907155ec65951818",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":1126065027,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1126065027,
+    "wof:lastmodified":1534379406,
+    "wof:name":"Kiam\u00e5ri",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[
+        85903689
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98754,
+    24.82345,
+    66.98754,
+    24.82345
+],
+  "geometry": {"coordinates":[66.98754,24.82345],"type":"Point"}
+}

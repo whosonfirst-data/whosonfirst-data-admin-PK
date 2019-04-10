@@ -1,0 +1,67 @@
+{
+  "id": 1243555753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95368,34.44609,72.95368,34.44609",
+    "geom:latitude":34.44609,
+    "geom:longitude":72.95368,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kangar",
+    "gn:country_code":"PK",
+    "gn:dem":1014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378765,
+    "gn:latitude":34.44609,
+    "gn:longitude":72.95368,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378765
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"19e210e67dfb8d1b7c50552c8e80fee5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1243555753,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243555753,
+    "wof:lastmodified":1536647641,
+    "wof:name":"Kangar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95368,
+    34.44609000000001,
+    72.95368,
+    34.44609000000001
+],
+  "geometry": {"coordinates":[72.95368000000001,34.44609000000001],"type":"Point"}
+}

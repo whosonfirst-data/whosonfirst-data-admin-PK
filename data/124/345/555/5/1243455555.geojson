@@ -1,0 +1,67 @@
+{
+  "id": 1243455555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.117,32.15673,70.117,32.15673",
+    "geom:latitude":32.15673,
+    "geom:longitude":70.117,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kot Nawaz",
+    "gn:country_code":"PK",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339439,
+    "gn:latitude":32.15673,
+    "gn:longitude":70.117,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kot Nawaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339439
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4f23e5b76d8f5c2b47d567c63c9b3dac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692407,
+            "locality_id":1243455555,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243455555,
+    "wof:lastmodified":1536792677,
+    "wof:name":"Kot Nawaz",
+    "wof:parent_id":1108692407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.117,
+    32.15673,
+    70.117,
+    32.15673
+],
+  "geometry": {"coordinates":[70.117,32.15673],"type":"Point"}
+}

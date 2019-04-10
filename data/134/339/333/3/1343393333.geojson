@@ -1,0 +1,67 @@
+{
+  "id": 1343393333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79424,29.37201,70.79424,29.37201",
+    "geom:latitude":29.37201,
+    "geom:longitude":70.79424,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Walwat",
+    "gn:country_code":"PK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1393010,
+    "gn:latitude":29.37201,
+    "gn:longitude":70.79424,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Walwat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1393010
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6aa7847b7c890d8476d14b5fe8589a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343393333,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343393333,
+    "wof:lastmodified":1536842122,
+    "wof:name":"Walwat",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79424,
+    29.37201,
+    70.79424,
+    29.37201
+],
+  "geometry": {"coordinates":[70.79424,29.37201],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1225935919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61637,34.50911,73.61637,34.50911",
+    "geom:latitude":34.50911,
+    "geom:longitude":73.61637,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Machiara",
+    "gn:country_code":"PK",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385356,
+    "gn:latitude":34.50911,
+    "gn:longitude":73.61637,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Machiara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Machhi\u0101ra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385356
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa1305a005010da98a26616a4848f485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1225935919,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1225935919,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1225935919,
+    "wof:lastmodified":1537680838,
+    "wof:name":"Machiara",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61636999999997,
+    34.50911,
+    73.61636999999997,
+    34.50911
+],
+  "geometry": {"coordinates":[73.61636999999997,34.50911],"type":"Point"}
+}

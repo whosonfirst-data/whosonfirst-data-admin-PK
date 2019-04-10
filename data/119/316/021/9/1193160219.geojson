@@ -1,0 +1,67 @@
+{
+  "id": 1193160219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73063,30.0348,72.73063,30.0348",
+    "geom:latitude":30.0348,
+    "geom:longitude":72.73063,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tibiwala",
+    "gn:country_code":"PK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494305,
+    "gn:latitude":30.0348,
+    "gn:longitude":72.73063,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Tibiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494305
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebd27b1fd6ab3bc3729bb1d11a1959a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1193160219,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193160219,
+    "wof:lastmodified":1536368670,
+    "wof:name":"Tibiwala",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73063,
+    30.0348,
+    72.73063,
+    30.0348
+],
+  "geometry": {"coordinates":[72.73063,30.0348],"type":"Point"}
+}

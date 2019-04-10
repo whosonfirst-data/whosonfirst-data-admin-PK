@@ -1,0 +1,71 @@
+{
+  "id": 1210039913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6941,31.35669,73.6941,31.35669",
+    "geom:latitude":31.35669,
+    "geom:longitude":73.6941,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Barkhurdar",
+    "gn:country_code":"PK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183304,
+    "gn:latitude":31.35669,
+    "gn:longitude":73.6941,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Barkhurdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burkhurdar",
+        "Barkhurdar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183304
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77753efb445c3eac9a5cd9094573e86b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692323,
+            "locality_id":1210039913,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1210039913,
+    "wof:lastmodified":1537679929,
+    "wof:name":"Barkhurdar",
+    "wof:parent_id":1108692323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6941,
+    31.35669,
+    73.6941,
+    31.35669
+],
+  "geometry": {"coordinates":[73.69410000000001,31.35669],"type":"Point"}
+}

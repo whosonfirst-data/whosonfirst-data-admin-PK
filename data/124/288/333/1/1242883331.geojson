@@ -1,0 +1,67 @@
+{
+  "id": 1242883331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.22505,33.2218,70.22505,33.2218",
+    "geom:latitude":33.2218,
+    "geom:longitude":70.22505,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Man Zhawar",
+    "gn:country_code":"PK",
+    "gn:dem":964,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170923,
+    "gn:latitude":33.2218,
+    "gn:longitude":70.22505,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Man Zhawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170923
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7621f797c937197a608105e39e1b6b9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1242883331,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1242883331,
+    "wof:lastmodified":1536621169,
+    "wof:name":"Man Zhawar",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.22505,
+    33.2218,
+    70.22505,
+    33.2218
+],
+  "geometry": {"coordinates":[70.22505,33.2218],"type":"Point"}
+}

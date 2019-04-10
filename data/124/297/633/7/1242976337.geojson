@@ -1,0 +1,67 @@
+{
+  "id": 1242976337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03205,29.83655,73.03205,29.83655",
+    "geom:latitude":29.83655,
+    "geom:longitude":73.03205,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hamidpur",
+    "gn:country_code":"PK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11086166,
+    "gn:latitude":29.83655,
+    "gn:longitude":73.03205,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hamidpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11086166
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d932c7ec3a8cc864cb9afbcf7e286a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1242976337,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242976337,
+    "wof:lastmodified":1536985441,
+    "wof:name":"Hamidpur",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03205,
+    29.83655,
+    73.03205,
+    29.83655
+],
+  "geometry": {"coordinates":[73.03205,29.83655],"type":"Point"}
+}

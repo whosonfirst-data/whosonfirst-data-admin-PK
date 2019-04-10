@@ -1,0 +1,67 @@
+{
+  "id": 1310508287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24767,35.27296,73.24767,35.27296",
+    "geom:latitude":35.27296,
+    "geom:longitude":73.24767,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bela",
+    "gn:country_code":"PK",
+    "gn:dem":1070,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999960,
+    "gn:latitude":35.27296,
+    "gn:longitude":73.24767,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999960
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d3aa9857c51bec4c99a58447352bb84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310508287,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310508287,
+    "wof:lastmodified":1536913258,
+    "wof:name":"Bela",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24767,
+    35.27296,
+    73.24767,
+    35.27296
+],
+  "geometry": {"coordinates":[73.24767,35.27296],"type":"Point"}
+}

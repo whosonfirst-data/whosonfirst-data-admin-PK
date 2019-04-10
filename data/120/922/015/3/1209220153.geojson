@@ -1,0 +1,64 @@
+{
+  "id": 1209220153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08306,33.45074,72.08306,33.45074",
+    "geom:latitude":33.45074,
+    "geom:longitude":72.08306,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok",
+    "gn:country_code":"PK",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180224,
+    "gn:latitude":33.45074,
+    "gn:longitude":72.08306,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Dhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dh\u0101k"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180224
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec2a17f3cfcc254e353da27979014152",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209220153
+        }
+    ],
+    "wof:id":1209220153,
+    "wof:lastmodified":1537679811,
+    "wof:name":"Dhok",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08306,
+    33.45074,
+    72.08306,
+    33.45074
+],
+  "geometry": {"coordinates":[72.08306,33.45074],"type":"Point"}
+}

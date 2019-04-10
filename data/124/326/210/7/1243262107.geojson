@@ -1,0 +1,67 @@
+{
+  "id": 1243262107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47778,25.35139,69.47778,25.35139",
+    "geom:latitude":25.35139,
+    "geom:longitude":69.47778,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Akhaji Thakur",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1362326,
+    "gn:latitude":25.35139,
+    "gn:longitude":69.47778,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Akhaji Thakur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1362326
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fc820826dd002f978acb3931b9bdd798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1243262107,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243262107,
+    "wof:lastmodified":1537068321,
+    "wof:name":"Akhaji Thakur",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47778000000001,
+    25.35139,
+    69.47778000000001,
+    25.35139
+],
+  "geometry": {"coordinates":[69.47778000000001,25.35139],"type":"Point"}
+}

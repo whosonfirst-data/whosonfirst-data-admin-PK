@@ -1,0 +1,67 @@
+{
+  "id": 1226450341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.66594,30.01358,69.66594,30.01358",
+    "geom:latitude":30.01358,
+    "geom:longitude":69.66594,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Angiani",
+    "gn:country_code":"PK",
+    "gn:dem":1270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11152348,
+    "gn:latitude":30.01358,
+    "gn:longitude":69.66594,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Angiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11152348
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"243e2df2b13d209df0ca919cc4a3009c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692139,
+            "locality_id":1226450341,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226450341,
+    "wof:lastmodified":1536637673,
+    "wof:name":"Angiani",
+    "wof:parent_id":1108692139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.66594,
+    30.01358,
+    69.66594,
+    30.01358
+],
+  "geometry": {"coordinates":[69.66594000000001,30.01358],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243453777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47897,33.06888,71.47897,33.06888",
+    "geom:latitude":33.06888,
+    "geom:longitude":71.47897,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kanda",
+    "gn:country_code":"PK",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067781,
+    "gn:latitude":33.06888,
+    "gn:longitude":71.47897,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067781
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7ca10cb55c1a965ceb1400a2763dac96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1243453777,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243453777,
+    "wof:lastmodified":1536795193,
+    "wof:name":"Kanda",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47896999999998,
+    33.06888,
+    71.47896999999998,
+    33.06888
+],
+  "geometry": {"coordinates":[71.47896999999998,33.06888],"type":"Point"}
+}

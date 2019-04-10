@@ -1,0 +1,67 @@
+{
+  "id": 1242700915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21072,32.7543,72.21072,32.7543",
+    "geom:latitude":32.7543,
+    "geom:longitude":72.21072,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jaba",
+    "gn:country_code":"PK",
+    "gn:dem":566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370483,
+    "gn:latitude":32.7543,
+    "gn:longitude":72.21072,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Jaba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370483
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c04861bb1d1c3f235dd0b025b7f2ac24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1242700915,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242700915,
+    "wof:lastmodified":1536885681,
+    "wof:name":"Jaba",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21072,
+    32.7543,
+    72.21072,
+    32.7543
+],
+  "geometry": {"coordinates":[72.21071999999999,32.7543],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260188143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.29999,32.32582,75.29999,32.32582",
+    "geom:latitude":32.32582,
+    "geom:longitude":75.29999,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Masrur",
+    "gn:country_code":"PK",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170727,
+    "gn:latitude":32.32582,
+    "gn:longitude":75.29999,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Masrur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170727
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4a7ea7e3a3869e9853aff88349ada367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1260188143,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260188143,
+    "wof:lastmodified":1536840512,
+    "wof:name":"Masrur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.29999000000002,
+    32.32582,
+    75.29999000000002,
+    32.32582
+],
+  "geometry": {"coordinates":[75.29999000000002,32.32582],"type":"Point"}
+}

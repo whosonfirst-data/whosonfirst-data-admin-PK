@@ -1,0 +1,67 @@
+{
+  "id": 1243271879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.26,31.18,68.26,31.18",
+    "geom:latitude":31.18,
+    "geom:longitude":68.26,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"El Salado",
+    "gn:country_code":"PK",
+    "gn:dem":2412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9165732,
+    "gn:latitude":31.18,
+    "gn:longitude":68.26,
+    "gn:modification_date":"2014-06-10",
+    "gn:name":"El Salado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9165732
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e961abfbbe6498fbd8f3026137ec703d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1243271879,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243271879,
+    "wof:lastmodified":1537054721,
+    "wof:name":"El Salado",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.26,
+    31.18,
+    68.26,
+    31.18
+],
+  "geometry": {"coordinates":[68.26000000000001,31.18],"type":"Point"}
+}

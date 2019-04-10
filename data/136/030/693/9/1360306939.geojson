@@ -1,0 +1,78 @@
+{
+  "id": 1360306939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.03109,33.37685,74.03109,33.37685",
+    "geom:latitude":33.37685,
+    "geom:longitude":74.03109,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhara",
+    "gn:country_code":"PK",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415083,
+    "gn:latitude":33.37685,
+    "gn:longitude":74.03109,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dhara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415083
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fc4436fb9f089ca655b5da990fb7af8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1360306939,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1360306939,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1360306939,
+    "wof:lastmodified":1536623645,
+    "wof:name":"Dhara",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.03109,
+    33.37685,
+    74.03109,
+    33.37685
+],
+  "geometry": {"coordinates":[74.03109000000001,33.37685],"type":"Point"}
+}

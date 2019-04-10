@@ -1,0 +1,64 @@
+{
+  "id": 1209638775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.98481,30.82191,70.98481,30.82191",
+    "geom:latitude":30.82191,
+    "geom:longitude":70.98481,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wanjherawala",
+    "gn:country_code":"PK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7321054,
+    "gn:latitude":30.82191,
+    "gn:longitude":70.98481,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Wanjherawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wanjherawala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321054
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"855bd27588c3c668e8cf7e75ccffd39b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638775
+        }
+    ],
+    "wof:id":1209638775,
+    "wof:lastmodified":1537681738,
+    "wof:name":"Wanjherawala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.98481,
+    30.82191,
+    70.98481,
+    30.82191
+],
+  "geometry": {"coordinates":[70.98481,30.82191],"type":"Point"}
+}

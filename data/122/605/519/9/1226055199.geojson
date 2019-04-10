@@ -1,0 +1,67 @@
+{
+  "id": 1226055199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.92592,28.7694,65.92592,28.7694",
+    "geom:latitude":28.7694,
+    "geom:longitude":65.92592,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sodagir",
+    "gn:country_code":"PK",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164688,
+    "gn:latitude":28.7694,
+    "gn:longitude":65.92592,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sodagir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164688
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fde851639bd178fe6d39e88e91176d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1226055199,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226055199,
+    "wof:lastmodified":1536711780,
+    "wof:name":"Sodagir",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.92591999999999,
+    28.7694,
+    65.92591999999999,
+    28.7694
+],
+  "geometry": {"coordinates":[65.92591999999999,28.7694],"type":"Point"}
+}

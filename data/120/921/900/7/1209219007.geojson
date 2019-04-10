@@ -1,0 +1,64 @@
+{
+  "id": 1209219007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.80591,27.58461,67.80591,27.58461",
+    "geom:latitude":27.58461,
+    "geom:longitude":67.80591,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ghul Tunio",
+    "gn:country_code":"PK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352494,
+    "gn:latitude":27.58461,
+    "gn:longitude":67.80591,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ghul Tunio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352494
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d83bef080a76e8e9d5935eb5a53649a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209219007
+        }
+    ],
+    "wof:id":1209219007,
+    "wof:lastmodified":1537680295,
+    "wof:name":"Ghul Tunio",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.80591,
+    27.58461,
+    67.80591,
+    27.58461
+],
+  "geometry": {"coordinates":[67.80591,27.58461],"type":"Point"}
+}

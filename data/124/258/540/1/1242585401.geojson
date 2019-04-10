@@ -1,0 +1,67 @@
+{
+  "id": 1242585401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.30419,27.25565,65.30419,27.25565",
+    "geom:latitude":27.25565,
+    "geom:longitude":65.30419,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Beront",
+    "gn:country_code":"PK",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11099714,
+    "gn:latitude":27.25565,
+    "gn:longitude":65.30419,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Beront",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11099714
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc2f1eccf1955507966fa0a618d97d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1242585401,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242585401,
+    "wof:lastmodified":1537050208,
+    "wof:name":"Beront",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.30419,
+    27.25565,
+    65.30419,
+    27.25565
+],
+  "geometry": {"coordinates":[65.30419000000001,27.25565],"type":"Point"}
+}

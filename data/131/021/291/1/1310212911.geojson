@@ -1,0 +1,67 @@
+{
+  "id": 1310212911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.22253,30.32368,69.22253,30.32368",
+    "geom:latitude":30.32368,
+    "geom:longitude":69.22253,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Shabe",
+    "gn:country_code":"PK",
+    "gn:dem":1153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397399,
+    "gn:latitude":30.32368,
+    "gn:longitude":69.22253,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Shabe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397399
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9625abfa80708cbe41a64566b7fbd2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1310212911,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310212911,
+    "wof:lastmodified":1536840469,
+    "wof:name":"Shabe",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.22253,
+    30.32368,
+    69.22253,
+    30.32368
+],
+  "geometry": {"coordinates":[69.22253000000001,30.32368],"type":"Point"}
+}

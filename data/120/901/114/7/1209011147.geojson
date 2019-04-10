@@ -1,0 +1,74 @@
+{
+  "id": 1209011147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87357,34.17288,71.87357,34.17288",
+    "geom:latitude":34.17288,
+    "geom:longitude":71.87357,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Koto Qalat Nasir",
+    "gn:country_code":"PK",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167627,
+    "gn:latitude":34.17288,
+    "gn:longitude":71.87357,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Koto Qalat Nasir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qal\u0101t-i Nas\u012br"
+    ],
+    "name:und_x_variant":[
+        "Qalat Nasir",
+        "Koto Qalat Nasir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167627
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f88bb86b86f9714ccbd494e5a637b083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1209011147,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209011147,
+    "wof:lastmodified":1543515240,
+    "wof:name":"Koto Qalat Nasir",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87357,
+    34.17288,
+    71.87357,
+    34.17288
+],
+  "geometry": {"coordinates":[71.87357,34.17288],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210015003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48717,25.4336,70.48717,25.4336",
+    "geom:latitude":25.4336,
+    "geom:longitude":70.48717,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Charhiar",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039382,
+    "gn:latitude":25.4336,
+    "gn:longitude":70.48717,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Charhiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039382
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab94cb9537a5da00e6cde7d2673a46e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1210015003,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1210015003,
+    "wof:lastmodified":1536395490,
+    "wof:name":"Charhiar",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48716999999998,
+    25.4336,
+    70.48716999999998,
+    25.4336
+],
+  "geometry": {"coordinates":[70.48716999999998,25.4336],"type":"Point"}
+}

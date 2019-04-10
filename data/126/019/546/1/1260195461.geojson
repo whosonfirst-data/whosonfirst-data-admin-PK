@@ -1,0 +1,67 @@
+{
+  "id": 1260195461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.46087,27.57483,66.46087,27.57483",
+    "geom:latitude":27.57483,
+    "geom:longitude":66.46087,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jumazai",
+    "gn:country_code":"PK",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11100581,
+    "gn:latitude":27.57483,
+    "gn:longitude":66.46087,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Jumazai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11100581
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d8a832a1f7b16ccdf31d8e5c2e0ed7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1260195461,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260195461,
+    "wof:lastmodified":1536830440,
+    "wof:name":"Jumazai",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.46087,
+    27.57483,
+    66.46087,
+    27.57483
+],
+  "geometry": {"coordinates":[66.46087,27.57483],"type":"Point"}
+}

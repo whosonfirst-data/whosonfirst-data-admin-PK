@@ -1,0 +1,67 @@
+{
+  "id": 1343963665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.01775,29.90236,71.01775,29.90236",
+    "geom:latitude":29.90236,
+    "geom:longitude":71.01775,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mehndabad",
+    "gn:country_code":"PK",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388380,
+    "gn:latitude":29.90236,
+    "gn:longitude":71.01775,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mehndabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388380
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4bcaae4a3aedcf0d7fdcb979d5710842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343963665,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343963665,
+    "wof:lastmodified":1537014565,
+    "wof:name":"Mehndabad",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.01775,
+    29.90236,
+    71.01775,
+    29.90236
+],
+  "geometry": {"coordinates":[71.01775000000001,29.90236],"type":"Point"}
+}

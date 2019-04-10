@@ -1,0 +1,67 @@
+{
+  "id": 1326728665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.04033,26.76562,69.04033,26.76562",
+    "geom:latitude":26.76562,
+    "geom:longitude":69.04033,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kath Garh",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369897,
+    "gn:latitude":26.76562,
+    "gn:longitude":69.04033,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kath Garh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369897
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"32e4a78d86c6ebe10bbdd1f3289f2e28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1326728665,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1326728665,
+    "wof:lastmodified":1536701190,
+    "wof:name":"Kath Garh",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.04033000000001,
+    26.76562,
+    69.04033000000001,
+    26.76562
+],
+  "geometry": {"coordinates":[69.04033000000001,26.76562],"type":"Point"}
+}

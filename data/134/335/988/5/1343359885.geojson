@@ -1,0 +1,70 @@
+{
+  "id": 1343359885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32928,33.95938,73.32928,33.95938",
+    "geom:latitude":33.95938,
+    "geom:longitude":73.32928,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maira",
+    "gn:country_code":"PK",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081169,
+    "gn:latitude":33.95938,
+    "gn:longitude":73.32928,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Maira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Maira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081169
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dffda2ab1b383e10ab66cedb3d602ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1343359885,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343359885,
+    "wof:lastmodified":1537681644,
+    "wof:name":"Maira",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32928000000003,
+    33.95938,
+    73.32928000000003,
+    33.95938
+],
+  "geometry": {"coordinates":[73.32928000000003,33.95938],"type":"Point"}
+}

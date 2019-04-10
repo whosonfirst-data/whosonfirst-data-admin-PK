@@ -1,0 +1,67 @@
+{
+  "id": 1209815177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.36558,31.05627,71.36558,31.05627",
+    "geom:latitude":31.05627,
+    "geom:longitude":71.36558,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Werewala",
+    "gn:country_code":"PK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11548174,
+    "gn:latitude":31.05627,
+    "gn:longitude":71.36558,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Werewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11548174
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f22dda81f8a1dc63cd1a776faba28001",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1209815177,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209815177,
+    "wof:lastmodified":1536384572,
+    "wof:name":"Werewala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.36558000000002,
+    31.05627,
+    71.36558000000002,
+    31.05627
+],
+  "geometry": {"coordinates":[71.36558000000002,31.05627],"type":"Point"}
+}

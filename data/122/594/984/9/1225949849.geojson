@@ -1,0 +1,71 @@
+{
+  "id": 1225949849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.83884,32.77483,73.83884,32.77483",
+    "geom:latitude":32.77483,
+    "geom:longitude":73.83884,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mandir",
+    "gn:country_code":"PK",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171115,
+    "gn:latitude":32.77483,
+    "gn:longitude":73.83884,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Mandir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mandeer",
+        "Mandir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171115
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"03d6c4f964f0857ae0e0dc62cc61159b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1225949849,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225949849,
+    "wof:lastmodified":1537679490,
+    "wof:name":"Mandir",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.83884,
+    32.77483,
+    73.83884,
+    32.77483
+],
+  "geometry": {"coordinates":[73.83884,32.77483],"type":"Point"}
+}

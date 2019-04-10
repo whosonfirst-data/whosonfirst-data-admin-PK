@@ -1,0 +1,67 @@
+{
+  "id": 1193278993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.86866,33.55838,70.86866,33.55838",
+    "geom:latitude":33.55838,
+    "geom:longitude":70.86866,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Draga",
+    "gn:country_code":"PK",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131550,
+    "gn:latitude":33.55838,
+    "gn:longitude":70.86866,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Draga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131550
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ef436f801c658a2549fb0ae48eb184d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1193278993,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193278993,
+    "wof:lastmodified":1543515564,
+    "wof:name":"Draga",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.86865999999998,
+    33.55838,
+    70.86865999999998,
+    33.55838
+],
+  "geometry": {"coordinates":[70.86865999999998,33.55838],"type":"Point"}
+}

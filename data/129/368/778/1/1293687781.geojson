@@ -1,0 +1,67 @@
+{
+  "id": 1293687781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.34321,31.70641,70.34321,31.70641",
+    "geom:latitude":31.70641,
+    "geom:longitude":70.34321,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Borring",
+    "gn:country_code":"PK",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10371762,
+    "gn:latitude":31.70641,
+    "gn:longitude":70.34321,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Borring",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10371762
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77e038ed899417e9814935c2069997b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1293687781,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293687781,
+    "wof:lastmodified":1536994789,
+    "wof:name":"Borring",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.34321,
+    31.70641,
+    70.34321,
+    31.70641
+],
+  "geometry": {"coordinates":[70.34321,31.70641],"type":"Point"}
+}

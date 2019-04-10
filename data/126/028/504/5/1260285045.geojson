@@ -1,0 +1,67 @@
+{
+  "id": 1260285045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.4256,35.46664,73.4256,35.46664",
+    "geom:latitude":35.46664,
+    "geom:longitude":73.4256,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kun",
+    "gn:country_code":"PK",
+    "gn:dem":1884,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022593,
+    "gn:latitude":35.46664,
+    "gn:longitude":73.4256,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022593
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec7b9421b334c78caffac55a7507ddb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1260285045,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260285045,
+    "wof:lastmodified":1536710160,
+    "wof:name":"Kun",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.4256,
+    35.46664000000001,
+    73.4256,
+    35.46664000000001
+],
+  "geometry": {"coordinates":[73.4256,35.46664000000001],"type":"Point"}
+}

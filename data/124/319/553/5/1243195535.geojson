@@ -1,0 +1,67 @@
+{
+  "id": 1243195535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.68997,30.75613,71.68997,30.75613",
+    "geom:latitude":30.75613,
+    "geom:longitude":71.68997,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Balar",
+    "gn:country_code":"PK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392228,
+    "gn:latitude":30.75613,
+    "gn:longitude":71.68997,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Balar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392228
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f21fafe51a9aae05571abe9fc46b3ee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1243195535,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243195535,
+    "wof:lastmodified":1536670261,
+    "wof:name":"Balar",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.68997,
+    30.75613,
+    71.68997,
+    30.75613
+],
+  "geometry": {"coordinates":[71.68997,30.75613],"type":"Point"}
+}

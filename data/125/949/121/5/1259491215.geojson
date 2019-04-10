@@ -1,0 +1,67 @@
+{
+  "id": 1259491215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.41074,31.75191,69.41074,31.75191",
+    "geom:latitude":31.75191,
+    "geom:longitude":69.41074,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Takarai",
+    "gn:country_code":"PK",
+    "gn:dem":1250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1337729,
+    "gn:latitude":31.75191,
+    "gn:longitude":69.41074,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Takarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337729
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"62cdae2626c7675425009d182693d772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1259491215,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259491215,
+    "wof:lastmodified":1536846520,
+    "wof:name":"Takarai",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.41074,
+    31.75191,
+    69.41074,
+    31.75191
+],
+  "geometry": {"coordinates":[69.41074,31.75191],"type":"Point"}
+}

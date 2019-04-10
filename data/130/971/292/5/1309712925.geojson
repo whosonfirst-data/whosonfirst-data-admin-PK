@@ -1,0 +1,67 @@
+{
+  "id": 1309712925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57778,32.86278,70.57778,32.86278",
+    "geom:latitude":32.86278,
+    "geom:longitude":70.57778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ghaza",
+    "gn:country_code":"PK",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453315,
+    "gn:latitude":32.86278,
+    "gn:longitude":70.57778,
+    "gn:modification_date":"2005-04-07",
+    "gn:name":"Ghaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453315
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f5f2bd9371432cb43e4b8a351433bbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1309712925,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309712925,
+    "wof:lastmodified":1537062235,
+    "wof:name":"Ghaza",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57778,
+    32.86278,
+    70.57778,
+    32.86278
+],
+  "geometry": {"coordinates":[70.57778,32.86278],"type":"Point"}
+}

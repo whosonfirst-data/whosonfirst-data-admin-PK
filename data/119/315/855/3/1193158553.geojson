@@ -1,0 +1,81 @@
+{
+  "id": 1193158553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58101,34.44024,73.58101,34.44024",
+    "geom:latitude":34.44024,
+    "geom:longitude":73.58101,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kochhul",
+    "gn:country_code":"PK",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385621,
+    "gn:latitude":34.44024,
+    "gn:longitude":73.58101,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kochhul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kachh\u016bl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f07842df9af467fff9bbd238b588963a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1193158553,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1193158553,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193158553,
+    "wof:lastmodified":1537680842,
+    "wof:name":"Kochhul",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58100999999998,
+    34.44024,
+    73.58100999999998,
+    34.44024
+],
+  "geometry": {"coordinates":[73.58100999999998,34.44024],"type":"Point"}
+}

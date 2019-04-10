@@ -1,0 +1,67 @@
+{
+  "id": 1276985989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.31036,32.35586,71.31036,32.35586",
+    "geom:latitude":32.35586,
+    "geom:longitude":71.31036,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gujrat",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1342491,
+    "gn:latitude":32.35586,
+    "gn:longitude":71.31036,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Gujrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1342491
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"319a40f1178bea1f2ee58a59675b52d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1276985989,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276985989,
+    "wof:lastmodified":1536898888,
+    "wof:name":"Gujrat",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.31036,
+    32.35586,
+    71.31036,
+    32.35586
+],
+  "geometry": {"coordinates":[71.31036,32.35586],"type":"Point"}
+}

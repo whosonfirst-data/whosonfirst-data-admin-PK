@@ -1,0 +1,78 @@
+{
+  "id": 1327131525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93831,33.53809,73.93831,33.53809",
+    "geom:latitude":33.53809,
+    "geom:longitude":73.93831,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Seri",
+    "gn:country_code":"PK",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413686,
+    "gn:latitude":33.53809,
+    "gn:longitude":73.93831,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Seri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a32d435646ca60617cfdcdda6dce999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1327131525,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1327131525,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327131525,
+    "wof:lastmodified":1536615050,
+    "wof:name":"Seri",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93831,
+    33.53809,
+    73.93831,
+    33.53809
+],
+  "geometry": {"coordinates":[73.93831,33.53809],"type":"Point"}
+}

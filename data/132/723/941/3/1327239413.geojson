@@ -1,0 +1,67 @@
+{
+  "id": 1327239413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.85865,28.20999,64.85865,28.20999",
+    "geom:latitude":28.20999,
+    "geom:longitude":64.85865,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Qamar",
+    "gn:country_code":"PK",
+    "gn:dem":638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11220984,
+    "gn:latitude":28.20999,
+    "gn:longitude":64.85865,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Qamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11220984
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"17085cd31c3d6e3151f6a8417baeb671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1327239413,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327239413,
+    "wof:lastmodified":1536959352,
+    "wof:name":"Qamar",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.85865,
+    28.20999,
+    64.85865,
+    28.20999
+],
+  "geometry": {"coordinates":[64.85865,28.20999],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309899577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.11694,35.34533,76.11694,35.34533",
+    "geom:latitude":35.34533,
+    "geom:longitude":76.11694,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Harto Parmik",
+    "gn:country_code":"PK",
+    "gn:dem":3889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087822,
+    "gn:latitude":35.34533,
+    "gn:longitude":76.11694,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Harto Parmik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087822
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c46eeba2b05dd51f0a991bc00063616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1309899577,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1309899577,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309899577,
+    "wof:lastmodified":1536796124,
+    "wof:name":"Harto Parmik",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.11694,
+    35.34533,
+    76.11694,
+    35.34533
+],
+  "geometry": {"coordinates":[76.11694,35.34533],"type":"Point"}
+}

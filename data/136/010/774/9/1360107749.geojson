@@ -1,0 +1,71 @@
+{
+  "id": 1360107749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73481,30.70103,72.73481,30.70103",
+    "geom:latitude":30.70103,
+    "geom:longitude":72.73481,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khod",
+    "gn:country_code":"PK",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173862,
+    "gn:latitude":30.70103,
+    "gn:longitude":72.73481,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Khod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khud",
+        "Khod"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173862
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65bd58fea31f961d06f25cefc5c42828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1360107749,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360107749,
+    "wof:lastmodified":1537679588,
+    "wof:name":"Khod",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73481,
+    30.70103,
+    72.73481,
+    30.70103
+],
+  "geometry": {"coordinates":[72.73481,30.70103],"type":"Point"}
+}

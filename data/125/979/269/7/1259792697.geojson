@@ -1,0 +1,67 @@
+{
+  "id": 1259792697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27433,33.79151,71.27433,33.79151",
+    "geom:latitude":33.79151,
+    "geom:longitude":71.27433,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kachra",
+    "gn:country_code":"PK",
+    "gn:dem":812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251488,
+    "gn:latitude":33.79151,
+    "gn:longitude":71.27433,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Kachra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251488
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60c851713d9b2dd1c1d9a42b4bfb3c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1259792697,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259792697,
+    "wof:lastmodified":1536910126,
+    "wof:name":"Kachra",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27433,
+    33.79151,
+    71.27433,
+    33.79151
+],
+  "geometry": {"coordinates":[71.27433000000001,33.79151],"type":"Point"}
+}

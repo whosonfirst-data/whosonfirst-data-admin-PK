@@ -1,0 +1,64 @@
+{
+  "id": 1209438293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17711,33.2145,72.17711,33.2145",
+    "geom:latitude":33.2145,
+    "geom:longitude":72.17711,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chakki",
+    "gn:country_code":"PK",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181809,
+    "gn:latitude":33.2145,
+    "gn:longitude":72.17711,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Chakki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181809
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7eb956e2bb233b934746a83c19274b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209438293
+        }
+    ],
+    "wof:id":1209438293,
+    "wof:lastmodified":1537679868,
+    "wof:name":"Chakki",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17711,
+    33.2145,
+    72.17711,
+    33.2145
+],
+  "geometry": {"coordinates":[72.17711,33.2145],"type":"Point"}
+}

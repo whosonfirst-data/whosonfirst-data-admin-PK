@@ -1,0 +1,67 @@
+{
+  "id": 1193141587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36666,24.43942,70.36666,24.43942",
+    "geom:latitude":24.43942,
+    "geom:longitude":70.36666,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Soniat",
+    "gn:country_code":"PK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497140,
+    "gn:latitude":24.43942,
+    "gn:longitude":70.36666,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Soniat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497140
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f6a9d85b40395a280bfcf0dd1bdb17de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1193141587,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193141587,
+    "wof:lastmodified":1536365567,
+    "wof:name":"Soniat",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36666,
+    24.43942,
+    70.36666,
+    24.43942
+],
+  "geometry": {"coordinates":[70.36666,24.43942],"type":"Point"}
+}

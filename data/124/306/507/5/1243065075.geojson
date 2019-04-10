@@ -1,0 +1,78 @@
+{
+  "id": 1243065075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47296,34.55515,73.47296,34.55515",
+    "geom:latitude":34.55515,
+    "geom:longitude":73.47296,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hola",
+    "gn:country_code":"PK",
+    "gn:dem":2810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994220,
+    "gn:latitude":34.55515,
+    "gn:longitude":73.47296,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Hola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994220
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4b560e705f008002ed27204217c36874",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243065075,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243065075,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243065075,
+    "wof:lastmodified":1536857095,
+    "wof:name":"Hola",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47296,
+    34.55515,
+    73.47296,
+    34.55515
+],
+  "geometry": {"coordinates":[73.47296,34.55515],"type":"Point"}
+}

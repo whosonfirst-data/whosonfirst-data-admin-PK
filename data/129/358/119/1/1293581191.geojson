@@ -1,0 +1,81 @@
+{
+  "id": 1293581191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00357,33.00482,74.00357,33.00482",
+    "geom:latitude":33.00482,
+    "geom:longitude":74.00357,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhok Naiyan",
+    "gn:country_code":"PK",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10950819,
+    "gn:latitude":33.00482,
+    "gn:longitude":74.00357,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dhok Naiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhok Naiy\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10950819
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8219c54ed16f6a787ad459b0e3bed9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293581191,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293581191,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293581191,
+    "wof:lastmodified":1537681989,
+    "wof:name":"Dhok Naiyan",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00357,
+    33.00482,
+    74.00357,
+    33.00482
+],
+  "geometry": {"coordinates":[74.00357,33.00482],"type":"Point"}
+}

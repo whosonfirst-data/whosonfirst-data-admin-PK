@@ -1,0 +1,67 @@
+{
+  "id": 1310506903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55898,33.67691,73.55898,33.67691",
+    "geom:latitude":33.67691,
+    "geom:longitude":73.55898,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sun",
+    "gn:country_code":"PK",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100146,
+    "gn:latitude":33.67691,
+    "gn:longitude":73.55898,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100146
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9703264f8915d637897395396c157228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1310506903,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310506903,
+    "wof:lastmodified":1536915332,
+    "wof:name":"Sun",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55898,
+    33.67691,
+    73.55898,
+    33.67691
+],
+  "geometry": {"coordinates":[73.55898000000001,33.67691],"type":"Point"}
+}

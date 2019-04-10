@@ -1,0 +1,67 @@
+{
+  "id": 1343674327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.25443,29.40577,67.25443,29.40577",
+    "geom:latitude":29.40577,
+    "geom:longitude":67.25443,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dirao",
+    "gn:country_code":"PK",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179755,
+    "gn:latitude":29.40577,
+    "gn:longitude":67.25443,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Dirao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179755
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"061700abcf5614edcd75dc3a7dca683b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1343674327,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343674327,
+    "wof:lastmodified":1536935758,
+    "wof:name":"Dirao",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.25443,
+    29.40577,
+    67.25443,
+    29.40577
+],
+  "geometry": {"coordinates":[67.25443,29.40577],"type":"Point"}
+}

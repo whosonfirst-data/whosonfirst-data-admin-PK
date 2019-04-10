@@ -1,0 +1,67 @@
+{
+  "id": 1344259075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86246,28.02074,66.86246,28.02074",
+    "geom:latitude":28.02074,
+    "geom:longitude":66.86246,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chaderi",
+    "gn:country_code":"PK",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11095987,
+    "gn:latitude":28.02074,
+    "gn:longitude":66.86246,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Chaderi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11095987
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e3a34a32a4cc0a23b471f3665ec0783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1344259075,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344259075,
+    "wof:lastmodified":1537082989,
+    "wof:name":"Chaderi",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86246,
+    28.02074,
+    66.86246,
+    28.02074
+],
+  "geometry": {"coordinates":[66.86246,28.02074],"type":"Point"}
+}

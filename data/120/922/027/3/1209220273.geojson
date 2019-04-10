@@ -1,0 +1,64 @@
+{
+  "id": 1209220273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7224,30.54756,73.7224,30.54756",
+    "geom:latitude":30.54756,
+    "geom:longitude":73.7224,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Qamar Kot",
+    "gn:country_code":"PK",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416905,
+    "gn:latitude":30.54756,
+    "gn:longitude":73.7224,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Qamar Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanwarkot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4eb6cb88b362e7334f8efe66a410ceab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209220273
+        }
+    ],
+    "wof:id":1209220273,
+    "wof:lastmodified":1537681391,
+    "wof:name":"Qamar Kot",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7224,
+    30.54756,
+    73.7224,
+    30.54756
+],
+  "geometry": {"coordinates":[73.72239999999999,30.54756],"type":"Point"}
+}

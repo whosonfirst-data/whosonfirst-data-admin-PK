@@ -1,0 +1,67 @@
+{
+  "id": 1242600599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44749,32.14287,71.44749,32.14287",
+    "geom:latitude":32.14287,
+    "geom:longitude":71.44749,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sonywala",
+    "gn:country_code":"PK",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140187,
+    "gn:latitude":32.14287,
+    "gn:longitude":71.44749,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Sonywala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140187
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d629be66a8c8f4853b86417330aa4f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1242600599,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242600599,
+    "wof:lastmodified":1537029284,
+    "wof:name":"Sonywala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44749,
+    32.14287,
+    71.44749,
+    32.14287
+],
+  "geometry": {"coordinates":[71.44749,32.14287],"type":"Point"}
+}

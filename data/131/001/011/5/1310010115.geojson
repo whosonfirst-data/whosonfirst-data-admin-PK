@@ -1,0 +1,67 @@
+{
+  "id": 1310010115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.61944,26.3,68.61944,26.3",
+    "geom:latitude":26.3,
+    "geom:longitude":68.61944,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mirza Manzur",
+    "gn:country_code":"PK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1403733,
+    "gn:latitude":26.3,
+    "gn:longitude":68.61944,
+    "gn:modification_date":"2001-11-13",
+    "gn:name":"Mirza Manz\u016br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1403733
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"099b4c50482579fdc37eba473ad82c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692371,
+            "locality_id":1310010115,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310010115,
+    "wof:lastmodified":1536635363,
+    "wof:name":"Mirza Manzur",
+    "wof:parent_id":1108692371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.61944,
+    26.3,
+    68.61944,
+    26.3
+],
+  "geometry": {"coordinates":[68.61944,26.3],"type":"Point"}
+}

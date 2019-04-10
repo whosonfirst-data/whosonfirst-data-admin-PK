@@ -1,0 +1,67 @@
+{
+  "id": 1344162523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3524,30.43867,73.3524,30.43867",
+    "geom:latitude":30.43867,
+    "geom:longitude":73.3524,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shah Daud",
+    "gn:country_code":"PK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543683,
+    "gn:latitude":30.43867,
+    "gn:longitude":73.3524,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Shah Daud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543683
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"262949abb85dcc0d99f657f224287ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1344162523,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344162523,
+    "wof:lastmodified":1536728662,
+    "wof:name":"Shah Daud",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3524,
+    30.43867,
+    73.3524,
+    30.43867
+],
+  "geometry": {"coordinates":[73.3524,30.43867],"type":"Point"}
+}

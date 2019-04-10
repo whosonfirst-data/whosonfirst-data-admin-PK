@@ -1,0 +1,67 @@
+{
+  "id": 1209516181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.85256,35.57286,72.85256,35.57286",
+    "geom:latitude":35.57286,
+    "geom:longitude":72.85256,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Serto",
+    "gn:country_code":"PK",
+    "gn:dem":2732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023817,
+    "gn:latitude":35.57286,
+    "gn:longitude":72.85256,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Serto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023817
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0220b6ada1953d1b4fc60a1e9242e187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209516181,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209516181,
+    "wof:lastmodified":1543515744,
+    "wof:name":"Serto",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.85256,
+    35.57286,
+    72.85256,
+    35.57286
+],
+  "geometry": {"coordinates":[72.85256,35.57286],"type":"Point"}
+}

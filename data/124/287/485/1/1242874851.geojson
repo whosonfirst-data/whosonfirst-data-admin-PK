@@ -1,0 +1,67 @@
+{
+  "id": 1242874851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.53388,35.05772,72.53388,35.05772",
+    "geom:latitude":35.05772,
+    "geom:longitude":72.53388,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bihar",
+    "gn:country_code":"PK",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377450,
+    "gn:latitude":35.05772,
+    "gn:longitude":72.53388,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bihar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377450
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa6afcbd24d09b7f8f71f9410031c808",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242874851,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242874851,
+    "wof:lastmodified":1536634210,
+    "wof:name":"Bihar",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.53388000000002,
+    35.05772,
+    72.53388000000002,
+    35.05772
+],
+  "geometry": {"coordinates":[72.53388000000002,35.05772],"type":"Point"}
+}

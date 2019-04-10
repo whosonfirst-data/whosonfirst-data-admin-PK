@@ -1,0 +1,64 @@
+{
+  "id": 1209212093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.18363,33.93869,74.18363,33.93869",
+    "geom:latitude":33.93869,
+    "geom:longitude":74.18363,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Singmund",
+    "gn:country_code":"PK",
+    "gn:dem":2487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414971,
+    "gn:latitude":33.93869,
+    "gn:longitude":74.18363,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Singmund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Singem\u016bnd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414971
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0319c169942e1c9a5ee98af860a4fce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209212093
+        }
+    ],
+    "wof:id":1209212093,
+    "wof:lastmodified":1537681352,
+    "wof:name":"Singmund",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.18363000000002,
+    33.93869,
+    74.18363000000002,
+    33.93869
+],
+  "geometry": {"coordinates":[74.18363000000002,33.93869],"type":"Point"}
+}

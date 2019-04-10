@@ -1,0 +1,67 @@
+{
+  "id": 1260283827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98386,33.51664,72.98386,33.51664",
+    "geom:latitude":33.51664,
+    "geom:longitude":72.98386,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Misriot",
+    "gn:country_code":"PK",
+    "gn:dem":501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339077,
+    "gn:latitude":33.51664,
+    "gn:longitude":72.98386,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Misriot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339077
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c13fa3d76e8fb4a42df7ff2f914e1ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1260283827,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260283827,
+    "wof:lastmodified":1536711795,
+    "wof:name":"Misriot",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98385999999998,
+    33.51664,
+    72.98385999999998,
+    33.51664
+],
+  "geometry": {"coordinates":[72.98385999999998,33.51664],"type":"Point"}
+}

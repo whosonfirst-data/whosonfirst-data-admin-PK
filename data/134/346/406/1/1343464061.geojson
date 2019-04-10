@@ -1,0 +1,77 @@
+{
+  "id": 1343464061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8799,30.10009,70.8799,30.10009",
+    "geom:latitude":30.10009,
+    "geom:longitude":70.8799,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghazi Ghat",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178533,
+    "gn:latitude":30.10009,
+    "gn:longitude":70.8799,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Ghazi Ghat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gh\u0101zi Gh\u0101t"
+    ],
+    "name:eng_x_variant":[
+        "Ghaz Ghat"
+    ],
+    "name:und_x_variant":[
+        "Ghaz Ghat",
+        "Ghazi Ghat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178533
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"24472b7b58f7c12974aca8cc6d81cfbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343464061,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343464061,
+    "wof:lastmodified":1537679751,
+    "wof:name":"Ghazi Ghat",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8799,
+    30.10009,
+    70.8799,
+    30.10009
+],
+  "geometry": {"coordinates":[70.87990000000001,30.10009],"type":"Point"}
+}

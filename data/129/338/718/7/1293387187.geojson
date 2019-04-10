@@ -1,0 +1,81 @@
+{
+  "id": 1293387187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93858,33.82941,73.93858,33.82941",
+    "geom:latitude":33.82941,
+    "geom:longitude":73.93858,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dharian",
+    "gn:country_code":"PK",
+    "gn:dem":1745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386108,
+    "gn:latitude":33.82941,
+    "gn:longitude":73.93858,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dharian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386108
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"24362723eb3ce496fe89361d6c717a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293387187,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293387187,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293387187,
+    "wof:lastmodified":1537680853,
+    "wof:name":"Dharian",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93858,
+    33.82941,
+    73.93858,
+    33.82941
+],
+  "geometry": {"coordinates":[73.93858,33.82941],"type":"Point"}
+}

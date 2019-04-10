@@ -1,0 +1,67 @@
+{
+  "id": 1210017387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92358,34.56195,72.92358,34.56195",
+    "geom:latitude":34.56195,
+    "geom:longitude":72.92358,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Biran",
+    "gn:country_code":"PK",
+    "gn:dem":2261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482591,
+    "gn:latitude":34.56195,
+    "gn:longitude":72.92358,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Biran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482591
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"75b7c3541c3280997fc6d79990d2190a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692415,
+            "locality_id":1210017387,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017387,
+    "wof:lastmodified":1543515339,
+    "wof:name":"Biran",
+    "wof:parent_id":1108692415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92358,
+    34.56195,
+    72.92358,
+    34.56195
+],
+  "geometry": {"coordinates":[72.92358,34.56195],"type":"Point"}
+}

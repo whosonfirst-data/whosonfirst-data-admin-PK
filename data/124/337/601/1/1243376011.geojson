@@ -1,0 +1,67 @@
+{
+  "id": 1243376011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.22548,28.16991,63.22548,28.16991",
+    "geom:latitude":28.16991,
+    "geom:longitude":63.22548,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Siab",
+    "gn:country_code":"PK",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197604,
+    "gn:latitude":28.16991,
+    "gn:longitude":63.22548,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Siab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197604
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5c4cf2a8be512bac4fd41be06efb660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1243376011,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243376011,
+    "wof:lastmodified":1536907374,
+    "wof:name":"Siab",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.22548000000001,
+    28.16991,
+    63.22548000000001,
+    28.16991
+],
+  "geometry": {"coordinates":[63.22548000000001,28.16991],"type":"Point"}
+}

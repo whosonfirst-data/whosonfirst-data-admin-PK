@@ -1,0 +1,65 @@
+{
+  "id": 1209337771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.59984,32.65602,74.59984,32.65602",
+    "geom:latitude":32.65602,
+    "geom:longitude":74.59984,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chadalian",
+    "gn:country_code":"PK",
+    "gn:dem":250,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371882,
+    "gn:latitude":32.65602,
+    "gn:longitude":74.59984,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chadalian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chadhali",
+        "Chad\u0101lian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371882
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5fd3835b064b9ac0f709a0baaa6a54f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209337771
+        }
+    ],
+    "wof:id":1209337771,
+    "wof:lastmodified":1537680595,
+    "wof:name":"Chadalian",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.59984,
+    32.65602,
+    74.59984,
+    32.65602
+],
+  "geometry": {"coordinates":[74.59984,32.65602],"type":"Point"}
+}

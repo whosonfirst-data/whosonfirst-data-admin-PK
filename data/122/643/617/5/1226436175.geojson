@@ -1,0 +1,81 @@
+{
+  "id": 1226436175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.67604,35.81746,73.67604,35.81746",
+    "geom:latitude":35.81746,
+    "geom:longitude":73.67604,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chira",
+    "gn:country_code":"PK",
+    "gn:dem":2604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427297,
+    "gn:latitude":35.81746,
+    "gn:longitude":73.67604,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chila Harai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427297
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"69da015a3cffb76543e51e3095d0b8c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226436175,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226436175,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226436175,
+    "wof:lastmodified":1537681910,
+    "wof:name":"Chira",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.67604,
+    35.81746,
+    73.67604,
+    35.81746
+],
+  "geometry": {"coordinates":[73.67604,35.81746],"type":"Point"}
+}

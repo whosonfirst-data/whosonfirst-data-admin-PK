@@ -1,0 +1,73 @@
+{
+  "id": 1344262263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.57926,31.05802,74.57926,31.05802",
+    "geom:latitude":31.05802,
+    "geom:longitude":74.57926,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhikhiwand",
+    "gn:country_code":"PK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182643,
+    "gn:latitude":31.05802,
+    "gn:longitude":74.57926,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Bhikhiwand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhikhi Wind Hithhar",
+        "Bhikhiwind",
+        "Bhikk\u012bwind Hith\u0101r",
+        "Bhikhiwand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182643
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58b4230f91eea0797d735d51ce3ff91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1344262263,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344262263,
+    "wof:lastmodified":1537679901,
+    "wof:name":"Bhikhiwand",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.57925999999998,
+    31.05802000000001,
+    74.57925999999998,
+    31.05802000000001
+],
+  "geometry": {"coordinates":[74.57925999999998,31.05802000000001],"type":"Point"}
+}

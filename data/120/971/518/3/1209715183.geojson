@@ -1,0 +1,67 @@
+{
+  "id": 1209715183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.62379,33.87314,72.62379,33.87314",
+    "geom:latitude":33.87314,
+    "geom:longitude":72.62379,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok Gar",
+    "gn:country_code":"PK",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413644,
+    "gn:latitude":33.87314,
+    "gn:longitude":72.62379,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dhok Gar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413644
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"76888caab11c95e982b22b52f36415d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1209715183,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209715183,
+    "wof:lastmodified":1536388900,
+    "wof:name":"Dhok Gar",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.62379,
+    33.87314,
+    72.62379,
+    33.87314
+],
+  "geometry": {"coordinates":[72.62379,33.87314],"type":"Point"}
+}

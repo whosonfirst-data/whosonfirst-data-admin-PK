@@ -1,0 +1,89 @@
+{
+  "id": 1343581363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.83079,36.32778,73.83079,36.32778",
+    "geom:latitude":36.32778,
+    "geom:longitude":73.83079,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Birgal",
+    "gn:country_code":"PK",
+    "gn:dem":2044,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182403,
+    "gn:latitude":36.32778,
+    "gn:longitude":73.83079,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Birgal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u012brgal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182403
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"87dac1395b7b7c4cf338e671d885f481",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1343581363,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1343581363,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1343581363,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343581363,
+    "wof:lastmodified":1537679890,
+    "wof:name":"Birgal",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.83079000000002,
+    36.32778,
+    73.83079000000002,
+    36.32778
+],
+  "geometry": {"coordinates":[73.83079000000002,36.32778],"type":"Point"}
+}

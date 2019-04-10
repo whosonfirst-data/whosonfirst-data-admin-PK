@@ -1,0 +1,67 @@
+{
+  "id": 1309803289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05053,30.36538,70.05053,30.36538",
+    "geom:latitude":30.36538,
+    "geom:longitude":70.05053,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jahli Shahr",
+    "gn:country_code":"PK",
+    "gn:dem":1027,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354353,
+    "gn:latitude":30.36538,
+    "gn:longitude":70.05053,
+    "gn:modification_date":"2001-05-08",
+    "gn:name":"Jahli Shahr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354353
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8db5939c856b065c1a64282267093692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1309803289,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309803289,
+    "wof:lastmodified":1536935424,
+    "wof:name":"Jahli Shahr",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05053000000001,
+    30.36538,
+    70.05053000000001,
+    30.36538
+],
+  "geometry": {"coordinates":[70.05053000000001,30.36538],"type":"Point"}
+}

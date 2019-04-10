@@ -1,0 +1,67 @@
+{
+  "id": 1293785219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.42918,36.46575,72.42918,36.46575",
+    "geom:latitude":36.46575,
+    "geom:longitude":72.42918,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mayar",
+    "gn:country_code":"PK",
+    "gn:dem":2500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045405,
+    "gn:latitude":36.46575,
+    "gn:longitude":72.42918,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Mayar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045405
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c543e6364c7c18020f10509c39e30a48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1293785219,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293785219,
+    "wof:lastmodified":1536853774,
+    "wof:name":"Mayar",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.42918,
+    36.46575,
+    72.42918,
+    36.46575
+],
+  "geometry": {"coordinates":[72.42918,36.46575],"type":"Point"}
+}

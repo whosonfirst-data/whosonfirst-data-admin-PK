@@ -1,0 +1,67 @@
+{
+  "id": 1293883099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.05269,30.6039,72.05269,30.6039",
+    "geom:latitude":30.6039,
+    "geom:longitude":72.05269,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Toru",
+    "gn:country_code":"PK",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163161,
+    "gn:latitude":30.6039,
+    "gn:longitude":72.05269,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Toru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163161
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58c30218174d64c6d8cb9162678dc506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1293883099,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293883099,
+    "wof:lastmodified":1536714254,
+    "wof:name":"Toru",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.05269,
+    30.6039,
+    72.05269,
+    30.6039
+],
+  "geometry": {"coordinates":[72.05269,30.6039],"type":"Point"}
+}

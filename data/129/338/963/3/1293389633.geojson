@@ -1,0 +1,67 @@
+{
+  "id": 1293389633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.16667,32.62917,72.16667,32.62917",
+    "geom:latitude":32.62917,
+    "geom:longitude":72.16667,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Par",
+    "gn:country_code":"PK",
+    "gn:dem":850,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370590,
+    "gn:latitude":32.62917,
+    "gn:longitude":72.16667,
+    "gn:modification_date":"2001-09-25",
+    "gn:name":"Par",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370590
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60f749ca17d80985305062621d5f2179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1293389633,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293389633,
+    "wof:lastmodified":1536928818,
+    "wof:name":"Par",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.16667,
+    32.62917,
+    72.16667,
+    32.62917
+],
+  "geometry": {"coordinates":[72.16667,32.62917],"type":"Point"}
+}

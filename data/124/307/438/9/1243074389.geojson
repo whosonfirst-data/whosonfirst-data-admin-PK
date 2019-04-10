@@ -1,0 +1,67 @@
+{
+  "id": 1243074389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32606,34.59772,72.32606,34.59772",
+    "geom:latitude":34.59772,
+    "geom:longitude":72.32606,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chambail",
+    "gn:country_code":"PK",
+    "gn:dem":1660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413876,
+    "gn:latitude":34.59772,
+    "gn:longitude":72.32606,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Chambail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413876
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c72a296b0777a66237a38138a3327ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1243074389,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243074389,
+    "wof:lastmodified":1536843757,
+    "wof:name":"Chambail",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32606,
+    34.59772,
+    72.32606,
+    34.59772
+],
+  "geometry": {"coordinates":[72.32606,34.59772],"type":"Point"}
+}

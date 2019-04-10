@@ -1,0 +1,78 @@
+{
+  "id": 1242775015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.81912,34.62276,73.81912,34.62276",
+    "geom:latitude":34.62276,
+    "geom:longitude":73.81912,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kuladhar",
+    "gn:country_code":"PK",
+    "gn:dem":2960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416091,
+    "gn:latitude":34.62276,
+    "gn:longitude":73.81912,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kuladhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416091
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"531e773f47cfe9b7033fcdb953325efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1242775015,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1242775015,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242775015,
+    "wof:lastmodified":1536779877,
+    "wof:name":"Kuladhar",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.81912,
+    34.62276,
+    73.81912,
+    34.62276
+],
+  "geometry": {"coordinates":[73.81912,34.62276],"type":"Point"}
+}

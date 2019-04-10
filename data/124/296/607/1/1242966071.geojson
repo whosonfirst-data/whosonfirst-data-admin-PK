@@ -1,0 +1,67 @@
+{
+  "id": 1242966071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.78204,24.50377,69.78204,24.50377",
+    "geom:latitude":24.50377,
+    "geom:longitude":69.78204,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dhidsar",
+    "gn:country_code":"PK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035131,
+    "gn:latitude":24.50377,
+    "gn:longitude":69.78204,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Dhidsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035131
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d7afe0b9948e4dd40f41b32107e89552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1242966071,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242966071,
+    "wof:lastmodified":1537000410,
+    "wof:name":"Dhidsar",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.78204000000001,
+    24.50377000000001,
+    69.78204000000001,
+    24.50377000000001
+],
+  "geometry": {"coordinates":[69.78204000000001,24.50377000000001],"type":"Point"}
+}

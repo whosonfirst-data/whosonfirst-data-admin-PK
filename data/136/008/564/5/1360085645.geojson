@@ -1,0 +1,71 @@
+{
+  "id": 1360085645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.28915,34.98537,72.28915,34.98537",
+    "geom:latitude":34.98537,
+    "geom:longitude":72.28915,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Panrsat",
+    "gn:country_code":"PK",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168407,
+    "gn:latitude":34.98537,
+    "gn:longitude":72.28915,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Panrsat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pansat",
+        "Panrsat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168407
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f594a6c6ab0d4b584b8475d8dd14c85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1360085645,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360085645,
+    "wof:lastmodified":1543515295,
+    "wof:name":"Panrsat",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.28915,
+    34.98537,
+    72.28915,
+    34.98537
+],
+  "geometry": {"coordinates":[72.28915000000001,34.98537],"type":"Point"}
+}

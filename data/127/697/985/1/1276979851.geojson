@@ -1,0 +1,67 @@
+{
+  "id": 1276979851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.49434,32.11668,74.49434,32.11668",
+    "geom:latitude":32.11668,
+    "geom:longitude":74.49434,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Satto",
+    "gn:country_code":"PK",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381280,
+    "gn:latitude":32.11668,
+    "gn:longitude":74.49434,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Satto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381280
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"652fee6caae954c0d63e0a8d7b88901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1276979851,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276979851,
+    "wof:lastmodified":1536907504,
+    "wof:name":"Satto",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.49434000000002,
+    32.11668,
+    74.49434000000002,
+    32.11668
+],
+  "geometry": {"coordinates":[74.49434000000002,32.11668],"type":"Point"}
+}

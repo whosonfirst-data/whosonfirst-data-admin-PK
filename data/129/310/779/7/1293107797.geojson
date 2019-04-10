@@ -1,0 +1,67 @@
+{
+  "id": 1293107797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2848,33.83978,70.2848,33.83978",
+    "geom:latitude":33.83978,
+    "geom:longitude":70.2848,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nazru",
+    "gn:country_code":"PK",
+    "gn:dem":2068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134905,
+    "gn:latitude":33.83978,
+    "gn:longitude":70.2848,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Nazru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba1922ee27f8a14cacb2211178f6f122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1293107797,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293107797,
+    "wof:lastmodified":1536836326,
+    "wof:name":"Nazru",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2848,
+    33.83978,
+    70.2848,
+    33.83978
+],
+  "geometry": {"coordinates":[70.2848,33.83978],"type":"Point"}
+}

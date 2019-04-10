@@ -1,0 +1,67 @@
+{
+  "id": 1226042381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.12943,30.3585,71.12943,30.3585",
+    "geom:latitude":30.3585,
+    "geom:longitude":71.12943,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gidarwala",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368007,
+    "gn:latitude":30.3585,
+    "gn:longitude":71.12943,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gidarwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368007
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7dd2a7e099df391ce877def28559760",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1226042381,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226042381,
+    "wof:lastmodified":1536730377,
+    "wof:name":"Gidarwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.12943,
+    30.3585,
+    71.12943,
+    30.3585
+],
+  "geometry": {"coordinates":[71.12943,30.3585],"type":"Point"}
+}

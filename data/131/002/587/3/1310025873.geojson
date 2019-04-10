@@ -1,0 +1,82 @@
+{
+  "id": 1310025873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.13967,34.63876,76.13967,34.63876",
+    "geom:latitude":34.63876,
+    "geom:longitude":76.13967,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Brielman",
+    "gn:country_code":"PK",
+    "gn:dem":2693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414478,
+    "gn:latitude":34.63876,
+    "gn:longitude":76.13967,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Brielman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bilelman",
+        "Brielman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414478
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7b3e7ca39591ecaa15ad3a19308c928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310025873,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310025873,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310025873,
+    "wof:lastmodified":1537681336,
+    "wof:name":"Brielman",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.13967,
+    34.63876,
+    76.13967,
+    34.63876
+],
+  "geometry": {"coordinates":[76.13967,34.63876],"type":"Point"}
+}

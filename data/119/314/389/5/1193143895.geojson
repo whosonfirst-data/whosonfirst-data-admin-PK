@@ -1,0 +1,67 @@
+{
+  "id": 1193143895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.18733,34.09334,73.18733,34.09334",
+    "geom:latitude":34.09334,
+    "geom:longitude":73.18733,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tanakki",
+    "gn:country_code":"PK",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416331,
+    "gn:latitude":34.09334,
+    "gn:longitude":73.18733,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tanakki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416331
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"db93d7d9d78992a83c7a41aa493f4ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1193143895,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193143895,
+    "wof:lastmodified":1543515397,
+    "wof:name":"Tanakki",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.18733,
+    34.09334,
+    73.18733,
+    34.09334
+],
+  "geometry": {"coordinates":[73.18733,34.09334],"type":"Point"}
+}

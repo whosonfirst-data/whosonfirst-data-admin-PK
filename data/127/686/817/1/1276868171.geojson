@@ -1,0 +1,78 @@
+{
+  "id": 1276868171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.78194,35.11174,75.78194,35.11174",
+    "geom:latitude":35.11174,
+    "geom:longitude":75.78194,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hilzangsa",
+    "gn:country_code":"PK",
+    "gn:dem":3630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081044,
+    "gn:latitude":35.11174,
+    "gn:longitude":75.78194,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Hilzangsa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081044
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0bfff624b91e9982132f7a54b8d4337f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276868171,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276868171,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276868171,
+    "wof:lastmodified":1537054490,
+    "wof:name":"Hilzangsa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.78194,
+    35.11174,
+    75.78194,
+    35.11174
+],
+  "geometry": {"coordinates":[75.78194000000001,35.11174],"type":"Point"}
+}

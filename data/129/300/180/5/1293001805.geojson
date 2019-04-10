@@ -1,0 +1,67 @@
+{
+  "id": 1293001805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.09172,34.90463,72.09172,34.90463",
+    "geom:latitude":34.90463,
+    "geom:longitude":72.09172,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bhatan",
+    "gn:country_code":"PK",
+    "gn:dem":1818,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383639,
+    "gn:latitude":34.90463,
+    "gn:longitude":72.09172,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bhatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383639
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ed2c5209d21891272f0e367cc0de3d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1293001805,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293001805,
+    "wof:lastmodified":1536989362,
+    "wof:name":"Bhatan",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09172,
+    34.90463,
+    72.09172,
+    34.90463
+],
+  "geometry": {"coordinates":[72.09172,34.90463],"type":"Point"}
+}

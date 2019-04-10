@@ -1,0 +1,67 @@
+{
+  "id": 1242872477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42972,26.95315,68.42972,26.95315",
+    "geom:latitude":26.95315,
+    "geom:longitude":68.42972,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Azamabad",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7353137,
+    "gn:latitude":26.95315,
+    "gn:longitude":68.42972,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Azamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7353137
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c59b837985dc0c348623301a315aaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1242872477,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242872477,
+    "wof:lastmodified":1536637880,
+    "wof:name":"Azamabad",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42971999999999,
+    26.95315,
+    68.42971999999999,
+    26.95315
+],
+  "geometry": {"coordinates":[68.42971999999999,26.95315],"type":"Point"}
+}

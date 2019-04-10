@@ -1,0 +1,70 @@
+{
+  "id": 1343462101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80607,33.77847,70.80607,33.77847",
+    "geom:latitude":33.77847,
+    "geom:longitude":70.80607,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Manhadon",
+    "gn:country_code":"PK",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446782,
+    "gn:latitude":33.77847,
+    "gn:longitude":70.80607,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Manhadon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manzaon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446782
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb81cd64ba9d3e18a8b1c4cfec0f05f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1343462101,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343462101,
+    "wof:lastmodified":1537681522,
+    "wof:name":"Manhadon",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80606999999998,
+    33.77847,
+    70.80606999999998,
+    33.77847
+],
+  "geometry": {"coordinates":[70.80606999999998,33.77847],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310225267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.43237,35.43177,75.43237,35.43177",
+    "geom:latitude":35.43177,
+    "geom:longitude":75.43237,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mamil",
+    "gn:country_code":"PK",
+    "gn:dem":2875,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419755,
+    "gn:latitude":35.43177,
+    "gn:longitude":75.43237,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Mamil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419755
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"de9d0da1dc87c07de50a6651c4eb39a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310225267,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310225267,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310225267,
+    "wof:lastmodified":1536822899,
+    "wof:name":"Mamil",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.43236999999998,
+    35.43177,
+    75.43236999999998,
+    35.43177
+],
+  "geometry": {"coordinates":[75.43236999999998,35.43177],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293013081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.83397,26.01116,62.83397,26.01116",
+    "geom:latitude":26.01116,
+    "geom:longitude":62.83397,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dehat",
+    "gn:country_code":"PK",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10988158,
+    "gn:latitude":26.01116,
+    "gn:longitude":62.83397,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dehat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988158
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d58cc27e4cb1e1ba700f4bea99b060a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1293013081,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293013081,
+    "wof:lastmodified":1536973466,
+    "wof:name":"Dehat",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.83397,
+    26.01116,
+    62.83397,
+    26.01116
+],
+  "geometry": {"coordinates":[62.83397,26.01116],"type":"Point"}
+}

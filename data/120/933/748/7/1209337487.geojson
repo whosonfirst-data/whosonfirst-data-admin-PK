@@ -1,0 +1,62 @@
+{
+  "id": 1209337487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11479,33.28849,73.11479,33.28849",
+    "geom:latitude":33.28849,
+    "geom:longitude":73.11479,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Manghot",
+    "gn:country_code":"PK",
+    "gn:dem":512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082932,
+    "gn:latitude":33.28849,
+    "gn:longitude":73.11479,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Manghot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082932,
+        "wk:page":"Manghot"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c1e8b5d9409ca93b089340330b08644e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209337487
+        }
+    ],
+    "wof:id":1209337487,
+    "wof:lastmodified":1537571064,
+    "wof:name":"Manghot",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11479,
+    33.28849,
+    73.11479,
+    33.28849
+],
+  "geometry": {"coordinates":[73.11479,33.28849],"type":"Point"}
+}

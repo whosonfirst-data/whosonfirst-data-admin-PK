@@ -1,0 +1,67 @@
+{
+  "id": 1276897623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36609,29.20197,70.36609,29.20197",
+    "geom:latitude":29.20197,
+    "geom:longitude":70.36609,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khatarwala",
+    "gn:country_code":"PK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1403045,
+    "gn:latitude":29.20197,
+    "gn:longitude":70.36609,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Khatarwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1403045
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1980f92e608f2e6359409fd8cc976a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1276897623,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276897623,
+    "wof:lastmodified":1537016699,
+    "wof:name":"Khatarwala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36609,
+    29.20197000000001,
+    70.36609,
+    29.20197000000001
+],
+  "geometry": {"coordinates":[70.36609,29.20197000000001],"type":"Point"}
+}

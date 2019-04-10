@@ -1,0 +1,67 @@
+{
+  "id": 1225846013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.52785,31.95568,70.52785,31.95568",
+    "geom:latitude":31.95568,
+    "geom:longitude":70.52785,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kot Daulat",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173306,
+    "gn:latitude":31.95568,
+    "gn:longitude":70.52785,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Kot Daulat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173306
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d41acb1f2f02f3fe3411864f47e42ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1225846013,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225846013,
+    "wof:lastmodified":1543515478,
+    "wof:name":"Kot Daulat",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.52785,
+    31.95568,
+    70.52785,
+    31.95568
+],
+  "geometry": {"coordinates":[70.52785,31.95568],"type":"Point"}
+}

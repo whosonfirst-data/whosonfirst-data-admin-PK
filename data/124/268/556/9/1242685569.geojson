@@ -1,0 +1,67 @@
+{
+  "id": 1242685569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06806,31.34996,70.06806,31.34996",
+    "geom:latitude":31.34996,
+    "geom:longitude":70.06806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khwarai",
+    "gn:country_code":"PK",
+    "gn:dem":1420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353866,
+    "gn:latitude":31.34996,
+    "gn:longitude":70.06806,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Khwarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353866
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ccd7c09ee1944391144ede63c2de572",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1242685569,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242685569,
+    "wof:lastmodified":1536908511,
+    "wof:name":"Khwarai",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06806,
+    31.34996,
+    70.06806,
+    31.34996
+],
+  "geometry": {"coordinates":[70.06806,31.34996],"type":"Point"}
+}

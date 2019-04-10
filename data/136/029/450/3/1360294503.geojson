@@ -1,0 +1,67 @@
+{
+  "id": 1360294503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62824,32.46574,69.62824,32.46574",
+    "geom:latitude":32.46574,
+    "geom:longitude":69.62824,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Paira Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534473,
+    "gn:latitude":32.46574,
+    "gn:longitude":69.62824,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Paira Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534473
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"587bf7304f31929753505529ee85a7bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1360294503,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360294503,
+    "wof:lastmodified":1543515286,
+    "wof:name":"Paira Khel",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62824,
+    32.46574,
+    69.62824,
+    32.46574
+],
+  "geometry": {"coordinates":[69.62824000000001,32.46574],"type":"Point"}
+}

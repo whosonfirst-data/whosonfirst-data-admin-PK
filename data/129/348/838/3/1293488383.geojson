@@ -1,0 +1,67 @@
+{
+  "id": 1293488383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.56301,35.20183,72.56301,35.20183",
+    "geom:latitude":35.20183,
+    "geom:longitude":72.56301,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sarshai",
+    "gn:country_code":"PK",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377612,
+    "gn:latitude":35.20183,
+    "gn:longitude":72.56301,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sarshai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377612
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e9f05d8d60fd408790b5bc71c169ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1293488383,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293488383,
+    "wof:lastmodified":1536786255,
+    "wof:name":"Sarshai",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.56300999999998,
+    35.20183,
+    72.56300999999998,
+    35.20183
+],
+  "geometry": {"coordinates":[72.56300999999998,35.20183],"type":"Point"}
+}

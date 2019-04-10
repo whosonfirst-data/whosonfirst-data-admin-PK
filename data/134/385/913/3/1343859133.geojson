@@ -1,0 +1,67 @@
+{
+  "id": 1343859133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1591,35.3714,73.1591,35.3714",
+    "geom:latitude":35.3714,
+    "geom:longitude":73.1591,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Paroha",
+    "gn:country_code":"PK",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999924,
+    "gn:latitude":35.3714,
+    "gn:longitude":73.1591,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Paroha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999924
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d3b5bf3ff63de02a706474ee9d244fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1343859133,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343859133,
+    "wof:lastmodified":1536668545,
+    "wof:name":"Paroha",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1591,
+    35.3714,
+    73.1591,
+    35.3714
+],
+  "geometry": {"coordinates":[73.1591,35.3714],"type":"Point"}
+}

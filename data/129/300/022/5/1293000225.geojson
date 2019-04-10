@@ -1,0 +1,67 @@
+{
+  "id": 1293000225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83502,30.81888,71.83502,30.81888",
+    "geom:latitude":30.81888,
+    "geom:longitude":71.83502,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Naya Sewa",
+    "gn:country_code":"PK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410170,
+    "gn:latitude":30.81888,
+    "gn:longitude":71.83502,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Naya Sewa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410170
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7fc1d731ab56c8d73a15ea4a0fdcf96c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1293000225,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293000225,
+    "wof:lastmodified":1536991674,
+    "wof:name":"Naya Sewa",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83502,
+    30.81888,
+    71.83502,
+    30.81888
+],
+  "geometry": {"coordinates":[71.83502,30.81888],"type":"Point"}
+}

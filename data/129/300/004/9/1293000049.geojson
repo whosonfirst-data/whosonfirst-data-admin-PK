@@ -1,0 +1,67 @@
+{
+  "id": 1293000049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7245,28.74407,70.7245,28.74407",
+    "geom:latitude":28.74407,
+    "geom:longitude":70.7245,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muslim Town",
+    "gn:country_code":"PK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355914,
+    "gn:latitude":28.74407,
+    "gn:longitude":70.7245,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Muslim Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355914
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c4ac5ad236a4e094d75c149ea6e4019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1293000049,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293000049,
+    "wof:lastmodified":1536991927,
+    "wof:name":"Muslim Town",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7245,
+    28.74407,
+    70.7245,
+    28.74407
+],
+  "geometry": {"coordinates":[70.72450000000001,28.74407],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293000361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97423,30.32239,70.97423,30.32239",
+    "geom:latitude":30.32239,
+    "geom:longitude":70.97423,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Basti Sanawan",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166221,
+    "gn:latitude":30.32239,
+    "gn:longitude":70.97423,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Basti Sanawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "San\u0101w\u0101n"
+    ],
+    "name:eng_x_variant":[
+        "Sinanwan"
+    ],
+    "name:und_x_variant":[
+        "Sinanwan",
+        "Basti Sanawan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166221,
+        "wk:page":"Sanawan"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a01b64ad4d09ba491e17a6468013484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1293000361,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293000361,
+    "wof:lastmodified":1537679315,
+    "wof:name":"Basti Sanawan",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97423,
+    30.32239,
+    70.97423,
+    30.32239
+],
+  "geometry": {"coordinates":[70.97423000000001,30.32239],"type":"Point"}
+}

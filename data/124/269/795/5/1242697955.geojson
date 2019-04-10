@@ -1,0 +1,81 @@
+{
+  "id": 1242697955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.03883,35.12392,75.03883,35.12392",
+    "geom:latitude":35.12392,
+    "geom:longitude":75.03883,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Das Khirim",
+    "gn:country_code":"PK",
+    "gn:dem":3094,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173883,
+    "gn:latitude":35.12392,
+    "gn:longitude":75.03883,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Das Khirim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khirim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173883
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e60b158df0a35c2b8124c9f2077734c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242697955,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242697955,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242697955,
+    "wof:lastmodified":1537679589,
+    "wof:name":"Das Khirim",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.03883,
+    35.12392,
+    75.03883,
+    35.12392
+],
+  "geometry": {"coordinates":[75.03883,35.12392],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259390605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86459,29.80478,66.86459,29.80478",
+    "geom:latitude":29.80478,
+    "geom:longitude":66.86459,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khwasam",
+    "gn:country_code":"PK",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108381,
+    "gn:latitude":29.80478,
+    "gn:longitude":66.86459,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Khwasam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108381
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b918e079009c637f846b1662e69b39cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1259390605,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259390605,
+    "wof:lastmodified":1536991122,
+    "wof:name":"Khwasam",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86459,
+    29.80478,
+    66.86459,
+    29.80478
+],
+  "geometry": {"coordinates":[66.86459000000001,29.80478],"type":"Point"}
+}

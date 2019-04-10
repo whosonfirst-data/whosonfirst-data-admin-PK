@@ -1,0 +1,81 @@
+{
+  "id": 1259475141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60567,34.51392,73.60567,34.51392",
+    "geom:latitude":34.51392,
+    "geom:longitude":73.60567,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Doliar",
+    "gn:country_code":"PK",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385418,
+    "gn:latitude":34.51392,
+    "gn:longitude":73.60567,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Doliar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Duli\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385418
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5397d0c6b7ca9a0822b2e111a4a25d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1259475141,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1259475141,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259475141,
+    "wof:lastmodified":1537680839,
+    "wof:name":"Doliar",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60566999999998,
+    34.51392,
+    73.60566999999998,
+    34.51392
+],
+  "geometry": {"coordinates":[73.60566999999998,34.51392],"type":"Point"}
+}

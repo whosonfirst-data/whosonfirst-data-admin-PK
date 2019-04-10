@@ -1,0 +1,81 @@
+{
+  "id": 1293684059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.5879,34.48775,73.5879,34.48775",
+    "geom:latitude":34.48775,
+    "geom:longitude":73.5879,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chimian",
+    "gn:country_code":"PK",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385457,
+    "gn:latitude":34.48775,
+    "gn:longitude":73.5879,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chimian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chimi\u0101n Khetar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385457
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1858ae07eb358e55c31ba6ab0ed0b565",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293684059,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293684059,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293684059,
+    "wof:lastmodified":1537680839,
+    "wof:name":"Chimian",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.5879,
+    34.48775,
+    73.5879,
+    34.48775
+],
+  "geometry": {"coordinates":[73.5879,34.48775],"type":"Point"}
+}

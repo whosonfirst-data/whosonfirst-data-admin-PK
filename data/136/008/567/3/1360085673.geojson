@@ -1,0 +1,67 @@
+{
+  "id": 1360085673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.11126,34.85276,72.11126,34.85276",
+    "geom:latitude":34.85276,
+    "geom:longitude":72.11126,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Abu Patti",
+    "gn:country_code":"PK",
+    "gn:dem":2172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383522,
+    "gn:latitude":34.85276,
+    "gn:longitude":72.11126,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Abu Patti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383522
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e9a83230bf1e62cac1264b9822ba6319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1360085673,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360085673,
+    "wof:lastmodified":1543515294,
+    "wof:name":"Abu Patti",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.11126,
+    34.85276,
+    72.11126,
+    34.85276
+],
+  "geometry": {"coordinates":[72.11126,34.85276],"type":"Point"}
+}

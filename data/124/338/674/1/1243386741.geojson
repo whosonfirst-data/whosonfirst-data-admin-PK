@@ -1,0 +1,90 @@
+{
+  "id": 1243386741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.75499,32.47731,74.75499,32.47731",
+    "geom:latitude":32.47731,
+    "geom:longitude":74.75499,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kotli Khawaja",
+    "gn:country_code":"PK",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465670,
+    "gn:latitude":32.47731,
+    "gn:longitude":74.75499,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kotli Khawaja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotli Khoja Zi\u0101de"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381,
+        85672137,
+        85632427,
+        1108695733,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465670
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c192379fc511146c434521b6f14613a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1243386741,
+            "region_id":85675753
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695733,
+            "disputed_id":85632427,
+            "locality_id":1243386741,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695733,
+            "disputed_id":85632427,
+            "locality_id":1243386741,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1243386741,
+    "wof:lastmodified":1537681929,
+    "wof:name":"Kotli Khawaja",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.75499,
+    32.47731,
+    74.75499,
+    32.47731
+],
+  "geometry": {"coordinates":[74.75499000000001,32.47731],"type":"Point"}
+}

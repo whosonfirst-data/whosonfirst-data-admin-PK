@@ -1,0 +1,81 @@
+{
+  "id": 1193157217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.72354,35.14016,76.72354,35.14016",
+    "geom:latitude":35.14016,
+    "geom:longitude":76.72354,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sehat",
+    "gn:country_code":"PK",
+    "gn:dem":3177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418484,
+    "gn:latitude":35.14016,
+    "gn:longitude":76.72354,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Sehat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Seth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418484
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d94089d56ce237ca72d632352f5e92e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1193157217,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1193157217,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193157217,
+    "wof:lastmodified":1537681900,
+    "wof:name":"Sehat",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.72354,
+    35.14015999999999,
+    76.72354,
+    35.14015999999999
+],
+  "geometry": {"coordinates":[76.72354,35.14015999999999],"type":"Point"}
+}

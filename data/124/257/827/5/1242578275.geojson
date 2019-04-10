@@ -1,0 +1,67 @@
+{
+  "id": 1242578275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38286,34.53923,73.38286,34.53923",
+    "geom:latitude":34.53923,
+    "geom:longitude":73.38286,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pachrikka",
+    "gn:country_code":"PK",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406361,
+    "gn:latitude":34.53923,
+    "gn:longitude":73.38286,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Pachrikka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406361
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"49f557437b8633be9144cbec2fa74ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242578275,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578275,
+    "wof:lastmodified":1543515376,
+    "wof:name":"Pachrikka",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38286,
+    34.53923,
+    73.38286,
+    34.53923
+],
+  "geometry": {"coordinates":[73.38285999999999,34.53923],"type":"Point"}
+}

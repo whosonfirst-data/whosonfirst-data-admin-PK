@@ -1,0 +1,67 @@
+{
+  "id": 1259789111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.34691,29.64659,72.34691,29.64659",
+    "geom:latitude":29.64659,
+    "geom:longitude":72.34691,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Azharabad",
+    "gn:country_code":"PK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11485048,
+    "gn:latitude":29.64659,
+    "gn:longitude":72.34691,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Azharabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11485048
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5283e64d49ac799c0c7cb6b6468ec0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1259789111,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259789111,
+    "wof:lastmodified":1536915502,
+    "wof:name":"Azharabad",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.34691,
+    29.64659,
+    72.34691,
+    29.64659
+],
+  "geometry": {"coordinates":[72.34690999999999,29.64659],"type":"Point"}
+}

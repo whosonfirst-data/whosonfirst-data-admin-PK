@@ -1,0 +1,67 @@
+{
+  "id": 1226142251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26376,33.46092,73.26376,33.46092",
+    "geom:latitude":33.46092,
+    "geom:longitude":73.26376,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sagri",
+    "gn:country_code":"PK",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166593,
+    "gn:latitude":33.46092,
+    "gn:longitude":73.26376,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sagri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166593
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3aff4bb760cae116861dd171dc860114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1226142251,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226142251,
+    "wof:lastmodified":1537079620,
+    "wof:name":"Sagri",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26375999999998,
+    33.46092,
+    73.26375999999998,
+    33.46092
+],
+  "geometry": {"coordinates":[73.26375999999998,33.46092],"type":"Point"}
+}

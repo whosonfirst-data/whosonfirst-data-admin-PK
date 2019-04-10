@@ -1,0 +1,67 @@
+{
+  "id": 1293699345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.86862,25.38447,63.86862,25.38447",
+    "geom:latitude":25.38447,
+    "geom:longitude":63.86862,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kahori",
+    "gn:country_code":"PK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109734,
+    "gn:latitude":25.38447,
+    "gn:longitude":63.86862,
+    "gn:modification_date":"2016-07-04",
+    "gn:name":"Kahori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109734
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1a60837eedeb398601081ebf2ca276eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692199,
+            "locality_id":1293699345,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293699345,
+    "wof:lastmodified":1536978291,
+    "wof:name":"Kahori",
+    "wof:parent_id":1108692199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.86861999999999,
+    25.38447,
+    63.86861999999999,
+    25.38447
+],
+  "geometry": {"coordinates":[63.86861999999999,25.38447],"type":"Point"}
+}

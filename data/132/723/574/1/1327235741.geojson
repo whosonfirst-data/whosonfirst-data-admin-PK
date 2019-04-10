@@ -1,0 +1,67 @@
+{
+  "id": 1327235741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92778,28.40556,68.92778,28.40556",
+    "geom:latitude":28.40556,
+    "geom:longitude":68.92778,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Daim",
+    "gn:country_code":"PK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397028,
+    "gn:latitude":28.40556,
+    "gn:longitude":68.92778,
+    "gn:modification_date":"2001-10-31",
+    "gn:name":"D\u0101im",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397028
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"531cecfbeea0afaa77c551165230f931",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692237,
+            "locality_id":1327235741,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1327235741,
+    "wof:lastmodified":1536964512,
+    "wof:name":"Daim",
+    "wof:parent_id":1108692237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92778,
+    28.40556,
+    68.92778,
+    28.40556
+],
+  "geometry": {"coordinates":[68.92778,28.40556],"type":"Point"}
+}

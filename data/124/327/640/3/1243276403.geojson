@@ -1,0 +1,67 @@
+{
+  "id": 1243276403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97089,30.72163,67.97089,30.72163",
+    "geom:latitude":30.72163,
+    "geom:longitude":67.97089,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nalat",
+    "gn:country_code":"PK",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347308,
+    "gn:latitude":30.72163,
+    "gn:longitude":67.97089,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Nalat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347308
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f82f5f18927ce432408cd37414b23de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1243276403,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243276403,
+    "wof:lastmodified":1537048561,
+    "wof:name":"Nalat",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97089,
+    30.72163,
+    67.97089,
+    30.72163
+],
+  "geometry": {"coordinates":[67.97089,30.72163],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209436481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.31576,32.85444,74.31576,32.85444",
+    "geom:latitude":32.85444,
+    "geom:longitude":74.31576,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bohi Chhatpur",
+    "gn:country_code":"PK",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413311,
+    "gn:latitude":32.85444,
+    "gn:longitude":74.31576,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bohi Chhatpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rahi",
+        "Rohi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413311
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4566186e52339fd4f2f09768c846f077",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209436481
+        }
+    ],
+    "wof:id":1209436481,
+    "wof:lastmodified":1537681312,
+    "wof:name":"Bohi Chhatpur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.31576,
+    32.85444,
+    74.31576,
+    32.85444
+],
+  "geometry": {"coordinates":[74.31576,32.85444],"type":"Point"}
+}

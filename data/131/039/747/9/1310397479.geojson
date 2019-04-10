@@ -1,0 +1,86 @@
+{
+  "id": 1310397479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93436,33.68308,73.93436,33.68308",
+    "geom:latitude":33.68308,
+    "geom:longitude":73.93436,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Andruth",
+    "gn:country_code":"PK",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413779,
+    "gn:latitude":33.68308,
+    "gn:longitude":73.93436,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Andruth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413779
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"50aeb3532b359adef7e0956e70278013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1310397479,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1310397479,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1310397479,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310397479,
+    "wof:lastmodified":1537069820,
+    "wof:name":"Andruth",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93436,
+    33.68308,
+    73.93436,
+    33.68308
+],
+  "geometry": {"coordinates":[73.93436,33.68308],"type":"Point"}
+}

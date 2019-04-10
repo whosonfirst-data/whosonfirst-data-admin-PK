@@ -1,0 +1,67 @@
+{
+  "id": 1242783453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37406,33.91077,72.37406,33.91077",
+    "geom:latitude":33.91077,
+    "geom:longitude":72.37406,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Walia",
+    "gn:country_code":"PK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162662,
+    "gn:latitude":33.91077,
+    "gn:longitude":72.37406,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Walia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162662
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c4d7aa9c9683ee6e659d234a943c232f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1242783453,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242783453,
+    "wof:lastmodified":1536767542,
+    "wof:name":"Walia",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37406,
+    33.91077,
+    72.37406,
+    33.91077
+],
+  "geometry": {"coordinates":[72.37406,33.91077],"type":"Point"}
+}

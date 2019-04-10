@@ -1,0 +1,67 @@
+{
+  "id": 1360185827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.45607,34.62679,72.45607,34.62679",
+    "geom:latitude":34.62679,
+    "geom:longitude":72.45607,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bakar",
+    "gn:country_code":"PK",
+    "gn:dem":1219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11414826,
+    "gn:latitude":34.62679,
+    "gn:longitude":72.45607,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Bakar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11414826
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc8dd81e5fbe0451be85d982391e6d14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1360185827,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360185827,
+    "wof:lastmodified":1543515311,
+    "wof:name":"Bakar",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.45607,
+    34.62679,
+    72.45607,
+    34.62679
+],
+  "geometry": {"coordinates":[72.45607,34.62679],"type":"Point"}
+}

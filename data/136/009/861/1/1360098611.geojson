@@ -1,0 +1,67 @@
+{
+  "id": 1360098611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29908,32.21937,69.29908,32.21937",
+    "geom:latitude":32.21937,
+    "geom:longitude":69.29908,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khand Post",
+    "gn:country_code":"PK",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9820092,
+    "gn:latitude":32.21937,
+    "gn:longitude":69.29908,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Khand Post",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9820092
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f32b872198e56a19707d8dcd9796ace4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1360098611,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360098611,
+    "wof:lastmodified":1543515357,
+    "wof:name":"Khand Post",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29908,
+    32.21937,
+    69.29908,
+    32.21937
+],
+  "geometry": {"coordinates":[69.29908,32.21937],"type":"Point"}
+}

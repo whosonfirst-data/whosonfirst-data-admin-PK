@@ -1,0 +1,67 @@
+{
+  "id": 1226748617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15248,34.18649,73.15248,34.18649",
+    "geom:latitude":34.18649,
+    "geom:longitude":73.15248,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gaena",
+    "gn:country_code":"PK",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11425333,
+    "gn:latitude":34.18649,
+    "gn:longitude":73.15248,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gaena",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11425333
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"698bcc3dc1b0ed3919a8190341bf300f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1226748617,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748617,
+    "wof:lastmodified":1536711692,
+    "wof:name":"Gaena",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15248000000003,
+    34.18649,
+    73.15248000000003,
+    34.18649
+],
+  "geometry": {"coordinates":[73.15248000000003,34.18649],"type":"Point"}
+}

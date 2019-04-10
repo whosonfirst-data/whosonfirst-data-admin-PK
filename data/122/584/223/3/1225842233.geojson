@@ -1,0 +1,78 @@
+{
+  "id": 1225842233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76355,34.24634,73.76355,34.24634",
+    "geom:latitude":34.24634,
+    "geom:longitude":73.76355,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khorian",
+    "gn:country_code":"PK",
+    "gn:dem":2037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10948940,
+    "gn:latitude":34.24634,
+    "gn:longitude":73.76355,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Khorian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10948940
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"734c07e16ce21a74f5a54c19118c7c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1225842233,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1225842233,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1225842233,
+    "wof:lastmodified":1537018026,
+    "wof:name":"Khorian",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76355,
+    34.24634,
+    73.76355,
+    34.24634
+],
+  "geometry": {"coordinates":[73.76355,34.24634],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209716295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96358,34.75228,72.96358,34.75228",
+    "geom:latitude":34.75228,
+    "geom:longitude":72.96358,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pachargram",
+    "gn:country_code":"PK",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377958,
+    "gn:latitude":34.75228,
+    "gn:longitude":72.96358,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Pachargram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377958
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f2c1a00cb0af0d4eeb894bd339c0ae19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1209716295,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716295,
+    "wof:lastmodified":1543515708,
+    "wof:name":"Pachargram",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96358000000002,
+    34.75228,
+    72.96358000000002,
+    34.75228
+],
+  "geometry": {"coordinates":[72.96358000000002,34.75228],"type":"Point"}
+}

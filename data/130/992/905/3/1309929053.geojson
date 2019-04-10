@@ -1,0 +1,67 @@
+{
+  "id": 1309929053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02722,30.26067,71.02722,30.26067",
+    "geom:latitude":30.26067,
+    "geom:longitude":71.02722,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khairewala",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7324922,
+    "gn:latitude":30.26067,
+    "gn:longitude":71.02722,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khairewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7324922
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1ff9f21761a02139a10e4dff083bd70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1309929053,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309929053,
+    "wof:lastmodified":1536753457,
+    "wof:name":"Khairewala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02722,
+    30.26067,
+    71.02722,
+    30.26067
+],
+  "geometry": {"coordinates":[71.02722,30.26067],"type":"Point"}
+}

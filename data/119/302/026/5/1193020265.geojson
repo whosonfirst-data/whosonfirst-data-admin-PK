@@ -1,0 +1,72 @@
+{
+  "id": 1193020265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.53235,24.55326,67.53235,24.55326",
+    "geom:latitude":24.55326,
+    "geom:longitude":67.53235,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Misri Mul Pota",
+    "gn:country_code":"PK",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345078,
+    "gn:latitude":24.55326,
+    "gn:longitude":67.53235,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Goth Misri Mul Pota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Misri M\u016blipota",
+        "Misri M\u016bl Pota",
+        "Goth Misri Mul Pota"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345078
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3e4784d9af8747a083786e28aa85d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692411,
+            "locality_id":1193020265,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193020265,
+    "wof:lastmodified":1537680263,
+    "wof:name":"Goth Misri Mul Pota",
+    "wof:parent_id":1108692411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.53235,
+    24.55326,
+    67.53235,
+    24.55326
+],
+  "geometry": {"coordinates":[67.53234999999999,24.55326],"type":"Point"}
+}

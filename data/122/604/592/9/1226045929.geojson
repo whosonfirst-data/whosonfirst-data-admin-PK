@@ -1,0 +1,67 @@
+{
+  "id": 1226045929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46944,32.42389,69.46944,32.42389",
+    "geom:latitude":32.42389,
+    "geom:longitude":69.46944,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zarmahin",
+    "gn:country_code":"PK",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107828,
+    "gn:latitude":32.42389,
+    "gn:longitude":69.46944,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Zarmahin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107828
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d4fdbb9169477afa528866e36a11d19a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1226045929,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226045929,
+    "wof:lastmodified":1536725236,
+    "wof:name":"Zarmahin",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46944,
+    32.42389,
+    69.46944,
+    32.42389
+],
+  "geometry": {"coordinates":[69.46944000000001,32.42389],"type":"Point"}
+}

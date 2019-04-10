@@ -1,0 +1,67 @@
+{
+  "id": 1327244093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72761,30.81774,67.72761,30.81774",
+    "geom:latitude":30.81774,
+    "geom:longitude":67.72761,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karezgi",
+    "gn:country_code":"PK",
+    "gn:dem":1801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174795,
+    "gn:latitude":30.81774,
+    "gn:longitude":67.72761,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Karezgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174795
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"738ca2be2f96ea83a3a574ca54472539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1327244093,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327244093,
+    "wof:lastmodified":1536952724,
+    "wof:name":"Karezgi",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72761,
+    30.81774,
+    67.72761,
+    30.81774
+],
+  "geometry": {"coordinates":[67.72761,30.81774],"type":"Point"}
+}

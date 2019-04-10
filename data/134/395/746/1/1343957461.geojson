@@ -1,0 +1,67 @@
+{
+  "id": 1343957461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.67688,32.92173,71.67688,32.92173",
+    "geom:latitude":32.92173,
+    "geom:longitude":71.67688,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gulan",
+    "gn:country_code":"PK",
+    "gn:dem":362,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405389,
+    "gn:latitude":32.92173,
+    "gn:longitude":71.67688,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Gulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2ba1e30257854b5c5e94d74b434b916e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1343957461,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343957461,
+    "wof:lastmodified":1537023318,
+    "wof:name":"Gulan",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.67688000000003,
+    32.92173,
+    71.67688000000003,
+    32.92173
+],
+  "geometry": {"coordinates":[71.67688000000003,32.92173],"type":"Point"}
+}

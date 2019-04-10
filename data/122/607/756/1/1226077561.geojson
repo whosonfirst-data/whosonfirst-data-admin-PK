@@ -1,0 +1,67 @@
+{
+  "id": 1226077561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46198,33.67991,73.46198,33.67991",
+    "geom:latitude":33.67991,
+    "geom:longitude":73.46198,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jand",
+    "gn:country_code":"PK",
+    "gn:dem":832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441719,
+    "gn:latitude":33.67991,
+    "gn:longitude":73.46198,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Jand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441719
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea85a7c9341e50f5f7b73f2f0f3524fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1226077561,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226077561,
+    "wof:lastmodified":1536679384,
+    "wof:name":"Jand",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46198000000003,
+    33.67991,
+    73.46198000000003,
+    33.67991
+],
+  "geometry": {"coordinates":[73.46198000000003,33.67991],"type":"Point"}
+}

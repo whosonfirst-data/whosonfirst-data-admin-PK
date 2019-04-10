@@ -1,0 +1,67 @@
+{
+  "id": 1260086915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.34982,36.34098,72.34982,36.34098",
+    "geom:latitude":36.34098,
+    "geom:longitude":72.34982,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Molin",
+    "gn:country_code":"PK",
+    "gn:dem":2450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045359,
+    "gn:latitude":36.34098,
+    "gn:longitude":72.34982,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Molin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045359
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a1267938a262ae6d614b4f98335a82ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1260086915,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260086915,
+    "wof:lastmodified":1536982289,
+    "wof:name":"Molin",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.34982,
+    36.34098,
+    72.34982,
+    36.34098
+],
+  "geometry": {"coordinates":[72.34981999999999,36.34098],"type":"Point"}
+}

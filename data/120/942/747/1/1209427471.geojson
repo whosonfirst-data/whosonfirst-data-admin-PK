@@ -1,0 +1,64 @@
+{
+  "id": 1209427471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72176,31.04121,67.72176,31.04121",
+    "geom:latitude":31.04121,
+    "geom:longitude":67.72176,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chingai",
+    "gn:country_code":"PK",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1372981,
+    "gn:latitude":31.04121,
+    "gn:longitude":67.72176,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Chingai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chingai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1372981
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78607d594cfb56737e3bb67484985dbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209427471
+        }
+    ],
+    "wof:id":1209427471,
+    "wof:lastmodified":1537680621,
+    "wof:name":"Chingai",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72176,
+    31.04121,
+    67.72176,
+    31.04121
+],
+  "geometry": {"coordinates":[67.72176,31.04121],"type":"Point"}
+}

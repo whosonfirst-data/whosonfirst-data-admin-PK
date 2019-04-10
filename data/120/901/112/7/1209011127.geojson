@@ -1,0 +1,67 @@
+{
+  "id": 1209011127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07096,32.09839,71.07096,32.09839",
+    "geom:latitude":32.09839,
+    "geom:longitude":71.07096,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Qazi",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365745,
+    "gn:latitude":32.09839,
+    "gn:longitude":71.07096,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Qazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365745
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c226b6104241f3b21b2b3414ab595bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1209011127,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209011127,
+    "wof:lastmodified":1543515239,
+    "wof:name":"Qazi",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07096,
+    32.09839,
+    71.07096,
+    32.09839
+],
+  "geometry": {"coordinates":[71.07096,32.09839],"type":"Point"}
+}

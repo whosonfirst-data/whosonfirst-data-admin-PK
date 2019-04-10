@@ -1,0 +1,67 @@
+{
+  "id": 1360287665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.83524,31.16167,66.83524,31.16167",
+    "geom:latitude":31.16167,
+    "geom:longitude":66.83524,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Barai",
+    "gn:country_code":"PK",
+    "gn:dem":1826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1375732,
+    "gn:latitude":31.16167,
+    "gn:longitude":66.83524,
+    "gn:modification_date":"2011-06-06",
+    "gn:name":"Barai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1375732
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"650070f6da1c1a5692441660a475c1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1360287665,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360287665,
+    "wof:lastmodified":1536653293,
+    "wof:name":"Barai",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.83524,
+    31.16167,
+    66.83524,
+    31.16167
+],
+  "geometry": {"coordinates":[66.83524,31.16167],"type":"Point"}
+}

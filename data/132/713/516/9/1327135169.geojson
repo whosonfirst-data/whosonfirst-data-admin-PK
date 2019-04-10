@@ -1,0 +1,67 @@
+{
+  "id": 1327135169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61763,33.99315,72.61763,33.99315",
+    "geom:latitude":33.99315,
+    "geom:longitude":72.61763,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jammun",
+    "gn:country_code":"PK",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339510,
+    "gn:latitude":33.99315,
+    "gn:longitude":72.61763,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Jammun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339510
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9831698f1fe5008c885ace8dac67d519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1327135169,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327135169,
+    "wof:lastmodified":1536609435,
+    "wof:name":"Jammun",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61763,
+    33.99315,
+    72.61763,
+    33.99315
+],
+  "geometry": {"coordinates":[72.61763000000001,33.99315],"type":"Point"}
+}

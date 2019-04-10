@@ -1,0 +1,67 @@
+{
+  "id": 1193150485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38883,34.6982,71.38883,34.6982",
+    "geom:latitude":34.6982,
+    "geom:longitude":71.38883,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Trakai",
+    "gn:country_code":"PK",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107076,
+    "gn:latitude":34.6982,
+    "gn:longitude":71.38883,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Trakai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107076
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d0d1f7ee8901c778fb88b780fcc20579",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1193150485,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193150485,
+    "wof:lastmodified":1543515447,
+    "wof:name":"Trakai",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38883,
+    34.6982,
+    71.38883,
+    34.6982
+],
+  "geometry": {"coordinates":[71.38883,34.6982],"type":"Point"}
+}

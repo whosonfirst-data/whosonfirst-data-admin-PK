@@ -1,0 +1,67 @@
+{
+  "id": 1260081357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.55828,35.97409,71.55828,35.97409",
+    "geom:latitude":35.97409,
+    "geom:longitude":71.55828,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Behmi",
+    "gn:country_code":"PK",
+    "gn:dem":2582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11123649,
+    "gn:latitude":35.97409,
+    "gn:longitude":71.55828,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Behmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11123649
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"862832e7c241ab9d7c3536ed78ac1270",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1260081357,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260081357,
+    "wof:lastmodified":1536990255,
+    "wof:name":"Behmi",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.55828000000002,
+    35.97409000000001,
+    71.55828000000002,
+    35.97409000000001
+],
+  "geometry": {"coordinates":[71.55828000000002,35.97409000000001],"type":"Point"}
+}

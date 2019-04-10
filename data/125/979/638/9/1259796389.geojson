@@ -1,0 +1,67 @@
+{
+  "id": 1259796389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.42728,30.99575,69.42728,30.99575",
+    "geom:latitude":30.99575,
+    "geom:longitude":69.42728,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nisai",
+    "gn:country_code":"PK",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353472,
+    "gn:latitude":30.99575,
+    "gn:longitude":69.42728,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Nisai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353472
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0fa105901712935bd2a3f6f24fab26b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1259796389,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259796389,
+    "wof:lastmodified":1536904726,
+    "wof:name":"Nisai",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.42728000000001,
+    30.99575,
+    69.42728000000001,
+    30.99575
+],
+  "geometry": {"coordinates":[69.42728000000001,30.99575],"type":"Point"}
+}

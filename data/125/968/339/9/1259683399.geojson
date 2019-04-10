@@ -1,0 +1,67 @@
+{
+  "id": 1259683399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.07003,31.43941,74.07003,31.43941",
+    "geom:latitude":31.43941,
+    "geom:longitude":74.07003,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ayyapur",
+    "gn:country_code":"PK",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509829,
+    "gn:latitude":31.43941,
+    "gn:longitude":74.07003,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ayyapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509829
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e7e3196e892a7d44e061afb25920368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1259683399,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259683399,
+    "wof:lastmodified":1537064303,
+    "wof:name":"Ayyapur",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.07003,
+    31.43941,
+    74.07003,
+    31.43941
+],
+  "geometry": {"coordinates":[74.07003,31.43941],"type":"Point"}
+}

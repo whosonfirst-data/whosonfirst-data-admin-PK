@@ -1,0 +1,81 @@
+{
+  "id": 1277098087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2107,33.97581,74.2107,33.97581",
+    "geom:latitude":33.97581,
+    "geom:longitude":74.2107,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sakarwali",
+    "gn:country_code":"PK",
+    "gn:dem":2568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414948,
+    "gn:latitude":33.97581,
+    "gn:longitude":74.2107,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sakarwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sakar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414948
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"35a62d9a60d4eab09c2149e5f4c2816e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1277098087,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1277098087,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277098087,
+    "wof:lastmodified":1537681352,
+    "wof:name":"Sakarwali",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2107,
+    33.97581,
+    74.2107,
+    33.97581
+],
+  "geometry": {"coordinates":[74.2107,33.97581],"type":"Point"}
+}

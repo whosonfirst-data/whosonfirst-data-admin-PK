@@ -1,0 +1,67 @@
+{
+  "id": 1343769969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.5613,28.63851,65.5613,28.63851",
+    "geom:latitude":28.63851,
+    "geom:longitude":65.5613,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sartopian",
+    "gn:country_code":"PK",
+    "gn:dem":742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11231384,
+    "gn:latitude":28.63851,
+    "gn:longitude":65.5613,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Sartopian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11231384
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"825936df458af40268b93c1a6afa1a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1343769969,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343769969,
+    "wof:lastmodified":1536797327,
+    "wof:name":"Sartopian",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.5613,
+    28.63851,
+    65.5613,
+    28.63851
+],
+  "geometry": {"coordinates":[65.5613,28.63851],"type":"Point"}
+}

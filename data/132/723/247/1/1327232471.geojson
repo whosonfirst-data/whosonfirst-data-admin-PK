@@ -1,0 +1,67 @@
+{
+  "id": 1327232471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63542,31.76249,70.63542,31.76249",
+    "geom:latitude":31.76249,
+    "geom:longitude":70.63542,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taj",
+    "gn:country_code":"PK",
+    "gn:dem":196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164137,
+    "gn:latitude":31.76249,
+    "gn:longitude":70.63542,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Taj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164137
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02758b355ac1f2b43f7af02171ac25db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1327232471,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327232471,
+    "wof:lastmodified":1536969185,
+    "wof:name":"Taj",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63542,
+    31.76249,
+    70.63542,
+    31.76249
+],
+  "geometry": {"coordinates":[70.63542,31.76249],"type":"Point"}
+}

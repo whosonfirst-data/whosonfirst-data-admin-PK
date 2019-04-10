@@ -1,0 +1,67 @@
+{
+  "id": 1209919501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.9442,29.96337,71.9442,29.96337",
+    "geom:latitude":29.96337,
+    "geom:longitude":71.9442,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhundpur",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418410,
+    "gn:latitude":29.96337,
+    "gn:longitude":71.9442,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Dhundpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418410
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0a01c3c705b903a3b131e9803a89d555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1209919501,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209919501,
+    "wof:lastmodified":1536370030,
+    "wof:name":"Dhundpur",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.9442,
+    29.96337,
+    71.9442,
+    29.96337
+],
+  "geometry": {"coordinates":[71.9442,29.96337],"type":"Point"}
+}

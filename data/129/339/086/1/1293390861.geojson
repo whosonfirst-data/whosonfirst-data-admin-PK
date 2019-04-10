@@ -1,0 +1,67 @@
+{
+  "id": 1293390861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65425,35.78807,71.65425,35.78807",
+    "geom:latitude":35.78807,
+    "geom:longitude":71.65425,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Raolek",
+    "gn:country_code":"PK",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11123699,
+    "gn:latitude":35.78807,
+    "gn:longitude":71.65425,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Raolek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11123699
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"72ccac3429d40639e2a63d8697f30810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1293390861,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293390861,
+    "wof:lastmodified":1536927025,
+    "wof:name":"Raolek",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65425,
+    35.78807000000001,
+    71.65425,
+    35.78807000000001
+],
+  "geometry": {"coordinates":[71.65425,35.78807000000001],"type":"Point"}
+}

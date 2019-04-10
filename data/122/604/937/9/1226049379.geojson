@@ -1,0 +1,71 @@
+{
+  "id": 1226049379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51818,34.5471,72.51818,34.5471",
+    "geom:latitude":34.5471,
+    "geom:longitude":72.51818,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hissar",
+    "gn:country_code":"PK",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176846,
+    "gn:latitude":34.5471,
+    "gn:longitude":72.51818,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hissar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hisar",
+        "Hissar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176846
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"63138a03ec2c73406b15a1ca9ddac52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1226049379,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226049379,
+    "wof:lastmodified":1537679695,
+    "wof:name":"Hissar",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51818,
+    34.5471,
+    72.51818,
+    34.5471
+],
+  "geometry": {"coordinates":[72.51818,34.5471],"type":"Point"}
+}

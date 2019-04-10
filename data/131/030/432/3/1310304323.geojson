@@ -1,0 +1,67 @@
+{
+  "id": 1310304323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37731,32.17388,72.37731,32.17388",
+    "geom:latitude":32.17388,
+    "geom:longitude":72.37731,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gujranwala",
+    "gn:country_code":"PK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177661,
+    "gn:latitude":32.17388,
+    "gn:longitude":72.37731,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Gujranwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177661
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f031b277f27a6848bc05b1a0365a786d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1310304323,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310304323,
+    "wof:lastmodified":1536709923,
+    "wof:name":"Gujranwala",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37731,
+    32.17388,
+    72.37731,
+    32.17388
+],
+  "geometry": {"coordinates":[72.37730999999999,32.17388],"type":"Point"}
+}

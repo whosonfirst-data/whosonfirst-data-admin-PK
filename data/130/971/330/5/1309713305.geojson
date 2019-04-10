@@ -1,0 +1,67 @@
+{
+  "id": 1309713305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23457,34.347,73.23457,34.347",
+    "geom:latitude":34.347,
+    "geom:longitude":73.23457,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hajiabad",
+    "gn:country_code":"PK",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424824,
+    "gn:latitude":34.347,
+    "gn:longitude":73.23457,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hajiabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424824
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f8111ef97012bf968daa3247a2cd8bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1309713305,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309713305,
+    "wof:lastmodified":1537061722,
+    "wof:name":"Hajiabad",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23456999999998,
+    34.347,
+    73.23456999999998,
+    34.347
+],
+  "geometry": {"coordinates":[73.23456999999998,34.347],"type":"Point"}
+}

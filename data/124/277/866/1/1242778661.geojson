@@ -1,0 +1,67 @@
+{
+  "id": 1242778661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39584,34.38722,73.39584,34.38722",
+    "geom:latitude":34.38722,
+    "geom:longitude":73.39584,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lesmaira",
+    "gn:country_code":"PK",
+    "gn:dem":893,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997526,
+    "gn:latitude":34.38722,
+    "gn:longitude":73.39584,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Lesmaira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997526
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8b6b630e15b26a4442780ebf1c9eea44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242778661,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242778661,
+    "wof:lastmodified":1543515585,
+    "wof:name":"Lesmaira",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39584,
+    34.38722,
+    73.39584,
+    34.38722
+],
+  "geometry": {"coordinates":[73.39584000000001,34.38722],"type":"Point"}
+}

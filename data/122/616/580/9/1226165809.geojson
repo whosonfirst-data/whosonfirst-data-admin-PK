@@ -1,0 +1,67 @@
+{
+  "id": 1226165809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58849,33.70563,73.58849,33.70563",
+    "geom:latitude":33.70563,
+    "geom:longitude":73.58849,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Buswal",
+    "gn:country_code":"PK",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11046838,
+    "gn:latitude":33.70563,
+    "gn:longitude":73.58849,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Buswal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11046838
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"16645ce50ce3c0409d3151d56a4914bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1226165809,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226165809,
+    "wof:lastmodified":1537046836,
+    "wof:name":"Buswal",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58849000000002,
+    33.70563,
+    73.58849000000002,
+    33.70563
+],
+  "geometry": {"coordinates":[73.58849000000002,33.70563],"type":"Point"}
+}

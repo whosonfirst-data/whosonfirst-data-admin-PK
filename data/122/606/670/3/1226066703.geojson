@@ -1,0 +1,81 @@
+{
+  "id": 1226066703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88026,33.92535,73.88026,33.92535",
+    "geom:latitude":33.92535,
+    "geom:longitude":73.88026,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Samni",
+    "gn:country_code":"PK",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386060,
+    "gn:latitude":33.92535,
+    "gn:longitude":73.88026,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Samni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "So\u0101nj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386060
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"21f6d291c7e82fcaf2801ca07015c882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226066703,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226066703,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226066703,
+    "wof:lastmodified":1537680851,
+    "wof:name":"Samni",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88025999999998,
+    33.92535,
+    73.88025999999998,
+    33.92535
+],
+  "geometry": {"coordinates":[73.88025999999998,33.92535],"type":"Point"}
+}

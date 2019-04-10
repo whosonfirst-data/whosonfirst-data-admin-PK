@@ -1,0 +1,67 @@
+{
+  "id": 1276234661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88183,34.23193,71.88183,34.23193",
+    "geom:latitude":34.23193,
+    "geom:longitude":71.88183,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zahidabad",
+    "gn:country_code":"PK",
+    "gn:dem":331,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124252,
+    "gn:latitude":34.23193,
+    "gn:longitude":71.88183,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Zahidabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124252
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"38bce1810dc8abd8983d52361b8265f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1276234661,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276234661,
+    "wof:lastmodified":1536911177,
+    "wof:name":"Zahidabad",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88183000000002,
+    34.23193,
+    71.88183000000002,
+    34.23193
+],
+  "geometry": {"coordinates":[71.88183000000002,34.23193],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209215933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94901,34.03601,72.94901,34.03601",
+    "geom:latitude":34.03601,
+    "geom:longitude":72.94901,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nagar",
+    "gn:country_code":"PK",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421321,
+    "gn:latitude":34.03601,
+    "gn:longitude":72.94901,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Nagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421321
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f91df7c67b1e78c53fd9804324113077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1209215933,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215933,
+    "wof:lastmodified":1543515551,
+    "wof:name":"Nagar",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94901,
+    34.03601,
+    72.94901,
+    34.03601
+],
+  "geometry": {"coordinates":[72.94901,34.03601],"type":"Point"}
+}

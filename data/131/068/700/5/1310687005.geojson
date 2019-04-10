@@ -1,0 +1,91 @@
+{
+  "id": 1310687005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.04715,36.09212,74.04715,36.09212",
+    "geom:latitude":36.09212,
+    "geom:longitude":74.04715,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sher Qila",
+    "gn:country_code":"PK",
+    "gn:dem":1742,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165149,
+    "gn:latitude":36.09212,
+    "gn:longitude":74.04715,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Sher Qila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cher",
+        "Sher Kila",
+        "Sher Qila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165149
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"51136e93dd60b2d2647bf1061aa237b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1310687005,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1310687005,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1310687005,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310687005,
+    "wof:lastmodified":1537679280,
+    "wof:name":"Sher Qila",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.04715,
+    36.09212,
+    74.04715,
+    36.09212
+],
+  "geometry": {"coordinates":[74.04715,36.09212],"type":"Point"}
+}

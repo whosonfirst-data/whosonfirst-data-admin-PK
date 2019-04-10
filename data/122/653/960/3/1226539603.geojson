@@ -1,0 +1,67 @@
+{
+  "id": 1226539603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.7119,32.96186,72.7119,32.96186",
+    "geom:latitude":32.96186,
+    "geom:longitude":72.7119,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hastal",
+    "gn:country_code":"PK",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177026,
+    "gn:latitude":32.96186,
+    "gn:longitude":72.7119,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Hastal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177026
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5c1b45bc9d4d304012973d2aa0165fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1226539603,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226539603,
+    "wof:lastmodified":1537006190,
+    "wof:name":"Hastal",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.7119,
+    32.96185999999999,
+    72.7119,
+    32.96185999999999
+],
+  "geometry": {"coordinates":[72.7119,32.96185999999999],"type":"Point"}
+}

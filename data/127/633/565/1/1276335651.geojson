@@ -1,0 +1,67 @@
+{
+  "id": 1276335651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97377,34.88137,71.97377,34.88137",
+    "geom:latitude":34.88137,
+    "geom:longitude":71.97377,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rabat",
+    "gn:country_code":"PK",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10351868,
+    "gn:latitude":34.88137,
+    "gn:longitude":71.97377,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Rabat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10351868
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58fd7286302a07e681d59ae8de2e4df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1276335651,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276335651,
+    "wof:lastmodified":1536775999,
+    "wof:name":"Rabat",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97377,
+    34.88137,
+    71.97377,
+    34.88137
+],
+  "geometry": {"coordinates":[71.97377,34.88137],"type":"Point"}
+}

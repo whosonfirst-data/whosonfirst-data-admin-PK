@@ -1,0 +1,67 @@
+{
+  "id": 1242578237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08213,36.8131,73.08213,36.8131",
+    "geom:latitude":36.8131,
+    "geom:longitude":73.08213,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zirch",
+    "gn:country_code":"PK",
+    "gn:dem":3219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450664,
+    "gn:latitude":36.8131,
+    "gn:longitude":73.08213,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Zirch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450664
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e749179f2269319cf6b51185d38f4afc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1242578237,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578237,
+    "wof:lastmodified":1543515377,
+    "wof:name":"Zirch",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08213,
+    36.8131,
+    73.08213,
+    36.8131
+],
+  "geometry": {"coordinates":[73.08213000000001,36.8131],"type":"Point"}
+}

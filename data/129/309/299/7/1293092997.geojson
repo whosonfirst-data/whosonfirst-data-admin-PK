@@ -1,0 +1,86 @@
+{
+  "id": 1293092997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.80957,33.73139,73.80957,33.73139",
+    "geom:latitude":33.73139,
+    "geom:longitude":73.80957,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kala Kot",
+    "gn:country_code":"PK",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10875634,
+    "gn:latitude":33.73139,
+    "gn:longitude":73.80957,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kala Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10875634
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ec4dbf7c943ca2f7f397e351c4131ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1293092997,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1293092997,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1293092997,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293092997,
+    "wof:lastmodified":1536857554,
+    "wof:name":"Kala Kot",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.80957,
+    33.73139,
+    73.80957,
+    33.73139
+],
+  "geometry": {"coordinates":[73.80956999999999,33.73139],"type":"Point"}
+}

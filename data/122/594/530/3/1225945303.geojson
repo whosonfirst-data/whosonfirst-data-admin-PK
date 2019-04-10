@@ -1,0 +1,67 @@
+{
+  "id": 1225945303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.42364,32.3993,70.42364,32.3993",
+    "geom:latitude":32.3993,
+    "geom:longitude":70.42364,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mehrban Kirri",
+    "gn:country_code":"PK",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338296,
+    "gn:latitude":32.3993,
+    "gn:longitude":70.42364,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Mehrban Kirri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338296
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5980abeb388d6ad199b520d2e7a08b54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692407,
+            "locality_id":1225945303,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945303,
+    "wof:lastmodified":1543515674,
+    "wof:name":"Mehrban Kirri",
+    "wof:parent_id":1108692407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.42364,
+    32.3993,
+    70.42364,
+    32.3993
+],
+  "geometry": {"coordinates":[70.42364000000001,32.3993],"type":"Point"}
+}

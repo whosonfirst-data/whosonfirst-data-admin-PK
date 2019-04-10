@@ -1,0 +1,67 @@
+{
+  "id": 1209321461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41287,34.70508,72.41287,34.70508",
+    "geom:latitude":34.70508,
+    "geom:longitude":72.41287,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tango",
+    "gn:country_code":"PK",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482203,
+    "gn:latitude":34.70508,
+    "gn:longitude":72.41287,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tango",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482203
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca4b4cff15a2f8d32dacaa32f1d3d267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1209321461,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209321461,
+    "wof:lastmodified":1543515511,
+    "wof:name":"Tango",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41287,
+    34.70508,
+    72.41287,
+    34.70508
+],
+  "geometry": {"coordinates":[72.41287,34.70508],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209315383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.6354,34.95994,72.6354,34.95994",
+    "geom:latitude":34.95994,
+    "geom:longitude":72.6354,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sat",
+    "gn:country_code":"PK",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482309,
+    "gn:latitude":34.95994,
+    "gn:longitude":72.6354,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482309
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56183b9a2706257beb46acc398957f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1209315383,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315383,
+    "wof:lastmodified":1543515553,
+    "wof:name":"Sat",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.6354,
+    34.95994,
+    72.6354,
+    34.95994
+],
+  "geometry": {"coordinates":[72.6354,34.95994],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243080123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01774,26.40111,67.01774,26.40111",
+    "geom:latitude":26.40111,
+    "geom:longitude":67.01774,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goth Postol",
+    "gn:country_code":"PK",
+    "gn:dem":392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11255975,
+    "gn:latitude":26.40111,
+    "gn:longitude":67.01774,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Goth Postol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11255975
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ce51251da1478c259a833084921c10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1243080123,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243080123,
+    "wof:lastmodified":1536835475,
+    "wof:name":"Goth Postol",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01774,
+    26.40111,
+    67.01774,
+    26.40111
+],
+  "geometry": {"coordinates":[67.01774,26.40111],"type":"Point"}
+}

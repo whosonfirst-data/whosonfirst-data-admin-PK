@@ -1,0 +1,67 @@
+{
+  "id": 1293004965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3763,24.29811,69.3763,24.29811",
+    "geom:latitude":24.29811,
+    "geom:longitude":69.3763,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Amarno",
+    "gn:country_code":"PK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410277,
+    "gn:latitude":24.29811,
+    "gn:longitude":69.3763,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Amarno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410277
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c7edeb46c906e477018f4f1d6b71bd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1293004965,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293004965,
+    "wof:lastmodified":1536984775,
+    "wof:name":"Amarno",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3763,
+    24.29811,
+    69.3763,
+    24.29811
+],
+  "geometry": {"coordinates":[69.3763,24.29811],"type":"Point"}
+}

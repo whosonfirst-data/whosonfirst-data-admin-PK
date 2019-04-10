@@ -1,0 +1,75 @@
+{
+  "id": 421177629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.387,34.003611,73.387,34.003611",
+    "geom:latitude":34.003611,
+    "geom:longitude":73.387,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ayubia",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"North-West Frontier",
+    "qs:photos":49,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":49,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":429073,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":22723077,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723077,
+        "qs:id":429073
+    },
+    "wof:country":"PK",
+    "wof:created":1459009153,
+    "wof:geomhash":"d7a9f9ba6412228d1cd068036ac89262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":421177629,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":421177629,
+    "wof:lastmodified":1543515399,
+    "wof:name":"Ayubia",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.387,
+    34.003611,
+    73.387,
+    34.003611
+],
+  "geometry": {"coordinates":[73.387,34.003611],"type":"Point"}
+}

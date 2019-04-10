@@ -1,0 +1,67 @@
+{
+  "id": 1226043291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67149,33.98317,72.67149,33.98317",
+    "geom:latitude":33.98317,
+    "geom:longitude":72.67149,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sokra",
+    "gn:country_code":"PK",
+    "gn:dem":438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413650,
+    "gn:latitude":33.98317,
+    "gn:longitude":72.67149,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sokra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413650
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d3fb2f6f93db3fa98688b409df6e62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1226043291,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1226043291,
+    "wof:lastmodified":1543515791,
+    "wof:name":"Sokra",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67149,
+    33.98317,
+    72.67149,
+    33.98317
+],
+  "geometry": {"coordinates":[72.67149000000001,33.98317],"type":"Point"}
+}

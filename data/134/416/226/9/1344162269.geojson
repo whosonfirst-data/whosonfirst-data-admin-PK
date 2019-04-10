@@ -1,0 +1,67 @@
+{
+  "id": 1344162269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95349,31.85341,72.95349,31.85341",
+    "geom:latitude":31.85341,
+    "geom:longitude":72.95349,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chak Jodh",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382240,
+    "gn:latitude":31.85341,
+    "gn:longitude":72.95349,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Chak Jodh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382240
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1ffe14b1429b03266967e86477fbfd07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1344162269,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344162269,
+    "wof:lastmodified":1536729031,
+    "wof:name":"Chak Jodh",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95349,
+    31.85341,
+    72.95349,
+    31.85341
+],
+  "geometry": {"coordinates":[72.95349,31.85341],"type":"Point"}
+}

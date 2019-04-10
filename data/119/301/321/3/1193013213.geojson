@@ -1,0 +1,86 @@
+{
+  "id": 1193013213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.78993,33.05522,73.78993,33.05522",
+    "geom:latitude":33.05522,
+    "geom:longitude":73.78993,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pulmunda",
+    "gn:country_code":"PK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467665,
+    "gn:latitude":33.05522,
+    "gn:longitude":73.78993,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Pulmunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467665
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e018119e38ad64e394d4f12f9ef7786c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1193013213,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1193013213,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1193013213,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193013213,
+    "wof:lastmodified":1536381292,
+    "wof:name":"Pulmunda",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.78993,
+    33.05522,
+    73.78993,
+    33.05522
+],
+  "geometry": {"coordinates":[73.78993,33.05522],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209416145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67913,34.52014,72.67913,34.52014",
+    "geom:latitude":34.52014,
+    "geom:longitude":72.67913,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bilgah",
+    "gn:country_code":"PK",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390917,
+    "gn:latitude":34.52014,
+    "gn:longitude":72.67913,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Bilgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390917
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"422d52e7a2489b2172bd94d8256195af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1209416145,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209416145,
+    "wof:lastmodified":1543515620,
+    "wof:name":"Bilgah",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67913,
+    34.52014,
+    72.67913,
+    34.52014
+],
+  "geometry": {"coordinates":[72.67913,34.52014],"type":"Point"}
+}

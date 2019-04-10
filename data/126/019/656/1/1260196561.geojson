@@ -1,0 +1,67 @@
+{
+  "id": 1260196561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.19195,33.88325,71.19195,33.88325",
+    "geom:latitude":33.88325,
+    "geom:longitude":71.19195,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dandoke",
+    "gn:country_code":"PK",
+    "gn:dem":1042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10202362,
+    "gn:latitude":33.88325,
+    "gn:longitude":71.19195,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Dandoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10202362
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"89ba78ae42843dc3ca56ec22d319b514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1260196561,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1260196561,
+    "wof:lastmodified":1536828933,
+    "wof:name":"Dandoke",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.19195,
+    33.88325,
+    71.19195,
+    33.88325
+],
+  "geometry": {"coordinates":[71.19195000000001,33.88325],"type":"Point"}
+}

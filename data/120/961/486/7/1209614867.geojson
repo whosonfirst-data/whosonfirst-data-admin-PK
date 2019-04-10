@@ -1,0 +1,64 @@
+{
+  "id": 1209614867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.4241,33.92414,73.4241,33.92414",
+    "geom:latitude":33.92414,
+    "geom:longitude":73.4241,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hiltolo",
+    "gn:country_code":"PK",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7034218,
+    "gn:latitude":33.92414,
+    "gn:longitude":73.4241,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Hiltolo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hill Dolu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7034218
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f9765e215b0ddba309893c4a8228e4f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209614867
+        }
+    ],
+    "wof:id":1209614867,
+    "wof:lastmodified":1537681601,
+    "wof:name":"Hiltolo",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.4241,
+    33.92414,
+    73.4241,
+    33.92414
+],
+  "geometry": {"coordinates":[73.4241,33.92414],"type":"Point"}
+}

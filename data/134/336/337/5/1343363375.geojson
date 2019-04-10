@@ -1,0 +1,67 @@
+{
+  "id": 1343363375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48072,25.56973,70.48072,25.56973",
+    "geom:latitude":25.56973,
+    "geom:longitude":70.48072,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kalaria",
+    "gn:country_code":"PK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039287,
+    "gn:latitude":25.56973,
+    "gn:longitude":70.48072,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Kalaria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039287
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"573c57bce3c7025abf55439090d451f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1343363375,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343363375,
+    "wof:lastmodified":1536885767,
+    "wof:name":"Kalaria",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48071999999998,
+    25.56973,
+    70.48071999999998,
+    25.56973
+],
+  "geometry": {"coordinates":[70.48071999999998,25.56973],"type":"Point"}
+}

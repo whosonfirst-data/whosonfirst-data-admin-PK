@@ -1,0 +1,67 @@
+{
+  "id": 1209621945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.34935,36.37357,72.34935,36.37357",
+    "geom:latitude":36.37357,
+    "geom:longitude":72.34935,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Birmaz",
+    "gn:country_code":"PK",
+    "gn:dem":2755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045368,
+    "gn:latitude":36.37357,
+    "gn:longitude":72.34935,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Birmaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045368
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3383657b845ad8c47dd688198b025d7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1209621945,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209621945,
+    "wof:lastmodified":1543515654,
+    "wof:name":"Birmaz",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.34935,
+    36.37357,
+    72.34935,
+    36.37357
+],
+  "geometry": {"coordinates":[72.34935,36.37357],"type":"Point"}
+}

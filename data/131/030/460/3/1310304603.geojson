@@ -1,0 +1,67 @@
+{
+  "id": 1310304603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43558,32.13802,71.43558,32.13802",
+    "geom:latitude":32.13802,
+    "geom:longitude":71.43558,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Asgharwala",
+    "gn:country_code":"PK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140189,
+    "gn:latitude":32.13802,
+    "gn:longitude":71.43558,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Asgharwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140189
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74560f5ee2303cd2af3b4e82801661ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1310304603,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310304603,
+    "wof:lastmodified":1536709514,
+    "wof:name":"Asgharwala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43558,
+    32.13802,
+    71.43558,
+    32.13802
+],
+  "geometry": {"coordinates":[71.43558,32.13802],"type":"Point"}
+}

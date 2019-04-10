@@ -1,0 +1,67 @@
+{
+  "id": 1209616305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74778,32.72028,70.74778,32.72028",
+    "geom:latitude":32.72028,
+    "geom:longitude":70.74778,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shah Salim",
+    "gn:country_code":"PK",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10501398,
+    "gn:latitude":32.72028,
+    "gn:longitude":70.74778,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Shah Salim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10501398
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b4c77becc6e352963d27f3c5627f556b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1209616305,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209616305,
+    "wof:lastmodified":1543515755,
+    "wof:name":"Shah Salim",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74778,
+    32.72028,
+    70.74778,
+    32.72028
+],
+  "geometry": {"coordinates":[70.74778000000001,32.72028],"type":"Point"}
+}

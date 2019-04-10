@@ -1,0 +1,78 @@
+{
+  "id": 1293610667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08875,32.9275,74.08875,32.9275",
+    "geom:latitude":32.9275,
+    "geom:longitude":74.08875,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhok",
+    "gn:country_code":"PK",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070426,
+    "gn:latitude":32.9275,
+    "gn:longitude":74.08875,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070426
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7849ab63dfd9145fb6ec743aa35a24fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293610667,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293610667,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293610667,
+    "wof:lastmodified":1536606733,
+    "wof:name":"Dhok",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08875,
+    32.9275,
+    74.08875,
+    32.9275
+],
+  "geometry": {"coordinates":[74.08875,32.9275],"type":"Point"}
+}

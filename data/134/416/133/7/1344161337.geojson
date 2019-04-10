@@ -1,0 +1,67 @@
+{
+  "id": 1344161337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.53839,27.83775,68.53839,27.83775",
+    "geom:latitude":27.83775,
+    "geom:longitude":68.53839,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kehar Goth",
+    "gn:country_code":"PK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1402200,
+    "gn:latitude":27.83775,
+    "gn:longitude":68.53839,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Kehar Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1402200
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec1a47cf9eab09308fc26ebd563d4261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692379,
+            "locality_id":1344161337,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1344161337,
+    "wof:lastmodified":1536730354,
+    "wof:name":"Kehar Goth",
+    "wof:parent_id":1108692379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.53839,
+    27.83775,
+    68.53839,
+    27.83775
+],
+  "geometry": {"coordinates":[68.53839000000001,27.83775],"type":"Point"}
+}

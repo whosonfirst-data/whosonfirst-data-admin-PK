@@ -1,0 +1,78 @@
+{
+  "id": 1209837099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.98562,32.98942,73.98562,32.98942",
+    "geom:latitude":32.98942,
+    "geom:longitude":73.98562,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jalley",
+    "gn:country_code":"PK",
+    "gn:dem":347,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069070,
+    "gn:latitude":32.98942,
+    "gn:longitude":73.98562,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Jalley",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069070
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a4c4c184f48b694f44479602d124f725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209837099,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209837099,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209837099,
+    "wof:lastmodified":1536394409,
+    "wof:name":"Jalley",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.98562,
+    32.98942,
+    73.98562,
+    32.98942
+],
+  "geometry": {"coordinates":[73.98562,32.98942],"type":"Point"}
+}

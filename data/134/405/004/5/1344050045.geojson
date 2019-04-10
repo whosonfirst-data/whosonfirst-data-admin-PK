@@ -1,0 +1,67 @@
+{
+  "id": 1344050045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10556,27.69722,69.10556,27.69722",
+    "geom:latitude":27.69722,
+    "geom:longitude":69.10556,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Garai",
+    "gn:country_code":"PK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361468,
+    "gn:latitude":27.69722,
+    "gn:longitude":69.10556,
+    "gn:modification_date":"2001-05-11",
+    "gn:name":"Garai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361468
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c8e0f90cbf1b9cec8df76ed9a7d9112c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1344050045,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1344050045,
+    "wof:lastmodified":1536890304,
+    "wof:name":"Garai",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10556,
+    27.69722,
+    69.10556,
+    27.69722
+],
+  "geometry": {"coordinates":[69.10556,27.69722],"type":"Point"}
+}

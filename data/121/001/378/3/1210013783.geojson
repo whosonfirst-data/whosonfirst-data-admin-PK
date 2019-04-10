@@ -1,0 +1,81 @@
+{
+  "id": 1210013783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05611,33.35298,74.05611,33.35298",
+    "geom:latitude":33.35298,
+    "geom:longitude":74.05611,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dheri Sahibzadan",
+    "gn:country_code":"PK",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415095,
+    "gn:latitude":33.35298,
+    "gn:longitude":74.05611,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dheri Sahibzadan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dheri S\u0101hibz\u0101dan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415095
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"610acdcd4f2b0e5c9e937370c696d5d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1210013783,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1210013783,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1210013783,
+    "wof:lastmodified":1537681355,
+    "wof:name":"Dheri Sahibzadan",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05611,
+    33.35298,
+    74.05611,
+    33.35298
+],
+  "geometry": {"coordinates":[74.05611,33.35298],"type":"Point"}
+}

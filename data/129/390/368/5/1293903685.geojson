@@ -1,0 +1,81 @@
+{
+  "id": 1293903685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.49966,35.61973,75.49966,35.61973",
+    "geom:latitude":35.61973,
+    "geom:longitude":75.49966,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sogigo",
+    "gn:country_code":"PK",
+    "gn:dem":2312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419575,
+    "gn:latitude":35.61973,
+    "gn:longitude":75.49966,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Sogigo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tsogo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419575
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7503e974dc5b489ce61e7674ca4d0bb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293903685,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293903685,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293903685,
+    "wof:lastmodified":1537681901,
+    "wof:name":"Sogigo",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.49965999999998,
+    35.61973,
+    75.49965999999998,
+    35.61973
+],
+  "geometry": {"coordinates":[75.49965999999998,35.61973],"type":"Point"}
+}

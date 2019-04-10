@@ -1,0 +1,87 @@
+{
+  "id": 1225868071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.1549,32.41613,75.1549,32.41613",
+    "geom:latitude":32.41613,
+    "geom:longitude":75.1549,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhopalpur Uparla",
+    "gn:country_code":"PK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081309,
+    "gn:latitude":32.41613,
+    "gn:longitude":75.1549,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bhopalpur Uparla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695737,
+        85632469,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081309
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2f13ee87a96a7d983b9f68e945745234",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695737,
+            "disputed_id":85632427,
+            "locality_id":1225868071,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695737,
+            "disputed_id":85632427,
+            "locality_id":1225868071,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1225868071,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225868071,
+    "wof:lastmodified":1536980851,
+    "wof:name":"Bhopalpur Uparla",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.1549,
+    32.41613,
+    75.1549,
+    32.41613
+],
+  "geometry": {"coordinates":[75.1549,32.41613],"type":"Point"}
+}

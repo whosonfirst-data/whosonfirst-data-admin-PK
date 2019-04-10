@@ -1,0 +1,67 @@
+{
+  "id": 1209109549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38523,34.73175,71.38523,34.73175",
+    "geom:latitude":34.73175,
+    "geom:longitude":71.38523,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Redawan",
+    "gn:country_code":"PK",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274336,
+    "gn:latitude":34.73175,
+    "gn:longitude":71.38523,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Redawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274336
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dba2f06ef322dadca21765f202aa62c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1209109549,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209109549,
+    "wof:lastmodified":1543515461,
+    "wof:name":"Redawan",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38523,
+    34.73175,
+    71.38523,
+    34.73175
+],
+  "geometry": {"coordinates":[71.38523000000001,34.73175],"type":"Point"}
+}

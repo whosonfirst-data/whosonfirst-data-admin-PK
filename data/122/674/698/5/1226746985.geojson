@@ -1,0 +1,67 @@
+{
+  "id": 1226746985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.04154,32.26522,75.04154,32.26522",
+    "geom:latitude":32.26522,
+    "geom:longitude":75.04154,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baman",
+    "gn:country_code":"PK",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081387,
+    "gn:latitude":32.26522,
+    "gn:longitude":75.04154,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Baman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081387
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3976d8b27da58c79cb8229c14d98626d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226746985,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226746985,
+    "wof:lastmodified":1536714046,
+    "wof:name":"Baman",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.04154,
+    32.26522,
+    75.04154,
+    32.26522
+],
+  "geometry": {"coordinates":[75.04154,32.26522],"type":"Point"}
+}

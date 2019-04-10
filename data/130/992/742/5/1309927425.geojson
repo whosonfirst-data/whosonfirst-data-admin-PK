@@ -1,0 +1,78 @@
+{
+  "id": 1309927425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.77124,34.4725,73.77124,34.4725",
+    "geom:latitude":34.4725,
+    "geom:longitude":73.77124,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chham",
+    "gn:country_code":"PK",
+    "gn:dem":2542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415939,
+    "gn:latitude":34.4725,
+    "gn:longitude":73.77124,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415939
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1aed13854712d57ec6fe4e7b68542b91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1309927425,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1309927425,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309927425,
+    "wof:lastmodified":1536755894,
+    "wof:name":"Chham",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.77124,
+    34.4725,
+    73.77124,
+    34.4725
+],
+  "geometry": {"coordinates":[73.77124000000001,34.4725],"type":"Point"}
+}

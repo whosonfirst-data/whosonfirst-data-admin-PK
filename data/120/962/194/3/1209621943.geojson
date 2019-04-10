@@ -1,0 +1,73 @@
+{
+  "id": 1209621943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.46796,36.04784,72.46796,36.04784",
+    "geom:latitude":36.04784,
+    "geom:longitude":72.46796,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sor Laspur",
+    "gn:country_code":"PK",
+    "gn:dem":2960,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164545,
+    "gn:latitude":36.04784,
+    "gn:longitude":72.46796,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sor Laspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "Sorl\u0101sp\u016br"
+    ],
+    "name:urd_x_variant":[
+        "\u0633\u0648\u0631\u0644\u064e\u0627\u0633\u0652\u067e\u064f\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164545
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3c023105633a233c5a2b476265c3cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1209621943,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209621943,
+    "wof:lastmodified":1543515654,
+    "wof:name":"Sor Laspur",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.46795999999998,
+    36.04784,
+    72.46795999999998,
+    36.04784
+],
+  "geometry": {"coordinates":[72.46795999999998,36.04784],"type":"Point"}
+}

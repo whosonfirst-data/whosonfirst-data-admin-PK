@@ -1,0 +1,64 @@
+{
+  "id": 1209214499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93379,31.67958,72.93379,31.67958",
+    "geom:latitude":31.67958,
+    "geom:longitude":72.93379,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Heryanwala Khu",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7321006,
+    "gn:latitude":31.67958,
+    "gn:longitude":72.93379,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Heryanwala Khu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baryalwala Khu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321006
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"151107c254a0971971f41af65ac46906",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209214499
+        }
+    ],
+    "wof:id":1209214499,
+    "wof:lastmodified":1537681737,
+    "wof:name":"Heryanwala Khu",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93379,
+    31.67958,
+    72.93379,
+    31.67958
+],
+  "geometry": {"coordinates":[72.93379,31.67958],"type":"Point"}
+}

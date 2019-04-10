@@ -1,0 +1,78 @@
+{
+  "id": 1242597851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.92007,35.23781,75.92007,35.23781",
+    "geom:latitude":35.23781,
+    "geom:longitude":75.92007,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chirathang",
+    "gn:country_code":"PK",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080938,
+    "gn:latitude":35.23781,
+    "gn:longitude":75.92007,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Chirathang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080938
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"00666188518e95e59336ad065d569291",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1242597851,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1242597851,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242597851,
+    "wof:lastmodified":1537033089,
+    "wof:name":"Chirathang",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.92007,
+    35.23781,
+    75.92007,
+    35.23781
+],
+  "geometry": {"coordinates":[75.92007,35.23781],"type":"Point"}
+}

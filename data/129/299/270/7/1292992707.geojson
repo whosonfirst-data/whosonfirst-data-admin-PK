@@ -1,0 +1,81 @@
+{
+  "id": 1292992707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1064,33.93228,74.1064,33.93228",
+    "geom:latitude":33.93228,
+    "geom:longitude":74.1064,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Basan Shan",
+    "gn:country_code":"PK",
+    "gn:dem":1937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414904,
+    "gn:latitude":33.93228,
+    "gn:longitude":74.1064,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Basan Shan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bas\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414904
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"df2c7d084beb9fead05ebf29cd876806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1292992707,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1292992707,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1292992707,
+    "wof:lastmodified":1537681350,
+    "wof:name":"Basan Shan",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1064,
+    33.93228,
+    74.1064,
+    33.93228
+],
+  "geometry": {"coordinates":[74.10639999999999,33.93228],"type":"Point"}
+}

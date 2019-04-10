@@ -1,0 +1,67 @@
+{
+  "id": 1344256483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45531,33.18019,71.45531,33.18019",
+    "geom:latitude":33.18019,
+    "geom:longitude":71.45531,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sangani",
+    "gn:country_code":"PK",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138264,
+    "gn:latitude":33.18019,
+    "gn:longitude":71.45531,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Sangani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138264
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4067c1637f67b6739d25e1d47ae3c3a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1344256483,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344256483,
+    "wof:lastmodified":1537086750,
+    "wof:name":"Sangani",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45531,
+    33.18019,
+    71.45531,
+    33.18019
+],
+  "geometry": {"coordinates":[71.45531,33.18019],"type":"Point"}
+}

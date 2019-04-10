@@ -1,0 +1,67 @@
+{
+  "id": 1327035499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.19999,28.33031,70.19999,28.33031",
+    "geom:latitude":28.33031,
+    "geom:longitude":70.19999,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Latki",
+    "gn:country_code":"PK",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355210,
+    "gn:latitude":28.33031,
+    "gn:longitude":70.19999,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Latki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355210
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9f484d175fe49d01e720ff4dc7f2eed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1327035499,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327035499,
+    "wof:lastmodified":1536755974,
+    "wof:name":"Latki",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.19999,
+    28.33031,
+    70.19999,
+    28.33031
+],
+  "geometry": {"coordinates":[70.19999,28.33031],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259592321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.33588,33.88732,70.33588,33.88732",
+    "geom:latitude":33.88732,
+    "geom:longitude":70.33588,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Arwaza",
+    "gn:country_code":"PK",
+    "gn:dem":2143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343363,
+    "gn:latitude":33.88732,
+    "gn:longitude":70.33588,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Arwaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343363
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7a7fe23b702aef2814f5078b4a91e6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1259592321,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259592321,
+    "wof:lastmodified":1536702254,
+    "wof:name":"Arwaza",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.33588,
+    33.88732,
+    70.33588,
+    33.88732
+],
+  "geometry": {"coordinates":[70.33588,33.88732],"type":"Point"}
+}

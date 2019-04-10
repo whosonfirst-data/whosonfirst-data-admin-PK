@@ -1,0 +1,67 @@
+{
+  "id": 1344259121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.21028,26.43167,65.21028,26.43167",
+    "geom:latitude":26.43167,
+    "geom:longitude":65.21028,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mashian",
+    "gn:country_code":"PK",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343156,
+    "gn:latitude":26.43167,
+    "gn:longitude":65.21028,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Mashi\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343156
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"23160589970e86a85b3af11217415969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1344259121,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344259121,
+    "wof:lastmodified":1537082921,
+    "wof:name":"Mashian",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.21028000000001,
+    26.43167,
+    65.21028000000001,
+    26.43167
+],
+  "geometry": {"coordinates":[65.21028000000001,26.43167],"type":"Point"}
+}

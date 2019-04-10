@@ -1,0 +1,67 @@
+{
+  "id": 1293682091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84329,26.74999,67.84329,26.74999",
+    "geom:latitude":26.74999,
+    "geom:longitude":67.84329,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khharal",
+    "gn:country_code":"PK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1404523,
+    "gn:latitude":26.74999,
+    "gn:longitude":67.84329,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Khharal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1404523
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d80b9aa7030902eb248c7a60e6705536",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692159,
+            "locality_id":1293682091,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293682091,
+    "wof:lastmodified":1537003064,
+    "wof:name":"Khharal",
+    "wof:parent_id":1108692159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84329,
+    26.74999,
+    67.84329,
+    26.74999
+],
+  "geometry": {"coordinates":[67.84329,26.74999],"type":"Point"}
+}

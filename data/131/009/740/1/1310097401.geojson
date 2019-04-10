@@ -1,0 +1,78 @@
+{
+  "id": 1310097401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91908,33.53263,73.91908,33.53263",
+    "geom:latitude":33.53263,
+    "geom:longitude":73.91908,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Majuman Sharif",
+    "gn:country_code":"PK",
+    "gn:dem":651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876167,
+    "gn:latitude":33.53263,
+    "gn:longitude":73.91908,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Majuman Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876167
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"110c91ed791417530f693ed717e09d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1310097401,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1310097401,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310097401,
+    "wof:lastmodified":1537007464,
+    "wof:name":"Majuman Sharif",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91908000000002,
+    33.53263,
+    73.91908000000002,
+    33.53263
+],
+  "geometry": {"coordinates":[73.91908000000002,33.53263],"type":"Point"}
+}

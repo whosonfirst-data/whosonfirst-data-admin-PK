@@ -1,0 +1,78 @@
+{
+  "id": 1327027165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63304,33.60596,73.63304,33.60596",
+    "geom:latitude":33.60596,
+    "geom:longitude":73.63304,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Salios",
+    "gn:country_code":"PK",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100390,
+    "gn:latitude":33.60596,
+    "gn:longitude":73.63304,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Salios",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100390
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fa55bdd22b6c91c883e3f4a1013891b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1327027165,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1327027165,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327027165,
+    "wof:lastmodified":1536768501,
+    "wof:name":"Salios",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63304000000002,
+    33.60596,
+    73.63304000000002,
+    33.60596
+],
+  "geometry": {"coordinates":[73.63304000000002,33.60596],"type":"Point"}
+}

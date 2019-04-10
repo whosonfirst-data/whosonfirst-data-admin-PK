@@ -1,0 +1,78 @@
+{
+  "id": 1293086829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.75763,36.95316,74.75763,36.95316",
+    "geom:latitude":36.95316,
+    "geom:longitude":74.75763,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boihil",
+    "gn:country_code":"PK",
+    "gn:dem":4096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182342,
+    "gn:latitude":36.95316,
+    "gn:longitude":74.75763,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Boihil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182342
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f157950d3e537ca04eb105bee230354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293086829,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293086829,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293086829,
+    "wof:lastmodified":1536866446,
+    "wof:name":"Boihil",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.75763,
+    36.95316,
+    74.75763,
+    36.95316
+],
+  "geometry": {"coordinates":[74.75763000000001,36.95316],"type":"Point"}
+}

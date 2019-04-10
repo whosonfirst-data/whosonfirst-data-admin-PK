@@ -1,0 +1,61 @@
+{
+  "id": 1209337621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65359,30.01484,72.65359,30.01484",
+    "geom:latitude":30.01484,
+    "geom:longitude":72.65359,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ahmad Khanwala",
+    "gn:country_code":"PK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1387501,
+    "gn:latitude":30.01484,
+    "gn:longitude":72.65359,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ahmad Khanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1387501
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9a8ba96ba2319c7f5b81de6f71174c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209337621
+        }
+    ],
+    "wof:id":1209337621,
+    "wof:lastmodified":1536290167,
+    "wof:name":"Ahmad Khanwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65359000000002,
+    30.014840000000003,
+    72.65359000000002,
+    30.014840000000003
+],
+  "geometry": {"coordinates":[72.65359000000002,30.01484],"type":"Point"}
+}

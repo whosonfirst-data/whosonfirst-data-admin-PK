@@ -1,0 +1,67 @@
+{
+  "id": 1259689607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.20727,32.20908,75.20727,32.20908",
+    "geom:latitude":32.20908,
+    "geom:longitude":75.20727,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Latko Chak",
+    "gn:country_code":"PK",
+    "gn:dem":255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172066,
+    "gn:latitude":32.20908,
+    "gn:longitude":75.20727,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Latko Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172066
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61254cf00d6175fbfea6d56b337cfe6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1259689607,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259689607,
+    "wof:lastmodified":1537055718,
+    "wof:name":"Latko Chak",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.20727,
+    32.20908,
+    75.20727,
+    32.20908
+],
+  "geometry": {"coordinates":[75.20726999999999,32.20908],"type":"Point"}
+}

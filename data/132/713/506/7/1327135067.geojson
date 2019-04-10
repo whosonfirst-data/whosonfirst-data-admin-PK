@@ -1,0 +1,67 @@
+{
+  "id": 1327135067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.105,34.04293,72.105,34.04293",
+    "geom:latitude":34.04293,
+    "geom:longitude":72.105,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Islamabad",
+    "gn:country_code":"PK",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410404,
+    "gn:latitude":34.04293,
+    "gn:longitude":72.105,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Islamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410404
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b0b405d32b5a4117ce9b771c549df709",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1327135067,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327135067,
+    "wof:lastmodified":1536609593,
+    "wof:name":"Islamabad",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.105,
+    34.04293,
+    72.105,
+    34.04293
+],
+  "geometry": {"coordinates":[72.105,34.04293],"type":"Point"}
+}

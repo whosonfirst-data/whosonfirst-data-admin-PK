@@ -1,0 +1,78 @@
+{
+  "id": 1226743619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.05365,35.46462,76.05365,35.46462",
+    "geom:latitude":35.46462,
+    "geom:longitude":76.05365,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nangma",
+    "gn:country_code":"PK",
+    "gn:dem":3904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087765,
+    "gn:latitude":35.46462,
+    "gn:longitude":76.05365,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Nangma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087765
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc3dd4c194061622869443d3e9dc82c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1226743619,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1226743619,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226743619,
+    "wof:lastmodified":1536718934,
+    "wof:name":"Nangma",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.05365,
+    35.46462000000001,
+    76.05365,
+    35.46462000000001
+],
+  "geometry": {"coordinates":[76.05365,35.46462000000001],"type":"Point"}
+}

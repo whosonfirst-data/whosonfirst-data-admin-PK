@@ -1,0 +1,78 @@
+{
+  "id": 1343863977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56391,33.91535,73.56391,33.91535",
+    "geom:latitude":33.91535,
+    "geom:longitude":73.56391,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chhajja",
+    "gn:country_code":"PK",
+    "gn:dem":680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098655,
+    "gn:latitude":33.91535,
+    "gn:longitude":73.56391,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Chhajja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098655
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4a01f47e079e1906aa6d95c31d7afe9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1343863977,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1343863977,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343863977,
+    "wof:lastmodified":1536661526,
+    "wof:name":"Chhajja",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56390999999998,
+    33.91535,
+    73.56390999999998,
+    33.91535
+],
+  "geometry": {"coordinates":[73.56390999999998,33.91535],"type":"Point"}
+}

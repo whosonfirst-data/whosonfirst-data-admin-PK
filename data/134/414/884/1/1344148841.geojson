@@ -1,0 +1,78 @@
+{
+  "id": 1344148841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12992,33.4501,74.12992,33.4501",
+    "geom:latitude":33.4501,
+    "geom:longitude":74.12992,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mohra Bandili",
+    "gn:country_code":"PK",
+    "gn:dem":1184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415204,
+    "gn:latitude":33.4501,
+    "gn:longitude":74.12992,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mohra Bandili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415204
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d3a56e4a54b510f3093835fae3ce4e1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1344148841,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1344148841,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344148841,
+    "wof:lastmodified":1536747894,
+    "wof:name":"Mohra Bandili",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12992,
+    33.4501,
+    74.12992,
+    33.4501
+],
+  "geometry": {"coordinates":[74.12992,33.4501],"type":"Point"}
+}

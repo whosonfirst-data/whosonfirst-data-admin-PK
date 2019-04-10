@@ -1,0 +1,67 @@
+{
+  "id": 1360091695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.84388,34.77301,72.84388,34.77301",
+    "geom:latitude":34.77301,
+    "geom:longitude":72.84388,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bar Gunagar",
+    "gn:country_code":"PK",
+    "gn:dem":561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377980,
+    "gn:latitude":34.77301,
+    "gn:longitude":72.84388,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Bar Gunagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377980
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"781e4f83ee6c68d583bbb4cb9b5f5296",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1360091695,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360091695,
+    "wof:lastmodified":1543515255,
+    "wof:name":"Bar Gunagar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.84388,
+    34.77301,
+    72.84388,
+    34.77301
+],
+  "geometry": {"coordinates":[72.84388,34.77301],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1293687761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69837,34.11493,71.69837,34.11493",
+    "geom:latitude":34.11493,
+    "geom:longitude":71.69837,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kuz Agra",
+    "gn:country_code":"PK",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184904,
+    "gn:latitude":34.11493,
+    "gn:longitude":71.69837,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kuz Agra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "\u0100gra K\u016bz"
+    ],
+    "name:und_x_variant":[
+        "Agra",
+        "Kuz Agra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184904,
+        "wk:page":"Agra_Kuz"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60cb46f5df5ca45c24c159a54888430d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1293687761,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293687761,
+    "wof:lastmodified":1537679986,
+    "wof:name":"Kuz Agra",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69837,
+    34.11493,
+    71.69837,
+    34.11493
+],
+  "geometry": {"coordinates":[71.69837,34.11493],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343464069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.50272,30.58506,73.50272,30.58506",
+    "geom:latitude":30.58506,
+    "geom:longitude":73.50272,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shah Yakka",
+    "gn:country_code":"PK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165464,
+    "gn:latitude":30.58506,
+    "gn:longitude":73.50272,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Shah Yakka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165464
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9c4a28d5f021892742c1aa2b760f303e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1343464069,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343464069,
+    "wof:lastmodified":1536740703,
+    "wof:name":"Shah Yakka",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.50272,
+    30.58506,
+    73.50272,
+    30.58506
+],
+  "geometry": {"coordinates":[73.50272,30.58506],"type":"Point"}
+}

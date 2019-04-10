@@ -1,0 +1,81 @@
+{
+  "id": 1327454101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.59304,35.20415,76.59304,35.20415",
+    "geom:latitude":35.20415,
+    "geom:longitude":76.59304,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dumsum",
+    "gn:country_code":"PK",
+    "gn:dem":2727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180616,
+    "gn:latitude":35.20415,
+    "gn:longitude":76.59304,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Dumsum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dansam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180616
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d7d2a3d1309b73f884c7b3bda9967cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1327454101,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1327454101,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327454101,
+    "wof:lastmodified":1537679826,
+    "wof:name":"Dumsum",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.59304,
+    35.20415,
+    76.59304,
+    35.20415
+],
+  "geometry": {"coordinates":[76.59304,35.20415],"type":"Point"}
+}

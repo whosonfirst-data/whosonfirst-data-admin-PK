@@ -1,0 +1,90 @@
+{
+  "id": 1243168189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.03069,36.5439,74.03069,36.5439",
+    "geom:latitude":36.5439,
+    "geom:longitude":74.03069,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bad Swat",
+    "gn:country_code":"PK",
+    "gn:dem":2598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184026,
+    "gn:latitude":36.5439,
+    "gn:longitude":74.03069,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Bad Swat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bat Sw\u0101t",
+        "Bad Swat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184026
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dcf4d7893f03021b1bb1d170b2985f77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1243168189,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1243168189,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1243168189,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243168189,
+    "wof:lastmodified":1537679956,
+    "wof:name":"Bad Swat",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.03069,
+    36.5439,
+    74.03069,
+    36.5439
+],
+  "geometry": {"coordinates":[74.03069000000001,36.5439],"type":"Point"}
+}

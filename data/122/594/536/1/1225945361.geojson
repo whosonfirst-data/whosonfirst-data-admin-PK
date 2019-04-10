@@ -1,0 +1,67 @@
+{
+  "id": 1225945361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52728,34.62427,73.52728,34.62427",
+    "geom:latitude":34.62427,
+    "geom:longitude":73.52728,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bhunja",
+    "gn:country_code":"PK",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385294,
+    "gn:latitude":34.62427,
+    "gn:longitude":73.52728,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhunja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385294
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3b0f0bb1279c6248bfa27aeae4ae58a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1225945361,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945361,
+    "wof:lastmodified":1543515678,
+    "wof:name":"Bhunja",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52728,
+    34.62427,
+    73.52728,
+    34.62427
+],
+  "geometry": {"coordinates":[73.52728,34.62427],"type":"Point"}
+}

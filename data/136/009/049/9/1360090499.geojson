@@ -1,0 +1,67 @@
+{
+  "id": 1360090499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.52225,33.508,72.52225,33.508",
+    "geom:latitude":33.508,
+    "geom:longitude":72.52225,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulial",
+    "gn:country_code":"PK",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177615,
+    "gn:latitude":33.508,
+    "gn:longitude":72.52225,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Gulial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177615
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cd0bc4e0c53c609111a117b86d4a6d15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1360090499,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360090499,
+    "wof:lastmodified":1536938553,
+    "wof:name":"Gulial",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.52225,
+    33.508,
+    72.52225,
+    33.508
+],
+  "geometry": {"coordinates":[72.52225,33.508],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1276125053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85179,36.09928,71.85179,36.09928",
+    "geom:latitude":36.09928,
+    "geom:longitude":71.85179,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kiyar",
+    "gn:country_code":"PK",
+    "gn:dem":3060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173531,
+    "gn:latitude":36.09928,
+    "gn:longitude":71.85179,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kiyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "K\u012b\u0101r"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u0650\u06cc\u064e\u0627\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"694a44c6f19456d15a27982637ffc93c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1276125053,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276125053,
+    "wof:lastmodified":1537679576,
+    "wof:name":"Kiyar",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85179000000002,
+    36.09928,
+    71.85179000000002,
+    36.09928
+],
+  "geometry": {"coordinates":[71.85179000000002,36.09928],"type":"Point"}
+}

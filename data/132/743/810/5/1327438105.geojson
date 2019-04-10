@@ -1,0 +1,67 @@
+{
+  "id": 1327438105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83067,35.44295,71.83067,35.44295",
+    "geom:latitude":35.44295,
+    "geom:longitude":71.83067,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sarazadi",
+    "gn:country_code":"PK",
+    "gn:dem":2277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137970,
+    "gn:latitude":35.44295,
+    "gn:longitude":71.83067,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Sarazadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137970
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa5c9536083f0980fc491cbdce239fa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1327438105,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327438105,
+    "wof:lastmodified":1536672467,
+    "wof:name":"Sarazadi",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83067,
+    35.44295,
+    71.83067,
+    35.44295
+],
+  "geometry": {"coordinates":[71.83067,35.44295],"type":"Point"}
+}

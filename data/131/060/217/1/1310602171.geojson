@@ -1,0 +1,67 @@
+{
+  "id": 1310602171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93968,33.87563,72.93968,33.87563",
+    "geom:latitude":33.87563,
+    "geom:longitude":72.93968,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Akhori",
+    "gn:country_code":"PK",
+    "gn:dem":643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338558,
+    "gn:latitude":33.87563,
+    "gn:longitude":72.93968,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Akhori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338558
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b47b2dc594912c72e3b5a2b2843eb283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1310602171,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310602171,
+    "wof:lastmodified":1536777996,
+    "wof:name":"Akhori",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93968000000002,
+    33.87563,
+    72.93968000000002,
+    33.87563
+],
+  "geometry": {"coordinates":[72.93968000000002,33.87563],"type":"Point"}
+}

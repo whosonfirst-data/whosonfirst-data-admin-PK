@@ -1,0 +1,70 @@
+{
+  "id": 1344057629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73083,35.30022,72.73083,35.30022",
+    "geom:latitude":35.30022,
+    "geom:longitude":72.73083,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tarkana",
+    "gn:country_code":"PK",
+    "gn:dem":3305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1391250,
+    "gn:latitude":35.30022,
+    "gn:longitude":72.73083,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Tarkana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tarkana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1391250
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"93c12ccc3a5bdf392b2427b65682b930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1344057629,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344057629,
+    "wof:lastmodified":1537680976,
+    "wof:name":"Tarkana",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73083000000003,
+    35.30022,
+    72.73083000000003,
+    35.30022
+],
+  "geometry": {"coordinates":[72.73083000000003,35.30022],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243362035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55958,24.88094,68.55958,24.88094",
+    "geom:latitude":24.88094,
+    "geom:longitude":68.55958,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Koli",
+    "gn:country_code":"PK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11600290,
+    "gn:latitude":24.88094,
+    "gn:longitude":68.55958,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Koli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11600290
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0614ff276785188b752225cabcbd07a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692403,
+            "locality_id":1243362035,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243362035,
+    "wof:lastmodified":1536928030,
+    "wof:name":"Koli",
+    "wof:parent_id":1108692403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55958000000001,
+    24.88094,
+    68.55958000000001,
+    24.88094
+],
+  "geometry": {"coordinates":[68.55958000000001,24.88094],"type":"Point"}
+}

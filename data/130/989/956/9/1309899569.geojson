@@ -1,0 +1,86 @@
+{
+  "id": 1309899569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.04413,36.67653,74.04413,36.67653",
+    "geom:latitude":36.67653,
+    "geom:longitude":74.04413,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mahtram Dan",
+    "gn:country_code":"PK",
+    "gn:dem":3619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427813,
+    "gn:latitude":36.67653,
+    "gn:longitude":74.04413,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Mahtram Dan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427813
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"34c6e5b2e090d6947ae09d6297d729b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1309899569,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1309899569,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1309899569,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309899569,
+    "wof:lastmodified":1536796134,
+    "wof:name":"Mahtram Dan",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.04413000000002,
+    36.67653,
+    74.04413000000002,
+    36.67653
+],
+  "geometry": {"coordinates":[74.04413000000002,36.67653],"type":"Point"}
+}

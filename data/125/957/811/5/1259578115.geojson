@@ -1,0 +1,81 @@
+{
+  "id": 1259578115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.77606,34.40926,73.77606,34.40926",
+    "geom:latitude":34.40926,
+    "geom:longitude":73.77606,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jabbar",
+    "gn:country_code":"PK",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415913,
+    "gn:latitude":34.40926,
+    "gn:longitude":73.77606,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Jabbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415913
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c12f004fec2a8fd751e2cb444db93a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1259578115,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1259578115,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259578115,
+    "wof:lastmodified":1537681371,
+    "wof:name":"Jabbar",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.77606,
+    34.40926,
+    73.77606,
+    34.40926
+],
+  "geometry": {"coordinates":[73.77606,34.40926],"type":"Point"}
+}

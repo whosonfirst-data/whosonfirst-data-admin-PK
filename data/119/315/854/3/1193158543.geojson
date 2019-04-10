@@ -1,0 +1,81 @@
+{
+  "id": 1193158543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01844,33.05933,74.01844,33.05933",
+    "geom:latitude":33.05933,
+    "geom:longitude":74.01844,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dakiyan",
+    "gn:country_code":"PK",
+    "gn:dem":515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415322,
+    "gn:latitude":33.05933,
+    "gn:longitude":74.01844,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dakiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dariy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415322
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3063d1e7163278b6fbf4829f7472b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193158543,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193158543,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193158543,
+    "wof:lastmodified":1537681360,
+    "wof:name":"Dakiyan",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01844,
+    33.05933,
+    74.01844,
+    33.05933
+],
+  "geometry": {"coordinates":[74.01844,33.05933],"type":"Point"}
+}

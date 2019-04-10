@@ -1,0 +1,67 @@
+{
+  "id": 1259415209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.18788,30.77175,73.18788,30.77175",
+    "geom:latitude":30.77175,
+    "geom:longitude":73.18788,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Sial",
+    "gn:country_code":"PK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539108,
+    "gn:latitude":30.77175,
+    "gn:longitude":73.18788,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chak Sial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539108
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"723061aff731158a186467706e7836be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":1259415209,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259415209,
+    "wof:lastmodified":1536956983,
+    "wof:name":"Chak Sial",
+    "wof:parent_id":1108692363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.18788,
+    30.77175,
+    73.18788,
+    30.77175
+],
+  "geometry": {"coordinates":[73.18788000000001,30.77175],"type":"Point"}
+}

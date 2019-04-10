@@ -1,0 +1,65 @@
+{
+  "id": 1209413447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10779,27.95995,69.10779,27.95995",
+    "geom:latitude":27.95995,
+    "geom:longitude":69.10779,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Sadhuja",
+    "gn:country_code":"PK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166659,
+    "gn:latitude":27.95995,
+    "gn:longitude":69.10779,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Sadhuja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sadhoojoo",
+        "Sadhuja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166659
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d48f5204e60a7b0b65a604867c32ea7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209413447
+        }
+    ],
+    "wof:id":1209413447,
+    "wof:lastmodified":1537679332,
+    "wof:name":"Sadhuja",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10779000000001,
+    27.95995,
+    69.10779000000001,
+    27.95995
+],
+  "geometry": {"coordinates":[69.10779000000001,27.95995],"type":"Point"}
+}

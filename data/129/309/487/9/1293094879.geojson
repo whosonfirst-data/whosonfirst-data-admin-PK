@@ -1,0 +1,78 @@
+{
+  "id": 1293094879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.17477,35.2507,74.17477,35.2507",
+    "geom:latitude":35.2507,
+    "geom:longitude":74.17477,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gushar",
+    "gn:country_code":"PK",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177454,
+    "gn:latitude":35.2507,
+    "gn:longitude":74.17477,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Gushar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177454
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e00bfb405ffd2d4876c2deb08599cab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293094879,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293094879,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293094879,
+    "wof:lastmodified":1536854919,
+    "wof:name":"Gushar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.17477,
+    35.2507,
+    74.17477,
+    35.2507
+],
+  "geometry": {"coordinates":[74.17477,35.2507],"type":"Point"}
+}

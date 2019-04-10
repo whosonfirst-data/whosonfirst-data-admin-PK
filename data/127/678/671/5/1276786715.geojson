@@ -1,0 +1,81 @@
+{
+  "id": 1276786715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.03559,35.95217,76.03559,35.95217",
+    "geom:latitude":35.95217,
+    "geom:longitude":76.03559,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Skinmung",
+    "gn:country_code":"PK",
+    "gn:dem":4560,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164706,
+    "gn:latitude":35.95217,
+    "gn:longitude":76.03559,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Skinmung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Skinmang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164706
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9238938f97747fc7bcbb04ea03f5ccb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276786715,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276786715,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276786715,
+    "wof:lastmodified":1537679268,
+    "wof:name":"Skinmung",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.03559,
+    35.95217,
+    76.03559,
+    35.95217
+],
+  "geometry": {"coordinates":[76.03559,35.95217],"type":"Point"}
+}

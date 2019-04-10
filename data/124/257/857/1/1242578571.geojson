@@ -1,0 +1,67 @@
+{
+  "id": 1242578571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.87673,33.48215,71.87673,33.48215",
+    "geom:latitude":33.48215,
+    "geom:longitude":71.87673,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Beldar",
+    "gn:country_code":"PK",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138637,
+    "gn:latitude":33.48215,
+    "gn:longitude":71.87673,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Beldar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138637
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"51605bfd9129e81ea696fda06d389199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692263,
+            "locality_id":1242578571,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578571,
+    "wof:lastmodified":1543515383,
+    "wof:name":"Beldar",
+    "wof:parent_id":1108692263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.87673000000002,
+    33.48215,
+    71.87673000000002,
+    33.48215
+],
+  "geometry": {"coordinates":[71.87673000000002,33.48215],"type":"Point"}
+}

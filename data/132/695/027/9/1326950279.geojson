@@ -1,0 +1,81 @@
+{
+  "id": 1326950279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.83154,35.40104,73.83154,35.40104",
+    "geom:latitude":35.40104,
+    "geom:longitude":73.83154,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Nagair",
+    "gn:country_code":"PK",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169555,
+    "gn:latitude":35.40104,
+    "gn:longitude":73.83154,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Nagair",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nagar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169555
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f476a33420d99181b52a015c2b61bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326950279,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326950279,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326950279,
+    "wof:lastmodified":1537679437,
+    "wof:name":"Nagair",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.83154,
+    35.40104,
+    73.83154,
+    35.40104
+],
+  "geometry": {"coordinates":[73.83154,35.40104],"type":"Point"}
+}

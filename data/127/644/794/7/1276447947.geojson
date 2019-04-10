@@ -1,0 +1,67 @@
+{
+  "id": 1276447947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.10269,32.31057,75.10269,32.31057",
+    "geom:latitude":32.31057,
+    "geom:longitude":75.10269,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Atalgarh",
+    "gn:country_code":"PK",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081424,
+    "gn:latitude":32.31057,
+    "gn:longitude":75.10269,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Atalgarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081424
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ae0c76aaf09fb5d6b37999383f90184a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1276447947,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276447947,
+    "wof:lastmodified":1536623019,
+    "wof:name":"Atalgarh",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.10269,
+    32.31057,
+    75.10269,
+    32.31057
+],
+  "geometry": {"coordinates":[75.10269,32.31057],"type":"Point"}
+}

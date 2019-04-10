@@ -1,0 +1,67 @@
+{
+  "id": 1293887005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06249,31.48096,70.06249,31.48096",
+    "geom:latitude":31.48096,
+    "geom:longitude":70.06249,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dabbar",
+    "gn:country_code":"PK",
+    "gn:dem":1216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353898,
+    "gn:latitude":31.48096,
+    "gn:longitude":70.06249,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Dabbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353898
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c9748d4e694aaf80a9026ecea6c341c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692175,
+            "locality_id":1293887005,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293887005,
+    "wof:lastmodified":1536708571,
+    "wof:name":"Dabbar",
+    "wof:parent_id":1108692175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06249,
+    31.48096,
+    70.06249,
+    31.48096
+],
+  "geometry": {"coordinates":[70.06249,31.48096],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310409127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7488,33.59621,70.7488,33.59621",
+    "geom:latitude":33.59621,
+    "geom:longitude":70.7488,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khadizai",
+    "gn:country_code":"PK",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110405,
+    "gn:latitude":33.59621,
+    "gn:longitude":70.7488,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Khadizai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110405
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"34a2243153097e0e9215a22cae50db5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1310409127,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310409127,
+    "wof:lastmodified":1537053698,
+    "wof:name":"Khadizai",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7488,
+    33.59621,
+    70.7488,
+    33.59621
+],
+  "geometry": {"coordinates":[70.7488,33.59621],"type":"Point"}
+}

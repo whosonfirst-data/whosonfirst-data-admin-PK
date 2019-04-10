@@ -1,0 +1,81 @@
+{
+  "id": 1293769519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.18789,34.84735,76.18789,34.84735",
+    "geom:latitude":34.84735,
+    "geom:longitude":76.18789,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sheriting",
+    "gn:country_code":"PK",
+    "gn:dem":2766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165038,
+    "gn:latitude":34.84735,
+    "gn:longitude":76.18789,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sheriting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shiriting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165038
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6630b2132490af36e2fa08f501fa7348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293769519,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293769519,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293769519,
+    "wof:lastmodified":1537679277,
+    "wof:name":"Sheriting",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.18789,
+    34.84735,
+    76.18789,
+    34.84735
+],
+  "geometry": {"coordinates":[76.18789,34.84735],"type":"Point"}
+}

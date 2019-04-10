@@ -1,0 +1,67 @@
+{
+  "id": 1226142345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.32436,32.02878,74.32436,32.02878",
+    "geom:latitude":32.02878,
+    "geom:longitude":74.32436,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Othwal",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459595,
+    "gn:latitude":32.02878,
+    "gn:longitude":74.32436,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Othwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459595
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"961ba60884848f956e0f07de39ae6e3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1226142345,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226142345,
+    "wof:lastmodified":1537079485,
+    "wof:name":"Othwal",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.32436,
+    32.02878,
+    74.32436,
+    32.02878
+],
+  "geometry": {"coordinates":[74.32436,32.02878],"type":"Point"}
+}

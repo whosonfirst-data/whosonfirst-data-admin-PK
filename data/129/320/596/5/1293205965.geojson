@@ -1,0 +1,67 @@
+{
+  "id": 1293205965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.11222,31.85917,74.11222,31.85917",
+    "geom:latitude":31.85917,
+    "geom:longitude":74.11222,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghanoke",
+    "gn:country_code":"PK",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330406,
+    "gn:latitude":31.85917,
+    "gn:longitude":74.11222,
+    "gn:modification_date":"1999-03-17",
+    "gn:name":"Ghanoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330406
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"644c795ed34d75b2dfe542857e79378a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1293205965,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293205965,
+    "wof:lastmodified":1536696084,
+    "wof:name":"Ghanoke",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.11222,
+    31.85917,
+    74.11222,
+    31.85917
+],
+  "geometry": {"coordinates":[74.11221999999999,31.85917],"type":"Point"}
+}

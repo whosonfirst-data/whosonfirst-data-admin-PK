@@ -1,0 +1,67 @@
+{
+  "id": 1360290989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60793,33.04018,73.60793,33.04018",
+    "geom:latitude":33.04018,
+    "geom:longitude":73.60793,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hadali",
+    "gn:country_code":"PK",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177396,
+    "gn:latitude":33.04018,
+    "gn:longitude":73.60793,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hadali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177396
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2aa5e7692b312cc17a723a7a6ba4a548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1360290989,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360290989,
+    "wof:lastmodified":1536648197,
+    "wof:name":"Hadali",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60793000000002,
+    33.04018,
+    73.60793000000002,
+    33.04018
+],
+  "geometry": {"coordinates":[73.60793000000002,33.04018],"type":"Point"}
+}

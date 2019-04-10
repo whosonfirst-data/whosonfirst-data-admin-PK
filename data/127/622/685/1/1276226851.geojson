@@ -1,0 +1,71 @@
+{
+  "id": 1276226851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6655,30.38999,71.6655,30.38999",
+    "geom:latitude":30.38999,
+    "geom:longitude":71.6655,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baloch",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183636,
+    "gn:latitude":30.38999,
+    "gn:longitude":71.6655,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Baloch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baluchan",
+        "Baloch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183636
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c75d4bf832e66d2e7fcbebd4577a8f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1276226851,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276226851,
+    "wof:lastmodified":1537679940,
+    "wof:name":"Baloch",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6655,
+    30.38999,
+    71.6655,
+    30.38999
+],
+  "geometry": {"coordinates":[71.66549999999999,30.38999],"type":"Point"}
+}

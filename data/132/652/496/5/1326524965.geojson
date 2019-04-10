@@ -1,0 +1,78 @@
+{
+  "id": 1326524965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8314,33.9888,73.8314,33.9888",
+    "geom:latitude":33.9888,
+    "geom:longitude":73.8314,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chhatrora",
+    "gn:country_code":"PK",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386016,
+    "gn:latitude":33.9888,
+    "gn:longitude":73.8314,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chhatrora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386016
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"125bfb1ac953dd94f772507c73f788d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1326524965,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1326524965,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326524965,
+    "wof:lastmodified":1536993749,
+    "wof:name":"Chhatrora",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8314,
+    33.9888,
+    73.8314,
+    33.9888
+],
+  "geometry": {"coordinates":[73.8314,33.9888],"type":"Point"}
+}

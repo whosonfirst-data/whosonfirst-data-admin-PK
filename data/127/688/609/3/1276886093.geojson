@@ -1,0 +1,75 @@
+{
+  "id": 1276886093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.10784,30.70346,67.10784,30.70346",
+    "geom:latitude":30.70346,
+    "geom:longitude":67.10784,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shalkhalzai",
+    "gn:country_code":"PK",
+    "gn:dem":1562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165442,
+    "gn:latitude":30.70346,
+    "gn:longitude":67.10784,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Shalkhalzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shaikh\u0101lzai"
+    ],
+    "name:und_x_variant":[
+        "Shikhalzai",
+        "Shekh\u0101lzai",
+        "Shalkhalzai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165442
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c11e20de1bbf4e8a34726015343135a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1276886093,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276886093,
+    "wof:lastmodified":1537679290,
+    "wof:name":"Shalkhalzai",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.10784,
+    30.70346,
+    67.10784,
+    30.70346
+],
+  "geometry": {"coordinates":[67.10784,30.70346],"type":"Point"}
+}

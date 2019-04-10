@@ -1,0 +1,64 @@
+{
+  "id": 1209314149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.50331,33.82992,72.50331,33.82992",
+    "geom:latitude":33.82992,
+    "geom:longitude":72.50331,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lawrencepur",
+    "gn:country_code":"PK",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172051,
+    "gn:latitude":33.82992,
+    "gn:longitude":72.50331,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Lawrencepur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faqirabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172051
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c1bcecdc1b9a25d81656bdeb3159023",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314149
+        }
+    ],
+    "wof:id":1209314149,
+    "wof:lastmodified":1537679524,
+    "wof:name":"Lawrencepur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.50331,
+    33.82992,
+    72.50331,
+    33.82992
+],
+  "geometry": {"coordinates":[72.50331,33.82992],"type":"Point"}
+}

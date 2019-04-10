@@ -1,0 +1,67 @@
+{
+  "id": 1243172879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07657,34.67407,73.07657,34.67407",
+    "geom:latitude":34.67407,
+    "geom:longitude":73.07657,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bazghoni",
+    "gn:country_code":"PK",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11420500,
+    "gn:latitude":34.67407,
+    "gn:longitude":73.07657,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bazghoni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11420500
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81d58ed9edb2f02e4e5a11156b800171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1243172879,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243172879,
+    "wof:lastmodified":1536703263,
+    "wof:name":"Bazghoni",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07656999999998,
+    34.67407,
+    73.07656999999998,
+    34.67407
+],
+  "geometry": {"coordinates":[73.07656999999998,34.67407],"type":"Point"}
+}

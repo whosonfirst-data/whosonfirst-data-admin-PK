@@ -1,0 +1,67 @@
+{
+  "id": 1259606287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15544,31.50259,74.15544,31.50259",
+    "geom:latitude":31.50259,
+    "geom:longitude":74.15544,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Momanpur",
+    "gn:country_code":"PK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531583,
+    "gn:latitude":31.50259,
+    "gn:longitude":74.15544,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Momanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531583
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c96addf7e0a0832a649c5ec8644bf677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1259606287,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259606287,
+    "wof:lastmodified":1536681912,
+    "wof:name":"Momanpur",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15544,
+    31.50259,
+    74.15544,
+    31.50259
+],
+  "geometry": {"coordinates":[74.15544,31.50259],"type":"Point"}
+}

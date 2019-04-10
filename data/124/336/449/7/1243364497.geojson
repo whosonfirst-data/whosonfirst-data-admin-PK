@@ -1,0 +1,67 @@
+{
+  "id": 1243364497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91627,35.04582,72.91627,35.04582",
+    "geom:latitude":35.04582,
+    "geom:longitude":72.91627,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dhup",
+    "gn:country_code":"PK",
+    "gn:dem":1066,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479147,
+    "gn:latitude":35.04582,
+    "gn:longitude":72.91627,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Dhup",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479147
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d2c3f897abbd447ce0dc2b019fb2f2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1243364497,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243364497,
+    "wof:lastmodified":1536924451,
+    "wof:name":"Dhup",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91627,
+    35.04582,
+    72.91627,
+    35.04582
+],
+  "geometry": {"coordinates":[72.91627,35.04582],"type":"Point"}
+}

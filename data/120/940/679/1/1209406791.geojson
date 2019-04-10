@@ -1,0 +1,64 @@
+{
+  "id": 1209406791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.0416,33.31332,74.0416,33.31332",
+    "geom:latitude":33.31332,
+    "geom:longitude":74.0416,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Darkut",
+    "gn:country_code":"PK",
+    "gn:dem":853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415121,
+    "gn:latitude":33.31332,
+    "gn:longitude":74.0416,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Darkut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dark\u016br"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415121
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2280713765e27a732ca0dff89f5e8d79",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209406791
+        }
+    ],
+    "wof:id":1209406791,
+    "wof:lastmodified":1537681356,
+    "wof:name":"Darkut",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.0416,
+    33.31332,
+    74.0416,
+    33.31332
+],
+  "geometry": {"coordinates":[74.0416,33.31332],"type":"Point"}
+}

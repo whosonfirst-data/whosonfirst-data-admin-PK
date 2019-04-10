@@ -1,0 +1,67 @@
+{
+  "id": 1326939371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.18862,33.16237,70.18862,33.16237",
+    "geom:latitude":33.16237,
+    "geom:longitude":70.18862,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shaudat",
+    "gn:country_code":"PK",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345203,
+    "gn:latitude":33.16237,
+    "gn:longitude":70.18862,
+    "gn:modification_date":"2014-09-06",
+    "gn:name":"Shaudat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345203
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec2507c15e71f55decbefa73e403448f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1326939371,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1326939371,
+    "wof:lastmodified":1536894148,
+    "wof:name":"Shaudat",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.18862,
+    33.16237,
+    70.18862,
+    33.16237
+],
+  "geometry": {"coordinates":[70.18862,33.16237],"type":"Point"}
+}

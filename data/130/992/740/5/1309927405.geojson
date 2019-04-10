@@ -1,0 +1,78 @@
+{
+  "id": 1309927405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.0663,33.15785,74.0663,33.15785",
+    "geom:latitude":33.15785,
+    "geom:longitude":74.0663,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Banatian",
+    "gn:country_code":"PK",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415277,
+    "gn:latitude":33.15785,
+    "gn:longitude":74.0663,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Banatian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415277
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0dfc63b4c97be0731c8eb0bd51e37eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309927405,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309927405,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309927405,
+    "wof:lastmodified":1536755924,
+    "wof:name":"Banatian",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.0663,
+    33.15785,
+    74.0663,
+    33.15785
+],
+  "geometry": {"coordinates":[74.0663,33.15785],"type":"Point"}
+}

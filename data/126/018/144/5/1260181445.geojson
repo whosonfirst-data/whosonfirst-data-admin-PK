@@ -1,0 +1,67 @@
+{
+  "id": 1260181445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33746,31.92381,72.33746,31.92381",
+    "geom:latitude":31.92381,
+    "geom:longitude":72.33746,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sardarwala",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388652,
+    "gn:latitude":31.92381,
+    "gn:longitude":72.33746,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sardarwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388652
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61cd6d2359ccb0fbf365a46aec8438f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1260181445,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260181445,
+    "wof:lastmodified":1536849675,
+    "wof:name":"Sardarwala",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33746,
+    31.92381,
+    72.33746,
+    31.92381
+],
+  "geometry": {"coordinates":[72.33745999999999,31.92381],"type":"Point"}
+}

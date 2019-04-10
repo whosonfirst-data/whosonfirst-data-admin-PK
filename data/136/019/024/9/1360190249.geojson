@@ -1,0 +1,67 @@
+{
+  "id": 1360190249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.50135,33.93937,73.50135,33.93937",
+    "geom:latitude":33.93937,
+    "geom:longitude":73.50135,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Potha",
+    "gn:country_code":"PK",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167765,
+    "gn:latitude":33.93937,
+    "gn:longitude":73.50135,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Potha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167765
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f8a7a9c407f1591441e7fd91edc458d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1360190249,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360190249,
+    "wof:lastmodified":1536794181,
+    "wof:name":"Potha",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.50135,
+    33.93937,
+    73.50135,
+    33.93937
+],
+  "geometry": {"coordinates":[73.50135,33.93937],"type":"Point"}
+}

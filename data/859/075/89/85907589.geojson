@@ -1,0 +1,103 @@
+{
+  "id": 85907589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":9231876.675154,
+    "geom:bbox":"67.02586,24.885458,67.02586,24.885458",
+    "geom:latitude":24.885458,
+    "geom:longitude":67.02586,
+    "gn:id":"",
+    "iso:country":"PK",
+    "lbl:latitude":24.885458,
+    "lbl:longitude":67.02586,
+    "mps:latitude":24.883259,
+    "mps:longitude":67.021667,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Lorens-road"
+    ],
+    "name:unk_x_variant":[
+        "Lorens-road"
+    ],
+    "qs:gn_adm0_cc":"PK",
+    "qs:gn_id":0,
+    "qs:gn_local":1174872,
+    "qs:gn_nam_loc":"Karachi, Sindh, PK",
+    "qs:gn_namadm1":"05",
+    "qs:local_max":2851,
+    "qs:local_sum":5348,
+    "qs:localhoods":21,
+    "qs:name":"Lorens-road",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Sindh",
+    "qs:name_local":"Karachi",
+    "qs:photo_max":31,
+    "qs:photo_sum":91,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":14,
+    "qs:woe_adm0":23424922,
+    "qs:woe_adm1":2346499,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":2211096,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22726252,
+        "qs:id":238891
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c8ee895169757adadbfa23f2231d1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":-1,
+            "neighbourhood_id":85907589,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":85907589,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531936600,
+    "wof:name":"Lorens-road",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02586,
+    24.885458,
+    67.02586,
+    24.885458
+],
+  "geometry": {"coordinates":[67.02585999999999,24.885458],"type":"Point"}
+}

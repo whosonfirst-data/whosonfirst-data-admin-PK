@@ -1,0 +1,91 @@
+{
+  "id": 1259681095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75187,33.14782,73.75187,33.14782",
+    "geom:latitude":33.14782,
+    "geom:longitude":73.75187,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"New Mirpur",
+    "gn:country_code":"PK",
+    "gn:dem":436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1169027,
+    "gn:latitude":33.14782,
+    "gn:longitude":73.75187,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"New Mirpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012brpur",
+        "New Mirpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169027,
+        "wk:page":"Mirpur%2C_Azad_Kashmir"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e9ac2452cdab2507ef9bf31b065f1ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1259681095,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1259681095,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1259681095,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259681095,
+    "wof:lastmodified":1537679416,
+    "wof:name":"New Mirpur",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75187,
+    33.14782,
+    73.75187,
+    33.14782
+],
+  "geometry": {"coordinates":[73.75187,33.14782],"type":"Point"}
+}

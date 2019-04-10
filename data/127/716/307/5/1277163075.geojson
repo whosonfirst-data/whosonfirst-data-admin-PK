@@ -1,0 +1,78 @@
+{
+  "id": 1277163075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.19073,35.28538,76.19073,35.28538",
+    "geom:latitude":35.28538,
+    "geom:longitude":76.19073,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Boredas",
+    "gn:country_code":"PK",
+    "gn:dem":3567,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418415,
+    "gn:latitude":35.28538,
+    "gn:longitude":76.19073,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Boredas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418415
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81e7a4b961590451a8db18ced7e2ab1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1277163075,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1277163075,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277163075,
+    "wof:lastmodified":1536651750,
+    "wof:name":"Boredas",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.19073,
+    35.28538,
+    76.19073,
+    35.28538
+],
+  "geometry": {"coordinates":[76.19073,35.28538],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293612415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45279,30.23488,71.45279,30.23488",
+    "geom:latitude":30.23488,
+    "geom:longitude":71.45279,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Buchan",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409677,
+    "gn:latitude":30.23488,
+    "gn:longitude":71.45279,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Basti Buchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409677
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea78695eb1d6af54410901600444d3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1293612415,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293612415,
+    "wof:lastmodified":1536604001,
+    "wof:name":"Basti Buchan",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45279000000002,
+    30.23488,
+    71.45279000000002,
+    30.23488
+],
+  "geometry": {"coordinates":[71.45279000000002,30.23488],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226365501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73017,30.69543,72.73017,30.69543",
+    "geom:latitude":30.69543,
+    "geom:longitude":72.73017,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Muhammad Shah",
+    "gn:country_code":"PK",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169903,
+    "gn:latitude":30.69543,
+    "gn:longitude":72.73017,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Muhammad Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169903
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f30e3ec4b2836f01efd33fb858279fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1226365501,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226365501,
+    "wof:lastmodified":1536761307,
+    "wof:name":"Muhammad Shah",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73017,
+    30.69543,
+    72.73017,
+    30.69543
+],
+  "geometry": {"coordinates":[72.73017,30.69543],"type":"Point"}
+}

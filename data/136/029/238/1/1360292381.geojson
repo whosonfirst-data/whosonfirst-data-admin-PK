@@ -1,0 +1,74 @@
+{
+  "id": 1360292381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.02626,35.70925,72.02626,35.70925",
+    "geom:latitude":35.70925,
+    "geom:longitude":72.02626,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"Chitral",
+    "gn:asciiname":"Pashai",
+    "gn:country_code":"PK",
+    "gn:dem":2706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477522,
+    "gn:latitude":35.70925,
+    "gn:longitude":72.02626,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Pashai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pashai"
+    ],
+    "name:und_x_variant":[
+        "Pashi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477522
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ab9c98eef165f6e181c2d568abacbd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1360292381,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360292381,
+    "wof:lastmodified":1543515265,
+    "wof:name":"Pashai",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.02626,
+    35.70925,
+    72.02626,
+    35.70925
+],
+  "geometry": {"coordinates":[72.02625999999999,35.70925],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259495927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.7906,27.52788,65.7906,27.52788",
+    "geom:latitude":27.52788,
+    "geom:longitude":65.7906,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kondi",
+    "gn:country_code":"PK",
+    "gn:dem":1247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579997,
+    "gn:latitude":27.52788,
+    "gn:longitude":65.7906,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Kondi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579997
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c9f371236073d2d612f47808048e2a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1259495927,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259495927,
+    "wof:lastmodified":1536839861,
+    "wof:name":"Kondi",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.7906,
+    27.52788,
+    65.7906,
+    27.52788
+],
+  "geometry": {"coordinates":[65.7906,27.52788],"type":"Point"}
+}

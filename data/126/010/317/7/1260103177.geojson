@@ -1,0 +1,67 @@
+{
+  "id": 1260103177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.95417,32.29444,73.95417,32.29444",
+    "geom:latitude":32.29444,
+    "geom:longitude":73.95417,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jagna",
+    "gn:country_code":"PK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386547,
+    "gn:latitude":32.29444,
+    "gn:longitude":73.95417,
+    "gn:modification_date":"2001-10-11",
+    "gn:name":"Jagna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386547
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f529d01fc19fa80bafd7e31c67911f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1260103177,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260103177,
+    "wof:lastmodified":1536959707,
+    "wof:name":"Jagna",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.95416999999998,
+    32.29444,
+    73.95416999999998,
+    32.29444
+],
+  "geometry": {"coordinates":[73.95416999999998,32.29444],"type":"Point"}
+}

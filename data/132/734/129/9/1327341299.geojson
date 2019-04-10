@@ -1,0 +1,67 @@
+{
+  "id": 1327341299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73079,30.39557,67.73079,30.39557",
+    "geom:latitude":30.39557,
+    "geom:longitude":67.73079,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chautra",
+    "gn:country_code":"PK",
+    "gn:dem":2487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6270995,
+    "gn:latitude":30.39557,
+    "gn:longitude":67.73079,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Chautra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6270995
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09e74ec0e3a845e39b073609a9b6f25a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1327341299,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327341299,
+    "wof:lastmodified":1536811743,
+    "wof:name":"Chautra",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73079,
+    30.39557000000001,
+    67.73079,
+    30.39557000000001
+],
+  "geometry": {"coordinates":[67.73079,30.39557000000001],"type":"Point"}
+}

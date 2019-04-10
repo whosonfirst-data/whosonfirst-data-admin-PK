@@ -1,0 +1,78 @@
+{
+  "id": 1242958991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.04357,35.20507,74.04357,35.20507",
+    "geom:latitude":35.20507,
+    "geom:longitude":74.04357,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kheriat",
+    "gn:country_code":"PK",
+    "gn:dem":2985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069431,
+    "gn:latitude":35.20507,
+    "gn:longitude":74.04357,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kheriat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069431
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a88a639832daa7b231b5b4edb68063b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242958991,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242958991,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242958991,
+    "wof:lastmodified":1537010685,
+    "wof:name":"Kheriat",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.04356999999997,
+    35.20507,
+    74.04356999999997,
+    35.20507
+],
+  "geometry": {"coordinates":[74.04356999999997,35.20507],"type":"Point"}
+}

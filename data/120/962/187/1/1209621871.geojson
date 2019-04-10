@@ -1,0 +1,67 @@
+{
+  "id": 1209621871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95668,34.39967,72.95668,34.39967",
+    "geom:latitude":34.39967,
+    "geom:longitude":72.95668,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalwatar",
+    "gn:country_code":"PK",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413414,
+    "gn:latitude":34.39967,
+    "gn:longitude":72.95668,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Kalwatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413414
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c449bc24b52e09dee8457abe423d272",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209621871,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209621871,
+    "wof:lastmodified":1543515643,
+    "wof:name":"Kalwatar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95668,
+    34.39967,
+    72.95668,
+    34.39967
+],
+  "geometry": {"coordinates":[72.95668000000001,34.39967],"type":"Point"}
+}

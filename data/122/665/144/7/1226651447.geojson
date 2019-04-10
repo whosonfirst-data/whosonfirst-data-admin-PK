@@ -1,0 +1,67 @@
+{
+  "id": 1226651447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.112,33.52074,73.112,33.52074",
+    "geom:latitude":33.52074,
+    "geom:longitude":73.112,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaniat",
+    "gn:country_code":"PK",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449819,
+    "gn:latitude":33.52074,
+    "gn:longitude":73.112,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Kaniat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675741,
+        1108692213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449819
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b38adab1f09d57bc028dfe7c093b9dda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1226651447,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1226651447,
+    "wof:lastmodified":1536850063,
+    "wof:name":"Kaniat",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.112,
+    33.52074,
+    73.112,
+    33.52074
+],
+  "geometry": {"coordinates":[73.11199999999999,33.52074],"type":"Point"}
+}

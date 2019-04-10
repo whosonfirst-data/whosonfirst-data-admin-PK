@@ -1,0 +1,64 @@
+{
+  "id": 1209337557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02781,31.7778,71.02781,31.7778",
+    "geom:latitude":31.7778,
+    "geom:longitude":71.02781,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Majhuka",
+    "gn:country_code":"PK",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366192,
+    "gn:latitude":31.7778,
+    "gn:longitude":71.02781,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Majhuka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhok Majola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366192
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77e8e11e73af7c3b2e85454e17dd8ca8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209337557
+        }
+    ],
+    "wof:id":1209337557,
+    "wof:lastmodified":1537680491,
+    "wof:name":"Majhuka",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02781,
+    31.7778,
+    71.02781,
+    31.7778
+],
+  "geometry": {"coordinates":[71.02781,31.7778],"type":"Point"}
+}

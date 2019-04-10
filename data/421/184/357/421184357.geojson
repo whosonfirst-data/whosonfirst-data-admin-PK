@@ -1,0 +1,98 @@
+{
+  "id": 421184357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01393,33.91358,74.01393,33.91358",
+    "geom:latitude":33.91358,
+    "geom:longitude":74.01393,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1414807,
+    "qs:gn_pop":0,
+    "qs:name":"Bachhwara",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":32,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":32,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "qs:qs_id":995558,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":55957823,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692125,
+        85672137,
+        1159339497,
+        85632469,
+        85675735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414807,
+        "gp:id":55957823,
+        "qs:id":995558
+    },
+    "wof:country":"PK",
+    "wof:created":1459009408,
+    "wof:geomhash":"168db8fbb08a678440a5cd876d05f9df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "locality_id":-1,
+            "neighbourhood_id":421184357,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":-1,
+            "neighbourhood_id":421184357,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":-1,
+            "neighbourhood_id":421184357,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":421184357,
+    "wof:lastmodified":1533678761,
+    "wof:name":"Bachhwara",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01393,
+    33.91358,
+    74.01393,
+    33.91358
+],
+  "geometry": {"coordinates":[74.01393,33.91358],"type":"Point"}
+}

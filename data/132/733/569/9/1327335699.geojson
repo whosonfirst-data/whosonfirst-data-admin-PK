@@ -1,0 +1,67 @@
+{
+  "id": 1327335699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47307,28.25641,67.47307,28.25641",
+    "geom:latitude":28.25641,
+    "geom:longitude":67.47307,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shahik",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564454,
+    "gn:latitude":28.25641,
+    "gn:longitude":67.47307,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Shahik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564454
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"607f2b3cedac80f6c595f33ef4b86f08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692221,
+            "locality_id":1327335699,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327335699,
+    "wof:lastmodified":1536819553,
+    "wof:name":"Shahik",
+    "wof:parent_id":1108692221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47306999999999,
+    28.25641,
+    67.47306999999999,
+    28.25641
+],
+  "geometry": {"coordinates":[67.47306999999999,28.25641],"type":"Point"}
+}

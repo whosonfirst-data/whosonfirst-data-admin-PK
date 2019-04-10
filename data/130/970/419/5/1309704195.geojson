@@ -1,0 +1,81 @@
+{
+  "id": 1309704195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90671,33.84105,73.90671,33.84105",
+    "geom:latitude":33.84105,
+    "geom:longitude":73.90671,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhari Kot",
+    "gn:country_code":"PK",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386110,
+    "gn:latitude":33.84105,
+    "gn:longitude":73.90671,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhari Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101ri Kot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386110
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aed9684466cc73695d872a70440659b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1309704195,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1309704195,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309704195,
+    "wof:lastmodified":1537680853,
+    "wof:name":"Dhari Kot",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90671,
+    33.84105,
+    73.90671,
+    33.84105
+],
+  "geometry": {"coordinates":[73.90671,33.84105],"type":"Point"}
+}

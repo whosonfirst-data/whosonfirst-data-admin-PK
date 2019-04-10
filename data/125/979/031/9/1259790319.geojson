@@ -1,0 +1,67 @@
+{
+  "id": 1259790319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58456,32.96328,70.58456,32.96328",
+    "geom:latitude":32.96328,
+    "geom:longitude":70.58456,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kingar",
+    "gn:country_code":"PK",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332809,
+    "gn:latitude":32.96328,
+    "gn:longitude":70.58456,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kingar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332809
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97a69c9284f93a0b49b0ed2adba817f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1259790319,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259790319,
+    "wof:lastmodified":1536913701,
+    "wof:name":"Kingar",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58456,
+    32.96328,
+    70.58456,
+    32.96328
+],
+  "geometry": {"coordinates":[70.58456,32.96328],"type":"Point"}
+}

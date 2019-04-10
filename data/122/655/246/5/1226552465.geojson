@@ -1,0 +1,67 @@
+{
+  "id": 1226552465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.67287,28.69422,67.67287,28.69422",
+    "geom:latitude":28.69422,
+    "geom:longitude":67.67287,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dadu",
+    "gn:country_code":"PK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180808,
+    "gn:latitude":28.69422,
+    "gn:longitude":67.67287,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180808
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4113e92c1d2cf82ae9953544773683ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692221,
+            "locality_id":1226552465,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226552465,
+    "wof:lastmodified":1536987497,
+    "wof:name":"Dadu",
+    "wof:parent_id":1108692221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.67286999999999,
+    28.69422,
+    67.67286999999999,
+    28.69422
+],
+  "geometry": {"coordinates":[67.67286999999999,28.69422],"type":"Point"}
+}

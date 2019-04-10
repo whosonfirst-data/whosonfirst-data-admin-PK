@@ -1,0 +1,67 @@
+{
+  "id": 1293890287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27211,34.02669,73.27211,34.02669",
+    "geom:latitude":34.02669,
+    "geom:longitude":73.27211,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chehr",
+    "gn:country_code":"PK",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407782,
+    "gn:latitude":34.02669,
+    "gn:longitude":73.27211,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chehr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407782
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1536d0de2eb8604d7a9f0d923d6994ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1293890287,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293890287,
+    "wof:lastmodified":1536703798,
+    "wof:name":"Chehr",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27211,
+    34.02669,
+    73.27211,
+    34.02669
+],
+  "geometry": {"coordinates":[73.27211,34.02669],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1243069945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.07174,26.10743,62.07174,26.10743",
+    "geom:latitude":26.10743,
+    "geom:longitude":62.07174,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gwak",
+    "gn:country_code":"PK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178741,
+    "gn:latitude":26.10743,
+    "gn:longitude":62.07174,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Gwak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gowak",
+        "Gawak",
+        "Gwak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178741
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ccf418a6f5263dcd19ff6055573a6bad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1243069945,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243069945,
+    "wof:lastmodified":1537679757,
+    "wof:name":"Gwak",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.07174000000001,
+    26.10743,
+    62.07174000000001,
+    26.10743
+],
+  "geometry": {"coordinates":[62.07174000000001,26.10743],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309810301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71372,34.18578,71.71372,34.18578",
+    "geom:latitude":34.18578,
+    "geom:longitude":71.71372,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baziabad",
+    "gn:country_code":"PK",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10350255,
+    "gn:latitude":34.18578,
+    "gn:longitude":71.71372,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Baziabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10350255
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67667ad9632844b368ebbf7b001a412c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1309810301,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309810301,
+    "wof:lastmodified":1536925206,
+    "wof:name":"Baziabad",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71372,
+    34.18578,
+    71.71372,
+    34.18578
+],
+  "geometry": {"coordinates":[71.71372,34.18578],"type":"Point"}
+}

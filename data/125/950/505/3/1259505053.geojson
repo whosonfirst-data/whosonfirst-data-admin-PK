@@ -1,0 +1,78 @@
+{
+  "id": 1259505053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87329,34.12604,73.87329,34.12604",
+    "geom:latitude":34.12604,
+    "geom:longitude":73.87329,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Maira",
+    "gn:country_code":"PK",
+    "gn:dem":1179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415645,
+    "gn:latitude":34.12604,
+    "gn:longitude":73.87329,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Maira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415645
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"45d746a00c6043e84c38bc9fff7576bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1259505053,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1259505053,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259505053,
+    "wof:lastmodified":1536826910,
+    "wof:name":"Maira",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87329,
+    34.12604,
+    73.87329,
+    34.12604
+],
+  "geometry": {"coordinates":[73.87329,34.12604],"type":"Point"}
+}

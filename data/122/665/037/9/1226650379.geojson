@@ -1,0 +1,67 @@
+{
+  "id": 1226650379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.05712,27.33683,69.05712,27.33683",
+    "geom:latitude":27.33683,
+    "geom:longitude":69.05712,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mungalwati",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361567,
+    "gn:latitude":27.33683,
+    "gn:longitude":69.05712,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Mungalwati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361567
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"68dd8cde3946cc52c047b32c43e8a470",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1226650379,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226650379,
+    "wof:lastmodified":1536851604,
+    "wof:name":"Mungalwati",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.05712,
+    27.33683,
+    69.05712,
+    27.33683
+],
+  "geometry": {"coordinates":[69.05712,27.33683],"type":"Point"}
+}

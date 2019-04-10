@@ -1,0 +1,67 @@
+{
+  "id": 1242977565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92969,34.47601,72.92969,34.47601",
+    "geom:latitude":34.47601,
+    "geom:longitude":72.92969,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kutrug",
+    "gn:country_code":"PK",
+    "gn:dem":1379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378813,
+    "gn:latitude":34.47601,
+    "gn:longitude":72.92969,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kutrug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378813
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf5c7038a4b0c191af27abe118dae68c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242977565,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242977565,
+    "wof:lastmodified":1536983702,
+    "wof:name":"Kutrug",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92969000000002,
+    34.47601,
+    72.92969000000002,
+    34.47601
+],
+  "geometry": {"coordinates":[72.92969000000002,34.47601],"type":"Point"}
+}

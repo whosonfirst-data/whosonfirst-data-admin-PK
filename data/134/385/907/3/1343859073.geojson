@@ -1,0 +1,67 @@
+{
+  "id": 1343859073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08438,35.15105,72.08438,35.15105",
+    "geom:latitude":35.15105,
+    "geom:longitude":72.08438,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Warai",
+    "gn:country_code":"PK",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605149,
+    "gn:latitude":35.15105,
+    "gn:longitude":72.08438,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Warai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605149
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09ef9a9d67ac832b4b595274ccd2ad71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1343859073,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343859073,
+    "wof:lastmodified":1536668623,
+    "wof:name":"Warai",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08438000000002,
+    35.15105,
+    72.08438000000002,
+    35.15105
+],
+  "geometry": {"coordinates":[72.08438000000002,35.15105],"type":"Point"}
+}

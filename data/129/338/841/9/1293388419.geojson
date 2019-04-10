@@ -1,0 +1,73 @@
+{
+  "id": 1293388419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85864,25.02005,68.85864,25.02005",
+    "geom:latitude":25.02005,
+    "geom:longitude":68.85864,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Goth Ahmad Ghelro",
+    "gn:country_code":"PK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1360347,
+    "gn:latitude":25.02005,
+    "gn:longitude":68.85864,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Goth Ahmad Ghelro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ahmad Ghelro Goth",
+        "Ahmad Ghalra Goth",
+        "Ahmad Galro Goth",
+        "Goth Ahmad Ghelro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1360347
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b53a42dd258c4e67aa7b5a8bf3176c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1293388419,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293388419,
+    "wof:lastmodified":1537680427,
+    "wof:name":"Goth Ahmad Ghelro",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85864000000001,
+    25.02005,
+    68.85864000000001,
+    25.02005
+],
+  "geometry": {"coordinates":[68.85864000000001,25.02005],"type":"Point"}
+}

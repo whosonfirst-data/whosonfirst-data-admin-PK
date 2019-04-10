@@ -1,0 +1,65 @@
+{
+  "id": 1209419355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85667,25.50777,68.85667,25.50777",
+    "geom:latitude":25.50777,
+    "geom:longitude":68.85667,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Sultanabad",
+    "gn:country_code":"PK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1359750,
+    "gn:latitude":25.50777,
+    "gn:longitude":68.85667,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Sultanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khow\u0101ja",
+        "Sultanabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1359750
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d11a18657e91b5154074e94547492b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209419355
+        }
+    ],
+    "wof:id":1209419355,
+    "wof:lastmodified":1537680415,
+    "wof:name":"Sultanabad",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85667,
+    25.50777,
+    68.85667,
+    25.50777
+],
+  "geometry": {"coordinates":[68.85666999999999,25.50777],"type":"Point"}
+}

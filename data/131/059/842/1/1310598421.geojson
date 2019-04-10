@@ -1,0 +1,78 @@
+{
+  "id": 1310598421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60582,34.4392,73.60582,34.4392",
+    "geom:latitude":34.4392,
+    "geom:longitude":73.60582,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bela",
+    "gn:country_code":"PK",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385628,
+    "gn:latitude":34.4392,
+    "gn:longitude":73.60582,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385628
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"51119754aadc6fbb1b864ecb762c3075",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310598421,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310598421,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310598421,
+    "wof:lastmodified":1536783427,
+    "wof:name":"Bela",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60582,
+    34.4392,
+    73.60582,
+    34.4392
+],
+  "geometry": {"coordinates":[73.60581999999999,34.4392],"type":"Point"}
+}

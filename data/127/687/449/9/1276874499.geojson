@@ -1,0 +1,71 @@
+{
+  "id": 1276874499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97195,30.33948,67.97195,30.33948",
+    "geom:latitude":30.33948,
+    "geom:longitude":67.97195,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kazha",
+    "gn:country_code":"PK",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174498,
+    "gn:latitude":30.33948,
+    "gn:longitude":67.97195,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Kazha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaza",
+        "Kazha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174498
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10d98817559237540da62118cdedc30a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1276874499,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276874499,
+    "wof:lastmodified":1537679610,
+    "wof:name":"Kazha",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97195,
+    30.33948,
+    67.97195,
+    30.33948
+],
+  "geometry": {"coordinates":[67.97195000000001,30.33948],"type":"Point"}
+}

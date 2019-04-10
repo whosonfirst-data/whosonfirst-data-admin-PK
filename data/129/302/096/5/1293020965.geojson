@@ -1,0 +1,81 @@
+{
+  "id": 1293020965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.21892,35.56842,74.21892,35.56842",
+    "geom:latitude":35.56842,
+    "geom:longitude":74.21892,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Tutam",
+    "gn:country_code":"PK",
+    "gn:dem":2685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423633,
+    "gn:latitude":35.56842,
+    "gn:longitude":74.21892,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tutam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u016btambai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423633
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f5733ec170f80d6cce674338fbf623c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293020965,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293020965,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293020965,
+    "wof:lastmodified":1537681907,
+    "wof:name":"Tutam",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.21892,
+    35.56842,
+    74.21892,
+    35.56842
+],
+  "geometry": {"coordinates":[74.21892,35.56842],"type":"Point"}
+}

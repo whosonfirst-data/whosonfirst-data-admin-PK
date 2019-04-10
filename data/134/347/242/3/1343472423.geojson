@@ -1,0 +1,67 @@
+{
+  "id": 1343472423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65111,32.25139,69.65111,32.25139",
+    "geom:latitude":32.25139,
+    "geom:longitude":69.65111,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pogha Kot",
+    "gn:country_code":"PK",
+    "gn:dem":1218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107554,
+    "gn:latitude":32.25139,
+    "gn:longitude":69.65111,
+    "gn:modification_date":"2005-05-03",
+    "gn:name":"Pogha Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107554
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"142b5f30952d820f6c0b71379238c4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1343472423,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343472423,
+    "wof:lastmodified":1536729163,
+    "wof:name":"Pogha Kot",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65111,
+    32.25139,
+    69.65111,
+    32.25139
+],
+  "geometry": {"coordinates":[69.65111,32.25139],"type":"Point"}
+}

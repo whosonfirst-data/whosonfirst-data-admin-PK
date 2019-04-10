@@ -1,0 +1,67 @@
+{
+  "id": 1209421733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.16845,32.34078,71.16845,32.34078",
+    "geom:latitude":32.34078,
+    "geom:longitude":71.16845,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Madowal",
+    "gn:country_code":"PK",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365691,
+    "gn:latitude":32.34078,
+    "gn:longitude":71.16845,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Madowal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365691
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4f4533d221301d5c4a9c4e02b1d28eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1209421733,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209421733,
+    "wof:lastmodified":1543515596,
+    "wof:name":"Madowal",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.16845,
+    32.34078,
+    71.16845,
+    32.34078
+],
+  "geometry": {"coordinates":[71.16845000000001,32.34078],"type":"Point"}
+}

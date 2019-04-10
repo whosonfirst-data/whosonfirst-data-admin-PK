@@ -1,0 +1,75 @@
+{
+  "id": 1327431027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.62855,32.41208,74.62855,32.41208",
+    "geom:latitude":32.41208,
+    "geom:longitude":74.62855,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kot Rajkour",
+    "gn:country_code":"PK",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172909,
+    "gn:latitude":32.41208,
+    "gn:longitude":74.62855,
+    "gn:modification_date":"2018-03-05",
+    "gn:name":"Kot Rajkour",
+    "gn:population":1542,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kot R\u0101jkaor",
+        "Kot R\u0101jkaur",
+        "Kot R\u0101jkau"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172909
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"96e60dc7460f13ff8b13c34f9951c500",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1327431027,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327431027,
+    "wof:lastmodified":1537679552,
+    "wof:name":"Kot Rajkour",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:population":1542,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.62855,
+    32.41208,
+    74.62855,
+    32.41208
+],
+  "geometry": {"coordinates":[74.62855,32.41208],"type":"Point"}
+}

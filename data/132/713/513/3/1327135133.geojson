@@ -1,0 +1,67 @@
+{
+  "id": 1327135133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46094,34.70162,73.46094,34.70162",
+    "geom:latitude":34.70162,
+    "geom:longitude":73.46094,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chakhria",
+    "gn:country_code":"PK",
+    "gn:dem":2385,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406249,
+    "gn:latitude":34.70162,
+    "gn:longitude":73.46094,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Chakhria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406249
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d65076be173bbd33e6b4e5977b997a89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1327135133,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327135133,
+    "wof:lastmodified":1536609487,
+    "wof:name":"Chakhria",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46094000000002,
+    34.70162,
+    73.46094000000002,
+    34.70162
+],
+  "geometry": {"coordinates":[73.46094000000002,34.70162],"type":"Point"}
+}

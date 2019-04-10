@@ -1,0 +1,67 @@
+{
+  "id": 1226745755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.66015,28.35975,68.66015,28.35975",
+    "geom:latitude":28.35975,
+    "geom:longitude":68.66015,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Adam Mairi",
+    "gn:country_code":"PK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254875,
+    "gn:latitude":28.35975,
+    "gn:longitude":68.66015,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Adam Mairi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254875
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3f7c8962894956b6143943b645b33a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1226745755,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226745755,
+    "wof:lastmodified":1536715841,
+    "wof:name":"Adam Mairi",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.66015,
+    28.35975,
+    68.66015,
+    28.35975
+],
+  "geometry": {"coordinates":[68.66015,28.35975],"type":"Point"}
+}

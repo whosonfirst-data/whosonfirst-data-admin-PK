@@ -1,0 +1,67 @@
+{
+  "id": 1193138027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.17705,35.16794,72.17705,35.16794",
+    "geom:latitude":35.16794,
+    "geom:longitude":72.17705,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kas",
+    "gn:country_code":"PK",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478100,
+    "gn:latitude":35.16794,
+    "gn:longitude":72.17705,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478100
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fbaa1c3875c4a10c76257d292bec49fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1193138027,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193138027,
+    "wof:lastmodified":1543515416,
+    "wof:name":"Kas",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.17705,
+    35.16794,
+    72.17705,
+    35.16794
+],
+  "geometry": {"coordinates":[72.17704999999999,35.16794],"type":"Point"}
+}

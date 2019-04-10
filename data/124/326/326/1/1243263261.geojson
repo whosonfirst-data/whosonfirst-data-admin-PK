@@ -1,0 +1,67 @@
+{
+  "id": 1243263261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22831,32.63306,73.22831,32.63306",
+    "geom:latitude":32.63306,
+    "geom:longitude":73.22831,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Battian",
+    "gn:country_code":"PK",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11443064,
+    "gn:latitude":32.63306,
+    "gn:longitude":73.22831,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Battian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11443064
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74415377ae89d36ae20214a979552fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1243263261,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243263261,
+    "wof:lastmodified":1537066687,
+    "wof:name":"Battian",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22831,
+    32.63306,
+    73.22831,
+    32.63306
+],
+  "geometry": {"coordinates":[73.22830999999999,32.63306],"type":"Point"}
+}

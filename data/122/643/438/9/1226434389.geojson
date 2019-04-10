@@ -1,0 +1,89 @@
+{
+  "id": 1226434389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63196,33.80051,73.63196,33.80051",
+    "geom:latitude":33.80051,
+    "geom:longitude":73.63196,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Derata",
+    "gn:country_code":"PK",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097489,
+    "gn:latitude":33.80051,
+    "gn:longitude":73.63196,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Derata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Der\u0101ta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097489
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d8a9ed97178707a416b5b09d7c1bfb7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1226434389,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226434389,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226434389,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226434389,
+    "wof:lastmodified":1537681682,
+    "wof:name":"Derata",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63195999999998,
+    33.80051,
+    73.63195999999998,
+    33.80051
+],
+  "geometry": {"coordinates":[73.63195999999998,33.80051],"type":"Point"}
+}

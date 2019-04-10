@@ -1,0 +1,67 @@
+{
+  "id": 1310112581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41772,34.50225,73.41772,34.50225",
+    "geom:latitude":34.50225,
+    "geom:longitude":73.41772,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bhogia",
+    "gn:country_code":"PK",
+    "gn:dem":2076,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406370,
+    "gn:latitude":34.50225,
+    "gn:longitude":73.41772,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bhogia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406370
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f8a91c5dc4c1361a3d0da26d415edbab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1310112581,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310112581,
+    "wof:lastmodified":1536985405,
+    "wof:name":"Bhogia",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41771999999997,
+    34.50225,
+    73.41771999999997,
+    34.50225
+],
+  "geometry": {"coordinates":[73.41771999999997,34.50225],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226328173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.77978,34.76907,75.77978,34.76907",
+    "geom:latitude":34.76907,
+    "geom:longitude":75.77978,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Safaid Pani",
+    "gn:country_code":"PK",
+    "gn:dem":3705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081222,
+    "gn:latitude":34.76907,
+    "gn:longitude":75.77978,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Safaid Pani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081222
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1109cd190c7f4488c34068196e431f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1226328173,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1226328173,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226328173,
+    "wof:lastmodified":1536814157,
+    "wof:name":"Safaid Pani",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.77978,
+    34.76907,
+    75.77978,
+    34.76907
+],
+  "geometry": {"coordinates":[75.77978,34.76907],"type":"Point"}
+}

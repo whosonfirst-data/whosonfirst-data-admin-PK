@@ -1,0 +1,67 @@
+{
+  "id": 1309712867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.81169,34.05125,72.81169,34.05125",
+    "geom:latitude":34.05125,
+    "geom:longitude":72.81169,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kandona",
+    "gn:country_code":"PK",
+    "gn:dem":819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421244,
+    "gn:latitude":34.05125,
+    "gn:longitude":72.81169,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Kandona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421244
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60e1df1731eb0490a2cbb3f7a9aee386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1309712867,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309712867,
+    "wof:lastmodified":1537062317,
+    "wof:name":"Kandona",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.81169,
+    34.05125,
+    72.81169,
+    34.05125
+],
+  "geometry": {"coordinates":[72.81169,34.05125],"type":"Point"}
+}

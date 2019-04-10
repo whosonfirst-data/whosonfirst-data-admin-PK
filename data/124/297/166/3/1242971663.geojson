@@ -1,0 +1,67 @@
+{
+  "id": 1242971663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4903,34.81747,72.4903,34.81747",
+    "geom:latitude":34.81747,
+    "geom:longitude":72.4903,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Parkha",
+    "gn:country_code":"PK",
+    "gn:dem":1134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1384648,
+    "gn:latitude":34.81747,
+    "gn:longitude":72.4903,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Parkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1384648
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dced7a9aaad6d428ae1eb49dc5f88868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242971663,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242971663,
+    "wof:lastmodified":1536992244,
+    "wof:name":"Parkha",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4903,
+    34.81747,
+    72.4903,
+    34.81747
+],
+  "geometry": {"coordinates":[72.4903,34.81747],"type":"Point"}
+}

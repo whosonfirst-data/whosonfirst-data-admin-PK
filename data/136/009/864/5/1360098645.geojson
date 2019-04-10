@@ -1,0 +1,70 @@
+{
+  "id": 1360098645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21442,32.97216,70.21442,32.97216",
+    "geom:latitude":32.97216,
+    "geom:longitude":70.21442,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khaddai",
+    "gn:country_code":"PK",
+    "gn:dem":721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340482,
+    "gn:latitude":32.97216,
+    "gn:longitude":70.21442,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Khaddai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khaddi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340482
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f617cec4ecb0cfcf2cc9e97a8f5675b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1360098645,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360098645,
+    "wof:lastmodified":1543515358,
+    "wof:name":"Khaddai",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21441999999999,
+    32.97216,
+    70.21441999999999,
+    32.97216
+],
+  "geometry": {"coordinates":[70.21441999999999,32.97216],"type":"Point"}
+}

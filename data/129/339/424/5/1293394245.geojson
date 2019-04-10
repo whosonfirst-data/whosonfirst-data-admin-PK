@@ -1,0 +1,67 @@
+{
+  "id": 1293394245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.52057,24.36192,69.52057,24.36192",
+    "geom:latitude":24.36192,
+    "geom:longitude":69.52057,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Katho",
+    "gn:country_code":"PK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497789,
+    "gn:latitude":24.36192,
+    "gn:longitude":69.52057,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Katho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497789
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f29a4f6790f133cb8e4bc9407d91c6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1293394245,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293394245,
+    "wof:lastmodified":1536922060,
+    "wof:name":"Katho",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.52056999999999,
+    24.36192,
+    69.52056999999999,
+    24.36192
+],
+  "geometry": {"coordinates":[69.52056999999999,24.36192],"type":"Point"}
+}

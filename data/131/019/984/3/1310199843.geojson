@@ -1,0 +1,82 @@
+{
+  "id": 1310199843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9826,33.18053,73.9826,33.18053",
+    "geom:latitude":33.18053,
+    "geom:longitude":73.9826,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Phanotian",
+    "gn:country_code":"PK",
+    "gn:dem":528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386351,
+    "gn:latitude":33.18053,
+    "gn:longitude":73.9826,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Phanotian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pantian",
+        "Phanotian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386351
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a6a20bc3cdb97a2a3c9eea58fdea27da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310199843,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310199843,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310199843,
+    "wof:lastmodified":1537680859,
+    "wof:name":"Phanotian",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9826,
+    33.18053,
+    73.9826,
+    33.18053
+],
+  "geometry": {"coordinates":[73.98260000000001,33.18053],"type":"Point"}
+}

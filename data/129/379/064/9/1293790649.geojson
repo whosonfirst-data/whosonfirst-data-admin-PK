@@ -1,0 +1,76 @@
+{
+  "id": 1293790649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75923,35.52931,71.75923,35.52931",
+    "geom:latitude":35.52931,
+    "geom:longitude":71.75923,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Jingeret",
+    "gn:country_code":"PK",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1373694,
+    "gn:latitude":35.52931,
+    "gn:longitude":71.75923,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Jingeret",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jingeret"
+    ],
+    "name:urd_x_preferred":[
+        "Jinjire\u1e6d"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0650\u0646\u0652\u062c\u0650\u0631\u06cc\u0679"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1373694
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b6c6717be12bd67d2ef380da719c8f23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1293790649,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293790649,
+    "wof:lastmodified":1537680632,
+    "wof:name":"Jingeret",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75923,
+    35.52930999999999,
+    71.75923,
+    35.52930999999999
+],
+  "geometry": {"coordinates":[71.75923,35.52930999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293785207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38983,34.35178,73.38983,34.35178",
+    "geom:latitude":34.35178,
+    "geom:longitude":73.38983,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Naroka",
+    "gn:country_code":"PK",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406762,
+    "gn:latitude":34.35178,
+    "gn:longitude":73.38983,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Naroka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406762
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e4bbab11018ed47784cbc34b97baa33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1293785207,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293785207,
+    "wof:lastmodified":1536853791,
+    "wof:name":"Naroka",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38983,
+    34.35178,
+    73.38983,
+    34.35178
+],
+  "geometry": {"coordinates":[73.38983,34.35178],"type":"Point"}
+}

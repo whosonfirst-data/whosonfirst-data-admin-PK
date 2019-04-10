@@ -1,0 +1,67 @@
+{
+  "id": 1344262271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.31893,32.40497,73.31893,32.40497",
+    "geom:latitude":32.40497,
+    "geom:longitude":73.31893,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gojra",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178228,
+    "gn:latitude":32.40497,
+    "gn:longitude":73.31893,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Gojra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178228
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4e8cbfd9277f1a97d3a81582bad0809a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1344262271,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344262271,
+    "wof:lastmodified":1537078352,
+    "wof:name":"Gojra",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.31893000000002,
+    32.40497,
+    73.31893000000002,
+    32.40497
+],
+  "geometry": {"coordinates":[73.31893000000002,32.40497],"type":"Point"}
+}

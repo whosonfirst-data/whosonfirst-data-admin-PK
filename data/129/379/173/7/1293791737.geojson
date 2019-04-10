@@ -1,0 +1,67 @@
+{
+  "id": 1293791737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.83518,30.8075,66.83518,30.8075",
+    "geom:latitude":30.8075,
+    "geom:longitude":66.83518,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Adosh",
+    "gn:country_code":"PK",
+    "gn:dem":1842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184941,
+    "gn:latitude":30.8075,
+    "gn:longitude":66.83518,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Adosh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184941
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"85fc077a798f894507387841c9eee66d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1293791737,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293791737,
+    "wof:lastmodified":1536844382,
+    "wof:name":"Adosh",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.83518000000001,
+    30.8075,
+    66.83518000000001,
+    30.8075
+],
+  "geometry": {"coordinates":[66.83518000000001,30.8075],"type":"Point"}
+}

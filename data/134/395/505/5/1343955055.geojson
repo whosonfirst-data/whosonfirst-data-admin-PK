@@ -1,0 +1,67 @@
+{
+  "id": 1343955055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28549,33.59058,73.28549,33.59058",
+    "geom:latitude":33.59058,
+    "geom:longitude":73.28549,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sagga",
+    "gn:country_code":"PK",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082441,
+    "gn:latitude":33.59058,
+    "gn:longitude":73.28549,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sagga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675741,
+        1108692213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082441
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ea4beca90c05df4bdc2507dd7bcfe20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1343955055,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1343955055,
+    "wof:lastmodified":1537026641,
+    "wof:name":"Sagga",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28549,
+    33.59058,
+    73.28549,
+    33.59058
+],
+  "geometry": {"coordinates":[73.28549,33.59058],"type":"Point"}
+}

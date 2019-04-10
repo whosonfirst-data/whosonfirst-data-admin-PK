@@ -1,0 +1,65 @@
+{
+  "id": 1209519961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.07059,26.28069,68.07059,26.28069",
+    "geom:latitude":26.28069,
+    "geom:longitude":68.07059,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Goth Mehru",
+    "gn:country_code":"PK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170553,
+    "gn:latitude":26.28069,
+    "gn:longitude":68.07059,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Goth Mehru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahro",
+        "Goth Mehru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170553
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33b6ed4a782f6c17515efbd4ac89c808",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209519961
+        }
+    ],
+    "wof:id":1209519961,
+    "wof:lastmodified":1537679472,
+    "wof:name":"Goth Mehru",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.07059,
+    26.28069,
+    68.07059,
+    26.28069
+],
+  "geometry": {"coordinates":[68.07059,26.28069],"type":"Point"}
+}

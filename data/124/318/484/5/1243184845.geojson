@@ -1,0 +1,67 @@
+{
+  "id": 1243184845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.48364,25.71055,66.48364,25.71055",
+    "geom:latitude":25.71055,
+    "geom:longitude":66.48364,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Goth Adam",
+    "gn:country_code":"PK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1364165,
+    "gn:latitude":25.71055,
+    "gn:longitude":66.48364,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Goth Adam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1364165
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"25aec6d34b0bb63483003a57a3149cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1243184845,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243184845,
+    "wof:lastmodified":1536685635,
+    "wof:name":"Goth Adam",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.48364000000001,
+    25.71055,
+    66.48364000000001,
+    25.71055
+],
+  "geometry": {"coordinates":[66.48364000000001,25.71055],"type":"Point"}
+}

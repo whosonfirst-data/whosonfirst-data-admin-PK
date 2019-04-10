@@ -1,0 +1,67 @@
+{
+  "id": 1260189389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11439,34.15706,73.11439,34.15706",
+    "geom:latitude":34.15706,
+    "geom:longitude":73.11439,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Khaliala",
+    "gn:country_code":"PK",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416270,
+    "gn:latitude":34.15706,
+    "gn:longitude":73.11439,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khaliala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416270
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5259721f3fd82b447f3c0ca2e0f035c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1260189389,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260189389,
+    "wof:lastmodified":1536838802,
+    "wof:name":"Khaliala",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11439,
+    34.15705999999999,
+    73.11439,
+    34.15705999999999
+],
+  "geometry": {"coordinates":[73.11439,34.15705999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260290001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.01636,30.31704,71.01636,30.31704",
+    "geom:latitude":30.31704,
+    "geom:longitude":71.01636,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Tarkhanwala",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368150,
+    "gn:latitude":30.31704,
+    "gn:longitude":71.01636,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tarkhanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368150
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b4005a5a336f0db132a54d4af6dcd3c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1260290001,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260290001,
+    "wof:lastmodified":1536703454,
+    "wof:name":"Tarkhanwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.01635999999998,
+    30.31704,
+    71.01635999999998,
+    30.31704
+],
+  "geometry": {"coordinates":[71.01635999999998,30.31704],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293869575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.16504,35.18178,76.16504,35.18178",
+    "geom:latitude":35.18178,
+    "geom:longitude":76.16504,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baqir Colony",
+    "gn:country_code":"PK",
+    "gn:dem":2473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088153,
+    "gn:latitude":35.18178,
+    "gn:longitude":76.16504,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Baqir Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sirhiting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088153
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3482092131af75b0a81f5b54f0ea437d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293869575,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293869575,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293869575,
+    "wof:lastmodified":1537681995,
+    "wof:name":"Baqir Colony",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.16504,
+    35.18178,
+    76.16504,
+    35.18178
+],
+  "geometry": {"coordinates":[76.16504,35.18178],"type":"Point"}
+}

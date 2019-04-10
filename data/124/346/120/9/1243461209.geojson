@@ -1,0 +1,67 @@
+{
+  "id": 1243461209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.96881,32.06232,70.96881,32.06232",
+    "geom:latitude":32.06232,
+    "geom:longitude":70.96881,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Beliwala",
+    "gn:country_code":"PK",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182971,
+    "gn:latitude":32.06232,
+    "gn:longitude":70.96881,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Beliwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182971
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a0ce77f95229e4b569deb48734afee0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1243461209,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243461209,
+    "wof:lastmodified":1536784693,
+    "wof:name":"Beliwala",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.96880999999998,
+    32.06232,
+    70.96880999999998,
+    32.06232
+],
+  "geometry": {"coordinates":[70.96880999999998,32.06232],"type":"Point"}
+}

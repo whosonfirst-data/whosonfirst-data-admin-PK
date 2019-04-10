@@ -1,0 +1,67 @@
+{
+  "id": 1225847201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.88059,30.6583,68.88059,30.6583",
+    "geom:latitude":30.6583,
+    "geom:longitude":68.88059,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sragh",
+    "gn:country_code":"PK",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144965,
+    "gn:latitude":30.6583,
+    "gn:longitude":68.88059,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Sragh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144965
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"90d752f1f4ad1fd7523f4a5d8f4680ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1225847201,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1225847201,
+    "wof:lastmodified":1537010861,
+    "wof:name":"Sragh",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.88059,
+    30.6583,
+    68.88059,
+    30.6583
+],
+  "geometry": {"coordinates":[68.88059,30.6583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309903235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51781,33.19403,73.51781,33.19403",
+    "geom:latitude":33.19403,
+    "geom:longitude":73.51781,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khariot",
+    "gn:country_code":"PK",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068704,
+    "gn:latitude":33.19403,
+    "gn:longitude":73.51781,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Khariot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068704
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a8e79a6888c4a9bc372ba8aa1295e20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1309903235,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309903235,
+    "wof:lastmodified":1536791052,
+    "wof:name":"Khariot",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51781,
+    33.19403,
+    73.51781,
+    33.19403
+],
+  "geometry": {"coordinates":[73.51781,33.19403],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327439321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96788,31.45886,68.96788,31.45886",
+    "geom:latitude":31.45886,
+    "geom:longitude":68.96788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lakra",
+    "gn:country_code":"PK",
+    "gn:dem":2050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11334261,
+    "gn:latitude":31.45886,
+    "gn:longitude":68.96788,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Lakra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334261
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d62e3f7eed87a8d47176a65ef6bb2af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1327439321,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327439321,
+    "wof:lastmodified":1536670720,
+    "wof:name":"Lakra",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96788000000001,
+    31.45886,
+    68.96788000000001,
+    31.45886
+],
+  "geometry": {"coordinates":[68.96788000000001,31.45886],"type":"Point"}
+}

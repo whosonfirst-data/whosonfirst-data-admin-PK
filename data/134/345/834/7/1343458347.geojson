@@ -1,0 +1,71 @@
+{
+  "id": 1343458347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.45362,31.40464,74.45362,31.40464",
+    "geom:latitude":31.40464,
+    "geom:longitude":74.45362,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Malkhoke",
+    "gn:country_code":"PK",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171290,
+    "gn:latitude":31.40464,
+    "gn:longitude":74.45362,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Malkhoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Milkhoke",
+        "Malkhoke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171290
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"843fef9ac75a828f9617e49d2730e4ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1343458347,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343458347,
+    "wof:lastmodified":1537679498,
+    "wof:name":"Malkhoke",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.45362,
+    31.40464,
+    74.45362,
+    31.40464
+],
+  "geometry": {"coordinates":[74.45362,31.40464],"type":"Point"}
+}

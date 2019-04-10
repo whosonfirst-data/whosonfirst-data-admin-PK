@@ -1,0 +1,67 @@
+{
+  "id": 1327035565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0005,29.96141,73.0005,29.96141",
+    "geom:latitude":29.96141,
+    "geom:longitude":73.0005,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nihalke",
+    "gn:country_code":"PK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11086103,
+    "gn:latitude":29.96141,
+    "gn:longitude":73.0005,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Nihalke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11086103
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e6f7a85da24a5b108b6d15ea1ebe3f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1327035565,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327035565,
+    "wof:lastmodified":1536755872,
+    "wof:name":"Nihalke",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0005,
+    29.96141,
+    73.0005,
+    29.96141
+],
+  "geometry": {"coordinates":[73.0005,29.96141],"type":"Point"}
+}

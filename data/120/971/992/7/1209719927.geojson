@@ -1,0 +1,67 @@
+{
+  "id": 1209719927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.43472,27.11111,68.43472,27.11111",
+    "geom:latitude":27.11111,
+    "geom:longitude":68.43472,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nazir Ahmad",
+    "gn:country_code":"PK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1411905,
+    "gn:latitude":27.11111,
+    "gn:longitude":68.43472,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Nazir Ahmad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1411905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c03337febcf8cf60131cefe50b683edf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1209719927,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209719927,
+    "wof:lastmodified":1536386842,
+    "wof:name":"Nazir Ahmad",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.43472,
+    27.11111,
+    68.43472,
+    27.11111
+],
+  "geometry": {"coordinates":[68.43472,27.11111],"type":"Point"}
+}

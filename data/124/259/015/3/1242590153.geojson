@@ -1,0 +1,67 @@
+{
+  "id": 1242590153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62853,28.44331,68.62853,28.44331",
+    "geom:latitude":28.44331,
+    "geom:longitude":68.62853,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khudadad",
+    "gn:country_code":"PK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254799,
+    "gn:latitude":28.44331,
+    "gn:longitude":68.62853,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Khudadad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254799
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c7a69b171fe3dabc98df1886e5feb63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692385,
+            "locality_id":1242590153,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242590153,
+    "wof:lastmodified":1537043674,
+    "wof:name":"Khudadad",
+    "wof:parent_id":1108692385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62853,
+    28.44331,
+    68.62853,
+    28.44331
+],
+  "geometry": {"coordinates":[68.62853,28.44331],"type":"Point"}
+}

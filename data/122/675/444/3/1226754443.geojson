@@ -1,0 +1,67 @@
+{
+  "id": 1226754443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06537,35.14141,73.06537,35.14141",
+    "geom:latitude":35.14141,
+    "geom:longitude":73.06537,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Loi",
+    "gn:country_code":"PK",
+    "gn:dem":985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045553,
+    "gn:latitude":35.14141,
+    "gn:longitude":73.06537,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Loi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045553
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f4482b9f5cafd93173564e3ee8420cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226754443,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226754443,
+    "wof:lastmodified":1536703225,
+    "wof:name":"Loi",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06537,
+    35.14141,
+    73.06537,
+    35.14141
+],
+  "geometry": {"coordinates":[73.06537,35.14141],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209215535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65665,34.15039,71.65665,34.15039",
+    "geom:latitude":34.15039,
+    "geom:longitude":71.65665,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gharambak",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178616,
+    "gn:latitude":34.15039,
+    "gn:longitude":71.65665,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Gharambak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gharambak"
+    ],
+    "name:und_x_variant":[
+        "Ghurambak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178616
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"035c3d0d6f22bc3c3e60cf5927297a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1209215535,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215535,
+    "wof:lastmodified":1543515535,
+    "wof:name":"Gharambak",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65665,
+    34.15039,
+    71.65665,
+    34.15039
+],
+  "geometry": {"coordinates":[71.65665,34.15039],"type":"Point"}
+}

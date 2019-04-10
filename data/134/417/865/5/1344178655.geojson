@@ -1,0 +1,78 @@
+{
+  "id": 1344178655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.72378,34.44148,73.72378,34.44148",
+    "geom:latitude":34.44148,
+    "geom:longitude":73.72378,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kopra",
+    "gn:country_code":"PK",
+    "gn:dem":2063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385537,
+    "gn:latitude":34.44148,
+    "gn:longitude":73.72378,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kopra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385537
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"98442aca47f42906637e8e8f0de2198d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344178655,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344178655,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344178655,
+    "wof:lastmodified":1536705369,
+    "wof:name":"Kopra",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.72378,
+    34.44148,
+    73.72378,
+    34.44148
+],
+  "geometry": {"coordinates":[73.72378,34.44148],"type":"Point"}
+}

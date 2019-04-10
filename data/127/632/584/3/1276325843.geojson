@@ -1,0 +1,78 @@
+{
+  "id": 1276325843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87976,34.48343,73.87976,34.48343",
+    "geom:latitude":34.48343,
+    "geom:longitude":73.87976,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chatiban",
+    "gn:country_code":"PK",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415951,
+    "gn:latitude":34.48343,
+    "gn:longitude":73.87976,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chatiban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415951
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd9ca601efe1a710d43da2292b29a21e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1276325843,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1276325843,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276325843,
+    "wof:lastmodified":1536789140,
+    "wof:name":"Chatiban",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87976,
+    34.48343,
+    73.87976,
+    34.48343
+],
+  "geometry": {"coordinates":[73.87976,34.48343],"type":"Point"}
+}

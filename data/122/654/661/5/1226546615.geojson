@@ -1,0 +1,67 @@
+{
+  "id": 1226546615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.82506,35.46909,72.82506,35.46909",
+    "geom:latitude":35.46909,
+    "geom:longitude":72.82506,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kain",
+    "gn:country_code":"PK",
+    "gn:dem":2153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024037,
+    "gn:latitude":35.46909,
+    "gn:longitude":72.82506,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024037
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bd2ddcaaf7444cfe5d3217cf75e2cf86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226546615,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226546615,
+    "wof:lastmodified":1536995931,
+    "wof:name":"Kain",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.82506,
+    35.46909,
+    72.82506,
+    35.46909
+],
+  "geometry": {"coordinates":[72.82505999999999,35.46909],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1293596933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41126,30.94895,66.41126,30.94895",
+    "geom:latitude":30.94895,
+    "geom:longitude":66.41126,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mahedin Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341807,
+    "gn:latitude":30.94895,
+    "gn:longitude":66.41126,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mahedin Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kabul",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0445\u0435\u0434\u0438\u043d-\u041a\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Makhedin-Kili",
+        "Mahedin Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632229,
+        85667549,
+        1108562519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341807
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f4983667d45710b769e558c92339a6f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632229,
+            "county_id":1108562519,
+            "locality_id":1293596933,
+            "region_id":85667549
+        }
+    ],
+    "wof:id":1293596933,
+    "wof:lastmodified":1537680195,
+    "wof:name":"Mahedin Kili",
+    "wof:parent_id":1108562519,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41126,
+    30.94895,
+    66.41126,
+    30.94895
+],
+  "geometry": {"coordinates":[66.41126,30.94895],"type":"Point"}
+}

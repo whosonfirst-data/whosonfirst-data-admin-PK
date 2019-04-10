@@ -1,0 +1,67 @@
+{
+  "id": 1243376033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83553,30.07778,68.83553,30.07778",
+    "geom:latitude":30.07778,
+    "geom:longitude":68.83553,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yateabad",
+    "gn:country_code":"PK",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11145504,
+    "gn:latitude":30.07778,
+    "gn:longitude":68.83553,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Yateabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11145504
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ffb3368dca625aee5cf62e5060729860",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1243376033,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243376033,
+    "wof:lastmodified":1536907341,
+    "wof:name":"Yateabad",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83553,
+    30.07778,
+    68.83553,
+    30.07778
+],
+  "geometry": {"coordinates":[68.83553000000001,30.07778],"type":"Point"}
+}

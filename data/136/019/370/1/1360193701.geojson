@@ -1,0 +1,67 @@
+{
+  "id": 1360193701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23545,34.0595,71.23545,34.0595",
+    "geom:latitude":34.0595,
+    "geom:longitude":71.23545,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gurgura",
+    "gn:country_code":"PK",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177493,
+    "gn:latitude":34.0595,
+    "gn:longitude":71.23545,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Gurgura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177493
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"36652f1454d7bc579a57fc9b4ba91599",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1360193701,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360193701,
+    "wof:lastmodified":1543515282,
+    "wof:name":"Gurgura",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23545,
+    34.0595,
+    71.23545,
+    34.0595
+],
+  "geometry": {"coordinates":[71.23545,34.0595],"type":"Point"}
+}

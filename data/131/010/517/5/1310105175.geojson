@@ -1,0 +1,67 @@
+{
+  "id": 1310105175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29774,31.02777,70.29774,31.02777",
+    "geom:latitude":31.02777,
+    "geom:longitude":70.29774,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jadu",
+    "gn:country_code":"PK",
+    "gn:dem":622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10432820,
+    "gn:latitude":31.02777,
+    "gn:longitude":70.29774,
+    "gn:modification_date":"2015-08-09",
+    "gn:name":"Jadu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10432820
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22532a3c9a53d22056a6f67ce6061461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1310105175,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310105175,
+    "wof:lastmodified":1536996166,
+    "wof:name":"Jadu",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29774,
+    31.02777,
+    70.29774,
+    31.02777
+],
+  "geometry": {"coordinates":[70.29774,31.02777],"type":"Point"}
+}

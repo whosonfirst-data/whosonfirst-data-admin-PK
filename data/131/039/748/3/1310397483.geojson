@@ -1,0 +1,78 @@
+{
+  "id": 1310397483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87818,34.1256,73.87818,34.1256",
+    "geom:latitude":34.1256,
+    "geom:longitude":73.87818,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nazar Hussain Shahid",
+    "gn:country_code":"PK",
+    "gn:dem":1199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10951950,
+    "gn:latitude":34.1256,
+    "gn:longitude":73.87818,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Nazar Hussain Shahid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10951950
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"17af697c7275cb83888bc6c5ec1f6ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310397483,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310397483,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310397483,
+    "wof:lastmodified":1537069814,
+    "wof:name":"Nazar Hussain Shahid",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87818,
+    34.1256,
+    73.87818,
+    34.1256
+],
+  "geometry": {"coordinates":[73.87818,34.1256],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209813821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8353,27.51479,67.8353,27.51479",
+    "geom:latitude":27.51479,
+    "geom:longitude":67.8353,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jakar",
+    "gn:country_code":"PK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176405,
+    "gn:latitude":27.51479,
+    "gn:longitude":67.8353,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Jakar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalar",
+        "J\u0101kar",
+        "Jakar",
+        "Jakhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176405
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cb5efe0bb8f052ba9a09357295de52b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1209813821,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209813821,
+    "wof:lastmodified":1537679680,
+    "wof:name":"Jakar",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8353,
+    27.51479,
+    67.8353,
+    27.51479
+],
+  "geometry": {"coordinates":[67.8353,27.51479],"type":"Point"}
+}

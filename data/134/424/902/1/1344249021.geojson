@@ -1,0 +1,81 @@
+{
+  "id": 1344249021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13914,33.46536,74.13914,33.46536",
+    "geom:latitude":33.46536,
+    "geom:longitude":74.13914,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Simti",
+    "gn:country_code":"PK",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415212,
+    "gn:latitude":33.46536,
+    "gn:longitude":74.13914,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Simti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Simt"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415212
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a817b76e10226bd6da5ff85cccf5397",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1344249021,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1344249021,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344249021,
+    "wof:lastmodified":1537681358,
+    "wof:name":"Simti",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13914,
+    33.46536,
+    74.13914,
+    33.46536
+],
+  "geometry": {"coordinates":[74.13914,33.46536],"type":"Point"}
+}

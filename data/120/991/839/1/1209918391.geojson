@@ -1,0 +1,67 @@
+{
+  "id": 1209918391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02157,27.35605,69.02157,27.35605",
+    "geom:latitude":27.35605,
+    "geom:longitude":69.02157,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khabri",
+    "gn:country_code":"PK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361558,
+    "gn:latitude":27.35605,
+    "gn:longitude":69.02157,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Khabri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361558
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"14212e79af1adc279bf23d8f79d7db22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1209918391,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209918391,
+    "wof:lastmodified":1536371206,
+    "wof:name":"Khabri",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02157,
+    27.35605,
+    69.02157,
+    27.35605
+],
+  "geometry": {"coordinates":[69.02157,27.35605],"type":"Point"}
+}

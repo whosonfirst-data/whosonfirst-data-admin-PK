@@ -1,0 +1,78 @@
+{
+  "id": 1242563447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.11938,35.62883,75.11938,35.62883",
+    "geom:latitude":35.62883,
+    "geom:longitude":75.11938,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sustung",
+    "gn:country_code":"PK",
+    "gn:dem":3646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419691,
+    "gn:latitude":35.62883,
+    "gn:longitude":75.11938,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Sustung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419691
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f2b54f83884666d8172a1a8873cd0546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1242563447,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1242563447,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242563447,
+    "wof:lastmodified":1537080948,
+    "wof:name":"Sustung",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.11938,
+    35.62883,
+    75.11938,
+    35.62883
+],
+  "geometry": {"coordinates":[75.11938000000001,35.62883],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1293092981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76204,33.21913,73.76204,33.21913",
+    "geom:latitude":33.21913,
+    "geom:longitude":73.76204,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gora",
+    "gn:country_code":"PK",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386309,
+    "gn:latitude":33.21913,
+    "gn:longitude":73.76204,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Gora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386309
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0773c7b053f40b42a76c7aadf3482cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1293092981,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293092981,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293092981,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293092981,
+    "wof:lastmodified":1536857577,
+    "wof:name":"Gora",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76204,
+    33.21913,
+    73.76204,
+    33.21913
+],
+  "geometry": {"coordinates":[73.76204,33.21913],"type":"Point"}
+}

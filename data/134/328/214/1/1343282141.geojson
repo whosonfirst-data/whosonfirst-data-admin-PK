@@ -1,0 +1,78 @@
+{
+  "id": 1343282141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.18612,35.23181,76.18612,35.23181",
+    "geom:latitude":35.23181,
+    "geom:longitude":76.18612,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ongbo Thang Bulghar",
+    "gn:country_code":"PK",
+    "gn:dem":2469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088151,
+    "gn:latitude":35.23181,
+    "gn:longitude":76.18612,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ongbo Thang Bulghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088151
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"567502b5984cee7456b1612fb4d1d758",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1343282141,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1343282141,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343282141,
+    "wof:lastmodified":1537002899,
+    "wof:name":"Ongbo Thang Bulghar",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.18611999999997,
+    35.23181,
+    76.18611999999997,
+    35.23181
+],
+  "geometry": {"coordinates":[76.18611999999997,35.23181],"type":"Point"}
+}

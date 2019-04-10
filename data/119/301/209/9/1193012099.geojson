@@ -1,0 +1,89 @@
+{
+  "id": 1193012099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89689,36.11694,72.89689,36.11694",
+    "geom:latitude":36.11694,
+    "geom:longitude":72.89689,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Serbalo Ghari",
+    "gn:country_code":"PK",
+    "gn:dem":3437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7457816,
+    "gn:latitude":36.11694,
+    "gn:longitude":72.89689,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Serbalo Ghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Serbalo Gh\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7457816
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"06be24867749bbb3068f5ce24e3869af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1193012099,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1193012099,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1193012099,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193012099,
+    "wof:lastmodified":1537681923,
+    "wof:name":"Serbalo Ghari",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89689,
+    36.11694,
+    72.89689,
+    36.11694
+],
+  "geometry": {"coordinates":[72.89689,36.11694],"type":"Point"}
+}

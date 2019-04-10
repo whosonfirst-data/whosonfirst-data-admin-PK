@@ -1,0 +1,78 @@
+{
+  "id": 1209807383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.74502,34.34446,73.74502,34.34446",
+    "geom:latitude":34.34446,
+    "geom:longitude":73.74502,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Feroz Ban",
+    "gn:country_code":"PK",
+    "gn:dem":2016,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385794,
+    "gn:latitude":34.34446,
+    "gn:longitude":73.74502,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Feroz Ban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385794
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8be7d31dab2e645da6348a1471c654c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1209807383,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1209807383,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209807383,
+    "wof:lastmodified":1536387996,
+    "wof:name":"Feroz Ban",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.74502,
+    34.34446,
+    73.74502,
+    34.34446
+],
+  "geometry": {"coordinates":[73.74502,34.34446],"type":"Point"}
+}

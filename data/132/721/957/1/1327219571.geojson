@@ -1,0 +1,81 @@
+{
+  "id": 1327219571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.85528,35.47628,73.85528,35.47628",
+    "geom:latitude":35.47628,
+    "geom:longitude":73.85528,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khatobat",
+    "gn:country_code":"PK",
+    "gn:dem":1074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427229,
+    "gn:latitude":35.47628,
+    "gn:longitude":73.85528,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Khatobat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khotobut"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427229
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6222018b3db7aed921475ad4f7f713a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327219571,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327219571,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327219571,
+    "wof:lastmodified":1537681910,
+    "wof:name":"Khatobat",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.85528000000002,
+    35.47628,
+    73.85528000000002,
+    35.47628
+],
+  "geometry": {"coordinates":[73.85528000000002,35.47628],"type":"Point"}
+}

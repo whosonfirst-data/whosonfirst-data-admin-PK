@@ -1,0 +1,67 @@
+{
+  "id": 1277082139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.51874,25.64749,65.51874,25.64749",
+    "geom:latitude":25.64749,
+    "geom:longitude":65.51874,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dader",
+    "gn:country_code":"PK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11233028,
+    "gn:latitude":25.64749,
+    "gn:longitude":65.51874,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Dader",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11233028
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6f0eb28f070936b8d67375743f4d5a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1277082139,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1277082139,
+    "wof:lastmodified":1536768897,
+    "wof:name":"Dader",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.51874000000001,
+    25.64749,
+    65.51874000000001,
+    25.64749
+],
+  "geometry": {"coordinates":[65.51874000000001,25.64749],"type":"Point"}
+}

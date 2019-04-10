@@ -1,0 +1,67 @@
+{
+  "id": 1260297635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43928,25.76762,65.43928,25.76762",
+    "geom:latitude":25.76762,
+    "geom:longitude":65.43928,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Daud",
+    "gn:country_code":"PK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341646,
+    "gn:latitude":25.76762,
+    "gn:longitude":65.43928,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Daud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341646
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74b46feb1209918398155dc6e1edd9f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1260297635,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260297635,
+    "wof:lastmodified":1536693092,
+    "wof:name":"Daud",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43928000000001,
+    25.76762,
+    65.43928000000001,
+    25.76762
+],
+  "geometry": {"coordinates":[65.43928000000001,25.76762],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309724497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.9034,25.4529,65.9034,25.4529",
+    "geom:latitude":25.4529,
+    "geom:longitude":65.9034,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Huki",
+    "gn:country_code":"PK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6265573,
+    "gn:latitude":25.4529,
+    "gn:longitude":65.9034,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Huki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6265573
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d1b81650ef33f82f2b10394e540a5e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1309724497,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309724497,
+    "wof:lastmodified":1537046304,
+    "wof:name":"Huki",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.9034,
+    25.4529,
+    65.9034,
+    25.4529
+],
+  "geometry": {"coordinates":[65.9034,25.4529],"type":"Point"}
+}

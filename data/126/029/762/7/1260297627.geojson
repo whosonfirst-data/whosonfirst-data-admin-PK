@@ -1,0 +1,67 @@
+{
+  "id": 1260297627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79788,28.90451,67.79788,28.90451",
+    "geom:latitude":28.90451,
+    "geom:longitude":67.79788,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ganjlu",
+    "gn:country_code":"PK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7346703,
+    "gn:latitude":28.90451,
+    "gn:longitude":67.79788,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Ganjlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7346703
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"372484599e30765766d3f7b9111a2dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692285,
+            "locality_id":1260297627,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260297627,
+    "wof:lastmodified":1536693106,
+    "wof:name":"Ganjlu",
+    "wof:parent_id":1108692285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79788,
+    28.90451,
+    67.79788,
+    28.90451
+],
+  "geometry": {"coordinates":[67.79788000000001,28.90451],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209337473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.67623,32.35248,74.67623,32.35248",
+    "geom:latitude":32.35248,
+    "geom:longitude":74.67623,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jassoran",
+    "gn:country_code":"PK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176062,
+    "gn:latitude":32.35248,
+    "gn:longitude":74.67623,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Jassoran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jasoran",
+        "Jassoran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176062
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cd74a35804edf58dd1f5d9bd6753ca14",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209337473
+        }
+    ],
+    "wof:id":1209337473,
+    "wof:lastmodified":1537679667,
+    "wof:name":"Jassoran",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.67623,
+    32.35248,
+    74.67623,
+    32.35248
+],
+  "geometry": {"coordinates":[74.67623,32.35248],"type":"Point"}
+}

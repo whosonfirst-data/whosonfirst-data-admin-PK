@@ -1,0 +1,86 @@
+{
+  "id": 1243360829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63588,33.83164,73.63588,33.83164",
+    "geom:latitude":33.83164,
+    "geom:longitude":73.63588,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khumni Dhok",
+    "gn:country_code":"PK",
+    "gn:dem":1559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099081,
+    "gn:latitude":33.83164,
+    "gn:longitude":73.63588,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Khumni Dhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099081
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"be5edcb24cc52dbb848cff05164e4275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1243360829,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1243360829,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1243360829,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243360829,
+    "wof:lastmodified":1536929774,
+    "wof:name":"Khumni Dhok",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63588,
+    33.83164,
+    73.63588,
+    33.83164
+],
+  "geometry": {"coordinates":[73.63588,33.83164],"type":"Point"}
+}

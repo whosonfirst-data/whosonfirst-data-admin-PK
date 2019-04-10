@@ -1,0 +1,67 @@
+{
+  "id": 1260292621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.3149,27.4932,65.3149,27.4932",
+    "geom:latitude":27.4932,
+    "geom:longitude":65.3149,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garari",
+    "gn:country_code":"PK",
+    "gn:dem":1484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7578757,
+    "gn:latitude":27.4932,
+    "gn:longitude":65.3149,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Garari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7578757
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"052e6674172685926ec69a2b02574e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1260292621,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260292621,
+    "wof:lastmodified":1536699858,
+    "wof:name":"Garari",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.3149,
+    27.4932,
+    65.3149,
+    27.4932
+],
+  "geometry": {"coordinates":[65.31489999999999,27.4932],"type":"Point"}
+}

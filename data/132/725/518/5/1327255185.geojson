@@ -1,0 +1,78 @@
+{
+  "id": 1327255185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.99805,32.98935,73.99805,32.98935",
+    "geom:latitude":32.98935,
+    "geom:longitude":73.99805,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tatakh",
+    "gn:country_code":"PK",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371477,
+    "gn:latitude":32.98935,
+    "gn:longitude":73.99805,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tatakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371477
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"42cb9d9a255d8a8d9f93c3b67b50a9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327255185,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327255185,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327255185,
+    "wof:lastmodified":1536937493,
+    "wof:name":"Tatakh",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.99805,
+    32.98935,
+    73.99805,
+    32.98935
+],
+  "geometry": {"coordinates":[73.99805000000001,32.98935],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276340293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05066,30.41166,71.05066,30.41166",
+    "geom:latitude":30.41166,
+    "geom:longitude":71.05066,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Abbaswala",
+    "gn:country_code":"PK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368055,
+    "gn:latitude":30.41166,
+    "gn:longitude":71.05066,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Abbaswala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368055
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c1f243728e35a320f87ceca6bf1620dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1276340293,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276340293,
+    "wof:lastmodified":1536769602,
+    "wof:name":"Abbaswala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05066,
+    30.41166,
+    71.05066,
+    30.41166
+],
+  "geometry": {"coordinates":[71.05065999999999,30.41166],"type":"Point"}
+}

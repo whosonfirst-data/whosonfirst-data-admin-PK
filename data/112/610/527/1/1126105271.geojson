@@ -1,0 +1,103 @@
+{
+  "id": 1126105271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3276,31.5764,74.3276,31.5764",
+    "geom:latitude":31.5764,
+    "geom:longitude":74.3276,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":31.5764,
+    "gn:longitude":74.3276,
+    "iso:country":"PK",
+    "lbl:latitude":31.5764,
+    "lbl:longitude":74.3276,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Ramgali"
+    ],
+    "name:eng_x_variant":[
+        "R\u0101mgali"
+    ],
+    "name:unk_x_variant":[
+        "Ramgali"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":1167247,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ramgali",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Punjab",
+    "qs_pg:photos":1577,
+    "qs_pg:photos_1k":320,
+    "qs_pg:photos_9k":7,
+    "qs_pg:photos_9r":8,
+    "qs_pg:photos_all":1577,
+    "qs_pg:photos_sr":13,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1117331,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2206402,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Punjab",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675753,
+        102191569,
+        85632659,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167247,
+        "gp:id":2206402,
+        "qs:id":1117331,
+        "qs_pg:id":1117331
+    },
+    "wof:country":"PK",
+    "wof:created":1497316814,
+    "wof:geomhash":"d2ae842e481b358d23aa618f61cbf783",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":-1,
+            "neighbourhood_id":1126105271,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1126105271,
+    "wof:lastmodified":1534379407,
+    "wof:name":"Ramgali",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85903705
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3276,
+    31.5764,
+    74.3276,
+    31.5764
+],
+  "geometry": {"coordinates":[74.3276,31.5764],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293201707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0533,34.23945,73.0533,34.23945",
+    "geom:latitude":34.23945,
+    "geom:longitude":73.0533,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kharpar",
+    "gn:country_code":"PK",
+    "gn:dem":917,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174006,
+    "gn:latitude":34.23945,
+    "gn:longitude":73.0533,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kharpar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kharbar",
+        "Kharper",
+        "Kharpar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174006
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"818d6cc4a86accf5d9ce264706207d48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1293201707,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293201707,
+    "wof:lastmodified":1537679593,
+    "wof:name":"Kharpar",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0533,
+    34.23945,
+    73.0533,
+    34.23945
+],
+  "geometry": {"coordinates":[73.05329999999999,34.23945],"type":"Point"}
+}

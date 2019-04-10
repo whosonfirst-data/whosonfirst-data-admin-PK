@@ -1,0 +1,67 @@
+{
+  "id": 1260086871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22824,35.46914,73.22824,35.46914",
+    "geom:latitude":35.46914,
+    "geom:longitude":73.22824,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Siritu",
+    "gn:country_code":"PK",
+    "gn:dem":1448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999868,
+    "gn:latitude":35.46914,
+    "gn:longitude":73.22824,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Siritu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999868
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"834c42038c57a30cff5cdea5f11fdced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1260086871,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260086871,
+    "wof:lastmodified":1536982348,
+    "wof:name":"Siritu",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22824,
+    35.46914,
+    73.22824,
+    35.46914
+],
+  "geometry": {"coordinates":[73.22824,35.46914],"type":"Point"}
+}

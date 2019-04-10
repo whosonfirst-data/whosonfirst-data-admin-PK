@@ -1,0 +1,65 @@
+{
+  "id": 1209105831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.72372,31.07186,70.72372,31.07186",
+    "geom:latitude":31.07186,
+    "geom:longitude":70.72372,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Panjgrain",
+    "gn:country_code":"PK",
+    "gn:dem":156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419190,
+    "gn:latitude":31.07186,
+    "gn:longitude":70.72372,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Panjgrain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panjgrahin",
+        "Panjgrain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419190
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a70c9da09e7e74c433c07d9ffb48f30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209105831
+        }
+    ],
+    "wof:id":1209105831,
+    "wof:lastmodified":1537681439,
+    "wof:name":"Panjgrain",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.72372,
+    31.07186,
+    70.72372,
+    31.07186
+],
+  "geometry": {"coordinates":[70.72372,31.07186],"type":"Point"}
+}

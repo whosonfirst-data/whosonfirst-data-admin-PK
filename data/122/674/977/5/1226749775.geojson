@@ -1,0 +1,67 @@
+{
+  "id": 1226749775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8271,28.6117,67.8271,28.6117",
+    "geom:latitude":28.6117,
+    "geom:longitude":67.8271,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Halal",
+    "gn:country_code":"PK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068641,
+    "gn:latitude":28.6117,
+    "gn:longitude":67.8271,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Halal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068641
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca5df209435453389402b9fe693e75be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1226749775,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226749775,
+    "wof:lastmodified":1536710012,
+    "wof:name":"Halal",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8271,
+    28.6117,
+    67.8271,
+    28.6117
+],
+  "geometry": {"coordinates":[67.8271,28.6117],"type":"Point"}
+}

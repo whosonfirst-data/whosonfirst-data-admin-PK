@@ -1,0 +1,67 @@
+{
+  "id": 1226165933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.4,31.0,74.4,31.0",
+    "geom:latitude":31.0,
+    "geom:longitude":74.4,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bagge",
+    "gn:country_code":"PK",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183999,
+    "gn:latitude":31.0,
+    "gn:longitude":74.4,
+    "gn:modification_date":"1995-10-20",
+    "gn:name":"Bagge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183999
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7fa99ad5e6ce5a990f8deb4a3a02d30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1226165933,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226165933,
+    "wof:lastmodified":1537046667,
+    "wof:name":"Bagge",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.4,
+    31.0,
+    74.4,
+    31.0
+],
+  "geometry": {"coordinates":[74.40000000000001,31.0],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293493015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.68333,30.65,70.68333,30.65",
+    "geom:latitude":30.65,
+    "geom:longitude":70.68333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jhangar",
+    "gn:country_code":"PK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175912,
+    "gn:latitude":30.65,
+    "gn:longitude":70.68333,
+    "gn:modification_date":"1997-05-14",
+    "gn:name":"Jhangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175912
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b643f74b12d519eea281eb547808885f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1293493015,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293493015,
+    "wof:lastmodified":1536779564,
+    "wof:name":"Jhangar",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.68333,
+    30.65,
+    70.68333,
+    30.65
+],
+  "geometry": {"coordinates":[70.68333,30.65],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243195549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.84355,29.52576,71.84355,29.52576",
+    "geom:latitude":29.52576,
+    "geom:longitude":71.84355,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ain Wahan",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418012,
+    "gn:latitude":29.52576,
+    "gn:longitude":71.84355,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ain Wahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418012
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"64c582f40fb6cb507c4d2e1afbe13a72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1243195549,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243195549,
+    "wof:lastmodified":1536670235,
+    "wof:name":"Ain Wahan",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.84355,
+    29.52576,
+    71.84355,
+    29.52576
+],
+  "geometry": {"coordinates":[71.84354999999999,29.52576],"type":"Point"}
+}

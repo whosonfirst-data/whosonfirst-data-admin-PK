@@ -1,0 +1,67 @@
+{
+  "id": 1309719805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87334,29.15032,67.87334,29.15032",
+    "geom:latitude":29.15032,
+    "geom:longitude":67.87334,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Baran",
+    "gn:country_code":"PK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183394,
+    "gn:latitude":29.15032,
+    "gn:longitude":67.87334,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Baran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183394
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bdbb717c8c5ca8763eaaa990a8864c7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1309719805,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309719805,
+    "wof:lastmodified":1537052753,
+    "wof:name":"Baran",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87334,
+    29.15032,
+    67.87334,
+    29.15032
+],
+  "geometry": {"coordinates":[67.87334,29.15032],"type":"Point"}
+}

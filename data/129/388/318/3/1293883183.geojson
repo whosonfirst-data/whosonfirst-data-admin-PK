@@ -1,0 +1,67 @@
+{
+  "id": 1293883183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.31291,32.2589,75.31291,32.2589",
+    "geom:latitude":32.2589,
+    "geom:longitude":75.31291,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ikhlaspur",
+    "gn:country_code":"PK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176707,
+    "gn:latitude":32.2589,
+    "gn:longitude":75.31291,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ikhlaspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176707
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e9e219a610566b031241380866e62ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1293883183,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293883183,
+    "wof:lastmodified":1536714137,
+    "wof:name":"Ikhlaspur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.31291,
+    32.2589,
+    75.31291,
+    32.2589
+],
+  "geometry": {"coordinates":[75.31291,32.2589],"type":"Point"}
+}

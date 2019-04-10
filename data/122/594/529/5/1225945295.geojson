@@ -1,0 +1,67 @@
+{
+  "id": 1225945295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.62744,33.89683,72.62744,33.89683",
+    "geom:latitude":33.89683,
+    "geom:longitude":72.62744,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bhal",
+    "gn:country_code":"PK",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339514,
+    "gn:latitude":33.89683,
+    "gn:longitude":72.62744,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339514
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a6dada674ec7ebe912e3405a5a5c34ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1225945295,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945295,
+    "wof:lastmodified":1543515672,
+    "wof:name":"Bhal",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.62744,
+    33.89683,
+    72.62744,
+    33.89683
+],
+  "geometry": {"coordinates":[72.62744000000001,33.89683],"type":"Point"}
+}

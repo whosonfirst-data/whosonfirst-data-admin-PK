@@ -1,0 +1,67 @@
+{
+  "id": 1343561969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71324,33.0485,70.71324,33.0485",
+    "geom:latitude":33.0485,
+    "geom:longitude":70.71324,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khalboi",
+    "gn:country_code":"PK",
+    "gn:dem":389,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335846,
+    "gn:latitude":33.0485,
+    "gn:longitude":70.71324,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Khalboi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335846
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a8c3dc25ced1873f3479ef2e7a4fedb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692173,
+            "locality_id":1343561969,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343561969,
+    "wof:lastmodified":1537094093,
+    "wof:name":"Khalboi",
+    "wof:parent_id":1108692173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71324,
+    33.0485,
+    70.71324,
+    33.0485
+],
+  "geometry": {"coordinates":[70.71324,33.0485],"type":"Point"}
+}

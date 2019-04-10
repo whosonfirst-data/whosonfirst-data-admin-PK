@@ -1,0 +1,94 @@
+{
+  "id": 1125764521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01928,33.42985,72.01928,33.42985",
+    "geom:latitude":33.42985,
+    "geom:longitude":72.01928,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18170,
+    "gn:population":18170,
+    "iso:country":"PK",
+    "lbl:latitude":33.42985,
+    "lbl:longitude":72.01928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Jand"
+    ],
+    "name:eng_x_preferred":[
+        "Jand"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062c\u0646\u0688"
+    ],
+    "name:por_x_preferred":[
+        "Jand"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0646\u062f\u060c \u0627\u062a\u0648\u06a9\u06a9"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1176218,
+    "qs_pg:gn_pop":18170,
+    "qs_pg:name":"Jand",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1029995,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176218,
+        "qs_pg:id":1029995,
+        "wd:id":"Q3694673"
+    },
+    "wof:country":"PK",
+    "wof:created":1497289801,
+    "wof:geomhash":"3d24ccfce2c56929185658c533106979",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1125764521,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125764521,
+    "wof:lastmodified":1514496805,
+    "wof:name":"Jand",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:population":18170,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01928,
+    33.42985,
+    72.01928,
+    33.42985
+],
+  "geometry": {"coordinates":[72.01927999999999,33.42985],"type":"Point"}
+}

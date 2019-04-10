@@ -1,0 +1,77 @@
+{
+  "id": 1225949801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.92915,30.38356,70.92915,30.38356",
+    "geom:latitude":30.38356,
+    "geom:longitude":70.92915,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ladha Langar",
+    "gn:country_code":"PK",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172509,
+    "gn:latitude":30.38356,
+    "gn:longitude":70.92915,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Ladha Langar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Laddha Langar"
+    ],
+    "name:eng_x_variant":[
+        "Ladha Langhar"
+    ],
+    "name:und_x_variant":[
+        "Ladha Langhar",
+        "Ladha Langar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172509
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f0918fd04899aa6ceefea56e83a9c46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1225949801,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225949801,
+    "wof:lastmodified":1537679538,
+    "wof:name":"Ladha Langar",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.92915,
+    30.38356,
+    70.92915,
+    30.38356
+],
+  "geometry": {"coordinates":[70.92915000000001,30.38356],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242690437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.81848,29.70352,66.81848,29.70352",
+    "geom:latitude":29.70352,
+    "geom:longitude":66.81848,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dasht Ambo",
+    "gn:country_code":"PK",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7326493,
+    "gn:latitude":29.70352,
+    "gn:longitude":66.81848,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Dasht Ambo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7326493
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0e6e44eb92fc95dfeba953c3cb49d28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1242690437,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242690437,
+    "wof:lastmodified":1536901279,
+    "wof:name":"Dasht Ambo",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.81848000000001,
+    29.70352,
+    66.81848000000001,
+    29.70352
+],
+  "geometry": {"coordinates":[66.81848000000001,29.70352],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209107307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94259,35.40928,72.94259,35.40928",
+    "geom:latitude":35.40928,
+    "geom:longitude":72.94259,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gedar",
+    "gn:country_code":"PK",
+    "gn:dem":1999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024086,
+    "gn:latitude":35.40928,
+    "gn:longitude":72.94259,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gedar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024086
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"16544cae4cf893d9c15d5384c355d4e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209107307,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209107307,
+    "wof:lastmodified":1543515457,
+    "wof:name":"Gedar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94259,
+    35.40927999999999,
+    72.94259,
+    35.40927999999999
+],
+  "geometry": {"coordinates":[72.94259,35.40927999999999],"type":"Point"}
+}

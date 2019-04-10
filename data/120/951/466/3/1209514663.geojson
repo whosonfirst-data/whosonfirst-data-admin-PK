@@ -1,0 +1,64 @@
+{
+  "id": 1209514663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38383,31.93219,73.38383,31.93219",
+    "geom:latitude":31.93219,
+    "geom:longitude":73.38383,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hasseki",
+    "gn:country_code":"PK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176745,
+    "gn:latitude":31.93219,
+    "gn:longitude":73.38383,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Hasseki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huseke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176745
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb3f4a4f28456cf9c4f4143fdd620d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209514663
+        }
+    ],
+    "wof:id":1209514663,
+    "wof:lastmodified":1537679692,
+    "wof:name":"Hasseki",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38383,
+    31.93219,
+    73.38383,
+    31.93219
+],
+  "geometry": {"coordinates":[73.38383,31.93219],"type":"Point"}
+}

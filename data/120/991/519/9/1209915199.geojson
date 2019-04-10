@@ -1,0 +1,67 @@
+{
+  "id": 1209915199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.5575,33.00213,70.5575,33.00213",
+    "geom:latitude":33.00213,
+    "geom:longitude":70.5575,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hajigulan",
+    "gn:country_code":"PK",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335755,
+    "gn:latitude":33.00213,
+    "gn:longitude":70.5575,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Hajigulan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335755
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eac4aafc442c2667eb87b572445c4f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1209915199,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209915199,
+    "wof:lastmodified":1543515700,
+    "wof:name":"Hajigulan",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.5575,
+    33.00213,
+    70.5575,
+    33.00213
+],
+  "geometry": {"coordinates":[70.5575,33.00213],"type":"Point"}
+}

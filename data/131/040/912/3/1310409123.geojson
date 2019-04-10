@@ -1,0 +1,71 @@
+{
+  "id": 1310409123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03378,33.66583,71.03378,33.66583",
+    "geom:latitude":33.66583,
+    "geom:longitude":71.03378,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Buda Mela",
+    "gn:country_code":"PK",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446900,
+    "gn:latitude":33.66583,
+    "gn:longitude":71.03378,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Buda Mela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suda Mela",
+        "Buda Mela"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446900
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa34bf38cdc693ccb590211faa5c33f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1310409123,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310409123,
+    "wof:lastmodified":1537681524,
+    "wof:name":"Buda Mela",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03378000000002,
+    33.66583,
+    71.03378000000002,
+    33.66583
+],
+  "geometry": {"coordinates":[71.03378000000002,33.66583],"type":"Point"}
+}

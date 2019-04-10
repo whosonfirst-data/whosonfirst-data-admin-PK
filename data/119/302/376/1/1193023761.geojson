@@ -1,0 +1,67 @@
+{
+  "id": 1193023761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.86667,29.11667,67.86667,29.11667",
+    "geom:latitude":29.11667,
+    "geom:longitude":67.86667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gullan",
+    "gn:country_code":"PK",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177595,
+    "gn:latitude":29.11667,
+    "gn:longitude":67.86667,
+    "gn:modification_date":"1996-05-08",
+    "gn:name":"Gullan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177595
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d29ae1130ff68abe5a4d88e4bb8f2fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1193023761,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193023761,
+    "wof:lastmodified":1536370371,
+    "wof:name":"Gullan",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.86667,
+    29.11667000000001,
+    67.86667,
+    29.11667000000001
+],
+  "geometry": {"coordinates":[67.86667,29.11667000000001],"type":"Point"}
+}

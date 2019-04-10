@@ -1,0 +1,78 @@
+{
+  "id": 1277079913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.30675,32.82741,74.30675,32.82741",
+    "geom:latitude":32.82741,
+    "geom:longitude":74.30675,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhingali Sharif",
+    "gn:country_code":"PK",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960114,
+    "gn:latitude":32.82741,
+    "gn:longitude":74.30675,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bhingali Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960114
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6982c1d58d3cc38d29e53e328d1eea0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277079913,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277079913,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277079913,
+    "wof:lastmodified":1536772223,
+    "wof:name":"Bhingali Sharif",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.30675,
+    32.82741,
+    74.30675,
+    32.82741
+],
+  "geometry": {"coordinates":[74.30674999999999,32.82741],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209614559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.94268,30.28121,70.94268,30.28121",
+    "geom:latitude":30.28121,
+    "geom:longitude":70.94268,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chirewala",
+    "gn:country_code":"PK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392325,
+    "gn:latitude":30.28121,
+    "gn:longitude":70.94268,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Chirewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chirewala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392325
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"be7d34bb953f4e173fc02db7e7346154",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209614559
+        }
+    ],
+    "wof:id":1209614559,
+    "wof:lastmodified":1537681001,
+    "wof:name":"Chirewala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.94268000000002,
+    30.28121,
+    70.94268000000002,
+    30.28121
+],
+  "geometry": {"coordinates":[70.94268000000002,30.28121],"type":"Point"}
+}

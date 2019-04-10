@@ -1,0 +1,67 @@
+{
+  "id": 1343965825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98289,30.70947,66.98289,30.70947",
+    "geom:latitude":30.70947,
+    "geom:longitude":66.98289,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sarkari Tangai",
+    "gn:country_code":"PK",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11083122,
+    "gn:latitude":30.70947,
+    "gn:longitude":66.98289,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Sarkari Tangai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11083122
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bee25fcdb68ac9e1748899c36a0f13c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1343965825,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343965825,
+    "wof:lastmodified":1537011439,
+    "wof:name":"Sarkari Tangai",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98289,
+    30.70947,
+    66.98289,
+    30.70947
+],
+  "geometry": {"coordinates":[66.98289,30.70947],"type":"Point"}
+}

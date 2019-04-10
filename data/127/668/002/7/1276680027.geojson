@@ -1,0 +1,81 @@
+{
+  "id": 1276680027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.80461,33.773,73.80461,33.773",
+    "geom:latitude":33.773,
+    "geom:longitude":73.80461,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Phul Jhari",
+    "gn:country_code":"PK",
+    "gn:dem":1835,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386159,
+    "gn:latitude":33.773,
+    "gn:longitude":73.80461,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Phul Jhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phul Jh\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386159
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dd1fd0151567634269cd77ce19e31cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276680027,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276680027,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276680027,
+    "wof:lastmodified":1537680854,
+    "wof:name":"Phul Jhari",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.80461,
+    33.773,
+    73.80461,
+    33.773
+],
+  "geometry": {"coordinates":[73.80461,33.773],"type":"Point"}
+}

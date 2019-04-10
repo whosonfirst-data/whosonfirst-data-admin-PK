@@ -1,0 +1,70 @@
+{
+  "id": 1209716741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22315,33.88079,73.22315,33.88079",
+    "geom:latitude":33.88079,
+    "geom:longitude":73.22315,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Badala",
+    "gn:country_code":"PK",
+    "gn:dem":1130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7077258,
+    "gn:latitude":33.88079,
+    "gn:longitude":73.22315,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Badala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Badala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7077258
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6ea655c133a8a559e07c0be6c001562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209716741,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716741,
+    "wof:lastmodified":1543515718,
+    "wof:name":"Badala",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22315,
+    33.88079,
+    73.22315,
+    33.88079
+],
+  "geometry": {"coordinates":[73.22315,33.88079],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259805081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1626,33.84995,74.1626,33.84995",
+    "geom:latitude":33.84995,
+    "geom:longitude":74.1626,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mandhar",
+    "gn:country_code":"PK",
+    "gn:dem":1981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415002,
+    "gn:latitude":33.84995,
+    "gn:longitude":74.1626,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mandhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menjah\u0101r",
+        "Mantahar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415002
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"475e92a8cf1489188dc62deb68ea764a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259805081,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259805081,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259805081,
+    "wof:lastmodified":1537681353,
+    "wof:name":"Mandhar",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1626,
+    33.84995,
+    74.1626,
+    33.84995
+],
+  "geometry": {"coordinates":[74.1626,33.84995],"type":"Point"}
+}

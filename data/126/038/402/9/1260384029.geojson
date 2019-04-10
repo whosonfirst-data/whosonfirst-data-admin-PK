@@ -1,0 +1,67 @@
+{
+  "id": 1260384029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5195,25.03839,69.5195,25.03839",
+    "geom:latitude":25.03839,
+    "geom:longitude":69.5195,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Nabisar Road",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169579,
+    "gn:latitude":25.03839,
+    "gn:longitude":69.5195,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Nabisar Road",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169579
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61a22e2e65260014aed65617d318ada8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1260384029,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260384029,
+    "wof:lastmodified":1537071222,
+    "wof:name":"Nabisar Road",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5195,
+    25.03839,
+    69.5195,
+    25.03839
+],
+  "geometry": {"coordinates":[69.51949999999999,25.03839],"type":"Point"}
+}

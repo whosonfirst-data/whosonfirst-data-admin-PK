@@ -1,0 +1,67 @@
+{
+  "id": 1360192465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06258,28.23085,68.06258,28.23085",
+    "geom:latitude":28.23085,
+    "geom:longitude":68.06258,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dadper",
+    "gn:country_code":"PK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11249409,
+    "gn:latitude":28.23085,
+    "gn:longitude":68.06258,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Dadper",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11249409
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"21450b0df1d2653832b286f89b1fe3fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692217,
+            "locality_id":1360192465,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360192465,
+    "wof:lastmodified":1536791077,
+    "wof:name":"Dadper",
+    "wof:parent_id":1108692217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06258000000001,
+    28.23085,
+    68.06258000000001,
+    28.23085
+],
+  "geometry": {"coordinates":[68.06258000000001,28.23085],"type":"Point"}
+}

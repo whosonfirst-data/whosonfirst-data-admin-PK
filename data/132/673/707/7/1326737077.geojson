@@ -1,0 +1,67 @@
+{
+  "id": 1326737077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.75684,35.07599,72.75684,35.07599",
+    "geom:latitude":35.07599,
+    "geom:longitude":72.75684,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ajmer",
+    "gn:country_code":"PK",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377410,
+    "gn:latitude":35.07599,
+    "gn:longitude":72.75684,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ajmer",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377410
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d9134a36c3b99de70e7259216973d95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1326737077,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326737077,
+    "wof:lastmodified":1536688769,
+    "wof:name":"Ajmer",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.75684,
+    35.07599,
+    72.75684,
+    35.07599
+],
+  "geometry": {"coordinates":[72.75684,35.07599],"type":"Point"}
+}

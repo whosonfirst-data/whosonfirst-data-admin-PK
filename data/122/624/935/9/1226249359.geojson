@@ -1,0 +1,67 @@
+{
+  "id": 1226249359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.87468,35.35373,72.87468,35.35373",
+    "geom:latitude":35.35373,
+    "geom:longitude":72.87468,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Brito",
+    "gn:country_code":"PK",
+    "gn:dem":2653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024105,
+    "gn:latitude":35.35373,
+    "gn:longitude":72.87468,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Brito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb9bc0be0be96f01dc66d06952876bef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226249359,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226249359,
+    "wof:lastmodified":1536929081,
+    "wof:name":"Brito",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.87468,
+    35.35373,
+    72.87468,
+    35.35373
+],
+  "geometry": {"coordinates":[72.87468,35.35373],"type":"Point"}
+}

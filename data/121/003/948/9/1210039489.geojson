@@ -1,0 +1,67 @@
+{
+  "id": 1210039489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02978,30.19162,73.02978,30.19162",
+    "geom:latitude":30.19162,
+    "geom:longitude":73.02978,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hayat Colony",
+    "gn:country_code":"PK",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11542493,
+    "gn:latitude":30.19162,
+    "gn:longitude":73.02978,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hayat Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11542493
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5157e7c9011f0995b6add258fcae3df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1210039489,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1210039489,
+    "wof:lastmodified":1536384961,
+    "wof:name":"Hayat Colony",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02978,
+    30.19162,
+    73.02978,
+    30.19162
+],
+  "geometry": {"coordinates":[73.02978,30.19162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259903243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.47084,31.36774,74.47084,31.36774",
+    "geom:latitude":31.36774,
+    "geom:longitude":74.47084,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bohgan",
+    "gn:country_code":"PK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182348,
+    "gn:latitude":31.36774,
+    "gn:longitude":74.47084,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Bohgan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182348
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"744d58f4d0e0f12dbfeea066d14cd507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1259903243,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259903243,
+    "wof:lastmodified":1536750580,
+    "wof:name":"Bohgan",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.47084,
+    31.36774,
+    74.47084,
+    31.36774
+],
+  "geometry": {"coordinates":[74.47084,31.36774],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293305255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.66813,26.57241,65.66813,26.57241",
+    "geom:latitude":26.57241,
+    "geom:longitude":65.66813,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ali",
+    "gn:country_code":"PK",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243347,
+    "gn:latitude":26.57241,
+    "gn:longitude":65.66813,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243347
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b70cc6212151dd912835708cbd9c96d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1293305255,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293305255,
+    "wof:lastmodified":1537047663,
+    "wof:name":"Ali",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.66813,
+    26.57241,
+    65.66813,
+    26.57241
+],
+  "geometry": {"coordinates":[65.66813,26.57241],"type":"Point"}
+}

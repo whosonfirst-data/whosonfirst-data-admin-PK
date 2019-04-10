@@ -1,0 +1,67 @@
+{
+  "id": 1360191387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.81205,34.56308,72.81205,34.56308",
+    "geom:latitude":34.56308,
+    "geom:longitude":72.81205,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamach",
+    "gn:country_code":"PK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175166,
+    "gn:latitude":34.56308,
+    "gn:longitude":72.81205,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Kamach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175166
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"804ceb90bfb197bf4ce692e148e02b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1360191387,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360191387,
+    "wof:lastmodified":1543515249,
+    "wof:name":"Kamach",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.81205,
+    34.56308,
+    72.81205,
+    34.56308
+],
+  "geometry": {"coordinates":[72.81205,34.56308],"type":"Point"}
+}

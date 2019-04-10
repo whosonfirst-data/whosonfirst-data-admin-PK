@@ -1,0 +1,66 @@
+{
+  "id": 1209414709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65708,32.83198,73.65708,32.83198",
+    "geom:latitude":32.83198,
+    "geom:longitude":73.65708,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Bhawal",
+    "gn:country_code":"PK",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168162,
+    "gn:latitude":32.83198,
+    "gn:longitude":73.65708,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bhawal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhalwal",
+        "Phalw\u0101l",
+        "Bhawal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168162
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"718ff4370a1c62e9fa8035ac803b2312",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209414709
+        }
+    ],
+    "wof:id":1209414709,
+    "wof:lastmodified":1537679386,
+    "wof:name":"Bhawal",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65708000000002,
+    32.83198,
+    73.65708000000002,
+    32.83198
+],
+  "geometry": {"coordinates":[73.65708000000002,32.83198],"type":"Point"}
+}

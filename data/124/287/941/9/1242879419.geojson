@@ -1,0 +1,67 @@
+{
+  "id": 1242879419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06986,32.1413,73.06986,32.1413",
+    "geom:latitude":32.1413,
+    "geom:longitude":73.06986,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dera Agrana",
+    "gn:country_code":"PK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379874,
+    "gn:latitude":32.1413,
+    "gn:longitude":73.06986,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dera Agrana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379874
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d759c049371ca1a11c2d951068ca13c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1242879419,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242879419,
+    "wof:lastmodified":1536627109,
+    "wof:name":"Dera Agrana",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06985999999998,
+    32.1413,
+    73.06985999999998,
+    32.1413
+],
+  "geometry": {"coordinates":[73.06985999999998,32.1413],"type":"Point"}
+}

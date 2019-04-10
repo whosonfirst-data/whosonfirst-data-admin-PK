@@ -1,0 +1,64 @@
+{
+  "id": 1209246809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23832,29.98091,71.23832,29.98091",
+    "geom:latitude":29.98091,
+    "geom:longitude":71.23832,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Sherpur",
+    "gn:country_code":"PK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388810,
+    "gn:latitude":29.98091,
+    "gn:longitude":71.23832,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Basti Sherpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sherpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388810
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"998388e0fee137759fab5458248cdb1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209246809
+        }
+    ],
+    "wof:id":1209246809,
+    "wof:lastmodified":1537681861,
+    "wof:name":"Basti Sherpur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23832,
+    29.98091,
+    71.23832,
+    29.98091
+],
+  "geometry": {"coordinates":[71.23832,29.98091],"type":"Point"}
+}

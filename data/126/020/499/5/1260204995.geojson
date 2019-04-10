@@ -1,0 +1,86 @@
+{
+  "id": 1260204995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59874,33.76962,73.59874,33.76962",
+    "geom:latitude":33.76962,
+    "geom:longitude":73.59874,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Guthria",
+    "gn:country_code":"PK",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096723,
+    "gn:latitude":33.76962,
+    "gn:longitude":73.59874,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Guthria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096723
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"daad05eef16275bffc2868d6e7c05c6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1260204995,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1260204995,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1260204995,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260204995,
+    "wof:lastmodified":1536817701,
+    "wof:name":"Guthria",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59874,
+    33.76962,
+    73.59874,
+    33.76962
+],
+  "geometry": {"coordinates":[73.59874000000001,33.76962],"type":"Point"}
+}

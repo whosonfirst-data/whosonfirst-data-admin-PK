@@ -1,0 +1,76 @@
+{
+  "id": 1360285097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.52876,29.35986,71.52876,29.35986",
+    "geom:latitude":29.35986,
+    "geom:longitude":71.52876,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sher Girwan",
+    "gn:country_code":"PK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165179,
+    "gn:latitude":29.35986,
+    "gn:longitude":71.52876,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sher Girwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sher Girwan"
+    ],
+    "name:eng_x_variant":[
+        "Sher Garwan"
+    ],
+    "name:und_x_variant":[
+        "Sher Garwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165179
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33259fec96ff138a90ec49773534d293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1360285097,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360285097,
+    "wof:lastmodified":1537679280,
+    "wof:name":"Sher Girwan",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.52875999999998,
+    29.35986,
+    71.52875999999998,
+    29.35986
+],
+  "geometry": {"coordinates":[71.52875999999998,29.35986],"type":"Point"}
+}

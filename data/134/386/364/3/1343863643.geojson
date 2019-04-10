@@ -1,0 +1,67 @@
+{
+  "id": 1343863643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31991,30.88402,70.31991,30.88402",
+    "geom:latitude":30.88402,
+    "geom:longitude":70.31991,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gauri",
+    "gn:country_code":"PK",
+    "gn:dem":582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406906,
+    "gn:latitude":30.88402,
+    "gn:longitude":70.31991,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gauri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b41e895317b02244dc6e4d4296cddc8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1343863643,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343863643,
+    "wof:lastmodified":1536661991,
+    "wof:name":"Gauri",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31991,
+    30.88402,
+    70.31991,
+    30.88402
+],
+  "geometry": {"coordinates":[70.31990999999999,30.88402],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225844341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.55746,32.2795,72.55746,32.2795",
+    "geom:latitude":32.2795,
+    "geom:longitude":72.55746,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tutanwala",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7337258,
+    "gn:latitude":32.2795,
+    "gn:longitude":72.55746,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Tutanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7337258
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c2de2b82fda7254c2db5c02affc68831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1225844341,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225844341,
+    "wof:lastmodified":1537014970,
+    "wof:name":"Tutanwala",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.55745999999998,
+    32.2795,
+    72.55745999999998,
+    32.2795
+],
+  "geometry": {"coordinates":[72.55745999999998,32.2795],"type":"Point"}
+}

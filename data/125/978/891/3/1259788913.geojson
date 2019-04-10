@@ -1,0 +1,67 @@
+{
+  "id": 1259788913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25475,32.0173,74.25475,32.0173",
+    "geom:latitude":32.0173,
+    "geom:longitude":74.25475,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kot Bhuta",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381195,
+    "gn:latitude":32.0173,
+    "gn:longitude":74.25475,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kot Bhuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381195
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d19a7050069f75728105bec700c262d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1259788913,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259788913,
+    "wof:lastmodified":1536915787,
+    "wof:name":"Kot Bhuta",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25475,
+    32.0173,
+    74.25475,
+    32.0173
+],
+  "geometry": {"coordinates":[74.25475,32.0173],"type":"Point"}
+}

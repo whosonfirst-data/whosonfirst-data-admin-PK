@@ -1,0 +1,67 @@
+{
+  "id": 1293595825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24563,34.28268,73.24563,34.28268",
+    "geom:latitude":34.28268,
+    "geom:longitude":73.24563,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hafizabad",
+    "gn:country_code":"PK",
+    "gn:dem":1264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424831,
+    "gn:latitude":34.28268,
+    "gn:longitude":73.24563,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hafizabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424831
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4501d433911e0f31d26eb6f59336b833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1293595825,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293595825,
+    "wof:lastmodified":1536629170,
+    "wof:name":"Hafizabad",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24563,
+    34.28268,
+    73.24563,
+    34.28268
+],
+  "geometry": {"coordinates":[73.24563000000001,34.28268],"type":"Point"}
+}

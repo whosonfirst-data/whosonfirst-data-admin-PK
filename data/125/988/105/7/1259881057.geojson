@@ -1,0 +1,70 @@
+{
+  "id": 1259881057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.18954,34.62557,72.18954,34.62557",
+    "geom:latitude":34.62557,
+    "geom:longitude":72.18954,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kandak",
+    "gn:country_code":"PK",
+    "gn:dem":890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383775,
+    "gn:latitude":34.62557,
+    "gn:longitude":72.18954,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kandak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383775
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1fbcd84846f7f142163490ed8e06d970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1259881057,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259881057,
+    "wof:lastmodified":1537680809,
+    "wof:name":"Kandak",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.18954000000002,
+    34.62557,
+    72.18954000000002,
+    34.62557
+],
+  "geometry": {"coordinates":[72.18954000000002,34.62557],"type":"Point"}
+}

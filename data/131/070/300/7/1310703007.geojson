@@ -1,0 +1,67 @@
+{
+  "id": 1310703007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32747,34.65572,73.32747,34.65572",
+    "geom:latitude":34.65572,
+    "geom:longitude":73.32747,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kund",
+    "gn:country_code":"PK",
+    "gn:dem":3081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406500,
+    "gn:latitude":34.65572,
+    "gn:longitude":73.32747,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406500
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"714209a1f605442b309302f6e79190f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1310703007,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310703007,
+    "wof:lastmodified":1536630323,
+    "wof:name":"Kund",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32746999999998,
+    34.65572,
+    73.32746999999998,
+    34.65572
+],
+  "geometry": {"coordinates":[73.32746999999998,34.65572],"type":"Point"}
+}

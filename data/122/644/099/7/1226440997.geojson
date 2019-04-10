@@ -1,0 +1,67 @@
+{
+  "id": 1226440997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14044,25.44172,70.14044,25.44172",
+    "geom:latitude":25.44172,
+    "geom:longitude":70.14044,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dinor",
+    "gn:country_code":"PK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038846,
+    "gn:latitude":25.44172,
+    "gn:longitude":70.14044,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Dinor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038846
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b59970bd07f8240f5aecc5bd88d76def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1226440997,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226440997,
+    "wof:lastmodified":1536652212,
+    "wof:name":"Dinor",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14044,
+    25.44172,
+    70.14044,
+    25.44172
+],
+  "geometry": {"coordinates":[70.14044,25.44172],"type":"Point"}
+}

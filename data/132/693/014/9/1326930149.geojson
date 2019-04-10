@@ -1,0 +1,67 @@
+{
+  "id": 1326930149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.06507,32.64425,74.06507,32.64425",
+    "geom:latitude":32.64425,
+    "geom:longitude":74.06507,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jora",
+    "gn:country_code":"PK",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412784,
+    "gn:latitude":32.64425,
+    "gn:longitude":74.06507,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Jora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412784
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"98ea00d3c6c2ccfc6bbaa7824bb14c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1326930149,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326930149,
+    "wof:lastmodified":1536908052,
+    "wof:name":"Jora",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.06506999999998,
+    32.64425,
+    74.06506999999998,
+    32.64425
+],
+  "geometry": {"coordinates":[74.06506999999998,32.64425],"type":"Point"}
+}

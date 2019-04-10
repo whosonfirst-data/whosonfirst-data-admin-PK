@@ -1,0 +1,67 @@
+{
+  "id": 1327430929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53487,31.99318,73.53487,31.99318",
+    "geom:latitude":31.99318,
+    "geom:longitude":73.53487,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qila Bakhsha",
+    "gn:country_code":"PK",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329817,
+    "gn:latitude":31.99318,
+    "gn:longitude":73.53487,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Qila Bakhsha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329817
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc474a50902486c39599d75c2e49b796",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1327430929,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327430929,
+    "wof:lastmodified":1536682871,
+    "wof:name":"Qila Bakhsha",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53487,
+    31.99318,
+    73.53487,
+    31.99318
+],
+  "geometry": {"coordinates":[73.53487,31.99318],"type":"Point"}
+}

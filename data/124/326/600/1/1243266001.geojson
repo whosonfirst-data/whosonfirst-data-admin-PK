@@ -1,0 +1,67 @@
+{
+  "id": 1243266001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41389,25.84775,66.41389,25.84775",
+    "geom:latitude":25.84775,
+    "geom:longitude":66.41389,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goth Jamani",
+    "gn:country_code":"PK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11111532,
+    "gn:latitude":25.84775,
+    "gn:longitude":66.41389,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Goth Jamani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11111532
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d6298d5f4a73261794a711b9f230bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1243266001,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243266001,
+    "wof:lastmodified":1537062857,
+    "wof:name":"Goth Jamani",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41389000000001,
+    25.84775,
+    66.41389000000001,
+    25.84775
+],
+  "geometry": {"coordinates":[66.41389000000001,25.84775],"type":"Point"}
+}

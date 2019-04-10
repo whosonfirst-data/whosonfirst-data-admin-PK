@@ -1,0 +1,87 @@
+{
+  "id": 1259582887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.68247,32.66571,74.68247,32.66571",
+    "geom:latitude":32.66571,
+    "geom:longitude":74.68247,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Marwal",
+    "gn:country_code":"PK",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1371892,
+    "gn:latitude":32.66571,
+    "gn:longitude":74.68247,
+    "gn:modification_date":"2001-09-27",
+    "gn:name":"Marwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381,
+        85672137,
+        85632427,
+        1108695733,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371892
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e3ebd1073d45e62e9014e4b2a7b5164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1259582887,
+            "region_id":85675753
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695733,
+            "disputed_id":85632427,
+            "locality_id":1259582887,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695733,
+            "disputed_id":85632427,
+            "locality_id":1259582887,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1259582887,
+    "wof:lastmodified":1536716031,
+    "wof:name":"Marwal",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.68247,
+    32.66571,
+    74.68247,
+    32.66571
+],
+  "geometry": {"coordinates":[74.68247,32.66571],"type":"Point"}
+}

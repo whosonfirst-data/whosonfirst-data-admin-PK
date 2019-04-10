@@ -1,0 +1,67 @@
+{
+  "id": 1276131203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.2808,31.16476,69.2808,31.16476",
+    "geom:latitude":31.16476,
+    "geom:longitude":69.2808,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Madresa",
+    "gn:country_code":"PK",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305561,
+    "gn:latitude":31.16476,
+    "gn:longitude":69.2808,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Madresa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305561
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9c8023a37810476e2d854f7d034fc42c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1276131203,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276131203,
+    "wof:lastmodified":1537047404,
+    "wof:name":"Madresa",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.2808,
+    31.16476,
+    69.2808,
+    31.16476
+],
+  "geometry": {"coordinates":[69.2808,31.16476],"type":"Point"}
+}

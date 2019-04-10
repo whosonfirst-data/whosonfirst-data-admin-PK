@@ -1,0 +1,67 @@
+{
+  "id": 1242678561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61363,34.70603,72.61363,34.70603",
+    "geom:latitude":34.70603,
+    "geom:longitude":72.61363,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Naradar",
+    "gn:country_code":"PK",
+    "gn:dem":1178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390736,
+    "gn:latitude":34.70603,
+    "gn:longitude":72.61363,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Naradar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390736
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b3dd74fdb23851f4d21e595437a879a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1242678561,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242678561,
+    "wof:lastmodified":1536918966,
+    "wof:name":"Naradar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61363,
+    34.70603,
+    72.61363,
+    34.70603
+],
+  "geometry": {"coordinates":[72.61363,34.70603],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260179229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8863,34.07102,73.8863,34.07102",
+    "geom:latitude":34.07102,
+    "geom:longitude":73.8863,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Khalana Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415574,
+    "gn:latitude":34.07102,
+    "gn:longitude":73.8863,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khalana Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khali\u0101na Kal\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415574
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"90c610f57ef43cd2f2bca86c1dc50c29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260179229,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260179229,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260179229,
+    "wof:lastmodified":1537681364,
+    "wof:name":"Khalana Bazar",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8863,
+    34.07102,
+    73.8863,
+    34.07102
+],
+  "geometry": {"coordinates":[73.88630000000001,34.07102],"type":"Point"}
+}

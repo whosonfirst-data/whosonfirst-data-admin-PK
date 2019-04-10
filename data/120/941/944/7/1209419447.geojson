@@ -1,0 +1,64 @@
+{
+  "id": 1209419447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33911,24.55501,68.33911,24.55501",
+    "geom:latitude":24.55501,
+    "geom:longitude":68.33911,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kahad",
+    "gn:country_code":"PK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7380499,
+    "gn:latitude":24.55501,
+    "gn:longitude":68.33911,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Kahad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kahad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7380499
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5886573c50bc04c206d0a63c889ed8eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209419447
+        }
+    ],
+    "wof:id":1209419447,
+    "wof:lastmodified":1537681844,
+    "wof:name":"Kahad",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33910999999999,
+    24.55501,
+    68.33910999999999,
+    24.55501
+],
+  "geometry": {"coordinates":[68.33910999999999,24.55501],"type":"Point"}
+}

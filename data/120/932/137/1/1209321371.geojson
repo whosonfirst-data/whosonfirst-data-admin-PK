@@ -1,0 +1,74 @@
+{
+  "id": 1209321371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.68797,34.31591,71.68797,34.31591",
+    "geom:latitude":34.31591,
+    "geom:longitude":71.68797,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saugia",
+    "gn:country_code":"PK",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335565,
+    "gn:latitude":34.31591,
+    "gn:longitude":71.68797,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Saugia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sogia"
+    ],
+    "name:und_x_variant":[
+        "Akbar Kh\u0101n Kor\u016bna",
+        "Saugia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335565
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1c63e5d53b40afd7e628e7370f5c3484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1209321371,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209321371,
+    "wof:lastmodified":1543515510,
+    "wof:name":"Saugia",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.68796999999998,
+    34.31591,
+    71.68796999999998,
+    34.31591
+],
+  "geometry": {"coordinates":[71.68796999999998,34.31591],"type":"Point"}
+}

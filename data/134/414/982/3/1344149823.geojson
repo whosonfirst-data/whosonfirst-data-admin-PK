@@ -1,0 +1,67 @@
+{
+  "id": 1344149823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.525,26.74167,68.525,26.74167",
+    "geom:latitude":26.74167,
+    "geom:longitude":68.525,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kop",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1403677,
+    "gn:latitude":26.74167,
+    "gn:longitude":68.525,
+    "gn:modification_date":"2001-11-13",
+    "gn:name":"Kop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1403677
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf1297c0af502cc816d51f61a9150eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1344149823,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1344149823,
+    "wof:lastmodified":1536746405,
+    "wof:name":"Kop",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.525,
+    26.74167000000001,
+    68.525,
+    26.74167000000001
+],
+  "geometry": {"coordinates":[68.52500000000001,26.74167000000001],"type":"Point"}
+}

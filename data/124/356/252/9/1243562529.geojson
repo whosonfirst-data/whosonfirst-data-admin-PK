@@ -1,0 +1,74 @@
+{
+  "id": 1243562529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.40137,30.92924,66.40137,30.92924",
+    "geom:latitude":30.92924,
+    "geom:longitude":66.40137,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shahbaz Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341808,
+    "gn:latitude":30.92924,
+    "gn:longitude":66.40137,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Shahbaz Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445\u0431\u0430\u0437-\u041a\u0438\u043b\u0438"
+    ],
+    "name:und_x_variant":[
+        "Shakhbaz-Kili",
+        "Shahbaz Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341808
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"98446e66a65455ae025568266933552a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1243562529,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243562529,
+    "wof:lastmodified":1537680195,
+    "wof:name":"Shahbaz Kili",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.40137,
+    30.92924,
+    66.40137,
+    30.92924
+],
+  "geometry": {"coordinates":[66.40137,30.92924],"type":"Point"}
+}

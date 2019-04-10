@@ -1,0 +1,67 @@
+{
+  "id": 1276118951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39878,35.49218,73.39878,35.49218",
+    "geom:latitude":35.49218,
+    "geom:longitude":73.39878,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gosar",
+    "gn:country_code":"PK",
+    "gn:dem":1138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022595,
+    "gn:latitude":35.49218,
+    "gn:longitude":73.39878,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gosar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022595
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7b1ad68fc0166a7c90b311934b228b35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1276118951,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276118951,
+    "wof:lastmodified":1537063085,
+    "wof:name":"Gosar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39878,
+    35.49218,
+    73.39878,
+    35.49218
+],
+  "geometry": {"coordinates":[73.39878,35.49218],"type":"Point"}
+}

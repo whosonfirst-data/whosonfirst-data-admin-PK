@@ -1,0 +1,67 @@
+{
+  "id": 1343493263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.77896,32.00329,74.77896,32.00329",
+    "geom:latitude":32.00329,
+    "geom:longitude":74.77896,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kalas Kotli",
+    "gn:country_code":"PK",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466193,
+    "gn:latitude":32.00329,
+    "gn:longitude":74.77896,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kalas Kotli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"afeef3e8c9e4b202629669fede368c57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1343493263,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343493263,
+    "wof:lastmodified":1536699150,
+    "wof:name":"Kalas Kotli",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.77896,
+    32.00329,
+    74.77896,
+    32.00329
+],
+  "geometry": {"coordinates":[74.77896,32.00329],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1226744687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60751,33.70122,73.60751,33.70122",
+    "geom:latitude":33.70122,
+    "geom:longitude":73.60751,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rasania",
+    "gn:country_code":"PK",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100328,
+    "gn:latitude":33.70122,
+    "gn:longitude":73.60751,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Rasania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101saniati"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100328
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10f514566c2c9121f1df4df7fd58305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1226744687,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226744687,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226744687,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226744687,
+    "wof:lastmodified":1537681691,
+    "wof:name":"Rasania",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60750999999998,
+    33.70122,
+    73.60750999999998,
+    33.70122
+],
+  "geometry": {"coordinates":[73.60750999999998,33.70122],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209916209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.67253,25.88415,62.67253,25.88415",
+    "geom:latitude":25.88415,
+    "geom:longitude":62.67253,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gonjaik",
+    "gn:country_code":"PK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336778,
+    "gn:latitude":25.88415,
+    "gn:longitude":62.67253,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Gonjaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Durund",
+        "Ganjaik",
+        "Gonjaik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336778
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"639e3f52d0d2bf9d536f5856c172c229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1209916209,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209916209,
+    "wof:lastmodified":1537680142,
+    "wof:name":"Gonjaik",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.67253,
+    25.88415,
+    62.67253,
+    25.88415
+],
+  "geometry": {"coordinates":[62.67253,25.88415],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209624307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.38348,32.2925,69.38348,32.2925",
+    "geom:latitude":32.2925,
+    "geom:longitude":69.38348,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Wuchoba",
+    "gn:country_code":"PK",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1348564,
+    "gn:latitude":32.2925,
+    "gn:longitude":69.38348,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Wuchoba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348564
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"03a4861636fa42964bfd2db7d7324cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1209624307,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209624307,
+    "wof:lastmodified":1543515687,
+    "wof:name":"Wuchoba",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.38348,
+    32.2925,
+    69.38348,
+    32.2925
+],
+  "geometry": {"coordinates":[69.38348000000001,32.2925],"type":"Point"}
+}

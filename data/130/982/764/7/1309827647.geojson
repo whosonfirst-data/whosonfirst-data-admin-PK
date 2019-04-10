@@ -1,0 +1,82 @@
+{
+  "id": 1309827647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23056,34.01528,74.23056,34.01528",
+    "geom:latitude":34.01528,
+    "geom:longitude":74.23056,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mohnador",
+    "gn:country_code":"PK",
+    "gn:dem":2939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412468,
+    "gn:latitude":34.01528,
+    "gn:longitude":74.23056,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mohnador",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mohradori",
+        "Mohnador"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412468
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f3cd2180b822f29ec1f1e3e294949d74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1309827647,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1309827647,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309827647,
+    "wof:lastmodified":1537681294,
+    "wof:name":"Mohnador",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23056,
+    34.01528,
+    74.23056,
+    34.01528
+],
+  "geometry": {"coordinates":[74.23056,34.01528],"type":"Point"}
+}

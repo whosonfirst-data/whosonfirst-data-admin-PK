@@ -1,0 +1,78 @@
+{
+  "id": 1260376573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.01863,35.69848,75.01863,35.69848",
+    "geom:latitude":35.69848,
+    "geom:longitude":75.01863,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shunu",
+    "gn:country_code":"PK",
+    "gn:dem":3006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419699,
+    "gn:latitude":35.69848,
+    "gn:longitude":75.01863,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Shunu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419699
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61e062d1bb5b087d29230a5eea2d07c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260376573,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260376573,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260376573,
+    "wof:lastmodified":1537081105,
+    "wof:name":"Shunu",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.01863,
+    35.69848,
+    75.01863,
+    35.69848
+],
+  "geometry": {"coordinates":[75.01863,35.69848],"type":"Point"}
+}

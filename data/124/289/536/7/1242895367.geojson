@@ -1,0 +1,81 @@
+{
+  "id": 1242895367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.72656,34.10438,73.72656,34.10438",
+    "geom:latitude":34.10438,
+    "geom:longitude":73.72656,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Timar Kot",
+    "gn:country_code":"PK",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163342,
+    "gn:latitude":34.10438,
+    "gn:longitude":73.72656,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Timar Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Timarkot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163342
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3cd4133524f0f60c0b367f4a07969ff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1242895367,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1242895367,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242895367,
+    "wof:lastmodified":1537679222,
+    "wof:name":"Timar Kot",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.72655999999998,
+    34.10438,
+    73.72655999999998,
+    34.10438
+],
+  "geometry": {"coordinates":[73.72655999999998,34.10438],"type":"Point"}
+}

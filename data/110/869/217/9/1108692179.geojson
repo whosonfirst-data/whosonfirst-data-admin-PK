@@ -1,0 +1,72 @@
+{
+  "id": 1108692179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.017354,
+    "geom:area_square_m":180716355.714951,
+    "geom:bbox":"70.2772138449,32.5666367105,70.5073190526,32.7470189979",
+    "geom:latitude":32.630765,
+    "geom:longitude":70.385876,
+    "iso:country":"PK",
+    "lbl:latitude":32.62264,
+    "lbl:longitude":70.387619,
+    "meso:admin_1":"Federally Administered Tribal Areas",
+    "meso:diss_me":"FR Lakki MarwatFederally Administered Tribal Areas",
+    "meso:gadm_admin":"F.A.T.A.",
+    "meso:gadm_hasc2":"PK.TA.TA",
+    "meso:gaul_admin":"South Waziristan Agency",
+    "meso:mps_x":70.387619,
+    "meso:mps_y":32.62264,
+    "meso:name_en":"FR Lakki Marwat",
+    "meso:source":"AOTM",
+    "mps:latitude":32.62264,
+    "mps:longitude":70.387619,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_variant":[
+        "South Waziristan Agency",
+        "F.A.T.A."
+    ],
+    "src:geom":"meso",
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "hasc:id":"PK.TA.TA"
+    },
+    "wof:country":"PK",
+    "wof:created":1474319807,
+    "wof:geomhash":"6caae2000795e60c808e6efe72ee87a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692179,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1108692179,
+    "wof:lastmodified":1543515225,
+    "wof:name":"FR Lakki Marwat",
+    "wof:parent_id":1360701001,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:shortcode":"TA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27721384491359,
+    32.56663671048086,
+    70.50731905262599,
+    32.7470189978775
+],
+  "geometry": {"coordinates":[[[70.40144740387383,32.7470189978775],[70.40140238184037,32.73721745114062],[70.40097372361197,32.71733085563719],[70.40604098393653,32.69695778205263],[70.41884675549967,32.67603040550129],[70.42539754521087,32.64855681844165],[70.44075986225511,32.62478389702856],[70.47849251851937,32.62504745408829],[70.50731905262599,32.6268836924518],[70.49559040630308,32.61076515150886],[70.46778084706642,32.57829584322317],[70.44212203943106,32.56663671048086],[70.42306554374174,32.57339477840253],[70.3930913277447,32.57443134694456],[70.35541776160815,32.57366951035371],[70.32727560262387,32.58086057651531],[70.30697875487974,32.59694677722336],[70.27721384491359,32.65776057093616],[70.29287577992488,32.65176534024009],[70.32522779436599,32.64008643705171],[70.34338639465986,32.63829944312919],[70.33782722328255,32.65452886351825],[70.33196884558063,32.68199461727943],[70.34358970938702,32.70066960558088],[70.38111364968525,32.71137659620065],[70.39512690538892,32.73696593032509],[70.39867069729303,32.74581907404571],[70.40144740387383,32.7470189978775]]],"type":"Polygon"}
+}

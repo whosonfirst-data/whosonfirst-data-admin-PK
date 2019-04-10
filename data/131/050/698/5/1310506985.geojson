@@ -1,0 +1,67 @@
+{
+  "id": 1310506985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.48333,30.48333,72.48333,30.48333",
+    "geom:latitude":30.48333,
+    "geom:longitude":72.48333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rampur",
+    "gn:country_code":"PK",
+    "gn:dem":153,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167217,
+    "gn:latitude":30.48333,
+    "gn:longitude":72.48333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"R\u0101mpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167217
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b51af2b97edb7f89cf8f2504de72c2e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":1310506985,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310506985,
+    "wof:lastmodified":1536915207,
+    "wof:name":"Rampur",
+    "wof:parent_id":1108692363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.48333000000002,
+    30.48333,
+    72.48333000000002,
+    30.48333
+],
+  "geometry": {"coordinates":[72.48333000000002,30.48333],"type":"Point"}
+}

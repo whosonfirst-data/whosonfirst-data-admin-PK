@@ -1,0 +1,67 @@
+{
+  "id": 1259871541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61104,33.04993,73.61104,33.04993",
+    "geom:latitude":33.04993,
+    "geom:longitude":73.61104,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"New Jhang",
+    "gn:country_code":"PK",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068732,
+    "gn:latitude":33.04993,
+    "gn:longitude":73.61104,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"New Jhang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068732
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"64d785490cb24d7c0151d2aaea860a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1259871541,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259871541,
+    "wof:lastmodified":1536796646,
+    "wof:name":"New Jhang",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61104,
+    33.04993,
+    73.61104,
+    33.04993
+],
+  "geometry": {"coordinates":[73.61104,33.04993],"type":"Point"}
+}

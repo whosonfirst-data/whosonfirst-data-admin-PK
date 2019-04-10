@@ -1,0 +1,67 @@
+{
+  "id": 1360089283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11775,27.68597,69.11775,27.68597",
+    "geom:latitude":27.68597,
+    "geom:longitude":69.11775,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ali Sher",
+    "gn:country_code":"PK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372877,
+    "gn:latitude":27.68597,
+    "gn:longitude":69.11775,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Ali Sher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372877
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5a3d44bc4176ca35b26b53fd6b35d522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1360089283,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1360089283,
+    "wof:lastmodified":1536940271,
+    "wof:name":"Ali Sher",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11775,
+    27.68597,
+    69.11775,
+    27.68597
+],
+  "geometry": {"coordinates":[69.11775,27.68597],"type":"Point"}
+}

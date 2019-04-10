@@ -1,0 +1,86 @@
+{
+  "id": 1327219579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65715,36.14364,72.65715,36.14364",
+    "geom:latitude":36.14364,
+    "geom:longitude":72.65715,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kolipher",
+    "gn:country_code":"PK",
+    "gn:dem":3310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11047436,
+    "gn:latitude":36.14364,
+    "gn:longitude":72.65715,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Kolipher",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11047436
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"974014162ba00d33a38fa1434a3ba67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1327219579,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1327219579,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1327219579,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327219579,
+    "wof:lastmodified":1536987367,
+    "wof:name":"Kolipher",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65715,
+    36.14364000000001,
+    72.65715,
+    36.14364000000001
+],
+  "geometry": {"coordinates":[72.65715,36.14364000000001],"type":"Point"}
+}

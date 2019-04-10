@@ -1,0 +1,64 @@
+{
+  "id": 1209213123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00413,24.75278,69.00413,24.75278",
+    "geom:latitude":24.75278,
+    "geom:longitude":69.00413,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Goth Trebal",
+    "gn:country_code":"PK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1384183,
+    "gn:latitude":24.75278,
+    "gn:longitude":69.00413,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Goth Trebal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goth Theba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1384183
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"630335d16a3d9ace766e4007b3140c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209213123
+        }
+    ],
+    "wof:id":1209213123,
+    "wof:lastmodified":1537680819,
+    "wof:name":"Goth Trebal",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00413,
+    24.75278,
+    69.00413,
+    24.75278
+],
+  "geometry": {"coordinates":[69.00413,24.75278],"type":"Point"}
+}

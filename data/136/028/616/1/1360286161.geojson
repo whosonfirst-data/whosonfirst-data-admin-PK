@@ -1,0 +1,67 @@
+{
+  "id": 1360286161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15861,34.67508,73.15861,34.67508",
+    "geom:latitude":34.67508,
+    "geom:longitude":73.15861,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Shir",
+    "gn:country_code":"PK",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389835,
+    "gn:latitude":34.67508,
+    "gn:longitude":73.15861,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Shir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389835
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"55b12e995f0164c7b66d2acadfe21cf0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1360286161,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360286161,
+    "wof:lastmodified":1543515319,
+    "wof:name":"Shir",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15861,
+    34.67508,
+    73.15861,
+    34.67508
+],
+  "geometry": {"coordinates":[73.15861,34.67508],"type":"Point"}
+}

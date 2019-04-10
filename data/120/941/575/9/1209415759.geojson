@@ -1,0 +1,67 @@
+{
+  "id": 1209415759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61751,32.31044,70.61751,32.31044",
+    "geom:latitude":32.31044,
+    "geom:longitude":70.61751,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sher Ali",
+    "gn:country_code":"PK",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165207,
+    "gn:latitude":32.31044,
+    "gn:longitude":70.61751,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Sher Ali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165207
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"27a7754aeb7b45721cbcd1d66a51a090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692407,
+            "locality_id":1209415759,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209415759,
+    "wof:lastmodified":1543515616,
+    "wof:name":"Sher Ali",
+    "wof:parent_id":1108692407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61751,
+    32.31044,
+    70.61751,
+    32.31044
+],
+  "geometry": {"coordinates":[70.61751,32.31044],"type":"Point"}
+}

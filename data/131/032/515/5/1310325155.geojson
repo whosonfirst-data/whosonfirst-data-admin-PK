@@ -1,0 +1,86 @@
+{
+  "id": 1310325155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7155,36.3027,73.7155,36.3027",
+    "geom:latitude":36.3027,
+    "geom:longitude":73.7155,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dorachhar",
+    "gn:country_code":"PK",
+    "gn:dem":4731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450899,
+    "gn:latitude":36.3027,
+    "gn:longitude":73.7155,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Dorachhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450899
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81787ac2154f7e4aa0f9905dc3eb4827",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1310325155,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1310325155,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1310325155,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310325155,
+    "wof:lastmodified":1536679621,
+    "wof:name":"Dorachhar",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7155,
+    36.3027,
+    73.7155,
+    36.3027
+],
+  "geometry": {"coordinates":[73.71550000000001,36.3027],"type":"Point"}
+}

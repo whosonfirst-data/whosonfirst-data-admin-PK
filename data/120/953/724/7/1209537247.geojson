@@ -1,0 +1,64 @@
+{
+  "id": 1209537247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.02014,32.9542,74.02014,32.9542",
+    "geom:latitude":32.9542,
+    "geom:longitude":74.02014,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jahunja",
+    "gn:country_code":"PK",
+    "gn:dem":332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371583,
+    "gn:latitude":32.9542,
+    "gn:longitude":74.02014,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Jahunja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lhunja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371583
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b0ce2ee05f0ad4f87db38566ceb7169e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209537247
+        }
+    ],
+    "wof:id":1209537247,
+    "wof:lastmodified":1537680590,
+    "wof:name":"Jahunja",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.02014,
+    32.9542,
+    74.02014,
+    32.9542
+],
+  "geometry": {"coordinates":[74.02014,32.9542],"type":"Point"}
+}

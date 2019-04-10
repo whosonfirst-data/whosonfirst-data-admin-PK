@@ -1,0 +1,67 @@
+{
+  "id": 1360097531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.60944,30.21292,67.60944,30.21292",
+    "geom:latitude":30.21292,
+    "geom:longitude":67.60944,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kardhari",
+    "gn:country_code":"PK",
+    "gn:dem":1227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11279224,
+    "gn:latitude":30.21292,
+    "gn:longitude":67.60944,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Kardhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11279224
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58a6c6a61b5bed345e56a36161f7564e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692209,
+            "locality_id":1360097531,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360097531,
+    "wof:lastmodified":1536928354,
+    "wof:name":"Kardhari",
+    "wof:parent_id":1108692209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.60944,
+    30.21292,
+    67.60944,
+    30.21292
+],
+  "geometry": {"coordinates":[67.60944000000001,30.21292],"type":"Point"}
+}

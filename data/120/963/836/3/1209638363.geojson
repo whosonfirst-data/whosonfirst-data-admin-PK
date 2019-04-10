@@ -1,0 +1,64 @@
+{
+  "id": 1209638363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.52641,31.58868,74.52641,31.58868",
+    "geom:latitude":31.58868,
+    "geom:longitude":74.52641,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhamman",
+    "gn:country_code":"PK",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467759,
+    "gn:latitude":31.58868,
+    "gn:longitude":74.52641,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhamman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhamma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467759
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"94a30ac05dc742153592707ae4a6b0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638363
+        }
+    ],
+    "wof:id":1209638363,
+    "wof:lastmodified":1537681932,
+    "wof:name":"Bhamman",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.52641,
+    31.58868,
+    74.52641,
+    31.58868
+],
+  "geometry": {"coordinates":[74.52641,31.58868],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293593613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.81731,27.9364,68.81731,27.9364",
+    "geom:latitude":27.9364,
+    "geom:longitude":68.81731,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Inayat",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1402707,
+    "gn:latitude":27.9364,
+    "gn:longitude":68.81731,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Inayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1402707
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf4c8693ac283480db2345470213d4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692379,
+            "locality_id":1293593613,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293593613,
+    "wof:lastmodified":1536632656,
+    "wof:name":"Inayat",
+    "wof:parent_id":1108692379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.81730999999999,
+    27.9364,
+    68.81730999999999,
+    27.9364
+],
+  "geometry": {"coordinates":[68.81730999999999,27.9364],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209038811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39448,31.85677,72.39448,31.85677",
+    "geom:latitude":31.85677,
+    "geom:longitude":72.39448,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wahduwala",
+    "gn:country_code":"PK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162767,
+    "gn:latitude":31.85677,
+    "gn:longitude":72.39448,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Wahduwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wadhuw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162767
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"38dd933b09ef9e3ea75aeb2aba08df17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209038811
+        }
+    ],
+    "wof:id":1209038811,
+    "wof:lastmodified":1537679204,
+    "wof:name":"Wahduwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39448,
+    31.85677,
+    72.39448,
+    31.85677
+],
+  "geometry": {"coordinates":[72.39448,31.85677],"type":"Point"}
+}

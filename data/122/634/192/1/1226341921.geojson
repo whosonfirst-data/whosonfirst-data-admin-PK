@@ -1,0 +1,67 @@
+{
+  "id": 1226341921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53909,30.57657,73.53909,30.57657",
+    "geom:latitude":30.57657,
+    "geom:longitude":73.53909,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Thatti",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544307,
+    "gn:latitude":30.57657,
+    "gn:longitude":73.53909,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Thatti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544307
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33cca02788078e97cb79b9ad885e75c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1226341921,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226341921,
+    "wof:lastmodified":1536795247,
+    "wof:name":"Thatti",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53909,
+    30.57657,
+    73.53909,
+    30.57657
+],
+  "geometry": {"coordinates":[73.53909,30.57657],"type":"Point"}
+}

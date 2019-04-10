@@ -1,0 +1,67 @@
+{
+  "id": 1259591015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.03628,26.17322,64.03628,26.17322",
+    "geom:latitude":26.17322,
+    "geom:longitude":64.03628,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Balgattar",
+    "gn:country_code":"PK",
+    "gn:dem":634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110054,
+    "gn:latitude":26.17322,
+    "gn:longitude":64.03628,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Balgattar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110054
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e261013b25b46e1b3281ed34187ee8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1259591015,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259591015,
+    "wof:lastmodified":1536704175,
+    "wof:name":"Balgattar",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.03628,
+    26.17322,
+    64.03628,
+    26.17322
+],
+  "geometry": {"coordinates":[64.03628,26.17322],"type":"Point"}
+}

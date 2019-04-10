@@ -1,0 +1,67 @@
+{
+  "id": 1326728675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.70889,28.32258,68.70889,28.32258",
+    "geom:latitude":28.32258,
+    "geom:longitude":68.70889,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khan Kandrani",
+    "gn:country_code":"PK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254881,
+    "gn:latitude":28.32258,
+    "gn:longitude":68.70889,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Khan Kandrani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254881
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c16bf4fd01ee8db1400fe33794cf9b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1326728675,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1326728675,
+    "wof:lastmodified":1536701177,
+    "wof:name":"Khan Kandrani",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.70889,
+    28.32258,
+    68.70889,
+    28.32258
+],
+  "geometry": {"coordinates":[68.70889,28.32258],"type":"Point"}
+}

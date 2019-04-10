@@ -1,0 +1,67 @@
+{
+  "id": 1210017709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93761,34.85907,72.93761,34.85907",
+    "geom:latitude":34.85907,
+    "geom:longitude":72.93761,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tipar",
+    "gn:country_code":"PK",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378138,
+    "gn:latitude":34.85907,
+    "gn:longitude":72.93761,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Tipar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378138
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cdc56b98d478ace4a146c59fa685b9a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1210017709,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017709,
+    "wof:lastmodified":1543515349,
+    "wof:name":"Tipar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93760999999998,
+    34.85907,
+    72.93760999999998,
+    34.85907
+],
+  "geometry": {"coordinates":[72.93760999999998,34.85907],"type":"Point"}
+}

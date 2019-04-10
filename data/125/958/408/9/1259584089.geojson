@@ -1,0 +1,67 @@
+{
+  "id": 1259584089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63082,34.59268,72.63082,34.59268",
+    "geom:latitude":34.59268,
+    "geom:longitude":72.63082,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bilandai",
+    "gn:country_code":"PK",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390650,
+    "gn:latitude":34.59268,
+    "gn:longitude":72.63082,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bilandai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390650
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"005575fbf1c8019d2c943ec1d03c3c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1259584089,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259584089,
+    "wof:lastmodified":1536714279,
+    "wof:name":"Bilandai",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63082,
+    34.59268,
+    72.63082,
+    34.59268
+],
+  "geometry": {"coordinates":[72.63082,34.59268],"type":"Point"}
+}

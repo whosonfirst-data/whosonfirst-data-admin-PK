@@ -1,0 +1,64 @@
+{
+  "id": 1209327145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.35248,30.97294,67.35248,30.97294",
+    "geom:latitude":30.97294,
+    "geom:longitude":67.35248,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sarai",
+    "gn:country_code":"PK",
+    "gn:dem":2461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341925,
+    "gn:latitude":30.97294,
+    "gn:longitude":67.35248,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Sarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sirai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341925
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3676ebeabe6a4b3676335cc96b992fb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209327145
+        }
+    ],
+    "wof:id":1209327145,
+    "wof:lastmodified":1537680201,
+    "wof:name":"Sarai",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.35248,
+    30.97294,
+    67.35248,
+    30.97294
+],
+  "geometry": {"coordinates":[67.35248,30.97294],"type":"Point"}
+}

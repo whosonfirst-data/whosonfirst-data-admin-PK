@@ -1,0 +1,67 @@
+{
+  "id": 1343570205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.5048,33.05113,70.5048,33.05113",
+    "geom:latitude":33.05113,
+    "geom:longitude":70.5048,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Sir Sind",
+    "gn:country_code":"PK",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110197,
+    "gn:latitude":33.05113,
+    "gn:longitude":70.5048,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Sir Sind",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110197
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e52a3d48afe8cfd77645d1eda8e06b89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692173,
+            "locality_id":1343570205,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343570205,
+    "wof:lastmodified":1537082162,
+    "wof:name":"Sir Sind",
+    "wof:parent_id":1108692173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.5048,
+    33.05113,
+    70.5048,
+    33.05113
+],
+  "geometry": {"coordinates":[70.5048,33.05113],"type":"Point"}
+}

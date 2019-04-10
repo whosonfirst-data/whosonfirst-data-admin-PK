@@ -1,0 +1,78 @@
+{
+  "id": 1293314091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60058,33.92125,73.60058,33.92125",
+    "geom:latitude":33.92125,
+    "geom:longitude":73.60058,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Numgala",
+    "gn:country_code":"PK",
+    "gn:dem":657,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986162,
+    "gn:latitude":33.92125,
+    "gn:longitude":73.60058,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Numgala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986162
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e5de7f489fd8c0d774a7813c501e1020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293314091,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293314091,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293314091,
+    "wof:lastmodified":1537035545,
+    "wof:name":"Numgala",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60058000000002,
+    33.92125,
+    73.60058000000002,
+    33.92125
+],
+  "geometry": {"coordinates":[73.60058000000002,33.92125],"type":"Point"}
+}

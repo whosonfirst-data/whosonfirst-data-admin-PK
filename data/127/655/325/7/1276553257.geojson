@@ -1,0 +1,67 @@
+{
+  "id": 1276553257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51439,30.40317,73.51439,30.40317",
+    "geom:latitude":30.40317,
+    "geom:longitude":73.51439,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kanipur",
+    "gn:country_code":"PK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1417090,
+    "gn:latitude":30.40317,
+    "gn:longitude":73.51439,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kanipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1417090
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"326af8beb8c615a02a2ba58107c7cafe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1276553257,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276553257,
+    "wof:lastmodified":1536980620,
+    "wof:name":"Kanipur",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51439,
+    30.40317000000001,
+    73.51439,
+    30.40317000000001
+],
+  "geometry": {"coordinates":[73.51439000000001,30.40317000000001],"type":"Point"}
+}

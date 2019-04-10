@@ -1,0 +1,81 @@
+{
+  "id": 1344254329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7148,34.40397,73.7148,34.40397",
+    "geom:latitude":34.40397,
+    "geom:longitude":73.7148,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nosadda",
+    "gn:country_code":"PK",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385555,
+    "gn:latitude":34.40397,
+    "gn:longitude":73.7148,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Nosadda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nausadda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385555
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4e8d12c5bb49d9ef27a6a09b4bedb376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344254329,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344254329,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344254329,
+    "wof:lastmodified":1537680841,
+    "wof:name":"Nosadda",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7148,
+    34.40397,
+    73.7148,
+    34.40397
+],
+  "geometry": {"coordinates":[73.7148,34.40397],"type":"Point"}
+}

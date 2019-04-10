@@ -1,0 +1,67 @@
+{
+  "id": 1209916211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.54789,28.97658,63.54789,28.97658",
+    "geom:latitude":28.97658,
+    "geom:longitude":63.54789,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Chauk",
+    "gn:country_code":"PK",
+    "gn:dem":887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1374606,
+    "gn:latitude":28.97658,
+    "gn:longitude":63.54789,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Chauk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1374606
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"91ad3f1611e96584a3cc9aa35418340a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692147,
+            "locality_id":1209916211,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209916211,
+    "wof:lastmodified":1536373464,
+    "wof:name":"Chauk",
+    "wof:parent_id":1108692147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.54789,
+    28.97658,
+    63.54789,
+    28.97658
+],
+  "geometry": {"coordinates":[63.54789,28.97658],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243177833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57468,31.68897,72.57468,31.68897",
+    "geom:latitude":31.68897,
+    "geom:longitude":72.57468,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Wijhalke",
+    "gn:country_code":"PK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162422,
+    "gn:latitude":31.68897,
+    "gn:longitude":72.57468,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Wijhalke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162422
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"00f56b9226db097a2678aa50fa79ba99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":1243177833,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243177833,
+    "wof:lastmodified":1536695994,
+    "wof:name":"Wijhalke",
+    "wof:parent_id":1108692155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57468,
+    31.68897,
+    72.57468,
+    31.68897
+],
+  "geometry": {"coordinates":[72.57468,31.68897],"type":"Point"}
+}

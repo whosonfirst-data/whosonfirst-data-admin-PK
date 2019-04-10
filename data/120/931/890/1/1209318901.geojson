@@ -1,0 +1,61 @@
+{
+  "id": 1209318901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.25982,27.97707,69.25982,27.97707",
+    "geom:latitude":27.97707,
+    "geom:longitude":69.25982,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kamil Bahishti",
+    "gn:country_code":"PK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361661,
+    "gn:latitude":27.97707,
+    "gn:longitude":69.25982,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kamil Bahishti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361661
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c9f75aacc0502465e62f78e6d861b0e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209318901
+        }
+    ],
+    "wof:id":1209318901,
+    "wof:lastmodified":1536290766,
+    "wof:name":"Kamil Bahishti",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.25981999999999,
+    27.97707,
+    69.25981999999999,
+    27.97707
+],
+  "geometry": {"coordinates":[69.25981999999999,27.97707],"type":"Point"}
+}

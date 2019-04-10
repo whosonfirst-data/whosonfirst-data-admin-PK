@@ -1,0 +1,67 @@
+{
+  "id": 1310613629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.3938,26.12653,62.3938,26.12653",
+    "geom:latitude":26.12653,
+    "geom:longitude":62.3938,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Phulabad",
+    "gn:country_code":"PK",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168115,
+    "gn:latitude":26.12653,
+    "gn:longitude":62.3938,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Phulabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168115
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57d7c99f3ea191f4d179dbba30ec484e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1310613629,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310613629,
+    "wof:lastmodified":1536761120,
+    "wof:name":"Phulabad",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.3938,
+    26.12653,
+    62.3938,
+    26.12653
+],
+  "geometry": {"coordinates":[62.3938,26.12653],"type":"Point"}
+}

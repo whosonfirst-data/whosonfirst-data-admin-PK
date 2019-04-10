@@ -1,0 +1,67 @@
+{
+  "id": 1209315417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1233,35.08788,72.1233,35.08788",
+    "geom:latitude":35.08788,
+    "geom:longitude":72.1233,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shalgah",
+    "gn:country_code":"PK",
+    "gn:dem":1968,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478062,
+    "gn:latitude":35.08788,
+    "gn:longitude":72.1233,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shalgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478062
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8df222bc32bedf4c15e8f17e338ca1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1209315417,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315417,
+    "wof:lastmodified":1543515560,
+    "wof:name":"Shalgah",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1233,
+    35.08788,
+    72.1233,
+    35.08788
+],
+  "geometry": {"coordinates":[72.1233,35.08788],"type":"Point"}
+}

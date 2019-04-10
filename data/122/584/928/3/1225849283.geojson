@@ -1,0 +1,67 @@
+{
+  "id": 1225849283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.83425,24.78428,69.83425,24.78428",
+    "geom:latitude":24.78428,
+    "geom:longitude":69.83425,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Jakario",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377355,
+    "gn:latitude":24.78428,
+    "gn:longitude":69.83425,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Jakario",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377355
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5006c6768cb51253519a876d82d63faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1225849283,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1225849283,
+    "wof:lastmodified":1537007810,
+    "wof:name":"Jakario",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.83425,
+    24.78428,
+    69.83425,
+    24.78428
+],
+  "geometry": {"coordinates":[69.83425,24.78428],"type":"Point"}
+}

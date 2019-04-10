@@ -1,0 +1,67 @@
+{
+  "id": 1193015581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.84503,33.58509,72.84503,33.58509",
+    "geom:latitude":33.58509,
+    "geom:longitude":72.84503,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghurbal",
+    "gn:country_code":"PK",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339134,
+    "gn:latitude":33.58509,
+    "gn:longitude":72.84503,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ghurbal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339134
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f123a36fd286a8e862b3db19e9444d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1193015581,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193015581,
+    "wof:lastmodified":1536378842,
+    "wof:name":"Ghurbal",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.84503000000002,
+    33.58509,
+    72.84503000000002,
+    33.58509
+],
+  "geometry": {"coordinates":[72.84503000000002,33.58509],"type":"Point"}
+}

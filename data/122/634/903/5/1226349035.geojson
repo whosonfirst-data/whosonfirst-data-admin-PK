@@ -1,0 +1,67 @@
+{
+  "id": 1226349035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3783,34.60282,73.3783,34.60282",
+    "geom:latitude":34.60282,
+    "geom:longitude":73.3783,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mandhari",
+    "gn:country_code":"PK",
+    "gn:dem":1315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994151,
+    "gn:latitude":34.60282,
+    "gn:longitude":73.3783,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Mandhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994151
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"db3547303b182741dcf60a93da75fb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226349035,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226349035,
+    "wof:lastmodified":1536785164,
+    "wof:name":"Mandhari",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3783,
+    34.60282,
+    73.3783,
+    34.60282
+],
+  "geometry": {"coordinates":[73.3783,34.60282],"type":"Point"}
+}

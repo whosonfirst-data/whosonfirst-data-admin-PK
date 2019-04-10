@@ -1,0 +1,67 @@
+{
+  "id": 1293006041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19166,31.49789,72.19166,31.49789",
+    "geom:latitude":31.49789,
+    "geom:longitude":72.19166,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hastewala",
+    "gn:country_code":"PK",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466037,
+    "gn:latitude":31.49789,
+    "gn:longitude":72.19166,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hastewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466037
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1162b4aab1fce6460239e571d258b411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1293006041,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293006041,
+    "wof:lastmodified":1536983290,
+    "wof:name":"Hastewala",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19166,
+    31.49789,
+    72.19166,
+    31.49789
+],
+  "geometry": {"coordinates":[72.19166,31.49789],"type":"Point"}
+}

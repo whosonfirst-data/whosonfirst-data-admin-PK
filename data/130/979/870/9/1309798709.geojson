@@ -1,0 +1,67 @@
+{
+  "id": 1309798709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3208,25.58109,70.3208,25.58109",
+    "geom:latitude":25.58109,
+    "geom:longitude":70.3208,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Berani",
+    "gn:country_code":"PK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039248,
+    "gn:latitude":25.58109,
+    "gn:longitude":70.3208,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Berani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dca6d1ba50cb530d7b0d7fbb32ea0442",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1309798709,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1309798709,
+    "wof:lastmodified":1536941887,
+    "wof:name":"Berani",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3208,
+    25.58109,
+    70.3208,
+    25.58109
+],
+  "geometry": {"coordinates":[70.32080000000001,25.58109],"type":"Point"}
+}

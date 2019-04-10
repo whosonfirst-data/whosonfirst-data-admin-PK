@@ -1,0 +1,67 @@
+{
+  "id": 1259487577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.58738,24.42004,69.58738,24.42004",
+    "geom:latitude":24.42004,
+    "geom:longitude":69.58738,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dugo",
+    "gn:country_code":"PK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497745,
+    "gn:latitude":24.42004,
+    "gn:longitude":69.58738,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dugo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497745
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2caa8639e1b6e71297fd2b44af7e743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1259487577,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259487577,
+    "wof:lastmodified":1536851780,
+    "wof:name":"Dugo",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.58738000000001,
+    24.42004,
+    69.58738000000001,
+    24.42004
+],
+  "geometry": {"coordinates":[69.58738000000001,24.42004],"type":"Point"}
+}

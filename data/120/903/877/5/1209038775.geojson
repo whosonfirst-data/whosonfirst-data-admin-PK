@@ -1,0 +1,64 @@
+{
+  "id": 1209038775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.44093,31.36196,74.44093,31.36196",
+    "geom:latitude":31.36196,
+    "geom:longitude":74.44093,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kuleke",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331619,
+    "gn:latitude":31.36196,
+    "gn:longitude":74.44093,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Kuleke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016blle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7bb832803943cbfa498f06ec16fecaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209038775
+        }
+    ],
+    "wof:id":1209038775,
+    "wof:lastmodified":1537680030,
+    "wof:name":"Kuleke",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.44093000000002,
+    31.36196,
+    74.44093000000002,
+    31.36196
+],
+  "geometry": {"coordinates":[74.44093000000002,31.36196],"type":"Point"}
+}

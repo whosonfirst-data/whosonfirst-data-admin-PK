@@ -1,0 +1,67 @@
+{
+  "id": 1309911317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70142,32.77545,71.70142,32.77545",
+    "geom:latitude":32.77545,
+    "geom:longitude":71.70142,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chilwah",
+    "gn:country_code":"PK",
+    "gn:dem":834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140557,
+    "gn:latitude":32.77545,
+    "gn:longitude":71.70142,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Chilwah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140557
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"591e95d318837c0f681935a1d0002c9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1309911317,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309911317,
+    "wof:lastmodified":1536779466,
+    "wof:name":"Chilwah",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70142,
+    32.77545,
+    71.70142,
+    32.77545
+],
+  "geometry": {"coordinates":[71.70142,32.77545],"type":"Point"}
+}

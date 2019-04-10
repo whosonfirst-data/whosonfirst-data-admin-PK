@@ -1,0 +1,67 @@
+{
+  "id": 1310694353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.86817,27.66645,67.86817,27.66645",
+    "geom:latitude":27.66645,
+    "geom:longitude":67.86817,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dodani",
+    "gn:country_code":"PK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352543,
+    "gn:latitude":27.66645,
+    "gn:longitude":67.86817,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Dodani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352543
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a00e0e5d96e9919441fa433f593e5426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1310694353,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310694353,
+    "wof:lastmodified":1536643847,
+    "wof:name":"Dodani",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.86816999999999,
+    27.66645,
+    67.86816999999999,
+    27.66645
+],
+  "geometry": {"coordinates":[67.86816999999999,27.66645],"type":"Point"}
+}

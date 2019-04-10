@@ -1,0 +1,67 @@
+{
+  "id": 1260086867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07842,34.90968,73.07842,34.90968",
+    "geom:latitude":34.90968,
+    "geom:longitude":73.07842,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Buda",
+    "gn:country_code":"PK",
+    "gn:dem":2421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418395,
+    "gn:latitude":34.90968,
+    "gn:longitude":73.07842,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Buda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"910af063ad51113caa012a24772b98bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1260086867,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260086867,
+    "wof:lastmodified":1536982355,
+    "wof:name":"Buda",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07842,
+    34.90968,
+    73.07842,
+    34.90968
+],
+  "geometry": {"coordinates":[73.07841999999999,34.90968],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310110069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.40233,25.67469,69.40233,25.67469",
+    "geom:latitude":25.67469,
+    "geom:longitude":69.40233,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ali Dati",
+    "gn:country_code":"PK",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11030111,
+    "gn:latitude":25.67469,
+    "gn:longitude":69.40233,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Ali Dati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11030111
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5b625c1d0b3a9670128c625ab6b2052",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1310110069,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310110069,
+    "wof:lastmodified":1536989020,
+    "wof:name":"Ali Dati",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.40233,
+    25.67469,
+    69.40233,
+    25.67469
+],
+  "geometry": {"coordinates":[69.40233000000001,25.67469],"type":"Point"}
+}

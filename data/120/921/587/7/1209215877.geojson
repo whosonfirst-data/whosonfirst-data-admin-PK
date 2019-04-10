@@ -1,0 +1,67 @@
+{
+  "id": 1209215877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89595,34.42428,72.89595,34.42428",
+    "geom:latitude":34.42428,
+    "geom:longitude":72.89595,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Nalbori",
+    "gn:country_code":"PK",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378686,
+    "gn:latitude":34.42428,
+    "gn:longitude":72.89595,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Nalbori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ae410610388a713946e685355fa8e3ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209215877,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215877,
+    "wof:lastmodified":1543515543,
+    "wof:name":"Nalbori",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89595,
+    34.42428,
+    72.89595,
+    34.42428
+],
+  "geometry": {"coordinates":[72.89595,34.42428],"type":"Point"}
+}

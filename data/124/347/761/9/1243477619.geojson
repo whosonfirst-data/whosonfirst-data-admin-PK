@@ -1,0 +1,67 @@
+{
+  "id": 1243477619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38889,32.25832,74.38889,32.25832",
+    "geom:latitude":32.25832,
+    "geom:longitude":74.38889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Maror",
+    "gn:country_code":"PK",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457096,
+    "gn:latitude":32.25832,
+    "gn:longitude":74.38889,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chak Maror",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457096
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3bbaf6c299ef371531722d22db800ba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1243477619,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243477619,
+    "wof:lastmodified":1536760795,
+    "wof:name":"Chak Maror",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38889,
+    32.25832,
+    74.38889,
+    32.25832
+],
+  "geometry": {"coordinates":[74.38889,32.25832],"type":"Point"}
+}

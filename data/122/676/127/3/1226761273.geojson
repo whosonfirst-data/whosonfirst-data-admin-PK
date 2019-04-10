@@ -1,0 +1,67 @@
+{
+  "id": 1226761273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40119,34.19422,71.40119,34.19422",
+    "geom:latitude":34.19422,
+    "geom:longitude":71.40119,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gul Tabar",
+    "gn:country_code":"PK",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9289050,
+    "gn:latitude":34.19422,
+    "gn:longitude":71.40119,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Gul Tabar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9289050
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aad7683c7ce1b61df7ca367d284ee199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1226761273,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226761273,
+    "wof:lastmodified":1536693338,
+    "wof:name":"Gul Tabar",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40119,
+    34.19422,
+    71.40119,
+    34.19422
+],
+  "geometry": {"coordinates":[71.40119,34.19422],"type":"Point"}
+}

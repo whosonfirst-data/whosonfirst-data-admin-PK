@@ -1,0 +1,67 @@
+{
+  "id": 1310212945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.58717,26.66883,65.58717,26.66883",
+    "geom:latitude":26.66883,
+    "geom:longitude":65.58717,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jalonti",
+    "gn:country_code":"PK",
+    "gn:dem":640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243372,
+    "gn:latitude":26.66883,
+    "gn:longitude":65.58717,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Jalonti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243372
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e1865cec2391b8210795b958006e626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1310212945,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310212945,
+    "wof:lastmodified":1536840421,
+    "wof:name":"Jalonti",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.58717,
+    26.66883,
+    65.58717,
+    26.66883
+],
+  "geometry": {"coordinates":[65.58717,26.66883],"type":"Point"}
+}

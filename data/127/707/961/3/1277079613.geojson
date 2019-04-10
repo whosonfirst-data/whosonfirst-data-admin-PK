@@ -1,0 +1,67 @@
+{
+  "id": 1277079613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.16779,32.33998,75.16779,32.33998",
+    "geom:latitude":32.33998,
+    "geom:longitude":75.16779,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jalalpur",
+    "gn:country_code":"PK",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081467,
+    "gn:latitude":32.33998,
+    "gn:longitude":75.16779,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Jalalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081467
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0aa25f55ad0343481398cdcdb003381f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1277079613,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1277079613,
+    "wof:lastmodified":1536772676,
+    "wof:name":"Jalalpur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.16779,
+    32.33998,
+    75.16779,
+    32.33998
+],
+  "geometry": {"coordinates":[75.16779,32.33998],"type":"Point"}
+}

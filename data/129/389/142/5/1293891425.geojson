@@ -1,0 +1,71 @@
+{
+  "id": 1293891425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.3302,25.4208,65.3302,25.4208",
+    "geom:latitude":25.4208,
+    "geom:longitude":65.3302,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Malan",
+    "gn:country_code":"PK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171370,
+    "gn:latitude":25.4208,
+    "gn:longitude":65.3302,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Malan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malan Bandar",
+        "Malan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171370
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d0719ade41dee347670a91f9842741c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1293891425,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293891425,
+    "wof:lastmodified":1537679500,
+    "wof:name":"Malan",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.3302,
+    25.4208,
+    65.3302,
+    25.4208
+],
+  "geometry": {"coordinates":[65.3302,25.4208],"type":"Point"}
+}

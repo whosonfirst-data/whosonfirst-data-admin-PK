@@ -1,0 +1,67 @@
+{
+  "id": 1326524969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.50979,33.18326,73.50979,33.18326",
+    "geom:latitude":33.18326,
+    "geom:longitude":73.50979,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Gurha",
+    "gn:country_code":"PK",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101427,
+    "gn:latitude":33.18326,
+    "gn:longitude":73.50979,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Gurha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101427
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2767b973ecd8c9664afe0a34399aef8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1326524969,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326524969,
+    "wof:lastmodified":1536993746,
+    "wof:name":"Gurha",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.50979,
+    33.18326,
+    73.50979,
+    33.18326
+],
+  "geometry": {"coordinates":[73.50979,33.18326],"type":"Point"}
+}

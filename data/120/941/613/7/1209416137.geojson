@@ -1,0 +1,67 @@
+{
+  "id": 1209416137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10074,34.68987,73.10074,34.68987",
+    "geom:latitude":34.68987,
+    "geom:longitude":73.10074,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Khui",
+    "gn:country_code":"PK",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389864,
+    "gn:latitude":34.68987,
+    "gn:longitude":73.10074,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389864
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4d14283ab2e6b7f6c47560d77113097d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1209416137,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209416137,
+    "wof:lastmodified":1543515619,
+    "wof:name":"Khui",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10074,
+    34.68987,
+    73.10074,
+    34.68987
+],
+  "geometry": {"coordinates":[73.10074,34.68987],"type":"Point"}
+}

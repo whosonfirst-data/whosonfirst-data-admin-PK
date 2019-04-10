@@ -1,0 +1,67 @@
+{
+  "id": 1243171479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.05568,32.31599,75.05568,32.31599",
+    "geom:latitude":32.31599,
+    "geom:longitude":75.05568,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarria",
+    "gn:country_code":"PK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081414,
+    "gn:latitude":32.31599,
+    "gn:longitude":75.05568,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Sarria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081414
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a27e6d5c8e83a1b2b6a3be2fd3d26a16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1243171479,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243171479,
+    "wof:lastmodified":1536705266,
+    "wof:name":"Sarria",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.05568000000002,
+    32.31599,
+    75.05568000000002,
+    32.31599
+],
+  "geometry": {"coordinates":[75.05568000000002,32.31599],"type":"Point"}
+}

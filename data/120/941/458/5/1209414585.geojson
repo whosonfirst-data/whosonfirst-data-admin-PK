@@ -1,0 +1,64 @@
+{
+  "id": 1209414585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37958,29.59162,71.37958,29.59162",
+    "geom:latitude":29.59162,
+    "geom:longitude":71.37958,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bahar",
+    "gn:country_code":"PK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392693,
+    "gn:latitude":29.59162,
+    "gn:longitude":71.37958,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Bahar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392693
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"48ecea0b2a8fa02942a694a1855fc1dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209414585
+        }
+    ],
+    "wof:id":1209414585,
+    "wof:lastmodified":1537681881,
+    "wof:name":"Bahar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37958,
+    29.59162,
+    71.37958,
+    29.59162
+],
+  "geometry": {"coordinates":[71.37958,29.59162],"type":"Point"}
+}

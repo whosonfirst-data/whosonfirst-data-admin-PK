@@ -1,0 +1,81 @@
+{
+  "id": 1209908165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96338,34.18619,73.96338,34.18619",
+    "geom:latitude":34.18619,
+    "geom:longitude":73.96338,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bhurzi",
+    "gn:country_code":"PK",
+    "gn:dem":3011,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415725,
+    "gn:latitude":34.18619,
+    "gn:longitude":73.96338,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bhurzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Burzi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415725
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7579ddff04feaad05204f20d8acf8ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1209908165,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1209908165,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209908165,
+    "wof:lastmodified":1537681368,
+    "wof:name":"Bhurzi",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96338,
+    34.18619,
+    73.96338,
+    34.18619
+],
+  "geometry": {"coordinates":[73.96338,34.18619],"type":"Point"}
+}

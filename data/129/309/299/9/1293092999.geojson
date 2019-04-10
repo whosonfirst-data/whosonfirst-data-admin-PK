@@ -1,0 +1,86 @@
+{
+  "id": 1293092999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87251,33.07498,73.87251,33.07498",
+    "geom:latitude":33.07498,
+    "geom:longitude":73.87251,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Balwara",
+    "gn:country_code":"PK",
+    "gn:dem":272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386446,
+    "gn:latitude":33.07498,
+    "gn:longitude":73.87251,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Balwara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386446
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"470543b3064153c7eef5b430e21bb5b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1293092999,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293092999,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293092999,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293092999,
+    "wof:lastmodified":1536857550,
+    "wof:name":"Balwara",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87250999999998,
+    33.07498,
+    73.87250999999998,
+    33.07498
+],
+  "geometry": {"coordinates":[73.87250999999998,33.07498],"type":"Point"}
+}

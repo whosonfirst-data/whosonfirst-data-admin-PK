@@ -1,0 +1,67 @@
+{
+  "id": 1326529565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.18895,32.15663,75.18895,32.15663",
+    "geom:latitude":32.15663,
+    "geom:longitude":75.18895,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nanowal",
+    "gn:country_code":"PK",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169371,
+    "gn:latitude":32.15663,
+    "gn:longitude":75.18895,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Nanowal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169371
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67554ac2429f6827748c4fcc45628651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1326529565,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326529565,
+    "wof:lastmodified":1536987105,
+    "wof:name":"Nanowal",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.18895,
+    32.15663,
+    75.18895,
+    32.15663
+],
+  "geometry": {"coordinates":[75.18895000000001,32.15663],"type":"Point"}
+}

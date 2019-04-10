@@ -1,0 +1,67 @@
+{
+  "id": 1310515045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09717,31.45441,70.09717,31.45441",
+    "geom:latitude":31.45441,
+    "geom:longitude":70.09717,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pahlwan",
+    "gn:country_code":"PK",
+    "gn:dem":839,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10035191,
+    "gn:latitude":31.45441,
+    "gn:longitude":70.09717,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Pahlwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10035191
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"db46a58d9f77b4d4a9bc23830507e5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692175,
+            "locality_id":1310515045,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310515045,
+    "wof:lastmodified":1536903190,
+    "wof:name":"Pahlwan",
+    "wof:parent_id":1108692175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09716999999999,
+    31.45441,
+    70.09716999999999,
+    31.45441
+],
+  "geometry": {"coordinates":[70.09716999999999,31.45441],"type":"Point"}
+}

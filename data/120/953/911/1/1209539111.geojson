@@ -1,0 +1,64 @@
+{
+  "id": 1209539111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67011,33.15513,72.67011,33.15513",
+    "geom:latitude":33.15513,
+    "geom:longitude":72.67011,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok Gondal",
+    "gn:country_code":"PK",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341482,
+    "gn:latitude":33.15513,
+    "gn:longitude":72.67011,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhok Gondal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dhok Gondal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341482
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d02d95055a8dca15bb3ccbd72031ae1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209539111
+        }
+    ],
+    "wof:id":1209539111,
+    "wof:lastmodified":1537680193,
+    "wof:name":"Dhok Gondal",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67011,
+    33.15513,
+    72.67011,
+    33.15513
+],
+  "geometry": {"coordinates":[72.67010999999999,33.15513],"type":"Point"}
+}

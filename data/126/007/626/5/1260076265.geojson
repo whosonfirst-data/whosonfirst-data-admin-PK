@@ -1,0 +1,78 @@
+{
+  "id": 1260076265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.09389,35.26805,74.09389,35.26805",
+    "geom:latitude":35.26805,
+    "geom:longitude":74.09389,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shishphar",
+    "gn:country_code":"PK",
+    "gn:dem":2297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069267,
+    "gn:latitude":35.26805,
+    "gn:longitude":74.09389,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Shishphar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069267
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3035cd11e2448134c50078a2c8162e56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260076265,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260076265,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260076265,
+    "wof:lastmodified":1536997715,
+    "wof:name":"Shishphar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.09389,
+    35.26805,
+    74.09389,
+    35.26805
+],
+  "geometry": {"coordinates":[74.09389,35.26805],"type":"Point"}
+}

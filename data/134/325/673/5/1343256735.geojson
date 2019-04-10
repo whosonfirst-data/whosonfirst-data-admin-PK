@@ -1,0 +1,81 @@
+{
+  "id": 1343256735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00928,33.31904,74.00928,33.31904",
+    "geom:latitude":33.31904,
+    "geom:longitude":74.00928,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Siliot",
+    "gn:country_code":"PK",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415118,
+    "gn:latitude":33.31904,
+    "gn:longitude":74.00928,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Siliot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415118
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e28bce0db34200077b22eca5ec8d629b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343256735,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343256735,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343256735,
+    "wof:lastmodified":1537681356,
+    "wof:name":"Siliot",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00928,
+    33.31904,
+    74.00928,
+    33.31904
+],
+  "geometry": {"coordinates":[74.00928,33.31904],"type":"Point"}
+}

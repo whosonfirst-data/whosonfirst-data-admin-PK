@@ -1,0 +1,67 @@
+{
+  "id": 1343573709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.76702,26.703,65.76702,26.703",
+    "geom:latitude":26.703,
+    "geom:longitude":65.76702,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Muhammad Ibrahim",
+    "gn:country_code":"PK",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243770,
+    "gn:latitude":26.703,
+    "gn:longitude":65.76702,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Muhammad Ibrahim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243770
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"db829829aef46f7b22c33c47d146479f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1343573709,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343573709,
+    "wof:lastmodified":1537077188,
+    "wof:name":"Muhammad Ibrahim",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.76702,
+    26.70300000000001,
+    65.76702,
+    26.70300000000001
+],
+  "geometry": {"coordinates":[65.76702,26.70300000000001],"type":"Point"}
+}

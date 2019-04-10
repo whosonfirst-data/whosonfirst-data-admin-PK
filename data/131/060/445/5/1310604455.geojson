@@ -1,0 +1,73 @@
+{
+  "id": 1310604455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.10442,33.81925,70.10442,33.81925",
+    "geom:latitude":33.81925,
+    "geom:longitude":70.10442,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jozak Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170273,
+    "gn:latitude":33.81925,
+    "gn:longitude":70.10442,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Jozak Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mirza Khan Kali",
+        "Mirza Kh\u0101n Kili",
+        "Jozak Kalle",
+        "Mirza Khan Kila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170273
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10ff1d38d1de89a45c13458a41512589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1310604455,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310604455,
+    "wof:lastmodified":1537679462,
+    "wof:name":"Jozak Kalle",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.10441999999999,
+    33.81925,
+    70.10441999999999,
+    33.81925
+],
+  "geometry": {"coordinates":[70.10441999999999,33.81925],"type":"Point"}
+}

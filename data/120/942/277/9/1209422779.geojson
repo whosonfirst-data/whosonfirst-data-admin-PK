@@ -1,0 +1,64 @@
+{
+  "id": 1209422779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.1338,28.36754,66.1338,28.36754",
+    "geom:latitude":28.36754,
+    "geom:longitude":66.1338,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mazar Rudini",
+    "gn:country_code":"PK",
+    "gn:dem":1654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1399648,
+    "gn:latitude":28.36754,
+    "gn:longitude":66.1338,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mazar Rudini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maz\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1399648
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6659d73b78cea0a38c6c0580fa8b04d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209422779
+        }
+    ],
+    "wof:id":1209422779,
+    "wof:lastmodified":1537681078,
+    "wof:name":"Mazar Rudini",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.1338,
+    28.36754,
+    66.1338,
+    28.36754
+],
+  "geometry": {"coordinates":[66.13379999999999,28.36754],"type":"Point"}
+}

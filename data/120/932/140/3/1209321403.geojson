@@ -1,0 +1,76 @@
+{
+  "id": 1209321403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.94558,34.31954,71.94558,34.31954",
+    "geom:latitude":34.31954,
+    "geom:longitude":71.94558,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mukhtar",
+    "gn:country_code":"PK",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334313,
+    "gn:latitude":34.31954,
+    "gn:longitude":71.94558,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Mukhtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Saduli\u0101l"
+    ],
+    "name:eng_x_variant":[
+        "Mukht\u0101r"
+    ],
+    "name:und_x_variant":[
+        "Nakhtar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334313
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a8495f11bf3b95cf8282b06dc524444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692299,
+            "locality_id":1209321403,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209321403,
+    "wof:lastmodified":1543515511,
+    "wof:name":"Mukhtar",
+    "wof:parent_id":1108692299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.94558,
+    34.31954,
+    71.94558,
+    34.31954
+],
+  "geometry": {"coordinates":[71.94558000000001,34.31954],"type":"Point"}
+}

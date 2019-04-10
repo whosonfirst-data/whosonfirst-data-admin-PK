@@ -1,0 +1,67 @@
+{
+  "id": 1277108853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.28333,30.25,72.28333,30.25",
+    "geom:latitude":30.25,
+    "geom:longitude":72.28333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Juna",
+    "gn:country_code":"PK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175613,
+    "gn:latitude":30.25,
+    "gn:longitude":72.28333,
+    "gn:modification_date":"1997-05-14",
+    "gn:name":"J\u016bna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175613
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e92210a5a3aea04a160cc03db2bc446d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1277108853,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1277108853,
+    "wof:lastmodified":1536730399,
+    "wof:name":"Juna",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.28333,
+    30.25,
+    72.28333,
+    30.25
+],
+  "geometry": {"coordinates":[72.28333000000001,30.25],"type":"Point"}
+}

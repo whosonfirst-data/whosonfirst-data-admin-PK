@@ -1,0 +1,78 @@
+{
+  "id": 1343783541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9369,33.69411,73.9369,33.69411",
+    "geom:latitude":33.69411,
+    "geom:longitude":73.9369,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bain",
+    "gn:country_code":"PK",
+    "gn:dem":1132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413785,
+    "gn:latitude":33.69411,
+    "gn:longitude":73.9369,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413785
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dae6fb3f3b872f1ee9eec2ae37ebdc7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1343783541,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1343783541,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343783541,
+    "wof:lastmodified":1536778249,
+    "wof:name":"Bain",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9369,
+    33.69410999999999,
+    73.9369,
+    33.69410999999999
+],
+  "geometry": {"coordinates":[73.93689999999999,33.69410999999999],"type":"Point"}
+}

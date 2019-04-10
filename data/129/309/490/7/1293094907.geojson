@@ -1,0 +1,81 @@
+{
+  "id": 1293094907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13162,36.2064,74.13162,36.2064",
+    "geom:latitude":36.2064,
+    "geom:longitude":74.13162,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bashgri",
+    "gn:country_code":"PK",
+    "gn:dem":3096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427861,
+    "gn:latitude":36.2064,
+    "gn:longitude":74.13162,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bashgri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bichgari"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427861
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67263b62846b8eb56534e7529ae51297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293094907,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293094907,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293094907,
+    "wof:lastmodified":1537681913,
+    "wof:name":"Bashgri",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13162,
+    36.2064,
+    74.13162,
+    36.2064
+],
+  "geometry": {"coordinates":[74.13162,36.2064],"type":"Point"}
+}

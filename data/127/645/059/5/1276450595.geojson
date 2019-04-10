@@ -1,0 +1,67 @@
+{
+  "id": 1276450595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28457,30.32309,69.28457,30.32309",
+    "geom:latitude":30.32309,
+    "geom:longitude":69.28457,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gudan",
+    "gn:country_code":"PK",
+    "gn:dem":1170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147480,
+    "gn:latitude":30.32309,
+    "gn:longitude":69.28457,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Gudan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147480
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f1a4504a86d46cda468d5d34d013c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1276450595,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276450595,
+    "wof:lastmodified":1536619337,
+    "wof:name":"Gudan",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28457,
+    30.32309,
+    69.28457,
+    30.32309
+],
+  "geometry": {"coordinates":[69.28457,30.32309],"type":"Point"}
+}

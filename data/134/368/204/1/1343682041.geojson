@@ -1,0 +1,78 @@
+{
+  "id": 1343682041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.25345,35.67708,75.25345,35.67708",
+    "geom:latitude":35.67708,
+    "geom:longitude":75.25345,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chergonma",
+    "gn:country_code":"PK",
+    "gn:dem":3237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070776,
+    "gn:latitude":35.67708,
+    "gn:longitude":75.25345,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Chergonma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070776
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"522bf1bf25ea1509a54714851c9f2104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1343682041,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1343682041,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343682041,
+    "wof:lastmodified":1536924671,
+    "wof:name":"Chergonma",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.25345,
+    35.67708,
+    75.25345,
+    35.67708
+],
+  "geometry": {"coordinates":[75.25345,35.67708],"type":"Point"}
+}

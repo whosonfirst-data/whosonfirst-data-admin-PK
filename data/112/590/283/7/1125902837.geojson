@@ -1,0 +1,78 @@
+{
+  "id": 1125902837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51122,31.86388,73.51122,31.86388",
+    "geom:latitude":31.86388,
+    "geom:longitude":73.51122,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":32836,
+    "gn:population":32836,
+    "iso:country":"PK",
+    "lbl:latitude":31.86388,
+    "lbl:longitude":73.51122,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1164419,
+    "qs_pg:gn_pop":32836,
+    "qs_pg:name":"Sukheke Mandi",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":1029873,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164419,
+        "qs_pg:id":1029873
+    },
+    "wof:country":"PK",
+    "wof:created":1497295877,
+    "wof:geomhash":"cc2757bf8ea21eb04c35dd2e372a3aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1125902837,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125902837,
+    "wof:lastmodified":1509399545,
+    "wof:name":"Sukheke Mandi",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"locality",
+    "wof:population":32836,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51122,
+    31.86388,
+    73.51122,
+    31.86388
+],
+  "geometry": {"coordinates":[73.51121999999999,31.86388],"type":"Point"}
+}

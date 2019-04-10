@@ -1,0 +1,70 @@
+{
+  "id": 1242690429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.29564,25.85228,62.29564,25.85228",
+    "geom:latitude":25.85228,
+    "geom:longitude":62.29564,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Talui",
+    "gn:country_code":"PK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1113531,
+    "gn:latitude":25.85228,
+    "gn:longitude":62.29564,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Talui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuluy"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2a86d3ca0fb631341a927211e770ec6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1242690429,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242690429,
+    "wof:lastmodified":1537679177,
+    "wof:name":"Talui",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.29564,
+    25.85228,
+    62.29564,
+    25.85228
+],
+  "geometry": {"coordinates":[62.29564,25.85228],"type":"Point"}
+}

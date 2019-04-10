@@ -1,0 +1,116 @@
+{
+  "id": 421175495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.07926,32.97568,74.07926,32.97568",
+    "geom:latitude":32.97568,
+    "geom:longitude":74.07926,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:hin_x_preferred":[
+        "\u092d\u0941\u092e\u0930"
+    ],
+    "name:ita_x_preferred":[
+        "Bhimber"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0647\u0645\u0628\u0631"
+    ],
+    "name:unk_x_variant":[
+        "Bhimber"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u06be\u0645\u0628\u0631"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1182637,
+    "qs:gn_pop":342900,
+    "qs:name":"Bhimbar",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Azad Kashmir",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":970610,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":2210830,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":772,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692167,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182637,
+        "gp:id":2210830,
+        "qs:id":970610,
+        "wd:id":"Q3631249",
+        "wk:page":"Bhimber"
+    },
+    "wof:country":"PK",
+    "wof:created":1459009069,
+    "wof:geomhash":"ef691cde778bd003b9e7355797bb7d92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "locality_id":421175495,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":421175495,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":421175495,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":421175495,
+    "wof:lastmodified":1533678757,
+    "wof:name":"Bhimbar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:population":342900,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.07926,
+    32.97568,
+    74.07926,
+    32.97568
+],
+  "geometry": {"coordinates":[74.07926,32.97568],"type":"Point"}
+}

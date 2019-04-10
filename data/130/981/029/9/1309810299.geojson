@@ -1,0 +1,67 @@
+{
+  "id": 1309810299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.04406,33.20384,71.04406,33.20384",
+    "geom:latitude":33.20384,
+    "geom:longitude":71.04406,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wali Khel",
+    "gn:country_code":"PK",
+    "gn:dem":621,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125199,
+    "gn:latitude":33.20384,
+    "gn:longitude":71.04406,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Wali Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125199
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f996e6d1f2408ce9331168b1fadfdce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1309810299,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309810299,
+    "wof:lastmodified":1536925209,
+    "wof:name":"Wali Khel",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.04406,
+    33.20384,
+    71.04406,
+    33.20384
+],
+  "geometry": {"coordinates":[71.04406,33.20384],"type":"Point"}
+}

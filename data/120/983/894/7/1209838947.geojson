@@ -1,0 +1,67 @@
+{
+  "id": 1209838947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36325,33.92379,72.36325,33.92379",
+    "geom:latitude":33.92379,
+    "geom:longitude":72.36325,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mallah",
+    "gn:country_code":"PK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171280,
+    "gn:latitude":33.92379,
+    "gn:longitude":72.36325,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mallah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171280
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3406f0f975d465bec7380362801b37b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1209838947,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209838947,
+    "wof:lastmodified":1536393600,
+    "wof:name":"Mallah",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36325,
+    33.92379,
+    72.36325,
+    33.92379
+],
+  "geometry": {"coordinates":[72.36324999999999,33.92379],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209416231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.85963,35.55301,72.85963,35.55301",
+    "geom:latitude":35.55301,
+    "geom:longitude":72.85963,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shar",
+    "gn:country_code":"PK",
+    "gn:dem":2086,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023905,
+    "gn:latitude":35.55301,
+    "gn:longitude":72.85963,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Shar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4a501d573d1fe5e23ba547fac9fc0ffc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209416231,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209416231,
+    "wof:lastmodified":1543515623,
+    "wof:name":"Shar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.85963000000002,
+    35.55301,
+    72.85963000000002,
+    35.55301
+],
+  "geometry": {"coordinates":[72.85963000000002,35.55301],"type":"Point"}
+}

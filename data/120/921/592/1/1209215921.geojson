@@ -1,0 +1,67 @@
+{
+  "id": 1209215921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02828,34.30524,73.02828,34.30524",
+    "geom:latitude":34.30524,
+    "geom:longitude":73.02828,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tamnala",
+    "gn:country_code":"PK",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390052,
+    "gn:latitude":34.30524,
+    "gn:longitude":73.02828,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tamnala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390052
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6365cda293c1ad80c5863eb5cc939114",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209215921,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215921,
+    "wof:lastmodified":1543515550,
+    "wof:name":"Tamnala",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02828000000002,
+    34.30524,
+    73.02828000000002,
+    34.30524
+],
+  "geometry": {"coordinates":[73.02828000000002,34.30524],"type":"Point"}
+}

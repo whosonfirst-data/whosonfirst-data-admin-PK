@@ -1,0 +1,67 @@
+{
+  "id": 1293390897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28038,35.03215,73.28038,35.03215",
+    "geom:latitude":35.03215,
+    "geom:longitude":73.28038,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Binguba",
+    "gn:country_code":"PK",
+    "gn:dem":1902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022483,
+    "gn:latitude":35.03215,
+    "gn:longitude":73.28038,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Binguba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022483
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bd751e3852253be341ffbb9319e34426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1293390897,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293390897,
+    "wof:lastmodified":1536926974,
+    "wof:name":"Binguba",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28038000000002,
+    35.03215,
+    73.28038000000002,
+    35.03215
+],
+  "geometry": {"coordinates":[73.28038000000002,35.03215],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210023179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23521,33.89321,73.23521,33.89321",
+    "geom:latitude":33.89321,
+    "geom:longitude":73.23521,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pattan",
+    "gn:country_code":"PK",
+    "gn:dem":984,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423834,
+    "gn:latitude":33.89321,
+    "gn:longitude":73.23521,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Pattan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423834
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a80422ec6c0ab73f25bd84bc3da21459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1210023179,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210023179,
+    "wof:lastmodified":1543515274,
+    "wof:name":"Pattan",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23521,
+    33.89321,
+    73.23521,
+    33.89321
+],
+  "geometry": {"coordinates":[73.23521,33.89321],"type":"Point"}
+}

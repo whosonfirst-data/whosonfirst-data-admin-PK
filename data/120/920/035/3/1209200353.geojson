@@ -1,0 +1,66 @@
+{
+  "id": 1209200353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2943,36.50354,74.2943,36.50354",
+    "geom:latitude":36.50354,
+    "geom:longitude":74.2943,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Toltar",
+    "gn:country_code":"PK",
+    "gn:dem":5212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163238,
+    "gn:latitude":36.50354,
+    "gn:longitude":74.2943,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Toltar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tottar",
+        "Toltar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163238,
+        "wk:page":"Toltar"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab42a25e21d4973dabf6f7a5be436726",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209200353
+        }
+    ],
+    "wof:id":1209200353,
+    "wof:lastmodified":1537679219,
+    "wof:name":"Toltar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2943,
+    36.50354,
+    74.2943,
+    36.50354
+],
+  "geometry": {"coordinates":[74.29430000000001,36.50354],"type":"Point"}
+}

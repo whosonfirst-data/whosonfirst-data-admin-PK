@@ -1,0 +1,67 @@
+{
+  "id": 1310524469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70643,32.92117,71.70643,32.92117",
+    "geom:latitude":32.92117,
+    "geom:longitude":71.70643,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bumba",
+    "gn:country_code":"PK",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140579,
+    "gn:latitude":32.92117,
+    "gn:longitude":71.70643,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Bumba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140579
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"26837d0ffedcfc1baa7cea3452114787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1310524469,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310524469,
+    "wof:lastmodified":1536889143,
+    "wof:name":"Bumba",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70643000000003,
+    32.92117,
+    71.70643000000003,
+    32.92117
+],
+  "geometry": {"coordinates":[71.70643000000003,32.92117],"type":"Point"}
+}

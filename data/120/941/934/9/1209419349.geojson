@@ -1,0 +1,64 @@
+{
+  "id": 1209419349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.01573,27.33415,68.01573,27.33415",
+    "geom:latitude":27.33415,
+    "geom:longitude":68.01573,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Badah",
+    "gn:country_code":"PK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184032,
+    "gn:latitude":27.33415,
+    "gn:longitude":68.01573,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Badah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101dr\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184032
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f64faccebf3e4d62e7b9ac4b526befe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209419349
+        }
+    ],
+    "wof:id":1209419349,
+    "wof:lastmodified":1537679956,
+    "wof:name":"Badah",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.01573,
+    27.33415,
+    68.01573,
+    27.33415
+],
+  "geometry": {"coordinates":[68.01573,27.33415],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344062377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86009,29.77966,69.86009,29.77966",
+    "geom:latitude":29.77966,
+    "geom:longitude":69.86009,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Phiri",
+    "gn:country_code":"PK",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1374368,
+    "gn:latitude":29.77966,
+    "gn:longitude":69.86009,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Phiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1374368
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"88aa950577bb1131afd3a8a0bfab5b1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1344062377,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344062377,
+    "wof:lastmodified":1536871691,
+    "wof:name":"Phiri",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86009,
+    29.77966,
+    69.86009,
+    29.77966
+],
+  "geometry": {"coordinates":[69.86009,29.77966],"type":"Point"}
+}

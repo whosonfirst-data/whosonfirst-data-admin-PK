@@ -1,0 +1,67 @@
+{
+  "id": 1343459449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.74843,33.47782,70.74843,33.47782",
+    "geom:latitude":33.47782,
+    "geom:longitude":70.74843,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kotemanj",
+    "gn:country_code":"PK",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1433548,
+    "gn:latitude":33.47782,
+    "gn:longitude":70.74843,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kotemanj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1433548
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67bde66fc3ddc1234c2c86a2f789bbf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692203,
+            "locality_id":1343459449,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343459449,
+    "wof:lastmodified":1536747416,
+    "wof:name":"Kotemanj",
+    "wof:parent_id":1108692203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.74843,
+    33.47782,
+    70.74843,
+    33.47782
+],
+  "geometry": {"coordinates":[70.74843,33.47782],"type":"Point"}
+}

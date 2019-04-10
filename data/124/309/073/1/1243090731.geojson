@@ -1,0 +1,70 @@
+{
+  "id": 1243090731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.33993,33.75601,73.33993,33.75601",
+    "geom:latitude":33.75601,
+    "geom:longitude":73.33993,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sun Hayat",
+    "gn:country_code":"PK",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082801,
+    "gn:latitude":33.75601,
+    "gn:longitude":73.33993,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sun Hayat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sun Hayat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082801
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"026e7d0eaa6ecff997b25ad18901ff0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1243090731,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243090731,
+    "wof:lastmodified":1537681660,
+    "wof:name":"Sun Hayat",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.33993000000002,
+    33.75601,
+    73.33993000000002,
+    33.75601
+],
+  "geometry": {"coordinates":[73.33993000000002,33.75601],"type":"Point"}
+}

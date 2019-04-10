@@ -1,0 +1,67 @@
+{
+  "id": 1193142909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91919,30.70549,73.91919,30.70549",
+    "geom:latitude":30.70549,
+    "geom:longitude":73.91919,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jethpur",
+    "gn:country_code":"PK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175981,
+    "gn:latitude":30.70549,
+    "gn:longitude":73.91919,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Jethpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175981
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6da0aded68d8d3d9c871446ee9f5552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1193142909,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193142909,
+    "wof:lastmodified":1536364678,
+    "wof:name":"Jethpur",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91919,
+    30.70549,
+    73.91919,
+    30.70549
+],
+  "geometry": {"coordinates":[73.91919,30.70549],"type":"Point"}
+}

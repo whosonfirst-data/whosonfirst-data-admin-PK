@@ -1,0 +1,67 @@
+{
+  "id": 1310602297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26237,35.33509,73.26237,35.33509",
+    "geom:latitude":35.33509,
+    "geom:longitude":73.26237,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chai",
+    "gn:country_code":"PK",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022549,
+    "gn:latitude":35.33509,
+    "gn:longitude":73.26237,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Chai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022549
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"982e9f4e92ac6b730254861d6e0eeb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310602297,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310602297,
+    "wof:lastmodified":1536777826,
+    "wof:name":"Chai",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26236999999998,
+    35.33509,
+    73.26236999999998,
+    35.33509
+],
+  "geometry": {"coordinates":[73.26236999999998,35.33509],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242965293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90076,34.65308,73.90076,34.65308",
+    "geom:latitude":34.65308,
+    "geom:longitude":73.90076,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dainyarbanj",
+    "gn:country_code":"PK",
+    "gn:dem":3203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416116,
+    "gn:latitude":34.65308,
+    "gn:longitude":73.90076,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dainyarbanj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416116
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2ddb3a2b9a6727ac1a989b779caf0fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1242965293,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1242965293,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242965293,
+    "wof:lastmodified":1537001551,
+    "wof:name":"Dainyarbanj",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90075999999998,
+    34.65308,
+    73.90075999999998,
+    34.65308
+],
+  "geometry": {"coordinates":[73.90075999999998,34.65308],"type":"Point"}
+}

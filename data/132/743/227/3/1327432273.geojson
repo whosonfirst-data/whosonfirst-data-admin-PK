@@ -1,0 +1,67 @@
+{
+  "id": 1327432273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60594,35.50937,73.60594,35.50937",
+    "geom:latitude":35.50937,
+    "geom:longitude":73.60594,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Logham",
+    "gn:country_code":"PK",
+    "gn:dem":1248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021120,
+    "gn:latitude":35.50937,
+    "gn:longitude":73.60594,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Logham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021120
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7da4418b5c6993bf0551951ca510941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1327432273,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327432273,
+    "wof:lastmodified":1536680954,
+    "wof:name":"Logham",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60594,
+    35.50937000000001,
+    73.60594,
+    35.50937000000001
+],
+  "geometry": {"coordinates":[73.60594,35.50937000000001],"type":"Point"}
+}

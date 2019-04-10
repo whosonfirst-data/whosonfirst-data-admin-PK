@@ -1,0 +1,67 @@
+{
+  "id": 1226745829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55435,25.51523,70.55435,25.51523",
+    "geom:latitude":25.51523,
+    "geom:longitude":70.55435,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kasiani",
+    "gn:country_code":"PK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039579,
+    "gn:latitude":25.51523,
+    "gn:longitude":70.55435,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Kasiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039579
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fbb2cc23487cf24ca2d61668ce7fd1a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1226745829,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226745829,
+    "wof:lastmodified":1536715731,
+    "wof:name":"Kasiani",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55435,
+    25.51523,
+    70.55435,
+    25.51523
+],
+  "geometry": {"coordinates":[70.55435,25.51523],"type":"Point"}
+}

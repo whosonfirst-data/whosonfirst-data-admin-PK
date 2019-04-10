@@ -1,0 +1,67 @@
+{
+  "id": 1210017325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01626,34.58947,72.01626,34.58947",
+    "geom:latitude":34.58947,
+    "geom:longitude":72.01626,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Serai",
+    "gn:country_code":"PK",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11409947,
+    "gn:latitude":34.58947,
+    "gn:longitude":72.01626,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Serai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11409947
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3825e719d84f695da84eea462fa11b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692291,
+            "locality_id":1210017325,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017325,
+    "wof:lastmodified":1543515335,
+    "wof:name":"Serai",
+    "wof:parent_id":1108692291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01626,
+    34.58947,
+    72.01626,
+    34.58947
+],
+  "geometry": {"coordinates":[72.01626,34.58947],"type":"Point"}
+}

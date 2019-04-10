@@ -1,0 +1,78 @@
+{
+  "id": 1310127411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.04714,33.87527,74.04714,33.87527",
+    "geom:latitude":33.87527,
+    "geom:longitude":74.04714,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Miani Basti",
+    "gn:country_code":"PK",
+    "gn:dem":1547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414827,
+    "gn:latitude":33.87527,
+    "gn:longitude":74.04714,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Miani Basti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414827
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dcfbba7fd294c0e705143480c818c95c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1310127411,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1310127411,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310127411,
+    "wof:lastmodified":1536964758,
+    "wof:name":"Miani Basti",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.04714,
+    33.87527,
+    74.04714,
+    33.87527
+],
+  "geometry": {"coordinates":[74.04714,33.87527],"type":"Point"}
+}

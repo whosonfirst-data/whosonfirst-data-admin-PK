@@ -1,0 +1,67 @@
+{
+  "id": 1210028971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.90292,31.19051,67.90292,31.19051",
+    "geom:latitude":31.19051,
+    "geom:longitude":67.90292,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Khusan",
+    "gn:country_code":"PK",
+    "gn:dem":2299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1363850,
+    "gn:latitude":31.19051,
+    "gn:longitude":67.90292,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Khusan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1363850
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9acc6278f1d0544b7b01e6e76efb885c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1210028971,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1210028971,
+    "wof:lastmodified":1536389447,
+    "wof:name":"Khusan",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.90292,
+    31.19051,
+    67.90292,
+    31.19051
+],
+  "geometry": {"coordinates":[67.90291999999999,31.19051],"type":"Point"}
+}

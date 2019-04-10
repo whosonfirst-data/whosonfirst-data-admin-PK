@@ -1,0 +1,67 @@
+{
+  "id": 1344056485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2125,32.65417,72.2125,32.65417",
+    "geom:latitude":32.65417,
+    "geom:longitude":72.2125,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Hathali",
+    "gn:country_code":"PK",
+    "gn:dem":902,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370567,
+    "gn:latitude":32.65417,
+    "gn:longitude":72.2125,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Hathali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370567
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c569ec1290ddf625778406038c559ff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1344056485,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344056485,
+    "wof:lastmodified":1536880594,
+    "wof:name":"Hathali",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2125,
+    32.65417,
+    72.2125,
+    32.65417
+],
+  "geometry": {"coordinates":[72.21250000000001,32.65417],"type":"Point"}
+}

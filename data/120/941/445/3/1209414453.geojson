@@ -1,0 +1,64 @@
+{
+  "id": 1209414453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09101,29.91108,71.09101,29.91108",
+    "geom:latitude":29.91108,
+    "geom:longitude":71.09101,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Waddaywala",
+    "gn:country_code":"PK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388616,
+    "gn:latitude":29.91108,
+    "gn:longitude":71.09101,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Waddaywala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waddey"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388616
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c226384bba5aef2086e86154833784ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209414453
+        }
+    ],
+    "wof:id":1209414453,
+    "wof:lastmodified":1537681860,
+    "wof:name":"Waddaywala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09101,
+    29.91108,
+    71.09101,
+    29.91108
+],
+  "geometry": {"coordinates":[71.09101,29.91108],"type":"Point"}
+}

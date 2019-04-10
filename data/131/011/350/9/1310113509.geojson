@@ -1,0 +1,67 @@
+{
+  "id": 1310113509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.64806,30.73981,67.64806,30.73981",
+    "geom:latitude":30.73981,
+    "geom:longitude":67.64806,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ogi Karez",
+    "gn:country_code":"PK",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11279193,
+    "gn:latitude":30.73981,
+    "gn:longitude":67.64806,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Ogi Karez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11279193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e312b106e21760b3cd66a4d75673b1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1310113509,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310113509,
+    "wof:lastmodified":1536984078,
+    "wof:name":"Ogi Karez",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.64806,
+    30.73981,
+    67.64806,
+    30.73981
+],
+  "geometry": {"coordinates":[67.64806,30.73981],"type":"Point"}
+}

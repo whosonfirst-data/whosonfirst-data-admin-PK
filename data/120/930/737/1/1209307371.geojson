@@ -1,0 +1,64 @@
+{
+  "id": 1209307371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00393,26.70125,68.00393,26.70125",
+    "geom:latitude":26.70125,
+    "geom:longitude":68.00393,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Karo Khoso",
+    "gn:country_code":"PK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369165,
+    "gn:latitude":26.70125,
+    "gn:longitude":68.00393,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Karo Khoso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kirio"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369165
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ecda454fedef8fc1795c2a031da17bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209307371
+        }
+    ],
+    "wof:id":1209307371,
+    "wof:lastmodified":1537680551,
+    "wof:name":"Karo Khoso",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00393000000001,
+    26.70125,
+    68.00393000000001,
+    26.70125
+],
+  "geometry": {"coordinates":[68.00393000000001,26.70125],"type":"Point"}
+}

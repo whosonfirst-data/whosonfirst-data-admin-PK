@@ -1,0 +1,67 @@
+{
+  "id": 1243554197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03424,33.25359,73.03424,33.25359",
+    "geom:latitude":33.25359,
+    "geom:longitude":73.03424,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pan",
+    "gn:country_code":"PK",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424949,
+    "gn:latitude":33.25359,
+    "gn:longitude":73.03424,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Pan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424949
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02d90e19835aef5d30e1e3604107db49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1243554197,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243554197,
+    "wof:lastmodified":1536650028,
+    "wof:name":"Pan",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03424,
+    33.25359,
+    73.03424,
+    33.25359
+],
+  "geometry": {"coordinates":[73.03424,33.25359],"type":"Point"}
+}

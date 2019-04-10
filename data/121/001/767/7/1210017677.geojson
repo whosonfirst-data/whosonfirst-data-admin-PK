@@ -1,0 +1,67 @@
+{
+  "id": 1210017677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.38958,34.70561,72.38958,34.70561",
+    "geom:latitude":34.70561,
+    "geom:longitude":72.38958,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nezo Mundo",
+    "gn:country_code":"PK",
+    "gn:dem":1429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482208,
+    "gn:latitude":34.70561,
+    "gn:longitude":72.38958,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Nezo Mundo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482208
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"04ba83b4802b674cbc962ce89cb6abc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1210017677,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017677,
+    "wof:lastmodified":1543515345,
+    "wof:name":"Nezo Mundo",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.38958000000002,
+    34.70561,
+    72.38958000000002,
+    34.70561
+],
+  "geometry": {"coordinates":[72.38958000000002,34.70561],"type":"Point"}
+}

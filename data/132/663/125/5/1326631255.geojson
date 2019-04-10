@@ -1,0 +1,67 @@
+{
+  "id": 1326631255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2394,34.85067,72.2394,34.85067",
+    "geom:latitude":34.85067,
+    "geom:longitude":72.2394,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belah",
+    "gn:country_code":"PK",
+    "gn:dem":1092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481770,
+    "gn:latitude":34.85067,
+    "gn:longitude":72.2394,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Belah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481770
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"751593e110c8d039bef3e960c6662a38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1326631255,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326631255,
+    "wof:lastmodified":1536840186,
+    "wof:name":"Belah",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2394,
+    34.85067,
+    72.2394,
+    34.85067
+],
+  "geometry": {"coordinates":[72.2394,34.85067],"type":"Point"}
+}

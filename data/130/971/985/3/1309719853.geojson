@@ -1,0 +1,67 @@
+{
+  "id": 1309719853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.4066,26.35441,62.4066,26.35441",
+    "geom:latitude":26.35441,
+    "geom:longitude":62.4066,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hambarg",
+    "gn:country_code":"PK",
+    "gn:dem":519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109905,
+    "gn:latitude":26.35441,
+    "gn:longitude":62.4066,
+    "gn:modification_date":"2011-06-05",
+    "gn:name":"Hambarg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa7ec765f10e8871837737be6332f9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1309719853,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309719853,
+    "wof:lastmodified":1537052689,
+    "wof:name":"Hambarg",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.4066,
+    26.35441,
+    62.4066,
+    26.35441
+],
+  "geometry": {"coordinates":[62.4066,26.35441],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1326722405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79495,34.2544,73.79495,34.2544",
+    "geom:latitude":34.2544,
+    "geom:longitude":73.79495,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Panjuthi",
+    "gn:country_code":"PK",
+    "gn:dem":2782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415806,
+    "gn:latitude":34.2544,
+    "gn:longitude":73.79495,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Panjuthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panj\u016bti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415806
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a6c28d1f6b01f0e46ae6fbf3446cd04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326722405,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326722405,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326722405,
+    "wof:lastmodified":1537681370,
+    "wof:name":"Panjuthi",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79495,
+    34.2544,
+    73.79495,
+    34.2544
+],
+  "geometry": {"coordinates":[73.79495,34.2544],"type":"Point"}
+}

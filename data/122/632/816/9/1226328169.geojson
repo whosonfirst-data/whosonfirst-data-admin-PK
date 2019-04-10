@@ -1,0 +1,78 @@
+{
+  "id": 1226328169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.53583,34.99772,76.53583,34.99772",
+    "geom:latitude":34.99772,
+    "geom:longitude":76.53583,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Marcha",
+    "gn:country_code":"PK",
+    "gn:dem":3098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170882,
+    "gn:latitude":34.99772,
+    "gn:longitude":76.53583,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Marcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170882
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fb1a98b9e96825e499c307e11a40b460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1226328169,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1226328169,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226328169,
+    "wof:lastmodified":1536814163,
+    "wof:name":"Marcha",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.53583,
+    34.99772,
+    76.53583,
+    34.99772
+],
+  "geometry": {"coordinates":[76.53583,34.99772],"type":"Point"}
+}

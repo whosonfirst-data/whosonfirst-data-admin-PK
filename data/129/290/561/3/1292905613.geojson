@@ -1,0 +1,67 @@
+{
+  "id": 1292905613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.00778,31.05829,67.00778,31.05829",
+    "geom:latitude":31.05829,
+    "geom:longitude":67.00778,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Khalil Mill",
+    "gn:country_code":"PK",
+    "gn:dem":2200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1363462,
+    "gn:latitude":31.05829,
+    "gn:longitude":67.00778,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Khalil Mill",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1363462
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22ef696f4ab7c51b80720c770e7439a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1292905613,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1292905613,
+    "wof:lastmodified":1536630162,
+    "wof:name":"Khalil Mill",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.00778000000001,
+    31.05829,
+    67.00778000000001,
+    31.05829
+],
+  "geometry": {"coordinates":[67.00778000000001,31.05829],"type":"Point"}
+}

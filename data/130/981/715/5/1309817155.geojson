@@ -1,0 +1,67 @@
+{
+  "id": 1309817155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46973,32.41401,69.46973,32.41401",
+    "geom:latitude":32.41401,
+    "geom:longitude":69.46973,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kark",
+    "gn:country_code":"PK",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9640267,
+    "gn:latitude":32.41401,
+    "gn:longitude":69.46973,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Kark",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9640267
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1c1dce5d4c5f9c332fe0f2a3f50d6b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1309817155,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309817155,
+    "wof:lastmodified":1536915100,
+    "wof:name":"Kark",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46973,
+    32.41401,
+    69.46973,
+    32.41401
+],
+  "geometry": {"coordinates":[69.46973,32.41401],"type":"Point"}
+}

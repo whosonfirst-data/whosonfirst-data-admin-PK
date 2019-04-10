@@ -1,0 +1,67 @@
+{
+  "id": 1225948547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56016,27.37455,69.56016,27.37455",
+    "geom:latitude":27.37455,
+    "geom:longitude":69.56016,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sumar",
+    "gn:country_code":"PK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376469,
+    "gn:latitude":27.37455,
+    "gn:longitude":69.56016,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Sumar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376469
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8f8dd923e323bd7c6fdb97207a2fac52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1225948547,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1225948547,
+    "wof:lastmodified":1536863911,
+    "wof:name":"Sumar",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56016,
+    27.37455,
+    69.56016,
+    27.37455
+],
+  "geometry": {"coordinates":[69.56016,27.37455],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209614883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99183,28.55714,69.99183,28.55714",
+    "geom:latitude":28.55714,
+    "geom:longitude":69.99183,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Bannu",
+    "gn:country_code":"PK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11546690,
+    "gn:latitude":28.55714,
+    "gn:longitude":69.99183,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Basti Bannu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546690
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22434d579de4d02ca596120b5c1cf05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209614883
+        }
+    ],
+    "wof:id":1209614883,
+    "wof:lastmodified":1536281723,
+    "wof:name":"Basti Bannu",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99183000000001,
+    28.557140000000004,
+    69.99183000000001,
+    28.557140000000004
+],
+  "geometry": {"coordinates":[69.99183000000001,28.55714],"type":"Point"}
+}

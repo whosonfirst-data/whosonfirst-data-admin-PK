@@ -1,0 +1,67 @@
+{
+  "id": 1327232419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83862,32.23429,70.83862,32.23429",
+    "geom:latitude":32.23429,
+    "geom:longitude":70.83862,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gharibabad",
+    "gn:country_code":"PK",
+    "gn:dem":280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425947,
+    "gn:latitude":32.23429,
+    "gn:longitude":70.83862,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Gharibabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425947
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9ee6f923460ff7656bb1bafb10a58a9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1327232419,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327232419,
+    "wof:lastmodified":1536969253,
+    "wof:name":"Gharibabad",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83861999999998,
+    32.23429,
+    70.83861999999998,
+    32.23429
+],
+  "geometry": {"coordinates":[70.83861999999998,32.23429],"type":"Point"}
+}

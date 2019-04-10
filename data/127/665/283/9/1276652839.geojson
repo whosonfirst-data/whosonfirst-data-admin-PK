@@ -1,0 +1,78 @@
+{
+  "id": 1276652839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.10116,34.81832,76.10116,34.81832",
+    "geom:latitude":34.81832,
+    "geom:longitude":76.10116,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kakash",
+    "gn:country_code":"PK",
+    "gn:dem":3500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538599,
+    "gn:latitude":34.81832,
+    "gn:longitude":76.10116,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kakash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538599
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1a4ed08880715d08016db084fffcb19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276652839,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276652839,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276652839,
+    "wof:lastmodified":1536846577,
+    "wof:name":"Kakash",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.10116,
+    34.81832,
+    76.10116,
+    34.81832
+],
+  "geometry": {"coordinates":[76.10115999999999,34.81832],"type":"Point"}
+}

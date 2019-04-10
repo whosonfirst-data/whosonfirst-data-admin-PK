@@ -1,0 +1,67 @@
+{
+  "id": 1293588727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.84382,32.24192,74.84382,32.24192",
+    "geom:latitude":32.24192,
+    "geom:longitude":74.84382,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lohan",
+    "gn:country_code":"PK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171927,
+    "gn:latitude":32.24192,
+    "gn:longitude":74.84382,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Lohan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171927
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e61592f1e015d7d6648197bd2c0fef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1293588727,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293588727,
+    "wof:lastmodified":1536640235,
+    "wof:name":"Lohan",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.84382,
+    32.24192,
+    74.84382,
+    32.24192
+],
+  "geometry": {"coordinates":[74.84381999999999,32.24192],"type":"Point"}
+}

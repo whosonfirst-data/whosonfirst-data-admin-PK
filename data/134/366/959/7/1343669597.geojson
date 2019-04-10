@@ -1,0 +1,67 @@
+{
+  "id": 1343669597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.23798,25.47144,63.23798,25.47144",
+    "geom:latitude":25.47144,
+    "geom:longitude":63.23798,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pat",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069118,
+    "gn:latitude":25.47144,
+    "gn:longitude":63.23798,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Pat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069118
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"03c10c7bc493c3f1e8766783032e9f9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692199,
+            "locality_id":1343669597,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343669597,
+    "wof:lastmodified":1536942401,
+    "wof:name":"Pat",
+    "wof:parent_id":1108692199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.23798000000001,
+    25.47144,
+    63.23798000000001,
+    25.47144
+],
+  "geometry": {"coordinates":[63.23798000000001,25.47144],"type":"Point"}
+}

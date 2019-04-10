@@ -1,0 +1,67 @@
+{
+  "id": 1293791719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59304,27.93594,66.59304,27.93594",
+    "geom:latitude":27.93594,
+    "geom:longitude":66.59304,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bent",
+    "gn:country_code":"PK",
+    "gn:dem":1353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234584,
+    "gn:latitude":27.93594,
+    "gn:longitude":66.59304,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234584
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"298d2e92b4b4a69f527f8551f71123d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1293791719,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293791719,
+    "wof:lastmodified":1536844406,
+    "wof:name":"Bent",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59304,
+    27.93594,
+    66.59304,
+    27.93594
+],
+  "geometry": {"coordinates":[66.59304,27.93594],"type":"Point"}
+}

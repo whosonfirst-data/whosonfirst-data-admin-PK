@@ -1,0 +1,67 @@
+{
+  "id": 1226753285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.06745,30.26032,70.06745,30.26032",
+    "geom:latitude":30.26032,
+    "geom:longitude":70.06745,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Narail",
+    "gn:country_code":"PK",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11339142,
+    "gn:latitude":30.26032,
+    "gn:longitude":70.06745,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Narail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11339142
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c6c1cd4bda4a94989e6f575d149711c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692139,
+            "locality_id":1226753285,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226753285,
+    "wof:lastmodified":1536704893,
+    "wof:name":"Narail",
+    "wof:parent_id":1108692139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.06745,
+    30.26032,
+    70.06745,
+    30.26032
+],
+  "geometry": {"coordinates":[70.06744999999999,30.26032],"type":"Point"}
+}

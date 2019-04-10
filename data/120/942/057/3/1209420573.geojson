@@ -1,0 +1,64 @@
+{
+  "id": 1209420573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.24315,31.09027,74.24315,31.09027",
+    "geom:latitude":31.09027,
+    "geom:longitude":74.24315,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kala Uttar",
+    "gn:country_code":"PK",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347060,
+    "gn:latitude":31.09027,
+    "gn:longitude":74.24315,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kala Uttar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101le Utt\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347060
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b998f60fc195704845173c2fc57fb30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209420573
+        }
+    ],
+    "wof:id":1209420573,
+    "wof:lastmodified":1537680273,
+    "wof:name":"Kala Uttar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.24315,
+    31.09027,
+    74.24315,
+    31.09027
+],
+  "geometry": {"coordinates":[74.24315,31.09027],"type":"Point"}
+}

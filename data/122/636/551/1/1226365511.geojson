@@ -1,0 +1,67 @@
+{
+  "id": 1226365511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91771,32.76237,73.91771,32.76237",
+    "geom:latitude":32.76237,
+    "geom:longitude":73.91771,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Col de Kothi",
+    "gn:country_code":"PK",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069038,
+    "gn:latitude":32.76237,
+    "gn:longitude":73.91771,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Col de Kothi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069038
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e06ec2c58d77161657b1ff7bc043c9ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1226365511,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226365511,
+    "wof:lastmodified":1536761289,
+    "wof:name":"Col de Kothi",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91771,
+    32.76237,
+    73.91771,
+    32.76237
+],
+  "geometry": {"coordinates":[73.91771,32.76237],"type":"Point"}
+}

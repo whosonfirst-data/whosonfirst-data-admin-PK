@@ -1,0 +1,67 @@
+{
+  "id": 1209716731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64413,34.77696,73.64413,34.77696",
+    "geom:latitude":34.77696,
+    "geom:longitude":73.64413,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kandora",
+    "gn:country_code":"PK",
+    "gn:dem":2660,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407956,
+    "gn:latitude":34.77696,
+    "gn:longitude":73.64413,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kandora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407956
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d95a12b99570450a11a225362d6a74e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209716731,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716731,
+    "wof:lastmodified":1543515720,
+    "wof:name":"Kandora",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64413,
+    34.77696,
+    73.64413,
+    34.77696
+],
+  "geometry": {"coordinates":[73.64413,34.77696],"type":"Point"}
+}

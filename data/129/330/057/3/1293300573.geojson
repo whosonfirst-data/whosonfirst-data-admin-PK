@@ -1,0 +1,67 @@
+{
+  "id": 1293300573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.37902,30.39232,68.37902,30.39232",
+    "geom:latitude":30.39232,
+    "geom:longitude":68.37902,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kaluke",
+    "gn:country_code":"PK",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11334050,
+    "gn:latitude":30.39232,
+    "gn:longitude":68.37902,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Kaluke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11334050
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65e91c87736af7fa166924f08f843edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1293300573,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293300573,
+    "wof:lastmodified":1537054072,
+    "wof:name":"Kaluke",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.37902,
+    30.39232,
+    68.37902,
+    30.39232
+],
+  "geometry": {"coordinates":[68.37902,30.39232],"type":"Point"}
+}

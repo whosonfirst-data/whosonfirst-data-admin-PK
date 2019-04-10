@@ -1,0 +1,67 @@
+{
+  "id": 1293006007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66854,30.66877,71.66854,30.66877",
+    "geom:latitude":30.66877,
+    "geom:longitude":71.66854,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Komianwala",
+    "gn:country_code":"PK",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567609,
+    "gn:latitude":30.66877,
+    "gn:longitude":71.66854,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Komianwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567609
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f123da217de62e83d8ad00318c683f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1293006007,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293006007,
+    "wof:lastmodified":1536983335,
+    "wof:name":"Komianwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66854000000002,
+    30.66877,
+    71.66854000000002,
+    30.66877
+],
+  "geometry": {"coordinates":[71.66854000000002,30.66877],"type":"Point"}
+}

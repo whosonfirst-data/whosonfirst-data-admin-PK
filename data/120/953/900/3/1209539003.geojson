@@ -1,0 +1,66 @@
+{
+  "id": 1209539003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51242,32.94252,73.51242,32.94252",
+    "geom:latitude":32.94252,
+    "geom:longitude":73.51242,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chakian",
+    "gn:country_code":"PK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180967,
+    "gn:latitude":32.94252,
+    "gn:longitude":73.51242,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Chakian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chukyam",
+        "Chuki\u0101m",
+        "Chakian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180967
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0f2efc53163f265bb0c3f189febd9758",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209539003
+        }
+    ],
+    "wof:id":1209539003,
+    "wof:lastmodified":1537679835,
+    "wof:name":"Chakian",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51241999999998,
+    32.94252,
+    73.51241999999998,
+    32.94252
+],
+  "geometry": {"coordinates":[73.51241999999998,32.94252],"type":"Point"}
+}

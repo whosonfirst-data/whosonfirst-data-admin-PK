@@ -1,0 +1,67 @@
+{
+  "id": 1327431329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62947,30.42733,71.62947,30.42733",
+    "geom:latitude":30.42733,
+    "geom:longitude":71.62947,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Saifpur",
+    "gn:country_code":"PK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166469,
+    "gn:latitude":30.42733,
+    "gn:longitude":71.62947,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Saifpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166469
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3ff4b7ac78d6c2ed5cee0eed2b53ddc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1327431329,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327431329,
+    "wof:lastmodified":1536682292,
+    "wof:name":"Saifpur",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62947,
+    30.42733,
+    71.62947,
+    30.42733
+],
+  "geometry": {"coordinates":[71.62947,30.42733],"type":"Point"}
+}

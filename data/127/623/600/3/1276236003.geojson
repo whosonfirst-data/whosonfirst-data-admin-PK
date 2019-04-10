@@ -1,0 +1,67 @@
+{
+  "id": 1276236003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.54921,27.10182,65.54921,27.10182",
+    "geom:latitude":27.10182,
+    "geom:longitude":65.54921,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kuch",
+    "gn:country_code":"PK",
+    "gn:dem":998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109896,
+    "gn:latitude":27.10182,
+    "gn:longitude":65.54921,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Kuch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109896
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"563cf57ca6c3bf535ab5dd135662973c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1276236003,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276236003,
+    "wof:lastmodified":1536909319,
+    "wof:name":"Kuch",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.54921,
+    27.10182,
+    65.54921,
+    27.10182
+],
+  "geometry": {"coordinates":[65.54921,27.10182],"type":"Point"}
+}

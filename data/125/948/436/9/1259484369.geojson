@@ -1,0 +1,67 @@
+{
+  "id": 1259484369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.87756,35.04058,72.87756,35.04058",
+    "geom:latitude":35.04058,
+    "geom:longitude":72.87756,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khenai",
+    "gn:country_code":"PK",
+    "gn:dem":1038,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479151,
+    "gn:latitude":35.04058,
+    "gn:longitude":72.87756,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khenai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479151
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"876eeb9d93cd5a9dcdd0b1090e3b6904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1259484369,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259484369,
+    "wof:lastmodified":1536856336,
+    "wof:name":"Khenai",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.87756,
+    35.04058,
+    72.87756,
+    35.04058
+],
+  "geometry": {"coordinates":[72.87756,35.04058],"type":"Point"}
+}

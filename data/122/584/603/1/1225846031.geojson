@@ -1,0 +1,67 @@
+{
+  "id": 1225846031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.43325,34.61077,73.43325,34.61077",
+    "geom:latitude":34.61077,
+    "geom:longitude":73.43325,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ghanool",
+    "gn:country_code":"PK",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8985898,
+    "gn:latitude":34.61077,
+    "gn:longitude":73.43325,
+    "gn:modification_date":"2014-04-16",
+    "gn:name":"Ghanool",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8985898
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a76f12c663493696a35ed3d6711b62d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1225846031,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225846031,
+    "wof:lastmodified":1543515483,
+    "wof:name":"Ghanool",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43325,
+    34.61077,
+    73.43325,
+    34.61077
+],
+  "geometry": {"coordinates":[73.43325,34.61077],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293695887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.13371,32.93122,70.13371,32.93122",
+    "geom:latitude":32.93122,
+    "geom:longitude":70.13371,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Spalga",
+    "gn:country_code":"PK",
+    "gn:dem":810,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164533,
+    "gn:latitude":32.93122,
+    "gn:longitude":70.13371,
+    "gn:modification_date":"2014-11-05",
+    "gn:name":"Spalga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164533
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa76bba94ab9c8f3fc9fd42cbe5271bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1293695887,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293695887,
+    "wof:lastmodified":1536983087,
+    "wof:name":"Spalga",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.13371,
+    32.93122,
+    70.13371,
+    32.93122
+],
+  "geometry": {"coordinates":[70.13370999999999,32.93122],"type":"Point"}
+}

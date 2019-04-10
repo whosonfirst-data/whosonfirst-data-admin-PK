@@ -1,0 +1,67 @@
+{
+  "id": 1259388377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.749,29.22378,70.749,29.22378",
+    "geom:latitude":29.22378,
+    "geom:longitude":70.749,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nizamwala",
+    "gn:country_code":"PK",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409010,
+    "gn:latitude":29.22378,
+    "gn:longitude":70.749,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Nizamwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409010
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d96531abcda0f40e6038123fb605f29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1259388377,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259388377,
+    "wof:lastmodified":1536994336,
+    "wof:name":"Nizamwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.749,
+    29.22378,
+    70.749,
+    29.22378
+],
+  "geometry": {"coordinates":[70.749,29.22378],"type":"Point"}
+}

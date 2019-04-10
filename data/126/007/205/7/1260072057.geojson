@@ -1,0 +1,78 @@
+{
+  "id": 1260072057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1362,34.67556,74.1362,34.67556",
+    "geom:latitude":34.67556,
+    "geom:longitude":74.1362,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Banwali Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":2816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412387,
+    "gn:latitude":34.67556,
+    "gn:longitude":74.1362,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Banwali Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412387
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"781194c980a6a6933722edcfe207f09c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1260072057,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1260072057,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260072057,
+    "wof:lastmodified":1537003760,
+    "wof:name":"Banwali Baihk",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1362,
+    34.67556,
+    74.1362,
+    34.67556
+],
+  "geometry": {"coordinates":[74.1362,34.67556],"type":"Point"}
+}

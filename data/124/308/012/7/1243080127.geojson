@@ -1,0 +1,67 @@
+{
+  "id": 1243080127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.84353,29.14877,63.84353,29.14877",
+    "geom:latitude":29.14877,
+    "geom:longitude":63.84353,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shikari Gazin",
+    "gn:country_code":"PK",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10983996,
+    "gn:latitude":29.14877,
+    "gn:longitude":63.84353,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Shikari Gazin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10983996
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"00c421ec2f84c6bd175424863e9d5e9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692147,
+            "locality_id":1243080127,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243080127,
+    "wof:lastmodified":1536835468,
+    "wof:name":"Shikari Gazin",
+    "wof:parent_id":1108692147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.84353,
+    29.14877000000001,
+    63.84353,
+    29.14877000000001
+],
+  "geometry": {"coordinates":[63.84353,29.14877000000001],"type":"Point"}
+}

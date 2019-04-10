@@ -1,0 +1,71 @@
+{
+  "id": 1327235761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34357,25.53352,68.34357,25.53352",
+    "geom:latitude":25.53352,
+    "geom:longitude":68.34357,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Petaro",
+    "gn:country_code":"PK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168190,
+    "gn:latitude":25.53352,
+    "gn:longitude":68.34357,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Petaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Petaro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168190,
+        "wk:page":"Petaro"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d11f4323a0caaf87056ccc34d0eaf394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692219,
+            "locality_id":1327235761,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1327235761,
+    "wof:lastmodified":1537679387,
+    "wof:name":"Petaro",
+    "wof:parent_id":1108692219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34357,
+    25.53352000000001,
+    68.34357,
+    25.53352000000001
+],
+  "geometry": {"coordinates":[68.34357,25.53352000000001],"type":"Point"}
+}

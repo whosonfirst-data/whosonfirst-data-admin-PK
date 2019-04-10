@@ -1,0 +1,67 @@
+{
+  "id": 1343560775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30528,30.755,73.30528,30.755",
+    "geom:latitude":30.755,
+    "geom:longitude":73.30528,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gobindgarh",
+    "gn:country_code":"PK",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178278,
+    "gn:latitude":30.755,
+    "gn:longitude":73.30528,
+    "gn:modification_date":"1995-05-30",
+    "gn:name":"Gobindgarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178278
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c92239738e2e5ddadc4e8357beafa67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":1343560775,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343560775,
+    "wof:lastmodified":1537095801,
+    "wof:name":"Gobindgarh",
+    "wof:parent_id":1108692363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30528000000002,
+    30.755,
+    73.30528000000002,
+    30.755
+],
+  "geometry": {"coordinates":[73.30528000000002,30.755],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327231199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.48477,30.13945,72.48477,30.13945",
+    "geom:latitude":30.13945,
+    "geom:longitude":72.48477,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dumewala",
+    "gn:country_code":"PK",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1387054,
+    "gn:latitude":30.13945,
+    "gn:longitude":72.48477,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dumewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1387054
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b2eb25e2d300276ea3dac934aa93eaee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1327231199,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327231199,
+    "wof:lastmodified":1536970960,
+    "wof:name":"Dumewala",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.48477,
+    30.13945,
+    72.48477,
+    30.13945
+],
+  "geometry": {"coordinates":[72.48477,30.13945],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1344254347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79117,33.14358,73.79117,33.14358",
+    "geom:latitude":33.14358,
+    "geom:longitude":73.79117,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Joral Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386401,
+    "gn:latitude":33.14358,
+    "gn:longitude":73.79117,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Joral Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaral Kalan",
+        "Joral Khurd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386401
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e951ac7cc939a54d83d9763a318c821",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1344254347,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1344254347,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1344254347,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344254347,
+    "wof:lastmodified":1537680860,
+    "wof:name":"Joral Khurd",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79117,
+    33.14358,
+    73.79117,
+    33.14358
+],
+  "geometry": {"coordinates":[73.79116999999999,33.14358],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226631943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.3125,34.69028,76.3125,34.69028",
+    "geom:latitude":34.69028,
+    "geom:longitude":76.3125,
+    "gn:admin1_code":"7",
+    "gn:asciiname":"Phuro",
+    "gn:country_code":"PK",
+    "gn:dem":3065,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414492,
+    "gn:latitude":34.69028,
+    "gn:longitude":76.3125,
+    "gn:modification_date":"2002-01-08",
+    "gn:name":"Phuro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695701,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414492
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"062c5f34292bc53842ae477ad5b88174",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695701,
+            "disputed_id":85632427,
+            "locality_id":1226631943,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695701,
+            "disputed_id":85632427,
+            "locality_id":1226631943,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1226631943,
+    "wof:lastmodified":1536878578,
+    "wof:name":"Phuro",
+    "wof:parent_id":1108695701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.3125,
+    34.69028,
+    76.3125,
+    34.69028
+],
+  "geometry": {"coordinates":[76.3125,34.69028],"type":"Point"}
+}

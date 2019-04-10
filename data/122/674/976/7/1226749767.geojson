@@ -1,0 +1,67 @@
+{
+  "id": 1226749767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29421,30.32433,69.29421,30.32433",
+    "geom:latitude":30.32433,
+    "geom:longitude":69.29421,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Poshan",
+    "gn:country_code":"PK",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11147483,
+    "gn:latitude":30.32433,
+    "gn:longitude":69.29421,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Poshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11147483
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"814bae1f7e1534c42f3dfec560e4abc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1226749767,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226749767,
+    "wof:lastmodified":1536710024,
+    "wof:name":"Poshan",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29420999999999,
+    30.32433,
+    69.29420999999999,
+    30.32433
+],
+  "geometry": {"coordinates":[69.29420999999999,30.32433],"type":"Point"}
+}

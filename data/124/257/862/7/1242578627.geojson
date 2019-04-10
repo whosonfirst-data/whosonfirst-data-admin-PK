@@ -1,0 +1,67 @@
+{
+  "id": 1242578627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01215,33.80921,72.01215,33.80921",
+    "geom:latitude":33.80921,
+    "geom:longitude":72.01215,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Faizabad",
+    "gn:country_code":"PK",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7091673,
+    "gn:latitude":33.80921,
+    "gn:longitude":72.01215,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Faizabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7091673
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ef3f92aa79d79423e69ff7cd77c0c664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1242578627,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578627,
+    "wof:lastmodified":1543515380,
+    "wof:name":"Faizabad",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01215,
+    33.80921,
+    72.01215,
+    33.80921
+],
+  "geometry": {"coordinates":[72.01215000000001,33.80921],"type":"Point"}
+}

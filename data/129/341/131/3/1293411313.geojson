@@ -1,0 +1,81 @@
+{
+  "id": 1293411313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1339,33.90641,74.1339,33.90641",
+    "geom:latitude":33.90641,
+    "geom:longitude":74.1339,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sauli Khas",
+    "gn:country_code":"PK",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414894,
+    "gn:latitude":33.90641,
+    "gn:longitude":74.1339,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sauli Khas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kh\u0101s Sauli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414894
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2ca8cbcbdb4c32e3c26ee39eaa36f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293411313,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293411313,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293411313,
+    "wof:lastmodified":1537681350,
+    "wof:name":"Sauli Khas",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1339,
+    33.90641,
+    74.1339,
+    33.90641
+],
+  "geometry": {"coordinates":[74.1339,33.90641],"type":"Point"}
+}

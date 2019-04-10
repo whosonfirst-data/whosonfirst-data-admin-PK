@@ -1,0 +1,67 @@
+{
+  "id": 1276120129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.72592,26.00135,62.72592,26.00135",
+    "geom:latitude":26.00135,
+    "geom:longitude":62.72592,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dastain",
+    "gn:country_code":"PK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10987927,
+    "gn:latitude":26.00135,
+    "gn:longitude":62.72592,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dastain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987927
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"026ecd87b70548697024f3b646294143",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1276120129,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276120129,
+    "wof:lastmodified":1537061536,
+    "wof:name":"Dastain",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.72592,
+    26.00135,
+    62.72592,
+    26.00135
+],
+  "geometry": {"coordinates":[62.72592,26.00135],"type":"Point"}
+}

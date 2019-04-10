@@ -1,0 +1,67 @@
+{
+  "id": 1243369201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.18082,32.33338,75.18082,32.33338",
+    "geom:latitude":32.33338,
+    "geom:longitude":75.18082,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Sawera",
+    "gn:country_code":"PK",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081469,
+    "gn:latitude":32.33338,
+    "gn:longitude":75.18082,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Chak Sawera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081469
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da325f6672fca3a5ed27d4773f5c91e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1243369201,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243369201,
+    "wof:lastmodified":1536917454,
+    "wof:name":"Chak Sawera",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.18082,
+    32.33338,
+    75.18082,
+    32.33338
+],
+  "geometry": {"coordinates":[75.18082,32.33338],"type":"Point"}
+}

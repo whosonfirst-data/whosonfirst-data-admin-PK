@@ -1,0 +1,67 @@
+{
+  "id": 1293296201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77079,32.67914,69.77079,32.67914",
+    "geom:latitude":32.67914,
+    "geom:longitude":69.77079,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Khamata",
+    "gn:country_code":"PK",
+    "gn:dem":2594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1426264,
+    "gn:latitude":32.67914,
+    "gn:longitude":69.77079,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Khamata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1426264
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"951aa85fb786d05c760da69c9c3f0353",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1293296201,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293296201,
+    "wof:lastmodified":1537060110,
+    "wof:name":"Khamata",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77079,
+    32.67914,
+    69.77079,
+    32.67914
+],
+  "geometry": {"coordinates":[69.77079000000001,32.67914],"type":"Point"}
+}

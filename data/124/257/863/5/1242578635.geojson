@@ -1,0 +1,67 @@
+{
+  "id": 1242578635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.29095,34.6191,73.29095,34.6191",
+    "geom:latitude":34.6191,
+    "geom:longitude":73.29095,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jhangi",
+    "gn:country_code":"PK",
+    "gn:dem":2258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994145,
+    "gn:latitude":34.6191,
+    "gn:longitude":73.29095,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Jhangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994145
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4a55961dad8420c2313f3f057c4e86c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242578635,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578635,
+    "wof:lastmodified":1543515382,
+    "wof:name":"Jhangi",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.29095,
+    34.6191,
+    73.29095,
+    34.6191
+],
+  "geometry": {"coordinates":[73.29095,34.6191],"type":"Point"}
+}

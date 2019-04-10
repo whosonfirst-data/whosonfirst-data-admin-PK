@@ -1,0 +1,67 @@
+{
+  "id": 1259488645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.37987,30.24231,73.37987,30.24231",
+    "geom:latitude":30.24231,
+    "geom:longitude":73.37987,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baqarka",
+    "gn:country_code":"PK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539930,
+    "gn:latitude":30.24231,
+    "gn:longitude":73.37987,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Baqarka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539930
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fee347547d1360bfbe2991252bb04871",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1259488645,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259488645,
+    "wof:lastmodified":1536850231,
+    "wof:name":"Baqarka",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.37987,
+    30.24231,
+    73.37987,
+    30.24231
+],
+  "geometry": {"coordinates":[73.37987,30.24231],"type":"Point"}
+}

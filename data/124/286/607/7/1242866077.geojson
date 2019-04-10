@@ -1,0 +1,90 @@
+{
+  "id": 1242866077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82475,33.20804,73.82475,33.20804",
+    "geom:latitude":33.20804,
+    "geom:longitude":73.82475,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jumui",
+    "gn:country_code":"PK",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386330,
+    "gn:latitude":33.20804,
+    "gn:longitude":73.82475,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Jumui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jumnni",
+        "Jumui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386330
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc72103ee70de9fca382b8669444225e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1242866077,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1242866077,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1242866077,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242866077,
+    "wof:lastmodified":1537680858,
+    "wof:name":"Jumui",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82475,
+    33.20804,
+    73.82475,
+    33.20804
+],
+  "geometry": {"coordinates":[73.82474999999999,33.20804],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1309999715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.05529,35.22396,75.05529,35.22396",
+    "geom:latitude":35.22396,
+    "geom:longitude":75.05529,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Marat",
+    "gn:country_code":"PK",
+    "gn:dem":3236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070687,
+    "gn:latitude":35.22396,
+    "gn:longitude":75.05529,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Marat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070687
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c1cb3b3474507cdb64683553930721f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309999715,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309999715,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309999715,
+    "wof:lastmodified":1536651499,
+    "wof:name":"Marat",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.05529,
+    35.22396,
+    75.05529,
+    35.22396
+],
+  "geometry": {"coordinates":[75.05529,35.22396],"type":"Point"}
+}

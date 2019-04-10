@@ -1,0 +1,78 @@
+{
+  "id": 1243193861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96197,33.43558,73.96197,33.43558",
+    "geom:latitude":33.43558,
+    "geom:longitude":73.96197,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Danna",
+    "gn:country_code":"PK",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386209,
+    "gn:latitude":33.43558,
+    "gn:longitude":73.96197,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Danna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386209
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3562b028f1640e9c3c5c2fc5bc0900f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243193861,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243193861,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243193861,
+    "wof:lastmodified":1536672689,
+    "wof:name":"Danna",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96197,
+    33.43558,
+    73.96197,
+    33.43558
+],
+  "geometry": {"coordinates":[73.96196999999999,33.43558],"type":"Point"}
+}

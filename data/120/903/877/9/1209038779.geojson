@@ -1,0 +1,64 @@
+{
+  "id": 1209038779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02563,31.94252,73.02563,31.94252",
+    "geom:latitude":31.94252,
+    "geom:longitude":73.02563,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kallor",
+    "gn:country_code":"PK",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175183,
+    "gn:latitude":31.94252,
+    "gn:longitude":73.02563,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Kallor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175183
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2689c5d0e521ed5d860f5ab63e4355a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209038779
+        }
+    ],
+    "wof:id":1209038779,
+    "wof:lastmodified":1537679632,
+    "wof:name":"Kallor",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02563,
+    31.94252,
+    73.02563,
+    31.94252
+],
+  "geometry": {"coordinates":[73.02563000000001,31.94252],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293521881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.17869,33.17483,73.17869,33.17483",
+    "geom:latitude":33.17483,
+    "geom:longitude":73.17869,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Naban",
+    "gn:country_code":"PK",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181733,
+    "gn:latitude":33.17483,
+    "gn:longitude":73.17869,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Chak Naban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181733
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"730f63f85b32f283cd1f69e2864f1fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1293521881,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293521881,
+    "wof:lastmodified":1536737474,
+    "wof:name":"Chak Naban",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.17869,
+    33.17483,
+    73.17869,
+    33.17483
+],
+  "geometry": {"coordinates":[73.17869,33.17483],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276799599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63686,32.07969,73.63686,32.07969",
+    "geom:latitude":32.07969,
+    "geom:longitude":73.63686,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jahanian",
+    "gn:country_code":"PK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380223,
+    "gn:latitude":32.07969,
+    "gn:longitude":73.63686,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jahanian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380223
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"20a99498f81b71ac6dd3cc86f7df7d40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1276799599,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276799599,
+    "wof:lastmodified":1536651011,
+    "wof:name":"Jahanian",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63686,
+    32.07969,
+    73.63686,
+    32.07969
+],
+  "geometry": {"coordinates":[73.63686,32.07969],"type":"Point"}
+}

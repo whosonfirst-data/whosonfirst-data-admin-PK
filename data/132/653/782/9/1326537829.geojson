@@ -1,0 +1,67 @@
+{
+  "id": 1326537829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70448,28.91999,66.70448,28.91999",
+    "geom:latitude":28.91999,
+    "geom:longitude":66.70448,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kakku",
+    "gn:country_code":"PK",
+    "gn:dem":2576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229252,
+    "gn:latitude":28.91999,
+    "gn:longitude":66.70448,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Kakku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229252
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d4827a0e2fabe733ed2091fab66c3f81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1326537829,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326537829,
+    "wof:lastmodified":1536975392,
+    "wof:name":"Kakku",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70448,
+    28.91999,
+    66.70448,
+    28.91999
+],
+  "geometry": {"coordinates":[66.70448,28.91999],"type":"Point"}
+}

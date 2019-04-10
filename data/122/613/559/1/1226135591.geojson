@@ -1,0 +1,67 @@
+{
+  "id": 1226135591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.13308,27.21524,69.13308,27.21524",
+    "geom:latitude":27.21524,
+    "geom:longitude":69.13308,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Faqirabad",
+    "gn:country_code":"PK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11374490,
+    "gn:latitude":27.21524,
+    "gn:longitude":69.13308,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Faqirabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374490
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1ccf6564b060d9abd4be80ba55937dbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1226135591,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226135591,
+    "wof:lastmodified":1537089170,
+    "wof:name":"Faqirabad",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.13308,
+    27.21524,
+    69.13308,
+    27.21524
+],
+  "geometry": {"coordinates":[69.13308000000001,27.21524],"type":"Point"}
+}

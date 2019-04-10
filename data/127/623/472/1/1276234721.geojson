@@ -1,0 +1,67 @@
+{
+  "id": 1276234721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93052,34.65428,72.93052,34.65428",
+    "geom:latitude":34.65428,
+    "geom:longitude":72.93052,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamesar",
+    "gn:country_code":"PK",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482604,
+    "gn:latitude":34.65428,
+    "gn:longitude":72.93052,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kamesar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482604
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"96024b3967ce5fd9fb465cf6f82d0139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1276234721,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276234721,
+    "wof:lastmodified":1536911093,
+    "wof:name":"Kamesar",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93052,
+    34.65428,
+    72.93052,
+    34.65428
+],
+  "geometry": {"coordinates":[72.93052,34.65428],"type":"Point"}
+}

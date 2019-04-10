@@ -1,0 +1,81 @@
+{
+  "id": 1226234297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.77642,33.44835,73.77642,33.44835",
+    "geom:latitude":33.44835,
+    "geom:longitude":73.77642,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nar Mando",
+    "gn:country_code":"PK",
+    "gn:dem":635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386222,
+    "gn:latitude":33.44835,
+    "gn:longitude":73.77642,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Nar Mando",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101r Manhda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386222
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2dfa57336994fb3d267b46b23932f592",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1226234297,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1226234297,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226234297,
+    "wof:lastmodified":1537680855,
+    "wof:name":"Nar Mando",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.77642,
+    33.44835,
+    73.77642,
+    33.44835
+],
+  "geometry": {"coordinates":[73.77642,33.44835],"type":"Point"}
+}

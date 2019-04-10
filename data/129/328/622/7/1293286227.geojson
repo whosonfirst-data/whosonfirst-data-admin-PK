@@ -1,0 +1,81 @@
+{
+  "id": 1293286227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.9739,35.12887,75.9739,35.12887",
+    "geom:latitude":35.12887,
+    "geom:longitude":75.9739,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pandah",
+    "gn:country_code":"PK",
+    "gn:dem":2375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419882,
+    "gn:latitude":35.12887,
+    "gn:longitude":75.9739,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Pandah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419882
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"671b0881242f65c5d94e464df1807cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293286227,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293286227,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293286227,
+    "wof:lastmodified":1537681904,
+    "wof:name":"Pandah",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.9739,
+    35.12887,
+    75.9739,
+    35.12887
+],
+  "geometry": {"coordinates":[75.9739,35.12887],"type":"Point"}
+}

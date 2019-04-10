@@ -1,0 +1,67 @@
+{
+  "id": 1293133243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23393,32.70898,72.23393,32.70898",
+    "geom:latitude":32.70898,
+    "geom:longitude":72.23393,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jamalwali",
+    "gn:country_code":"PK",
+    "gn:dem":587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7331470,
+    "gn:latitude":32.70898,
+    "gn:longitude":72.23393,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Jamalwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7331470
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b33db54c80d260d93b0709d6968a13fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1293133243,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293133243,
+    "wof:lastmodified":1536800894,
+    "wof:name":"Jamalwali",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23393,
+    32.70898,
+    72.23393,
+    32.70898
+],
+  "geometry": {"coordinates":[72.23393,32.70898],"type":"Point"}
+}

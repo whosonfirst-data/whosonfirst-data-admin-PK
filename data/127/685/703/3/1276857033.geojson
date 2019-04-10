@@ -1,0 +1,78 @@
+{
+  "id": 1276857033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.14394,35.26486,76.14394,35.26486",
+    "geom:latitude":35.26486,
+    "geom:longitude":76.14394,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Choli Chan Bransa",
+    "gn:country_code":"PK",
+    "gn:dem":3796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087787,
+    "gn:latitude":35.26486,
+    "gn:longitude":76.14394,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Choli Chan Bransa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087787
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"001cb6a8faf088b2987dbeaf6083fdfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1276857033,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1276857033,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276857033,
+    "wof:lastmodified":1537068724,
+    "wof:name":"Choli Chan Bransa",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.14394,
+    35.26486,
+    76.14394,
+    35.26486
+],
+  "geometry": {"coordinates":[76.14394,35.26486],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209620645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89468,31.81901,72.89468,31.81901",
+    "geom:latitude":31.81901,
+    "geom:longitude":72.89468,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jabboke",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382245,
+    "gn:latitude":31.81901,
+    "gn:longitude":72.89468,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Jabboke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaggoke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382245
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"071ab826f8749489159afda6cf90ac44",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209620645
+        }
+    ],
+    "wof:id":1209620645,
+    "wof:lastmodified":1537680761,
+    "wof:name":"Jabboke",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89468000000002,
+    31.81901,
+    72.89468000000002,
+    31.81901
+],
+  "geometry": {"coordinates":[72.89468000000002,31.81901],"type":"Point"}
+}

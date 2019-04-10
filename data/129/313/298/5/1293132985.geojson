@@ -1,0 +1,67 @@
+{
+  "id": 1293132985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.93069,32.15683,74.93069,32.15683",
+    "geom:latitude":32.15683,
+    "geom:longitude":74.93069,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rana",
+    "gn:country_code":"PK",
+    "gn:dem":243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466309,
+    "gn:latitude":32.15683,
+    "gn:longitude":74.93069,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Rana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466309
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a746de2e7380b72aab2e391681c8384d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1293132985,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293132985,
+    "wof:lastmodified":1536801259,
+    "wof:name":"Rana",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.93069,
+    32.15683,
+    74.93069,
+    32.15683
+],
+  "geometry": {"coordinates":[74.93069,32.15683],"type":"Point"}
+}

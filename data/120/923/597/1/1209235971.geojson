@@ -1,0 +1,65 @@
+{
+  "id": 1209235971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1151,34.7323,74.1151,34.7323",
+    "geom:latitude":34.7323,
+    "geom:longitude":74.1151,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bhurjali",
+    "gn:country_code":"PK",
+    "gn:dem":3002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412407,
+    "gn:latitude":34.7323,
+    "gn:longitude":74.1151,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhurjali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barjamiali",
+        "Bhurj\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412407
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1899103082f8491e9f2a1115c19d5e2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209235971
+        }
+    ],
+    "wof:id":1209235971,
+    "wof:lastmodified":1537681292,
+    "wof:name":"Bhurjali",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1151,
+    34.7323,
+    74.1151,
+    34.7323
+],
+  "geometry": {"coordinates":[74.1151,34.7323],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226647117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49391,33.95468,71.49391,33.95468",
+    "geom:latitude":33.95468,
+    "geom:longitude":71.49391,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pishta Khara Bala",
+    "gn:country_code":"PK",
+    "gn:dem":410,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167679,
+    "gn:latitude":33.95468,
+    "gn:longitude":71.49391,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Pishta Khara Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pishtakhara B\u0101la"
+    ],
+    "name:und_x_variant":[
+        "Pushte Khera Bala",
+        "Pushta Kh\u0101ra B\u0101la",
+        "Pishta Khara Bala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167679
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa8cb4a5f225f932ba152b5450c5545f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1226647117,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226647117,
+    "wof:lastmodified":1537679369,
+    "wof:name":"Pishta Khara Bala",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49391,
+    33.95468,
+    71.49391,
+    33.95468
+],
+  "geometry": {"coordinates":[71.49391,33.95468],"type":"Point"}
+}

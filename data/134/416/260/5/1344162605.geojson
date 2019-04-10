@@ -1,0 +1,67 @@
+{
+  "id": 1344162605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.0541,32.2445,75.0541,32.2445",
+    "geom:latitude":32.2445,
+    "geom:longitude":75.0541,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ara",
+    "gn:country_code":"PK",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081733,
+    "gn:latitude":32.2445,
+    "gn:longitude":75.0541,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081733
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe1d5ce3f30590cbbbf36ac57996b772",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1344162605,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344162605,
+    "wof:lastmodified":1536728542,
+    "wof:name":"Ara",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.0541,
+    32.2445,
+    75.0541,
+    32.2445
+],
+  "geometry": {"coordinates":[75.05410000000001,32.2445],"type":"Point"}
+}

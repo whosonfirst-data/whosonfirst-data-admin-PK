@@ -1,0 +1,67 @@
+{
+  "id": 1360286565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91645,34.43019,72.91645,34.43019",
+    "geom:latitude":34.43019,
+    "geom:longitude":72.91645,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Shaldar",
+    "gn:country_code":"PK",
+    "gn:dem":1079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378731,
+    "gn:latitude":34.43019,
+    "gn:longitude":72.91645,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Shaldar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378731
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"08205d982551cd5af108a89e43dec082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1360286565,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360286565,
+    "wof:lastmodified":1543515332,
+    "wof:name":"Shaldar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91645,
+    34.43019,
+    72.91645,
+    34.43019
+],
+  "geometry": {"coordinates":[72.91645,34.43019],"type":"Point"}
+}

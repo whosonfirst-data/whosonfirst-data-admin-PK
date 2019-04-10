@@ -1,0 +1,64 @@
+{
+  "id": 1209214259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66584,29.71622,70.66584,29.71622",
+    "geom:latitude":29.71622,
+    "geom:longitude":70.66584,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Paiwala",
+    "gn:country_code":"PK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1396000,
+    "gn:latitude":29.71622,
+    "gn:longitude":70.66584,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Paiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u0101h\u012bw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1396000
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bea3b9c6014b96a3cf490516aba4c90b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209214259
+        }
+    ],
+    "wof:id":1209214259,
+    "wof:lastmodified":1537681047,
+    "wof:name":"Paiwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66584,
+    29.71622,
+    70.66584,
+    29.71622
+],
+  "geometry": {"coordinates":[70.66584,29.71622],"type":"Point"}
+}

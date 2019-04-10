@@ -1,0 +1,67 @@
+{
+  "id": 1260286555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.97486,27.55101,65.97486,27.55101",
+    "geom:latitude":27.55101,
+    "geom:longitude":65.97486,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bidrang",
+    "gn:country_code":"PK",
+    "gn:dem":1280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579862,
+    "gn:latitude":27.55101,
+    "gn:longitude":65.97486,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Bidrang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579862
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43a3dc0b0545e7816faa494f4de6e6c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1260286555,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260286555,
+    "wof:lastmodified":1536708138,
+    "wof:name":"Bidrang",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.97485999999999,
+    27.55101,
+    65.97485999999999,
+    27.55101
+],
+  "geometry": {"coordinates":[65.97485999999999,27.55101],"type":"Point"}
+}

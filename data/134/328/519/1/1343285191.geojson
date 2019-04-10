@@ -1,0 +1,67 @@
+{
+  "id": 1343285191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.15586,29.99429,71.15586,29.99429",
+    "geom:latitude":29.99429,
+    "geom:longitude":71.15586,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daduwala",
+    "gn:country_code":"PK",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388668,
+    "gn:latitude":29.99429,
+    "gn:longitude":71.15586,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Daduwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388668
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58421fd0ba8f570a1b806b05b850d345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343285191,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343285191,
+    "wof:lastmodified":1536998496,
+    "wof:name":"Daduwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.15586,
+    29.99429,
+    71.15586,
+    29.99429
+],
+  "geometry": {"coordinates":[71.15586,29.99429],"type":"Point"}
+}

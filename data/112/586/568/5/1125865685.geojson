@@ -1,0 +1,88 @@
+{
+  "id": 1125865685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48472,26.11164,68.48472,26.11164",
+    "geom:latitude":26.11164,
+    "geom:longitude":68.48472,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"LCTY",
+    "gn:gn_pop":11433,
+    "gn:population":11433,
+    "iso:country":"PK",
+    "lbl:latitude":26.11164,
+    "lbl:longitude":68.48472,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sarhari"
+    ],
+    "name:eng_x_preferred":[
+        "Sarhari"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u06c1\u0627\u0631\u06cc"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"LCTY",
+    "qs_pg:gn_id":1165985,
+    "qs_pg:gn_pop":11433,
+    "qs_pg:name":"Sarh\u0101ri",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130684,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165985,
+        "qs_pg:id":130684,
+        "wd:id":"Q7424012"
+    },
+    "wof:country":"PK",
+    "wof:created":1497294028,
+    "wof:geomhash":"b1afc75e201158deade31938e717a405",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1125865685,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1125865685,
+    "wof:lastmodified":1514496864,
+    "wof:name":"Sarh\u0101ri",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:population":11433,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48472,
+    26.11164,
+    68.48472,
+    26.11164
+],
+  "geometry": {"coordinates":[68.48472,26.11164],"type":"Point"}
+}

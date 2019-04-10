@@ -1,0 +1,67 @@
+{
+  "id": 1260180361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.97929,27.56889,67.97929,27.56889",
+    "geom:latitude":27.56889,
+    "geom:longitude":67.97929,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gopang",
+    "gn:country_code":"PK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352465,
+    "gn:latitude":27.56889,
+    "gn:longitude":67.97929,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Gopang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352465
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a8086c7f86b0e8eeabee2a5433caecdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1260180361,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260180361,
+    "wof:lastmodified":1536851172,
+    "wof:name":"Gopang",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.97929,
+    27.56889,
+    67.97929,
+    27.56889
+],
+  "geometry": {"coordinates":[67.97929000000001,27.56889],"type":"Point"}
+}

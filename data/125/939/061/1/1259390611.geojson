@@ -1,0 +1,67 @@
+{
+  "id": 1259390611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48559,29.72733,67.48559,29.72733",
+    "geom:latitude":29.72733,
+    "geom:longitude":67.48559,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Peshi",
+    "gn:country_code":"PK",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300058,
+    "gn:latitude":29.72733,
+    "gn:longitude":67.48559,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Peshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300058
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1841c3b379ea21dec9e025098b0b1155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1259390611,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259390611,
+    "wof:lastmodified":1536991112,
+    "wof:name":"Peshi",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48559,
+    29.72733,
+    67.48559,
+    29.72733
+],
+  "geometry": {"coordinates":[67.48559,29.72733],"type":"Point"}
+}

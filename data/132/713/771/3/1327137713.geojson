@@ -1,0 +1,67 @@
+{
+  "id": 1327137713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49627,34.70152,71.49627,34.70152",
+    "geom:latitude":34.70152,
+    "geom:longitude":71.49627,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Daural",
+    "gn:country_code":"PK",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107065,
+    "gn:latitude":34.70152,
+    "gn:longitude":71.49627,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Daural",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107065
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d11c6aff28b7ca395e06070cdcb844d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1327137713,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1327137713,
+    "wof:lastmodified":1536605430,
+    "wof:name":"Daural",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49627,
+    34.70152,
+    71.49627,
+    34.70152
+],
+  "geometry": {"coordinates":[71.49627,34.70152],"type":"Point"}
+}

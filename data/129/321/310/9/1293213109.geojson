@@ -1,0 +1,67 @@
+{
+  "id": 1293213109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.93508,31.47649,67.93508,31.47649",
+    "geom:latitude":31.47649,
+    "geom:longitude":67.93508,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chaman",
+    "gn:country_code":"PK",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098581,
+    "gn:latitude":31.47649,
+    "gn:longitude":67.93508,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Chaman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098581
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a07df40ca7e98b5b27fa55b696600a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1293213109,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293213109,
+    "wof:lastmodified":1536685533,
+    "wof:name":"Chaman",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.93508,
+    31.47649,
+    67.93508,
+    31.47649
+],
+  "geometry": {"coordinates":[67.93508,31.47649],"type":"Point"}
+}

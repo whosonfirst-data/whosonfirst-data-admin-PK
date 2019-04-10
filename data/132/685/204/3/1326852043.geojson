@@ -1,0 +1,78 @@
+{
+  "id": 1326852043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.50718,34.09222,73.50718,34.09222",
+    "geom:latitude":34.09222,
+    "geom:longitude":73.50718,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chak Namb",
+    "gn:country_code":"PK",
+    "gn:dem":802,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106528,
+    "gn:latitude":34.09222,
+    "gn:longitude":73.50718,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Chak Namb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106528
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"54abe7a51eaf60cd289018de538576a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1326852043,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1326852043,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326852043,
+    "wof:lastmodified":1537019428,
+    "wof:name":"Chak Namb",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.50718,
+    34.09222,
+    73.50718,
+    34.09222
+],
+  "geometry": {"coordinates":[73.50718000000001,34.09222],"type":"Point"}
+}

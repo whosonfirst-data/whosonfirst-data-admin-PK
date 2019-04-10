@@ -1,0 +1,81 @@
+{
+  "id": 1327126269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59813,34.25668,73.59813,34.25668",
+    "geom:latitude":34.25668,
+    "geom:longitude":73.59813,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Malsi Pine",
+    "gn:country_code":"PK",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385871,
+    "gn:latitude":34.25668,
+    "gn:longitude":73.59813,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Malsi Pine",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u0101lsi P\u0101\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385871
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"410b98c27fed2c889a5e6ad0f7cd0dbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327126269,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327126269,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327126269,
+    "wof:lastmodified":1537680848,
+    "wof:name":"Malsi Pine",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59813,
+    34.25668,
+    73.59813,
+    34.25668
+],
+  "geometry": {"coordinates":[73.59813,34.25668],"type":"Point"}
+}

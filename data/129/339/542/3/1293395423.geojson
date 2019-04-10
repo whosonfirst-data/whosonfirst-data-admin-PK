@@ -1,0 +1,67 @@
+{
+  "id": 1293395423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.10278,30.81389,74.10278,30.81389",
+    "geom:latitude":30.81389,
+    "geom:longitude":74.10278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Shion",
+    "gn:country_code":"PK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421209,
+    "gn:latitude":30.81389,
+    "gn:longitude":74.10278,
+    "gn:modification_date":"2002-01-29",
+    "gn:name":"Shion",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421209
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d4a5976f7ed1f294390853f569658f7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1293395423,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293395423,
+    "wof:lastmodified":1536920322,
+    "wof:name":"Shion",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.10278000000002,
+    30.81389,
+    74.10278000000002,
+    30.81389
+],
+  "geometry": {"coordinates":[74.10278000000002,30.81389],"type":"Point"}
+}

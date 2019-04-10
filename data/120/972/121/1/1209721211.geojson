@@ -1,0 +1,67 @@
+{
+  "id": 1209721211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.74925,32.91028,73.74925,32.91028",
+    "geom:latitude":32.91028,
+    "geom:longitude":73.74925,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Ghunian",
+    "gn:country_code":"PK",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449252,
+    "gn:latitude":32.91028,
+    "gn:longitude":73.74925,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Chak Ghunian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449252
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"07051a41be78680ba753818df0b212a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1209721211,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209721211,
+    "wof:lastmodified":1536386290,
+    "wof:name":"Chak Ghunian",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.74925,
+    32.91028,
+    73.74925,
+    32.91028
+],
+  "geometry": {"coordinates":[73.74925,32.91028],"type":"Point"}
+}

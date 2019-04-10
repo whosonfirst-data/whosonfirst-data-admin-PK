@@ -1,0 +1,78 @@
+{
+  "id": 1293094887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.16867,34.73959,76.16867,34.73959",
+    "geom:latitude":34.73959,
+    "geom:longitude":76.16867,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Olthingthang",
+    "gn:country_code":"PK",
+    "gn:dem":2782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168709,
+    "gn:latitude":34.73959,
+    "gn:longitude":76.16867,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Olthingthang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168709
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"32390197e16be04394bfac59d452cd52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293094887,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293094887,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293094887,
+    "wof:lastmodified":1536854909,
+    "wof:name":"Olthingthang",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.16866999999998,
+    34.73959,
+    76.16866999999998,
+    34.73959
+],
+  "geometry": {"coordinates":[76.16866999999998,34.73959],"type":"Point"}
+}

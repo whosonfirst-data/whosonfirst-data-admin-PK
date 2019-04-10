@@ -1,0 +1,67 @@
+{
+  "id": 1276988637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.94038,31.47342,69.94038,31.47342",
+    "geom:latitude":31.47342,
+    "geom:longitude":69.94038,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kariai",
+    "gn:country_code":"PK",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10361686,
+    "gn:latitude":31.47342,
+    "gn:longitude":69.94038,
+    "gn:modification_date":"2015-07-05",
+    "gn:name":"Kariai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10361686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c1740f5a89058b56c93f50be0375430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1276988637,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276988637,
+    "wof:lastmodified":1536895055,
+    "wof:name":"Kariai",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.94038,
+    31.47342,
+    69.94038,
+    31.47342
+],
+  "geometry": {"coordinates":[69.94038,31.47342],"type":"Point"}
+}

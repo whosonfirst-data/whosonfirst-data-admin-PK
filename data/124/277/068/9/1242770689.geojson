@@ -1,0 +1,67 @@
+{
+  "id": 1242770689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6857,27.45162,68.6857,27.45162",
+    "geom:latitude":27.45162,
+    "geom:longitude":68.6857,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Raja Khan",
+    "gn:country_code":"PK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331876,
+    "gn:latitude":27.45162,
+    "gn:longitude":68.6857,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Raja Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331876
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d1f45acfbcd339b5bb1f5ef30c7bee7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1242770689,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242770689,
+    "wof:lastmodified":1536786082,
+    "wof:name":"Raja Khan",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6857,
+    27.45162,
+    68.6857,
+    27.45162
+],
+  "geometry": {"coordinates":[68.6857,27.45162],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360090443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.66367,30.7025,71.66367,30.7025",
+    "geom:latitude":30.7025,
+    "geom:longitude":71.66367,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baluchanwala",
+    "gn:country_code":"PK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567593,
+    "gn:latitude":30.7025,
+    "gn:longitude":71.66367,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Baluchanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567593
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa7414ddda84170e552aecca17e05fda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1360090443,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360090443,
+    "wof:lastmodified":1536938633,
+    "wof:name":"Baluchanwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.66367,
+    30.7025,
+    71.66367,
+    30.7025
+],
+  "geometry": {"coordinates":[71.66367,30.7025],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259683527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15,30.53333,72.15,30.53333",
+    "geom:latitude":30.53333,
+    "geom:longitude":72.15,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ladhi",
+    "gn:country_code":"PK",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172487,
+    "gn:latitude":30.53333,
+    "gn:longitude":72.15,
+    "gn:modification_date":"1998-03-31",
+    "gn:name":"Ladhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172487
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5881134e7a4a1fd6b4e58332ba42f1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1259683527,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259683527,
+    "wof:lastmodified":1537064125,
+    "wof:name":"Ladhi",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15,
+    30.53333,
+    72.15,
+    30.53333
+],
+  "geometry": {"coordinates":[72.15000000000001,30.53333],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360189945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61142,31.09713,73.61142,31.09713",
+    "geom:latitude":31.09713,
+    "geom:longitude":73.61142,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mupalke",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169751,
+    "gn:latitude":31.09713,
+    "gn:longitude":73.61142,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mupalke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169751
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d408c78cd4f7504135d6d33ec7c191eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1360189945,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360189945,
+    "wof:lastmodified":1536794599,
+    "wof:name":"Mupalke",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61142,
+    31.09713,
+    73.61142,
+    31.09713
+],
+  "geometry": {"coordinates":[73.61142,31.09713],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327231347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84629,30.11191,73.84629,30.11191",
+    "geom:latitude":30.11191,
+    "geom:longitude":73.84629,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jammu",
+    "gn:country_code":"PK",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176249,
+    "gn:latitude":30.11191,
+    "gn:longitude":73.84629,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Jammu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176249
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"23b75be958e401233ba4daf9e3f26e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1327231347,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327231347,
+    "wof:lastmodified":1536970750,
+    "wof:name":"Jammu",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84629,
+    30.11191,
+    73.84629,
+    30.11191
+],
+  "geometry": {"coordinates":[73.84629,30.11191],"type":"Point"}
+}

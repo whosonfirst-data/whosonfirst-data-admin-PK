@@ -1,0 +1,70 @@
+{
+  "id": 1360188011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98256,31.84119,69.98256,31.84119",
+    "geom:latitude":31.84119,
+    "geom:longitude":69.98256,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kazhe",
+    "gn:country_code":"PK",
+    "gn:dem":807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1339553,
+    "gn:latitude":31.84119,
+    "gn:longitude":69.98256,
+    "gn:modification_date":"2015-01-07",
+    "gn:name":"Kazhe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Kazhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339553
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d5d14c69b67a02ba3a536b7598f9698d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692175,
+            "locality_id":1360188011,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1360188011,
+    "wof:lastmodified":1537680169,
+    "wof:name":"Kazhe",
+    "wof:parent_id":1108692175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98255999999999,
+    31.84119,
+    69.98255999999999,
+    31.84119
+],
+  "geometry": {"coordinates":[69.98255999999999,31.84119],"type":"Point"}
+}

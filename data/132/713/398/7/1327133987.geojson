@@ -1,0 +1,67 @@
+{
+  "id": 1327133987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.50564,29.36317,70.50564,29.36317",
+    "geom:latitude":29.36317,
+    "geom:longitude":70.50564,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ballewala",
+    "gn:country_code":"PK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1408720,
+    "gn:latitude":29.36317,
+    "gn:longitude":70.50564,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Ballewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1408720
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe25c476c4bba7b41d00859aa2b3f09f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1327133987,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327133987,
+    "wof:lastmodified":1536611291,
+    "wof:name":"Ballewala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.50564,
+    29.36317,
+    70.50564,
+    29.36317
+],
+  "geometry": {"coordinates":[70.50564,29.36317],"type":"Point"}
+}

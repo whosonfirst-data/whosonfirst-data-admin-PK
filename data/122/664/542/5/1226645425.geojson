@@ -1,0 +1,67 @@
+{
+  "id": 1226645425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49641,32.1775,73.49641,32.1775",
+    "geom:latitude":32.1775,
+    "geom:longitude":73.49641,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhariwal",
+    "gn:country_code":"PK",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180105,
+    "gn:latitude":32.1775,
+    "gn:longitude":73.49641,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dhariwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7aadc0df3cf4db5df18b5e1cc2919da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1226645425,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226645425,
+    "wof:lastmodified":1536858579,
+    "wof:name":"Dhariwal",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49641,
+    32.1775,
+    73.49641,
+    32.1775
+],
+  "geometry": {"coordinates":[73.49641,32.1775],"type":"Point"}
+}

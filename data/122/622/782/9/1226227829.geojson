@@ -1,0 +1,78 @@
+{
+  "id": 1226227829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.69419,35.46728,75.69419,35.46728",
+    "geom:latitude":35.46728,
+    "geom:longitude":75.69419,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zakhripa",
+    "gn:country_code":"PK",
+    "gn:dem":2263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080426,
+    "gn:latitude":35.46728,
+    "gn:longitude":75.69419,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Zakhripa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080426
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e9756a7316e08583fa6fbe713c9b2d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1226227829,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1226227829,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226227829,
+    "wof:lastmodified":1536959467,
+    "wof:name":"Zakhripa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.69419,
+    35.46728,
+    75.69419,
+    35.46728
+],
+  "geometry": {"coordinates":[75.69419000000001,35.46728],"type":"Point"}
+}

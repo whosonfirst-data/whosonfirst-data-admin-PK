@@ -1,0 +1,64 @@
+{
+  "id": 1209314139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06667,31.31667,73.06667,31.31667",
+    "geom:latitude":31.31667,
+    "geom:longitude":73.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Roshanwala",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166853,
+    "gn:latitude":31.31667,
+    "gn:longitude":73.06667,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Roshanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rodas\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166853
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"213060d0a1f051bafaa94b06f0e75716",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314139
+        }
+    ],
+    "wof:id":1209314139,
+    "wof:lastmodified":1537679339,
+    "wof:name":"Roshanwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06667,
+    31.31667,
+    73.06667,
+    31.31667
+],
+  "geometry": {"coordinates":[73.06667,31.31667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226249413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34174,34.4839,73.34174,34.4839",
+    "geom:latitude":34.4839,
+    "geom:longitude":73.34174,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mohri",
+    "gn:country_code":"PK",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11010400,
+    "gn:latitude":34.4839,
+    "gn:longitude":73.34174,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mohri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11010400
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"094391dfa76a183b44f9c31dbf1ee94d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226249413,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226249413,
+    "wof:lastmodified":1536929007,
+    "wof:name":"Mohri",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34174,
+    34.4839,
+    73.34174,
+    34.4839
+],
+  "geometry": {"coordinates":[73.34174,34.4839],"type":"Point"}
+}

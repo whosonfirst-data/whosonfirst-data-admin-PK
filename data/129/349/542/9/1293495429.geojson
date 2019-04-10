@@ -1,0 +1,74 @@
+{
+  "id": 1293495429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.74568,29.04316,67.74568,29.04316",
+    "geom:latitude":29.04316,
+    "geom:longitude":67.74568,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Rehanzai Khuna",
+    "gn:country_code":"PK",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166947,
+    "gn:latitude":29.04316,
+    "gn:longitude":67.74568,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Rehanzai Khuna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pehanzai",
+        "Reh\u0101nzai Khurd",
+        "Rehanzai Kal\u0101n",
+        "Rehanzai K\u016bhna",
+        "Rehanzai Khuna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166947
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b78f546bd1daeaf8a7a1b78fa6e28707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692285,
+            "locality_id":1293495429,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293495429,
+    "wof:lastmodified":1537679342,
+    "wof:name":"Rehanzai Khuna",
+    "wof:parent_id":1108692285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.74568000000001,
+    29.04316,
+    67.74568000000001,
+    29.04316
+],
+  "geometry": {"coordinates":[67.74568000000001,29.04316],"type":"Point"}
+}

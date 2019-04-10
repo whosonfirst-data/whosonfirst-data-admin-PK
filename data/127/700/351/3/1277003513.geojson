@@ -1,0 +1,78 @@
+{
+  "id": 1277003513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13738,33.35944,74.13738,33.35944",
+    "geom:latitude":33.35944,
+    "geom:longitude":74.13738,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Patha",
+    "gn:country_code":"PK",
+    "gn:dem":910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867150,
+    "gn:latitude":33.35944,
+    "gn:longitude":74.13738,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Patha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867150
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7dbdf1f7a13377e649992e4e30fea46f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1277003513,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1277003513,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277003513,
+    "wof:lastmodified":1536874564,
+    "wof:name":"Patha",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13738000000002,
+    33.35944,
+    74.13738000000002,
+    33.35944
+],
+  "geometry": {"coordinates":[74.13738000000002,33.35944],"type":"Point"}
+}

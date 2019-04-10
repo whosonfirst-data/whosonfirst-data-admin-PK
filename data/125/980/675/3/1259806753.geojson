@@ -1,0 +1,67 @@
+{
+  "id": 1259806753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.7987,32.17904,74.7987,32.17904",
+    "geom:latitude":32.17904,
+    "geom:longitude":74.7987,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chandoke",
+    "gn:country_code":"PK",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466105,
+    "gn:latitude":32.17904,
+    "gn:longitude":74.7987,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chandoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c4d04507bd3aeb96d0e6d628904a472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1259806753,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259806753,
+    "wof:lastmodified":1536889315,
+    "wof:name":"Chandoke",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.7987,
+    32.17904,
+    74.7987,
+    32.17904
+],
+  "geometry": {"coordinates":[74.7987,32.17904],"type":"Point"}
+}

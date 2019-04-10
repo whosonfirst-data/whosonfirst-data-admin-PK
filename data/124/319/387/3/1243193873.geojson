@@ -1,0 +1,78 @@
+{
+  "id": 1243193873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23337,33.95279,74.23337,33.95279",
+    "geom:latitude":33.95279,
+    "geom:longitude":74.23337,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Khui",
+    "gn:country_code":"PK",
+    "gn:dem":2226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008619,
+    "gn:latitude":33.95279,
+    "gn:longitude":74.23337,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Khui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d7a2e91ea2c239cf5a8fff5d4b5cced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1243193873,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1243193873,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243193873,
+    "wof:lastmodified":1536672669,
+    "wof:name":"Khui",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23337,
+    33.95279,
+    74.23337,
+    33.95279
+],
+  "geometry": {"coordinates":[74.23336999999999,33.95279],"type":"Point"}
+}

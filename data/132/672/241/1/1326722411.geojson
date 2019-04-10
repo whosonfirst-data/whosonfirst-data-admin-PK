@@ -1,0 +1,81 @@
+{
+  "id": 1326722411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.34639,32.85201,74.34639,32.85201",
+    "geom:latitude":32.85201,
+    "geom:longitude":74.34639,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Barmalah",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413371,
+    "gn:latitude":32.85201,
+    "gn:longitude":74.34639,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Barmalah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanguw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413371
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"16b6320497ef190e9dc24406a17a0836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326722411,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326722411,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326722411,
+    "wof:lastmodified":1537681313,
+    "wof:name":"Barmalah",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.34639,
+    32.85201,
+    74.34639,
+    32.85201
+],
+  "geometry": {"coordinates":[74.34639,32.85201],"type":"Point"}
+}

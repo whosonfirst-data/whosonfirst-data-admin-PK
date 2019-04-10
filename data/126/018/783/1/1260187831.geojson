@@ -1,0 +1,75 @@
+{
+  "id": 1260187831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5,32.26,72.5,32.26",
+    "geom:latitude":32.26,
+    "geom:longitude":72.5,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1165999.0",
+    "gn:asciiname":"Keshupur",
+    "gn:country_code":"PK",
+    "gn:dem":182,
+    "gn:elevation":"190.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174456,
+    "gn:latitude":32.26,
+    "gn:longitude":72.5,
+    "gn:modification_date":"2016-01-06",
+    "gn:name":"Keshupur",
+    "gn:population":1500,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Keshopur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174456
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d88874bf1ffd4b03479fac16afc3d0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1260187831,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260187831,
+    "wof:lastmodified":1537679608,
+    "wof:name":"Keshupur",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:population":1500,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5,
+    32.26,
+    72.5,
+    32.26
+],
+  "geometry": {"coordinates":[72.5,32.26],"type":"Point"}
+}

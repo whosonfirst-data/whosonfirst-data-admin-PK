@@ -1,0 +1,67 @@
+{
+  "id": 1326536645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23174,34.41695,73.23174,34.41695",
+    "geom:latitude":34.41695,
+    "geom:longitude":73.23174,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gulaban",
+    "gn:country_code":"PK",
+    "gn:dem":961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11424839,
+    "gn:latitude":34.41695,
+    "gn:longitude":73.23174,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gulaban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11424839
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6c9dcd30563b112b314aa71fa2cc573a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1326536645,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326536645,
+    "wof:lastmodified":1536977062,
+    "wof:name":"Gulaban",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23174,
+    34.41695,
+    73.23174,
+    34.41695
+],
+  "geometry": {"coordinates":[73.23174,34.41695],"type":"Point"}
+}

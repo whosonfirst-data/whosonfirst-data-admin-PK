@@ -1,0 +1,67 @@
+{
+  "id": 1226351491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.57839,33.70859,71.57839,33.70859",
+    "geom:latitude":33.70859,
+    "geom:longitude":71.57839,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kamar Mela",
+    "gn:country_code":"PK",
+    "gn:dem":619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075471,
+    "gn:latitude":33.70859,
+    "gn:longitude":71.57839,
+    "gn:modification_date":"2015-04-09",
+    "gn:name":"Kamar Mela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075471
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65e5e92355bf0812807bc7ae4d3a0a2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692181,
+            "locality_id":1226351491,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226351491,
+    "wof:lastmodified":1536781591,
+    "wof:name":"Kamar Mela",
+    "wof:parent_id":1108692181,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.57839,
+    33.70859,
+    71.57839,
+    33.70859
+],
+  "geometry": {"coordinates":[71.57839,33.70859],"type":"Point"}
+}

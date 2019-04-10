@@ -1,0 +1,81 @@
+{
+  "id": 1242697937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.65749,35.4288,74.65749,35.4288",
+    "geom:latitude":35.4288,
+    "geom:longitude":74.65749,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mathath",
+    "gn:country_code":"PK",
+    "gn:dem":2925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423725,
+    "gn:latitude":35.4288,
+    "gn:longitude":74.65749,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mathath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muth\u0101th"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423725
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bfb5bf52d4da5ea1efff247b9da3e2e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242697937,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242697937,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242697937,
+    "wof:lastmodified":1537681908,
+    "wof:name":"Mathath",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.65749,
+    35.4288,
+    74.65749,
+    35.4288
+],
+  "geometry": {"coordinates":[74.65749,35.4288],"type":"Point"}
+}

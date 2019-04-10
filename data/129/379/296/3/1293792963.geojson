@@ -1,0 +1,86 @@
+{
+  "id": 1293792963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.74623,33.12863,73.74623,33.12863",
+    "geom:latitude":33.12863,
+    "geom:longitude":73.74623,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Ban Kurman",
+    "gn:country_code":"PK",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068771,
+    "gn:latitude":33.12863,
+    "gn:longitude":73.74623,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ban Kurman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068771
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c4b9fb09e71795209cb3095e9aa4cd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1293792963,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293792963,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293792963,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293792963,
+    "wof:lastmodified":1536842646,
+    "wof:name":"Ban Kurman",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.74623000000003,
+    33.12863,
+    73.74623000000003,
+    33.12863
+],
+  "geometry": {"coordinates":[73.74623000000003,33.12863],"type":"Point"}
+}

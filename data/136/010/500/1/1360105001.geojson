@@ -1,0 +1,86 @@
+{
+  "id": 1360105001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.87595,36.31527,72.87595,36.31527",
+    "geom:latitude":36.31527,
+    "geom:longitude":72.87595,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghasarpar Shal",
+    "gn:country_code":"PK",
+    "gn:dem":3509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11047725,
+    "gn:latitude":36.31527,
+    "gn:longitude":72.87595,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Ghasarpar Shal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11047725
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb275a9966cb6a27190ab8967f76e4ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1360105001,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1360105001,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1360105001,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360105001,
+    "wof:lastmodified":1536917463,
+    "wof:name":"Ghasarpar Shal",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.87595,
+    36.31527,
+    72.87595,
+    36.31527
+],
+  "geometry": {"coordinates":[72.87595,36.31527],"type":"Point"}
+}

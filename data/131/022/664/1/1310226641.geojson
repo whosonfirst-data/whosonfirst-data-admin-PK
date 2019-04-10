@@ -1,0 +1,82 @@
+{
+  "id": 1310226641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.9875,34.67361,74.9875,34.67361",
+    "geom:latitude":34.67361,
+    "geom:longitude":74.9875,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kilshai",
+    "gn:country_code":"PK",
+    "gn:dem":2995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412682,
+    "gn:latitude":34.67361,
+    "gn:longitude":74.9875,
+    "gn:modification_date":"2001-12-21",
+    "gn:name":"Kilshai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kilshah",
+        "Kilshai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412682
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"25ba6c4604c0d6690c4cb872aa5cf98d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310226641,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310226641,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310226641,
+    "wof:lastmodified":1537681298,
+    "wof:name":"Kilshai",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.9875,
+    34.67361,
+    74.9875,
+    34.67361
+],
+  "geometry": {"coordinates":[74.9875,34.67361],"type":"Point"}
+}

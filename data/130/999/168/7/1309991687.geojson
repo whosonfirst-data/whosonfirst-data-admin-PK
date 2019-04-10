@@ -1,0 +1,90 @@
+{
+  "id": 1309991687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10539,36.16339,73.10539,36.16339",
+    "geom:latitude":36.16339,
+    "geom:longitude":73.10539,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Pingal",
+    "gn:country_code":"PK",
+    "gn:dem":2512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167968,
+    "gn:latitude":36.16339,
+    "gn:longitude":73.10539,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Pingal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Piligal",
+        "Pingal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167968
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fae2e6529c27ff52fe02c77b84fb7a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1309991687,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1309991687,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1309991687,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309991687,
+    "wof:lastmodified":1537679378,
+    "wof:name":"Pingal",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10539,
+    36.16339,
+    73.10539,
+    36.16339
+],
+  "geometry": {"coordinates":[73.10539,36.16339],"type":"Point"}
+}

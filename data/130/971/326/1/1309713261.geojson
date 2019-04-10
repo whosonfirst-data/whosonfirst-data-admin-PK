@@ -1,0 +1,67 @@
+{
+  "id": 1309713261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35968,34.81288,72.35968,34.81288",
+    "geom:latitude":34.81288,
+    "geom:longitude":72.35968,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Malikabad",
+    "gn:country_code":"PK",
+    "gn:dem":955,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481840,
+    "gn:latitude":34.81288,
+    "gn:longitude":72.35968,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Malikabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481840
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"399693407e7940a9f0c9cff25e9ea786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1309713261,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309713261,
+    "wof:lastmodified":1537061785,
+    "wof:name":"Malikabad",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35968000000003,
+    34.81288,
+    72.35968000000003,
+    34.81288
+],
+  "geometry": {"coordinates":[72.35968000000003,34.81288],"type":"Point"}
+}

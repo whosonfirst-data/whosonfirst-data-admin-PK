@@ -1,0 +1,67 @@
+{
+  "id": 1310306979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.23029,28.06708,63.23029,28.06708",
+    "geom:latitude":28.06708,
+    "geom:longitude":63.23029,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hoke",
+    "gn:country_code":"PK",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11197607,
+    "gn:latitude":28.06708,
+    "gn:longitude":63.23029,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11197607
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"afdf95a7225b98d44c3697b689c90ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1310306979,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310306979,
+    "wof:lastmodified":1536706036,
+    "wof:name":"Hoke",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.23029,
+    28.06708,
+    63.23029,
+    28.06708
+],
+  "geometry": {"coordinates":[63.23029,28.06708],"type":"Point"}
+}

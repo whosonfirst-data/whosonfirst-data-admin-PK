@@ -1,0 +1,67 @@
+{
+  "id": 1310118495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.00324,29.74003,67.00324,29.74003",
+    "geom:latitude":29.74003,
+    "geom:longitude":67.00324,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yaghardi",
+    "gn:country_code":"PK",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11096055,
+    "gn:latitude":29.74003,
+    "gn:longitude":67.00324,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Yaghardi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11096055
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a1523f29213a8045cde7c1df661e6be5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1310118495,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310118495,
+    "wof:lastmodified":1536977116,
+    "wof:name":"Yaghardi",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.00324,
+    29.74003,
+    67.00324,
+    29.74003
+],
+  "geometry": {"coordinates":[67.00324000000001,29.74003],"type":"Point"}
+}

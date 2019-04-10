@@ -1,0 +1,67 @@
+{
+  "id": 1209315597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11931,34.08539,73.11931,34.08539",
+    "geom:latitude":34.08539,
+    "geom:longitude":73.11931,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baz Mar",
+    "gn:country_code":"PK",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11425340,
+    "gn:latitude":34.08539,
+    "gn:longitude":73.11931,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Baz Mar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11425340
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"75ec2e4cae774b8433f88fec2a03f214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209315597,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315597,
+    "wof:lastmodified":1543515562,
+    "wof:name":"Baz Mar",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11931,
+    34.08539,
+    73.11931,
+    34.08539
+],
+  "geometry": {"coordinates":[73.11931,34.08539],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293594761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.41376,29.27566,70.41376,29.27566",
+    "geom:latitude":29.27566,
+    "geom:longitude":70.41376,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bhurewala",
+    "gn:country_code":"PK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1408621,
+    "gn:latitude":29.27566,
+    "gn:longitude":70.41376,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bhurewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1408621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d477f5222fae20baca3f172e20f0c181",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1293594761,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293594761,
+    "wof:lastmodified":1536630854,
+    "wof:name":"Bhurewala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.41376,
+    29.27566,
+    70.41376,
+    29.27566
+],
+  "geometry": {"coordinates":[70.41376,29.27566],"type":"Point"}
+}

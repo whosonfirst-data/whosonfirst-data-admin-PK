@@ -1,0 +1,78 @@
+{
+  "id": 1226667611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52432,34.25125,73.52432,34.25125",
+    "geom:latitude":34.25125,
+    "geom:longitude":73.52432,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Charakpura",
+    "gn:country_code":"PK",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385908,
+    "gn:latitude":34.25125,
+    "gn:longitude":73.52432,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Charakpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385908
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c00b132ce2dc512797b2dacf5aeb9de4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226667611,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226667611,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226667611,
+    "wof:lastmodified":1536827111,
+    "wof:name":"Charakpura",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52431999999997,
+    34.25125,
+    73.52431999999997,
+    34.25125
+],
+  "geometry": {"coordinates":[73.52431999999997,34.25125],"type":"Point"}
+}

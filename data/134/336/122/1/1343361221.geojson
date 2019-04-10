@@ -1,0 +1,67 @@
+{
+  "id": 1343361221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.17128,27.75989,67.17128,27.75989",
+    "geom:latitude":27.75989,
+    "geom:longitude":67.17128,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mozo Mulki",
+    "gn:country_code":"PK",
+    "gn:dem":782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256530,
+    "gn:latitude":27.75989,
+    "gn:longitude":67.17128,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Mozo Mulki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256530
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d2ce8f3de18e5eff617436841c5915c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1343361221,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343361221,
+    "wof:lastmodified":1536888988,
+    "wof:name":"Mozo Mulki",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.17128000000001,
+    27.75989,
+    67.17128000000001,
+    27.75989
+],
+  "geometry": {"coordinates":[67.17128000000001,27.75989],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 890445589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-12-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33996,30.95392,68.33996,30.95392",
+    "geom:latitude":30.95392,
+    "geom:longitude":68.33996,
+    "gn:country":"PK",
+    "gn:fcode":"ADM2",
+    "gn:pop":350000,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Qila Saifull\u0101h District"
+    ],
+    "name:eng_x_variant":[
+        "Qila Saifull\u0101h"
+    ],
+    "name:unk_x_variant":[
+        "Qilla Saifullah"
+    ],
+    "qs:name":"Qila Saifull\u0101h District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":125,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6641963,
+        "qs:id":643427,
+        "wk:page":"Jalalzai"
+    },
+    "wof:country":"PK",
+    "wof:created":1469052515,
+    "wof:geomhash":"fcffd4f8fc38f070a54d890b00fab84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890445589,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":890445589,
+    "wof:lastmodified":1527792870,
+    "wof:name":"Qila Saifull\u0101h District",
+    "wof:parent_id":85675733,
+    "wof:placetype":"county",
+    "wof:population":350000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33996,
+    30.95392,
+    68.33996,
+    30.95392
+],
+  "geometry": {"coordinates":[68.33996,30.95392],"type":"Point"}
+}

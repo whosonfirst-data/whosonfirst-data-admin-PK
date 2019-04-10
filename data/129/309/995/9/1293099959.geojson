@@ -1,0 +1,67 @@
+{
+  "id": 1293099959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.50759,34.39019,72.50759,34.39019",
+    "geom:latitude":34.39019,
+    "geom:longitude":72.50759,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Koga",
+    "gn:country_code":"PK",
+    "gn:dem":702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173518,
+    "gn:latitude":34.39019,
+    "gn:longitude":72.50759,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Koga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173518
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"68e94493399b88e6b4c7cc6d670a2c00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1293099959,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293099959,
+    "wof:lastmodified":1536847657,
+    "wof:name":"Koga",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.50759000000002,
+    34.39019,
+    72.50759000000002,
+    34.39019
+],
+  "geometry": {"coordinates":[72.50759000000002,34.39019],"type":"Point"}
+}

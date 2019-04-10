@@ -1,0 +1,67 @@
+{
+  "id": 1243454141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46498,30.53478,73.46498,30.53478",
+    "geom:latitude":30.53478,
+    "geom:longitude":73.46498,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Naqshah",
+    "gn:country_code":"PK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332088,
+    "gn:latitude":30.53478,
+    "gn:longitude":73.46498,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Naqshah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332088
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f86ffae9edf2e948a8d42e04969b0be3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1243454141,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243454141,
+    "wof:lastmodified":1536794674,
+    "wof:name":"Naqshah",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46498000000003,
+    30.53478,
+    73.46498000000003,
+    30.53478
+],
+  "geometry": {"coordinates":[73.46498000000003,30.53478],"type":"Point"}
+}

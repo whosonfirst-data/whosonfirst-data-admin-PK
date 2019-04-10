@@ -1,0 +1,67 @@
+{
+  "id": 1343866121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36559,29.60634,66.36559,29.60634",
+    "geom:latitude":29.60634,
+    "geom:longitude":66.36559,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kalaghzai",
+    "gn:country_code":"PK",
+    "gn:dem":1571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1399275,
+    "gn:latitude":29.60634,
+    "gn:longitude":66.36559,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kalaghzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1399275
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e50db62c54a7577b437456da7d9b6080",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1343866121,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343866121,
+    "wof:lastmodified":1536658492,
+    "wof:name":"Kalaghzai",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36559,
+    29.60634000000001,
+    66.36559,
+    29.60634000000001
+],
+  "geometry": {"coordinates":[66.36559,29.60634000000001],"type":"Point"}
+}

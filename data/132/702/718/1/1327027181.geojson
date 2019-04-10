@@ -1,0 +1,78 @@
+{
+  "id": 1327027181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01366,33.99827,74.01366,33.99827",
+    "geom:latitude":33.99827,
+    "geom:longitude":74.01366,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dear",
+    "gn:country_code":"PK",
+    "gn:dem":2576,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415010,
+    "gn:latitude":33.99827,
+    "gn:longitude":74.01366,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dear",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415010
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8bfba9412eacea2905c0fb054d25e47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1327027181,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1327027181,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327027181,
+    "wof:lastmodified":1536768477,
+    "wof:name":"Dear",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01366,
+    33.99827,
+    74.01366,
+    33.99827
+],
+  "geometry": {"coordinates":[74.01366,33.99827],"type":"Point"}
+}

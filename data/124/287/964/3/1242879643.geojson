@@ -1,0 +1,67 @@
+{
+  "id": 1242879643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13273,32.08506,74.13273,32.08506",
+    "geom:latitude":32.08506,
+    "geom:longitude":74.13273,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mangalwala",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453347,
+    "gn:latitude":32.08506,
+    "gn:longitude":74.13273,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mangalwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453347
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4c5339aa1e01408d09f5c57b3daae868",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1242879643,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242879643,
+    "wof:lastmodified":1536626764,
+    "wof:name":"Mangalwala",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13273000000002,
+    32.08506,
+    74.13273000000002,
+    32.08506
+],
+  "geometry": {"coordinates":[74.13273000000002,32.08506],"type":"Point"}
+}

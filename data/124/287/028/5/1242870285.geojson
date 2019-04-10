@@ -1,0 +1,78 @@
+{
+  "id": 1242870285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.68032,35.51464,75.68032,35.51464",
+    "geom:latitude":35.51464,
+    "geom:longitude":75.68032,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hushupa",
+    "gn:country_code":"PK",
+    "gn:dem":2504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419547,
+    "gn:latitude":35.51464,
+    "gn:longitude":75.68032,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Hushupa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419547
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8dadc53986a61a2eb4ce28e8f0b332c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1242870285,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1242870285,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242870285,
+    "wof:lastmodified":1536641280,
+    "wof:name":"Hushupa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.68032,
+    35.51464,
+    75.68032,
+    35.51464
+],
+  "geometry": {"coordinates":[75.68031999999999,35.51464],"type":"Point"}
+}

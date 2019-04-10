@@ -1,0 +1,67 @@
+{
+  "id": 1243363157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.40052,29.88011,72.40052,29.88011",
+    "geom:latitude":29.88011,
+    "geom:longitude":72.40052,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hasan Shah",
+    "gn:country_code":"PK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177053,
+    "gn:latitude":29.88011,
+    "gn:longitude":72.40052,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hasan Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177053
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e013f3936c3bfd88e5d51a80b036f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1243363157,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243363157,
+    "wof:lastmodified":1536926374,
+    "wof:name":"Hasan Shah",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.40052,
+    29.88011,
+    72.40052,
+    29.88011
+],
+  "geometry": {"coordinates":[72.40052,29.88011],"type":"Point"}
+}

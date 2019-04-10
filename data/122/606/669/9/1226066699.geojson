@@ -1,0 +1,78 @@
+{
+  "id": 1226066699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.35833,34.84444,74.35833,34.84444",
+    "geom:latitude":34.84444,
+    "geom:longitude":74.35833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dogian",
+    "gn:country_code":"PK",
+    "gn:dem":2379,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412538,
+    "gn:latitude":34.84444,
+    "gn:longitude":74.35833,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dogian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412538
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d308585e624ba98ae6712d9bd633015",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1226066699,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1226066699,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226066699,
+    "wof:lastmodified":1536695242,
+    "wof:name":"Dogian",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.35833000000002,
+    34.84444000000001,
+    74.35833000000002,
+    34.84444000000001
+],
+  "geometry": {"coordinates":[74.35833000000002,34.84444000000001],"type":"Point"}
+}

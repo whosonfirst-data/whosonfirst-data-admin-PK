@@ -1,0 +1,67 @@
+{
+  "id": 1209107181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70637,34.56499,71.70637,34.56499",
+    "geom:latitude":34.56499,
+    "geom:longitude":71.70637,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bar Aspur",
+    "gn:country_code":"PK",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":9276972,
+    "gn:latitude":34.56499,
+    "gn:longitude":71.70637,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Bar Aspur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9276972
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f6952d0c87ef30fc2e4e7f59569a6150",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692291,
+            "locality_id":1209107181,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209107181,
+    "wof:lastmodified":1543515457,
+    "wof:name":"Bar Aspur",
+    "wof:parent_id":1108692291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70636999999998,
+    34.56499,
+    71.70636999999998,
+    34.56499
+],
+  "geometry": {"coordinates":[71.70636999999998,34.56499],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1293278021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54762,36.18086,73.54762,36.18086",
+    "geom:latitude":36.18086,
+    "geom:longitude":73.54762,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kinebar Dadar",
+    "gn:country_code":"PK",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7451062,
+    "gn:latitude":36.18086,
+    "gn:longitude":73.54762,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kinebar Dadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinebar D\u0101dori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7451062
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b5e10948bacc085a0d31099cd72350d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1293278021,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1293278021,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1293278021,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293278021,
+    "wof:lastmodified":1537681919,
+    "wof:name":"Kinebar Dadar",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54762,
+    36.18086,
+    73.54762,
+    36.18086
+],
+  "geometry": {"coordinates":[73.54761999999999,36.18086],"type":"Point"}
+}

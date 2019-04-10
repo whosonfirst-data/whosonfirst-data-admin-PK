@@ -1,0 +1,63 @@
+{
+  "id": 890453397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.85634,30.78318,70.85634,30.78318",
+    "geom:latitude":30.78318,
+    "geom:longitude":70.85634,
+    "gn:country":"PK",
+    "gn:fcode":"ADM4",
+    "gn:pop":5000,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Bait Gujji",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177669,
+        "qs:id":84346
+    },
+    "wof:country":"PK",
+    "wof:created":1469052852,
+    "wof:geomhash":"3664de2e4ecf4de23dff8c2bee4e3b10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "localadmin_id":890453397,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":890453397,
+    "wof:lastmodified":1505343651,
+    "wof:name":"Bait Gujji",
+    "wof:parent_id":85675753,
+    "wof:placetype":"localadmin",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.85634,
+    30.78318,
+    70.85634,
+    30.78318
+],
+  "geometry": {"coordinates":[70.85634,30.78318],"type":"Point"}
+}

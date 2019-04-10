@@ -1,0 +1,78 @@
+{
+  "id": 1293312757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.7785,36.80829,74.7785,36.80829",
+    "geom:latitude":36.80829,
+    "geom:longitude":74.7785,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Barah Ghotam",
+    "gn:country_code":"PK",
+    "gn:dem":3665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427782,
+    "gn:latitude":36.80829,
+    "gn:longitude":74.7785,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Barah Ghotam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427782
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f9f89ab8a660056cf1c8c1b6d92a242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293312757,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293312757,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293312757,
+    "wof:lastmodified":1537037399,
+    "wof:name":"Barah Ghotam",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.7785,
+    36.80829,
+    74.7785,
+    36.80829
+],
+  "geometry": {"coordinates":[74.77849999999999,36.80829],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226537263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64165,34.04815,73.64165,34.04815",
+    "geom:latitude":34.04815,
+    "geom:longitude":73.64165,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Rangal Galai",
+    "gn:country_code":"PK",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11046423,
+    "gn:latitude":34.04815,
+    "gn:longitude":73.64165,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Rangal Galai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11046423
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d9841d5e03891c5cbcbf35d6b985c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226537263,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226537263,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226537263,
+    "wof:lastmodified":1537009614,
+    "wof:name":"Rangal Galai",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64165,
+    34.04815,
+    73.64165,
+    34.04815
+],
+  "geometry": {"coordinates":[73.64165,34.04815],"type":"Point"}
+}

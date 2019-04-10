@@ -1,0 +1,66 @@
+{
+  "id": 1209638465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.08897,33.08765,72.08897,33.08765",
+    "geom:latitude":33.08765,
+    "geom:longitude":72.08897,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sariali",
+    "gn:country_code":"PK",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164266,
+    "gn:latitude":33.08765,
+    "gn:longitude":72.08897,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Sariali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarhali",
+        "Suri\u0101li",
+        "Sariali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164266
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7bea71571626c491b08fb3bcd78bd82",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638465
+        }
+    ],
+    "wof:id":1209638465,
+    "wof:lastmodified":1537679257,
+    "wof:name":"Sariali",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.08896999999997,
+    33.08765,
+    72.08896999999997,
+    33.08765
+],
+  "geometry": {"coordinates":[72.08896999999997,33.08765],"type":"Point"}
+}

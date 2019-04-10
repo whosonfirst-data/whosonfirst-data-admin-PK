@@ -1,0 +1,67 @@
+{
+  "id": 1310502577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61153,34.25768,72.61153,34.25768",
+    "geom:latitude":34.25768,
+    "geom:longitude":72.61153,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Damner",
+    "gn:country_code":"PK",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420544,
+    "gn:latitude":34.25768,
+    "gn:longitude":72.61153,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Damner",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420544
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da5ae2f27f59b788ef0434680ec88c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1310502577,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310502577,
+    "wof:lastmodified":1536921808,
+    "wof:name":"Damner",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61153,
+    34.25768,
+    72.61153,
+    34.25768
+],
+  "geometry": {"coordinates":[72.61153,34.25768],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259981915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.1375,28.10833,66.1375,28.10833",
+    "geom:latitude":28.10833,
+    "geom:longitude":66.1375,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Dosten",
+    "gn:country_code":"PK",
+    "gn:dem":1564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1395097,
+    "gn:latitude":28.10833,
+    "gn:longitude":66.1375,
+    "gn:modification_date":"2001-10-25",
+    "gn:name":"Dosten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1395097
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5a4c881faaaafdf3f60f0a33b96bec91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1259981915,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259981915,
+    "wof:lastmodified":1536636187,
+    "wof:name":"Dosten",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.1375,
+    28.10833,
+    66.1375,
+    28.10833
+],
+  "geometry": {"coordinates":[66.1375,28.10833],"type":"Point"}
+}

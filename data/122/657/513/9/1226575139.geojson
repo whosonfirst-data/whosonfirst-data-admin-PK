@@ -1,0 +1,71 @@
+{
+  "id": 1226575139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53674,33.1831,73.53674,33.1831",
+    "geom:latitude":33.1831,
+    "geom:longitude":73.53674,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kanshi",
+    "gn:country_code":"PK",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1174918,
+    "gn:latitude":33.1831,
+    "gn:longitude":73.53674,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kanshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Kansi",
+        "Kanshi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174918
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02d3b415e05830ab0f4d5d1aae90f8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1226575139,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226575139,
+    "wof:lastmodified":1537679624,
+    "wof:name":"Kanshi",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53674000000002,
+    33.1831,
+    73.53674000000002,
+    33.1831
+],
+  "geometry": {"coordinates":[73.53674000000002,33.1831],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326834653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.695,24.85778,66.695,24.85778",
+    "geom:latitude":24.85778,
+    "geom:longitude":66.695,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Phull",
+    "gn:country_code":"PK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168099,
+    "gn:latitude":24.85778,
+    "gn:longitude":66.695,
+    "gn:modification_date":"1998-02-26",
+    "gn:name":"Phull",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168099
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"133974f7c3cc8c71dd7b59f446e8d3ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":1326834653,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1326834653,
+    "wof:lastmodified":1537043463,
+    "wof:name":"Phull",
+    "wof:parent_id":1108692233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.695,
+    24.85778,
+    66.695,
+    24.85778
+],
+  "geometry": {"coordinates":[66.69499999999999,24.85778],"type":"Point"}
+}

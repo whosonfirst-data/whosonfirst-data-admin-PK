@@ -1,0 +1,67 @@
+{
+  "id": 1193138025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91309,34.25998,72.91309,34.25998",
+    "geom:latitude":34.25998,
+    "geom:longitude":72.91309,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chandaur",
+    "gn:country_code":"PK",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378362,
+    "gn:latitude":34.25998,
+    "gn:longitude":72.91309,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Chandaur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378362
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1676a2075e2b2dbbbb9f959e5cfbdf03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1193138025,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193138025,
+    "wof:lastmodified":1543515417,
+    "wof:name":"Chandaur",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91309,
+    34.25998,
+    72.91309,
+    34.25998
+],
+  "geometry": {"coordinates":[72.91309,34.25998],"type":"Point"}
+}

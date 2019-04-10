@@ -1,0 +1,67 @@
+{
+  "id": 1293699293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56568,30.47614,66.56568,30.47614",
+    "geom:latitude":30.47614,
+    "geom:longitude":66.56568,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kundal",
+    "gn:country_code":"PK",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1351569,
+    "gn:latitude":30.47614,
+    "gn:longitude":66.56568,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kundal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351569
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a4fdd8bcd8bbd785d9e969de30099c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1293699293,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293699293,
+    "wof:lastmodified":1536978360,
+    "wof:name":"Kundal",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56568,
+    30.47614,
+    66.56568,
+    30.47614
+],
+  "geometry": {"coordinates":[66.56568,30.47614],"type":"Point"}
+}

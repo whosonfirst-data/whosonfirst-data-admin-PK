@@ -1,0 +1,78 @@
+{
+  "id": 1209735679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.84338,36.22104,74.84338,36.22104",
+    "geom:latitude":36.22104,
+    "geom:longitude":74.84338,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hura",
+    "gn:country_code":"PK",
+    "gn:dem":2506,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427930,
+    "gn:latitude":36.22104,
+    "gn:longitude":74.84338,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Hura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427930
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3989c831e7aaf6e10932db4ab6044815",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1209735679,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1209735679,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209735679,
+    "wof:lastmodified":1536373991,
+    "wof:name":"Hura",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.84338000000002,
+    36.22104,
+    74.84338000000002,
+    36.22104
+],
+  "geometry": {"coordinates":[74.84338000000002,36.22104],"type":"Point"}
+}

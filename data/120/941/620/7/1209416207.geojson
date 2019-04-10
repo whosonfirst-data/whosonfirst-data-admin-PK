@@ -1,0 +1,67 @@
+{
+  "id": 1209416207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24939,33.88809,73.24939,33.88809",
+    "geom:latitude":33.88809,
+    "geom:longitude":73.24939,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dakhan",
+    "gn:country_code":"PK",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423833,
+    "gn:latitude":33.88809,
+    "gn:longitude":73.24939,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Dakhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423833
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1de14c91335b14e5235d7556fa1c6f8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209416207,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209416207,
+    "wof:lastmodified":1543515622,
+    "wof:name":"Dakhan",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24939,
+    33.88809000000001,
+    73.24939,
+    33.88809000000001
+],
+  "geometry": {"coordinates":[73.24939000000001,33.88809000000001],"type":"Point"}
+}

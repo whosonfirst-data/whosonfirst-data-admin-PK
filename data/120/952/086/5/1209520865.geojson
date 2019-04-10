@@ -1,0 +1,64 @@
+{
+  "id": 1209520865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13384,33.4633,73.13384,33.4633",
+    "geom:latitude":33.4633,
+    "geom:longitude":73.13384,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarhadi",
+    "gn:country_code":"PK",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7083333,
+    "gn:latitude":33.4633,
+    "gn:longitude":73.13384,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Sarhadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarhandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7083333
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"06023dbebb157a6664d9f9901937bef3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209520865
+        }
+    ],
+    "wof:id":1209520865,
+    "wof:lastmodified":1537681664,
+    "wof:name":"Sarhadi",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13384,
+    33.4633,
+    73.13384,
+    33.4633
+],
+  "geometry": {"coordinates":[73.13384000000001,33.4633],"type":"Point"}
+}

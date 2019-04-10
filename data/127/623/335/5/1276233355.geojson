@@ -1,0 +1,67 @@
+{
+  "id": 1276233355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20509,28.47413,72.20509,28.47413",
+    "geom:latitude":28.47413,
+    "geom:longitude":72.20509,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Winjon",
+    "gn:country_code":"PK",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11083037,
+    "gn:latitude":28.47413,
+    "gn:longitude":72.20509,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Winjon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11083037
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c90ac63a7775d7e0e55d90f208cf4520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1276233355,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276233355,
+    "wof:lastmodified":1536913089,
+    "wof:name":"Winjon",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20509,
+    28.47413,
+    72.20509,
+    28.47413
+],
+  "geometry": {"coordinates":[72.20509,28.47413],"type":"Point"}
+}

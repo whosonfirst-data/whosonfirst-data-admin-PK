@@ -1,0 +1,67 @@
+{
+  "id": 1293200369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2349,29.5873,72.2349,29.5873",
+    "geom:latitude":29.5873,
+    "geom:longitude":72.2349,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ghanipur",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383124,
+    "gn:latitude":29.5873,
+    "gn:longitude":72.2349,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Ghanipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383124
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4925946984a4fa6275e2fdca2d78c466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1293200369,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293200369,
+    "wof:lastmodified":1536704287,
+    "wof:name":"Ghanipur",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2349,
+    29.5873,
+    72.2349,
+    29.5873
+],
+  "geometry": {"coordinates":[72.2349,29.5873],"type":"Point"}
+}

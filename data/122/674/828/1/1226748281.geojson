@@ -1,0 +1,67 @@
+{
+  "id": 1226748281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.6431,34.75989,72.6431,34.75989",
+    "geom:latitude":34.75989,
+    "geom:longitude":72.6431,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gamiar",
+    "gn:country_code":"PK",
+    "gn:dem":1539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420882,
+    "gn:latitude":34.75989,
+    "gn:longitude":72.6431,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Gamiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420882
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c984c9df86007bd3d447485182a4d85e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1226748281,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748281,
+    "wof:lastmodified":1536712168,
+    "wof:name":"Gamiar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.6431,
+    34.75989000000001,
+    72.6431,
+    34.75989000000001
+],
+  "geometry": {"coordinates":[72.6431,34.75989000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344157781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91668,34.39655,72.91668,34.39655",
+    "geom:latitude":34.39655,
+    "geom:longitude":72.91668,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sangi",
+    "gn:country_code":"PK",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378642,
+    "gn:latitude":34.39655,
+    "gn:longitude":72.91668,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Sangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378642
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"17ffc982d35f51acb245efc877905140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1344157781,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344157781,
+    "wof:lastmodified":1536735287,
+    "wof:name":"Sangi",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91668,
+    34.39655,
+    72.91668,
+    34.39655
+],
+  "geometry": {"coordinates":[72.91668,34.39655],"type":"Point"}
+}

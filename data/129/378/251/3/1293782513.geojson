@@ -1,0 +1,67 @@
+{
+  "id": 1293782513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48234,27.52736,68.48234,27.52736",
+    "geom:latitude":27.52736,
+    "geom:longitude":68.48234,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kiln",
+    "gn:country_code":"PK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7352562,
+    "gn:latitude":27.52736,
+    "gn:longitude":68.48234,
+    "gn:modification_date":"2016-12-04",
+    "gn:name":"Kiln",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7352562
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"304bd2a70414aea003ae62d94ebd8344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1293782513,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293782513,
+    "wof:lastmodified":1536857579,
+    "wof:name":"Kiln",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48234000000001,
+    27.52736,
+    68.48234000000001,
+    27.52736
+],
+  "geometry": {"coordinates":[68.48234000000001,27.52736],"type":"Point"}
+}

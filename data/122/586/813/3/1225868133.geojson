@@ -1,0 +1,67 @@
+{
+  "id": 1225868133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37504,30.16353,71.37504,30.16353",
+    "geom:latitude":30.16353,
+    "geom:longitude":71.37504,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Karari",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11349002,
+    "gn:latitude":30.16353,
+    "gn:longitude":71.37504,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Karari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11349002
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a571e8179f64958b2797f79d264eb11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1225868133,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225868133,
+    "wof:lastmodified":1536980761,
+    "wof:name":"Karari",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37504,
+    30.16353,
+    71.37504,
+    30.16353
+],
+  "geometry": {"coordinates":[71.37504,30.16353],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310502679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.69539,33.95471,72.69539,33.95471",
+    "geom:latitude":33.95471,
+    "geom:longitude":72.69539,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorma",
+    "gn:country_code":"PK",
+    "gn:dem":611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097501,
+    "gn:latitude":33.95471,
+    "gn:longitude":72.69539,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gorma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097501
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"50101106db2f5959d98d113c62064518",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1310502679,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310502679,
+    "wof:lastmodified":1536921654,
+    "wof:name":"Gorma",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.69539,
+    33.95471,
+    72.69539,
+    33.95471
+],
+  "geometry": {"coordinates":[72.69539,33.95471],"type":"Point"}
+}

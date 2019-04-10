@@ -1,0 +1,67 @@
+{
+  "id": 1209215455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.44452,34.75668,72.44452,34.75668",
+    "geom:latitude":34.75668,
+    "geom:longitude":72.44452,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gadakot",
+    "gn:country_code":"PK",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1384705,
+    "gn:latitude":34.75668,
+    "gn:longitude":72.44452,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Gadakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1384705
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"790f37dbea26aa5c7ac300ed0e668dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1209215455,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215455,
+    "wof:lastmodified":1543515537,
+    "wof:name":"Gadakot",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.44452,
+    34.75668,
+    72.44452,
+    34.75668
+],
+  "geometry": {"coordinates":[72.44452,34.75668],"type":"Point"}
+}

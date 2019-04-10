@@ -1,0 +1,67 @@
+{
+  "id": 1310098351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79307,24.49548,68.79307,24.49548",
+    "geom:latitude":24.49548,
+    "geom:longitude":68.79307,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sirani",
+    "gn:country_code":"PK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11406256,
+    "gn:latitude":24.49548,
+    "gn:longitude":68.79307,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Sirani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11406256
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4e820c0631266583e1fe2bee2cc69e0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1310098351,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310098351,
+    "wof:lastmodified":1537006092,
+    "wof:name":"Sirani",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79307,
+    24.49548,
+    68.79307,
+    24.49548
+],
+  "geometry": {"coordinates":[68.79307,24.49548],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1259484281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54325,35.21397,72.54325,35.21397",
+    "geom:latitude":35.21397,
+    "geom:longitude":72.54325,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lambat Jol",
+    "gn:country_code":"PK",
+    "gn:dem":1501,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377619,
+    "gn:latitude":35.21397,
+    "gn:longitude":72.54325,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lambat Jol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "L\u0101mbat Jal"
+    ],
+    "name:und_x_variant":[
+        "Jai",
+        "Hab\u012bb \u0100b\u0101d",
+        "Lambat Jol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a891e080b7c1e331a2c02d231fa914c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1259484281,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259484281,
+    "wof:lastmodified":1537680682,
+    "wof:name":"Lambat Jol",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54325,
+    35.21397,
+    72.54325,
+    35.21397
+],
+  "geometry": {"coordinates":[72.54325,35.21397],"type":"Point"}
+}

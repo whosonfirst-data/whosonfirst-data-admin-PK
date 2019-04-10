@@ -1,0 +1,78 @@
+{
+  "id": 1226236187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.25855,36.64877,75.25855,36.64877",
+    "geom:latitude":36.64877,
+    "geom:longitude":75.25855,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dih",
+    "gn:country_code":"PK",
+    "gn:dem":5031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7449723,
+    "gn:latitude":36.64877,
+    "gn:longitude":75.25855,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Dih",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7449723
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0a59d6501bf3062c199170efdd54dee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226236187,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226236187,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226236187,
+    "wof:lastmodified":1536947762,
+    "wof:name":"Dih",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.25855,
+    36.64877,
+    75.25855,
+    36.64877
+],
+  "geometry": {"coordinates":[75.25855,36.64877],"type":"Point"}
+}

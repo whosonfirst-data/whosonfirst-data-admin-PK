@@ -1,0 +1,67 @@
+{
+  "id": 1293306235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69722,32.38,69.69722,32.38",
+    "geom:latitude":32.38,
+    "geom:longitude":69.69722,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Poya",
+    "gn:country_code":"PK",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107449,
+    "gn:latitude":32.38,
+    "gn:longitude":69.69722,
+    "gn:modification_date":"2005-05-03",
+    "gn:name":"Poya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107449
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a9bddb515d0f472721de622ce075acb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1293306235,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293306235,
+    "wof:lastmodified":1537046321,
+    "wof:name":"Poya",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69722,
+    32.38,
+    69.69722,
+    32.38
+],
+  "geometry": {"coordinates":[69.69722,32.38],"type":"Point"}
+}

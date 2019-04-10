@@ -1,0 +1,71 @@
+{
+  "id": 1344160361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29198,33.90257,70.29198,33.90257",
+    "geom:latitude":33.90257,
+    "geom:longitude":70.29198,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dar",
+    "gn:country_code":"PK",
+    "gn:dem":2340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343353,
+    "gn:latitude":33.90257,
+    "gn:longitude":70.29198,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Dar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darra",
+        "Dar Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343353
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"54db9f211254a74b537f1a8fa13858b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1344160361,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1344160361,
+    "wof:lastmodified":1537680225,
+    "wof:name":"Dar",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29198000000001,
+    33.90257,
+    70.29198000000001,
+    33.90257
+],
+  "geometry": {"coordinates":[70.29198000000001,33.90257],"type":"Point"}
+}

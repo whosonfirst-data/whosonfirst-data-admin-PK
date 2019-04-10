@@ -1,0 +1,67 @@
+{
+  "id": 1226443367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93894,34.88564,73.93894,34.88564",
+    "geom:latitude":34.88564,
+    "geom:longitude":73.93894,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Maidan",
+    "gn:country_code":"PK",
+    "gn:dem":3404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385952,
+    "gn:latitude":34.88564,
+    "gn:longitude":73.93894,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Maidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385952
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3b07fa95815928aad6583c620827c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226443367,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226443367,
+    "wof:lastmodified":1536648603,
+    "wof:name":"Maidan",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93894,
+    34.88564,
+    73.93894,
+    34.88564
+],
+  "geometry": {"coordinates":[73.93894,34.88564],"type":"Point"}
+}

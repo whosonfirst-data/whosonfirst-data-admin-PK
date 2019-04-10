@@ -1,0 +1,67 @@
+{
+  "id": 1293102115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49837,34.68188,71.49837,34.68188",
+    "geom:latitude":34.68188,
+    "geom:longitude":71.49837,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Top",
+    "gn:country_code":"PK",
+    "gn:dem":966,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107110,
+    "gn:latitude":34.68188,
+    "gn:longitude":71.49837,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Top",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107110
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7d11aa5ac8366e119e92094f44d49115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1293102115,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293102115,
+    "wof:lastmodified":1536844539,
+    "wof:name":"Top",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49837,
+    34.68188,
+    71.49837,
+    34.68188
+],
+  "geometry": {"coordinates":[71.49836999999999,34.68188],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1277083405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4027,34.7354,71.4027,34.7354",
+    "geom:latitude":34.7354,
+    "geom:longitude":71.4027,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fazalabad",
+    "gn:country_code":"PK",
+    "gn:dem":957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9274335,
+    "gn:latitude":34.7354,
+    "gn:longitude":71.4027,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Fazalabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9274335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fca43cf489d024e3ef03d31426804496",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1277083405,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1277083405,
+    "wof:lastmodified":1536767003,
+    "wof:name":"Fazalabad",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4027,
+    34.7354,
+    71.4027,
+    34.7354
+],
+  "geometry": {"coordinates":[71.4027,34.7354],"type":"Point"}
+}

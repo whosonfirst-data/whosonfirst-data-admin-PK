@@ -1,0 +1,67 @@
+{
+  "id": 1243171483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.42975,31.10385,74.42975,31.10385",
+    "geom:latitude":31.10385,
+    "geom:longitude":74.42975,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhasarpura",
+    "gn:country_code":"PK",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510672,
+    "gn:latitude":31.10385,
+    "gn:longitude":74.42975,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Bhasarpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510672
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d85325920a029e2fa6b71376a990fcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1243171483,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243171483,
+    "wof:lastmodified":1536705260,
+    "wof:name":"Bhasarpura",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.42975,
+    31.10385,
+    74.42975,
+    31.10385
+],
+  "geometry": {"coordinates":[74.42975,31.10385],"type":"Point"}
+}

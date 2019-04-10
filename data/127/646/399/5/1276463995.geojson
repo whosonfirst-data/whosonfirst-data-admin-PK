@@ -1,0 +1,78 @@
+{
+  "id": 1276463995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16912,35.12558,74.16912,35.12558",
+    "geom:latitude":35.12558,
+    "geom:longitude":74.16912,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jator Basti",
+    "gn:country_code":"PK",
+    "gn:dem":3585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069440,
+    "gn:latitude":35.12558,
+    "gn:longitude":74.16912,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Jator Basti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069440
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b18537ab55861477ea0f9ea5f80dca0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276463995,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276463995,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276463995,
+    "wof:lastmodified":1536600496,
+    "wof:name":"Jator Basti",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16911999999998,
+    35.12558,
+    74.16911999999998,
+    35.12558
+],
+  "geometry": {"coordinates":[74.16911999999998,35.12558],"type":"Point"}
+}

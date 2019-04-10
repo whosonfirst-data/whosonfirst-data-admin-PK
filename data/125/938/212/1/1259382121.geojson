@@ -1,0 +1,67 @@
+{
+  "id": 1259382121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1725,31.27306,74.1725,31.27306",
+    "geom:latitude":31.27306,
+    "geom:longitude":74.1725,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nahla",
+    "gn:country_code":"PK",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330625,
+    "gn:latitude":31.27306,
+    "gn:longitude":74.1725,
+    "gn:modification_date":"1999-03-17",
+    "gn:name":"N\u0101hla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330625
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b31b87c9f1870db1ffa77d26c584652",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1259382121,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259382121,
+    "wof:lastmodified":1537003482,
+    "wof:name":"Nahla",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1725,
+    31.27306,
+    74.1725,
+    31.27306
+],
+  "geometry": {"coordinates":[74.1725,31.27306],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310503621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70932,27.91346,66.70932,27.91346",
+    "geom:latitude":27.91346,
+    "geom:longitude":66.70932,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bhit",
+    "gn:country_code":"PK",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234595,
+    "gn:latitude":27.91346,
+    "gn:longitude":66.70932,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bhit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234595
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3df6f7b0a292bd3f6064602ec3e502d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1310503621,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310503621,
+    "wof:lastmodified":1536920258,
+    "wof:name":"Bhit",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70931999999999,
+    27.91346,
+    66.70931999999999,
+    27.91346
+],
+  "geometry": {"coordinates":[66.70931999999999,27.91346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309838433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.71358,31.80276,72.71358,31.80276",
+    "geom:latitude":31.80276,
+    "geom:longitude":72.71358,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ladiwala",
+    "gn:country_code":"PK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1372462,
+    "gn:latitude":31.80276,
+    "gn:longitude":72.71358,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ladiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1372462
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"96baec360ec69611593116f6ff56bce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1309838433,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309838433,
+    "wof:lastmodified":1536883538,
+    "wof:name":"Ladiwala",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.71358000000002,
+    31.80276,
+    72.71358000000002,
+    31.80276
+],
+  "geometry": {"coordinates":[72.71358000000002,31.80276],"type":"Point"}
+}

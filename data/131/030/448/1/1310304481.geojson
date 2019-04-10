@@ -1,0 +1,67 @@
+{
+  "id": 1310304481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11392,32.45603,73.11392,32.45603",
+    "geom:latitude":32.45603,
+    "geom:longitude":73.11392,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khizar",
+    "gn:country_code":"PK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173867,
+    "gn:latitude":32.45603,
+    "gn:longitude":73.11392,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Khizar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173867
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6bdf2cd199e0f1cd0b6b2e61d772d2c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1310304481,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310304481,
+    "wof:lastmodified":1536709689,
+    "wof:name":"Khizar",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11392,
+    32.45603,
+    73.11392,
+    32.45603
+],
+  "geometry": {"coordinates":[73.11391999999999,32.45603],"type":"Point"}
+}

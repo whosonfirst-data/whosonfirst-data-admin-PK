@@ -1,0 +1,81 @@
+{
+  "id": 1326951633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.786,34.15237,73.786,34.15237",
+    "geom:latitude":34.15237,
+    "geom:longitude":73.786,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nandran",
+    "gn:country_code":"PK",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415675,
+    "gn:latitude":34.15237,
+    "gn:longitude":73.786,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nandran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101ndar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415675
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"365147c23fc564c23f7fbf9a1eb156d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326951633,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326951633,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326951633,
+    "wof:lastmodified":1537681367,
+    "wof:name":"Nandran",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.786,
+    34.15237,
+    73.786,
+    34.15237
+],
+  "geometry": {"coordinates":[73.786,34.15237],"type":"Point"}
+}

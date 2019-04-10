@@ -1,0 +1,67 @@
+{
+  "id": 1243370391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.6385,35.0323,72.6385,35.0323",
+    "geom:latitude":35.0323,
+    "geom:longitude":72.6385,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Shilar",
+    "gn:country_code":"PK",
+    "gn:dem":2600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377385,
+    "gn:latitude":35.0323,
+    "gn:longitude":72.6385,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shilar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377385
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a77f81df3b8780f2c8b1099af6fb2c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1243370391,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243370391,
+    "wof:lastmodified":1536915681,
+    "wof:name":"Shilar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.6385,
+    35.0323,
+    72.6385,
+    35.0323
+],
+  "geometry": {"coordinates":[72.63849999999999,35.0323],"type":"Point"}
+}

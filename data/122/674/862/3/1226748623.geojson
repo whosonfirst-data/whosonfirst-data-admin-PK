@@ -1,0 +1,67 @@
+{
+  "id": 1226748623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91977,34.95578,72.91977,34.95578",
+    "geom:latitude":34.95578,
+    "geom:longitude":72.91977,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lorin",
+    "gn:country_code":"PK",
+    "gn:dem":1368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378293,
+    "gn:latitude":34.95578,
+    "gn:longitude":72.91977,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Lorin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378293
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6f02a39a488be4756ea7f4a6a17bb7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226748623,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748623,
+    "wof:lastmodified":1536711682,
+    "wof:name":"Lorin",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91977,
+    34.95578,
+    72.91977,
+    34.95578
+],
+  "geometry": {"coordinates":[72.91977,34.95578],"type":"Point"}
+}

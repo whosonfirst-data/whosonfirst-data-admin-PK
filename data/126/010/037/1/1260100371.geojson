@@ -1,0 +1,89 @@
+{
+  "id": 1260100371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.79911,36.16517,72.79911,36.16517",
+    "geom:latitude":36.16517,
+    "geom:longitude":72.79911,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Handarap",
+    "gn:country_code":"PK",
+    "gn:dem":2948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7457778,
+    "gn:latitude":36.16517,
+    "gn:longitude":72.79911,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Handarap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Handaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7457778
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3ccfa159e4345c88a0482ef03b3b1464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1260100371,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1260100371,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1260100371,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260100371,
+    "wof:lastmodified":1537681922,
+    "wof:name":"Handarap",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.79911,
+    36.16517,
+    72.79911,
+    36.16517
+],
+  "geometry": {"coordinates":[72.79911,36.16517],"type":"Point"}
+}

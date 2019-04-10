@@ -1,0 +1,67 @@
+{
+  "id": 1243555397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94323,34.57594,72.94323,34.57594",
+    "geom:latitude":34.57594,
+    "geom:longitude":72.94323,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Doban",
+    "gn:country_code":"PK",
+    "gn:dem":2218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482620,
+    "gn:latitude":34.57594,
+    "gn:longitude":72.94323,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Doban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482620
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1c184c9ce8b9d0b3d9c4fc783bc79905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1243555397,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243555397,
+    "wof:lastmodified":1536648181,
+    "wof:name":"Doban",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94323,
+    34.57594,
+    72.94323,
+    34.57594
+],
+  "geometry": {"coordinates":[72.94323,34.57594],"type":"Point"}
+}

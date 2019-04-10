@@ -1,0 +1,64 @@
+{
+  "id": 1209514889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.29671,31.88679,71.29671,31.88679",
+    "geom:latitude":31.88679,
+    "geom:longitude":71.29671,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kath",
+    "gn:country_code":"PK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7323918,
+    "gn:latitude":31.88679,
+    "gn:longitude":71.29671,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kathmor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7323918
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74b168cb1c92e6bdabe5c0696a1c5d03",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209514889
+        }
+    ],
+    "wof:id":1209514889,
+    "wof:lastmodified":1537681747,
+    "wof:name":"Kath",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.29671,
+    31.88679,
+    71.29671,
+    31.88679
+],
+  "geometry": {"coordinates":[71.29671,31.88679],"type":"Point"}
+}

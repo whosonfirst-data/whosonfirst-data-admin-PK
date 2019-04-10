@@ -1,0 +1,67 @@
+{
+  "id": 1277082079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.13912,27.29775,66.13912,27.29775",
+    "geom:latitude":27.29775,
+    "geom:longitude":66.13912,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lambi",
+    "gn:country_code":"PK",
+    "gn:dem":1024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300438,
+    "gn:latitude":27.29775,
+    "gn:longitude":66.13912,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Lambi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300438
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6731639b0cecc83612187577f90e65fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1277082079,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1277082079,
+    "wof:lastmodified":1536768990,
+    "wof:name":"Lambi",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.13911999999999,
+    27.29775,
+    66.13911999999999,
+    27.29775
+],
+  "geometry": {"coordinates":[66.13911999999999,27.29775],"type":"Point"}
+}

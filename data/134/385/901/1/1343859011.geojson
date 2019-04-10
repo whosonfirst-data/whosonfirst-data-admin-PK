@@ -1,0 +1,67 @@
+{
+  "id": 1343859011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.855,35.04007,72.855,35.04007",
+    "geom:latitude":35.04007,
+    "geom:longitude":72.855,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chhar",
+    "gn:country_code":"PK",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479223,
+    "gn:latitude":35.04007,
+    "gn:longitude":72.855,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Chhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479223
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e0a965f92e324e9e73c9919f6e9bdf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1343859011,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343859011,
+    "wof:lastmodified":1536668710,
+    "wof:name":"Chhar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.855,
+    35.04007,
+    72.855,
+    35.04007
+],
+  "geometry": {"coordinates":[72.855,35.04007],"type":"Point"}
+}

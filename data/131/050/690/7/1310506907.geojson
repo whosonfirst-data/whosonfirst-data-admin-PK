@@ -1,0 +1,71 @@
+{
+  "id": 1310506907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11667,33.20645,73.11667,33.20645",
+    "geom:latitude":33.20645,
+    "geom:longitude":73.11667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hisal",
+    "gn:country_code":"PK",
+    "gn:dem":518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176857,
+    "gn:latitude":33.20645,
+    "gn:longitude":73.11667,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Hisal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasal",
+        "Hisal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176857
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a753203a834edb407088719046a24276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1310506907,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310506907,
+    "wof:lastmodified":1537679695,
+    "wof:name":"Hisal",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11667,
+    33.20645,
+    73.11667,
+    33.20645
+],
+  "geometry": {"coordinates":[73.11667,33.20645],"type":"Point"}
+}

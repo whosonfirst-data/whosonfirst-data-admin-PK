@@ -1,0 +1,67 @@
+{
+  "id": 1310510487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.83796,32.82002,69.83796,32.82002",
+    "geom:latitude":32.82002,
+    "geom:longitude":69.83796,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Om",
+    "gn:country_code":"PK",
+    "gn:dem":1892,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365475,
+    "gn:latitude":32.82002,
+    "gn:longitude":69.83796,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Om",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365475
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"539ef08fb483c9cf41eff002a79b87a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1310510487,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310510487,
+    "wof:lastmodified":1536909945,
+    "wof:name":"Om",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.83796,
+    32.82002,
+    69.83796,
+    32.82002
+],
+  "geometry": {"coordinates":[69.83796,32.82002],"type":"Point"}
+}

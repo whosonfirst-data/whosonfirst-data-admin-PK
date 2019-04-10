@@ -1,0 +1,67 @@
+{
+  "id": 1242983301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.54137,27.89916,63.54137,27.89916",
+    "geom:latitude":27.89916,
+    "geom:longitude":63.54137,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gwashank",
+    "gn:country_code":"PK",
+    "gn:dem":532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201908,
+    "gn:latitude":27.89916,
+    "gn:longitude":63.54137,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Gwashank",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201908
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e1ad70cdea8061788f2a61e7b98aa5ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1242983301,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242983301,
+    "wof:lastmodified":1536975686,
+    "wof:name":"Gwashank",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.54136999999999,
+    27.89916,
+    63.54136999999999,
+    27.89916
+],
+  "geometry": {"coordinates":[63.54136999999999,27.89916],"type":"Point"}
+}

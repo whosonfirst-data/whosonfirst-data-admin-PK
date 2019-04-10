@@ -1,0 +1,67 @@
+{
+  "id": 1260183351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91303,35.65553,72.91303,35.65553",
+    "geom:latitude":35.65553,
+    "geom:longitude":72.91303,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Belai",
+    "gn:country_code":"PK",
+    "gn:dem":2456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023772,
+    "gn:latitude":35.65553,
+    "gn:longitude":72.91303,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Belai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023772
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"29c60979241abce373f25fa8383e6740",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1260183351,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260183351,
+    "wof:lastmodified":1536847017,
+    "wof:name":"Belai",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91303,
+    35.65553,
+    72.91303,
+    35.65553
+],
+  "geometry": {"coordinates":[72.91303000000001,35.65553],"type":"Point"}
+}

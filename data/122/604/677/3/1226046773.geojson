@@ -1,0 +1,67 @@
+{
+  "id": 1226046773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15883,24.49002,68.15883,24.49002",
+    "geom:latitude":24.49002,
+    "geom:longitude":68.15883,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kutk",
+    "gn:country_code":"PK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11591271,
+    "gn:latitude":24.49002,
+    "gn:longitude":68.15883,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Kutk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11591271
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ee5a2e2bab3b5861385d811c7652296c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692393,
+            "locality_id":1226046773,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226046773,
+    "wof:lastmodified":1536724002,
+    "wof:name":"Kutk",
+    "wof:parent_id":1108692393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15883000000001,
+    24.49002,
+    68.15883000000001,
+    24.49002
+],
+  "geometry": {"coordinates":[68.15883000000001,24.49002],"type":"Point"}
+}

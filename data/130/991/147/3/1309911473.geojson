@@ -1,0 +1,67 @@
+{
+  "id": 1309911473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20076,31.38865,72.20076,31.38865",
+    "geom:latitude":31.38865,
+    "geom:longitude":72.20076,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sajjadabad",
+    "gn:country_code":"PK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466054,
+    "gn:latitude":31.38865,
+    "gn:longitude":72.20076,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sajjadabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466054
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10971dbbd381fe7e9fc47e4870ef4d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1309911473,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309911473,
+    "wof:lastmodified":1536779234,
+    "wof:name":"Sajjadabad",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20076,
+    31.38865,
+    72.20076,
+    31.38865
+],
+  "geometry": {"coordinates":[72.20076,31.38865],"type":"Point"}
+}

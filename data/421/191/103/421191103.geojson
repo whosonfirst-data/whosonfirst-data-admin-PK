@@ -1,0 +1,75 @@
+{
+  "id": 421191103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.505775,36.27425,72.505775,36.27425",
+    "geom:latitude":36.27425,
+    "geom:longitude":72.505775,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mastoj",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"North-West Frontier",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1130211,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":2211229,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2211229,
+        "qs:id":1130211
+    },
+    "wof:country":"PK",
+    "wof:created":1459009679,
+    "wof:geomhash":"b4b0ab4fbdf6e3e51f7cf88edb53950a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":421191103,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":421191103,
+    "wof:lastmodified":1543515442,
+    "wof:name":"Mastoj",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.505775,
+    36.27425,
+    72.505775,
+    36.27425
+],
+  "geometry": {"coordinates":[72.505775,36.27425],"type":"Point"}
+}

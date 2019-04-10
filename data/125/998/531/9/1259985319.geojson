@@ -1,0 +1,67 @@
+{
+  "id": 1259985319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.48524,33.57907,72.48524,33.57907",
+    "geom:latitude":33.57907,
+    "geom:longitude":72.48524,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kutehra",
+    "gn:country_code":"PK",
+    "gn:dem":523,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340734,
+    "gn:latitude":33.57907,
+    "gn:longitude":72.48524,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kutehra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340734
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d2f015c68723ff8e0a3ba2ef99cc0472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1259985319,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259985319,
+    "wof:lastmodified":1536630888,
+    "wof:name":"Kutehra",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.48524,
+    33.57907,
+    72.48524,
+    33.57907
+],
+  "geometry": {"coordinates":[72.48524,33.57907],"type":"Point"}
+}

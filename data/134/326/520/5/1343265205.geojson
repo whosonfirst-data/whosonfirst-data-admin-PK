@@ -1,0 +1,67 @@
+{
+  "id": 1343265205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47611,32.34361,69.47611,32.34361",
+    "geom:latitude":32.34361,
+    "geom:longitude":69.47611,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Toji Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107897,
+    "gn:latitude":32.34361,
+    "gn:longitude":69.47611,
+    "gn:modification_date":"2005-03-24",
+    "gn:name":"Toji Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107897
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"885b69ed72fc94d909e61cbf3b96a6fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1343265205,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343265205,
+    "wof:lastmodified":1537026824,
+    "wof:name":"Toji Khel",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47610999999999,
+    32.34361,
+    69.47610999999999,
+    32.34361
+],
+  "geometry": {"coordinates":[69.47610999999999,32.34361],"type":"Point"}
+}

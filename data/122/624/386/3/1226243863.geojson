@@ -1,0 +1,67 @@
+{
+  "id": 1226243863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.30597,35.06439,72.30597,35.06439",
+    "geom:latitude":35.06439,
+    "geom:longitude":72.30597,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Nalkot",
+    "gn:country_code":"PK",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1391016,
+    "gn:latitude":35.06439,
+    "gn:longitude":72.30597,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Nalkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1391016
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f062d5b268035bb0db1bbc0819010b03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1226243863,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226243863,
+    "wof:lastmodified":1536937082,
+    "wof:name":"Nalkot",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.30597,
+    35.06439,
+    72.30597,
+    35.06439
+],
+  "geometry": {"coordinates":[72.30597,35.06439],"type":"Point"}
+}

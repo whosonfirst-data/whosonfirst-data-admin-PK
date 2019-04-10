@@ -1,0 +1,67 @@
+{
+  "id": 1259584121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51944,34.36389,72.51944,34.36389",
+    "geom:latitude":34.36389,
+    "geom:longitude":72.51944,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Banda",
+    "gn:country_code":"PK",
+    "gn:dem":795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420528,
+    "gn:latitude":34.36389,
+    "gn:longitude":72.51944,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"B\u0101nda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420528
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4f089546285adb722a334bc84f0614e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1259584121,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259584121,
+    "wof:lastmodified":1536714236,
+    "wof:name":"Banda",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51944,
+    34.36389,
+    72.51944,
+    34.36389
+],
+  "geometry": {"coordinates":[72.51944,34.36389],"type":"Point"}
+}

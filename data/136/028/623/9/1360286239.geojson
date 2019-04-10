@@ -1,0 +1,67 @@
+{
+  "id": 1360286239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.72041,35.50355,73.72041,35.50355",
+    "geom:latitude":35.50355,
+    "geom:longitude":73.72041,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bhashakot",
+    "gn:country_code":"PK",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021137,
+    "gn:latitude":35.50355,
+    "gn:longitude":73.72041,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bhashakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021137
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"24e177560a1b14ee7f743858cf81100c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1360286239,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360286239,
+    "wof:lastmodified":1543515325,
+    "wof:name":"Bhashakot",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.72041,
+    35.50355,
+    73.72041,
+    35.50355
+],
+  "geometry": {"coordinates":[73.72041,35.50355],"type":"Point"}
+}

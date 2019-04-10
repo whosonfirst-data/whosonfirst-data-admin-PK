@@ -1,0 +1,67 @@
+{
+  "id": 1293491855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30245,25.58846,70.30245,25.58846",
+    "geom:latitude":25.58846,
+    "geom:longitude":70.30245,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lakhnia",
+    "gn:country_code":"PK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039243,
+    "gn:latitude":25.58846,
+    "gn:longitude":70.30245,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Lakhnia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039243
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b570df75bd2fb35f293a2ff9b10b6432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1293491855,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293491855,
+    "wof:lastmodified":1536781236,
+    "wof:name":"Lakhnia",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30245,
+    25.58846,
+    70.30245,
+    25.58846
+],
+  "geometry": {"coordinates":[70.30244999999999,25.58846],"type":"Point"}
+}

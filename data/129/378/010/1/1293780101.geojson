@@ -1,0 +1,78 @@
+{
+  "id": 1293780101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.78416,35.1511,74.78416,35.1511",
+    "geom:latitude":35.1511,
+    "geom:longitude":74.78416,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mughalpura",
+    "gn:country_code":"PK",
+    "gn:dem":2715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070235,
+    "gn:latitude":35.1511,
+    "gn:longitude":74.78416,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Mughalpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070235
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8d7d2b714de6f4bfc54d5b836e5eecce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293780101,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293780101,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293780101,
+    "wof:lastmodified":1536860892,
+    "wof:name":"Mughalpura",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.78416,
+    35.1511,
+    74.78416,
+    35.1511
+],
+  "geometry": {"coordinates":[74.78416,35.1511],"type":"Point"}
+}

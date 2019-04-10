@@ -1,0 +1,67 @@
+{
+  "id": 1293208373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0263,30.87871,68.0263,30.87871",
+    "geom:latitude":30.87871,
+    "geom:longitude":68.0263,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Taskai",
+    "gn:country_code":"PK",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365848,
+    "gn:latitude":30.87871,
+    "gn:longitude":68.0263,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Taskai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365848
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a4b9ef126ae2124ef5344effdfc25a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1293208373,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293208373,
+    "wof:lastmodified":1536692567,
+    "wof:name":"Taskai",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0263,
+    30.87871,
+    68.0263,
+    30.87871
+],
+  "geometry": {"coordinates":[68.02630000000001,30.87871],"type":"Point"}
+}

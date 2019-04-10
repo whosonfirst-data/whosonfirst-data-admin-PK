@@ -1,0 +1,67 @@
+{
+  "id": 1360291039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25881,31.68287,74.25881,31.68287",
+    "geom:latitude":31.68287,
+    "geom:longitude":74.25881,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mubarak Town",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11510718,
+    "gn:latitude":31.68287,
+    "gn:longitude":74.25881,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mubarak Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11510718
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ad5745e0d51259d642e19b2684aff3bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1360291039,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360291039,
+    "wof:lastmodified":1536648119,
+    "wof:name":"Mubarak Town",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25881,
+    31.68287,
+    74.25881,
+    31.68287
+],
+  "geometry": {"coordinates":[74.25881,31.68287],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209728093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02278,31.16897,67.02278,31.16897",
+    "geom:latitude":31.16897,
+    "geom:longitude":67.02278,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Ghazi Bagh",
+    "gn:country_code":"PK",
+    "gn:dem":2125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1363366,
+    "gn:latitude":31.16897,
+    "gn:longitude":67.02278,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Ghazi Bagh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1363366
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"687ced999418d5c7c5fea37036341130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1209728093,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209728093,
+    "wof:lastmodified":1536381628,
+    "wof:name":"Ghazi Bagh",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02278000000001,
+    31.16897,
+    67.02278000000001,
+    31.16897
+],
+  "geometry": {"coordinates":[67.02278000000001,31.16897],"type":"Point"}
+}

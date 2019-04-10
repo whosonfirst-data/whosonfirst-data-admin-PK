@@ -1,0 +1,84 @@
+{
+  "id": 1226163043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16291,36.04876,74.16291,36.04876",
+    "geom:latitude":36.04876,
+    "geom:longitude":74.16291,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bargu Pain",
+    "gn:country_code":"PK",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1464519,
+    "gn:latitude":36.04876,
+    "gn:longitude":74.16291,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Bargu Pain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bargu",
+        "Bargu P\u0101in",
+        "Bargu Pain",
+        "Jandora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1464519
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"37de3c17c506b0c9127163d29035e5a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226163043,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226163043,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226163043,
+    "wof:lastmodified":1537681547,
+    "wof:name":"Bargu Pain",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16291,
+    36.04876,
+    74.16291,
+    36.04876
+],
+  "geometry": {"coordinates":[74.16291,36.04876],"type":"Point"}
+}

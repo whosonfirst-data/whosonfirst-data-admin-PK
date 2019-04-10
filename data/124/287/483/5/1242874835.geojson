@@ -1,0 +1,67 @@
+{
+  "id": 1242874835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.29888,34.51131,73.29888,34.51131",
+    "geom:latitude":34.51131,
+    "geom:longitude":73.29888,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kaimri",
+    "gn:country_code":"PK",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994201,
+    "gn:latitude":34.51131,
+    "gn:longitude":73.29888,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kaimri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994201
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3039ad5275bfe27b6e7555e47b46ad9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242874835,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242874835,
+    "wof:lastmodified":1536634236,
+    "wof:name":"Kaimri",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.29888000000003,
+    34.51130999999999,
+    73.29888000000003,
+    34.51130999999999
+],
+  "geometry": {"coordinates":[73.29888000000003,34.51130999999999],"type":"Point"}
+}

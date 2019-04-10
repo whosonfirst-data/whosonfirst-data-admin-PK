@@ -1,0 +1,67 @@
+{
+  "id": 1243073177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.28521,31.08114,72.28521,31.08114",
+    "geom:latitude":31.08114,
+    "geom:longitude":72.28521,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khalilabad",
+    "gn:country_code":"PK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482300,
+    "gn:latitude":31.08114,
+    "gn:longitude":72.28521,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Khalilabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482300
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"deb34beaf86050686508f6ccb7db212b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1243073177,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243073177,
+    "wof:lastmodified":1536845486,
+    "wof:name":"Khalilabad",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.28520999999998,
+    31.08114,
+    72.28520999999998,
+    31.08114
+],
+  "geometry": {"coordinates":[72.28520999999998,31.08114],"type":"Point"}
+}

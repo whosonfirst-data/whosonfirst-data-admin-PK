@@ -1,0 +1,67 @@
+{
+  "id": 1259588731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03408,30.17753,71.03408,30.17753",
+    "geom:latitude":30.17753,
+    "geom:longitude":71.03408,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Turkwala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368231,
+    "gn:latitude":30.17753,
+    "gn:longitude":71.03408,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Turkwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368231
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc64cb9e16d413441ce3ef77c310790a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1259588731,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259588731,
+    "wof:lastmodified":1536707484,
+    "wof:name":"Turkwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03408,
+    30.17753,
+    71.03408,
+    30.17753
+],
+  "geometry": {"coordinates":[71.03408,30.17753],"type":"Point"}
+}

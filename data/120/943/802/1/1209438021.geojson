@@ -1,0 +1,64 @@
+{
+  "id": 1209438021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67619,29.78671,72.67619,29.78671",
+    "geom:latitude":29.78671,
+    "geom:longitude":72.67619,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Shah Abbas",
+    "gn:country_code":"PK",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1372830,
+    "gn:latitude":29.78671,
+    "gn:longitude":72.67619,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shah Abbas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ab\u0101d Sh\u0101h"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1372830
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"52fb951fd586797f0ef0d25e03f76d2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209438021
+        }
+    ],
+    "wof:id":1209438021,
+    "wof:lastmodified":1537680620,
+    "wof:name":"Shah Abbas",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67619,
+    29.78671,
+    72.67619,
+    29.78671
+],
+  "geometry": {"coordinates":[72.67619000000001,29.78671],"type":"Point"}
+}

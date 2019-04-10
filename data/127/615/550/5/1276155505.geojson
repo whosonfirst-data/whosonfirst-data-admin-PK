@@ -1,0 +1,67 @@
+{
+  "id": 1276155505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.08319,32.31523,75.08319,32.31523",
+    "geom:latitude":32.31523,
+    "geom:longitude":75.08319,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pila Gujran",
+    "gn:country_code":"PK",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081417,
+    "gn:latitude":32.31523,
+    "gn:longitude":75.08319,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Pila Gujran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081417
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10ca63abac1b5d52e98f059734bd1d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1276155505,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276155505,
+    "wof:lastmodified":1537016385,
+    "wof:name":"Pila Gujran",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.08319,
+    32.31523,
+    75.08319,
+    32.31523
+],
+  "geometry": {"coordinates":[75.08319,32.31523],"type":"Point"}
+}

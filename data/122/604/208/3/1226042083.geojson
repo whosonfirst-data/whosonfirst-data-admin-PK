@@ -1,0 +1,67 @@
+{
+  "id": 1226042083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.69523,32.4733,74.69523,32.4733",
+    "geom:latitude":32.4733,
+    "geom:longitude":74.69523,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Manzurabad",
+    "gn:country_code":"PK",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11460184,
+    "gn:latitude":32.4733,
+    "gn:longitude":74.69523,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Manzurabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11460184
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7cb9151bae7371deb4b1d1d595a84e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1226042083,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226042083,
+    "wof:lastmodified":1536730794,
+    "wof:name":"Manzurabad",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.69523000000002,
+    32.4733,
+    74.69523000000002,
+    32.4733
+],
+  "geometry": {"coordinates":[74.69523000000002,32.4733],"type":"Point"}
+}

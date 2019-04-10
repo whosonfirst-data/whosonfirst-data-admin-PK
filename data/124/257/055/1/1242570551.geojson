@@ -1,0 +1,67 @@
+{
+  "id": 1242570551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16667,24.65,68.16667,24.65",
+    "geom:latitude":24.65,
+    "geom:longitude":68.16667,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Chandia",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181555,
+    "gn:latitude":24.65,
+    "gn:longitude":68.16667,
+    "gn:modification_date":"1996-01-24",
+    "gn:name":"Chandia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181555
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d9a51c2afd3b66711be75c8bc5fa4fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692393,
+            "locality_id":1242570551,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242570551,
+    "wof:lastmodified":1537070766,
+    "wof:name":"Chandia",
+    "wof:parent_id":1108692393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16667,
+    24.65,
+    68.16667,
+    24.65
+],
+  "geometry": {"coordinates":[68.16667,24.65],"type":"Point"}
+}

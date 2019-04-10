@@ -1,0 +1,67 @@
+{
+  "id": 1243262057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8761,27.48101,67.8761,27.48101",
+    "geom:latitude":27.48101,
+    "geom:longitude":67.8761,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Warand",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117573,
+    "gn:latitude":27.48101,
+    "gn:longitude":67.8761,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Warand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117573
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b86c47e9ee1497e3692ac0eb95ade597",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1243262057,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243262057,
+    "wof:lastmodified":1537068389,
+    "wof:name":"Warand",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8761,
+    27.48101,
+    67.8761,
+    27.48101
+],
+  "geometry": {"coordinates":[67.87609999999999,27.48101],"type":"Point"}
+}

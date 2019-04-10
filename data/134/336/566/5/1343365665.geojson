@@ -1,0 +1,75 @@
+{
+  "id": 1343365665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69127,34.18885,71.69127,34.18885",
+    "geom:latitude":34.18885,
+    "geom:longitude":71.69127,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Babakrai",
+    "gn:country_code":"PK",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1185087,
+    "gn:latitude":34.18885,
+    "gn:longitude":71.69127,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Babakrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ab\u0101bakrai"
+    ],
+    "name:und_x_variant":[
+        "Ab\u0101barrai",
+        "Ababakri",
+        "Babakrai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1185087
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7ad06aaec4a2432c32b7c5cbd704489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1343365665,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343365665,
+    "wof:lastmodified":1537679992,
+    "wof:name":"Babakrai",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69126999999997,
+    34.18885,
+    71.69126999999997,
+    34.18885
+],
+  "geometry": {"coordinates":[71.69126999999997,34.18885],"type":"Point"}
+}

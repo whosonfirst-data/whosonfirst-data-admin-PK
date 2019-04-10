@@ -1,0 +1,86 @@
+{
+  "id": 1293481849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82331,33.13174,73.82331,33.13174",
+    "geom:latitude":33.13174,
+    "geom:longitude":73.82331,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kund",
+    "gn:country_code":"PK",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1386404,
+    "gn:latitude":33.13174,
+    "gn:longitude":73.82331,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386404
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3147173b4fca3769c4e36d5cf4dfa86e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1293481849,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293481849,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293481849,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293481849,
+    "wof:lastmodified":1536795473,
+    "wof:name":"Kund",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82330999999998,
+    33.13174,
+    73.82330999999998,
+    33.13174
+],
+  "geometry": {"coordinates":[73.82330999999998,33.13174],"type":"Point"}
+}

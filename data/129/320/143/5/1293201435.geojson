@@ -1,0 +1,67 @@
+{
+  "id": 1293201435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.3011,34.65024,72.3011,34.65024",
+    "geom:latitude":34.65024,
+    "geom:longitude":72.3011,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gumbot",
+    "gn:country_code":"PK",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413869,
+    "gn:latitude":34.65024,
+    "gn:longitude":72.3011,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Gumbot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413869
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cd5001f02c33fa347db4632211b2ecb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1293201435,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293201435,
+    "wof:lastmodified":1536702752,
+    "wof:name":"Gumbot",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.3011,
+    34.65024,
+    72.3011,
+    34.65024
+],
+  "geometry": {"coordinates":[72.30110000000001,34.65024],"type":"Point"}
+}

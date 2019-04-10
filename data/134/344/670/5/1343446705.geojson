@@ -1,0 +1,78 @@
+{
+  "id": 1343446705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84372,35.39047,73.84372,35.39047",
+    "geom:latitude":35.39047,
+    "geom:longitude":73.84372,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sorin",
+    "gn:country_code":"PK",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020090,
+    "gn:latitude":35.39047,
+    "gn:longitude":73.84372,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sorin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020090
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2b2faa43febeba6ef6b88c3464496d87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343446705,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343446705,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343446705,
+    "wof:lastmodified":1536766545,
+    "wof:name":"Sorin",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84371999999998,
+    35.39047,
+    73.84371999999998,
+    35.39047
+],
+  "geometry": {"coordinates":[73.84371999999998,35.39047],"type":"Point"}
+}

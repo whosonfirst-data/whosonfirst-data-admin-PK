@@ -1,0 +1,67 @@
+{
+  "id": 1209218029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.39474,33.97702,71.39474,33.97702",
+    "geom:latitude":33.97702,
+    "geom:longitude":71.39474,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shah Kas",
+    "gn:country_code":"PK",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251532,
+    "gn:latitude":33.97702,
+    "gn:longitude":71.39474,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Shah Kas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251532
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c174129eacefae20155f8b0097f831d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1209218029,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209218029,
+    "wof:lastmodified":1543515575,
+    "wof:name":"Shah Kas",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.39474,
+    33.97702,
+    71.39474,
+    33.97702
+],
+  "geometry": {"coordinates":[71.39474,33.97702],"type":"Point"}
+}

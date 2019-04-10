@@ -1,0 +1,67 @@
+{
+  "id": 1226055147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55344,30.68761,68.55344,30.68761",
+    "geom:latitude":30.68761,
+    "geom:longitude":68.55344,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wulang",
+    "gn:country_code":"PK",
+    "gn:dem":1527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353212,
+    "gn:latitude":30.68761,
+    "gn:longitude":68.55344,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Wulang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353212
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1dd97ea70ca5d8e5d7f8db38c40421a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1226055147,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226055147,
+    "wof:lastmodified":1536711854,
+    "wof:name":"Wulang",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55344000000001,
+    30.68761,
+    68.55344000000001,
+    30.68761
+],
+  "geometry": {"coordinates":[68.55344000000001,30.68761],"type":"Point"}
+}

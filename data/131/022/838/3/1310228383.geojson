@@ -1,0 +1,67 @@
+{
+  "id": 1310228383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.42034,31.34109,72.42034,31.34109",
+    "geom:latitude":31.34109,
+    "geom:longitude":72.42034,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baharwala",
+    "gn:country_code":"PK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1329889,
+    "gn:latitude":31.34109,
+    "gn:longitude":72.42034,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Baharwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1329889
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ad5d3c5c4ecb0c4f954822a4eb88b89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1310228383,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310228383,
+    "wof:lastmodified":1536818400,
+    "wof:name":"Baharwala",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.42034,
+    31.34109,
+    72.42034,
+    31.34109
+],
+  "geometry": {"coordinates":[72.42034,31.34109],"type":"Point"}
+}

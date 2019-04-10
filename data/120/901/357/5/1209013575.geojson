@@ -1,0 +1,67 @@
+{
+  "id": 1209013575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24265,33.77701,71.24265,33.77701",
+    "geom:latitude":33.77701,
+    "geom:longitude":71.24265,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Karkanrai",
+    "gn:country_code":"PK",
+    "gn:dem":1398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1374152,
+    "gn:latitude":33.77701,
+    "gn:longitude":71.24265,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Karkanrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1374152
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fdd4c3298b4378fc25b37c51f6a7da72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1209013575,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209013575,
+    "wof:lastmodified":1543515278,
+    "wof:name":"Karkanrai",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24265,
+    33.77701,
+    71.24265,
+    33.77701
+],
+  "geometry": {"coordinates":[71.24265,33.77701],"type":"Point"}
+}

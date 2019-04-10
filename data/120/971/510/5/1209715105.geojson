@@ -1,0 +1,67 @@
+{
+  "id": 1209715105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36628,33.55512,72.36628,33.55512",
+    "geom:latitude":33.55512,
+    "geom:longitude":72.36628,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok Kahala",
+    "gn:country_code":"PK",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340724,
+    "gn:latitude":33.55512,
+    "gn:longitude":72.36628,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dhok Kahala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340724
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc7813485b1a47b372d2f8b7ea73b2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1209715105,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209715105,
+    "wof:lastmodified":1536388934,
+    "wof:name":"Dhok Kahala",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36628,
+    33.55512,
+    72.36628,
+    33.55512
+],
+  "geometry": {"coordinates":[72.36628,33.55512],"type":"Point"}
+}

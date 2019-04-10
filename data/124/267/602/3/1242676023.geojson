@@ -1,0 +1,67 @@
+{
+  "id": 1242676023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.775,26.12778,68.775,26.12778",
+    "geom:latitude":26.12778,
+    "geom:longitude":68.775,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Danewala",
+    "gn:country_code":"PK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369776,
+    "gn:latitude":26.12778,
+    "gn:longitude":68.775,
+    "gn:modification_date":"2001-09-25",
+    "gn:name":"D\u0101new\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369776
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5292b488c66d0281ab914964334101d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1242676023,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242676023,
+    "wof:lastmodified":1536922696,
+    "wof:name":"Danewala",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.775,
+    26.12778,
+    68.775,
+    26.12778
+],
+  "geometry": {"coordinates":[68.77500000000001,26.12778],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276437903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.76531,35.23305,74.76531,35.23305",
+    "geom:latitude":35.23305,
+    "geom:longitude":74.76531,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Churit",
+    "gn:country_code":"PK",
+    "gn:dem":2728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423817,
+    "gn:latitude":35.23305,
+    "gn:longitude":74.76531,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Churit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423817
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a70e5517c99bb3c4991c355af2900d5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276437903,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276437903,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276437903,
+    "wof:lastmodified":1536637380,
+    "wof:name":"Churit",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.76531,
+    35.23305,
+    74.76531,
+    35.23305
+],
+  "geometry": {"coordinates":[74.76531,35.23305],"type":"Point"}
+}

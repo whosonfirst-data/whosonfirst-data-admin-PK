@@ -1,0 +1,78 @@
+{
+  "id": 1259604777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.22895,32.90668,74.22895,32.90668",
+    "geom:latitude":32.90668,
+    "geom:longitude":74.22895,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bhaghwal",
+    "gn:country_code":"PK",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070390,
+    "gn:latitude":32.90668,
+    "gn:longitude":74.22895,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bhaghwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070390
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"957ce244abc6da3bc15fbaf1a77e462f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259604777,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259604777,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259604777,
+    "wof:lastmodified":1536684128,
+    "wof:name":"Bhaghwal",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.22895,
+    32.90668,
+    74.22895,
+    32.90668
+],
+  "geometry": {"coordinates":[74.22895,32.90668],"type":"Point"}
+}

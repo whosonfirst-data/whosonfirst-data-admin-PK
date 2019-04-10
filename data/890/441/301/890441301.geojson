@@ -1,0 +1,66 @@
+{
+  "id": 890441301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51107,33.74734,73.51107,33.74734",
+    "geom:latitude":33.74734,
+    "geom:longitude":73.51107,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:pop":43779,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kamara"
+    ],
+    "qs:name":"K\u0101mra",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175082,
+        "qs:id":276075
+    },
+    "wof:country":"PK",
+    "wof:created":1469052318,
+    "wof:geomhash":"719ba6fb5158ff290e6916a4f5f1424a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":890441301,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":890441301,
+    "wof:lastmodified":1505343581,
+    "wof:name":"K\u0101mra",
+    "wof:parent_id":85675753,
+    "wof:placetype":"locality",
+    "wof:population":43779,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51107,
+    33.74734,
+    73.51107,
+    33.74734
+],
+  "geometry": {"coordinates":[73.51107,33.74734],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209223679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.16002,33.99918,71.16002,33.99918",
+    "geom:latitude":33.99918,
+    "geom:longitude":71.16002,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Barg",
+    "gn:country_code":"PK",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1374044,
+    "gn:latitude":33.99918,
+    "gn:longitude":71.16002,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Barg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1374044
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c198b2b204efda83d73e57307877fc1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1209223679,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209223679,
+    "wof:lastmodified":1543515517,
+    "wof:name":"Barg",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.16001999999997,
+    33.99918,
+    71.16001999999997,
+    33.99918
+],
+  "geometry": {"coordinates":[71.16001999999997,33.99918],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209816643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95773,34.73131,72.95773,34.73131",
+    "geom:latitude":34.73131,
+    "geom:longitude":72.95773,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Batle",
+    "gn:country_code":"PK",
+    "gn:dem":760,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482341,
+    "gn:latitude":34.73131,
+    "gn:longitude":72.95773,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Batle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482341
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0b7941c39c411a76c3b7ad8173395ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1209816643,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209816643,
+    "wof:lastmodified":1543515729,
+    "wof:name":"Batle",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95773,
+    34.73131,
+    72.95773,
+    34.73131
+],
+  "geometry": {"coordinates":[72.95773,34.73131],"type":"Point"}
+}

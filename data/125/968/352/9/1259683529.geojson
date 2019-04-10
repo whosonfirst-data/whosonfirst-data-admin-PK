@@ -1,0 +1,67 @@
+{
+  "id": 1259683529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51389,30.70833,73.51389,30.70833",
+    "geom:latitude":30.70833,
+    "geom:longitude":73.51389,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gurugarh",
+    "gn:country_code":"PK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416973,
+    "gn:latitude":30.70833,
+    "gn:longitude":73.51389,
+    "gn:modification_date":"2002-01-16",
+    "gn:name":"Gur\u016bgarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416973
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"62a2b955b721d83566a1c0a25234bc9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1259683529,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259683529,
+    "wof:lastmodified":1537064121,
+    "wof:name":"Gurugarh",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51389,
+    30.70833,
+    73.51389,
+    30.70833
+],
+  "geometry": {"coordinates":[73.51389,30.70833],"type":"Point"}
+}

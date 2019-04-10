@@ -1,0 +1,67 @@
+{
+  "id": 1226760267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.07448,31.15321,70.07448,31.15321",
+    "geom:latitude":31.15321,
+    "geom:longitude":70.07448,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shaji",
+    "gn:country_code":"PK",
+    "gn:dem":1251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311408,
+    "gn:latitude":31.15321,
+    "gn:longitude":70.07448,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Shaji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311408
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8b7149f613dce7838e2e20572b2abfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1226760267,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226760267,
+    "wof:lastmodified":1536694796,
+    "wof:name":"Shaji",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.07448000000001,
+    31.15321,
+    70.07448000000001,
+    31.15321
+],
+  "geometry": {"coordinates":[70.07448000000001,31.15321],"type":"Point"}
+}

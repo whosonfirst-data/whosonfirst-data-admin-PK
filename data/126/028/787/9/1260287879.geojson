@@ -1,0 +1,67 @@
+{
+  "id": 1260287879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.51107,33.25665,70.51107,33.25665",
+    "geom:latitude":33.25665,
+    "geom:longitude":70.51107,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lagar",
+    "gn:country_code":"PK",
+    "gn:dem":649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110169,
+    "gn:latitude":33.25665,
+    "gn:longitude":70.51107,
+    "gn:modification_date":"2014-09-04",
+    "gn:name":"Lagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110169
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"847cfc699ee80e0bdb7c8ce3829f611a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1260287879,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1260287879,
+    "wof:lastmodified":1536706293,
+    "wof:name":"Lagar",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.51106999999998,
+    33.25665,
+    70.51106999999998,
+    33.25665
+],
+  "geometry": {"coordinates":[70.51106999999998,33.25665],"type":"Point"}
+}

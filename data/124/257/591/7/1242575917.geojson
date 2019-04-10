@@ -1,0 +1,67 @@
+{
+  "id": 1242575917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.36226,27.30076,69.36226,27.30076",
+    "geom:latitude":27.30076,
+    "geom:longitude":69.36226,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mangarko",
+    "gn:country_code":"PK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1362505,
+    "gn:latitude":27.30076,
+    "gn:longitude":69.36226,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Mangarko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1362505
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e59da3fbe59a964fbcfe7d2377261db0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1242575917,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242575917,
+    "wof:lastmodified":1537063291,
+    "wof:name":"Mangarko",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.36225999999999,
+    27.30076,
+    69.36225999999999,
+    27.30076
+],
+  "geometry": {"coordinates":[69.36225999999999,27.30076],"type":"Point"}
+}

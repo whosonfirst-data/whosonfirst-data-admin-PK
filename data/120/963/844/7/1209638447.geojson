@@ -1,0 +1,66 @@
+{
+  "id": 1209638447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.46714,30.27939,71.46714,30.27939",
+    "geom:latitude":30.27939,
+    "geom:longitude":71.46714,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mahrakot",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172990,
+    "gn:latitude":30.27939,
+    "gn:longitude":71.46714,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Mahrakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kot Mahra",
+        "Mahrakot",
+        "Kot Mehra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172990
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7eeeb24f0abae3bc4395ffeb8ab9fe64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638447
+        }
+    ],
+    "wof:id":1209638447,
+    "wof:lastmodified":1537679555,
+    "wof:name":"Mahrakot",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.46714,
+    30.27939000000001,
+    71.46714,
+    30.27939000000001
+],
+  "geometry": {"coordinates":[71.46714,30.27939000000001],"type":"Point"}
+}

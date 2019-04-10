@@ -1,0 +1,67 @@
+{
+  "id": 1243067633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36401,32.70746,72.36401,32.70746",
+    "geom:latitude":32.70746,
+    "geom:longitude":72.36401,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chinji",
+    "gn:country_code":"PK",
+    "gn:dem":715,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181092,
+    "gn:latitude":32.70746,
+    "gn:longitude":72.36401,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Chinji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181092
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"99e9de04de09eba8363792faf23af67d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1243067633,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243067633,
+    "wof:lastmodified":1536853508,
+    "wof:name":"Chinji",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36401,
+    32.70746,
+    72.36401,
+    32.70746
+],
+  "geometry": {"coordinates":[72.36400999999999,32.70746],"type":"Point"}
+}

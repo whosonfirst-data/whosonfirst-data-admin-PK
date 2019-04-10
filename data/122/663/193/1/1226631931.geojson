@@ -1,0 +1,89 @@
+{
+  "id": 1226631931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7447,36.22147,73.7447,36.22147",
+    "geom:latitude":36.22147,
+    "geom:longitude":73.7447,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Goludas",
+    "gn:country_code":"PK",
+    "gn:dem":1909,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450946,
+    "gn:latitude":36.22147,
+    "gn:longitude":73.7447,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Goludas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Golodos"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450946
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a796930d03d94beaca02d810d263e729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1226631931,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226631931,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226631931,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226631931,
+    "wof:lastmodified":1537681918,
+    "wof:name":"Goludas",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7447,
+    36.22147,
+    73.7447,
+    36.22147
+],
+  "geometry": {"coordinates":[73.74469999999999,36.22147],"type":"Point"}
+}

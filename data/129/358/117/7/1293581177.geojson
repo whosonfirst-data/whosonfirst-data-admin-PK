@@ -1,0 +1,78 @@
+{
+  "id": 1293581177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.11847,33.94003,74.11847,33.94003",
+    "geom:latitude":33.94003,
+    "geom:longitude":74.11847,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Katianwali",
+    "gn:country_code":"PK",
+    "gn:dem":2439,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008438,
+    "gn:latitude":33.94003,
+    "gn:longitude":74.11847,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Katianwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008438
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cff5155db43dee5be46e7fc6fb191bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293581177,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293581177,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293581177,
+    "wof:lastmodified":1536651946,
+    "wof:name":"Katianwali",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.11847,
+    33.94003,
+    74.11847,
+    33.94003
+],
+  "geometry": {"coordinates":[74.11847,33.94003],"type":"Point"}
+}

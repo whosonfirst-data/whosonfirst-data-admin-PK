@@ -1,0 +1,67 @@
+{
+  "id": 1193136853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.17729,32.75608,74.17729,32.75608",
+    "geom:latitude":32.75608,
+    "geom:longitude":74.17729,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Berian",
+    "gn:country_code":"PK",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371702,
+    "gn:latitude":32.75608,
+    "gn:longitude":74.17729,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Berian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371702
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a7ac3ec7002726c3ae48abfb1ff4d33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1193136853,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193136853,
+    "wof:lastmodified":1536369751,
+    "wof:name":"Berian",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.17729,
+    32.75608,
+    74.17729,
+    32.75608
+],
+  "geometry": {"coordinates":[74.17729,32.75608],"type":"Point"}
+}

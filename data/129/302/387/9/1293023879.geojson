@@ -1,0 +1,67 @@
+{
+  "id": 1293023879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23373,31.36216,74.23373,31.36216",
+    "geom:latitude":31.36216,
+    "geom:longitude":74.23373,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ada Plat",
+    "gn:country_code":"PK",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11509894,
+    "gn:latitude":31.36216,
+    "gn:longitude":74.23373,
+    "gn:modification_date":"2017-04-09",
+    "gn:name":"Ada Plat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11509894
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4a9ae54653cf8c0ed30662fd2a05ca30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1293023879,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293023879,
+    "wof:lastmodified":1536958403,
+    "wof:name":"Ada Plat",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23373000000002,
+    31.36216,
+    74.23373000000002,
+    31.36216
+],
+  "geometry": {"coordinates":[74.23373000000002,31.36216],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360198113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.22506,31.66512,70.22506,31.66512",
+    "geom:latitude":31.66512,
+    "geom:longitude":70.22506,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Pepal",
+    "gn:country_code":"PK",
+    "gn:dem":412,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1425438,
+    "gn:latitude":31.66512,
+    "gn:longitude":70.22506,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Pepal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425438
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"259b520e731e1202b87b5cf4fcd0b93d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692175,
+            "locality_id":1360198113,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1360198113,
+    "wof:lastmodified":1536783010,
+    "wof:name":"Pepal",
+    "wof:parent_id":1108692175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.22506,
+    31.66512,
+    70.22506,
+    31.66512
+],
+  "geometry": {"coordinates":[70.22506,31.66512],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310604439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47465,32.04574,69.47465,32.04574",
+    "geom:latitude":32.04574,
+    "geom:longitude":69.47465,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kamranai",
+    "gn:country_code":"PK",
+    "gn:dem":1203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9820151,
+    "gn:latitude":32.04574,
+    "gn:longitude":69.47465,
+    "gn:modification_date":"2014-11-07",
+    "gn:name":"Kamranai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9820151
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33190d78d18f38db46fd4c7509d64049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1310604439,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310604439,
+    "wof:lastmodified":1536774830,
+    "wof:name":"Kamranai",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47465,
+    32.04574,
+    69.47465,
+    32.04574
+],
+  "geometry": {"coordinates":[69.47465,32.04574],"type":"Point"}
+}

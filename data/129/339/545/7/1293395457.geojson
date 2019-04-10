@@ -1,0 +1,67 @@
+{
+  "id": 1293395457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.99567,32.23433,74.99567,32.23433",
+    "geom:latitude":32.23433,
+    "geom:longitude":74.99567,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Man",
+    "gn:country_code":"PK",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171189,
+    "gn:latitude":32.23433,
+    "gn:longitude":74.99567,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Man",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171189
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bcf0da63c2bf5a33e6a8646865c54b5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1293395457,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293395457,
+    "wof:lastmodified":1536920273,
+    "wof:name":"Man",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.99566999999998,
+    32.23433,
+    74.99566999999998,
+    32.23433
+],
+  "geometry": {"coordinates":[74.99566999999998,32.23433],"type":"Point"}
+}

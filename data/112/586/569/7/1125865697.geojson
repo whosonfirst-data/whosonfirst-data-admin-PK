@@ -1,0 +1,97 @@
+{
+  "id": 1125865697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75591,32.90122,73.75591,32.90122",
+    "geom:latitude":32.90122,
+    "geom:longitude":73.75591,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":44120,
+    "gn:population":44120,
+    "iso:country":"PK",
+    "lbl:latitude":32.90122,
+    "lbl:longitude":73.75591,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Sarai Alamgir Tehsil"
+    ],
+    "name:eng_x_preferred":[
+        "Sarai Alamgir Tehsil"
+    ],
+    "name:fre_x_preferred":[
+        "Sarai Alamgir"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0633\u0631\u0627\u06d3 \u0639\u0627\u0644\u0645\u06af\u06cc\u0631"
+    ],
+    "name:por_x_preferred":[
+        "Sarai Alamgir"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u0627\u0626\u06d2 \u0639\u0627\u0644\u0645\u06af\u06cc\u0631"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1166073,
+    "qs_pg:gn_pop":44120,
+    "qs_pg:name":"Sar\u0101i \u0100lamg\u012br",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":130686,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166073,
+        "qs_pg:id":130686,
+        "wd:id":"Q3243456"
+    },
+    "wof:country":"PK",
+    "wof:created":1497294028,
+    "wof:geomhash":"960a2160e9ac4b9a0cce45b119a50804",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1125865697,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125865697,
+    "wof:lastmodified":1514496864,
+    "wof:name":"Sar\u0101i \u0100lamg\u012br",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:population":44120,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75591,
+    32.90122,
+    73.75591,
+    32.90122
+],
+  "geometry": {"coordinates":[73.75591,32.90122],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242677379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58569,32.87948,73.58569,32.87948",
+    "geom:latitude":32.87948,
+    "geom:longitude":73.58569,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Janjil",
+    "gn:country_code":"PK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176135,
+    "gn:latitude":32.87948,
+    "gn:longitude":73.58569,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Janjil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176135
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7019ed3bb7b02e2a02854e5004cb1516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1242677379,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242677379,
+    "wof:lastmodified":1536920711,
+    "wof:name":"Janjil",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58569,
+    32.87948,
+    73.58569,
+    32.87948
+],
+  "geometry": {"coordinates":[73.58569,32.87948],"type":"Point"}
+}

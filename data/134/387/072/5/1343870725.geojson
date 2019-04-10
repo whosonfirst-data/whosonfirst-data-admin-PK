@@ -1,0 +1,67 @@
+{
+  "id": 1343870725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.54307,31.17226,69.54307,31.17226",
+    "geom:latitude":31.17226,
+    "geom:longitude":69.54307,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tor Raghe",
+    "gn:country_code":"PK",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310814,
+    "gn:latitude":31.17226,
+    "gn:longitude":69.54307,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Tor Raghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310814
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67252825b2840180402a4c9bbc6e5924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1343870725,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343870725,
+    "wof:lastmodified":1536651563,
+    "wof:name":"Tor Raghe",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.54307,
+    31.17226,
+    69.54307,
+    31.17226
+],
+  "geometry": {"coordinates":[69.54307,31.17226],"type":"Point"}
+}

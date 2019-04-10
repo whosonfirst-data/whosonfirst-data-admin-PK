@@ -1,0 +1,67 @@
+{
+  "id": 1243386743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.175,30.27083,71.175,30.27083",
+    "geom:latitude":30.27083,
+    "geom:longitude":71.175,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Wan",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367956,
+    "gn:latitude":30.27083,
+    "gn:longitude":71.175,
+    "gn:modification_date":"2001-09-21",
+    "gn:name":"W\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367956
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab4fe9ac43da8022f220b1f85c77563a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1243386743,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243386743,
+    "wof:lastmodified":1536891354,
+    "wof:name":"Wan",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.175,
+    30.27083,
+    71.175,
+    30.27083
+],
+  "geometry": {"coordinates":[71.175,30.27083],"type":"Point"}
+}

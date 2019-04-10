@@ -1,0 +1,67 @@
+{
+  "id": 1343860429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.42026,26.32507,62.42026,26.32507",
+    "geom:latitude":26.32507,
+    "geom:longitude":62.42026,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalag",
+    "gn:country_code":"PK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175356,
+    "gn:latitude":26.32507,
+    "gn:longitude":62.42026,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Kalag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175356
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"423c8b5ec09a4db54f25c96e7ea75371",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1343860429,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343860429,
+    "wof:lastmodified":1536666672,
+    "wof:name":"Kalag",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.42026,
+    26.32507,
+    62.42026,
+    26.32507
+],
+  "geometry": {"coordinates":[62.42026,26.32507],"type":"Point"}
+}

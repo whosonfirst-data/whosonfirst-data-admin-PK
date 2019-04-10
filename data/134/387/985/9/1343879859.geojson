@@ -1,0 +1,82 @@
+{
+  "id": 1343879859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87351,33.04893,73.87351,33.04893",
+    "geom:latitude":33.04893,
+    "geom:longitude":73.87351,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mochian da Khua",
+    "gn:country_code":"PK",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386498,
+    "gn:latitude":33.04893,
+    "gn:longitude":73.87351,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mochian da Khua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mochian da Khu",
+        "Mochian da Khua"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386498
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"167d97b5d6254a168f4d9c68b6e5d9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343879859,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343879859,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343879859,
+    "wof:lastmodified":1537680863,
+    "wof:name":"Mochian da Khua",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87351,
+    33.04893,
+    73.87351,
+    33.04893
+],
+  "geometry": {"coordinates":[73.87351,33.04893],"type":"Point"}
+}

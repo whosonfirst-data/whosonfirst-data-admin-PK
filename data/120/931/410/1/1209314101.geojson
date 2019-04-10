@@ -1,0 +1,64 @@
+{
+  "id": 1209314101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.35596,30.60279,71.35596,30.60279",
+    "geom:latitude":30.60279,
+    "geom:longitude":71.35596,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bahadurwala Khu",
+    "gn:country_code":"PK",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11568561,
+    "gn:latitude":30.60279,
+    "gn:longitude":71.35596,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bahadurwala Khu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pattal Munda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11568561
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56d6eed95a4b946c92ecd609f8842fea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314101
+        }
+    ],
+    "wof:id":1209314101,
+    "wof:lastmodified":1537682023,
+    "wof:name":"Bahadurwala Khu",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.35596,
+    30.60279,
+    71.35596,
+    30.60279
+],
+  "geometry": {"coordinates":[71.35596,30.60279],"type":"Point"}
+}

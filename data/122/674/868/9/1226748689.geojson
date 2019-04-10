@@ -1,0 +1,67 @@
+{
+  "id": 1226748689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26471,34.63642,73.26471,34.63642",
+    "geom:latitude":34.63642,
+    "geom:longitude":73.26471,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sundi",
+    "gn:country_code":"PK",
+    "gn:dem":2155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406512,
+    "gn:latitude":34.63642,
+    "gn:longitude":73.26471,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406512
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"de08ce6713fa289d9a25e47d8296637a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226748689,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748689,
+    "wof:lastmodified":1536711588,
+    "wof:name":"Sundi",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26471,
+    34.63642,
+    73.26471,
+    34.63642
+],
+  "geometry": {"coordinates":[73.26470999999999,34.63642],"type":"Point"}
+}

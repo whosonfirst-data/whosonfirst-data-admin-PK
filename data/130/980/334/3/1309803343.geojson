@@ -1,0 +1,67 @@
+{
+  "id": 1309803343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9,31.13333,72.9,31.13333",
+    "geom:latitude":31.13333,
+    "geom:longitude":72.9,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Isro",
+    "gn:country_code":"PK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176571,
+    "gn:latitude":31.13333,
+    "gn:longitude":72.9,
+    "gn:modification_date":"1996-06-24",
+    "gn:name":"Isro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176571
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0a0626ab146c24fee2804beb6c5bc6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1309803343,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309803343,
+    "wof:lastmodified":1536935343,
+    "wof:name":"Isro",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9,
+    31.13333,
+    72.9,
+    31.13333
+],
+  "geometry": {"coordinates":[72.90000000000001,31.13333],"type":"Point"}
+}

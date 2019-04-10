@@ -1,0 +1,67 @@
+{
+  "id": 1327157419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.20556,31.825,74.20556,31.825",
+    "geom:latitude":31.825,
+    "geom:longitude":74.20556,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thata",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388588,
+    "gn:latitude":31.825,
+    "gn:longitude":74.20556,
+    "gn:modification_date":"2001-10-16",
+    "gn:name":"Thata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388588
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ddecaa25ee69969d440657b282ccdd1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1327157419,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327157419,
+    "wof:lastmodified":1537074801,
+    "wof:name":"Thata",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.20555999999998,
+    31.825,
+    74.20555999999998,
+    31.825
+],
+  "geometry": {"coordinates":[74.20555999999998,31.825],"type":"Point"}
+}

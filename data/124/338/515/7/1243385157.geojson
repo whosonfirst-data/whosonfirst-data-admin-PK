@@ -1,0 +1,82 @@
+{
+  "id": 1243385157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08066,33.8857,74.08066,33.8857",
+    "geom:latitude":33.8857,
+    "geom:longitude":74.08066,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nabun Phalwari",
+    "gn:country_code":"PK",
+    "gn:dem":1785,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414824,
+    "gn:latitude":33.8857,
+    "gn:longitude":74.08066,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nabun Phalwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101ban Phulw\u0101li",
+        "N\u0101ban Phulw\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414824
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a8353309b9d00ab5cbc1f668dca7aa94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1243385157,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1243385157,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243385157,
+    "wof:lastmodified":1537681347,
+    "wof:name":"Nabun Phalwari",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08066,
+    33.8857,
+    74.08066,
+    33.8857
+],
+  "geometry": {"coordinates":[74.08065999999999,33.8857],"type":"Point"}
+}

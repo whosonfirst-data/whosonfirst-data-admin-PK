@@ -1,0 +1,67 @@
+{
+  "id": 1209915195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34539,34.24846,73.34539,34.24846",
+    "geom:latitude":34.24846,
+    "geom:longitude":73.34539,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sikhar",
+    "gn:country_code":"PK",
+    "gn:dem":2463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407503,
+    "gn:latitude":34.24846,
+    "gn:longitude":73.34539,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Sikhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407503
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22255e522a27af63c279ad7e20c30b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209915195,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209915195,
+    "wof:lastmodified":1543515699,
+    "wof:name":"Sikhar",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34539000000002,
+    34.24845999999999,
+    73.34539000000002,
+    34.24845999999999
+],
+  "geometry": {"coordinates":[73.34539000000002,34.24845999999999],"type":"Point"}
+}

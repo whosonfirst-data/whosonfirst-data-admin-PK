@@ -1,0 +1,67 @@
+{
+  "id": 1343261255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54481,33.38975,73.54481,33.38975",
+    "geom:latitude":33.38975,
+    "geom:longitude":73.54481,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khairli",
+    "gn:country_code":"PK",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100906,
+    "gn:latitude":33.38975,
+    "gn:longitude":73.54481,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Khairli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6cd60c4c4c96b64474b9ab50d7c1667f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1343261255,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343261255,
+    "wof:lastmodified":1537032338,
+    "wof:name":"Khairli",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54481,
+    33.38975,
+    73.54481,
+    33.38975
+],
+  "geometry": {"coordinates":[73.54481,33.38975],"type":"Point"}
+}

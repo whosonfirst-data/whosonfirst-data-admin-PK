@@ -1,0 +1,70 @@
+{
+  "id": 1344056381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96711,33.03527,72.96711,33.03527",
+    "geom:latitude":33.03527,
+    "geom:longitude":72.96711,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mona",
+    "gn:country_code":"PK",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341449,
+    "gn:latitude":33.03527,
+    "gn:longitude":72.96711,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Mona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Mona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341449
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b96249bf95e0a9526f02248ab0c9c84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1344056381,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344056381,
+    "wof:lastmodified":1537680191,
+    "wof:name":"Mona",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96710999999998,
+    33.03527,
+    72.96710999999998,
+    33.03527
+],
+  "geometry": {"coordinates":[72.96710999999998,33.03527],"type":"Point"}
+}

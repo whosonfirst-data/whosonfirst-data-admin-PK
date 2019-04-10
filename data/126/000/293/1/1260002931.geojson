@@ -1,0 +1,67 @@
+{
+  "id": 1260002931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78476,33.89426,72.78476,33.89426",
+    "geom:latitude":33.89426,
+    "geom:longitude":72.78476,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tanda",
+    "gn:country_code":"PK",
+    "gn:dem":452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338380,
+    "gn:latitude":33.89426,
+    "gn:longitude":72.78476,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Tanda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338380
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc05a4441e6319d85cff830c1eb5cfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1260002931,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260002931,
+    "wof:lastmodified":1536604087,
+    "wof:name":"Tanda",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78475999999998,
+    33.89426,
+    72.78475999999998,
+    33.89426
+],
+  "geometry": {"coordinates":[72.78475999999998,33.89426],"type":"Point"}
+}

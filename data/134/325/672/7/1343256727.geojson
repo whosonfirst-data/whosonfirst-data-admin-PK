@@ -1,0 +1,90 @@
+{
+  "id": 1343256727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76652,33.11441,73.76652,33.11441",
+    "geom:latitude":33.11441,
+    "geom:longitude":73.76652,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pothi",
+    "gn:country_code":"PK",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386440,
+    "gn:latitude":33.11441,
+    "gn:longitude":73.76652,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Pothi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pathi",
+        "Pothi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386440
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7794c761dde1a46a8a91351d2cb60ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1343256727,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1343256727,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1343256727,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343256727,
+    "wof:lastmodified":1537680861,
+    "wof:name":"Pothi",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76652,
+    33.11441,
+    73.76652,
+    33.11441
+],
+  "geometry": {"coordinates":[73.76652,33.11441],"type":"Point"}
+}

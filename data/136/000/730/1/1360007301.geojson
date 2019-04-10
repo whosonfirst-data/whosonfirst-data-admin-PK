@@ -1,0 +1,78 @@
+{
+  "id": 1360007301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8823,33.53737,73.8823,33.53737",
+    "geom:latitude":33.53737,
+    "geom:longitude":73.8823,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chauki",
+    "gn:country_code":"PK",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413684,
+    "gn:latitude":33.53737,
+    "gn:longitude":73.8823,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Chauki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413684
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05e27c59a1f815a8a3dc6483e85dffa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1360007301,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1360007301,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1360007301,
+    "wof:lastmodified":1537055502,
+    "wof:name":"Chauki",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8823,
+    33.53737,
+    73.8823,
+    33.53737
+],
+  "geometry": {"coordinates":[73.8823,33.53737],"type":"Point"}
+}

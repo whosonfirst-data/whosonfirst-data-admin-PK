@@ -1,0 +1,67 @@
+{
+  "id": 1226442197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58785,29.74564,70.58785,29.74564",
+    "geom:latitude":29.74564,
+    "geom:longitude":70.58785,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Daimwala",
+    "gn:country_code":"PK",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1395912,
+    "gn:latitude":29.74564,
+    "gn:longitude":70.58785,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Daimwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1395912
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0a18a992bf8540d46db31b2fcc04f655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1226442197,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226442197,
+    "wof:lastmodified":1536650412,
+    "wof:name":"Daimwala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58785,
+    29.74564,
+    70.58785,
+    29.74564
+],
+  "geometry": {"coordinates":[70.58785,29.74564],"type":"Point"}
+}

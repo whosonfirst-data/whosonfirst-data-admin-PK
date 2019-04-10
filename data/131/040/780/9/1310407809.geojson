@@ -1,0 +1,67 @@
+{
+  "id": 1310407809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64506,30.81366,66.64506,30.81366",
+    "geom:latitude":30.81366,
+    "geom:longitude":66.64506,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Badezai",
+    "gn:country_code":"PK",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341833,
+    "gn:latitude":30.81366,
+    "gn:longitude":66.64506,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Badezai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341833
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0f311a90164dab6d2a464ecb62a8facb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1310407809,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310407809,
+    "wof:lastmodified":1537055538,
+    "wof:name":"Badezai",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64506,
+    30.81366,
+    66.64506,
+    30.81366
+],
+  "geometry": {"coordinates":[66.64506,30.81366],"type":"Point"}
+}

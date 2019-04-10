@@ -1,0 +1,81 @@
+{
+  "id": 1226464027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88083,34.1216,73.88083,34.1216",
+    "geom:latitude":34.1216,
+    "geom:longitude":73.88083,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bakut",
+    "gn:country_code":"PK",
+    "gn:dem":1102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415646,
+    "gn:latitude":34.1216,
+    "gn:longitude":73.88083,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bakut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bankot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415646
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7729e3ad7c04b36e304d82accf0f9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226464027,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226464027,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226464027,
+    "wof:lastmodified":1537681366,
+    "wof:name":"Bakut",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88083,
+    34.1216,
+    73.88083,
+    34.1216
+],
+  "geometry": {"coordinates":[73.88083,34.1216],"type":"Point"}
+}

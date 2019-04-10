@@ -1,0 +1,78 @@
+{
+  "id": 1243446313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1195,33.14183,74.1195,33.14183",
+    "geom:latitude":33.14183,
+    "geom:longitude":74.1195,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dungidal",
+    "gn:country_code":"PK",
+    "gn:dem":764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415411,
+    "gn:latitude":33.14183,
+    "gn:longitude":74.1195,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dungidal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415411
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"409350798a9d7cbab4f5062bfcc3a6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243446313,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243446313,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243446313,
+    "wof:lastmodified":1536805572,
+    "wof:name":"Dungidal",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1195,
+    33.14183,
+    74.1195,
+    33.14183
+],
+  "geometry": {"coordinates":[74.1195,33.14183],"type":"Point"}
+}

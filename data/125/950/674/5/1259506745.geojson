@@ -1,0 +1,67 @@
+{
+  "id": 1259506745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87473,31.80844,73.87473,31.80844",
+    "geom:latitude":31.80844,
+    "geom:longitude":73.87473,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Waran",
+    "gn:country_code":"PK",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162579,
+    "gn:latitude":31.80844,
+    "gn:longitude":73.87473,
+    "gn:modification_date":"2017-05-07",
+    "gn:name":"Waran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162579
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"79f3529ea7498a4774055cc97afcb8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1259506745,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259506745,
+    "wof:lastmodified":1536824475,
+    "wof:name":"Waran",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87473,
+    31.80844,
+    73.87473,
+    31.80844
+],
+  "geometry": {"coordinates":[73.87473,31.80844],"type":"Point"}
+}

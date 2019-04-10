@@ -1,0 +1,67 @@
+{
+  "id": 1310106939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75101,34.8306,71.75101,34.8306",
+    "geom:latitude":34.8306,
+    "geom:longitude":71.75101,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Makhai",
+    "gn:country_code":"PK",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111197,
+    "gn:latitude":34.8306,
+    "gn:longitude":71.75101,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Makhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111197
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e56dfe3cb742eafe3b3841adca2bd9a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1310106939,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310106939,
+    "wof:lastmodified":1536993573,
+    "wof:name":"Makhai",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75101,
+    34.8306,
+    71.75101,
+    34.8306
+],
+  "geometry": {"coordinates":[71.75100999999999,34.8306],"type":"Point"}
+}

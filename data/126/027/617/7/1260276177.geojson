@@ -1,0 +1,67 @@
+{
+  "id": 1260276177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37543,26.33744,69.37543,26.33744",
+    "geom:latitude":26.33744,
+    "geom:longitude":69.37543,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khioi Tar",
+    "gn:country_code":"PK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1376381,
+    "gn:latitude":26.33744,
+    "gn:longitude":69.37543,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Khioi Tar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1376381
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ccbd6dc08ddee2fead55b09afa9194d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1260276177,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260276177,
+    "wof:lastmodified":1536722103,
+    "wof:name":"Khioi Tar",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37543000000001,
+    26.33744,
+    69.37543000000001,
+    26.33744
+],
+  "geometry": {"coordinates":[69.37543000000001,26.33744],"type":"Point"}
+}

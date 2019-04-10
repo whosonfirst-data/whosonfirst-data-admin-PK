@@ -1,0 +1,78 @@
+{
+  "id": 1276868177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12094,35.94165,74.12094,35.94165",
+    "geom:latitude":35.94165,
+    "geom:longitude":74.12094,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jut",
+    "gn:country_code":"PK",
+    "gn:dem":2811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175576,
+    "gn:latitude":35.94165,
+    "gn:longitude":74.12094,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Jut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175576
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a94997cac9eed7589e49014e8373c7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1276868177,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1276868177,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276868177,
+    "wof:lastmodified":1537054481,
+    "wof:name":"Jut",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12094,
+    35.94165,
+    74.12094,
+    35.94165
+],
+  "geometry": {"coordinates":[74.12094,35.94165],"type":"Point"}
+}

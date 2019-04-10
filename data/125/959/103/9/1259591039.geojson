@@ -1,0 +1,67 @@
+{
+  "id": 1259591039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.37119,26.61074,63.37119,26.61074",
+    "geom:latitude":26.61074,
+    "geom:longitude":63.37119,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kulshan",
+    "gn:country_code":"PK",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989322,
+    "gn:latitude":26.61074,
+    "gn:longitude":63.37119,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kulshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989322
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"afbe9b5876ec39fdebf15dffbe34811d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1259591039,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259591039,
+    "wof:lastmodified":1536704141,
+    "wof:name":"Kulshan",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.37119000000001,
+    26.61074,
+    63.37119000000001,
+    26.61074
+],
+  "geometry": {"coordinates":[63.37119000000001,26.61074],"type":"Point"}
+}

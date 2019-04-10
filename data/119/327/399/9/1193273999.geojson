@@ -1,0 +1,67 @@
+{
+  "id": 1193273999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.19304,25.10936,70.19304,25.10936",
+    "geom:latitude":25.10936,
+    "geom:longitude":70.19304,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Matharo",
+    "gn:country_code":"PK",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039002,
+    "gn:latitude":25.10936,
+    "gn:longitude":70.19304,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Matharo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039002
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e03021326f7200e45cf9942dacb25f1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1193273999,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193273999,
+    "wof:lastmodified":1536367384,
+    "wof:name":"Matharo",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.19304,
+    25.10936,
+    70.19304,
+    25.10936
+],
+  "geometry": {"coordinates":[70.19304,25.10936],"type":"Point"}
+}

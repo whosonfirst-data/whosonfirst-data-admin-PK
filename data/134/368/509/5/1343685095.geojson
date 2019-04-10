@@ -1,0 +1,67 @@
+{
+  "id": 1343685095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.28411,29.60499,72.28411,29.60499",
+    "geom:latitude":29.60499,
+    "geom:longitude":72.28411,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Melki",
+    "gn:country_code":"PK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383395,
+    "gn:latitude":29.60499,
+    "gn:longitude":72.28411,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Melki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2b9bcaf7d917988263aa316485d7f8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1343685095,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343685095,
+    "wof:lastmodified":1536920183,
+    "wof:name":"Melki",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.28411,
+    29.60499,
+    72.28411,
+    29.60499
+],
+  "geometry": {"coordinates":[72.28411,29.60499],"type":"Point"}
+}

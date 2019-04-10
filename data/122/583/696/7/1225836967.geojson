@@ -1,0 +1,81 @@
+{
+  "id": 1225836967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.66493,33.6119,73.66493,33.6119",
+    "geom:latitude":33.6119,
+    "geom:longitude":73.66493,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Godda",
+    "gn:country_code":"PK",
+    "gn:dem":800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100397,
+    "gn:latitude":33.6119,
+    "gn:longitude":73.66493,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Godda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gadot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100397
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a20fa95814756fa511d0d8c85939f9f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1225836967,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1225836967,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1225836967,
+    "wof:lastmodified":1537681692,
+    "wof:name":"Godda",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.66493,
+    33.6119,
+    73.66493,
+    33.6119
+],
+  "geometry": {"coordinates":[73.66493,33.6119],"type":"Point"}
+}

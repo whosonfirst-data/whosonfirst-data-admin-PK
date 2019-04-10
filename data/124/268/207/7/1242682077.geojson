@@ -1,0 +1,67 @@
+{
+  "id": 1242682077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0,26.55,68.0,26.55",
+    "geom:latitude":26.55,
+    "geom:longitude":68.0,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Arain",
+    "gn:country_code":"PK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184425,
+    "gn:latitude":26.55,
+    "gn:longitude":68.0,
+    "gn:modification_date":"1996-01-24",
+    "gn:name":"Ar\u0101\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184425
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5efc83ed7ffe722f59811e7b5d6a2f96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692371,
+            "locality_id":1242682077,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242682077,
+    "wof:lastmodified":1536913717,
+    "wof:name":"Arain",
+    "wof:parent_id":1108692371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0,
+    26.55,
+    68.0,
+    26.55
+],
+  "geometry": {"coordinates":[68.0,26.55],"type":"Point"}
+}

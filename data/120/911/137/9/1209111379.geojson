@@ -1,0 +1,65 @@
+{
+  "id": 1209111379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87724,32.77729,73.87724,32.77729",
+    "geom:latitude":32.77729,
+    "geom:longitude":73.87724,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Marala",
+    "gn:country_code":"PK",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170898,
+    "gn:latitude":32.77729,
+    "gn:longitude":73.87724,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Marala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murala",
+        "Marala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170898
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a282a079e5b391925f421ff30dec3af1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209111379
+        }
+    ],
+    "wof:id":1209111379,
+    "wof:lastmodified":1537679483,
+    "wof:name":"Marala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87724,
+    32.77729,
+    73.87724,
+    32.77729
+],
+  "geometry": {"coordinates":[73.87724,32.77729],"type":"Point"}
+}

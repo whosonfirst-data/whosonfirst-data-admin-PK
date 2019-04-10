@@ -1,0 +1,67 @@
+{
+  "id": 1209622001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.59544,34.13434,71.59544,34.13434",
+    "geom:latitude":34.13434,
+    "geom:longitude":71.59544,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bhattian",
+    "gn:country_code":"PK",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182701,
+    "gn:latitude":34.13434,
+    "gn:longitude":71.59544,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bhattian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182701
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3dd044add5d5d80959d83c220f2d2463",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1209622001,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209622001,
+    "wof:lastmodified":1543515652,
+    "wof:name":"Bhattian",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.59544,
+    34.13434,
+    71.59544,
+    34.13434
+],
+  "geometry": {"coordinates":[71.59544,34.13434],"type":"Point"}
+}

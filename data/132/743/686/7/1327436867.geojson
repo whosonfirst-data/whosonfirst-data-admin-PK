@@ -1,0 +1,67 @@
+{
+  "id": 1327436867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.19326,31.39233,74.19326,31.39233",
+    "geom:latitude":31.39233,
+    "geom:longitude":74.19326,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tibba",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330682,
+    "gn:latitude":31.39233,
+    "gn:longitude":74.19326,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Tibba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330682
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8f102a7153182cf9beef7a73b8d6bdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1327436867,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327436867,
+    "wof:lastmodified":1536674286,
+    "wof:name":"Tibba",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.19326,
+    31.39233,
+    74.19326,
+    31.39233
+],
+  "geometry": {"coordinates":[74.19326,31.39233],"type":"Point"}
+}

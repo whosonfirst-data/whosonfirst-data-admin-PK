@@ -1,0 +1,67 @@
+{
+  "id": 1209518845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97786,33.73085,70.97786,33.73085",
+    "geom:latitude":33.73085,
+    "geom:longitude":70.97786,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mani Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1716,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171003,
+    "gn:latitude":33.73085,
+    "gn:longitude":70.97786,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Mani Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171003
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2b127e1f7ebc5f9387f0d464025b7d7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1209518845,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209518845,
+    "wof:lastmodified":1543515776,
+    "wof:name":"Mani Khel",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97785999999998,
+    33.73085,
+    70.97785999999998,
+    33.73085
+],
+  "geometry": {"coordinates":[70.97785999999998,33.73085],"type":"Point"}
+}

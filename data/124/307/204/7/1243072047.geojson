@@ -1,0 +1,67 @@
+{
+  "id": 1243072047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62439,27.09955,68.62439,27.09955",
+    "geom:latitude":27.09955,
+    "geom:longitude":68.62439,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Laghari",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1402650,
+    "gn:latitude":27.09955,
+    "gn:longitude":68.62439,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Laghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1402650
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3080865679b372a662012fcddef7b155",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1243072047,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243072047,
+    "wof:lastmodified":1536847122,
+    "wof:name":"Laghari",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62439,
+    27.09955,
+    68.62439,
+    27.09955
+],
+  "geometry": {"coordinates":[68.62439000000001,27.09955],"type":"Point"}
+}

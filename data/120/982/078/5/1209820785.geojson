@@ -1,0 +1,67 @@
+{
+  "id": 1209820785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.09101,32.54978,74.09101,32.54978",
+    "geom:latitude":32.54978,
+    "geom:longitude":74.09101,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Younas Colony",
+    "gn:country_code":"PK",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11450531,
+    "gn:latitude":32.54978,
+    "gn:longitude":74.09101,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Younas Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11450531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d507b1039244f4d438587d7fb2bbd1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1209820785,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209820785,
+    "wof:lastmodified":1536378957,
+    "wof:name":"Younas Colony",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.09101,
+    32.54978,
+    74.09101,
+    32.54978
+],
+  "geometry": {"coordinates":[74.09101,32.54978],"type":"Point"}
+}

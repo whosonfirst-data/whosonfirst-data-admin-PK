@@ -1,0 +1,67 @@
+{
+  "id": 1259506849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88212,32.64352,73.88212,32.64352",
+    "geom:latitude":32.64352,
+    "geom:longitude":73.88212,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Babanian",
+    "gn:country_code":"PK",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380331,
+    "gn:latitude":32.64352,
+    "gn:longitude":73.88212,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Babanian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380331
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"47d2e90435b1adce422464b55cde8a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1259506849,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259506849,
+    "wof:lastmodified":1536824329,
+    "wof:name":"Babanian",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88212,
+    32.64352,
+    73.88212,
+    32.64352
+],
+  "geometry": {"coordinates":[73.88212,32.64352],"type":"Point"}
+}

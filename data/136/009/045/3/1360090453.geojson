@@ -1,0 +1,67 @@
+{
+  "id": 1360090453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4666,32.8802,72.4666,32.8802",
+    "geom:latitude":32.8802,
+    "geom:longitude":72.4666,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mamdot",
+    "gn:country_code":"PK",
+    "gn:dem":487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171214,
+    "gn:latitude":32.8802,
+    "gn:longitude":72.4666,
+    "gn:modification_date":"1998-06-29",
+    "gn:name":"Mamdot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171214
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2ffae5b3bb556f68e063600a44e44cc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1360090453,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360090453,
+    "wof:lastmodified":1536938621,
+    "wof:name":"Mamdot",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4666,
+    32.8802,
+    72.4666,
+    32.8802
+],
+  "geometry": {"coordinates":[72.4666,32.8802],"type":"Point"}
+}

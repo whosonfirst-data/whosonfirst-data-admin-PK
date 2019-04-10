@@ -1,0 +1,67 @@
+{
+  "id": 1243181247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60243,33.90674,70.60243,33.90674",
+    "geom:latitude":33.90674,
+    "geom:longitude":70.60243,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nakai",
+    "gn:country_code":"PK",
+    "gn:dem":2166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110343,
+    "gn:latitude":33.90674,
+    "gn:longitude":70.60243,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Nakai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110343
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ad0b7b272153664c67263ad9732c903e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1243181247,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243181247,
+    "wof:lastmodified":1536690939,
+    "wof:name":"Nakai",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60243,
+    33.90674,
+    70.60243,
+    33.90674
+],
+  "geometry": {"coordinates":[70.60243,33.90674],"type":"Point"}
+}

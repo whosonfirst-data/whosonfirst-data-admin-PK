@@ -1,0 +1,67 @@
+{
+  "id": 1343561921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.89486,33.07022,70.89486,33.07022",
+    "geom:latitude":33.07022,
+    "geom:longitude":70.89486,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Akarwala",
+    "gn:country_code":"PK",
+    "gn:dem":393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10412810,
+    "gn:latitude":33.07022,
+    "gn:longitude":70.89486,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Akarwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10412810
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebf74a6e44020618c91aa54115db27ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1343561921,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343561921,
+    "wof:lastmodified":1537094161,
+    "wof:name":"Akarwala",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.89486,
+    33.07022,
+    70.89486,
+    33.07022
+],
+  "geometry": {"coordinates":[70.89485999999999,33.07022],"type":"Point"}
+}

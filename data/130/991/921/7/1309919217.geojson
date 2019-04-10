@@ -1,0 +1,67 @@
+{
+  "id": 1309919217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27705,33.83909,71.27705,33.83909",
+    "geom:latitude":33.83909,
+    "geom:longitude":71.27705,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bini",
+    "gn:country_code":"PK",
+    "gn:dem":694,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10251478,
+    "gn:latitude":33.83909,
+    "gn:longitude":71.27705,
+    "gn:modification_date":"2015-05-07",
+    "gn:name":"Bini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10251478
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6edd60481499a4d429217fb551dc0c88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1309919217,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309919217,
+    "wof:lastmodified":1536767958,
+    "wof:name":"Bini",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27705,
+    33.83909,
+    71.27705,
+    33.83909
+],
+  "geometry": {"coordinates":[71.27705,33.83909],"type":"Point"}
+}

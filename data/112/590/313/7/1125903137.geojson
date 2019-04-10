@@ -1,0 +1,88 @@
+{
+  "id": 1125903137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75213,29.57991,71.75213,29.57991",
+    "geom:latitude":29.57991,
+    "geom:longitude":71.75213,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":18729,
+    "gn:population":18729,
+    "iso:country":"PK",
+    "lbl:latitude":29.57991,
+    "lbl:longitude":71.75213,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:dut_x_preferred":[
+        "Dhanote"
+    ],
+    "name:eng_x_preferred":[
+        "Dhanote"
+    ],
+    "name:por_x_preferred":[
+        "Dhanote"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1180133,
+    "qs_pg:gn_pop":18729,
+    "qs_pg:name":"Dhanot",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":1030033,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180133,
+        "qs_pg:id":1030033,
+        "wd:id":"Q5269015"
+    },
+    "wof:country":"PK",
+    "wof:created":1497295886,
+    "wof:geomhash":"c7d65b12f025034a1c82bccf56588697",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1125903137,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125903137,
+    "wof:lastmodified":1514496789,
+    "wof:name":"Dhanot",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:population":18729,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75213,
+    29.57991,
+    71.75213,
+    29.57991
+],
+  "geometry": {"coordinates":[71.75212999999999,29.57991],"type":"Point"}
+}

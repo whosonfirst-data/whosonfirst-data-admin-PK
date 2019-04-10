@@ -1,0 +1,78 @@
+{
+  "id": 1309911243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.33025,32.9153,74.33025,32.9153",
+    "geom:latitude":32.9153,
+    "geom:longitude":74.33025,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Haji Company",
+    "gn:country_code":"PK",
+    "gn:dem":541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10958953,
+    "gn:latitude":32.9153,
+    "gn:longitude":74.33025,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Haji Company",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10958953
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2938085d5da1ac5b9551e4dd2a509aed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309911243,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309911243,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309911243,
+    "wof:lastmodified":1536779573,
+    "wof:name":"Haji Company",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.33025,
+    32.9153,
+    74.33025,
+    32.9153
+],
+  "geometry": {"coordinates":[74.33025000000001,32.9153],"type":"Point"}
+}

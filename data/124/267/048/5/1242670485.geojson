@@ -1,0 +1,67 @@
+{
+  "id": 1242670485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00377,24.91241,69.00377,24.91241",
+    "geom:latitude":24.91241,
+    "geom:longitude":69.00377,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Rustamani",
+    "gn:country_code":"PK",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1384064,
+    "gn:latitude":24.91241,
+    "gn:longitude":69.00377,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Rustamani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1384064
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d3f33e694519a8a0c389ca908998c51f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1242670485,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242670485,
+    "wof:lastmodified":1536930749,
+    "wof:name":"Rustamani",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00376999999999,
+    24.91241,
+    69.00376999999999,
+    24.91241
+],
+  "geometry": {"coordinates":[69.00376999999999,24.91241],"type":"Point"}
+}

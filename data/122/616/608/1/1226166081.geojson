@@ -1,0 +1,67 @@
+{
+  "id": 1226166081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73805,32.78319,72.73805,32.78319",
+    "geom:latitude":32.78319,
+    "geom:longitude":72.73805,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chhumbi",
+    "gn:country_code":"PK",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7108723,
+    "gn:latitude":32.78319,
+    "gn:longitude":72.73805,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Chhumbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108723
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eef13932c0843b18cb62a9bebe963273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1226166081,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226166081,
+    "wof:lastmodified":1537046462,
+    "wof:name":"Chhumbi",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73805,
+    32.78319,
+    72.73805,
+    32.78319
+],
+  "geometry": {"coordinates":[72.73805,32.78319],"type":"Point"}
+}

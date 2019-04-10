@@ -1,0 +1,78 @@
+{
+  "id": 1277002021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.05908,35.233,75.05908,35.233",
+    "geom:latitude":35.233,
+    "geom:longitude":75.05908,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dichal",
+    "gn:country_code":"PK",
+    "gn:dem":3514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070688,
+    "gn:latitude":35.233,
+    "gn:longitude":75.05908,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dichal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070688
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3bddf3ccb3309dc170198fc1312806ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277002021,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277002021,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277002021,
+    "wof:lastmodified":1536876632,
+    "wof:name":"Dichal",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.05908000000002,
+    35.23300000000001,
+    75.05908000000002,
+    35.23300000000001
+],
+  "geometry": {"coordinates":[75.05908000000002,35.23300000000001],"type":"Point"}
+}

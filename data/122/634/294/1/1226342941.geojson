@@ -1,0 +1,67 @@
+{
+  "id": 1226342941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26016,35.33569,73.26016,35.33569",
+    "geom:latitude":35.33569,
+    "geom:longitude":73.26016,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kauge",
+    "gn:country_code":"PK",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427385,
+    "gn:latitude":35.33569,
+    "gn:longitude":73.26016,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kauge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427385
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe9652687d734b7aa772c251a4bf6b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226342941,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226342941,
+    "wof:lastmodified":1536793803,
+    "wof:name":"Kauge",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26016,
+    35.33569,
+    73.26016,
+    35.33569
+],
+  "geometry": {"coordinates":[73.26016,35.33569],"type":"Point"}
+}

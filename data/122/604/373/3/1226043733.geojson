@@ -1,0 +1,76 @@
+{
+  "id": 1226043733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07217,36.20713,72.07217,36.20713",
+    "geom:latitude":36.20713,
+    "geom:longitude":72.07217,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gohkir",
+    "gn:country_code":"PK",
+    "gn:dem":2731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178240,
+    "gn:latitude":36.20713,
+    "gn:longitude":72.07217,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Gohkir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gohkii"
+    ],
+    "name:urd_x_preferred":[
+        "Gohkir"
+    ],
+    "name:urd_x_variant":[
+        "\u06af\u0648\u06be\u0652\u06a9\u0650\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178240
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"278f75186e8c262e91fcb3b6aabafa00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1226043733,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226043733,
+    "wof:lastmodified":1537679740,
+    "wof:name":"Gohkir",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07217,
+    36.20713,
+    72.07217,
+    36.20713
+],
+  "geometry": {"coordinates":[72.07217,36.20713],"type":"Point"}
+}

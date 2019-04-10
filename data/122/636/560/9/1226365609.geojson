@@ -1,0 +1,67 @@
+{
+  "id": 1226365609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59347,30.35728,70.59347,30.35728",
+    "geom:latitude":30.35728,
+    "geom:longitude":70.59347,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Loth",
+    "gn:country_code":"PK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11174852,
+    "gn:latitude":30.35728,
+    "gn:longitude":70.59347,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Loth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11174852
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"811b4ca535b8f79b726244b5aa4e24ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1226365609,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226365609,
+    "wof:lastmodified":1536761143,
+    "wof:name":"Loth",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59347,
+    30.35728,
+    70.59347,
+    30.35728
+],
+  "geometry": {"coordinates":[70.59347,30.35728],"type":"Point"}
+}

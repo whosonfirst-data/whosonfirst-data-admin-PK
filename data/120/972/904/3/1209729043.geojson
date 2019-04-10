@@ -1,0 +1,67 @@
+{
+  "id": 1209729043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88243,33.5716,70.88243,33.5716",
+    "geom:latitude":33.5716,
+    "geom:longitude":70.88243,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dago",
+    "gn:country_code":"PK",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446529,
+    "gn:latitude":33.5716,
+    "gn:longitude":70.88243,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Dago",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446529
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9a11675e386ca619570c0b1adaa46d26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1209729043,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209729043,
+    "wof:lastmodified":1543515768,
+    "wof:name":"Dago",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88243,
+    33.5716,
+    70.88243,
+    33.5716
+],
+  "geometry": {"coordinates":[70.88243,33.5716],"type":"Point"}
+}

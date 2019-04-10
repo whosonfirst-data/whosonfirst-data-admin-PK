@@ -1,0 +1,67 @@
+{
+  "id": 1225950931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.64236,33.9064,72.64236,33.9064",
+    "geom:latitude":33.9064,
+    "geom:longitude":72.64236,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chechian",
+    "gn:country_code":"PK",
+    "gn:dem":529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339538,
+    "gn:latitude":33.9064,
+    "gn:longitude":72.64236,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chechian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339538
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7891491b6765ae0504adae8679d216f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1225950931,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225950931,
+    "wof:lastmodified":1543515601,
+    "wof:name":"Chechian",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.64236,
+    33.9064,
+    72.64236,
+    33.9064
+],
+  "geometry": {"coordinates":[72.64236,33.9064],"type":"Point"}
+}

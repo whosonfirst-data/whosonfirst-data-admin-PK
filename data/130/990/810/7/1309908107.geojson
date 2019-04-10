@@ -1,0 +1,73 @@
+{
+  "id": 1309908107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.10068,30.0014,68.10068,30.0014",
+    "geom:latitude":30.0014,
+    "geom:longitude":68.10068,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Sepai",
+    "gn:country_code":"PK",
+    "gn:dem":630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366101,
+    "gn:latitude":30.0014,
+    "gn:longitude":68.10068,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Sepai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012br Shahr",
+        "P\u012brshahr",
+        "Sepai",
+        "P\u012brshar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366101
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b5e4b15f9396d75d275c9b8bb849825b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692209,
+            "locality_id":1309908107,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309908107,
+    "wof:lastmodified":1537680490,
+    "wof:name":"Sepai",
+    "wof:parent_id":1108692209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.10068000000001,
+    30.0014,
+    68.10068000000001,
+    30.0014
+],
+  "geometry": {"coordinates":[68.10068000000001,30.0014],"type":"Point"}
+}

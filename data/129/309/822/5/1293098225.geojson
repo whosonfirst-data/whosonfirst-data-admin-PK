@@ -1,0 +1,67 @@
+{
+  "id": 1293098225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23567,31.59785,71.23567,31.59785",
+    "geom:latitude":31.59785,
+    "geom:longitude":71.23567,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Akkanwala",
+    "gn:country_code":"PK",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366451,
+    "gn:latitude":31.59785,
+    "gn:longitude":71.23567,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Akkanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366451
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"981ffa71e4ae54181f7017a08ca061a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1293098225,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293098225,
+    "wof:lastmodified":1536850167,
+    "wof:name":"Akkanwala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23567,
+    31.59785,
+    71.23567,
+    31.59785
+],
+  "geometry": {"coordinates":[71.23567,31.59785],"type":"Point"}
+}

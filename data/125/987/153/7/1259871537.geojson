@@ -1,0 +1,81 @@
+{
+  "id": 1259871537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.10572,33.48822,74.10572,33.48822",
+    "geom:latitude":33.48822,
+    "geom:longitude":74.10572,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sue na Baoli",
+    "gn:country_code":"PK",
+    "gn:dem":1349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415230,
+    "gn:latitude":33.48822,
+    "gn:longitude":74.10572,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Sue na Baoli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sue na Baol"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415230
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dd8b44a175e9d2065c88ce042a4f7116",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1259871537,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1259871537,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259871537,
+    "wof:lastmodified":1537681358,
+    "wof:name":"Sue na Baoli",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.10571999999998,
+    33.48822,
+    74.10571999999998,
+    33.48822
+],
+  "geometry": {"coordinates":[74.10571999999998,33.48822],"type":"Point"}
+}

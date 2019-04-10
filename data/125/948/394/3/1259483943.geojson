@@ -1,0 +1,67 @@
+{
+  "id": 1259483943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58167,32.96139,70.58167,32.96139",
+    "geom:latitude":32.96139,
+    "geom:longitude":70.58167,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamar",
+    "gn:country_code":"PK",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332798,
+    "gn:latitude":32.96139,
+    "gn:longitude":70.58167,
+    "gn:modification_date":"1999-03-18",
+    "gn:name":"Kamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332798
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc2c128e910856b486e917e7ed145487",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1259483943,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259483943,
+    "wof:lastmodified":1536856929,
+    "wof:name":"Kamar",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58166999999997,
+    32.96139,
+    70.58166999999997,
+    32.96139
+],
+  "geometry": {"coordinates":[70.58166999999997,32.96139],"type":"Point"}
+}

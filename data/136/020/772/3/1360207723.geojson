@@ -1,0 +1,67 @@
+{
+  "id": 1360207723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.80029,30.49707,73.80029,30.49707",
+    "geom:latitude":30.49707,
+    "geom:longitude":73.80029,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Anandpura",
+    "gn:country_code":"PK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420242,
+    "gn:latitude":30.49707,
+    "gn:longitude":73.80029,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Anandpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420242
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c8b14b00f2bfb8001602f0d7baf5173",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1360207723,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360207723,
+    "wof:lastmodified":1536769291,
+    "wof:name":"Anandpura",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.80029,
+    30.49707,
+    73.80029,
+    30.49707
+],
+  "geometry": {"coordinates":[73.80029,30.49707],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209814945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91097,33.23752,72.91097,33.23752",
+    "geom:latitude":33.23752,
+    "geom:longitude":72.91097,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Beli Khan",
+    "gn:country_code":"PK",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181870,
+    "gn:latitude":33.23752,
+    "gn:longitude":72.91097,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Chak Beli Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chak Beli Khan"
+    ],
+    "name:eng_x_variant":[
+        "Chak Beli"
+    ],
+    "name:und_x_variant":[
+        "Chak Beli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181870
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"38b3a1f7c97706c04f19531381df2e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1209814945,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209814945,
+    "wof:lastmodified":1537679871,
+    "wof:name":"Chak Beli Khan",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91096999999998,
+    33.23752,
+    72.91096999999998,
+    33.23752
+],
+  "geometry": {"coordinates":[72.91096999999998,33.23752],"type":"Point"}
+}

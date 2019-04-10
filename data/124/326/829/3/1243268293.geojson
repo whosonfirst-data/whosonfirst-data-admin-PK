@@ -1,0 +1,67 @@
+{
+  "id": 1243268293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64551,26.13162,68.64551,26.13162",
+    "geom:latitude":26.13162,
+    "geom:longitude":68.64551,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Shahbaz Khan Chamro",
+    "gn:country_code":"PK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7353794,
+    "gn:latitude":26.13162,
+    "gn:longitude":68.64551,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Shahbaz Khan Chamro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7353794
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"917e90e31930375bb92e2eba9e99e4db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1243268293,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243268293,
+    "wof:lastmodified":1537059690,
+    "wof:name":"Shahbaz Khan Chamro",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64551,
+    26.13162,
+    68.64551,
+    26.13162
+],
+  "geometry": {"coordinates":[68.64551,26.13162],"type":"Point"}
+}

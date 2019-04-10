@@ -1,0 +1,67 @@
+{
+  "id": 1327433713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.44959,26.9109,65.44959,26.9109",
+    "geom:latitude":26.9109,
+    "geom:longitude":65.44959,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ogai",
+    "gn:country_code":"PK",
+    "gn:dem":858,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235766,
+    "gn:latitude":26.9109,
+    "gn:longitude":65.44959,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Ogai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235766
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e7eb0baa4c9bcd1fb46115f6905f458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1327433713,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327433713,
+    "wof:lastmodified":1536678899,
+    "wof:name":"Ogai",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.44959,
+    26.9109,
+    65.44959,
+    26.9109
+],
+  "geometry": {"coordinates":[65.44959,26.9109],"type":"Point"}
+}

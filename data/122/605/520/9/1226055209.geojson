@@ -1,0 +1,67 @@
+{
+  "id": 1226055209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.8,25.9,63.8,25.9",
+    "geom:latitude":25.9,
+    "geom:longitude":63.8,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Talach",
+    "gn:country_code":"PK",
+    "gn:dem":627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164071,
+    "gn:latitude":25.9,
+    "gn:longitude":63.8,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Talach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164071
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74fe4f4deba583854a27ad31c3038c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1226055209,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226055209,
+    "wof:lastmodified":1536711764,
+    "wof:name":"Talach",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.8,
+    25.9,
+    63.8,
+    25.9
+],
+  "geometry": {"coordinates":[63.8,25.9],"type":"Point"}
+}

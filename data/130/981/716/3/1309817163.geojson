@@ -1,0 +1,67 @@
+{
+  "id": 1309817163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.35512,33.31003,70.35512,33.31003",
+    "geom:latitude":33.31003,
+    "geom:longitude":70.35512,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Plewan",
+    "gn:country_code":"PK",
+    "gn:dem":1037,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1345193,
+    "gn:latitude":33.31003,
+    "gn:longitude":70.35512,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Plewan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8679cc3ca8c2cae20403bc3839328c8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1309817163,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309817163,
+    "wof:lastmodified":1536915087,
+    "wof:name":"Plewan",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.35512,
+    33.31003,
+    70.35512,
+    33.31003
+],
+  "geometry": {"coordinates":[70.35512,33.31003],"type":"Point"}
+}

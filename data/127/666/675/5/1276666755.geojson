@@ -1,0 +1,67 @@
+{
+  "id": 1276666755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45085,33.7641,71.45085,33.7641",
+    "geom:latitude":33.7641,
+    "geom:longitude":71.45085,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zao",
+    "gn:country_code":"PK",
+    "gn:dem":713,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450906,
+    "gn:latitude":33.7641,
+    "gn:longitude":71.45085,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Zao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b861c1a3ab21bd43715cfa787b76e298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1276666755,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1276666755,
+    "wof:lastmodified":1536827959,
+    "wof:name":"Zao",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45085,
+    33.7641,
+    71.45085,
+    33.7641
+],
+  "geometry": {"coordinates":[71.45085,33.7641],"type":"Point"}
+}

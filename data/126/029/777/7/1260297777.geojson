@@ -1,0 +1,67 @@
+{
+  "id": 1260297777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.77598,31.42696,69.77598,31.42696",
+    "geom:latitude":31.42696,
+    "geom:longitude":69.77598,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dinak Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337640,
+    "gn:latitude":31.42696,
+    "gn:longitude":69.77598,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Dinak Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337640
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"13b89a19a6438c40c5cf7cb4d1a8d43e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1260297777,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260297777,
+    "wof:lastmodified":1536692895,
+    "wof:name":"Dinak Kili",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.77598,
+    31.42696,
+    69.77598,
+    31.42696
+],
+  "geometry": {"coordinates":[69.77598,31.42696],"type":"Point"}
+}

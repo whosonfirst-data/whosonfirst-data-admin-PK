@@ -1,0 +1,81 @@
+{
+  "id": 1344148845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8512,34.5693,73.8512,34.5693",
+    "geom:latitude":34.5693,
+    "geom:longitude":73.8512,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gujar",
+    "gn:country_code":"PK",
+    "gn:dem":1938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416024,
+    "gn:latitude":34.5693,
+    "gn:longitude":73.8512,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gujar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gujar Baihk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416024
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b70be4b9b8f5e7fbfff6259d667e447a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1344148845,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1344148845,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344148845,
+    "wof:lastmodified":1537681373,
+    "wof:name":"Gujar",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8512,
+    34.5693,
+    73.8512,
+    34.5693
+],
+  "geometry": {"coordinates":[73.85120000000001,34.5693],"type":"Point"}
+}

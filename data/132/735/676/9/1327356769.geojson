@@ -1,0 +1,71 @@
+{
+  "id": 1327356769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53933,32.4176,73.53933,32.4176",
+    "geom:latitude":32.4176,
+    "geom:longitude":73.53933,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kailo",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175430,
+    "gn:latitude":32.4176,
+    "gn:longitude":73.53933,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Kailo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaplo",
+        "Kailo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175430
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f8007ceadd803984ca6bf35287fd33d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1327356769,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327356769,
+    "wof:lastmodified":1537679641,
+    "wof:name":"Kailo",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53933,
+    32.4176,
+    73.53933,
+    32.4176
+],
+  "geometry": {"coordinates":[73.53933000000001,32.4176],"type":"Point"}
+}

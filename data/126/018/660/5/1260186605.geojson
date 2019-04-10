@@ -1,0 +1,67 @@
+{
+  "id": 1260186605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05405,24.85274,70.05405,24.85274",
+    "geom:latitude":24.85274,
+    "geom:longitude":70.05405,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Dhurio",
+    "gn:country_code":"PK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497010,
+    "gn:latitude":24.85274,
+    "gn:longitude":70.05405,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Dhurio",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497010
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"12a2e7c2bd91f234cfb766e6d28ead46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1260186605,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260186605,
+    "wof:lastmodified":1536842577,
+    "wof:name":"Dhurio",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05405,
+    24.85274,
+    70.05405,
+    24.85274
+],
+  "geometry": {"coordinates":[70.05405,24.85274],"type":"Point"}
+}

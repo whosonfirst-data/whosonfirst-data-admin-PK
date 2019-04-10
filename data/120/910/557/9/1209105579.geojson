@@ -1,0 +1,64 @@
+{
+  "id": 1209105579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.14626,31.49218,74.14626,31.49218",
+    "geom:latitude":31.49218,
+    "geom:longitude":74.14626,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lurke",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330756,
+    "gn:latitude":31.49218,
+    "gn:longitude":74.14626,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Lurke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lurke Li\u0101mat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330756
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e4e1f404664a459a4b56e8db773ffd4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209105579
+        }
+    ],
+    "wof:id":1209105579,
+    "wof:lastmodified":1537680018,
+    "wof:name":"Lurke",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.14626,
+    31.49218,
+    74.14626,
+    31.49218
+],
+  "geometry": {"coordinates":[74.14626,31.49218],"type":"Point"}
+}

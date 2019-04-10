@@ -1,0 +1,81 @@
+{
+  "id": 1327154467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05724,35.59272,74.05724,35.59272",
+    "geom:latitude":35.59272,
+    "geom:longitude":74.05724,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Phhalej Gah",
+    "gn:country_code":"PK",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423621,
+    "gn:latitude":35.59272,
+    "gn:longitude":74.05724,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Phhalej Gah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Phurjgah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"855bcdd8cadf27b570d66c4cc0b74938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327154467,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327154467,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327154467,
+    "wof:lastmodified":1537681907,
+    "wof:name":"Phhalej Gah",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05724000000002,
+    35.59272,
+    74.05724000000002,
+    35.59272
+],
+  "geometry": {"coordinates":[74.05724000000002,35.59272],"type":"Point"}
+}

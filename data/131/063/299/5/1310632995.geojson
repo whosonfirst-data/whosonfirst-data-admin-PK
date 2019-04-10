@@ -1,0 +1,67 @@
+{
+  "id": 1310632995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85833,29.68056,71.85833,29.68056",
+    "geom:latitude":29.68056,
+    "geom:longitude":71.85833,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Maidni",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418179,
+    "gn:latitude":29.68056,
+    "gn:longitude":71.85833,
+    "gn:modification_date":"2002-01-16",
+    "gn:name":"Maidni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418179
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb140b614dfdc3d8047f95ad4d8ad49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1310632995,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310632995,
+    "wof:lastmodified":1536733280,
+    "wof:name":"Maidni",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85833000000002,
+    29.68056,
+    71.85833000000002,
+    29.68056
+],
+  "geometry": {"coordinates":[71.85833000000002,29.68056],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310205685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.52016,34.95513,72.52016,34.95513",
+    "geom:latitude":34.95513,
+    "geom:longitude":72.52016,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kakardam",
+    "gn:country_code":"PK",
+    "gn:dem":1388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420764,
+    "gn:latitude":34.95513,
+    "gn:longitude":72.52016,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kakardam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420764
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea58eeeceb7f2eb21d4a88bf492c026f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1310205685,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310205685,
+    "wof:lastmodified":1536850898,
+    "wof:name":"Kakardam",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.52016,
+    34.95513,
+    72.52016,
+    34.95513
+],
+  "geometry": {"coordinates":[72.52016,34.95513],"type":"Point"}
+}

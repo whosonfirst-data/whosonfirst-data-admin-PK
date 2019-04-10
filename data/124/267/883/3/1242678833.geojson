@@ -1,0 +1,67 @@
+{
+  "id": 1242678833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92795,34.12397,72.92795,34.12397",
+    "geom:latitude":34.12397,
+    "geom:longitude":72.92795,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Charian",
+    "gn:country_code":"PK",
+    "gn:dem":446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1378994,
+    "gn:latitude":34.12397,
+    "gn:longitude":72.92795,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Charian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378994
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5668a409c969c38cff35080cec1410ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1242678833,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242678833,
+    "wof:lastmodified":1536918552,
+    "wof:name":"Charian",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92795,
+    34.12397,
+    72.92795,
+    34.12397
+],
+  "geometry": {"coordinates":[72.92795,34.12397],"type":"Point"}
+}

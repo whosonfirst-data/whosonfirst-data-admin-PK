@@ -1,0 +1,67 @@
+{
+  "id": 1209115163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40778,34.85927,71.40778,34.85927",
+    "geom:latitude":34.85927,
+    "geom:longitude":71.40778,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kats",
+    "gn:country_code":"PK",
+    "gn:dem":1158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353135,
+    "gn:latitude":34.85927,
+    "gn:longitude":71.40778,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kats",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353135
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"85bd9e6816b0b3addd29ef91e289cfe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1209115163,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209115163,
+    "wof:lastmodified":1543515472,
+    "wof:name":"Kats",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40778,
+    34.85927,
+    71.40778,
+    34.85927
+],
+  "geometry": {"coordinates":[71.40778,34.85927],"type":"Point"}
+}

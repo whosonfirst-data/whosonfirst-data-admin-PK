@@ -1,0 +1,67 @@
+{
+  "id": 1326732551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.78885,27.50416,65.78885,27.50416",
+    "geom:latitude":27.50416,
+    "geom:longitude":65.78885,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mazardan",
+    "gn:country_code":"PK",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579970,
+    "gn:latitude":27.50416,
+    "gn:longitude":65.78885,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Mazardan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579970
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b8eab2504f0cfa6b1a1d87c006c3e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1326732551,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326732551,
+    "wof:lastmodified":1536695489,
+    "wof:name":"Mazardan",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.78885,
+    27.50416,
+    65.78885,
+    27.50416
+],
+  "geometry": {"coordinates":[65.78885,27.50416],"type":"Point"}
+}

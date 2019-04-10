@@ -1,0 +1,79 @@
+{
+  "id": 1326450491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.70264,35.21877,74.70264,35.21877",
+    "geom:latitude":35.21877,
+    "geom:longitude":74.70264,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rupal",
+    "gn:country_code":"PK",
+    "gn:dem":3095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166738,
+    "gn:latitude":35.21877,
+    "gn:longitude":74.70264,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Rupal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166738,
+        "wk:page":"Rupal"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"94b717adb8b905d26f15d0d7b4c2a7d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326450491,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326450491,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326450491,
+    "wof:lastmodified":1537570686,
+    "wof:name":"Rupal",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.70264,
+    35.21877,
+    74.70264,
+    35.21877
+],
+  "geometry": {"coordinates":[74.70264,35.21877],"type":"Point"}
+}

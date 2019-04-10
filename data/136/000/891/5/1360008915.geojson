@@ -1,0 +1,78 @@
+{
+  "id": 1360008915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.4036,32.84011,74.4036,32.84011",
+    "geom:latitude":32.84011,
+    "geom:longitude":74.4036,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Makhdum Saiyidan",
+    "gn:country_code":"PK",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10960509,
+    "gn:latitude":32.84011,
+    "gn:longitude":74.4036,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Makhdum Saiyidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10960509
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"438e564be58859d6d5b858118758eedb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360008915,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360008915,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360008915,
+    "wof:lastmodified":1537053269,
+    "wof:name":"Makhdum Saiyidan",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.4036,
+    32.84011,
+    74.4036,
+    32.84011
+],
+  "geometry": {"coordinates":[74.4036,32.84011],"type":"Point"}
+}

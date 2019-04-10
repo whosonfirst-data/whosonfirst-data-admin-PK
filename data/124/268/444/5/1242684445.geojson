@@ -1,0 +1,67 @@
+{
+  "id": 1242684445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66245,36.45135,72.66245,36.45135",
+    "geom:latitude":36.45135,
+    "geom:longitude":72.66245,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Istach",
+    "gn:country_code":"PK",
+    "gn:dem":2535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7457745,
+    "gn:latitude":36.45135,
+    "gn:longitude":72.66245,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Istach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7457745
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5e442dd102cde2db343a2ee1e8caa9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1242684445,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242684445,
+    "wof:lastmodified":1536910179,
+    "wof:name":"Istach",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66245,
+    36.45135,
+    72.66245,
+    36.45135
+],
+  "geometry": {"coordinates":[72.66245000000001,36.45135],"type":"Point"}
+}

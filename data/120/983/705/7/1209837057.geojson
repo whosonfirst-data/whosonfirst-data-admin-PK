@@ -1,0 +1,81 @@
+{
+  "id": 1209837057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01826,33.1664,74.01826,33.1664",
+    "geom:latitude":33.1664,
+    "geom:longitude":74.01826,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bantha",
+    "gn:country_code":"PK",
+    "gn:dem":616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415262,
+    "gn:latitude":33.1664,
+    "gn:longitude":74.01826,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bantha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banthai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415262
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d80d07a69bd88021ce7a4a9cf6e486c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209837057,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209837057,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209837057,
+    "wof:lastmodified":1537681359,
+    "wof:name":"Bantha",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01826,
+    33.1664,
+    74.01826,
+    33.1664
+],
+  "geometry": {"coordinates":[74.01826,33.1664],"type":"Point"}
+}

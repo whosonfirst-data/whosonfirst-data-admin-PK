@@ -1,0 +1,81 @@
+{
+  "id": 1310697659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73322,35.32859,73.73322,35.32859",
+    "geom:latitude":35.32859,
+    "geom:longitude":73.73322,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chalachari",
+    "gn:country_code":"PK",
+    "gn:dem":3041,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427432,
+    "gn:latitude":35.32859,
+    "gn:longitude":73.73322,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chalachari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chalach\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427432
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"47b26ea14488bc5f55dba0a6c3665283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310697659,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310697659,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310697659,
+    "wof:lastmodified":1537681911,
+    "wof:name":"Chalachari",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73321999999997,
+    35.32859000000001,
+    73.73321999999997,
+    35.32859000000001
+],
+  "geometry": {"coordinates":[73.73321999999997,35.32859000000001],"type":"Point"}
+}

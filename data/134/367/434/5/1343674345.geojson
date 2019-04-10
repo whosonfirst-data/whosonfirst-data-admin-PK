@@ -1,0 +1,67 @@
+{
+  "id": 1343674345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.18583,27.54673,66.18583,27.54673",
+    "geom:latitude":27.54673,
+    "geom:longitude":66.18583,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tibbu",
+    "gn:country_code":"PK",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7070878,
+    "gn:latitude":27.54673,
+    "gn:longitude":66.18583,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Tibbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7070878
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"905a95a1ec6935457c9f15482855f806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1343674345,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343674345,
+    "wof:lastmodified":1536935733,
+    "wof:name":"Tibbu",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.18583000000001,
+    27.54673,
+    66.18583000000001,
+    27.54673
+],
+  "geometry": {"coordinates":[66.18583000000001,27.54673],"type":"Point"}
+}

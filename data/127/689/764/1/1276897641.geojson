@@ -1,0 +1,67 @@
+{
+  "id": 1276897641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54583,31.37222,73.54583,31.37222",
+    "geom:latitude":31.37222,
+    "geom:longitude":73.54583,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bahadur",
+    "gn:country_code":"PK",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419852,
+    "gn:latitude":31.37222,
+    "gn:longitude":73.54583,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bahadur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419852
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"160ece60b3531234f02ddac0b188d6e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1276897641,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276897641,
+    "wof:lastmodified":1537016671,
+    "wof:name":"Bahadur",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54583000000002,
+    31.37222,
+    73.54583000000002,
+    31.37222
+],
+  "geometry": {"coordinates":[73.54583000000002,31.37222],"type":"Point"}
+}

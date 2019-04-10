@@ -1,0 +1,67 @@
+{
+  "id": 1226442013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14101,30.3484,73.14101,30.3484",
+    "geom:latitude":30.3484,
+    "geom:longitude":73.14101,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mehrabad",
+    "gn:country_code":"PK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539634,
+    "gn:latitude":30.3484,
+    "gn:longitude":73.14101,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mehrabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539634
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"897b7f3e47dfb0474207d67ea04501a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1226442013,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226442013,
+    "wof:lastmodified":1536650686,
+    "wof:name":"Mehrabad",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14101,
+    30.3484,
+    73.14101,
+    30.3484
+],
+  "geometry": {"coordinates":[73.14100999999999,30.3484],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209727987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3477,26.25165,66.3477,26.25165",
+    "geom:latitude":26.25165,
+    "geom:longitude":66.3477,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Hussenani",
+    "gn:country_code":"PK",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1108855,
+    "gn:latitude":26.25165,
+    "gn:longitude":66.3477,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Hussenani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1108855
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9478729bc3bffc7aa678948822275a22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1209727987,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209727987,
+    "wof:lastmodified":1536381732,
+    "wof:name":"Hussenani",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3477,
+    26.25165,
+    66.3477,
+    26.25165
+],
+  "geometry": {"coordinates":[66.3477,26.25165],"type":"Point"}
+}

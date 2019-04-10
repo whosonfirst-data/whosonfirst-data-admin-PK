@@ -1,0 +1,67 @@
+{
+  "id": 1243555359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61818,35.03675,72.61818,35.03675",
+    "geom:latitude":35.03675,
+    "geom:longitude":72.61818,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gatsar Banda",
+    "gn:country_code":"PK",
+    "gn:dem":3114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377426,
+    "gn:latitude":35.03675,
+    "gn:longitude":72.61818,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gatsar Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377426
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ffd6fb1afb0108e57f6a94fc933eb8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1243555359,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243555359,
+    "wof:lastmodified":1536648236,
+    "wof:name":"Gatsar Banda",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61818000000002,
+    35.03675,
+    72.61818000000002,
+    35.03675
+],
+  "geometry": {"coordinates":[72.61818000000002,35.03675],"type":"Point"}
+}

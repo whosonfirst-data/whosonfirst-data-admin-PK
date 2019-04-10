@@ -1,0 +1,67 @@
+{
+  "id": 1243081193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.67165,34.68471,71.67165,34.68471",
+    "geom:latitude":34.68471,
+    "geom:longitude":71.67165,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kotai",
+    "gn:country_code":"PK",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9276897,
+    "gn:latitude":34.68471,
+    "gn:longitude":71.67165,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Kotai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9276897
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f0519daf773eb6d7bd06d13f777da27b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1243081193,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243081193,
+    "wof:lastmodified":1536833924,
+    "wof:name":"Kotai",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.67165,
+    34.68471,
+    71.67165,
+    34.68471
+],
+  "geometry": {"coordinates":[71.67165,34.68471],"type":"Point"}
+}

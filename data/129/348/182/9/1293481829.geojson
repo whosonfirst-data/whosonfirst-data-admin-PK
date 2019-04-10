@@ -1,0 +1,81 @@
+{
+  "id": 1293481829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59728,33.83459,73.59728,33.83459",
+    "geom:latitude":33.83459,
+    "geom:longitude":73.59728,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Siroli",
+    "gn:country_code":"PK",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100127,
+    "gn:latitude":33.83459,
+    "gn:longitude":73.59728,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Siroli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sir\u016bli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100127
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3569b3928bc5e6687c13adf86faa2b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293481829,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293481829,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293481829,
+    "wof:lastmodified":1537681689,
+    "wof:name":"Siroli",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59728,
+    33.83459000000001,
+    73.59728,
+    33.83459000000001
+],
+  "geometry": {"coordinates":[73.59728,33.83459000000001],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209314099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.89881,32.31138,74.89881,32.31138",
+    "geom:latitude":32.31138,
+    "geom:longitude":74.89881,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pindori",
+    "gn:country_code":"PK",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465453,
+    "gn:latitude":32.31138,
+    "gn:longitude":74.89881,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Pindori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pindori\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465453
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4ebc1aabdd2b7c77fc520dde9655e472",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314099
+        }
+    ],
+    "wof:id":1209314099,
+    "wof:lastmodified":1537681925,
+    "wof:name":"Pindori",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.89881,
+    32.31138,
+    74.89881,
+    32.31138
+],
+  "geometry": {"coordinates":[74.89881,32.31138],"type":"Point"}
+}

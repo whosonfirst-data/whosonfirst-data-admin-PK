@@ -1,0 +1,70 @@
+{
+  "id": 1259885221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.29497,32.98943,73.29497,32.98943",
+    "geom:latitude":32.98943,
+    "geom:longitude":73.29497,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dehera",
+    "gn:country_code":"PK",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180335,
+    "gn:latitude":32.98943,
+    "gn:longitude":73.29497,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Dehera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dehra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8acb86c9e8fb5098755deacd832bf6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1259885221,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259885221,
+    "wof:lastmodified":1537679815,
+    "wof:name":"Dehera",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.29496999999998,
+    32.98943,
+    73.29496999999998,
+    32.98943
+],
+  "geometry": {"coordinates":[73.29496999999998,32.98943],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259381173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.93384,24.36236,69.93384,24.36236",
+    "geom:latitude":24.36236,
+    "geom:longitude":69.93384,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lewari",
+    "gn:country_code":"PK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11036832,
+    "gn:latitude":24.36236,
+    "gn:longitude":69.93384,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Lewari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11036832
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d3e25602750034497d61c79b93f3fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1259381173,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259381173,
+    "wof:lastmodified":1537004894,
+    "wof:name":"Lewari",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.93384,
+    24.36236,
+    69.93384,
+    24.36236
+],
+  "geometry": {"coordinates":[69.93384,24.36236],"type":"Point"}
+}

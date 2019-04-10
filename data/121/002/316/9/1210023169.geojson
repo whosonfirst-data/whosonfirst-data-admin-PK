@@ -1,0 +1,72 @@
+{
+  "id": 1210023169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.35185,35.00254,72.35185,35.00254",
+    "geom:latitude":35.00254,
+    "geom:longitude":72.35185,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Khachar Pla",
+    "gn:country_code":"PK",
+    "gn:dem":1320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390930,
+    "gn:latitude":35.00254,
+    "gn:longitude":72.35185,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khachar Pla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khachar",
+        "Khachar Pla",
+        "Khachar Pia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390930
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c2b1b8ee186eddbe4776ac43383d5fe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1210023169,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210023169,
+    "wof:lastmodified":1543515275,
+    "wof:name":"Khachar Pla",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.35185,
+    35.00254,
+    72.35185,
+    35.00254
+],
+  "geometry": {"coordinates":[72.35185,35.00254],"type":"Point"}
+}

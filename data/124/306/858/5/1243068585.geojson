@@ -1,0 +1,67 @@
+{
+  "id": 1243068585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.99864,33.32798,70.99864,33.32798",
+    "geom:latitude":33.32798,
+    "geom:longitude":70.99864,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Urmar",
+    "gn:country_code":"PK",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162897,
+    "gn:latitude":33.32798,
+    "gn:longitude":70.99864,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Urmar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162897
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1c27809ef297bab67c5a91bc1cc9cbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1243068585,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243068585,
+    "wof:lastmodified":1536852141,
+    "wof:name":"Urmar",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.99864000000002,
+    33.32798,
+    70.99864000000002,
+    33.32798
+],
+  "geometry": {"coordinates":[70.99864000000002,33.32798],"type":"Point"}
+}

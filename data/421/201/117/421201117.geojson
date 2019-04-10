@@ -1,0 +1,86 @@
+{
+  "id": 421201117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91142,32.60795,70.91142,32.60795",
+    "geom:latitude":32.60795,
+    "geom:longitude":70.91142,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:fin_x_preferred":[
+        "Lakki"
+    ],
+    "name:unk_x_variant":[
+        "Laki-Marwat"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPLA2",
+    "qs:gn_id":1172339,
+    "qs:gn_pop":36391,
+    "qs:name":"Lakki",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"North-West Frontier",
+    "qs:photos":13,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":13,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":912629,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":2211181,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":71,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172339,
+        "gp:id":2211181,
+        "qs:id":912629
+    },
+    "wof:country":"PK",
+    "wof:created":1459010057,
+    "wof:geomhash":"7fe27b856cfe3137c5d64767fbcf72cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":421201117,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":421201117,
+    "wof:lastmodified":1543515472,
+    "wof:name":"Lakki",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:population":36391,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91142,
+    32.60795,
+    70.91142,
+    32.60795
+],
+  "geometry": {"coordinates":[70.91142000000001,32.60795],"type":"Point"}
+}

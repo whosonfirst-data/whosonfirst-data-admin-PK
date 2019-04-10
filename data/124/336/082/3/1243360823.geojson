@@ -1,0 +1,81 @@
+{
+  "id": 1243360823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47142,34.54537,73.47142,34.54537",
+    "geom:latitude":34.54537,
+    "geom:longitude":73.47142,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chhappran",
+    "gn:country_code":"PK",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406395,
+    "gn:latitude":34.54537,
+    "gn:longitude":73.47142,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chhappran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chhapar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e0c5645d0d034bb7df77594a4b7d6f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243360823,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243360823,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243360823,
+    "wof:lastmodified":1537681197,
+    "wof:name":"Chhappran",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47142,
+    34.54537,
+    73.47142,
+    34.54537
+],
+  "geometry": {"coordinates":[73.47141999999999,34.54537],"type":"Point"}
+}

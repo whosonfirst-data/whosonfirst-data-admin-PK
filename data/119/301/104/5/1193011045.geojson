@@ -1,0 +1,67 @@
+{
+  "id": 1193011045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.42033,24.52609,69.42033,24.52609",
+    "geom:latitude":24.52609,
+    "geom:longitude":69.42033,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rajhar",
+    "gn:country_code":"PK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497635,
+    "gn:latitude":24.52609,
+    "gn:longitude":69.42033,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Rajhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497635
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cfe10a6660b061d79a610d072126edec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1193011045,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193011045,
+    "wof:lastmodified":1536383487,
+    "wof:name":"Rajhar",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.42033,
+    24.52609,
+    69.42033,
+    24.52609
+],
+  "geometry": {"coordinates":[69.42033000000001,24.52609],"type":"Point"}
+}

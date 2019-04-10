@@ -1,0 +1,77 @@
+{
+  "id": 1360185751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.61625,34.02578,71.61625,34.02578",
+    "geom:latitude":34.02578,
+    "geom:longitude":71.61625,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kambo",
+    "gn:country_code":"PK",
+    "gn:dem":315,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175059,
+    "gn:latitude":34.02578,
+    "gn:longitude":71.61625,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Kambo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kanboh"
+    ],
+    "name:eng_x_variant":[
+        "Kambo"
+    ],
+    "name:und_x_variant":[
+        "Kamhbo",
+        "Kanjoh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175059
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6eaaf74ba192f3596865c78df4d1927e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1360185751,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360185751,
+    "wof:lastmodified":1543515316,
+    "wof:name":"Kambo",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.61625,
+    34.02578,
+    71.61625,
+    34.02578
+],
+  "geometry": {"coordinates":[71.61624999999999,34.02578],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209315661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20289,35.4008,73.20289,35.4008",
+    "geom:latitude":35.4008,
+    "geom:longitude":73.20289,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kergah",
+    "gn:country_code":"PK",
+    "gn:dem":864,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999911,
+    "gn:latitude":35.4008,
+    "gn:longitude":73.20289,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kergah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999911
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ead647888da3de13bf2ab8cf861f1023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209315661,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315661,
+    "wof:lastmodified":1543515566,
+    "wof:name":"Kergah",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20289,
+    35.4008,
+    73.20289,
+    35.4008
+],
+  "geometry": {"coordinates":[73.20289,35.4008],"type":"Point"}
+}

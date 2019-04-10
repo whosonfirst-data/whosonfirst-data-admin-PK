@@ -1,0 +1,78 @@
+{
+  "id": 1309903249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59545,33.63209,73.59545,33.63209",
+    "geom:latitude":33.63209,
+    "geom:longitude":73.59545,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Geh",
+    "gn:country_code":"PK",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100382,
+    "gn:latitude":33.63209,
+    "gn:longitude":73.59545,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Geh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100382
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"be1a25a46ba84b17a819a8b6c33f38b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1309903249,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1309903249,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309903249,
+    "wof:lastmodified":1536791034,
+    "wof:name":"Geh",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59545,
+    33.63209000000001,
+    73.59545,
+    33.63209000000001
+],
+  "geometry": {"coordinates":[73.59545,33.63209000000001],"type":"Point"}
+}

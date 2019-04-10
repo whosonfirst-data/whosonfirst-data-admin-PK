@@ -1,0 +1,78 @@
+{
+  "id": 1310097377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.70619,33.87256,73.70619,33.87256",
+    "geom:latitude":33.87256,
+    "geom:longitude":73.70619,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mujahidabad Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986211,
+    "gn:latitude":33.87256,
+    "gn:longitude":73.70619,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mujahidabad Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986211
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b348613134028f62abd5ef2ba454ea24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1310097377,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1310097377,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310097377,
+    "wof:lastmodified":1537007501,
+    "wof:name":"Mujahidabad Bazar",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70619,
+    33.87256,
+    73.70619,
+    33.87256
+],
+  "geometry": {"coordinates":[73.70619000000001,33.87256],"type":"Point"}
+}

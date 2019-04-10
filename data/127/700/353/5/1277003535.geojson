@@ -1,0 +1,78 @@
+{
+  "id": 1277003535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.11667,34.86667,75.11667,34.86667",
+    "geom:latitude":34.86667,
+    "geom:longitude":75.11667,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Burzil",
+    "gn:country_code":"PK",
+    "gn:dem":4236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182036,
+    "gn:latitude":34.86667,
+    "gn:longitude":75.11667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Burzil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182036
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1340f84ad18b9a9e8b4d1036ad78ec63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277003535,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1277003535,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277003535,
+    "wof:lastmodified":1536874533,
+    "wof:name":"Burzil",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.11667,
+    34.86667,
+    75.11667,
+    34.86667
+],
+  "geometry": {"coordinates":[75.11667,34.86667],"type":"Point"}
+}

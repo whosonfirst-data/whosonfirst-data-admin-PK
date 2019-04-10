@@ -1,0 +1,81 @@
+{
+  "id": 1344054261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.74819,34.41575,73.74819,34.41575",
+    "geom:latitude":34.41575,
+    "geom:longitude":73.74819,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Koli",
+    "gn:country_code":"PK",
+    "gn:dem":2726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385552,
+    "gn:latitude":34.41575,
+    "gn:longitude":73.74819,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Koli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chunj"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385552
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e1bffc5ecee8e574fba1b044df21568",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1344054261,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1344054261,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344054261,
+    "wof:lastmodified":1537680841,
+    "wof:name":"Koli",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.74819000000002,
+    34.41575,
+    73.74819000000002,
+    34.41575
+],
+  "geometry": {"coordinates":[73.74819000000002,34.41575],"type":"Point"}
+}

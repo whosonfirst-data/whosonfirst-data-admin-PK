@@ -1,0 +1,67 @@
+{
+  "id": 1344057635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49686,32.95866,70.49686,32.95866",
+    "geom:latitude":32.95866,
+    "geom:longitude":70.49686,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Latuk",
+    "gn:country_code":"PK",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338812,
+    "gn:latitude":32.95866,
+    "gn:longitude":70.49686,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Latuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338812
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77fe0856a9bb3d8033aac80dc38326a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1344057635,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344057635,
+    "wof:lastmodified":1536878852,
+    "wof:name":"Latuk",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49686,
+    32.95865999999999,
+    70.49686,
+    32.95865999999999
+],
+  "geometry": {"coordinates":[70.49686,32.95865999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225857397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95904,29.01337,66.95904,29.01337",
+    "geom:latitude":29.01337,
+    "geom:longitude":66.95904,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bozg",
+    "gn:country_code":"PK",
+    "gn:dem":1322,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272466,
+    "gn:latitude":29.01337,
+    "gn:longitude":66.95904,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Bozg",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272466
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"422baa36c85db967bafa80c6d0d12a04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1225857397,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1225857397,
+    "wof:lastmodified":1536996016,
+    "wof:name":"Bozg",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95904,
+    29.01337,
+    66.95904,
+    29.01337
+],
+  "geometry": {"coordinates":[66.95904,29.01337],"type":"Point"}
+}

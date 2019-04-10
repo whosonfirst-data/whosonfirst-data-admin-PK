@@ -1,0 +1,67 @@
+{
+  "id": 1209522153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56115,35.07344,71.56115,35.07344",
+    "geom:latitude":35.07344,
+    "geom:longitude":71.56115,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chanargul",
+    "gn:country_code":"PK",
+    "gn:dem":2349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124243,
+    "gn:latitude":35.07344,
+    "gn:longitude":71.56115,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Chanargul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124243
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4dd08fbedd1431e49031f7935b51e3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1209522153,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209522153,
+    "wof:lastmodified":1543515636,
+    "wof:name":"Chanargul",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56115,
+    35.07344000000001,
+    71.56115,
+    35.07344000000001
+],
+  "geometry": {"coordinates":[71.56115,35.07344000000001],"type":"Point"}
+}

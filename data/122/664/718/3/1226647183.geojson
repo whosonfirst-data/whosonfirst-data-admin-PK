@@ -1,0 +1,67 @@
+{
+  "id": 1226647183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9697,34.98909,73.9697,34.98909",
+    "geom:latitude":34.98909,
+    "geom:longitude":73.9697,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pari",
+    "gn:country_code":"PK",
+    "gn:dem":3391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386001,
+    "gn:latitude":34.98909,
+    "gn:longitude":73.9697,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386001
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"851509550602dddfcfa747ad00c5f5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226647183,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226647183,
+    "wof:lastmodified":1536856119,
+    "wof:name":"Pari",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9697,
+    34.98909,
+    73.9697,
+    34.98909
+],
+  "geometry": {"coordinates":[73.9697,34.98909],"type":"Point"}
+}

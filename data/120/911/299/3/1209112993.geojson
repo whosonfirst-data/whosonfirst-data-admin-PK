@@ -1,0 +1,67 @@
+{
+  "id": 1209112993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73713,34.71963,72.73713,34.71963",
+    "geom:latitude":34.71963,
+    "geom:longitude":72.73713,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kuhai",
+    "gn:country_code":"PK",
+    "gn:dem":1646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390784,
+    "gn:latitude":34.71963,
+    "gn:longitude":72.73713,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kuhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390784
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf692cdcb0d33d63764259c0804682b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1209112993,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209112993,
+    "wof:lastmodified":1543515466,
+    "wof:name":"Kuhai",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73713000000002,
+    34.71963,
+    72.73713000000002,
+    34.71963
+],
+  "geometry": {"coordinates":[72.73713000000002,34.71963],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259383601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41629,34.40696,73.41629,34.40696",
+    "geom:latitude":34.40696,
+    "geom:longitude":73.41629,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chhapar",
+    "gn:country_code":"PK",
+    "gn:dem":1404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997527,
+    "gn:latitude":34.40696,
+    "gn:longitude":73.41629,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Chhapar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997527
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"963c4c9dac55c14a1d8f5c5db89917ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1259383601,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259383601,
+    "wof:lastmodified":1537001353,
+    "wof:name":"Chhapar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41629,
+    34.40696,
+    73.41629,
+    34.40696
+],
+  "geometry": {"coordinates":[73.41629,34.40696],"type":"Point"}
+}

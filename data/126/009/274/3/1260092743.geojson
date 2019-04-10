@@ -1,0 +1,67 @@
+{
+  "id": 1260092743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.8868,29.73757,65.8868,29.73757",
+    "geom:latitude":29.73757,
+    "geom:longitude":65.8868,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Anam Bostan",
+    "gn:country_code":"PK",
+    "gn:dem":931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1375245,
+    "gn:latitude":29.73757,
+    "gn:longitude":65.8868,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Anam Bostan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1375245
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c69d42e109a0cfd80f65869b609816bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692337,
+            "locality_id":1260092743,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260092743,
+    "wof:lastmodified":1536974182,
+    "wof:name":"Anam Bostan",
+    "wof:parent_id":1108692337,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.8868,
+    29.73757,
+    65.8868,
+    29.73757
+],
+  "geometry": {"coordinates":[65.88679999999999,29.73757],"type":"Point"}
+}

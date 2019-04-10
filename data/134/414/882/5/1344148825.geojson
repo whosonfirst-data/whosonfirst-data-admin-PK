@@ -1,0 +1,78 @@
+{
+  "id": 1344148825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6101,34.42333,73.6101,34.42333",
+    "geom:latitude":34.42333,
+    "geom:longitude":73.6101,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bari",
+    "gn:country_code":"PK",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10943984,
+    "gn:latitude":34.42333,
+    "gn:longitude":73.6101,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10943984
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67ca00108aa61cd7b21492b7ee5bf0aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344148825,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344148825,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344148825,
+    "wof:lastmodified":1536747916,
+    "wof:name":"Bari",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6101,
+    34.42333,
+    73.6101,
+    34.42333
+],
+  "geometry": {"coordinates":[73.6101,34.42333],"type":"Point"}
+}

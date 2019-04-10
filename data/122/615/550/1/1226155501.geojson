@@ -1,0 +1,67 @@
+{
+  "id": 1226155501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.35316,30.45362,68.35316,30.45362",
+    "geom:latitude":30.45362,
+    "geom:longitude":68.35316,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Dand",
+    "gn:country_code":"PK",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1396394,
+    "gn:latitude":30.45362,
+    "gn:longitude":68.35316,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Dand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1396394
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"62837b0fe2ee500b8302271edf2ba0ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1226155501,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226155501,
+    "wof:lastmodified":1537060876,
+    "wof:name":"Dand",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.35316,
+    30.45362,
+    68.35316,
+    30.45362
+],
+  "geometry": {"coordinates":[68.35316,30.45362],"type":"Point"}
+}

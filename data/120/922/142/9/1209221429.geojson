@@ -1,0 +1,67 @@
+{
+  "id": 1209221429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60081,35.53185,73.60081,35.53185",
+    "geom:latitude":35.53185,
+    "geom:longitude":73.60081,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sarangkot",
+    "gn:country_code":"PK",
+    "gn:dem":1093,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021129,
+    "gn:latitude":35.53185,
+    "gn:longitude":73.60081,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Sarangkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021129
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33af64ae77bae9b25c9624dd311fbef1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209221429,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209221429,
+    "wof:lastmodified":1543515506,
+    "wof:name":"Sarangkot",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60081,
+    35.53185,
+    73.60081,
+    35.53185
+],
+  "geometry": {"coordinates":[73.60081,35.53185],"type":"Point"}
+}

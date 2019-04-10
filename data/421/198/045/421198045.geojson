@@ -1,0 +1,94 @@
+{
+  "id": 421198045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53424,34.197747,73.53424,34.197747",
+    "geom:latitude":34.197747,
+    "geom:longitude":73.53424,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Dana Kachilli",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Azad Kashmir",
+    "qs:photos":63,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":63,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1187425,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":22723024,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692319,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":22723024,
+        "qs:id":1187425
+    },
+    "wof:country":"PK",
+    "wof:created":1459009934,
+    "wof:geomhash":"e7c39e6307a36138be5b00c2caad209a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "locality_id":421198045,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":421198045,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":421198045,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":421198045,
+    "wof:lastmodified":1533678757,
+    "wof:name":"Dana Kachilli",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53424,
+    34.197747,
+    73.53424,
+    34.197747
+],
+  "geometry": {"coordinates":[73.53424,34.197747],"type":"Point"}
+}

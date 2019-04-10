@@ -1,0 +1,66 @@
+{
+  "id": 1209420563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96428,32.84666,73.96428,32.84666",
+    "geom:latitude":32.84666,
+    "geom:longitude":73.96428,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chantla",
+    "gn:country_code":"PK",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181495,
+    "gn:latitude":32.84666,
+    "gn:longitude":73.96428,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Chantla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhantla",
+        "Chantla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181495,
+        "wk:page":"Jhantla"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3167ce63f863c6fbdca93206284c5805",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209420563
+        }
+    ],
+    "wof:id":1209420563,
+    "wof:lastmodified":1537679856,
+    "wof:name":"Chantla",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96428,
+    32.84666,
+    73.96428,
+    32.84666
+],
+  "geometry": {"coordinates":[73.96428,32.84666],"type":"Point"}
+}

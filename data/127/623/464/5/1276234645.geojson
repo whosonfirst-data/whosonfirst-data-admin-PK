@@ -1,0 +1,67 @@
+{
+  "id": 1276234645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.64617,35.53028,72.64617,35.53028",
+    "geom:latitude":35.53028,
+    "geom:longitude":72.64617,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Motli",
+    "gn:country_code":"PK",
+    "gn:dem":2146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023366,
+    "gn:latitude":35.53028,
+    "gn:longitude":72.64617,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Motli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023366
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e5f70f0d99e4cccb63e1e68ce9bd2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1276234645,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276234645,
+    "wof:lastmodified":1536911196,
+    "wof:name":"Motli",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.64617,
+    35.53028,
+    72.64617,
+    35.53028
+],
+  "geometry": {"coordinates":[72.64617,35.53028],"type":"Point"}
+}

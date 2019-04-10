@@ -1,0 +1,67 @@
+{
+  "id": 1209721025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27318,29.08873,71.27318,29.08873",
+    "geom:latitude":29.08873,
+    "geom:longitude":71.27318,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Gulpur",
+    "gn:country_code":"PK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414713,
+    "gn:latitude":29.08873,
+    "gn:longitude":71.27318,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Gulpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414713
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"11e2c812d412cbb24d7301e7f8d87882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1209721025,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209721025,
+    "wof:lastmodified":1536386369,
+    "wof:name":"Gulpur",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27318000000002,
+    29.08873,
+    71.27318000000002,
+    29.08873
+],
+  "geometry": {"coordinates":[71.27318000000002,29.08873],"type":"Point"}
+}

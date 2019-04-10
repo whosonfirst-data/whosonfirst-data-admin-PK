@@ -1,0 +1,67 @@
+{
+  "id": 1259506667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.73271,30.4522,70.73271,30.4522",
+    "geom:latitude":30.4522,
+    "geom:longitude":70.73271,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jattan",
+    "gn:country_code":"PK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11174892,
+    "gn:latitude":30.4522,
+    "gn:longitude":70.73271,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Jattan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11174892
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e9942e8c281a72b44d34d31b5cb76bfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1259506667,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259506667,
+    "wof:lastmodified":1536824585,
+    "wof:name":"Jattan",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.73271,
+    30.4522,
+    70.73271,
+    30.4522
+],
+  "geometry": {"coordinates":[70.73271,30.4522],"type":"Point"}
+}

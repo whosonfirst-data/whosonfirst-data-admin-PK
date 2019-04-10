@@ -1,0 +1,71 @@
+{
+  "id": 1259584467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11839,34.31653,73.11839,34.31653",
+    "geom:latitude":34.31653,
+    "geom:longitude":73.11839,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maddan",
+    "gn:country_code":"PK",
+    "gn:dem":898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171685,
+    "gn:latitude":34.31653,
+    "gn:longitude":73.11839,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Maddan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Madan",
+        "Maddan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171685
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57d05fe8b569d68c1bf002f63bb363be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1259584467,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259584467,
+    "wof:lastmodified":1537679513,
+    "wof:name":"Maddan",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11839,
+    34.31653,
+    73.11839,
+    34.31653
+],
+  "geometry": {"coordinates":[73.11839000000001,34.31653],"type":"Point"}
+}

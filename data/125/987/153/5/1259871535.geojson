@@ -1,0 +1,81 @@
+{
+  "id": 1259871535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90787,34.58689,73.90787,34.58689",
+    "geom:latitude":34.58689,
+    "geom:longitude":73.90787,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chak Muqam",
+    "gn:country_code":"PK",
+    "gn:dem":1427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416056,
+    "gn:latitude":34.58689,
+    "gn:longitude":73.90787,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chak Muqam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416056
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e6ab92b8c7a9484868a6e911becb63d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1259871535,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1259871535,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259871535,
+    "wof:lastmodified":1537681373,
+    "wof:name":"Chak Muqam",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90786999999997,
+    34.58689,
+    73.90786999999997,
+    34.58689
+],
+  "geometry": {"coordinates":[73.90786999999997,34.58689],"type":"Point"}
+}

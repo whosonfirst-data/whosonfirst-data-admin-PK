@@ -1,0 +1,67 @@
+{
+  "id": 1242580973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41719,34.39025,71.41719,34.39025",
+    "geom:latitude":34.39025,
+    "geom:longitude":71.41719,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tor Khel",
+    "gn:country_code":"PK",
+    "gn:dem":820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335088,
+    "gn:latitude":34.39025,
+    "gn:longitude":71.41719,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Tor Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335088
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6692c6af79dd0702b2def7c6bfc7f743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1242580973,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242580973,
+    "wof:lastmodified":1543515394,
+    "wof:name":"Tor Khel",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41719,
+    34.39025,
+    71.41719,
+    34.39025
+],
+  "geometry": {"coordinates":[71.41719000000001,34.39025],"type":"Point"}
+}

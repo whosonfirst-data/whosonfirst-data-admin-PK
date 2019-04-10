@@ -1,0 +1,70 @@
+{
+  "id": 1243181287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83965,33.89643,70.83965,33.89643",
+    "geom:latitude":33.89643,
+    "geom:longitude":70.83965,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Gharai",
+    "gn:country_code":"PK",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446640,
+    "gn:latitude":33.89643,
+    "gn:longitude":70.83965,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Gharai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tabai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446640
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7067e307d8a11334e2535534b6c1598b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1243181287,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243181287,
+    "wof:lastmodified":1537681519,
+    "wof:name":"Gharai",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83965,
+    33.89643,
+    70.83965,
+    33.89643
+],
+  "geometry": {"coordinates":[70.83965000000001,33.89643],"type":"Point"}
+}

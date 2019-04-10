@@ -1,0 +1,72 @@
+{
+  "id": 1126113049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2017-05-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.79682,25.17549,67.79682,25.17549",
+    "geom:latitude":25.17549,
+    "geom:longitude":67.79682,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"CMP",
+    "gn:gn_pop":1521651,
+    "gn:population":1521651,
+    "iso:country":"PK",
+    "lbl:latitude":25.17549,
+    "lbl:longitude":67.79682,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"CMP",
+    "qs_pg:gn_id":8394266,
+    "qs_pg:gn_pop":1521651,
+    "qs_pg:name":"NH&MP Beat-34 Nooriabad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":12,
+    "qs_pg:qs_id":768693,
+    "qs_pg:qs_pg_placetype":"locality_funky",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8394266,
+        "qs_pg:id":768693
+    },
+    "wof:country":"PK",
+    "wof:created":1497470158,
+    "wof:geomhash":"7bb17f2a6e392fe369eaf882c12a39b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1126113049
+        }
+    ],
+    "wof:id":1126113049,
+    "wof:lastmodified":1505186744,
+    "wof:name":"NH&MP Beat-34 Nooriabad",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:population":1521651,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.79682,
+    25.17549,
+    67.79682,
+    25.17549
+],
+  "geometry": {"coordinates":[67.79682,25.17549],"type":"Point"}
+}

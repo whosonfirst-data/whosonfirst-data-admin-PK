@@ -1,0 +1,67 @@
+{
+  "id": 1344056441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.47969,32.15999,74.47969,32.15999",
+    "geom:latitude":32.15999,
+    "geom:longitude":74.47969,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghulamabad",
+    "gn:country_code":"PK",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459620,
+    "gn:latitude":32.15999,
+    "gn:longitude":74.47969,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ghulamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459620
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f8c84110eb2730ccf82d402b761f023",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1344056441,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344056441,
+    "wof:lastmodified":1536880659,
+    "wof:name":"Ghulamabad",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.47969,
+    32.15999,
+    74.47969,
+    32.15999
+],
+  "geometry": {"coordinates":[74.47969000000001,32.15999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226042299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.40063,31.10233,72.40063,31.10233",
+    "geom:latitude":31.10233,
+    "geom:longitude":72.40063,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ismailwala",
+    "gn:country_code":"PK",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330312,
+    "gn:latitude":31.10233,
+    "gn:longitude":72.40063,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ismailwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330312
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c209ae9b77f54af607193d01c81322d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1226042299,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226042299,
+    "wof:lastmodified":1536730493,
+    "wof:name":"Ismailwala",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.40063,
+    31.10233,
+    72.40063,
+    31.10233
+],
+  "geometry": {"coordinates":[72.40063000000001,31.10233],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360084333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.3796,32.7745,72.3796,32.7745",
+    "geom:latitude":32.7745,
+    "geom:longitude":72.3796,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gashral",
+    "gn:country_code":"PK",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329553,
+    "gn:latitude":32.7745,
+    "gn:longitude":72.3796,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Gashral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329553
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"333aa47040f66a155facf7c5f7a77177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1360084333,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360084333,
+    "wof:lastmodified":1536947139,
+    "wof:name":"Gashral",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.3796,
+    32.7745,
+    72.3796,
+    32.7745
+],
+  "geometry": {"coordinates":[72.3796,32.7745],"type":"Point"}
+}

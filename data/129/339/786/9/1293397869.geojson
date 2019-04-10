@@ -1,0 +1,67 @@
+{
+  "id": 1293397869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23631,30.35156,69.23631,30.35156",
+    "geom:latitude":30.35156,
+    "geom:longitude":69.23631,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Makhu",
+    "gn:country_code":"PK",
+    "gn:dem":1191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397387,
+    "gn:latitude":30.35156,
+    "gn:longitude":69.23631,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Makhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397387
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2d6504c2fac1c49691078e534ba08e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1293397869,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293397869,
+    "wof:lastmodified":1536916656,
+    "wof:name":"Makhu",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23631,
+    30.35156,
+    69.23631,
+    30.35156
+],
+  "geometry": {"coordinates":[69.23631,30.35156],"type":"Point"}
+}

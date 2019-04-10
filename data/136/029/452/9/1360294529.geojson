@@ -1,0 +1,86 @@
+{
+  "id": 1360294529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73576,33.17104,73.73576,33.17104",
+    "geom:latitude":33.17104,
+    "geom:longitude":73.73576,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khanpur",
+    "gn:country_code":"PK",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101463,
+    "gn:latitude":33.17104,
+    "gn:longitude":73.73576,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101463
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"71413c2e3e0ca2425afb2f1ca5b0936f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1360294529,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1360294529,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1360294529,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1360294529,
+    "wof:lastmodified":1536642614,
+    "wof:name":"Khanpur",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73576,
+    33.17104,
+    73.73576,
+    33.17104
+],
+  "geometry": {"coordinates":[73.73576,33.17104],"type":"Point"}
+}

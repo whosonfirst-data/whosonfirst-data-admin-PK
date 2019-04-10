@@ -1,0 +1,64 @@
+{
+  "id": 1209214363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08229,32.84339,73.08229,32.84339",
+    "geom:latitude":32.84339,
+    "geom:longitude":73.08229,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhol Bara",
+    "gn:country_code":"PK",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179974,
+    "gn:latitude":32.84339,
+    "gn:longitude":73.08229,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dhol Bara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhok Boda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179974
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4d8ee429fc1e632781c52abaff833f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209214363
+        }
+    ],
+    "wof:id":1209214363,
+    "wof:lastmodified":1537679800,
+    "wof:name":"Dhol Bara",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08229,
+    32.84339,
+    73.08229,
+    32.84339
+],
+  "geometry": {"coordinates":[73.08229,32.84339],"type":"Point"}
+}

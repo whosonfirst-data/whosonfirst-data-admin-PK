@@ -1,0 +1,67 @@
+{
+  "id": 1343458083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11183,32.17802,73.11183,32.17802",
+    "geom:latitude":32.17802,
+    "geom:longitude":73.11183,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Islampur",
+    "gn:country_code":"PK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379903,
+    "gn:latitude":32.17802,
+    "gn:longitude":73.11183,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Islampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379903
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e29ff2304c9c276c494df1db6e61cad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1343458083,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343458083,
+    "wof:lastmodified":1536749480,
+    "wof:name":"Islampur",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11183,
+    32.17802,
+    73.11183,
+    32.17802
+],
+  "geometry": {"coordinates":[73.11183,32.17802],"type":"Point"}
+}

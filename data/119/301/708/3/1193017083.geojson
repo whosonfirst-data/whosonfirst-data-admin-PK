@@ -1,0 +1,67 @@
+{
+  "id": 1193017083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.82275,34.74636,72.82275,34.74636",
+    "geom:latitude":34.74636,
+    "geom:longitude":72.82275,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zezar",
+    "gn:country_code":"PK",
+    "gn:dem":731,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482431,
+    "gn:latitude":34.74636,
+    "gn:longitude":72.82275,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Zezar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482431
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"893827d522a55ab7442dd164c6c903eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692415,
+            "locality_id":1193017083,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193017083,
+    "wof:lastmodified":1543515413,
+    "wof:name":"Zezar",
+    "wof:parent_id":1108692415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.82275,
+    34.74636,
+    72.82275,
+    34.74636
+],
+  "geometry": {"coordinates":[72.82275,34.74636],"type":"Point"}
+}

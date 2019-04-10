@@ -1,0 +1,66 @@
+{
+  "id": 1209105839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.86667,31.83976,73.86667,31.83976",
+    "geom:latitude":31.83976,
+    "geom:longitude":73.86667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bokhiana",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331071,
+    "gn:latitude":31.83976,
+    "gn:longitude":73.86667,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bokhiana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bakhi\u0101na",
+        "Bhakew\u0101na",
+        "Bokhiana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331071
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3cd10a5b968170e220ff033af2a863ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209105839
+        }
+    ],
+    "wof:id":1209105839,
+    "wof:lastmodified":1537680019,
+    "wof:name":"Bokhiana",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.86667,
+    31.83976,
+    73.86667,
+    31.83976
+],
+  "geometry": {"coordinates":[73.86667,31.83976],"type":"Point"}
+}

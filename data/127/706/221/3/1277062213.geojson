@@ -1,0 +1,81 @@
+{
+  "id": 1277062213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.87572,36.18752,74.87572,36.18752",
+    "geom:latitude":36.18752,
+    "geom:longitude":74.87572,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gutens",
+    "gn:country_code":"PK",
+    "gn:dem":4119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427932,
+    "gn:latitude":36.18752,
+    "gn:longitude":74.87572,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Gutens",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gurens"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427932
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a8e30e50140a2242b50e09c3fdfcf81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1277062213,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1277062213,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277062213,
+    "wof:lastmodified":1537681914,
+    "wof:name":"Gutens",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.87572,
+    36.18752,
+    74.87572,
+    36.18752
+],
+  "geometry": {"coordinates":[74.87572,36.18752],"type":"Point"}
+}

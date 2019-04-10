@@ -1,0 +1,67 @@
+{
+  "id": 1226539477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26408,32.25605,74.26408,32.25605",
+    "geom:latitude":32.25605,
+    "geom:longitude":74.26408,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nandipur",
+    "gn:country_code":"PK",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380422,
+    "gn:latitude":32.25605,
+    "gn:longitude":74.26408,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nandipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380422
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3d1031ac65a52043fea6c77fcfb81c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1226539477,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226539477,
+    "wof:lastmodified":1537006377,
+    "wof:name":"Nandipur",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26408,
+    32.25605,
+    74.26408,
+    32.25605
+],
+  "geometry": {"coordinates":[74.26408000000001,32.25605],"type":"Point"}
+}

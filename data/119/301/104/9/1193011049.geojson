@@ -1,0 +1,73 @@
+{
+  "id": 1193011049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06485,27.33161,68.06485,27.33161",
+    "geom:latitude":27.33161,
+    "geom:longitude":68.06485,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Goth Wadi Wandhi",
+    "gn:country_code":"PK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1357692,
+    "gn:latitude":27.33161,
+    "gn:longitude":68.06485,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Goth Wadi Wandhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goth Wedi W\u0101ndhi",
+        "W\u0101nena",
+        "Goth Daro",
+        "Goth Wadi Wandhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1357692
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5cb9de11c9acc97f07ede601249aed8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692277,
+            "locality_id":1193011049,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193011049,
+    "wof:lastmodified":1537680375,
+    "wof:name":"Goth Wadi Wandhi",
+    "wof:parent_id":1108692277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06485,
+    27.33161,
+    68.06485,
+    27.33161
+],
+  "geometry": {"coordinates":[68.06485000000001,27.33161],"type":"Point"}
+}

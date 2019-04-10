@@ -1,0 +1,78 @@
+{
+  "id": 1293575015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1568,35.27999,74.1568,35.27999",
+    "geom:latitude":35.27999,
+    "geom:longitude":74.1568,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Milkush",
+    "gn:country_code":"PK",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423783,
+    "gn:latitude":35.27999,
+    "gn:longitude":74.1568,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Milkush",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423783
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"25d32a2063dc84d5595b78ed7874c687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293575015,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293575015,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293575015,
+    "wof:lastmodified":1536661002,
+    "wof:name":"Milkush",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1568,
+    35.27999000000001,
+    74.1568,
+    35.27999000000001
+],
+  "geometry": {"coordinates":[74.1568,35.27999000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327053497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48121,31.13416,74.48121,31.13416",
+    "geom:latitude":31.13416,
+    "geom:longitude":74.48121,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rangpur",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331738,
+    "gn:latitude":31.13416,
+    "gn:longitude":74.48121,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Rangpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331738
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"16fb18ce44975aba4561a240a4ee8711",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1327053497,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327053497,
+    "wof:lastmodified":1536730323,
+    "wof:name":"Rangpur",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48121,
+    31.13416,
+    74.48121,
+    31.13416
+],
+  "geometry": {"coordinates":[74.48121,31.13416],"type":"Point"}
+}

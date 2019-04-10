@@ -1,0 +1,67 @@
+{
+  "id": 1327439255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.95611,30.12255,67.95611,30.12255",
+    "geom:latitude":30.12255,
+    "geom:longitude":67.95611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sam Ghurman",
+    "gn:country_code":"PK",
+    "gn:dem":946,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347589,
+    "gn:latitude":30.12255,
+    "gn:longitude":67.95611,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Sam Ghurman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347589
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"29eaad7e2838807c1bd1059753f7782e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692209,
+            "locality_id":1327439255,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327439255,
+    "wof:lastmodified":1536670814,
+    "wof:name":"Sam Ghurman",
+    "wof:parent_id":1108692209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.95611,
+    30.12255,
+    67.95611,
+    30.12255
+],
+  "geometry": {"coordinates":[67.95611,30.12255],"type":"Point"}
+}

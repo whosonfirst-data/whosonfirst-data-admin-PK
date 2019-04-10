@@ -1,0 +1,67 @@
+{
+  "id": 1260190529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.88172,29.10364,66.88172,29.10364",
+    "geom:latitude":29.10364,
+    "geom:longitude":66.88172,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ali Suleman",
+    "gn:country_code":"PK",
+    "gn:dem":2330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272471,
+    "gn:latitude":29.10364,
+    "gn:longitude":66.88172,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Ali Suleman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272471
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b79c6ed2083147aab72446ff390333da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1260190529,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260190529,
+    "wof:lastmodified":1536837249,
+    "wof:name":"Ali Suleman",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88172,
+    29.10364,
+    66.88172,
+    29.10364
+],
+  "geometry": {"coordinates":[66.88172,29.10364],"type":"Point"}
+}

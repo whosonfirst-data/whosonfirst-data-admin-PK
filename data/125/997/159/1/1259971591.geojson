@@ -1,0 +1,89 @@
+{
+  "id": 1259971591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79899,33.74547,73.79899,33.74547",
+    "geom:latitude":33.74547,
+    "geom:longitude":73.79899,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Habibabad",
+    "gn:country_code":"PK",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413819,
+    "gn:latitude":33.74547,
+    "gn:longitude":73.79899,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Habibabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101r Brahman\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413819
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d987a1759b5dc104dfdc05e3f29cf10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1259971591,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259971591,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259971591,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259971591,
+    "wof:lastmodified":1537681322,
+    "wof:name":"Habibabad",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79899,
+    33.74547,
+    73.79899,
+    33.74547
+],
+  "geometry": {"coordinates":[73.79899,33.74547],"type":"Point"}
+}

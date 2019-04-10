@@ -1,0 +1,67 @@
+{
+  "id": 1209820951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94007,29.95746,72.94007,29.95746",
+    "geom:latitude":29.95746,
+    "geom:longitude":72.94007,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dulleka",
+    "gn:country_code":"PK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491227,
+    "gn:latitude":29.95746,
+    "gn:longitude":72.94007,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Dulleka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491227
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e5b495477a161ef1f09c2b520c694247",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1209820951,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209820951,
+    "wof:lastmodified":1536378791,
+    "wof:name":"Dulleka",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94006999999998,
+    29.95746,
+    72.94006999999998,
+    29.95746
+],
+  "geometry": {"coordinates":[72.94006999999998,29.95746],"type":"Point"}
+}

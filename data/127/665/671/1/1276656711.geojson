@@ -1,0 +1,67 @@
+{
+  "id": 1276656711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.52686,29.34703,70.52686,29.34703",
+    "geom:latitude":29.34703,
+    "geom:longitude":70.52686,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sikhaniwala",
+    "gn:country_code":"PK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164835,
+    "gn:latitude":29.34703,
+    "gn:longitude":70.52686,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Sikhaniwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164835
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"49bd3323ec10d54cb2cbacf2e127ed2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1276656711,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276656711,
+    "wof:lastmodified":1536841372,
+    "wof:name":"Sikhaniwala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.52686,
+    29.34703,
+    70.52686,
+    29.34703
+],
+  "geometry": {"coordinates":[70.52686,29.34703],"type":"Point"}
+}

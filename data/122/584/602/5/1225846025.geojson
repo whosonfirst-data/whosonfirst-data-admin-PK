@@ -1,0 +1,67 @@
+{
+  "id": 1225846025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41621,34.79626,72.41621,34.79626",
+    "geom:latitude":34.79626,
+    "geom:longitude":72.41621,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sangota",
+    "gn:country_code":"PK",
+    "gn:dem":989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166144,
+    "gn:latitude":34.79626,
+    "gn:longitude":72.41621,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Sangota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166144
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c35cad5342e701e0a6c8a341407029af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1225846025,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225846025,
+    "wof:lastmodified":1543515483,
+    "wof:name":"Sangota",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41620999999998,
+    34.79626,
+    72.41620999999998,
+    34.79626
+],
+  "geometry": {"coordinates":[72.41620999999998,34.79626],"type":"Point"}
+}

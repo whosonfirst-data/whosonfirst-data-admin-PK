@@ -1,0 +1,67 @@
+{
+  "id": 1343865095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98634,35.50818,72.98634,35.50818",
+    "geom:latitude":35.50818,
+    "geom:longitude":72.98634,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lahri",
+    "gn:country_code":"PK",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023867,
+    "gn:latitude":35.50818,
+    "gn:longitude":72.98634,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Lahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023867
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0e1f433a5c9c8ceef44a43c67eead80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1343865095,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343865095,
+    "wof:lastmodified":1536659932,
+    "wof:name":"Lahri",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98634,
+    35.50818,
+    72.98634,
+    35.50818
+],
+  "geometry": {"coordinates":[72.98634,35.50818],"type":"Point"}
+}

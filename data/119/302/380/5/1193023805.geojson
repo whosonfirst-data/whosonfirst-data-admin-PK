@@ -1,0 +1,67 @@
+{
+  "id": 1193023805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.77488,29.26156,67.77488,29.26156",
+    "geom:latitude":29.26156,
+    "geom:longitude":67.77488,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Gor",
+    "gn:country_code":"PK",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1394760,
+    "gn:latitude":29.26156,
+    "gn:longitude":67.77488,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1394760
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"acd0bb0b5893adaced7d8e5eb4a8792c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1193023805,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193023805,
+    "wof:lastmodified":1536370320,
+    "wof:name":"Gor",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.77488000000001,
+    29.26156,
+    67.77488000000001,
+    29.26156
+],
+  "geometry": {"coordinates":[67.77488000000001,29.26156],"type":"Point"}
+}

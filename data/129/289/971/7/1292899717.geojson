@@ -1,0 +1,78 @@
+{
+  "id": 1292899717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.83137,35.60492,73.83137,35.60492",
+    "geom:latitude":35.60492,
+    "geom:longitude":73.83137,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khenos",
+    "gn:country_code":"PK",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11047688,
+    "gn:latitude":35.60492,
+    "gn:longitude":73.83137,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Khenos",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11047688
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e99933781259f411f8d2d16a76dd31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1292899717,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1292899717,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1292899717,
+    "wof:lastmodified":1536639328,
+    "wof:name":"Khenos",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.83136999999998,
+    35.60492,
+    73.83136999999998,
+    35.60492
+],
+  "geometry": {"coordinates":[73.83136999999998,35.60492],"type":"Point"}
+}

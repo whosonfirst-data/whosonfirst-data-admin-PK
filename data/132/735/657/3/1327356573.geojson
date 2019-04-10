@@ -1,0 +1,67 @@
+{
+  "id": 1327356573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.56197,33.91252,72.56197,33.91252",
+    "geom:latitude":33.91252,
+    "geom:longitude":72.56197,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kotkai",
+    "gn:country_code":"PK",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339343,
+    "gn:latitude":33.91252,
+    "gn:longitude":72.56197,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Kotkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339343
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1b51641f6e97ca8be0531a166c8628f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1327356573,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327356573,
+    "wof:lastmodified":1536790765,
+    "wof:name":"Kotkai",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.56197,
+    33.91252,
+    72.56197,
+    33.91252
+],
+  "geometry": {"coordinates":[72.56197,33.91252],"type":"Point"}
+}

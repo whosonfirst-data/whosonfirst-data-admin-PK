@@ -1,0 +1,64 @@
+{
+  "id": 1209218829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.46202,25.91882,68.46202,25.91882",
+    "geom:latitude":25.91882,
+    "geom:longitude":68.46202,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Lumman",
+    "gn:country_code":"PK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361001,
+    "gn:latitude":25.91882,
+    "gn:longitude":68.46202,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Lumman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lumman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361001
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d96c8348bede7740b67e2004f284d320",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209218829
+        }
+    ],
+    "wof:id":1209218829,
+    "wof:lastmodified":1537680439,
+    "wof:name":"Lumman",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.46202,
+    25.91882,
+    68.46202,
+    25.91882
+],
+  "geometry": {"coordinates":[68.46202,25.91882],"type":"Point"}
+}

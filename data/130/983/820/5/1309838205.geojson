@@ -1,0 +1,67 @@
+{
+  "id": 1309838205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21735,33.71781,72.21735,33.71781",
+    "geom:latitude":33.71781,
+    "geom:longitude":72.21735,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Narian",
+    "gn:country_code":"PK",
+    "gn:dem":383,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340958,
+    "gn:latitude":33.71781,
+    "gn:longitude":72.21735,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Narian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340958
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a41c52eb74663696bb18c2e5d5fecd0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1309838205,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309838205,
+    "wof:lastmodified":1536883879,
+    "wof:name":"Narian",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21735,
+    33.71781,
+    72.21735,
+    33.71781
+],
+  "geometry": {"coordinates":[72.21735,33.71781],"type":"Point"}
+}

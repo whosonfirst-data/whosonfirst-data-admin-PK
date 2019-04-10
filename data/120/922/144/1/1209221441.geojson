@@ -1,0 +1,67 @@
+{
+  "id": 1209221441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34522,33.99759,73.34522,33.99759",
+    "geom:latitude":33.99759,
+    "geom:longitude":73.34522,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Danna",
+    "gn:country_code":"PK",
+    "gn:dem":1994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081157,
+    "gn:latitude":33.99759,
+    "gn:longitude":73.34522,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Danna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081157
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ff0c20b8c209b13714788d2bc11d35da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209221441,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209221441,
+    "wof:lastmodified":1543515505,
+    "wof:name":"Danna",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34522,
+    33.99759,
+    73.34522,
+    33.99759
+],
+  "geometry": {"coordinates":[73.34522,33.99759],"type":"Point"}
+}

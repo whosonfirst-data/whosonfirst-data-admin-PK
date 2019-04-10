@@ -1,0 +1,78 @@
+{
+  "id": 1209811595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.30589,36.18044,74.30589,36.18044",
+    "geom:latitude":36.18044,
+    "geom:longitude":74.30589,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jaglot",
+    "gn:country_code":"PK",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427875,
+    "gn:latitude":36.18044,
+    "gn:longitude":74.30589,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Jaglot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427875
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cb32c959b5f88499b963e4910e6bbd6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1209811595,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1209811595,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209811595,
+    "wof:lastmodified":1536386185,
+    "wof:name":"Jaglot",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.30589,
+    36.18044,
+    74.30589,
+    36.18044
+],
+  "geometry": {"coordinates":[74.30589000000001,36.18044],"type":"Point"}
+}

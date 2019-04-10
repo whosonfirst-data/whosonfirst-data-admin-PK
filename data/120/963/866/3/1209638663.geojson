@@ -1,0 +1,64 @@
+{
+  "id": 1209638663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9105,31.41275,70.9105,31.41275",
+    "geom:latitude":31.41275,
+    "geom:longitude":70.9105,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Khyber",
+    "gn:country_code":"PK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419693,
+    "gn:latitude":31.41275,
+    "gn:longitude":70.9105,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Basti Khyber",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khyber"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419693
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"df7847d36207636ba6ad970823c3a197",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638663
+        }
+    ],
+    "wof:id":1209638663,
+    "wof:lastmodified":1537681452,
+    "wof:name":"Basti Khyber",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9105,
+    31.41275,
+    70.9105,
+    31.41275
+],
+  "geometry": {"coordinates":[70.9105,31.41275],"type":"Point"}
+}

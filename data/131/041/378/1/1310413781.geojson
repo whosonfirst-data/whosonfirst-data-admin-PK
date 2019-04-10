@@ -1,0 +1,67 @@
+{
+  "id": 1310413781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.09236,30.89072,67.09236,30.89072",
+    "geom:latitude":30.89072,
+    "geom:longitude":67.09236,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bazi",
+    "gn:country_code":"PK",
+    "gn:dem":2206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11272521,
+    "gn:latitude":30.89072,
+    "gn:longitude":67.09236,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Bazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11272521
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2d4bc08412e71e10d830d1ce9c785d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1310413781,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310413781,
+    "wof:lastmodified":1537047275,
+    "wof:name":"Bazi",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.09236,
+    30.89072,
+    67.09236,
+    30.89072
+],
+  "geometry": {"coordinates":[67.09236,30.89072],"type":"Point"}
+}

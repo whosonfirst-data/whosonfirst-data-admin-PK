@@ -1,0 +1,67 @@
+{
+  "id": 1327133755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20732,29.96154,73.20732,29.96154",
+    "geom:latitude":29.96154,
+    "geom:longitude":73.20732,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Keru",
+    "gn:country_code":"PK",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11086412,
+    "gn:latitude":29.96154,
+    "gn:longitude":73.20732,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Keru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11086412
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dbf12e1d3386e86990c78170c7739bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1327133755,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327133755,
+    "wof:lastmodified":1536611646,
+    "wof:name":"Keru",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20732,
+    29.96154000000001,
+    73.20732,
+    29.96154000000001
+],
+  "geometry": {"coordinates":[73.20732,29.96154000000001],"type":"Point"}
+}

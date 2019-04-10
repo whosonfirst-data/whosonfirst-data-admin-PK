@@ -1,0 +1,81 @@
+{
+  "id": 1326524971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61874,33.63818,73.61874,33.63818",
+    "geom:latitude":33.63818,
+    "geom:longitude":73.61874,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Deyar",
+    "gn:country_code":"PK",
+    "gn:dem":912,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100374,
+    "gn:latitude":33.63818,
+    "gn:longitude":73.61874,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Deyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Deyur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100374
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81fbf32d73b090f4d0f7a55278b9721b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1326524971,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1326524971,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326524971,
+    "wof:lastmodified":1537681691,
+    "wof:name":"Deyar",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61874,
+    33.63818,
+    73.61874,
+    33.63818
+],
+  "geometry": {"coordinates":[73.61874,33.63818],"type":"Point"}
+}

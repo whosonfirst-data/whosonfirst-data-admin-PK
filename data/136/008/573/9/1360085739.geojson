@@ -1,0 +1,67 @@
+{
+  "id": 1360085739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1525,35.56146,73.1525,35.56146",
+    "geom:latitude":35.56146,
+    "geom:longitude":73.1525,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Razakki",
+    "gn:country_code":"PK",
+    "gn:dem":2511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000406,
+    "gn:latitude":35.56146,
+    "gn:longitude":73.1525,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Razakki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000406
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d8d3f0c6d88c5c96b0deaa42aad2833e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1360085739,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360085739,
+    "wof:lastmodified":1543515301,
+    "wof:name":"Razakki",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1525,
+    35.56146,
+    73.1525,
+    35.56146
+],
+  "geometry": {"coordinates":[73.1525,35.56146],"type":"Point"}
+}

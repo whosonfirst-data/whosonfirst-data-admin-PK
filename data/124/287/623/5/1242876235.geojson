@@ -1,0 +1,70 @@
+{
+  "id": 1242876235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.80132,25.51885,62.80132,25.51885",
+    "geom:latitude":25.51885,
+    "geom:longitude":62.80132,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Posth",
+    "gn:country_code":"PK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7027207,
+    "gn:latitude":25.51885,
+    "gn:longitude":62.80132,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Posth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pusth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7027207
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"66364a675013a76ec09a6d45609ca8bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692199,
+            "locality_id":1242876235,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242876235,
+    "wof:lastmodified":1537681598,
+    "wof:name":"Posth",
+    "wof:parent_id":1108692199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.80132,
+    25.51885,
+    62.80132,
+    25.51885
+],
+  "geometry": {"coordinates":[62.80132,25.51885],"type":"Point"}
+}

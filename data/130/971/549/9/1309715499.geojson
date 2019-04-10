@@ -1,0 +1,67 @@
+{
+  "id": 1309715499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.20597,32.80015,70.20597,32.80015",
+    "geom:latitude":32.80015,
+    "geom:longitude":70.20597,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Karkanai",
+    "gn:country_code":"PK",
+    "gn:dem":854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340554,
+    "gn:latitude":32.80015,
+    "gn:longitude":70.20597,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Karkanai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340554
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4341f3cef4a651985817801f7c587c54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1309715499,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309715499,
+    "wof:lastmodified":1537058718,
+    "wof:name":"Karkanai",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.20597,
+    32.80015,
+    70.20597,
+    32.80015
+],
+  "geometry": {"coordinates":[70.20596999999999,32.80015],"type":"Point"}
+}

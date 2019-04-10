@@ -1,0 +1,81 @@
+{
+  "id": 1310693385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.17687,33.02775,74.17687,33.02775",
+    "geom:latitude":33.02775,
+    "geom:longitude":74.17687,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhamnala",
+    "gn:country_code":"PK",
+    "gn:dem":747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415441,
+    "gn:latitude":33.02775,
+    "gn:longitude":74.17687,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhamnala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhamnal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415441
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9add1ba71631e2f51c5e2f4fad102af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310693385,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310693385,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310693385,
+    "wof:lastmodified":1537681362,
+    "wof:name":"Dhamnala",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.17687,
+    33.02775,
+    74.17687,
+    33.02775
+],
+  "geometry": {"coordinates":[74.17686999999999,33.02775],"type":"Point"}
+}

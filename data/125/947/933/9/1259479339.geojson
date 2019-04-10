@@ -1,0 +1,78 @@
+{
+  "id": 1259479339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38223,36.82108,74.38223,36.82108",
+    "geom:latitude":36.82108,
+    "geom:longitude":74.38223,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Yashkuk",
+    "gn:country_code":"PK",
+    "gn:dem":3349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162323,
+    "gn:latitude":36.82108,
+    "gn:longitude":74.38223,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Yashkuk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162323
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da0296d98c947c772cab04728332c320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1259479339,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1259479339,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259479339,
+    "wof:lastmodified":1536863411,
+    "wof:name":"Yashkuk",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38223,
+    36.82108,
+    74.38223,
+    36.82108
+],
+  "geometry": {"coordinates":[74.38223000000001,36.82108],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242577121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19444,29.76389,72.19444,29.76389",
+    "geom:latitude":29.76389,
+    "geom:longitude":72.19444,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pathanpura",
+    "gn:country_code":"PK",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383070,
+    "gn:latitude":29.76389,
+    "gn:longitude":72.19444,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Pathanpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383070
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"478b62497964d4c19d57fb31356695e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1242577121,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242577121,
+    "wof:lastmodified":1537061591,
+    "wof:name":"Pathanpura",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19444,
+    29.76389,
+    72.19444,
+    29.76389
+],
+  "geometry": {"coordinates":[72.19444,29.76389],"type":"Point"}
+}

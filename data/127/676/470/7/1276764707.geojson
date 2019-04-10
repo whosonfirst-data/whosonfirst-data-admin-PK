@@ -1,0 +1,67 @@
+{
+  "id": 1276764707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.59265,30.67616,68.59265,30.67616",
+    "geom:latitude":30.67616,
+    "geom:longitude":68.59265,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Alozai",
+    "gn:country_code":"PK",
+    "gn:dem":1520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184586,
+    "gn:latitude":30.67616,
+    "gn:longitude":68.59265,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Alozai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184586
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5d2726e6a5a085968082da48b2b8159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1276764707,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276764707,
+    "wof:lastmodified":1536698059,
+    "wof:name":"Alozai",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.59265,
+    30.67616,
+    68.59265,
+    30.67616
+],
+  "geometry": {"coordinates":[68.59265000000001,30.67616],"type":"Point"}
+}

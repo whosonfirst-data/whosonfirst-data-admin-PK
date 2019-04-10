@@ -1,0 +1,67 @@
+{
+  "id": 1343960165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.79722,28.42778,68.79722,28.42778",
+    "geom:latitude":28.42778,
+    "geom:longitude":68.79722,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Piral",
+    "gn:country_code":"PK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397032,
+    "gn:latitude":28.42778,
+    "gn:longitude":68.79722,
+    "gn:modification_date":"2001-10-31",
+    "gn:name":"P\u012bral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397032
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7926b7cc208e543e6af231118b82b7da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1343960165,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343960165,
+    "wof:lastmodified":1537019550,
+    "wof:name":"Piral",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.79722,
+    28.42778,
+    68.79722,
+    28.42778
+],
+  "geometry": {"coordinates":[68.79722,28.42778],"type":"Point"}
+}

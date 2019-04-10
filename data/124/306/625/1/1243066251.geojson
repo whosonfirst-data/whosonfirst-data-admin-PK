@@ -1,0 +1,67 @@
+{
+  "id": 1243066251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.13463,27.19475,69.13463,27.19475",
+    "geom:latitude":27.19475,
+    "geom:longitude":69.13463,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Nedra",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369856,
+    "gn:latitude":27.19475,
+    "gn:longitude":69.13463,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Nedra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369856
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fa7ad10ecf657ffa48f44467a178b58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1243066251,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243066251,
+    "wof:lastmodified":1536855439,
+    "wof:name":"Nedra",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.13463,
+    27.19475,
+    69.13463,
+    27.19475
+],
+  "geometry": {"coordinates":[69.13463,27.19475],"type":"Point"}
+}

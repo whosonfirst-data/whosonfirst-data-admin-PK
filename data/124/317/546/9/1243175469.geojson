@@ -1,0 +1,67 @@
+{
+  "id": 1243175469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38651,32.76642,70.38651,32.76642",
+    "geom:latitude":32.76642,
+    "geom:longitude":70.38651,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nikori",
+    "gn:country_code":"PK",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338478,
+    "gn:latitude":32.76642,
+    "gn:longitude":70.38651,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Nikori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338478
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c340445db2f3dcc5941f94429239730f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1243175469,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243175469,
+    "wof:lastmodified":1536699499,
+    "wof:name":"Nikori",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38651,
+    32.76642,
+    70.38651,
+    32.76642
+],
+  "geometry": {"coordinates":[70.38651,32.76642],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276555651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.87861,26.34806,63.87861,26.34806",
+    "geom:latitude":26.34806,
+    "geom:longitude":63.87861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pochen",
+    "gn:country_code":"PK",
+    "gn:dem":605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462846,
+    "gn:latitude":26.34806,
+    "gn:longitude":63.87861,
+    "gn:modification_date":"2000-03-22",
+    "gn:name":"Pochen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462846
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d7526fbaeb21b2a9b7aa72b7b8b15ecc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1276555651,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276555651,
+    "wof:lastmodified":1536977540,
+    "wof:name":"Pochen",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.87861,
+    26.34806,
+    63.87861,
+    26.34806
+],
+  "geometry": {"coordinates":[63.87861,26.34806],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209104501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.32484,25.5011,67.32484,25.5011",
+    "geom:latitude":25.5011,
+    "geom:longitude":67.32484,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Waro",
+    "gn:country_code":"PK",
+    "gn:dem":441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098101,
+    "gn:latitude":25.5011,
+    "gn:longitude":67.32484,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Goth Waro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goth Waru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098101
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab6af2950dc29a4a913d8306da098695",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209104501
+        }
+    ],
+    "wof:id":1209104501,
+    "wof:lastmodified":1537681684,
+    "wof:name":"Goth Waro",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.32484000000001,
+    25.5011,
+    67.32484000000001,
+    25.5011
+],
+  "geometry": {"coordinates":[67.32484000000001,25.5011],"type":"Point"}
+}

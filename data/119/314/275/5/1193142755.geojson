@@ -1,0 +1,67 @@
+{
+  "id": 1193142755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73757,30.66195,73.73757,30.66195",
+    "geom:latitude":30.66195,
+    "geom:longitude":73.73757,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jodhpur",
+    "gn:country_code":"PK",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544398,
+    "gn:latitude":30.66195,
+    "gn:longitude":73.73757,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Jodhpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544398
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9af3efb84262870e55e165464c122728",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1193142755,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193142755,
+    "wof:lastmodified":1536364783,
+    "wof:name":"Jodhpur",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73756999999998,
+    30.66195,
+    73.73756999999998,
+    30.66195
+],
+  "geometry": {"coordinates":[73.73756999999998,30.66195],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276445593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95975,32.56249,69.95975,32.56249",
+    "geom:latitude":32.56249,
+    "geom:longitude":69.95975,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Shin Korn",
+    "gn:country_code":"PK",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1426418,
+    "gn:latitude":32.56249,
+    "gn:longitude":69.95975,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Shin Korn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1426418
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d48c9113adfa3545c4ae97e33d4d36d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1276445593,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1276445593,
+    "wof:lastmodified":1536626309,
+    "wof:name":"Shin Korn",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95975,
+    32.56249,
+    69.95975,
+    32.56249
+],
+  "geometry": {"coordinates":[69.95975,32.56249],"type":"Point"}
+}

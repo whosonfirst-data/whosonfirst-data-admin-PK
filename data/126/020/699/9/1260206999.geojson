@@ -1,0 +1,67 @@
+{
+  "id": 1260206999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.0215,28.42512,70.0215,28.42512",
+    "geom:latitude":28.42512,
+    "geom:longitude":70.0215,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Kharlan",
+    "gn:country_code":"PK",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355152,
+    "gn:latitude":28.42512,
+    "gn:longitude":70.0215,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Basti Kharlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355152
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a8986ce42fdc15cb53cba3dba66a8ec8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1260206999,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260206999,
+    "wof:lastmodified":1536815071,
+    "wof:name":"Basti Kharlan",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.0215,
+    28.42512,
+    70.0215,
+    28.42512
+],
+  "geometry": {"coordinates":[70.0215,28.42512],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1327428831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.5028,34.32705,73.5028,34.32705",
+    "geom:latitude":34.32705,
+    "geom:longitude":73.5028,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sandgaran",
+    "gn:country_code":"PK",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385713,
+    "gn:latitude":34.32705,
+    "gn:longitude":73.5028,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sandgaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sundgir\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385713
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"87b8408bd5d3adeee2daabbcc28b89fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327428831,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327428831,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327428831,
+    "wof:lastmodified":1537680845,
+    "wof:name":"Sandgaran",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.5028,
+    34.32705,
+    73.5028,
+    34.32705
+],
+  "geometry": {"coordinates":[73.50279999999999,34.32705],"type":"Point"}
+}

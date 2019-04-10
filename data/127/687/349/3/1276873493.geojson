@@ -1,0 +1,67 @@
+{
+  "id": 1276873493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.9044,33.95144,71.9044,33.95144",
+    "geom:latitude":33.95144,
+    "geom:longitude":71.9044,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tarkai",
+    "gn:country_code":"PK",
+    "gn:dem":407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7076038,
+    "gn:latitude":33.95144,
+    "gn:longitude":71.9044,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Tarkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7076038
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ed6e3d5a43da5f2dbfc5c6ed7de97513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1276873493,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276873493,
+    "wof:lastmodified":1537047678,
+    "wof:name":"Tarkai",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.9044,
+    33.95144000000001,
+    71.9044,
+    33.95144000000001
+],
+  "geometry": {"coordinates":[71.9044,33.95144000000001],"type":"Point"}
+}

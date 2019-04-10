@@ -1,0 +1,67 @@
+{
+  "id": 1242984311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.20808,32.70548,70.20808,32.70548",
+    "geom:latitude":32.70548,
+    "geom:longitude":70.20808,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tor Raghza",
+    "gn:country_code":"PK",
+    "gn:dem":1035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1340328,
+    "gn:latitude":32.70548,
+    "gn:longitude":70.20808,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Tor Raghza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340328
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3fc3741390dc907fe8aef2d31a14840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1242984311,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1242984311,
+    "wof:lastmodified":1536974270,
+    "wof:name":"Tor Raghza",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.20808000000001,
+    32.70548,
+    70.20808000000001,
+    32.70548
+],
+  "geometry": {"coordinates":[70.20808000000001,32.70548],"type":"Point"}
+}

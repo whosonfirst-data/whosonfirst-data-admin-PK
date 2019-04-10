@@ -1,0 +1,67 @@
+{
+  "id": 1310613641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.95877,28.20855,64.95877,28.20855",
+    "geom:latitude":28.20855,
+    "geom:longitude":64.95877,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Paljat",
+    "gn:country_code":"PK",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11220974,
+    "gn:latitude":28.20855,
+    "gn:longitude":64.95877,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Paljat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11220974
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0249e57c3ac036dfb7be450da57bdd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1310613641,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310613641,
+    "wof:lastmodified":1536761102,
+    "wof:name":"Paljat",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.95877,
+    28.20855,
+    64.95877,
+    28.20855
+],
+  "geometry": {"coordinates":[64.95877,28.20855],"type":"Point"}
+}

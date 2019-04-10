@@ -1,0 +1,67 @@
+{
+  "id": 1260290091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.04796,28.77519,70.04796,28.77519",
+    "geom:latitude":28.77519,
+    "geom:longitude":70.04796,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basera",
+    "gn:country_code":"PK",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354841,
+    "gn:latitude":28.77519,
+    "gn:longitude":70.04796,
+    "gn:modification_date":"2001-05-09",
+    "gn:name":"Basera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354841
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"21668b006de88d9a012568215aaebf97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1260290091,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260290091,
+    "wof:lastmodified":1536703332,
+    "wof:name":"Basera",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.04796,
+    28.77519,
+    70.04796,
+    28.77519
+],
+  "geometry": {"coordinates":[70.04796,28.77519],"type":"Point"}
+}

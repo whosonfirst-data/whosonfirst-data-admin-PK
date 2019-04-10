@@ -1,0 +1,67 @@
+{
+  "id": 1310106523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.11404,32.22775,71.11404,32.22775",
+    "geom:latitude":32.22775,
+    "geom:longitude":71.11404,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tangwal",
+    "gn:country_code":"PK",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7318943,
+    "gn:latitude":32.22775,
+    "gn:longitude":71.11404,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Tangwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318943
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"55daccea91bb9b7b69aaa0f3cae11744",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1310106523,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310106523,
+    "wof:lastmodified":1536994191,
+    "wof:name":"Tangwal",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.11404,
+    32.22775,
+    71.11404,
+    32.22775
+],
+  "geometry": {"coordinates":[71.11404,32.22775],"type":"Point"}
+}

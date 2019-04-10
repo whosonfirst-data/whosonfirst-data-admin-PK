@@ -1,0 +1,67 @@
+{
+  "id": 1243266085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00309,29.46165,68.00309,29.46165",
+    "geom:latitude":29.46165,
+    "geom:longitude":68.00309,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Buzheri",
+    "gn:country_code":"PK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181999,
+    "gn:latitude":29.46165,
+    "gn:longitude":68.00309,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Buzheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181999
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9a94ba2d4701a7a092d411829daee9ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692383,
+            "locality_id":1243266085,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243266085,
+    "wof:lastmodified":1537062737,
+    "wof:name":"Buzheri",
+    "wof:parent_id":1108692383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00309,
+    29.46165,
+    68.00309,
+    29.46165
+],
+  "geometry": {"coordinates":[68.00309,29.46165],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193136823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47286,31.9002,72.47286,31.9002",
+    "geom:latitude":31.9002,
+    "geom:longitude":72.47286,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chitror",
+    "gn:country_code":"PK",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181062,
+    "gn:latitude":31.9002,
+    "gn:longitude":72.47286,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Chitror",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181062
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9f3520ceef12df0bce44ccd25d4386bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1193136823,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193136823,
+    "wof:lastmodified":1536369783,
+    "wof:name":"Chitror",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47286,
+    31.9002,
+    72.47286,
+    31.9002
+],
+  "geometry": {"coordinates":[72.47286,31.9002],"type":"Point"}
+}

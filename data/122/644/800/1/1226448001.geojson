@@ -1,0 +1,67 @@
+{
+  "id": 1226448001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.51713,31.99187,74.51713,31.99187",
+    "geom:latitude":31.99187,
+    "geom:longitude":74.51713,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nangal",
+    "gn:country_code":"PK",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355678,
+    "gn:latitude":31.99187,
+    "gn:longitude":74.51713,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Nangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355678
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"73912bc32311f2ac3c1b47d874530028",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1226448001,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226448001,
+    "wof:lastmodified":1536641345,
+    "wof:name":"Nangal",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.51713000000002,
+    31.99187,
+    74.51713000000002,
+    31.99187
+],
+  "geometry": {"coordinates":[74.51713000000002,31.99187],"type":"Point"}
+}

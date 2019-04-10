@@ -1,0 +1,66 @@
+{
+  "id": 1209438125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.5938,30.55196,71.5938,30.55196",
+    "geom:latitude":30.55196,
+    "geom:longitude":71.5938,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Behrampur",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183409,
+    "gn:latitude":30.55196,
+    "gn:longitude":71.5938,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Behrampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Birahampur",
+        "Bar\u0101hampur",
+        "Behrampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183409
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c5b813f0389397dd76a2111aeb0c8e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209438125
+        }
+    ],
+    "wof:id":1209438125,
+    "wof:lastmodified":1537679932,
+    "wof:name":"Behrampur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.5938,
+    30.55196,
+    71.5938,
+    30.55196
+],
+  "geometry": {"coordinates":[71.5938,30.55196],"type":"Point"}
+}

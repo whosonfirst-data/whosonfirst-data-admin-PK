@@ -1,0 +1,67 @@
+{
+  "id": 1343361243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03577,30.86861,68.03577,30.86861",
+    "geom:latitude":30.86861,
+    "geom:longitude":68.03577,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Khankai",
+    "gn:country_code":"PK",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1365846,
+    "gn:latitude":30.86861,
+    "gn:longitude":68.03577,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Khankai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365846
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7d269613b932045befdfd6af6ea5ab80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1343361243,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343361243,
+    "wof:lastmodified":1536888957,
+    "wof:name":"Khankai",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03577,
+    30.86861,
+    68.03577,
+    30.86861
+],
+  "geometry": {"coordinates":[68.03577,30.86861],"type":"Point"}
+}

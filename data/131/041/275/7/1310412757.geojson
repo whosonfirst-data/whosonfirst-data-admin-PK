@@ -1,0 +1,67 @@
+{
+  "id": 1310412757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8263,33.5035,70.8263,33.5035",
+    "geom:latitude":33.5035,
+    "geom:longitude":70.8263,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Darwari",
+    "gn:country_code":"PK",
+    "gn:dem":1091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10131546,
+    "gn:latitude":33.5035,
+    "gn:longitude":70.8263,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Darwari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10131546
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7811f093b9d36a9742fc3ddb0476b31b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692203,
+            "locality_id":1310412757,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310412757,
+    "wof:lastmodified":1537048688,
+    "wof:name":"Darwari",
+    "wof:parent_id":1108692203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8263,
+    33.5035,
+    70.8263,
+    33.5035
+],
+  "geometry": {"coordinates":[70.8263,33.5035],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293111209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.0996,27.70193,67.0996,27.70193",
+    "geom:latitude":27.70193,
+    "geom:longitude":67.0996,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mozo Salari",
+    "gn:country_code":"PK",
+    "gn:dem":849,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256659,
+    "gn:latitude":27.70193,
+    "gn:longitude":67.0996,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Mozo Salari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256659
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"380892d67c8abce5ada4c7b2d7e37644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1293111209,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293111209,
+    "wof:lastmodified":1536831497,
+    "wof:name":"Mozo Salari",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.0996,
+    27.70193,
+    67.0996,
+    27.70193
+],
+  "geometry": {"coordinates":[67.0996,27.70193],"type":"Point"}
+}

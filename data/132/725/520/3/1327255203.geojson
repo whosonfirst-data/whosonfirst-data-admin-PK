@@ -1,0 +1,78 @@
+{
+  "id": 1327255203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58708,34.34169,73.58708,34.34169",
+    "geom:latitude":34.34169,
+    "geom:longitude":73.58708,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rihala Dheri",
+    "gn:country_code":"PK",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385726,
+    "gn:latitude":34.34169,
+    "gn:longitude":73.58708,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Rihala Dheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385726
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f84b2ff4d1dc4b5963909687086b4692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327255203,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327255203,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327255203,
+    "wof:lastmodified":1536937467,
+    "wof:name":"Rihala Dheri",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58708,
+    34.34169,
+    73.58708,
+    34.34169
+],
+  "geometry": {"coordinates":[73.58708,34.34169],"type":"Point"}
+}

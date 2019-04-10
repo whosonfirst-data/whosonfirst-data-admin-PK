@@ -1,0 +1,67 @@
+{
+  "id": 1343366701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0319,30.117,68.0319,30.117",
+    "geom:latitude":30.117,
+    "geom:longitude":68.0319,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gendai Zamistan",
+    "gn:country_code":"PK",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11142559,
+    "gn:latitude":30.117,
+    "gn:longitude":68.0319,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Gendai Zamistan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11142559
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"34e8d7cafe116fa533ff3cfc15188677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692209,
+            "locality_id":1343366701,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343366701,
+    "wof:lastmodified":1536880691,
+    "wof:name":"Gendai Zamistan",
+    "wof:parent_id":1108692209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0319,
+    30.117,
+    68.0319,
+    30.117
+],
+  "geometry": {"coordinates":[68.03189999999999,30.117],"type":"Point"}
+}

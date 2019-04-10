@@ -1,0 +1,67 @@
+{
+  "id": 1343460799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.90112,26.02767,62.90112,26.02767",
+    "geom:latitude":26.02767,
+    "geom:longitude":62.90112,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nokahan",
+    "gn:country_code":"PK",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988177,
+    "gn:latitude":26.02767,
+    "gn:longitude":62.90112,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Nokahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988177
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1ad1847aa96ac8e14aac2ce2c48ce50c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1343460799,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343460799,
+    "wof:lastmodified":1536745342,
+    "wof:name":"Nokahan",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.90112,
+    26.02767,
+    62.90112,
+    26.02767
+],
+  "geometry": {"coordinates":[62.90112,26.02767],"type":"Point"}
+}

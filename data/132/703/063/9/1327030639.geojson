@@ -1,0 +1,67 @@
+{
+  "id": 1327030639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3088,34.23421,73.3088,34.23421",
+    "geom:latitude":34.23421,
+    "geom:longitude":73.3088,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kharora",
+    "gn:country_code":"PK",
+    "gn:dem":2252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407493,
+    "gn:latitude":34.23421,
+    "gn:longitude":73.3088,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kharora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407493
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8b1de3684ce4671e9d5c315c8d95e883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1327030639,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327030639,
+    "wof:lastmodified":1536763294,
+    "wof:name":"Kharora",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3088,
+    34.23421,
+    73.3088,
+    34.23421
+],
+  "geometry": {"coordinates":[73.30880000000001,34.23421],"type":"Point"}
+}

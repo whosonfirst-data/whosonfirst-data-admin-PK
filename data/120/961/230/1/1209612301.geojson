@@ -1,0 +1,64 @@
+{
+  "id": 1209612301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75004,34.03487,73.75004,34.03487",
+    "geom:latitude":34.03487,
+    "geom:longitude":73.75004,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rairban",
+    "gn:country_code":"PK",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415491,
+    "gn:latitude":34.03487,
+    "gn:longitude":73.75004,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rairban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rerban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415491
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8d2e1a4862ac1e862615047c4122cd0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209612301
+        }
+    ],
+    "wof:id":1209612301,
+    "wof:lastmodified":1537681363,
+    "wof:name":"Rairban",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75004,
+    34.03487,
+    73.75004,
+    34.03487
+],
+  "geometry": {"coordinates":[73.75004,34.03487],"type":"Point"}
+}

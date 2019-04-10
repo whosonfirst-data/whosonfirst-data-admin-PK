@@ -1,0 +1,64 @@
+{
+  "id": 1209638705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.0172,31.34158,71.0172,31.34158",
+    "geom:latitude":31.34158,
+    "geom:longitude":71.0172,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Retriwala",
+    "gn:country_code":"PK",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367119,
+    "gn:latitude":31.34158,
+    "gn:longitude":71.0172,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Retriwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Retri Khu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367119
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fbb5fe44ef5c0d9c417709e069d09fb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638705
+        }
+    ],
+    "wof:id":1209638705,
+    "wof:lastmodified":1537680512,
+    "wof:name":"Retriwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.0172,
+    31.34158,
+    71.0172,
+    31.34158
+],
+  "geometry": {"coordinates":[71.0172,31.34158],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243376009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.33106,27.3581,66.33106,27.3581",
+    "geom:latitude":27.3581,
+    "geom:longitude":66.33106,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zarchain",
+    "gn:country_code":"PK",
+    "gn:dem":1254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370004,
+    "gn:latitude":27.3581,
+    "gn:longitude":66.33106,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Zarchain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370004
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe5146280b98f15a6739d6f1c4486aec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1243376009,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243376009,
+    "wof:lastmodified":1536907377,
+    "wof:name":"Zarchain",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.33106,
+    27.3581,
+    66.33106,
+    27.3581
+],
+  "geometry": {"coordinates":[66.33105999999999,27.3581],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293287387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71482,34.36552,73.71482,34.36552",
+    "geom:latitude":34.36552,
+    "geom:longitude":73.71482,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chirban",
+    "gn:country_code":"PK",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7106525,
+    "gn:latitude":34.36552,
+    "gn:longitude":73.71482,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chirban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chir Ban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106525
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c7d092c40d4913411acd477db0837d82",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293287387,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293287387,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293287387,
+    "wof:lastmodified":1537681700,
+    "wof:name":"Chirban",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71481999999997,
+    34.36552,
+    73.71481999999997,
+    34.36552
+],
+  "geometry": {"coordinates":[73.71481999999997,34.36552],"type":"Point"}
+}

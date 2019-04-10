@@ -1,0 +1,67 @@
+{
+  "id": 1226445909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.52448,34.59021,71.52448,34.59021",
+    "geom:latitude":34.59021,
+    "geom:longitude":71.52448,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Arao",
+    "gn:country_code":"PK",
+    "gn:dem":990,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9290208,
+    "gn:latitude":34.59021,
+    "gn:longitude":71.52448,
+    "gn:modification_date":"2014-08-08",
+    "gn:name":"Arao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9290208
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"27e2fe815a0417126a1c095952b76619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1226445909,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226445909,
+    "wof:lastmodified":1536644610,
+    "wof:name":"Arao",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.52448000000003,
+    34.59021,
+    71.52448000000003,
+    34.59021
+],
+  "geometry": {"coordinates":[71.52448000000003,34.59021],"type":"Point"}
+}

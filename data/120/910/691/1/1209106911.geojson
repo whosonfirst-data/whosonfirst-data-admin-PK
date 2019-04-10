@@ -1,0 +1,73 @@
+{
+  "id": 1209106911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62605,32.95448,70.62605,32.95448",
+    "geom:latitude":32.95448,
+    "geom:longitude":70.62605,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotka Khwaja Dad",
+    "gn:country_code":"PK",
+    "gn:dem":353,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332827,
+    "gn:latitude":32.95448,
+    "gn:longitude":70.62605,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kotka Khwaja Dad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khw\u0101ja Muhammad",
+        "Kotkai Khw\u0101ja Muhammad",
+        "Kotka Khw\u0101ja Jad",
+        "Kotka Khwaja Dad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332827
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"137561e4de004926e1b16e57eb0b51ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1209106911,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209106911,
+    "wof:lastmodified":1543515453,
+    "wof:name":"Kotka Khwaja Dad",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62605,
+    32.95448,
+    70.62605,
+    32.95448
+],
+  "geometry": {"coordinates":[70.62605000000001,32.95448],"type":"Point"}
+}

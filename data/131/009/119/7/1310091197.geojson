@@ -1,0 +1,78 @@
+{
+  "id": 1310091197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.53179,35.97802,74.53179,35.97802",
+    "geom:latitude":35.97802,
+    "geom:longitude":74.53179,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hope",
+    "gn:country_code":"PK",
+    "gn:dem":2188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176836,
+    "gn:latitude":35.97802,
+    "gn:longitude":74.53179,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Hope",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176836
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"958eeb2087b43d7099b4e194ccaf0e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1310091197,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1310091197,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310091197,
+    "wof:lastmodified":1537016464,
+    "wof:name":"Hope",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.53179,
+    35.97802,
+    74.53179,
+    35.97802
+],
+  "geometry": {"coordinates":[74.53179,35.97802],"type":"Point"}
+}

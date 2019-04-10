@@ -1,0 +1,67 @@
+{
+  "id": 1226748233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54557,34.96491,72.54557,34.96491",
+    "geom:latitude":34.96491,
+    "geom:longitude":72.54557,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ilman",
+    "gn:country_code":"PK",
+    "gn:dem":1813,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420755,
+    "gn:latitude":34.96491,
+    "gn:longitude":72.54557,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ilman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420755
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"07c358eb025cc9b024fb5beddf8675c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1226748233,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748233,
+    "wof:lastmodified":1536712237,
+    "wof:name":"Ilman",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54557,
+    34.96491,
+    72.54557,
+    34.96491
+],
+  "geometry": {"coordinates":[72.54557,34.96491],"type":"Point"}
+}

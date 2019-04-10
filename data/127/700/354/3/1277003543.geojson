@@ -1,0 +1,81 @@
+{
+  "id": 1277003543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.86204,34.67643,73.86204,34.67643",
+    "geom:latitude":34.67643,
+    "geom:longitude":73.86204,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kandur Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":2937,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416128,
+    "gn:latitude":34.67643,
+    "gn:longitude":73.86204,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kandur Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandora Baihk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416128
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7ab0a79e2ff6d007db8661e5bb63cf6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1277003543,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1277003543,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277003543,
+    "wof:lastmodified":1537681375,
+    "wof:name":"Kandur Baihk",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.86204000000002,
+    34.67643,
+    73.86204000000002,
+    34.67643
+],
+  "geometry": {"coordinates":[73.86204000000002,34.67643],"type":"Point"}
+}

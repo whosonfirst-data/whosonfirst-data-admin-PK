@@ -1,0 +1,67 @@
+{
+  "id": 1259885419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23688,31.0509,72.23688,31.0509",
+    "geom:latitude":31.0509,
+    "geom:longitude":72.23688,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sherwala",
+    "gn:country_code":"PK",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1372335,
+    "gn:latitude":31.0509,
+    "gn:longitude":72.23688,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sherwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1372335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f1b52f823ed4ccf9a8a992d7269b0a6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1259885419,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259885419,
+    "wof:lastmodified":1536776884,
+    "wof:name":"Sherwala",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23688,
+    31.0509,
+    72.23688,
+    31.0509
+],
+  "geometry": {"coordinates":[72.23688,31.0509],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327053349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62221,31.49452,71.62221,31.49452",
+    "geom:latitude":31.49452,
+    "geom:longitude":71.62221,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ludda",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421814,
+    "gn:latitude":31.49452,
+    "gn:longitude":71.62221,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Ludda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421814
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"21cafd86f9eecfca50fc3d24c2244564",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1327053349,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327053349,
+    "wof:lastmodified":1536730537,
+    "wof:name":"Ludda",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62221,
+    31.49452,
+    71.62221,
+    31.49452
+],
+  "geometry": {"coordinates":[71.62221,31.49452],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326651587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.99343,33.0962,73.99343,33.0962",
+    "geom:latitude":33.0962,
+    "geom:longitude":73.99343,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bangora",
+    "gn:country_code":"PK",
+    "gn:dem":628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386420,
+    "gn:latitude":33.0962,
+    "gn:longitude":73.99343,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bangora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386420
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"893401eea297804ed6e144be8e06f7d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326651587,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326651587,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326651587,
+    "wof:lastmodified":1536811480,
+    "wof:name":"Bangora",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.99343,
+    33.0962,
+    73.99343,
+    33.0962
+],
+  "geometry": {"coordinates":[73.99343,33.0962],"type":"Point"}
+}

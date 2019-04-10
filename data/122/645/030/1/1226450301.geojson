@@ -1,0 +1,67 @@
+{
+  "id": 1226450301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53237,30.15796,66.53237,30.15796",
+    "geom:latitude":30.15796,
+    "geom:longitude":66.53237,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Syed Kalani",
+    "gn:country_code":"PK",
+    "gn:dem":1442,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11082649,
+    "gn:latitude":30.15796,
+    "gn:longitude":66.53237,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Syed Kalani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890438109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11082649
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ee6040151e3c210f4b127f6372babe29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1226450301,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226450301,
+    "wof:lastmodified":1536637738,
+    "wof:name":"Syed Kalani",
+    "wof:parent_id":890438109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53237,
+    30.15796,
+    66.53237,
+    30.15796
+],
+  "geometry": {"coordinates":[66.53237,30.15796],"type":"Point"}
+}

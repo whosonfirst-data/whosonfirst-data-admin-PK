@@ -1,0 +1,71 @@
+{
+  "id": 1343560849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60775,31.59617,72.60775,31.59617",
+    "geom:latitude":31.59617,
+    "geom:longitude":72.60775,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mangini",
+    "gn:country_code":"PK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171051,
+    "gn:latitude":31.59617,
+    "gn:longitude":72.60775,
+    "gn:modification_date":"2017-03-04",
+    "gn:name":"Mangini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maingni",
+        "Mangini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171051
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa618e685edb0f16cb365b5b4b526c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":1343560849,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343560849,
+    "wof:lastmodified":1537679488,
+    "wof:name":"Mangini",
+    "wof:parent_id":1108692155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60775,
+    31.59617,
+    72.60775,
+    31.59617
+],
+  "geometry": {"coordinates":[72.60775,31.59617],"type":"Point"}
+}

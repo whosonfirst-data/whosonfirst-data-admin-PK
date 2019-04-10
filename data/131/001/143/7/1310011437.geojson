@@ -1,0 +1,67 @@
+{
+  "id": 1310011437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.64483,32.56052,74.64483,32.56052",
+    "geom:latitude":32.56052,
+    "geom:longitude":74.64483,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khane Chak",
+    "gn:country_code":"PK",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371973,
+    "gn:latitude":32.56052,
+    "gn:longitude":74.64483,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khane Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371973
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"93e53013488859c2e544d0b1388404a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1310011437,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310011437,
+    "wof:lastmodified":1536633323,
+    "wof:name":"Khane Chak",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.64483,
+    32.56052,
+    74.64483,
+    32.56052
+],
+  "geometry": {"coordinates":[74.64483,32.56052],"type":"Point"}
+}

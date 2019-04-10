@@ -1,0 +1,67 @@
+{
+  "id": 1276131281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.89968,31.08588,66.89968,31.08588",
+    "geom:latitude":31.08588,
+    "geom:longitude":66.89968,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Paind",
+    "gn:country_code":"PK",
+    "gn:dem":2103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1375636,
+    "gn:latitude":31.08588,
+    "gn:longitude":66.89968,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Paind",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1375636
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a33f502b450827828b1684a89cf19ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1276131281,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276131281,
+    "wof:lastmodified":1537047303,
+    "wof:name":"Paind",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.89968,
+    31.08588,
+    66.89968,
+    31.08588
+],
+  "geometry": {"coordinates":[66.89968,31.08588],"type":"Point"}
+}

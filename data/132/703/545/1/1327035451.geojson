@@ -1,0 +1,67 @@
+{
+  "id": 1327035451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.2432,32.38984,72.2432,32.38984",
+    "geom:latitude":32.38984,
+    "geom:longitude":72.2432,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sagrali",
+    "gn:country_code":"PK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109258,
+    "gn:latitude":32.38984,
+    "gn:longitude":72.2432,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Sagrali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109258
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"819fb7b87323ba7442ef386a33aa0f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1327035451,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327035451,
+    "wof:lastmodified":1536756047,
+    "wof:name":"Sagrali",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.2432,
+    32.38984,
+    72.2432,
+    32.38984
+],
+  "geometry": {"coordinates":[72.2432,32.38984],"type":"Point"}
+}

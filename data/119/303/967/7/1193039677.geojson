@@ -1,0 +1,81 @@
+{
+  "id": 1193039677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.81138,34.31486,73.81138,34.31486",
+    "geom:latitude":34.31486,
+    "geom:longitude":73.81138,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Chhattargan",
+    "gn:country_code":"PK",
+    "gn:dem":1733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415875,
+    "gn:latitude":34.31486,
+    "gn:longitude":73.81138,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chhattargan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chhattarg\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415875
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e18a6f79c263591c418edf2d2eeb4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1193039677,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1193039677,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193039677,
+    "wof:lastmodified":1537681370,
+    "wof:name":"Chhattargan",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.81138,
+    34.31486,
+    73.81138,
+    34.31486
+],
+  "geometry": {"coordinates":[73.81138,34.31486],"type":"Point"}
+}

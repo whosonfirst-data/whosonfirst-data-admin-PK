@@ -1,0 +1,64 @@
+{
+  "id": 1209515021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30578,33.84833,73.30578,33.84833",
+    "geom:latitude":33.84833,
+    "geom:longitude":73.30578,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kundian",
+    "gn:country_code":"PK",
+    "gn:dem":1029,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082340,
+    "gn:latitude":33.84833,
+    "gn:longitude":73.30578,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kundian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kundi\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082340
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e2e5705a2d87c74b8bd6ac063c85be1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209515021
+        }
+    ],
+    "wof:id":1209515021,
+    "wof:lastmodified":1537681652,
+    "wof:name":"Kundian",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30578,
+    33.84833,
+    73.30578,
+    33.84833
+],
+  "geometry": {"coordinates":[73.30578,33.84833],"type":"Point"}
+}

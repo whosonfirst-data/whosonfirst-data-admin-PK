@@ -1,0 +1,67 @@
+{
+  "id": 1293884319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24456,35.3286,73.24456,35.3286",
+    "geom:latitude":35.3286,
+    "geom:longitude":73.24456,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jodar",
+    "gn:country_code":"PK",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999931,
+    "gn:latitude":35.3286,
+    "gn:longitude":73.24456,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Jodar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999931
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0b3d2061ffdb1c172e90d45439b81ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1293884319,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293884319,
+    "wof:lastmodified":1536712481,
+    "wof:name":"Jodar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24455999999998,
+    35.3286,
+    73.24455999999998,
+    35.3286
+],
+  "geometry": {"coordinates":[73.24455999999998,35.3286],"type":"Point"}
+}

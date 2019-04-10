@@ -1,0 +1,87 @@
+{
+  "id": 1310091189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03949,36.50138,73.03949,36.50138",
+    "geom:latitude":36.50138,
+    "geom:longitude":73.03949,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Honzinga Hunz",
+    "gn:country_code":"PK",
+    "gn:dem":3886,
+    "gn:elevation":"3685.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450739,
+    "gn:latitude":36.50138,
+    "gn:longitude":73.03949,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Honzinga Hunz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450739
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b6fdd286a29fce48812c6a476d6a975f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1310091189,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1310091189,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1310091189,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310091189,
+    "wof:lastmodified":1537016477,
+    "wof:name":"Honzinga Hunz",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03949,
+    36.50138,
+    73.03949,
+    36.50138
+],
+  "geometry": {"coordinates":[73.03949,36.50138],"type":"Point"}
+}

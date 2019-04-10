@@ -1,0 +1,67 @@
+{
+  "id": 1225943699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33839,30.76991,72.33839,30.76991",
+    "geom:latitude":30.76991,
+    "geom:longitude":72.33839,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pirabad",
+    "gn:country_code":"PK",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7330812,
+    "gn:latitude":30.76991,
+    "gn:longitude":72.33839,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pirabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7330812
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e31ed42f2e7ef982543563b5f654d3b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1225943699,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225943699,
+    "wof:lastmodified":1536871258,
+    "wof:name":"Pirabad",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33839,
+    30.76991,
+    72.33839,
+    30.76991
+],
+  "geometry": {"coordinates":[72.33839,30.76991],"type":"Point"}
+}

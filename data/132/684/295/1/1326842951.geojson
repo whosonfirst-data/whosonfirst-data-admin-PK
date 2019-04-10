@@ -1,0 +1,67 @@
+{
+  "id": 1326842951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.64851,29.89705,66.64851,29.89705",
+    "geom:latitude":29.89705,
+    "geom:longitude":66.64851,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Nawaabad",
+    "gn:country_code":"PK",
+    "gn:dem":1573,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1399401,
+    "gn:latitude":29.89705,
+    "gn:longitude":66.64851,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Nawaabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1399401
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6b49b78a1443f9189a38e5dadde7b238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1326842951,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326842951,
+    "wof:lastmodified":1537031857,
+    "wof:name":"Nawaabad",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.64851,
+    29.89705,
+    66.64851,
+    29.89705
+],
+  "geometry": {"coordinates":[66.64851,29.89705],"type":"Point"}
+}

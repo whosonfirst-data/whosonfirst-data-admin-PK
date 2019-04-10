@@ -1,0 +1,67 @@
+{
+  "id": 1209913791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.95088,32.34431,74.95088,32.34431",
+    "geom:latitude":32.34431,
+    "geom:longitude":74.95088,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chiraghabad",
+    "gn:country_code":"PK",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465506,
+    "gn:latitude":32.34431,
+    "gn:longitude":74.95088,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chiraghabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465506
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"54186b95032d0fc1624821b6051edf16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1209913791,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209913791,
+    "wof:lastmodified":1536375926,
+    "wof:name":"Chiraghabad",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.95088,
+    32.34431,
+    74.95088,
+    32.34431
+],
+  "geometry": {"coordinates":[74.95088,32.34431],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360293315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72235,30.01043,68.72235,30.01043",
+    "geom:latitude":30.01043,
+    "geom:longitude":68.72235,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dallo",
+    "gn:country_code":"PK",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353453,
+    "gn:latitude":30.01043,
+    "gn:longitude":68.72235,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Dallo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353453
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"666b805c7984dcbae3f39bb93e837a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1360293315,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360293315,
+    "wof:lastmodified":1536644558,
+    "wof:name":"Dallo",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72235,
+    30.01043,
+    68.72235,
+    30.01043
+],
+  "geometry": {"coordinates":[68.72235000000001,30.01043],"type":"Point"}
+}

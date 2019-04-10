@@ -1,0 +1,67 @@
+{
+  "id": 1193277755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84861,30.76278,67.84861,30.76278",
+    "geom:latitude":30.76278,
+    "geom:longitude":67.84861,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Romezh",
+    "gn:country_code":"PK",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347652,
+    "gn:latitude":30.76278,
+    "gn:longitude":67.84861,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Romezh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347652
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"497717b370ca6ee5391752adb33b61fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1193277755,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193277755,
+    "wof:lastmodified":1536364778,
+    "wof:name":"Romezh",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84861,
+    30.76278,
+    67.84861,
+    30.76278
+],
+  "geometry": {"coordinates":[67.84860999999999,30.76278],"type":"Point"}
+}

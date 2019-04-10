@@ -1,0 +1,67 @@
+{
+  "id": 1293104089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55875,31.9954,73.55875,31.9954",
+    "geom:latitude":31.9954,
+    "geom:longitude":73.55875,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gige",
+    "gn:country_code":"PK",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178342,
+    "gn:latitude":31.9954,
+    "gn:longitude":73.55875,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Gige",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178342
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a1f2a30122d66c0e9e201002bb684dd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1293104089,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293104089,
+    "wof:lastmodified":1536841711,
+    "wof:name":"Gige",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55875,
+    31.9954,
+    73.55875,
+    31.9954
+],
+  "geometry": {"coordinates":[73.55875,31.9954],"type":"Point"}
+}

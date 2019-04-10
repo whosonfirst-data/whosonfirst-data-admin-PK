@@ -1,0 +1,67 @@
+{
+  "id": 1293791725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.24622,25.67007,62.24622,25.67007",
+    "geom:latitude":25.67007,
+    "geom:longitude":62.24622,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hasadi",
+    "gn:country_code":"PK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177069,
+    "gn:latitude":25.67007,
+    "gn:longitude":62.24622,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Hasadi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177069
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f39d12e49b1227689b3a255c2ea5dfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1293791725,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293791725,
+    "wof:lastmodified":1536844396,
+    "wof:name":"Hasadi",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.24622,
+    25.67007000000001,
+    62.24622,
+    25.67007000000001
+],
+  "geometry": {"coordinates":[62.24622,25.67007000000001],"type":"Point"}
+}

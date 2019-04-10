@@ -1,0 +1,81 @@
+{
+  "id": 1360105003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.31244,35.3346,74.31244,35.3346",
+    "geom:latitude":35.3346,
+    "geom:longitude":74.31244,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Diamroi",
+    "gn:country_code":"PK",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423765,
+    "gn:latitude":35.3346,
+    "gn:longitude":74.31244,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Diamroi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dimrei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423765
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f6518555eb83f1e93e597b9458cd6d28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360105003,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360105003,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360105003,
+    "wof:lastmodified":1537681909,
+    "wof:name":"Diamroi",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.31244000000002,
+    35.3346,
+    74.31244000000002,
+    35.3346
+],
+  "geometry": {"coordinates":[74.31244000000002,35.3346],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226145095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.05788,29.98,67.05788,29.98",
+    "geom:latitude":29.98,
+    "geom:longitude":67.05788,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mazari",
+    "gn:country_code":"PK",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1395230,
+    "gn:latitude":29.98,
+    "gn:longitude":67.05788,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mazari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1395230
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b476dfd6e5a9ae2a2b0437b9fa6a2628",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1226145095,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226145095,
+    "wof:lastmodified":1537075545,
+    "wof:name":"Mazari",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.05788000000001,
+    29.98,
+    67.05788000000001,
+    29.98
+],
+  "geometry": {"coordinates":[67.05788000000001,29.98],"type":"Point"}
+}

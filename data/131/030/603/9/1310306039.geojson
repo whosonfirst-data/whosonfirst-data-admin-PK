@@ -1,0 +1,67 @@
+{
+  "id": 1310306039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65979,34.17262,71.65979,34.17262",
+    "geom:latitude":34.17262,
+    "geom:longitude":71.65979,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bamozai",
+    "gn:country_code":"PK",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333925,
+    "gn:latitude":34.17262,
+    "gn:longitude":71.65979,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Bamozai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333925
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2d594621dc2517b67f6b8554a042d7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1310306039,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310306039,
+    "wof:lastmodified":1536707404,
+    "wof:name":"Bamozai",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65979,
+    34.17262,
+    71.65979,
+    34.17262
+],
+  "geometry": {"coordinates":[71.65979,34.17262],"type":"Point"}
+}

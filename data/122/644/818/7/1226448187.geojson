@@ -1,0 +1,67 @@
+{
+  "id": 1226448187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.03284,32.29731,75.03284,32.29731",
+    "geom:latitude":32.29731,
+    "geom:longitude":75.03284,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shaikhpur",
+    "gn:country_code":"PK",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081406,
+    "gn:latitude":32.29731,
+    "gn:longitude":75.03284,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Shaikhpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081406
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"45f88bcd127a37b66f4c8032e6653441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226448187,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226448187,
+    "wof:lastmodified":1536641060,
+    "wof:name":"Shaikhpur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.03284000000002,
+    32.29731,
+    75.03284000000002,
+    32.29731
+],
+  "geometry": {"coordinates":[75.03284000000002,32.29731],"type":"Point"}
+}

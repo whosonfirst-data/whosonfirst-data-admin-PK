@@ -1,0 +1,73 @@
+{
+  "id": 1293493313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.48024,30.58598,73.48024,30.58598",
+    "geom:latitude":30.58598,
+    "geom:longitude":73.48024,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Theh Kasmana",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332114,
+    "gn:latitude":30.58598,
+    "gn:longitude":73.48024,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Theh Kasmana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "M\u012br Q\u0101sim",
+        "Theh Kasm\u0101ne M\u012br Q\u0101sim",
+        "Theh Kasm\u0101ne",
+        "Theh Kasmana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332114
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a06e136404672e7b30653ddb0c8ac677",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1293493313,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293493313,
+    "wof:lastmodified":1537680044,
+    "wof:name":"Theh Kasmana",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.48024000000002,
+    30.58598,
+    73.48024000000002,
+    30.58598
+],
+  "geometry": {"coordinates":[73.48024000000002,30.58598],"type":"Point"}
+}

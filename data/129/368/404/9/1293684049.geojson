@@ -1,0 +1,81 @@
+{
+  "id": 1293684049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.10159,33.41307,74.10159,33.41307",
+    "geom:latitude":33.41307,
+    "geom:longitude":74.10159,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mandetar",
+    "gn:country_code":"PK",
+    "gn:dem":1064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415187,
+    "gn:latitude":33.41307,
+    "gn:longitude":74.10159,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mandetar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manetar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415187
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"703e6f08a3250a89ba3f781715ec14cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293684049,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293684049,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293684049,
+    "wof:lastmodified":1537681357,
+    "wof:name":"Mandetar",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.10159,
+    33.41307,
+    74.10159,
+    33.41307
+],
+  "geometry": {"coordinates":[74.10159,33.41307],"type":"Point"}
+}

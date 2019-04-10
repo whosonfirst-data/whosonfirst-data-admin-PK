@@ -1,0 +1,67 @@
+{
+  "id": 1343870777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61972,30.45723,67.61972,30.45723",
+    "geom:latitude":30.45723,
+    "geom:longitude":67.61972,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Septao",
+    "gn:country_code":"PK",
+    "gn:dem":2162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6271008,
+    "gn:latitude":30.45723,
+    "gn:longitude":67.61972,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Septao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6271008
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba5d1383ca81bf2778fc794fe88e1b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1343870777,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343870777,
+    "wof:lastmodified":1536651488,
+    "wof:name":"Septao",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61972,
+    30.45723,
+    67.61972,
+    30.45723
+],
+  "geometry": {"coordinates":[67.61972,30.45723],"type":"Point"}
+}

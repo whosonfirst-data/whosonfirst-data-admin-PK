@@ -1,0 +1,64 @@
+{
+  "id": 1209219995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.85694,32.51166,73.85694,32.51166",
+    "geom:latitude":32.51166,
+    "geom:longitude":73.85694,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Rupoki",
+    "gn:country_code":"PK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380300,
+    "gn:latitude":32.51166,
+    "gn:longitude":73.85694,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Rupoki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u016bpoke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380300
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c5e979d3106f94d91996f8027a63696b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209219995
+        }
+    ],
+    "wof:id":1209219995,
+    "wof:lastmodified":1537680718,
+    "wof:name":"Rupoki",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.85694000000002,
+    32.51166,
+    73.85694000000002,
+    32.51166
+],
+  "geometry": {"coordinates":[73.85694000000002,32.51166],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360284861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38755,32.0487,74.38755,32.0487",
+    "geom:latitude":32.0487,
+    "geom:longitude":74.38755,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fatehpur",
+    "gn:country_code":"PK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11459613,
+    "gn:latitude":32.0487,
+    "gn:longitude":74.38755,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Fatehpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11459613
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f2b8465f5c89376eddae52844f11e3d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1360284861,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360284861,
+    "wof:lastmodified":1536657577,
+    "wof:name":"Fatehpur",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38755,
+    32.0487,
+    74.38755,
+    32.0487
+],
+  "geometry": {"coordinates":[74.38755,32.0487],"type":"Point"}
+}

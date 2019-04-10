@@ -1,0 +1,64 @@
+{
+  "id": 1209118555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.37449,30.71659,67.37449,30.71659",
+    "geom:latitude":30.71659,
+    "geom:longitude":67.37449,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Ghaz",
+    "gn:country_code":"PK",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1393952,
+    "gn:latitude":30.71659,
+    "gn:longitude":67.37449,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ghaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ghaz"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1393952
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"98bdb724b123bb3d105251a5ed199fcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209118555
+        }
+    ],
+    "wof:id":1209118555,
+    "wof:lastmodified":1537681038,
+    "wof:name":"Ghaz",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.37449000000001,
+    30.71659,
+    67.37449000000001,
+    30.71659
+],
+  "geometry": {"coordinates":[67.37449000000001,30.71659],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293092985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12842,32.94009,74.12842,32.94009",
+    "geom:latitude":32.94009,
+    "geom:longitude":74.12842,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Badda Gura",
+    "gn:country_code":"PK",
+    "gn:dem":376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371577,
+    "gn:latitude":32.94009,
+    "gn:longitude":74.12842,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Badda Gura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371577
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d62d547b060e5ed58fc43a227d97e48c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293092985,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293092985,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293092985,
+    "wof:lastmodified":1536857571,
+    "wof:name":"Badda Gura",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12841999999998,
+    32.94009,
+    74.12841999999998,
+    32.94009
+],
+  "geometry": {"coordinates":[74.12841999999998,32.94009],"type":"Point"}
+}

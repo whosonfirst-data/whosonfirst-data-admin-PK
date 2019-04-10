@@ -1,0 +1,66 @@
+{
+  "id": 1209617365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8585,29.12127,67.8585,29.12127",
+    "geom:latitude":29.12127,
+    "geom:longitude":67.8585,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Badda",
+    "gn:country_code":"PK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184085,
+    "gn:latitude":29.12127,
+    "gn:longitude":67.8585,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Badda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badha",
+        "Badda",
+        "Gullan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184085
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"95314c0abc6a44c631d72f6a2bed6e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209617365
+        }
+    ],
+    "wof:id":1209617365,
+    "wof:lastmodified":1537679958,
+    "wof:name":"Badda",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8585,
+    29.12127000000001,
+    67.8585,
+    29.12127000000001
+],
+  "geometry": {"coordinates":[67.85850000000001,29.12127000000001],"type":"Point"}
+}

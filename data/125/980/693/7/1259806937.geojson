@@ -1,0 +1,67 @@
+{
+  "id": 1259806937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.825,32.725,72.825,32.725",
+    "geom:latitude":32.725,
+    "geom:longitude":72.825,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhok Suba",
+    "gn:country_code":"PK",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370886,
+    "gn:latitude":32.725,
+    "gn:longitude":72.825,
+    "gn:modification_date":"2001-09-25",
+    "gn:name":"Dhok Suba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370886
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e276e1447f41ca912af1df0295c7f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1259806937,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259806937,
+    "wof:lastmodified":1536889052,
+    "wof:name":"Dhok Suba",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.825,
+    32.725,
+    72.825,
+    32.725
+],
+  "geometry": {"coordinates":[72.825,32.725],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260297787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.52202,30.3499,67.52202,30.3499",
+    "geom:latitude":30.3499,
+    "geom:longitude":67.52202,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Garharh",
+    "gn:country_code":"PK",
+    "gn:dem":1673,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11327522,
+    "gn:latitude":30.3499,
+    "gn:longitude":67.52202,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Garharh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11327522
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05e5722be25b2bea3f6ffedf12f5a00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1260297787,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260297787,
+    "wof:lastmodified":1536692882,
+    "wof:name":"Garharh",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.52202,
+    30.3499,
+    67.52202,
+    30.3499
+],
+  "geometry": {"coordinates":[67.52202,30.3499],"type":"Point"}
+}

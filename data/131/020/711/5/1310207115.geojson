@@ -1,0 +1,67 @@
+{
+  "id": 1310207115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58825,31.16754,68.58825,31.16754",
+    "geom:latitude":31.16754,
+    "geom:longitude":68.58825,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gorh",
+    "gn:country_code":"PK",
+    "gn:dem":2031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144879,
+    "gn:latitude":31.16754,
+    "gn:longitude":68.58825,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gorh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144879
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"23f1b48a1f535378e651f6a7924d027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1310207115,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310207115,
+    "wof:lastmodified":1536848819,
+    "wof:name":"Gorh",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58825,
+    31.16754,
+    68.58825,
+    31.16754
+],
+  "geometry": {"coordinates":[68.58825,31.16754],"type":"Point"}
+}

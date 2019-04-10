@@ -1,0 +1,67 @@
+{
+  "id": 1226448109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00946,30.72417,74.00946,30.72417",
+    "geom:latitude":30.72417,
+    "geom:longitude":74.00946,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hassuke",
+    "gn:country_code":"PK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538505,
+    "gn:latitude":30.72417,
+    "gn:longitude":74.00946,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Hassuke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538505
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"541a938b63b5d023c17261f280dca307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1226448109,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226448109,
+    "wof:lastmodified":1536641181,
+    "wof:name":"Hassuke",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00946,
+    30.72417,
+    74.00946,
+    30.72417
+],
+  "geometry": {"coordinates":[74.00946,30.72417],"type":"Point"}
+}

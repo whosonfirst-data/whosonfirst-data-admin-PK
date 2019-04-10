@@ -1,0 +1,67 @@
+{
+  "id": 1293884333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13841,35.03663,73.13841,35.03663",
+    "geom:latitude":35.03663,
+    "geom:longitude":73.13841,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khaliar",
+    "gn:country_code":"PK",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045595,
+    "gn:latitude":35.03663,
+    "gn:longitude":73.13841,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Khaliar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045595
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c9d4c13d3314d454cab485eb0ce3f643",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1293884333,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293884333,
+    "wof:lastmodified":1536712462,
+    "wof:name":"Khaliar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13841,
+    35.03663,
+    73.13841,
+    35.03663
+],
+  "geometry": {"coordinates":[73.13840999999999,35.03663],"type":"Point"}
+}

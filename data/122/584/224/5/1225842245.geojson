@@ -1,0 +1,101 @@
+{
+  "id": 1225842245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48333,34.81389,74.48333,34.81389",
+    "geom:latitude":34.81389,
+    "geom:longitude":74.48333,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhanawali",
+    "gn:country_code":"PK",
+    "gn:dem":2904,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412506,
+    "gn:latitude":34.81389,
+    "gn:longitude":74.48333,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhanawali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Danna",
+        "Dhanawali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659,
+        85672137,
+        85632427,
+        1108794095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412506
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"04a13e1dca47ae0aad69f691103921c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1225842245,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1225842245,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108794095,
+            "disputed_id":85632427,
+            "locality_id":1225842245,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108794095,
+            "disputed_id":85632427,
+            "locality_id":1225842245,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1225842245,
+    "wof:lastmodified":1537681294,
+    "wof:name":"Dhanawali",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48333000000002,
+    34.81389,
+    74.48333000000002,
+    34.81389
+],
+  "geometry": {"coordinates":[74.48333000000002,34.81389],"type":"Point"}
+}

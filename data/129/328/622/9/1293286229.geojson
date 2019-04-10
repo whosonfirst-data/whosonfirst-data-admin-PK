@@ -1,0 +1,78 @@
+{
+  "id": 1293286229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71556,35.58377,73.71556,35.58377",
+    "geom:latitude":35.58377,
+    "geom:longitude":73.71556,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shigogan",
+    "gn:country_code":"PK",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021058,
+    "gn:latitude":35.58377,
+    "gn:longitude":73.71556,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Shigogan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021058
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9dbf91664ad72c4af40d6e5f3536b3f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293286229,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293286229,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293286229,
+    "wof:lastmodified":1537074100,
+    "wof:name":"Shigogan",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71556,
+    35.58377,
+    73.71556,
+    35.58377
+],
+  "geometry": {"coordinates":[73.71556,35.58377],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293094897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.80178,35.1015,74.80178,35.1015",
+    "geom:latitude":35.1015,
+    "geom:longitude":74.80178,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Chhain",
+    "gn:country_code":"PK",
+    "gn:dem":2709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423863,
+    "gn:latitude":35.1015,
+    "gn:longitude":74.80178,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chhain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423863
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"46205461a694ef1bf7aa1e6e71e7a378",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293094897,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293094897,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293094897,
+    "wof:lastmodified":1537681910,
+    "wof:name":"Chhain",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.80178000000002,
+    35.1015,
+    74.80178000000002,
+    35.1015
+],
+  "geometry": {"coordinates":[74.80178000000002,35.1015],"type":"Point"}
+}

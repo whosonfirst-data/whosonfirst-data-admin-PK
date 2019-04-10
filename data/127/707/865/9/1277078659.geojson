@@ -1,0 +1,67 @@
+{
+  "id": 1277078659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05442,25.64192,70.05442,25.64192",
+    "geom:latitude":25.64192,
+    "geom:longitude":70.05442,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bandhia",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038674,
+    "gn:latitude":25.64192,
+    "gn:longitude":70.05442,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Bandhia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038674
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d99cc120c5475e59294c375a662f9b8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1277078659,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1277078659,
+    "wof:lastmodified":1536774113,
+    "wof:name":"Bandhia",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05442,
+    25.64192,
+    70.05442,
+    25.64192
+],
+  "geometry": {"coordinates":[70.05441999999999,25.64192],"type":"Point"}
+}

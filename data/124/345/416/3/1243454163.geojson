@@ -1,0 +1,71 @@
+{
+  "id": 1243454163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.81498,32.41738,73.81498,32.41738",
+    "geom:latitude":32.41738,
+    "geom:longitude":73.81498,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khosar",
+    "gn:country_code":"PK",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173794,
+    "gn:latitude":32.41738,
+    "gn:longitude":73.81498,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Khosar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khuso",
+        "Khosar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173794
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b24dd1e57b67a72a23b18f438b409fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1243454163,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243454163,
+    "wof:lastmodified":1537679585,
+    "wof:name":"Khosar",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.81498,
+    32.41738,
+    73.81498,
+    32.41738
+],
+  "geometry": {"coordinates":[73.81498000000001,32.41738],"type":"Point"}
+}

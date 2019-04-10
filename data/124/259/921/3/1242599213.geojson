@@ -1,0 +1,82 @@
+{
+  "id": 1242599213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97785,33.09676,73.97785,33.09676",
+    "geom:latitude":33.09676,
+    "geom:longitude":73.97785,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Katiar",
+    "gn:country_code":"PK",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386421,
+    "gn:latitude":33.09676,
+    "gn:longitude":73.97785,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Katiar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katial",
+        "Katiar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386421
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"47c2346120ac32a2cd44201ebeb5ccc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242599213,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242599213,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242599213,
+    "wof:lastmodified":1537680861,
+    "wof:name":"Katiar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97785,
+    33.09676,
+    73.97785,
+    33.09676
+],
+  "geometry": {"coordinates":[73.97785,33.09676],"type":"Point"}
+}

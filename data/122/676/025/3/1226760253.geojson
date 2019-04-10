@@ -1,0 +1,71 @@
+{
+  "id": 1226760253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98706,29.60034,67.98706,29.60034",
+    "geom:latitude":29.60034,
+    "geom:longitude":67.98706,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khajjak",
+    "gn:country_code":"PK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174325,
+    "gn:latitude":29.60034,
+    "gn:longitude":67.98706,
+    "gn:modification_date":"2016-10-07",
+    "gn:name":"Khajjak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khajak",
+        "Khajjak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174325
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d77b62a4f7d2978dc179f9b825d12614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692383,
+            "locality_id":1226760253,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226760253,
+    "wof:lastmodified":1537679604,
+    "wof:name":"Khajjak",
+    "wof:parent_id":1108692383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98706,
+    29.60034000000001,
+    67.98706,
+    29.60034000000001
+],
+  "geometry": {"coordinates":[67.98706,29.60034000000001],"type":"Point"}
+}

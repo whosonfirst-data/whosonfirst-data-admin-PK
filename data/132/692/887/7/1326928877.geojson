@@ -1,0 +1,67 @@
+{
+  "id": 1326928877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57621,27.47145,68.57621,27.47145",
+    "geom:latitude":27.47145,
+    "geom:longitude":68.57621,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bangla",
+    "gn:country_code":"PK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331893,
+    "gn:latitude":27.47145,
+    "gn:longitude":68.57621,
+    "gn:modification_date":"1995-10-17",
+    "gn:name":"Bangla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331893
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f4211f84a53b3df9dc8999089998c53e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1326928877,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1326928877,
+    "wof:lastmodified":1536909936,
+    "wof:name":"Bangla",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57621,
+    27.47145,
+    68.57621,
+    27.47145
+],
+  "geometry": {"coordinates":[68.57621,27.47145],"type":"Point"}
+}

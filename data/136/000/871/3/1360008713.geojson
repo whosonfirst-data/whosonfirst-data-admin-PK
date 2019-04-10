@@ -1,0 +1,67 @@
+{
+  "id": 1360008713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.94251,32.37076,74.94251,32.37076",
+    "geom:latitude":32.37076,
+    "geom:longitude":74.94251,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Amral",
+    "gn:country_code":"PK",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184509,
+    "gn:latitude":32.37076,
+    "gn:longitude":74.94251,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Amral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184509
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b7ca29dac40a58063c5e711d4c5d09ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1360008713,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360008713,
+    "wof:lastmodified":1537053535,
+    "wof:name":"Amral",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.94251,
+    32.37076,
+    74.94251,
+    32.37076
+],
+  "geometry": {"coordinates":[74.94251,32.37076],"type":"Point"}
+}

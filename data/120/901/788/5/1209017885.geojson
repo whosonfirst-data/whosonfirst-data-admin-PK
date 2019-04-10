@@ -1,0 +1,67 @@
+{
+  "id": 1209017885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69345,34.75077,71.69345,34.75077",
+    "geom:latitude":34.75077,
+    "geom:longitude":71.69345,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pipal Shah",
+    "gn:country_code":"PK",
+    "gn:dem":920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111967,
+    "gn:latitude":34.75077,
+    "gn:longitude":71.69345,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Pipal Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111967
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7e2cc24481fe7cedff649e4c4e0c256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1209017885,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209017885,
+    "wof:lastmodified":1543515350,
+    "wof:name":"Pipal Shah",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69345,
+    34.75077,
+    71.69345,
+    34.75077
+],
+  "geometry": {"coordinates":[71.69345,34.75077],"type":"Point"}
+}

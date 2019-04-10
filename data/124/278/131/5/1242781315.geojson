@@ -1,0 +1,70 @@
+{
+  "id": 1242781315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.53983,34.8589,71.53983,34.8589",
+    "geom:latitude":34.8589,
+    "geom:longitude":71.53983,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bilmaskot",
+    "gn:country_code":"PK",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111842,
+    "gn:latitude":34.8589,
+    "gn:longitude":71.53983,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Bilmaskot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bilmaskot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111842
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e48791dc27cd590ca13546a78b3ad16e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1242781315,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242781315,
+    "wof:lastmodified":1543515511,
+    "wof:name":"Bilmaskot",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.53983000000002,
+    34.8589,
+    71.53983000000002,
+    34.8589
+],
+  "geometry": {"coordinates":[71.53983000000002,34.8589],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293093849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83828,28.25226,68.83828,28.25226",
+    "geom:latitude":28.25226,
+    "geom:longitude":68.83828,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ali Shah",
+    "gn:country_code":"PK",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7422348,
+    "gn:latitude":28.25226,
+    "gn:longitude":68.83828,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ali Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7422348
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"27aff41e790dfb46a496e9e0cae8bc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1293093849,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293093849,
+    "wof:lastmodified":1536856357,
+    "wof:name":"Ali Shah",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83828000000001,
+    28.25226,
+    68.83828000000001,
+    28.25226
+],
+  "geometry": {"coordinates":[68.83828000000001,28.25226],"type":"Point"}
+}

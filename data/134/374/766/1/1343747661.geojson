@@ -1,0 +1,78 @@
+{
+  "id": 1343747661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.30881,35.51603,74.30881,35.51603",
+    "geom:latitude":35.51603,
+    "geom:longitude":74.30881,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khochachh",
+    "gn:country_code":"PK",
+    "gn:dem":2605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069554,
+    "gn:latitude":35.51603,
+    "gn:longitude":74.30881,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Khochachh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069554
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ed626a7b2826726e73ac35d4c4f85054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343747661,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343747661,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343747661,
+    "wof:lastmodified":1536828435,
+    "wof:name":"Khochachh",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.30881,
+    35.51603,
+    74.30881,
+    35.51603
+],
+  "geometry": {"coordinates":[74.30880999999999,35.51603],"type":"Point"}
+}

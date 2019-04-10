@@ -1,0 +1,67 @@
+{
+  "id": 1276761823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.01757,30.88982,71.01757,30.88982",
+    "geom:latitude":30.88982,
+    "geom:longitude":71.01757,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Saraung",
+    "gn:country_code":"PK",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7323860,
+    "gn:latitude":30.88982,
+    "gn:longitude":71.01757,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Saraung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7323860
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a69066a1665292ed115a751d040efd48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1276761823,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276761823,
+    "wof:lastmodified":1536701982,
+    "wof:name":"Saraung",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.01756999999998,
+    30.88982,
+    71.01756999999998,
+    30.88982
+],
+  "geometry": {"coordinates":[71.01756999999998,30.88982],"type":"Point"}
+}

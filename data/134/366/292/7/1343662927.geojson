@@ -1,0 +1,67 @@
+{
+  "id": 1343662927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.38385,34.57373,72.38385,34.57373",
+    "geom:latitude":34.57373,
+    "geom:longitude":72.38385,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Char",
+    "gn:country_code":"PK",
+    "gn:dem":790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377904,
+    "gn:latitude":34.57373,
+    "gn:longitude":72.38385,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Char",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377904
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb56b317905a4e42731298855c800e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1343662927,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343662927,
+    "wof:lastmodified":1536951688,
+    "wof:name":"Char",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.38385,
+    34.57373,
+    72.38385,
+    34.57373
+],
+  "geometry": {"coordinates":[72.38385,34.57373],"type":"Point"}
+}

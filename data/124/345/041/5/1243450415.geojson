@@ -1,0 +1,78 @@
+{
+  "id": 1243450415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.11514,34.89232,75.11514,34.89232",
+    "geom:latitude":34.89232,
+    "geom:longitude":75.11514,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ali Camp",
+    "gn:country_code":"PK",
+    "gn:dem":3958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081079,
+    "gn:latitude":34.89232,
+    "gn:longitude":75.11514,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Ali Camp",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081079
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7243e840843be3f2ddd544f8195f5f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243450415,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243450415,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243450415,
+    "wof:lastmodified":1536799888,
+    "wof:name":"Ali Camp",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.11514,
+    34.89232,
+    75.11514,
+    34.89232
+],
+  "geometry": {"coordinates":[75.11514,34.89232],"type":"Point"}
+}

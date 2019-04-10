@@ -1,0 +1,81 @@
+{
+  "id": 1243477335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26557,29.76584,73.26557,29.76584",
+    "geom:latitude":29.76584,
+    "geom:longitude":73.26557,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1183882.0",
+    "gn:asciiname":"Dinan Bashnoian Wala",
+    "gn:country_code":"PK",
+    "gn:dem":162,
+    "gn:elevation":"155.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179762,
+    "gn:latitude":29.76584,
+    "gn:longitude":73.26557,
+    "gn:modification_date":"2016-04-15",
+    "gn:name":"Dinan Bashnoian Wala",
+    "gn:population":7500,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dinan Bashnoian Wala"
+    ],
+    "name:eng_x_variant":[
+        "Dinan Wala"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0646\u0646 \u0628\u0634\u0646\u0648\u0626\u06cc\u0627\u06ba \u0648\u0627\u0644\u06c1"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179762
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2233902b90fded79bfcf299ca42383e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1243477335,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243477335,
+    "wof:lastmodified":1537558563,
+    "wof:name":"Dinan Bashnoian Wala",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:population":7500,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26557,
+    29.76584,
+    73.26557,
+    29.76584
+],
+  "geometry": {"coordinates":[73.26557,29.76584],"type":"Point"}
+}

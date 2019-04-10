@@ -1,0 +1,67 @@
+{
+  "id": 1293496705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42438,34.71714,71.42438,34.71714",
+    "geom:latitude":34.71714,
+    "geom:longitude":71.42438,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Garho",
+    "gn:country_code":"PK",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1445055,
+    "gn:latitude":34.71714,
+    "gn:longitude":71.42438,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Garho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1445055
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec9c08e4d89347fec1133dd307604d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1293496705,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293496705,
+    "wof:lastmodified":1536774335,
+    "wof:name":"Garho",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42438,
+    34.71714,
+    71.42438,
+    34.71714
+],
+  "geometry": {"coordinates":[71.42438,34.71714],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226631935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.18638,35.91661,74.18638,35.91661",
+    "geom:latitude":35.91661,
+    "geom:longitude":74.18638,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dormushk",
+    "gn:country_code":"PK",
+    "gn:dem":2174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423535,
+    "gn:latitude":35.91661,
+    "gn:longitude":74.18638,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Dormushk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dangsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423535
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5708400d92733903816ecc4c710c69a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226631935,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226631935,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226631935,
+    "wof:lastmodified":1537681906,
+    "wof:name":"Dormushk",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.18638,
+    35.91661,
+    74.18638,
+    35.91661
+],
+  "geometry": {"coordinates":[74.18638,35.91661],"type":"Point"}
+}

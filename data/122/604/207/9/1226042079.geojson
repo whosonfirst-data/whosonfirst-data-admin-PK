@@ -1,0 +1,67 @@
+{
+  "id": 1226042079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48744,30.36133,71.48744,30.36133",
+    "geom:latitude":30.36133,
+    "geom:longitude":71.48744,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nizamabad",
+    "gn:country_code":"PK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409551,
+    "gn:latitude":30.36133,
+    "gn:longitude":71.48744,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nizamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409551
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"94c7ff78935fa36c8452da6cb0410ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1226042079,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226042079,
+    "wof:lastmodified":1536730801,
+    "wof:name":"Nizamabad",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48744,
+    30.36133,
+    71.48744,
+    30.36133
+],
+  "geometry": {"coordinates":[71.48744000000001,30.36133],"type":"Point"}
+}

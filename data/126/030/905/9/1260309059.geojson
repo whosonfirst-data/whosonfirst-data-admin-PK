@@ -1,0 +1,67 @@
+{
+  "id": 1260309059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60241,32.38927,71.60241,32.38927",
+    "geom:latitude":32.38927,
+    "geom:longitude":71.60241,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Wattu",
+    "gn:country_code":"PK",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405485,
+    "gn:latitude":32.38927,
+    "gn:longitude":71.60241,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Wattu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405485
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"59c34d5577b4b1adcea52fe788fc6866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1260309059,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260309059,
+    "wof:lastmodified":1536677673,
+    "wof:name":"Wattu",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60240999999998,
+    32.38927,
+    71.60240999999998,
+    32.38927
+],
+  "geometry": {"coordinates":[71.60240999999998,32.38927],"type":"Point"}
+}

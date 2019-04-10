@@ -1,0 +1,67 @@
+{
+  "id": 1343860395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3779,28.88758,66.3779,28.88758",
+    "geom:latitude":28.88758,
+    "geom:longitude":66.3779,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khanzai",
+    "gn:country_code":"PK",
+    "gn:dem":1896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11093110,
+    "gn:latitude":28.88758,
+    "gn:longitude":66.3779,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Khanzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11093110
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"98c20a7ea2cfc1591f57a172d35ab99e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1343860395,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343860395,
+    "wof:lastmodified":1536666722,
+    "wof:name":"Khanzai",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3779,
+    28.88758,
+    66.3779,
+    28.88758
+],
+  "geometry": {"coordinates":[66.3779,28.88758],"type":"Point"}
+}

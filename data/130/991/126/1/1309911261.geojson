@@ -1,0 +1,67 @@
+{
+  "id": 1309911261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55329,31.14349,73.55329,31.14349",
+    "geom:latitude":31.14349,
+    "geom:longitude":73.55329,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Faridabad",
+    "gn:country_code":"PK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179365,
+    "gn:latitude":31.14349,
+    "gn:longitude":73.55329,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Faridabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179365
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9842424ad8b06b9e1083bb50da1c071e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692323,
+            "locality_id":1309911261,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309911261,
+    "wof:lastmodified":1536779545,
+    "wof:name":"Faridabad",
+    "wof:parent_id":1108692323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55329,
+    31.14349,
+    73.55329,
+    31.14349
+],
+  "geometry": {"coordinates":[73.55329,31.14349],"type":"Point"}
+}

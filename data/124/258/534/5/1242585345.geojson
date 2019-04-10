@@ -1,0 +1,67 @@
+{
+  "id": 1242585345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.74202,26.23405,64.74202,26.23405",
+    "geom:latitude":26.23405,
+    "geom:longitude":64.74202,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Madak",
+    "gn:country_code":"PK",
+    "gn:dem":551,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343080,
+    "gn:latitude":26.23405,
+    "gn:longitude":64.74202,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Madak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343080
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"576aae67a04edd28ffd59a33c066594b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1242585345,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242585345,
+    "wof:lastmodified":1537050288,
+    "wof:name":"Madak",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.74202,
+    26.23405,
+    64.74202,
+    26.23405
+],
+  "geometry": {"coordinates":[64.74202,26.23405],"type":"Point"}
+}

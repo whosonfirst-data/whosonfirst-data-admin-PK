@@ -1,0 +1,84 @@
+{
+  "id": 1226748615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02329,34.67719,73.02329,34.67719",
+    "geom:latitude":34.67719,
+    "geom:longitude":73.02329,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"8224052.0",
+    "gn:asciiname":"Battagram",
+    "gn:country_code":"PK",
+    "gn:dem":1031,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1183105,
+    "gn:latitude":34.67719,
+    "gn:longitude":73.02329,
+    "gn:modification_date":"2016-12-15",
+    "gn:name":"Battagram",
+    "gn:population":700000,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Battagram"
+    ],
+    "name:eng_x_variant":[
+        "Battagram City"
+    ],
+    "name:und_x_variant":[
+        "Batgr\u0101m",
+        "Batgr\u0101n",
+        "Batagr\u0101m",
+        "Battagr\u0101m"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183105,
+        "wk:page":"Battagram"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c8706d2e1ab49761ebd69047973f3f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1226748615,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748615,
+    "wof:lastmodified":1537679919,
+    "wof:name":"Battagram",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:population":700000,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02329,
+    34.67719,
+    73.02329,
+    34.67719
+],
+  "geometry": {"coordinates":[73.02329,34.67719],"type":"Point"}
+}

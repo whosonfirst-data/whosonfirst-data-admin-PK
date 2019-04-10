@@ -1,0 +1,67 @@
+{
+  "id": 1243081169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41072,34.70682,71.41072,34.70682",
+    "geom:latitude":34.70682,
+    "geom:longitude":71.41072,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Rashakai",
+    "gn:country_code":"PK",
+    "gn:dem":951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107073,
+    "gn:latitude":34.70682,
+    "gn:longitude":71.41072,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Rashakai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107073
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9339f5c64661cf704bea06bd450899b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1243081169,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243081169,
+    "wof:lastmodified":1536833960,
+    "wof:name":"Rashakai",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41072,
+    34.70682,
+    71.41072,
+    34.70682
+],
+  "geometry": {"coordinates":[71.41072,34.70682],"type":"Point"}
+}

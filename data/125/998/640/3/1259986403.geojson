@@ -1,0 +1,67 @@
+{
+  "id": 1259986403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27297,34.45914,73.27297,34.45914",
+    "geom:latitude":34.45914,
+    "geom:longitude":73.27297,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bishor",
+    "gn:country_code":"PK",
+    "gn:dem":1009,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997429,
+    "gn:latitude":34.45914,
+    "gn:longitude":73.27297,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bishor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997429
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d46a750aec5e883e28fbe799c83ce36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1259986403,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259986403,
+    "wof:lastmodified":1536629186,
+    "wof:name":"Bishor",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27297,
+    34.45914,
+    73.27297,
+    34.45914
+],
+  "geometry": {"coordinates":[73.27297,34.45914],"type":"Point"}
+}

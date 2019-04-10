@@ -1,0 +1,70 @@
+{
+  "id": 1226341599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.43409,31.13003,73.43409,31.13003",
+    "geom:latitude":31.13003,
+    "geom:longitude":73.43409,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Maiman",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388841,
+    "gn:latitude":31.13003,
+    "gn:longitude":73.43409,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Maiman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Memon"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388841
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74b03f2542f617a5938515fc31c5423c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1226341599,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226341599,
+    "wof:lastmodified":1537680923,
+    "wof:name":"Maiman",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43409,
+    31.13003,
+    73.43409,
+    31.13003
+],
+  "geometry": {"coordinates":[73.43409,31.13003],"type":"Point"}
+}

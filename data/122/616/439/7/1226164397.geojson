@@ -1,0 +1,78 @@
+{
+  "id": 1226164397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82767,33.76565,73.82767,33.76565",
+    "geom:latitude":33.76565,
+    "geom:longitude":73.82767,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Natha Gala",
+    "gn:country_code":"PK",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386157,
+    "gn:latitude":33.76565,
+    "gn:longitude":73.82767,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Natha Gala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386157
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"abb6030159d91e7493b679dea752418e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1226164397,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1226164397,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226164397,
+    "wof:lastmodified":1537048808,
+    "wof:name":"Natha Gala",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82767,
+    33.76565,
+    73.82767,
+    33.76565
+],
+  "geometry": {"coordinates":[73.82767,33.76565],"type":"Point"}
+}

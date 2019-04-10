@@ -1,0 +1,67 @@
+{
+  "id": 1293500051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.515,25.97667,66.515,25.97667",
+    "geom:latitude":25.97667,
+    "geom:longitude":66.515,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kandi",
+    "gn:country_code":"PK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343515,
+    "gn:latitude":25.97667,
+    "gn:longitude":66.515,
+    "gn:modification_date":"1998-04-27",
+    "gn:name":"Kandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343515
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cd8183ecffa0c272a4d7a2cea047d634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1293500051,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293500051,
+    "wof:lastmodified":1536769367,
+    "wof:name":"Kandi",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.515,
+    25.97667,
+    66.515,
+    25.97667
+],
+  "geometry": {"coordinates":[66.515,25.97667],"type":"Point"}
+}

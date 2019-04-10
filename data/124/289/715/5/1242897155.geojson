@@ -1,0 +1,67 @@
+{
+  "id": 1242897155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.14889,31.82661,74.14889,31.82661",
+    "geom:latitude":31.82661,
+    "geom:longitude":74.14889,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gagrana",
+    "gn:country_code":"PK",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330388,
+    "gn:latitude":31.82661,
+    "gn:longitude":74.14889,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gagrana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330388
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f4ad2a26fad459f5fe3e950edf8d97c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1242897155,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242897155,
+    "wof:lastmodified":1537096992,
+    "wof:name":"Gagrana",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.14889000000002,
+    31.82661,
+    74.14889000000002,
+    31.82661
+],
+  "geometry": {"coordinates":[74.14889000000002,31.82661],"type":"Point"}
+}

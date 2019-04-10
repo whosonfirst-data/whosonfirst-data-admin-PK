@@ -1,0 +1,81 @@
+{
+  "id": 1276654105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.48347,34.52484,73.48347,34.52484",
+    "geom:latitude":34.52484,
+    "geom:longitude":73.48347,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Raj Kot",
+    "gn:country_code":"PK",
+    "gn:dem":1945,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406404,
+    "gn:latitude":34.52484,
+    "gn:longitude":73.48347,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Raj Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101ikot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406404
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6fb3f1a214fd3704e7f98ec5d14e5a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1276654105,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1276654105,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276654105,
+    "wof:lastmodified":1537681197,
+    "wof:name":"Raj Kot",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.48347,
+    34.52484,
+    73.48347,
+    34.52484
+],
+  "geometry": {"coordinates":[73.48347,34.52484],"type":"Point"}
+}

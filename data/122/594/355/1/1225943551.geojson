@@ -1,0 +1,67 @@
+{
+  "id": 1225943551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.00901,30.21375,71.00901,30.21375",
+    "geom:latitude":30.21375,
+    "geom:longitude":71.00901,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yaranwala",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341481,
+    "gn:latitude":30.21375,
+    "gn:longitude":71.00901,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Yaranwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341481
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2014af308556f26f24839f4c65c67777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1225943551,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225943551,
+    "wof:lastmodified":1536871477,
+    "wof:name":"Yaranwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.00901,
+    30.21375,
+    71.00901,
+    30.21375
+],
+  "geometry": {"coordinates":[71.00901,30.21375],"type":"Point"}
+}

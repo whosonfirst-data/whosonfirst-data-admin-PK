@@ -1,0 +1,67 @@
+{
+  "id": 1293207351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57917,34.56574,72.57917,34.56574",
+    "geom:latitude":34.56574,
+    "geom:longitude":72.57917,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kajura",
+    "gn:country_code":"PK",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390587,
+    "gn:latitude":34.56574,
+    "gn:longitude":72.57917,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kajura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390587
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"528cbc466af846385242d66106825287",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1293207351,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293207351,
+    "wof:lastmodified":1536694083,
+    "wof:name":"Kajura",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57916999999998,
+    34.56574000000001,
+    72.57916999999998,
+    34.56574000000001
+],
+  "geometry": {"coordinates":[72.57916999999998,34.56574000000001],"type":"Point"}
+}

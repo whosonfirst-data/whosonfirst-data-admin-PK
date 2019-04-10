@@ -1,0 +1,86 @@
+{
+  "id": 1276356361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27817,36.62297,73.27817,36.62297",
+    "geom:latitude":36.62297,
+    "geom:longitude":73.27817,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shotikuto",
+    "gn:country_code":"PK",
+    "gn:dem":3711,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450730,
+    "gn:latitude":36.62297,
+    "gn:longitude":73.27817,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Shotikuto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450730
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6abccab124af4c6062d0a32a6c6fd8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1276356361,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1276356361,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1276356361,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276356361,
+    "wof:lastmodified":1536747522,
+    "wof:name":"Shotikuto",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27816999999997,
+    36.62297,
+    73.27816999999997,
+    36.62297
+],
+  "geometry": {"coordinates":[73.27816999999997,36.62297],"type":"Point"}
+}

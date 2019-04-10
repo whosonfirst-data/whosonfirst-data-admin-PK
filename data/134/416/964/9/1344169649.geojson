@@ -1,0 +1,67 @@
+{
+  "id": 1344169649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47778,29.32917,66.47778,29.32917",
+    "geom:latitude":29.32917,
+    "geom:longitude":66.47778,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Karchhap",
+    "gn:country_code":"PK",
+    "gn:dem":1756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1399085,
+    "gn:latitude":29.32917,
+    "gn:longitude":66.47778,
+    "gn:modification_date":"2001-11-02",
+    "gn:name":"K\u0101rchh\u0101p",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1399085
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"939695566c10db5bdaf255da09c6ce7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1344169649,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344169649,
+    "wof:lastmodified":1536718319,
+    "wof:name":"Karchhap",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47778000000001,
+    29.32917,
+    66.47778000000001,
+    29.32917
+],
+  "geometry": {"coordinates":[66.47778000000001,29.32917],"type":"Point"}
+}

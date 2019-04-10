@@ -1,0 +1,67 @@
+{
+  "id": 1309705081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.69583,27.78333,68.69583,27.78333",
+    "geom:latitude":27.78333,
+    "geom:longitude":68.69583,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Jhalli",
+    "gn:country_code":"PK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1402170,
+    "gn:latitude":27.78333,
+    "gn:longitude":68.69583,
+    "gn:modification_date":"2001-11-08",
+    "gn:name":"Jhalli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1402170
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aab9a64f161a68a27769d4f3be363092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1309705081,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1309705081,
+    "wof:lastmodified":1537073294,
+    "wof:name":"Jhalli",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.69583,
+    27.78333,
+    68.69583,
+    27.78333
+],
+  "geometry": {"coordinates":[68.69583,27.78333],"type":"Point"}
+}

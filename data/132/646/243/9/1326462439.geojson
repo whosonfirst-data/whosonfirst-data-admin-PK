@@ -1,0 +1,67 @@
+{
+  "id": 1326462439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53884,30.83671,73.53884,30.83671",
+    "geom:latitude":30.83671,
+    "geom:longitude":73.53884,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghadula",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543992,
+    "gn:latitude":30.83671,
+    "gn:longitude":73.53884,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Ghadula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543992
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc482ab2a399d9098081cd15003f9038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1326462439,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326462439,
+    "wof:lastmodified":1537081452,
+    "wof:name":"Ghadula",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53884000000002,
+    30.83671,
+    73.53884000000002,
+    30.83671
+],
+  "geometry": {"coordinates":[73.53884000000002,30.83671],"type":"Point"}
+}

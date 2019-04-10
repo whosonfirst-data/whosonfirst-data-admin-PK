@@ -1,0 +1,67 @@
+{
+  "id": 1310111269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.681,31.99648,74.681,31.99648",
+    "geom:latitude":31.99648,
+    "geom:longitude":74.681,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kalaswali",
+    "gn:country_code":"PK",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355679,
+    "gn:latitude":31.99648,
+    "gn:longitude":74.681,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kalaswali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355679
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"715572a8efbe2a32a0bff41841302759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1310111269,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310111269,
+    "wof:lastmodified":1536987312,
+    "wof:name":"Kalaswali",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.681,
+    31.99648,
+    74.681,
+    31.99648
+],
+  "geometry": {"coordinates":[74.681,31.99648],"type":"Point"}
+}

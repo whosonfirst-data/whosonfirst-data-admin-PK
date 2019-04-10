@@ -1,0 +1,67 @@
+{
+  "id": 1260081277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8593,35.53802,72.8593,35.53802",
+    "geom:latitude":35.53802,
+    "geom:longitude":72.8593,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khari",
+    "gn:country_code":"PK",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023832,
+    "gn:latitude":35.53802,
+    "gn:longitude":72.8593,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Khari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023832
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5053253c05e06884c2df843bc8a42af0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1260081277,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260081277,
+    "wof:lastmodified":1536990373,
+    "wof:name":"Khari",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8593,
+    35.53802,
+    72.8593,
+    35.53802
+],
+  "geometry": {"coordinates":[72.8593,35.53802],"type":"Point"}
+}

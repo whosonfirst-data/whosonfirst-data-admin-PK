@@ -1,0 +1,67 @@
+{
+  "id": 1243184917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.48942,28.56286,65.48942,28.56286",
+    "geom:latitude":28.56286,
+    "geom:longitude":65.48942,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tump",
+    "gn:country_code":"PK",
+    "gn:dem":708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7326182,
+    "gn:latitude":28.56286,
+    "gn:longitude":65.48942,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Tump",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7326182
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"799d2c770bba2903f14f68cbc1ff951a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1243184917,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243184917,
+    "wof:lastmodified":1536685530,
+    "wof:name":"Tump",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.48942,
+    28.56286,
+    65.48942,
+    28.56286
+],
+  "geometry": {"coordinates":[65.48942,28.56286],"type":"Point"}
+}

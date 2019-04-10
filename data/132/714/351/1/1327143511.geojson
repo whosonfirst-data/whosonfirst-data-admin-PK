@@ -1,0 +1,67 @@
+{
+  "id": 1327143511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64769,33.89663,70.64769,33.89663",
+    "geom:latitude":33.89663,
+    "geom:longitude":70.64769,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kutbar",
+    "gn:country_code":"PK",
+    "gn:dem":1969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446841,
+    "gn:latitude":33.89663,
+    "gn:longitude":70.64769,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kutbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446841
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"64a54ae0d3277236daed0ea9ed7ca854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1327143511,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1327143511,
+    "wof:lastmodified":1537094621,
+    "wof:name":"Kutbar",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64769,
+    33.89663,
+    70.64769,
+    33.89663
+],
+  "geometry": {"coordinates":[70.64769,33.89663],"type":"Point"}
+}

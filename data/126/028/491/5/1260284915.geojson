@@ -1,0 +1,67 @@
+{
+  "id": 1260284915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.14241,32.31998,71.14241,32.31998",
+    "geom:latitude":32.31998,
+    "geom:longitude":71.14241,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Aghzan",
+    "gn:country_code":"PK",
+    "gn:dem":646,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365686,
+    "gn:latitude":32.31998,
+    "gn:longitude":71.14241,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Aghzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fb546da26048a220b63a8b99f8c1a92d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1260284915,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260284915,
+    "wof:lastmodified":1536710332,
+    "wof:name":"Aghzan",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.14241,
+    32.31998,
+    71.14241,
+    32.31998
+],
+  "geometry": {"coordinates":[71.14241,32.31998],"type":"Point"}
+}

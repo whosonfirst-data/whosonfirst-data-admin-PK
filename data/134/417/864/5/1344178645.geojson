@@ -1,0 +1,83 @@
+{
+  "id": 1344178645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00762,33.78887,74.00762,33.78887",
+    "geom:latitude":33.78887,
+    "geom:longitude":74.00762,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Taroti Dharamsal",
+    "gn:country_code":"PK",
+    "gn:dem":1049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414867,
+    "gn:latitude":33.78887,
+    "gn:longitude":74.00762,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Taroti Dharamsal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Troti Dharmaola",
+        "Dharmaola",
+        "Troti Dharmsal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414867
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05a2438889ec6ed9f23eeffcc8d4a243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1344178645,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1344178645,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344178645,
+    "wof:lastmodified":1537681349,
+    "wof:name":"Taroti Dharamsal",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00761999999997,
+    33.78887,
+    74.00761999999997,
+    33.78887
+],
+  "geometry": {"coordinates":[74.00761999999997,33.78887],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343253877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.94171,33.41809,73.94171,33.41809",
+    "geom:latitude":33.41809,
+    "geom:longitude":73.94171,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mansu",
+    "gn:country_code":"PK",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386237,
+    "gn:latitude":33.41809,
+    "gn:longitude":73.94171,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mansu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mansul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386237
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"88a024708114f4509018510ea154d126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343253877,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343253877,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343253877,
+    "wof:lastmodified":1537680856,
+    "wof:name":"Mansu",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.94171,
+    33.41809,
+    73.94171,
+    33.41809
+],
+  "geometry": {"coordinates":[73.94171,33.41809],"type":"Point"}
+}

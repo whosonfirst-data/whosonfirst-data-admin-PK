@@ -1,0 +1,64 @@
+{
+  "id": 1209099929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48743,35.63834,74.48743,35.63834",
+    "geom:latitude":35.63834,
+    "geom:longitude":74.48743,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Buian",
+    "gn:country_code":"PK",
+    "gn:dem":3000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423594,
+    "gn:latitude":35.63834,
+    "gn:longitude":74.48743,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Buian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bui\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423594
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43ba4cc095b931f77437be4e9835bb40",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209099929
+        }
+    ],
+    "wof:id":1209099929,
+    "wof:lastmodified":1537681907,
+    "wof:name":"Buian",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48743,
+    35.63834,
+    74.48743,
+    35.63834
+],
+  "geometry": {"coordinates":[74.48743,35.63834],"type":"Point"}
+}

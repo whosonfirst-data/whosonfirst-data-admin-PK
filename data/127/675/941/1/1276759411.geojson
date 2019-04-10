@@ -1,0 +1,81 @@
+{
+  "id": 1276759411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.19652,33.97097,74.19652,33.97097",
+    "geom:latitude":33.97097,
+    "geom:longitude":74.19652,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhok Pantha",
+    "gn:country_code":"PK",
+    "gn:dem":2953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414953,
+    "gn:latitude":33.97097,
+    "gn:longitude":74.19652,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Dhok Pantha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paint"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414953
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f33bfc13c91f19ac7707c4d0f85bc966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276759411,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276759411,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276759411,
+    "wof:lastmodified":1537681352,
+    "wof:name":"Dhok Pantha",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.19651999999998,
+    33.97097,
+    74.19651999999998,
+    33.97097
+],
+  "geometry": {"coordinates":[74.19651999999998,33.97097],"type":"Point"}
+}

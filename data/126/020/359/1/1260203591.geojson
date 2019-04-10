@@ -1,0 +1,78 @@
+{
+  "id": 1260203591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"77.225,35.1875,77.225,35.1875",
+    "geom:latitude":35.1875,
+    "geom:longitude":77.225,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Tsamskangchan",
+    "gn:country_code":"PK",
+    "gn:dem":3542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163105,
+    "gn:latitude":35.1875,
+    "gn:longitude":77.225,
+    "gn:modification_date":"2008-08-27",
+    "gn:name":"Tsamskangchan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108695693,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0ee72533a35c7338c7a819dd4b7551b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695693,
+            "disputed_id":1159339495,
+            "locality_id":1260203591,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695693,
+            "disputed_id":1159339495,
+            "locality_id":1260203591,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260203591,
+    "wof:lastmodified":1536819558,
+    "wof:name":"Tsamskangchan",
+    "wof:parent_id":1108695693,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    77.225,
+    35.1875,
+    77.225,
+    35.1875
+],
+  "geometry": {"coordinates":[77.22499999999999,35.1875],"type":"Point"}
+}

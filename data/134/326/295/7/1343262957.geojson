@@ -1,0 +1,67 @@
+{
+  "id": 1343262957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32909,34.06218,73.32909,34.06218",
+    "geom:latitude":34.06218,
+    "geom:longitude":73.32909,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Batangi",
+    "gn:country_code":"PK",
+    "gn:dem":2136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988749,
+    "gn:latitude":34.06218,
+    "gn:longitude":73.32909,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Batangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988749
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"87bda7e9c44b17dfbd549b9c1ceb0d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1343262957,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343262957,
+    "wof:lastmodified":1537029993,
+    "wof:name":"Batangi",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32909000000002,
+    34.06218,
+    73.32909000000002,
+    34.06218
+],
+  "geometry": {"coordinates":[73.32909000000002,34.06218],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327431215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5545,33.43671,72.5545,33.43671",
+    "geom:latitude":33.43671,
+    "geom:longitude":72.5545,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ismail",
+    "gn:country_code":"PK",
+    "gn:dem":463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176597,
+    "gn:latitude":33.43671,
+    "gn:longitude":72.5545,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ismail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176597
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5583ed8d0f6f737fc50627d3a0d0de3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1327431215,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327431215,
+    "wof:lastmodified":1536682450,
+    "wof:name":"Ismail",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5545,
+    33.43671,
+    72.5545,
+    33.43671
+],
+  "geometry": {"coordinates":[72.5545,33.43671],"type":"Point"}
+}

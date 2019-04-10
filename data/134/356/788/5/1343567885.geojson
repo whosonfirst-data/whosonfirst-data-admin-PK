@@ -1,0 +1,68 @@
+{
+  "id": 1343567885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12498,33.92572,73.12498,33.92572",
+    "geom:latitude":33.92572,
+    "geom:longitude":73.12498,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Langrial",
+    "gn:country_code":"PK",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172158,
+    "gn:latitude":33.92572,
+    "gn:longitude":73.12498,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Langrial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172158,
+        "wk:page":"Langrial"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2678618ae9f1b08cd3cf9354c2904115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1343567885,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343567885,
+    "wof:lastmodified":1537570712,
+    "wof:name":"Langrial",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12498000000002,
+    33.92572,
+    73.12498000000002,
+    33.92572
+],
+  "geometry": {"coordinates":[73.12498000000002,33.92572],"type":"Point"}
+}

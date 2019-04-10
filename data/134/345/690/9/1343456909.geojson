@@ -1,0 +1,67 @@
+{
+  "id": 1343456909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.67686,25.81819,69.67686,25.81819",
+    "geom:latitude":25.81819,
+    "geom:longitude":69.67686,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hajam Tar",
+    "gn:country_code":"PK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11033917,
+    "gn:latitude":25.81819,
+    "gn:longitude":69.67686,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Hajam Tar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11033917
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"783854873c55664b6c715dfd27132334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1343456909,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343456909,
+    "wof:lastmodified":1536751238,
+    "wof:name":"Hajam Tar",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.67685999999999,
+    25.81819,
+    69.67685999999999,
+    25.81819
+],
+  "geometry": {"coordinates":[69.67685999999999,25.81819],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1310412643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10963,33.89384,72.10963,33.89384",
+    "geom:latitude":33.89384,
+    "geom:longitude":72.10963,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Malli Khel Bala",
+    "gn:country_code":"PK",
+    "gn:dem":626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171267,
+    "gn:latitude":33.89384,
+    "gn:longitude":72.10963,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Malli Khel Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Malli Khel",
+        "Mali Khel",
+        "Bar Malli Khel",
+        "Malli Khel Bala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171267
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8bcca50db9e8defb880978f0c67ebae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1310412643,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310412643,
+    "wof:lastmodified":1537679497,
+    "wof:name":"Malli Khel Bala",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10963000000002,
+    33.89384,
+    72.10963000000002,
+    33.89384
+],
+  "geometry": {"coordinates":[72.10963000000002,33.89384],"type":"Point"}
+}

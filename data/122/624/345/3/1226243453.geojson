@@ -1,0 +1,67 @@
+{
+  "id": 1226243453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44821,34.77098,73.44821,34.77098",
+    "geom:latitude":34.77098,
+    "geom:longitude":73.44821,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lari",
+    "gn:country_code":"PK",
+    "gn:dem":3151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390386,
+    "gn:latitude":34.77098,
+    "gn:longitude":73.44821,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Lari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390386
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"995a9b72429c2873d0ff083793157cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226243453,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226243453,
+    "wof:lastmodified":1536937681,
+    "wof:name":"Lari",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44821,
+    34.77098,
+    73.44821,
+    34.77098
+],
+  "geometry": {"coordinates":[73.44821,34.77098],"type":"Point"}
+}

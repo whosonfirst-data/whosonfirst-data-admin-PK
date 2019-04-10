@@ -1,0 +1,78 @@
+{
+  "id": 1327355079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.86213,33.8404,73.86213,33.8404",
+    "geom:latitude":33.8404,
+    "geom:longitude":73.86213,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pir Kot",
+    "gn:country_code":"PK",
+    "gn:dem":1664,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386112,
+    "gn:latitude":33.8404,
+    "gn:longitude":73.86213,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pir Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386112
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5e5b494e83f36d8f73716b961135d6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1327355079,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1327355079,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327355079,
+    "wof:lastmodified":1536792852,
+    "wof:name":"Pir Kot",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.86213000000002,
+    33.8404,
+    73.86213000000002,
+    33.8404
+],
+  "geometry": {"coordinates":[73.86213000000002,33.8404],"type":"Point"}
+}

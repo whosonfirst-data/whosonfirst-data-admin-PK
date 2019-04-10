@@ -1,0 +1,67 @@
+{
+  "id": 1243447223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48889,24.03056,67.48889,24.03056",
+    "geom:latitude":24.03056,
+    "geom:longitude":67.48889,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Ali Jat",
+    "gn:country_code":"PK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1108561,
+    "gn:latitude":24.03056,
+    "gn:longitude":67.48889,
+    "gn:modification_date":"1999-06-14",
+    "gn:name":"Ali Jat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1108561
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b9831e72af46ecfdaed12425cafd7320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692411,
+            "locality_id":1243447223,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243447223,
+    "wof:lastmodified":1536804290,
+    "wof:name":"Ali Jat",
+    "wof:parent_id":1108692411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48889,
+    24.03056,
+    67.48889,
+    24.03056
+],
+  "geometry": {"coordinates":[67.48889,24.03056],"type":"Point"}
+}

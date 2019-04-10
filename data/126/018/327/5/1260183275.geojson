@@ -1,0 +1,67 @@
+{
+  "id": 1260183275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.53721,35.1767,72.53721,35.1767",
+    "geom:latitude":35.1767,
+    "geom:longitude":72.53721,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mankar",
+    "gn:country_code":"PK",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377582,
+    "gn:latitude":35.1767,
+    "gn:longitude":72.53721,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mankar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377582
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"136f770af1509aa065f011f0db37dc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1260183275,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260183275,
+    "wof:lastmodified":1536847133,
+    "wof:name":"Mankar",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.53721,
+    35.1767,
+    72.53721,
+    35.1767
+],
+  "geometry": {"coordinates":[72.53721,35.1767],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243173331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12306,33.91084,73.12306,33.91084",
+    "geom:latitude":33.91084,
+    "geom:longitude":73.12306,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dubran",
+    "gn:country_code":"PK",
+    "gn:dem":1302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7077296,
+    "gn:latitude":33.91084,
+    "gn:longitude":73.12306,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dubran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Dubran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7077296
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3bd3d539533b10f981b01f9b6195ea1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1243173331,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243173331,
+    "wof:lastmodified":1537681638,
+    "wof:name":"Dubran",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12306,
+    33.91084,
+    73.12306,
+    33.91084
+],
+  "geometry": {"coordinates":[73.12306,33.91084],"type":"Point"}
+}

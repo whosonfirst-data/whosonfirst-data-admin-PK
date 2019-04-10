@@ -1,0 +1,81 @@
+{
+  "id": 1225935921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6905,34.30698,73.6905,34.30698",
+    "geom:latitude":34.30698,
+    "geom:longitude":73.6905,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pathial Nagri",
+    "gn:country_code":"PK",
+    "gn:dem":2606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385803,
+    "gn:latitude":34.30698,
+    "gn:longitude":73.6905,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pathial Nagri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pathi\u0101li Nikri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385803
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf535ac52e35a5d884d375550182c9a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1225935921,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1225935921,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1225935921,
+    "wof:lastmodified":1537680846,
+    "wof:name":"Pathial Nagri",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6905,
+    34.30698,
+    73.6905,
+    34.30698
+],
+  "geometry": {"coordinates":[73.6905,34.30698],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310006777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51267,34.0575,71.51267,34.0575",
+    "geom:latitude":34.0575,
+    "geom:longitude":71.51267,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karimabad",
+    "gn:country_code":"PK",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8624608,
+    "gn:latitude":34.0575,
+    "gn:longitude":71.51267,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Karimabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8624608
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09e663520686a99510f784e0c18f6542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1310006777,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310006777,
+    "wof:lastmodified":1536640565,
+    "wof:name":"Karimabad",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51267,
+    34.0575,
+    71.51267,
+    34.0575
+],
+  "geometry": {"coordinates":[71.51267,34.0575],"type":"Point"}
+}

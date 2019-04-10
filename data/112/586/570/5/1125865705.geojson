@@ -1,0 +1,78 @@
+{
+  "id": 1125865705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.43361,33.76083,72.43361,33.76083",
+    "geom:latitude":33.76083,
+    "geom:longitude":72.43361,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":10657,
+    "gn:population":10657,
+    "iso:country":"PK",
+    "lbl:latitude":33.76083,
+    "lbl:longitude":72.43361,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1166118,
+    "qs_pg:gn_pop":10657,
+    "qs_pg:name":"Sanjw\u0101l",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":6,
+    "qs_pg:qs_id":130687,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166118,
+        "qs_pg:id":130687
+    },
+    "wof:country":"PK",
+    "wof:created":1497294029,
+    "wof:geomhash":"12b38d193dd37d4f222fbdb17302aae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1125865705,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125865705,
+    "wof:lastmodified":1509396970,
+    "wof:name":"Sanjw\u0101l",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:population":10657,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.43361,
+    33.76083,
+    72.43361,
+    33.76083
+],
+  "geometry": {"coordinates":[72.43361,33.76083],"type":"Point"}
+}

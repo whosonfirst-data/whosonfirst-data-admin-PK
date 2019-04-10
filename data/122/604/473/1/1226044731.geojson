@@ -1,0 +1,75 @@
+{
+  "id": 1226044731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.02464,31.23628,67.02464,31.23628",
+    "geom:latitude":31.23628,
+    "geom:longitude":67.02464,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Suhbat",
+    "gn:country_code":"PK",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1363541,
+    "gn:latitude":31.23628,
+    "gn:longitude":67.02464,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Suhbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u043e\u0434\u0436\u0430\u043d"
+    ],
+    "name:und_x_variant":[
+        "J\u014djl\u0101n",
+        "Dzhodzhan",
+        "Suhbat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1363541
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3b212e6b7851cd671a820aaa2d10b93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1226044731,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226044731,
+    "wof:lastmodified":1537680470,
+    "wof:name":"Suhbat",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.02464,
+    31.23628,
+    67.02464,
+    31.23628
+],
+  "geometry": {"coordinates":[67.02464000000001,31.23628],"type":"Point"}
+}

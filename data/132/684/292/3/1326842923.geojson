@@ -1,0 +1,67 @@
+{
+  "id": 1326842923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.32668,26.29543,66.32668,26.29543",
+    "geom:latitude":26.29543,
+    "geom:longitude":66.32668,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ghari",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1108876,
+    "gn:latitude":26.29543,
+    "gn:longitude":66.32668,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Ghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1108876
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"140024a1560fc4e426ce68f685e81ab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1326842923,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326842923,
+    "wof:lastmodified":1537031897,
+    "wof:name":"Ghari",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.32668000000001,
+    26.29543,
+    66.32668000000001,
+    26.29543
+],
+  "geometry": {"coordinates":[66.32668000000001,26.29543],"type":"Point"}
+}

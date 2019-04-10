@@ -1,0 +1,78 @@
+{
+  "id": 1310686989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.82922,36.32552,74.82922,36.32552",
+    "geom:latitude":36.32552,
+    "geom:longitude":74.82922,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Atabad",
+    "gn:country_code":"PK",
+    "gn:dem":3738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184280,
+    "gn:latitude":36.32552,
+    "gn:longitude":74.82922,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Atabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184280
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bdf9964e99c537aab31cc2d4ef2af87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1310686989,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1310686989,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310686989,
+    "wof:lastmodified":1536655157,
+    "wof:name":"Atabad",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.82921999999998,
+    36.32552,
+    74.82921999999998,
+    36.32552
+],
+  "geometry": {"coordinates":[74.82921999999998,36.32552],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209917481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.83361,32.49,69.83361,32.49",
+    "geom:latitude":32.49,
+    "geom:longitude":69.83361,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Tarakai",
+    "gn:country_code":"PK",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425831,
+    "gn:latitude":32.49,
+    "gn:longitude":69.83361,
+    "gn:modification_date":"2005-04-05",
+    "gn:name":"Tarakai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425831
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77270bb66dbd302105da952026cfff43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1209917481,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209917481,
+    "wof:lastmodified":1543515762,
+    "wof:name":"Tarakai",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.83361,
+    32.49,
+    69.83361,
+    32.49
+],
+  "geometry": {"coordinates":[69.83360999999999,32.49],"type":"Point"}
+}

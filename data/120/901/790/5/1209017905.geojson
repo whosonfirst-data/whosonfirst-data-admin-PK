@@ -1,0 +1,67 @@
+{
+  "id": 1209017905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69806,32.64361,69.69806,32.64361",
+    "geom:latitude":32.64361,
+    "geom:longitude":69.69806,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kao Khulla",
+    "gn:country_code":"PK",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107651,
+    "gn:latitude":32.64361,
+    "gn:longitude":69.69806,
+    "gn:modification_date":"2005-03-10",
+    "gn:name":"Kao Khulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107651
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a9f559d871b2b38b049057b70f6a39b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1209017905,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209017905,
+    "wof:lastmodified":1543515350,
+    "wof:name":"Kao Khulla",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69806,
+    32.64361,
+    69.69806,
+    32.64361
+],
+  "geometry": {"coordinates":[69.69806,32.64361],"type":"Point"}
+}

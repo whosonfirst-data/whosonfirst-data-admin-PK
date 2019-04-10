@@ -1,0 +1,67 @@
+{
+  "id": 1242971561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65743,35.19316,72.65743,35.19316",
+    "geom:latitude":35.19316,
+    "geom:longitude":72.65743,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khad",
+    "gn:country_code":"PK",
+    "gn:dem":3035,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478781,
+    "gn:latitude":35.19316,
+    "gn:longitude":72.65743,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Khad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478781
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cfc6565c4bf2ed3b5f13018c1dc0ccc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242971561,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242971561,
+    "wof:lastmodified":1536992390,
+    "wof:name":"Khad",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65743,
+    35.19316,
+    72.65743,
+    35.19316
+],
+  "geometry": {"coordinates":[72.65743000000001,35.19316],"type":"Point"}
+}

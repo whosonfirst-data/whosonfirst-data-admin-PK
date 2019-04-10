@@ -1,0 +1,67 @@
+{
+  "id": 1193142867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.82445,31.6517,72.82445,31.6517",
+    "geom:latitude":31.6517,
+    "geom:longitude":72.82445,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bandewala",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382388,
+    "gn:latitude":31.6517,
+    "gn:longitude":72.82445,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bandewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382388
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1a4ff87da8ff859bf62b1f31d2c388bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":1193142867,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193142867,
+    "wof:lastmodified":1536364707,
+    "wof:name":"Bandewala",
+    "wof:parent_id":1108692155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.82445,
+    31.6517,
+    72.82445,
+    31.6517
+],
+  "geometry": {"coordinates":[72.82445,31.6517],"type":"Point"}
+}

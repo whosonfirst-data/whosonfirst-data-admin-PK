@@ -1,0 +1,71 @@
+{
+  "id": 1343567875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32299,33.99618,72.32299,33.99618",
+    "geom:latitude":33.99618,
+    "geom:longitude":72.32299,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tano",
+    "gn:country_code":"PK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163896,
+    "gn:latitude":33.99618,
+    "gn:longitude":72.32299,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tanon",
+        "Tano"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163896
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6291939457611a0c98405c42aa33fa57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692397,
+            "locality_id":1343567875,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343567875,
+    "wof:lastmodified":1537679246,
+    "wof:name":"Tano",
+    "wof:parent_id":1108692397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32299,
+    33.99618,
+    72.32299,
+    33.99618
+],
+  "geometry": {"coordinates":[72.32299,33.99618],"type":"Point"}
+}

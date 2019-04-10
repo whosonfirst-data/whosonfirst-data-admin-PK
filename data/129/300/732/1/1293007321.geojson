@@ -1,0 +1,67 @@
+{
+  "id": 1293007321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.61587,35.55125,72.61587,35.55125",
+    "geom:latitude":35.55125,
+    "geom:longitude":72.61587,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gadas",
+    "gn:country_code":"PK",
+    "gn:dem":3625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023337,
+    "gn:latitude":35.55125,
+    "gn:longitude":72.61587,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gadas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023337
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2554bcf7fb2ffc1c8d668db03f86f316",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1293007321,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293007321,
+    "wof:lastmodified":1536981504,
+    "wof:name":"Gadas",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.61587,
+    35.55125,
+    72.61587,
+    35.55125
+],
+  "geometry": {"coordinates":[72.61587,35.55125],"type":"Point"}
+}

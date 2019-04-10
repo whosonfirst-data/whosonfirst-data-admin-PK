@@ -1,0 +1,67 @@
+{
+  "id": 1225953281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.895,32.70944,69.895,32.70944",
+    "geom:latitude":32.70944,
+    "geom:longitude":69.895,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Labaran",
+    "gn:country_code":"PK",
+    "gn:dem":2007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1453492,
+    "gn:latitude":32.70944,
+    "gn:longitude":69.895,
+    "gn:modification_date":"2005-04-25",
+    "gn:name":"Labaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1453492
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebaa689ea6b1aa2f5eeb803770932eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1225953281,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225953281,
+    "wof:lastmodified":1543515610,
+    "wof:name":"Labaran",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.895,
+    32.70944,
+    69.895,
+    32.70944
+],
+  "geometry": {"coordinates":[69.895,32.70944],"type":"Point"}
+}

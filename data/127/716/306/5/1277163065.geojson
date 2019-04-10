@@ -1,0 +1,78 @@
+{
+  "id": 1277163065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.1466,35.01909,76.1466,35.01909",
+    "geom:latitude":35.01909,
+    "geom:longitude":76.1466,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Vaziri Gund",
+    "gn:country_code":"PK",
+    "gn:dem":2746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418436,
+    "gn:latitude":35.01909,
+    "gn:longitude":76.1466,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Vaziri Gund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418436
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"72edceaba696ce5c1a9f6ebfec0b08f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1277163065,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1277163065,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277163065,
+    "wof:lastmodified":1536651768,
+    "wof:name":"Vaziri Gund",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.1466,
+    35.01909000000001,
+    76.1466,
+    35.01909000000001
+],
+  "geometry": {"coordinates":[76.14660000000001,35.01909000000001],"type":"Point"}
+}

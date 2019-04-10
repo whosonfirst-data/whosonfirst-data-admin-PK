@@ -1,0 +1,78 @@
+{
+  "id": 1327319427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.49219,35.87863,74.49219,35.87863",
+    "geom:latitude":35.87863,
+    "geom:longitude":74.49219,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jalalabad",
+    "gn:country_code":"PK",
+    "gn:dem":1436,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069511,
+    "gn:latitude":35.87863,
+    "gn:longitude":74.49219,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Jalalabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069511
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9a1aa5d66e6f2ed547d69f7d1253bd4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1327319427,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1327319427,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327319427,
+    "wof:lastmodified":1536842985,
+    "wof:name":"Jalalabad",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.49219000000002,
+    35.87863,
+    74.49219000000002,
+    35.87863
+],
+  "geometry": {"coordinates":[74.49219000000002,35.87863],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293293481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.7331,34.63666,72.7331,34.63666",
+    "geom:latitude":34.63666,
+    "geom:longitude":72.7331,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Piskand",
+    "gn:country_code":"PK",
+    "gn:dem":728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167816,
+    "gn:latitude":34.63666,
+    "gn:longitude":72.7331,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Piskand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012bshkanda",
+        "Pushkaund",
+        "P\u012bshkand",
+        "Piskand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167816
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2f36640e64e0cd9d4b740a4ccf426079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1293293481,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293293481,
+    "wof:lastmodified":1537679374,
+    "wof:name":"Piskand",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.7331,
+    34.63666,
+    72.7331,
+    34.63666
+],
+  "geometry": {"coordinates":[72.73309999999999,34.63666],"type":"Point"}
+}

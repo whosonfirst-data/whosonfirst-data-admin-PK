@@ -1,0 +1,74 @@
+{
+  "id": 1327431151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25881,32.6693,74.25881,32.6693",
+    "geom:latitude":32.6693,
+    "geom:longitude":74.25881,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lakhanwal Khas",
+    "gn:country_code":"PK",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172396,
+    "gn:latitude":32.6693,
+    "gn:longitude":74.25881,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Lakhanwal Khas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokhanwal Khas",
+        "Lakhanwal",
+        "Lakhanw\u0101l Kh\u0101s",
+        "Lakhanwal Khurd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172396,
+        "wk:page":"Lakhanwal"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca74e8f76e02307c22e6652e6eb89d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1327431151,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327431151,
+    "wof:lastmodified":1537679534,
+    "wof:name":"Lakhanwal Khas",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25881,
+    32.6693,
+    74.25881,
+    32.6693
+],
+  "geometry": {"coordinates":[74.25881,32.6693],"type":"Point"}
+}

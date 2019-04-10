@@ -1,0 +1,67 @@
+{
+  "id": 1293013137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.11511,30.56983,69.11511,30.56983",
+    "geom:latitude":30.56983,
+    "geom:longitude":69.11511,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Gorkhai",
+    "gn:country_code":"PK",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397288,
+    "gn:latitude":30.56983,
+    "gn:longitude":69.11511,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Gorkhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397288
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0e747773ea969429c1f69a6a30692cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1293013137,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293013137,
+    "wof:lastmodified":1536973385,
+    "wof:name":"Gorkhai",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.11511,
+    30.56983,
+    69.11511,
+    30.56983
+],
+  "geometry": {"coordinates":[69.11511,30.56983],"type":"Point"}
+}

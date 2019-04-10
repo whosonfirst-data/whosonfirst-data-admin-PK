@@ -1,0 +1,67 @@
+{
+  "id": 1360286265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.69401,34.71606,72.69401,34.71606",
+    "geom:latitude":34.71606,
+    "geom:longitude":72.69401,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Dande",
+    "gn:country_code":"PK",
+    "gn:dem":1117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390790,
+    "gn:latitude":34.71606,
+    "gn:longitude":72.69401,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Dande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390790
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2dbf9a692afe35b435c5559bfaa8e8a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1360286265,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360286265,
+    "wof:lastmodified":1543515324,
+    "wof:name":"Dande",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.69400999999998,
+    34.71606,
+    72.69400999999998,
+    34.71606
+],
+  "geometry": {"coordinates":[72.69400999999998,34.71606],"type":"Point"}
+}

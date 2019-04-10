@@ -1,0 +1,67 @@
+{
+  "id": 1259884307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54725,24.2131,67.54725,24.2131",
+    "geom:latitude":24.2131,
+    "geom:longitude":67.54725,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Katto",
+    "gn:country_code":"PK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1108356,
+    "gn:latitude":24.2131,
+    "gn:longitude":67.54725,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Katto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1108356
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"124d0db4ff7465f7df61d37e75c5c435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692411,
+            "locality_id":1259884307,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259884307,
+    "wof:lastmodified":1536778429,
+    "wof:name":"Katto",
+    "wof:parent_id":1108692411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54725,
+    24.2131,
+    67.54725,
+    24.2131
+],
+  "geometry": {"coordinates":[67.54725000000001,24.2131],"type":"Point"}
+}

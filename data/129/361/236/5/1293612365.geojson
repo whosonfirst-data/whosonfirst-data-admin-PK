@@ -1,0 +1,67 @@
+{
+  "id": 1293612365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.8886,30.14201,70.8886,30.14201",
+    "geom:latitude":30.14201,
+    "geom:longitude":70.8886,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kurka",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11178624,
+    "gn:latitude":30.14201,
+    "gn:longitude":70.8886,
+    "gn:modification_date":"2016-06-06",
+    "gn:name":"Kurka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11178624
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"adaaec27b0ce0b2b2c21a9cfe596c45f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1293612365,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293612365,
+    "wof:lastmodified":1536604085,
+    "wof:name":"Kurka",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.8886,
+    30.14201,
+    70.8886,
+    30.14201
+],
+  "geometry": {"coordinates":[70.8886,30.14201],"type":"Point"}
+}

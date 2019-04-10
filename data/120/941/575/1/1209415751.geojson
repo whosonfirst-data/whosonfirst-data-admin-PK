@@ -1,0 +1,67 @@
+{
+  "id": 1209415751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47564,34.2388,73.47564,34.2388",
+    "geom:latitude":34.2388,
+    "geom:longitude":73.47564,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Geri",
+    "gn:country_code":"PK",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407525,
+    "gn:latitude":34.2388,
+    "gn:longitude":73.47564,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Geri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407525
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"adab539bd7119c7fab481f98313f505d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209415751,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209415751,
+    "wof:lastmodified":1543515610,
+    "wof:name":"Geri",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47564,
+    34.2388,
+    73.47564,
+    34.2388
+],
+  "geometry": {"coordinates":[73.47564,34.2388],"type":"Point"}
+}

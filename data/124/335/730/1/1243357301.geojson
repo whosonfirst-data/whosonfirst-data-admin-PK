@@ -1,0 +1,81 @@
+{
+  "id": 1243357301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.14294,35.39323,76.14294,35.39323",
+    "geom:latitude":35.39323,
+    "geom:longitude":76.14294,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khusumik Bransa",
+    "gn:country_code":"PK",
+    "gn:dem":3776,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173672,
+    "gn:latitude":35.39323,
+    "gn:longitude":76.14294,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Khusumik Bransa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khusomik"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173672
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a9fee49389d1e6fc40c33566744da05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1243357301,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1243357301,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243357301,
+    "wof:lastmodified":1537679581,
+    "wof:name":"Khusumik Bransa",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.14294,
+    35.39323,
+    76.14294,
+    35.39323
+],
+  "geometry": {"coordinates":[76.14294,35.39323],"type":"Point"}
+}

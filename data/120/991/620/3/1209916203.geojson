@@ -1,0 +1,67 @@
+{
+  "id": 1209916203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09192,31.1132,70.09192,31.1132",
+    "geom:latitude":31.1132,
+    "geom:longitude":70.09192,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gat",
+    "gn:country_code":"PK",
+    "gn:dem":963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311414,
+    "gn:latitude":31.1132,
+    "gn:longitude":70.09192,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Gat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311414
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b056b644bd89cc168f07ea732d33d377",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1209916203,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209916203,
+    "wof:lastmodified":1536373474,
+    "wof:name":"Gat",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09192,
+    31.1132,
+    70.09192,
+    31.1132
+],
+  "geometry": {"coordinates":[70.09192,31.1132],"type":"Point"}
+}

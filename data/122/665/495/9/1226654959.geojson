@@ -1,0 +1,67 @@
+{
+  "id": 1226654959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.74833,32.60472,69.74833,32.60472",
+    "geom:latitude":32.60472,
+    "geom:longitude":69.74833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Larima",
+    "gn:country_code":"PK",
+    "gn:dem":2344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107668,
+    "gn:latitude":32.60472,
+    "gn:longitude":69.74833,
+    "gn:modification_date":"2005-03-10",
+    "gn:name":"Larima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107668
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fb6591b2b7f18587ecdb7b275e2e90c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1226654959,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226654959,
+    "wof:lastmodified":1536844990,
+    "wof:name":"Larima",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.74833000000001,
+    32.60472,
+    69.74833000000001,
+    32.60472
+],
+  "geometry": {"coordinates":[69.74833000000001,32.60472],"type":"Point"}
+}

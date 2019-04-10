@@ -1,0 +1,67 @@
+{
+  "id": 1193017101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28539,33.97591,73.28539,33.97591",
+    "geom:latitude":33.97591,
+    "geom:longitude":73.28539,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maherlan",
+    "gn:country_code":"PK",
+    "gn:dem":1246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7077310,
+    "gn:latitude":33.97591,
+    "gn:longitude":73.28539,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Maherlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7077310
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4603271bceaad1e6bb2a00941f2b2c62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1193017101,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193017101,
+    "wof:lastmodified":1543515410,
+    "wof:name":"Maherlan",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28539,
+    33.97591,
+    73.28539,
+    33.97591
+],
+  "geometry": {"coordinates":[73.28539000000001,33.97591],"type":"Point"}
+}

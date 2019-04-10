@@ -1,0 +1,81 @@
+{
+  "id": 1293096011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.67575,33.55004,73.67575,33.55004",
+    "geom:latitude":33.55004,
+    "geom:longitude":73.67575,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dalya",
+    "gn:country_code":"PK",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100611,
+    "gn:latitude":33.55004,
+    "gn:longitude":73.67575,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Dalya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhaliot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100611
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3766d618b6da887ca10a14911eb6ecb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293096011,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293096011,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293096011,
+    "wof:lastmodified":1537681692,
+    "wof:name":"Dalya",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.67575,
+    33.55004,
+    73.67575,
+    33.55004
+],
+  "geometry": {"coordinates":[73.67574999999999,33.55004],"type":"Point"}
+}

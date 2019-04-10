@@ -1,0 +1,67 @@
+{
+  "id": 1326622875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83209,28.08676,68.83209,28.08676",
+    "geom:latitude":28.08676,
+    "geom:longitude":68.83209,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kali",
+    "gn:country_code":"PK",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397103,
+    "gn:latitude":28.08676,
+    "gn:longitude":68.83209,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Kali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397103
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"89302ddbfa303b1d954005783fc11b43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692379,
+            "locality_id":1326622875,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1326622875,
+    "wof:lastmodified":1536852245,
+    "wof:name":"Kali",
+    "wof:parent_id":1108692379,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83209000000001,
+    28.08676,
+    68.83209000000001,
+    28.08676
+],
+  "geometry": {"coordinates":[68.83209000000001,28.08676],"type":"Point"}
+}

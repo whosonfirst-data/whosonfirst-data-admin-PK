@@ -1,0 +1,67 @@
+{
+  "id": 1242578273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88455,34.95616,71.88455,34.95616",
+    "geom:latitude":34.95616,
+    "geom:longitude":71.88455,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Chanrigo",
+    "gn:country_code":"PK",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110920,
+    "gn:latitude":34.95616,
+    "gn:longitude":71.88455,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Chanrigo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110920
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e07c2434e72c454568d82b358c5a359f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1242578273,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578273,
+    "wof:lastmodified":1543515374,
+    "wof:name":"Chanrigo",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88455,
+    34.95616,
+    71.88455,
+    34.95616
+],
+  "geometry": {"coordinates":[71.88455,34.95616],"type":"Point"}
+}

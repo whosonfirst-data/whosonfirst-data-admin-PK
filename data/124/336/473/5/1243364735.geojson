@@ -1,0 +1,71 @@
+{
+  "id": 1243364735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88914,33.79716,72.88914,33.79716",
+    "geom:latitude":33.79716,
+    "geom:longitude":72.88914,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Mumrhal",
+    "gn:country_code":"PK",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169802,
+    "gn:latitude":33.79716,
+    "gn:longitude":72.88914,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Mumrhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mamarhal",
+        "Mumrhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169802
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c34f35db34525403feae4ed86b8f060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1243364735,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243364735,
+    "wof:lastmodified":1537679444,
+    "wof:name":"Mumrhal",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88914,
+    33.79716,
+    72.88914,
+    33.79716
+],
+  "geometry": {"coordinates":[72.88914,33.79716],"type":"Point"}
+}

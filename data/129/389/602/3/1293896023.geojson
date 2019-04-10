@@ -1,0 +1,67 @@
+{
+  "id": 1293896023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.22167,31.01833,69.22167,31.01833",
+    "geom:latitude":31.01833,
+    "geom:longitude":69.22167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Toranzai",
+    "gn:country_code":"PK",
+    "gn:dem":1463,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305605,
+    "gn:latitude":31.01833,
+    "gn:longitude":69.22167,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Toranzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305605
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d1f65fc390181810cd00891d84939e73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1293896023,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293896023,
+    "wof:lastmodified":1536695454,
+    "wof:name":"Toranzai",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.22166999999999,
+    31.01833,
+    69.22166999999999,
+    31.01833
+],
+  "geometry": {"coordinates":[69.22166999999999,31.01833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259389445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95045,35.1411,71.95045,35.1411",
+    "geom:latitude":35.1411,
+    "geom:longitude":71.95045,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barwaza",
+    "gn:country_code":"PK",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138197,
+    "gn:latitude":35.1411,
+    "gn:longitude":71.95045,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Barwaza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138197
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10d8f765c56cb03cf743bf877d0831b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1259389445,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259389445,
+    "wof:lastmodified":1536992779,
+    "wof:name":"Barwaza",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95045,
+    35.1411,
+    71.95045,
+    35.1411
+],
+  "geometry": {"coordinates":[71.95045,35.1411],"type":"Point"}
+}

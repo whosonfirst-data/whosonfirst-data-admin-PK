@@ -1,0 +1,67 @@
+{
+  "id": 1310312953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.37404,30.27545,69.37404,30.27545",
+    "geom:latitude":30.27545,
+    "geom:longitude":69.37404,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Asad",
+    "gn:country_code":"PK",
+    "gn:dem":1271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1353627,
+    "gn:latitude":30.27545,
+    "gn:longitude":69.37404,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Asad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353627
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b9f50f2223edf2028fadd62d290b4ae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1310312953,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310312953,
+    "wof:lastmodified":1536697318,
+    "wof:name":"Asad",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.37404000000001,
+    30.27545,
+    69.37404000000001,
+    30.27545
+],
+  "geometry": {"coordinates":[69.37404000000001,30.27545],"type":"Point"}
+}

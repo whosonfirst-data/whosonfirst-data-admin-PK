@@ -1,0 +1,71 @@
+{
+  "id": 1260190579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.22393,25.72414,62.22393,25.72414",
+    "geom:latitude":25.72414,
+    "geom:longitude":62.22393,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kumbil",
+    "gn:country_code":"PK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336632,
+    "gn:latitude":25.72414,
+    "gn:longitude":62.22393,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kumbil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Konbal",
+        "Kumbil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336632
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6525f5d9508f06283b8b7ee2e1d2c3b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1260190579,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260190579,
+    "wof:lastmodified":1537680141,
+    "wof:name":"Kumbil",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.22393,
+    25.72414,
+    62.22393,
+    25.72414
+],
+  "geometry": {"coordinates":[62.22393,25.72414],"type":"Point"}
+}

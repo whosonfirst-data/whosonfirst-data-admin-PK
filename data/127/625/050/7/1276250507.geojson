@@ -1,0 +1,86 @@
+{
+  "id": 1276250507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.74525,33.1424,73.74525,33.1424",
+    "geom:latitude":33.1424,
+    "geom:longitude":73.74525,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bala Gala",
+    "gn:country_code":"PK",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101554,
+    "gn:latitude":33.1424,
+    "gn:longitude":73.74525,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Bala Gala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101554
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f21cc72256dcd3d14fe0ab0b21c37285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1276250507,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1276250507,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1276250507,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276250507,
+    "wof:lastmodified":1536889311,
+    "wof:name":"Bala Gala",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.74525,
+    33.1424,
+    73.74525,
+    33.1424
+],
+  "geometry": {"coordinates":[73.74525,33.1424],"type":"Point"}
+}

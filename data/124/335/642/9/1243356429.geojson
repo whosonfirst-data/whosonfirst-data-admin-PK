@@ -1,0 +1,67 @@
+{
+  "id": 1243356429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.82448,25.4503,68.82448,25.4503",
+    "geom:latitude":25.4503,
+    "geom:longitude":68.82448,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kamaro Sharif",
+    "gn:country_code":"PK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1360246,
+    "gn:latitude":25.4503,
+    "gn:longitude":68.82448,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kamaro Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692401
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1360246
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0eb497840254fbff65d4c923b22f5d77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692401,
+            "locality_id":1243356429,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243356429,
+    "wof:lastmodified":1536936124,
+    "wof:name":"Kamaro Sharif",
+    "wof:parent_id":1108692401,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.82448000000001,
+    25.4503,
+    68.82448000000001,
+    25.4503
+],
+  "geometry": {"coordinates":[68.82448000000001,25.4503],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242676063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.12072,26.16248,68.12072,26.16248",
+    "geom:latitude":26.16248,
+    "geom:longitude":68.12072,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mad",
+    "gn:country_code":"PK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171705,
+    "gn:latitude":26.16248,
+    "gn:longitude":68.12072,
+    "gn:modification_date":"2016-11-21",
+    "gn:name":"Mad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171705
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"45cb427a620665b729a9c339b479284b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692371,
+            "locality_id":1242676063,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242676063,
+    "wof:lastmodified":1536922635,
+    "wof:name":"Mad",
+    "wof:parent_id":1108692371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.12071999999999,
+    26.16248,
+    68.12071999999999,
+    26.16248
+],
+  "geometry": {"coordinates":[68.12071999999999,26.16248],"type":"Point"}
+}

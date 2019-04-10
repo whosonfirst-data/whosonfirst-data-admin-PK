@@ -1,0 +1,67 @@
+{
+  "id": 1243371373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72684,30.85983,67.72684,30.85983",
+    "geom:latitude":30.85983,
+    "geom:longitude":67.72684,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Mandak",
+    "gn:country_code":"PK",
+    "gn:dem":1926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171149,
+    "gn:latitude":30.85983,
+    "gn:longitude":67.72684,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Mandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171149
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1b805962d56e72864b249906dfb841f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1243371373,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243371373,
+    "wof:lastmodified":1536914227,
+    "wof:name":"Mandak",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72684,
+    30.85983,
+    67.72684,
+    30.85983
+],
+  "geometry": {"coordinates":[67.72684,30.85983],"type":"Point"}
+}

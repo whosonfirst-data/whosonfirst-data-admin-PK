@@ -1,0 +1,78 @@
+{
+  "id": 1293684073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87046,33.4264,73.87046,33.4264",
+    "geom:latitude":33.4264,
+    "geom:longitude":73.87046,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tharochi",
+    "gn:country_code":"PK",
+    "gn:dem":846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163605,
+    "gn:latitude":33.4264,
+    "gn:longitude":73.87046,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Tharochi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163605
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a9073374fc7fa0903b398eaad31251c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293684073,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293684073,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293684073,
+    "wof:lastmodified":1537000237,
+    "wof:name":"Tharochi",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87046,
+    33.4264,
+    73.87046,
+    33.4264
+],
+  "geometry": {"coordinates":[73.87045999999999,33.4264],"type":"Point"}
+}

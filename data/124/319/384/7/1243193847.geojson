@@ -1,0 +1,90 @@
+{
+  "id": 1243193847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.85889,33.14933,73.85889,33.14933",
+    "geom:latitude":33.14933,
+    "geom:longitude":73.85889,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Paljura",
+    "gn:country_code":"PK",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1386371,
+    "gn:latitude":33.14933,
+    "gn:longitude":73.85889,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Paljura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "New Pajora",
+        "Paljura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386371
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"441588e5abad3b7bfe2858ce1db47664",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1243193847,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1243193847,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1243193847,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243193847,
+    "wof:lastmodified":1537680860,
+    "wof:name":"Paljura",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.85889,
+    33.14933,
+    73.85889,
+    33.14933
+],
+  "geometry": {"coordinates":[73.85889,33.14933],"type":"Point"}
+}

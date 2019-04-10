@@ -1,0 +1,67 @@
+{
+  "id": 1343863975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.85649,32.79767,73.85649,32.79767",
+    "geom:latitude":32.79767,
+    "geom:longitude":73.85649,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dallu",
+    "gn:country_code":"PK",
+    "gn:dem":282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069023,
+    "gn:latitude":32.79767,
+    "gn:longitude":73.85649,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dallu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069023
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1610cf85ee6484ba4637465f8cff2fdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1343863975,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343863975,
+    "wof:lastmodified":1536661529,
+    "wof:name":"Dallu",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.85649000000002,
+    32.79767,
+    73.85649000000002,
+    32.79767
+],
+  "geometry": {"coordinates":[73.85649000000002,32.79767],"type":"Point"}
+}

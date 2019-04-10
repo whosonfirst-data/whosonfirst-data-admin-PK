@@ -1,0 +1,67 @@
+{
+  "id": 1243455621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.46493,34.56237,72.46493,34.56237",
+    "geom:latitude":34.56237,
+    "geom:longitude":72.46493,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khura",
+    "gn:country_code":"PK",
+    "gn:dem":801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11414843,
+    "gn:latitude":34.56237,
+    "gn:longitude":72.46493,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Khura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11414843
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"86f8b4130108328de0f894c665d360e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1243455621,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243455621,
+    "wof:lastmodified":1536792588,
+    "wof:name":"Khura",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.46493000000002,
+    34.56237,
+    72.46493000000002,
+    34.56237
+],
+  "geometry": {"coordinates":[72.46493000000002,34.56237],"type":"Point"}
+}

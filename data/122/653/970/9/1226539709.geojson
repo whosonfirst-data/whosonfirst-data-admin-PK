@@ -1,0 +1,67 @@
+{
+  "id": 1226539709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.39897,30.16065,71.39897,30.16065",
+    "geom:latitude":30.16065,
+    "geom:longitude":71.39897,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gangiwala",
+    "gn:country_code":"PK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348933,
+    "gn:latitude":30.16065,
+    "gn:longitude":71.39897,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gangiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348933
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec09c049d7108c7b365e3d290240a077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1226539709,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226539709,
+    "wof:lastmodified":1537006030,
+    "wof:name":"Gangiwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.39896999999998,
+    30.16065,
+    71.39896999999998,
+    30.16065
+],
+  "geometry": {"coordinates":[71.39896999999998,30.16065],"type":"Point"}
+}

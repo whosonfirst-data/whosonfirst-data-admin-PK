@@ -1,0 +1,67 @@
+{
+  "id": 1243567903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90532,31.90485,69.90532,31.90485",
+    "geom:latitude":31.90485,
+    "geom:longitude":69.90532,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Chaparah",
+    "gn:country_code":"PK",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1425970,
+    "gn:latitude":31.90485,
+    "gn:longitude":69.90532,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Chaparah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425970
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c4e961624e470b1683e864d81d9166b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1243567903,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243567903,
+    "wof:lastmodified":1536628730,
+    "wof:name":"Chaparah",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90531999999999,
+    31.90485,
+    69.90531999999999,
+    31.90485
+],
+  "geometry": {"coordinates":[69.90531999999999,31.90485],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276340665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.52451,31.97249,72.52451,31.97249",
+    "geom:latitude":31.97249,
+    "geom:longitude":72.52451,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Arab",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11483162,
+    "gn:latitude":31.97249,
+    "gn:longitude":72.52451,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Arab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11483162
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe62876ea28fc03703216ccdc3198ee3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1276340665,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276340665,
+    "wof:lastmodified":1536769092,
+    "wof:name":"Arab",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.52450999999998,
+    31.97249,
+    72.52450999999998,
+    31.97249
+],
+  "geometry": {"coordinates":[72.52450999999998,31.97249],"type":"Point"}
+}

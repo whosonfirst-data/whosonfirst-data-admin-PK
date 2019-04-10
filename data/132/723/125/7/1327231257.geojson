@@ -1,0 +1,67 @@
+{
+  "id": 1327231257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67393,32.26792,72.67393,32.26792",
+    "geom:latitude":32.26792,
+    "geom:longitude":72.67393,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lak",
+    "gn:country_code":"PK",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172426,
+    "gn:latitude":32.26792,
+    "gn:longitude":72.67393,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Lak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172426
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e8cb86ecaa57515fb277d884705de0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1327231257,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327231257,
+    "wof:lastmodified":1536970878,
+    "wof:name":"Lak",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67393,
+    32.26792,
+    72.67393,
+    32.26792
+],
+  "geometry": {"coordinates":[72.67393,32.26792],"type":"Point"}
+}

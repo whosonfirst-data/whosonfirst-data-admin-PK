@@ -1,0 +1,67 @@
+{
+  "id": 1309804351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73859,34.18953,72.73859,34.18953",
+    "geom:latitude":34.18953,
+    "geom:longitude":72.73859,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Narunjo",
+    "gn:country_code":"PK",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11411783,
+    "gn:latitude":34.18953,
+    "gn:longitude":72.73859,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Narunjo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11411783
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"de9baaa50acf8ec3723f8f12a95f1e69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692397,
+            "locality_id":1309804351,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309804351,
+    "wof:lastmodified":1536933899,
+    "wof:name":"Narunjo",
+    "wof:parent_id":1108692397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73859,
+    34.18953,
+    72.73859,
+    34.18953
+],
+  "geometry": {"coordinates":[72.73859,34.18953],"type":"Point"}
+}

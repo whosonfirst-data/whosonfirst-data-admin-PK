@@ -1,0 +1,67 @@
+{
+  "id": 1259383487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.80888,34.23234,72.80888,34.23234",
+    "geom:latitude":34.23234,
+    "geom:longitude":72.80888,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sathana",
+    "gn:country_code":"PK",
+    "gn:dem":429,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1379053,
+    "gn:latitude":34.23234,
+    "gn:longitude":72.80888,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Sathana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379053
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"479d3423dabac93ed9b1bd35705eb3a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1259383487,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259383487,
+    "wof:lastmodified":1537001516,
+    "wof:name":"Sathana",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.80888,
+    34.23234,
+    72.80888,
+    34.23234
+],
+  "geometry": {"coordinates":[72.80888,34.23234],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293412973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90511,32.14344,73.90511,32.14344",
+    "geom:latitude":32.14344,
+    "geom:longitude":73.90511,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hamboke",
+    "gn:country_code":"PK",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177240,
+    "gn:latitude":32.14344,
+    "gn:longitude":73.90511,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Hamboke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177240
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cb31d583d4945161a4bc4742706919dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1293412973,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293412973,
+    "wof:lastmodified":1536894245,
+    "wof:name":"Hamboke",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90511,
+    32.14344000000001,
+    73.90511,
+    32.14344000000001
+],
+  "geometry": {"coordinates":[73.90510999999999,32.14344000000001],"type":"Point"}
+}

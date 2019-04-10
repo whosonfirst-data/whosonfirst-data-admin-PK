@@ -1,0 +1,67 @@
+{
+  "id": 1309908115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.4773,28.6543,66.4773,28.6543",
+    "geom:latitude":28.6543,
+    "geom:longitude":66.4773,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gamesh",
+    "gn:country_code":"PK",
+    "gn:dem":2213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227986,
+    "gn:latitude":28.6543,
+    "gn:longitude":66.4773,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Gamesh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227986
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"84d01ed8f7dd10edce154c6aba278ed3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1309908115,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309908115,
+    "wof:lastmodified":1536784088,
+    "wof:name":"Gamesh",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.4773,
+    28.6543,
+    66.4773,
+    28.6543
+],
+  "geometry": {"coordinates":[66.4773,28.6543],"type":"Point"}
+}

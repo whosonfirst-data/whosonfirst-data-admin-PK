@@ -1,0 +1,81 @@
+{
+  "id": 1259876967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.10338,33.93556,74.10338,33.93556",
+    "geom:latitude":33.93556,
+    "geom:longitude":74.10338,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Shahbaz Khan",
+    "gn:country_code":"PK",
+    "gn:dem":2067,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414903,
+    "gn:latitude":33.93556,
+    "gn:longitude":74.10338,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shahbaz Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101hbaz Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414903
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ef1ab808db22d5bdd997431bb3a2d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259876967,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259876967,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259876967,
+    "wof:lastmodified":1537681350,
+    "wof:name":"Shahbaz Khan",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.10338,
+    33.93556,
+    74.10338,
+    33.93556
+],
+  "geometry": {"coordinates":[74.10338,33.93556],"type":"Point"}
+}

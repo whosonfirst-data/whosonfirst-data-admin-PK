@@ -1,0 +1,67 @@
+{
+  "id": 1209817601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.49308,28.31038,64.49308,28.31038",
+    "geom:latitude":28.31038,
+    "geom:longitude":64.49308,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kabal Chah",
+    "gn:country_code":"PK",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7067232,
+    "gn:latitude":28.31038,
+    "gn:longitude":64.49308,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kabal Chah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7067232
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd3139d448e000ccad2ed45860d89b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1209817601,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209817601,
+    "wof:lastmodified":1536382223,
+    "wof:name":"Kabal Chah",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.49308,
+    28.31038,
+    64.49308,
+    28.31038
+],
+  "geometry": {"coordinates":[64.49308000000001,28.31038],"type":"Point"}
+}

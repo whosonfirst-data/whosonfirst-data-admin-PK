@@ -1,0 +1,78 @@
+{
+  "id": 1293781249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.21791,33.93933,74.21791,33.93933",
+    "geom:latitude":33.93933,
+    "geom:longitude":74.21791,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ure",
+    "gn:country_code":"PK",
+    "gn:dem":2265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414968,
+    "gn:latitude":33.93933,
+    "gn:longitude":74.21791,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Ure",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414968
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4bb085049552a188028cf6dae632399a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293781249,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293781249,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293781249,
+    "wof:lastmodified":1536859334,
+    "wof:name":"Ure",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.21791,
+    33.93933,
+    74.21791,
+    33.93933
+],
+  "geometry": {"coordinates":[74.21791,33.93933],"type":"Point"}
+}

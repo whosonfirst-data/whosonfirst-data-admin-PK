@@ -1,0 +1,67 @@
+{
+  "id": 1225946401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.70826,27.23281,65.70826,27.23281",
+    "geom:latitude":27.23281,
+    "geom:longitude":65.70826,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nokjo",
+    "gn:country_code":"PK",
+    "gn:dem":1115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7579927,
+    "gn:latitude":27.23281,
+    "gn:longitude":65.70826,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Nokjo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7579927
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"547167197801abcd8a1381dc3c36d58c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1225946401,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1225946401,
+    "wof:lastmodified":1536867136,
+    "wof:name":"Nokjo",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.70826,
+    27.23281,
+    65.70826,
+    27.23281
+],
+  "geometry": {"coordinates":[65.70826,27.23281],"type":"Point"}
+}

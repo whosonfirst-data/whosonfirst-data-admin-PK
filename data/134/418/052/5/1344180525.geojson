@@ -1,0 +1,67 @@
+{
+  "id": 1344180525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24278,32.626,71.24278,32.626",
+    "geom:latitude":32.626,
+    "geom:longitude":71.24278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Karamdadwala",
+    "gn:country_code":"PK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365560,
+    "gn:latitude":32.626,
+    "gn:longitude":71.24278,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Karamdadwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365560
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"41e355d478a205c5e5638abc5d1a6049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1344180525,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344180525,
+    "wof:lastmodified":1536702648,
+    "wof:name":"Karamdadwala",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24278000000002,
+    32.626,
+    71.24278000000002,
+    32.626
+],
+  "geometry": {"coordinates":[71.24278000000002,32.626],"type":"Point"}
+}

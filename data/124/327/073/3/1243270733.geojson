@@ -1,0 +1,67 @@
+{
+  "id": 1243270733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96803,34.48711,72.96803,34.48711",
+    "geom:latitude":34.48711,
+    "geom:longitude":72.96803,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Birbat",
+    "gn:country_code":"PK",
+    "gn:dem":1213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378859,
+    "gn:latitude":34.48711,
+    "gn:longitude":72.96803,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Birbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378859
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e7fe88c45f3ca09296f45d6f801d97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1243270733,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1243270733,
+    "wof:lastmodified":1543515783,
+    "wof:name":"Birbat",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96803,
+    34.48710999999999,
+    72.96803,
+    34.48710999999999
+],
+  "geometry": {"coordinates":[72.96803,34.48710999999999],"type":"Point"}
+}

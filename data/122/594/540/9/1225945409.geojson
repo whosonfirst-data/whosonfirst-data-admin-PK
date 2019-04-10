@@ -1,0 +1,67 @@
+{
+  "id": 1225945409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19985,34.25527,73.19985,34.25527",
+    "geom:latitude":34.25527,
+    "geom:longitude":73.19985,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mahavelian",
+    "gn:country_code":"PK",
+    "gn:dem":1265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389993,
+    "gn:latitude":34.25527,
+    "gn:longitude":73.19985,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mahavelian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389993
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7a50eda2e17e07160033112b5e9bc766",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1225945409,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945409,
+    "wof:lastmodified":1543515681,
+    "wof:name":"Mahavelian",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19985,
+    34.25527,
+    73.19985,
+    34.25527
+],
+  "geometry": {"coordinates":[73.19985,34.25527],"type":"Point"}
+}

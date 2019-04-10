@@ -1,0 +1,78 @@
+{
+  "id": 1260072041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8965,34.26684,73.8965,34.26684",
+    "geom:latitude":34.26684,
+    "geom:longitude":73.8965,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kuth Nar Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":2503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415840,
+    "gn:latitude":34.26684,
+    "gn:longitude":73.8965,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kuth Nar Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415840
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2495d87e5e03683ef65f62e835bab654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260072041,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260072041,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260072041,
+    "wof:lastmodified":1537003785,
+    "wof:name":"Kuth Nar Baihk",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8965,
+    34.26684,
+    73.8965,
+    34.26684
+],
+  "geometry": {"coordinates":[73.8965,34.26684],"type":"Point"}
+}

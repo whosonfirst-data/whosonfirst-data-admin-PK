@@ -1,0 +1,67 @@
+{
+  "id": 1344064769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.14216,30.397,68.14216,30.397",
+    "geom:latitude":30.397,
+    "geom:longitude":68.14216,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Atlarai",
+    "gn:country_code":"PK",
+    "gn:dem":2074,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366067,
+    "gn:latitude":30.397,
+    "gn:longitude":68.14216,
+    "gn:modification_date":"2016-05-09",
+    "gn:name":"Atlarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366067
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc52e5a4d42af489743d9afb4c5a51d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1344064769,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344064769,
+    "wof:lastmodified":1536868089,
+    "wof:name":"Atlarai",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.14216,
+    30.397,
+    68.14216,
+    30.397
+],
+  "geometry": {"coordinates":[68.14216,30.397],"type":"Point"}
+}

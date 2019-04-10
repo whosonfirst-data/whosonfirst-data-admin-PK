@@ -1,0 +1,67 @@
+{
+  "id": 1225858515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.93245,33.79255,70.93245,33.79255",
+    "geom:latitude":33.79255,
+    "geom:longitude":70.93245,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mashari",
+    "gn:country_code":"PK",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446696,
+    "gn:latitude":33.79255,
+    "gn:longitude":70.93245,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Mashari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446696
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"361291d6a944d0d43a5bfc6e076452ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1225858515,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225858515,
+    "wof:lastmodified":1543515499,
+    "wof:name":"Mashari",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.93245,
+    33.79255,
+    70.93245,
+    33.79255
+],
+  "geometry": {"coordinates":[70.93245,33.79255],"type":"Point"}
+}

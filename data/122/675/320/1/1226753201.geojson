@@ -1,0 +1,67 @@
+{
+  "id": 1226753201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71389,30.69028,73.71389,30.69028",
+    "geom:latitude":30.69028,
+    "geom:longitude":73.71389,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Wanjhal",
+    "gn:country_code":"PK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416960,
+    "gn:latitude":30.69028,
+    "gn:longitude":73.71389,
+    "gn:modification_date":"2002-01-16",
+    "gn:name":"Wanjhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416960
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"580568ecdb92c6f123d04bc4e8f768d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1226753201,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226753201,
+    "wof:lastmodified":1536705012,
+    "wof:name":"Wanjhal",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71389,
+    30.69028,
+    73.71389,
+    30.69028
+],
+  "geometry": {"coordinates":[73.71389000000001,30.69028],"type":"Point"}
+}

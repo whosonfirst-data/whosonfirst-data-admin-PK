@@ -1,0 +1,67 @@
+{
+  "id": 1242976069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55207,33.58334,73.55207,33.58334",
+    "geom:latitude":33.58334,
+    "geom:longitude":73.55207,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sundal",
+    "gn:country_code":"PK",
+    "gn:dem":600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100293,
+    "gn:latitude":33.58334,
+    "gn:longitude":73.55207,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sundal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100293
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0acb76c6563258bfca9348e59e965e9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1242976069,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242976069,
+    "wof:lastmodified":1536985835,
+    "wof:name":"Sundal",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55207,
+    33.58334,
+    73.55207,
+    33.58334
+],
+  "geometry": {"coordinates":[73.55207,33.58334],"type":"Point"}
+}

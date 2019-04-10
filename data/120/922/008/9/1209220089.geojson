@@ -1,0 +1,64 @@
+{
+  "id": 1209220089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82085,31.29474,73.82085,31.29474",
+    "geom:latitude":31.29474,
+    "geom:longitude":73.82085,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Haraya",
+    "gn:country_code":"PK",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388358,
+    "gn:latitude":31.29474,
+    "gn:longitude":73.82085,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Haraya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haryaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388358
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a73f78e0fb9a477f6f6c6640dd0e08c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209220089
+        }
+    ],
+    "wof:id":1209220089,
+    "wof:lastmodified":1537680912,
+    "wof:name":"Haraya",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82085,
+    31.29474,
+    73.82085,
+    31.29474
+],
+  "geometry": {"coordinates":[73.82084999999999,31.29474],"type":"Point"}
+}

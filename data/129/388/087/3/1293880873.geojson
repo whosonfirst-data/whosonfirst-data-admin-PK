@@ -1,0 +1,78 @@
+{
+  "id": 1293880873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76702,34.55429,73.76702,34.55429",
+    "geom:latitude":34.55429,
+    "geom:longitude":73.76702,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mari",
+    "gn:country_code":"PK",
+    "gn:dem":2132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415997,
+    "gn:latitude":34.55429,
+    "gn:longitude":73.76702,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415997
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6df070680f1975456066dd2c35d48c15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1293880873,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1293880873,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293880873,
+    "wof:lastmodified":1536717496,
+    "wof:name":"Mari",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76702,
+    34.55429,
+    73.76702,
+    34.55429
+],
+  "geometry": {"coordinates":[73.76702,34.55429],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226242255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.53984,30.52749,71.53984,30.52749",
+    "geom:latitude":30.52749,
+    "geom:longitude":71.53984,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shamlat",
+    "gn:country_code":"PK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567591,
+    "gn:latitude":30.52749,
+    "gn:longitude":71.53984,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Shamlat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567591
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c3580c2c2bc1a2569c7aa810092ab5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1226242255,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226242255,
+    "wof:lastmodified":1536939390,
+    "wof:name":"Shamlat",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.53984,
+    30.52749,
+    71.53984,
+    30.52749
+],
+  "geometry": {"coordinates":[71.53984,30.52749],"type":"Point"}
+}

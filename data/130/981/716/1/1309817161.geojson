@@ -1,0 +1,70 @@
+{
+  "id": 1309817161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.88888,32.59329,69.88888,32.59329",
+    "geom:latitude":32.59329,
+    "geom:longitude":69.88888,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Shakhah",
+    "gn:country_code":"PK",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1426400,
+    "gn:latitude":32.59329,
+    "gn:longitude":69.88888,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Shakhah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shakha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1426400
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"549824437cebc54298ab5669866451f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1309817161,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309817161,
+    "wof:lastmodified":1537681494,
+    "wof:name":"Shakhah",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.88888,
+    32.59329,
+    69.88888,
+    32.59329
+],
+  "geometry": {"coordinates":[69.88888,32.59329],"type":"Point"}
+}

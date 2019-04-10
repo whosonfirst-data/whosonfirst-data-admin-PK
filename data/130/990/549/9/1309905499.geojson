@@ -1,0 +1,67 @@
+{
+  "id": 1309905499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12778,31.5675,74.12778,31.5675",
+    "geom:latitude":31.5675,
+    "geom:longitude":74.12778,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kotha",
+    "gn:country_code":"PK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330527,
+    "gn:latitude":31.5675,
+    "gn:longitude":74.12778,
+    "gn:modification_date":"1999-03-17",
+    "gn:name":"Kotha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330527
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca762063d0c89a6c73f1d2e91f645a32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1309905499,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309905499,
+    "wof:lastmodified":1536787848,
+    "wof:name":"Kotha",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12778,
+    31.5675,
+    74.12778,
+    31.5675
+],
+  "geometry": {"coordinates":[74.12778,31.5675],"type":"Point"}
+}

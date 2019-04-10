@@ -1,0 +1,67 @@
+{
+  "id": 1242972961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.36771,28.50509,65.36771,28.50509",
+    "geom:latitude":28.50509,
+    "geom:longitude":65.36771,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gazzi",
+    "gn:country_code":"PK",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8533980,
+    "gn:latitude":28.50509,
+    "gn:longitude":65.36771,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Gazzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8533980
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05e76d9855eb7882c0e094dd6f4b239a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1242972961,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242972961,
+    "wof:lastmodified":1536990345,
+    "wof:name":"Gazzi",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.36771,
+    28.50509000000001,
+    65.36771,
+    28.50509000000001
+],
+  "geometry": {"coordinates":[65.36771,28.50509000000001],"type":"Point"}
+}

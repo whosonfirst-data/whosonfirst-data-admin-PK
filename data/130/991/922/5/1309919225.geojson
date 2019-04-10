@@ -1,0 +1,67 @@
+{
+  "id": 1309919225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55475,33.71078,70.55475,33.71078",
+    "geom:latitude":33.71078,
+    "geom:longitude":70.55475,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Talai",
+    "gn:country_code":"PK",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110471,
+    "gn:latitude":33.71078,
+    "gn:longitude":70.55475,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Talai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110471
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e4d4b64a839cedbb0a16347f51a061a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1309919225,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309919225,
+    "wof:lastmodified":1536767945,
+    "wof:name":"Talai",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55475,
+    33.71078,
+    70.55475,
+    33.71078
+],
+  "geometry": {"coordinates":[70.55475,33.71078],"type":"Point"}
+}

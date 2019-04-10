@@ -1,0 +1,67 @@
+{
+  "id": 890455191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.37105,25.85335,62.37105,25.85335",
+    "geom:latitude":25.85335,
+    "geom:longitude":62.37105,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:pop":80,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Jat"
+    ],
+    "qs:name":"Jath",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176052,
+        "gp:id":2201460,
+        "qs:id":84334
+    },
+    "wof:country":"PK",
+    "wof:created":1469052937,
+    "wof:geomhash":"efbc040912ae9250a6e34056e44b1501",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":890455191,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":890455191,
+    "wof:lastmodified":1505343661,
+    "wof:name":"Jath",
+    "wof:parent_id":85675733,
+    "wof:placetype":"locality",
+    "wof:population":80,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.37105,
+    25.85335,
+    62.37105,
+    25.85335
+],
+  "geometry": {"coordinates":[62.37105,25.85335],"type":"Point"}
+}

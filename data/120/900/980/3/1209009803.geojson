@@ -1,0 +1,64 @@
+{
+  "id": 1209009803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.35713,30.62609,71.35713,30.62609",
+    "geom:latitude":30.62609,
+    "geom:longitude":71.35713,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chah Pirwala",
+    "gn:country_code":"PK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409440,
+    "gn:latitude":30.62609,
+    "gn:longitude":71.35713,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chah Pirwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012brw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409440
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d4ce5a8aa3ee96f8c7cdc4e07b451001",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209009803
+        }
+    ],
+    "wof:id":1209009803,
+    "wof:lastmodified":1537681240,
+    "wof:name":"Chah Pirwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.35713,
+    30.62609,
+    71.35713,
+    30.62609
+],
+  "geometry": {"coordinates":[71.35713,30.62609],"type":"Point"}
+}

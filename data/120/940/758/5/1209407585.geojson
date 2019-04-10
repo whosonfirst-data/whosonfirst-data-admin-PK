@@ -1,0 +1,66 @@
+{
+  "id": 1209407585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6,28.23333,68.6,28.23333",
+    "geom:latitude":28.23333,
+    "geom:longitude":68.6,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ghania",
+    "gn:cc2":"PK",
+    "gn:country_code":"PK",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178636,
+    "gn:latitude":28.23333,
+    "gn:longitude":68.6,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Ghania",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghunia",
+        "Ghania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178636
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a002f448a963ce1926118395f7ae3c73",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209407585
+        }
+    ],
+    "wof:id":1209407585,
+    "wof:lastmodified":1537679754,
+    "wof:name":"Ghania",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6,
+    28.23333,
+    68.6,
+    28.23333
+],
+  "geometry": {"coordinates":[68.59999999999999,28.23333],"type":"Point"}
+}

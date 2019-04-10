@@ -1,0 +1,67 @@
+{
+  "id": 1193018177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.25,28.46667,68.25,28.46667",
+    "geom:latitude":28.46667,
+    "geom:longitude":68.25,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Damb",
+    "gn:country_code":"PK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180678,
+    "gn:latitude":28.46667,
+    "gn:longitude":68.25,
+    "gn:modification_date":"1996-01-24",
+    "gn:name":"Damb",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180678
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f666024038d964f9dbd9b0aac25a763",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1193018177,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193018177,
+    "wof:lastmodified":1536376175,
+    "wof:name":"Damb",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.25,
+    28.46667,
+    68.25,
+    28.46667
+],
+  "geometry": {"coordinates":[68.25,28.46667],"type":"Point"}
+}

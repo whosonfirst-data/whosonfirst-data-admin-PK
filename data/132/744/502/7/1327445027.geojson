@@ -1,0 +1,67 @@
+{
+  "id": 1327445027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.57343,33.12262,70.57343,33.12262",
+    "geom:latitude":33.12262,
+    "geom:longitude":70.57343,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Talaum",
+    "gn:country_code":"PK",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335877,
+    "gn:latitude":33.12262,
+    "gn:longitude":70.57343,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Talaum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692173
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335877
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"85b888ce287a692a820c54963d544329",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692173,
+            "locality_id":1327445027,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1327445027,
+    "wof:lastmodified":1536662475,
+    "wof:name":"Talaum",
+    "wof:parent_id":1108692173,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.57343,
+    33.12262,
+    70.57343,
+    33.12262
+],
+  "geometry": {"coordinates":[70.57343,33.12262],"type":"Point"}
+}

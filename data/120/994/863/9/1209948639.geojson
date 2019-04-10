@@ -1,0 +1,67 @@
+{
+  "id": 1209948639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6303,30.87296,71.6303,30.87296",
+    "geom:latitude":30.87296,
+    "geom:longitude":71.6303,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghulamwala",
+    "gn:country_code":"PK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392211,
+    "gn:latitude":30.87296,
+    "gn:longitude":71.6303,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ghulamwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392211
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b13781acfc232dd3be5391f57a1aa364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1209948639,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209948639,
+    "wof:lastmodified":1536385211,
+    "wof:name":"Ghulamwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6303,
+    30.87296,
+    71.6303,
+    30.87296
+],
+  "geometry": {"coordinates":[71.63030000000001,30.87296],"type":"Point"}
+}

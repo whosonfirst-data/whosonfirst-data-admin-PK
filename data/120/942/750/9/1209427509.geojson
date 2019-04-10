@@ -1,0 +1,65 @@
+{
+  "id": 1209427509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.51474,25.63426,63.51474,25.63426",
+    "geom:latitude":25.63426,
+    "geom:longitude":63.51474,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Sebadagan",
+    "gn:country_code":"PK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165816,
+    "gn:latitude":25.63426,
+    "gn:longitude":63.51474,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Sebadagan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sebadgan",
+        "Sebadagan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165816
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d1eb4388bb93f7b87585c79ae856355b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209427509
+        }
+    ],
+    "wof:id":1209427509,
+    "wof:lastmodified":1537679301,
+    "wof:name":"Sebadagan",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.51474,
+    25.63426,
+    63.51474,
+    25.63426
+],
+  "geometry": {"coordinates":[63.51474,25.63426],"type":"Point"}
+}

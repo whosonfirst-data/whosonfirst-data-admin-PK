@@ -1,0 +1,67 @@
+{
+  "id": 1243068555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95613,34.93815,71.95613,34.93815",
+    "geom:latitude":34.93815,
+    "geom:longitude":71.95613,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bar Lalu",
+    "gn:country_code":"PK",
+    "gn:dem":1243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110953,
+    "gn:latitude":34.93815,
+    "gn:longitude":71.95613,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bar Lalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110953
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc3cb100c0865db3a7997e2fd31fdab3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1243068555,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243068555,
+    "wof:lastmodified":1536852185,
+    "wof:name":"Bar Lalu",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95613,
+    34.93815,
+    71.95613,
+    34.93815
+],
+  "geometry": {"coordinates":[71.95613,34.93815],"type":"Point"}
+}

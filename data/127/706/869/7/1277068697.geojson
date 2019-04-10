@@ -1,0 +1,78 @@
+{
+  "id": 1277068697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.70438,33.96586,73.70438,33.96586",
+    "geom:latitude":33.96586,
+    "geom:longitude":73.70438,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kafalgarh",
+    "gn:country_code":"PK",
+    "gn:dem":1354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096945,
+    "gn:latitude":33.96586,
+    "gn:longitude":73.70438,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kafalgarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096945
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"545adba56036be58c4135abe25334c17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1277068697,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1277068697,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277068697,
+    "wof:lastmodified":1536788349,
+    "wof:name":"Kafalgarh",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70438,
+    33.96586,
+    73.70438,
+    33.96586
+],
+  "geometry": {"coordinates":[73.70438,33.96586],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259689445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65321,31.13857,70.65321,31.13857",
+    "geom:latitude":31.13857,
+    "geom:longitude":70.65321,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kathgarh",
+    "gn:country_code":"PK",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174590,
+    "gn:latitude":31.13857,
+    "gn:longitude":70.65321,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kathgarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174590
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9f4dab4ff012b716a97577fcaf50d076",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1259689445,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259689445,
+    "wof:lastmodified":1537055944,
+    "wof:name":"Kathgarh",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65321,
+    31.13857,
+    70.65321,
+    31.13857
+],
+  "geometry": {"coordinates":[70.65321,31.13857],"type":"Point"}
+}

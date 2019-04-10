@@ -1,0 +1,67 @@
+{
+  "id": 1326753653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.80218,31.64498,72.80218,31.64498",
+    "geom:latitude":31.64498,
+    "geom:longitude":72.80218,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Lodia",
+    "gn:country_code":"PK",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171962,
+    "gn:latitude":31.64498,
+    "gn:longitude":72.80218,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Lodia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692155
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171962
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2489e472a58acbf206460c81a8895d44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":1326753653,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326753653,
+    "wof:lastmodified":1536664832,
+    "wof:name":"Lodia",
+    "wof:parent_id":1108692155,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.80218,
+    31.64498,
+    72.80218,
+    31.64498
+],
+  "geometry": {"coordinates":[72.80218000000001,31.64498],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242580963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46833,32.44,69.46833,32.44",
+    "geom:latitude":32.44,
+    "geom:longitude":69.46833,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Roghzai",
+    "gn:country_code":"PK",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107820,
+    "gn:latitude":32.44,
+    "gn:longitude":69.46833,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Roghzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pishai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107820
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1c3ed43a1515c4bc7a316f860d84e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1242580963,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242580963,
+    "wof:lastmodified":1543515393,
+    "wof:name":"Roghzai",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46833000000001,
+    32.44,
+    69.46833000000001,
+    32.44
+],
+  "geometry": {"coordinates":[69.46833000000001,32.44],"type":"Point"}
+}

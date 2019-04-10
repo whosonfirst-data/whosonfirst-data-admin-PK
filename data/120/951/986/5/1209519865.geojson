@@ -1,0 +1,61 @@
+{
+  "id": 1209519865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02868,27.36132,69.02868,27.36132",
+    "geom:latitude":27.36132,
+    "geom:longitude":69.02868,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Asgharabad",
+    "gn:country_code":"PK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11374389,
+    "gn:latitude":27.36132,
+    "gn:longitude":69.02868,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Asgharabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11374389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"097a954b20dc2fd3ccf7f84e1bf8bd84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209519865
+        }
+    ],
+    "wof:id":1209519865,
+    "wof:lastmodified":1536284615,
+    "wof:name":"Asgharabad",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02868000000001,
+    27.361320000000006,
+    69.02868000000001,
+    27.361320000000006
+],
+  "geometry": {"coordinates":[69.02868000000001,27.36132000000001],"type":"Point"}
+}

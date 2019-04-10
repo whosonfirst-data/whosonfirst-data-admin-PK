@@ -1,0 +1,78 @@
+{
+  "id": 1242674921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49695,34.41435,73.49695,34.41435",
+    "geom:latitude":34.41435,
+    "geom:longitude":73.49695,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Ghotar",
+    "gn:country_code":"PK",
+    "gn:dem":1193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997529,
+    "gn:latitude":34.41435,
+    "gn:longitude":73.49695,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Ghotar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997529
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"209e145272cea744045c1d0f958571c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1242674921,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1242674921,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242674921,
+    "wof:lastmodified":1536924341,
+    "wof:name":"Ghotar",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49695,
+    34.41435,
+    73.49695,
+    34.41435
+],
+  "geometry": {"coordinates":[73.49695,34.41435],"type":"Point"}
+}

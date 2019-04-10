@@ -1,0 +1,67 @@
+{
+  "id": 1310007009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92681,34.40944,72.92681,34.40944",
+    "geom:latitude":34.40944,
+    "geom:longitude":72.92681,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bins",
+    "gn:country_code":"PK",
+    "gn:dem":1282,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378671,
+    "gn:latitude":34.40944,
+    "gn:longitude":72.92681,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Bins",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378671
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7431e7b6a184aa015e28b0af4be018bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1310007009,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310007009,
+    "wof:lastmodified":1536640186,
+    "wof:name":"Bins",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92681,
+    34.40944,
+    72.92681,
+    34.40944
+],
+  "geometry": {"coordinates":[72.92681,34.40944],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243090891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49819,33.69094,73.49819,33.69094",
+    "geom:latitude":33.69094,
+    "geom:longitude":73.49819,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baith",
+    "gn:country_code":"PK",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441760,
+    "gn:latitude":33.69094,
+    "gn:longitude":73.49819,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Baith",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441760
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"23dc347c9ef591ba7bf4dd23fafe0a5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1243090891,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243090891,
+    "wof:lastmodified":1536820173,
+    "wof:name":"Baith",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49819000000002,
+    33.69094,
+    73.49819000000002,
+    33.69094
+],
+  "geometry": {"coordinates":[73.49819000000002,33.69094],"type":"Point"}
+}

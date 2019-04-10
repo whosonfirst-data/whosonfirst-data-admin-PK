@@ -1,0 +1,67 @@
+{
+  "id": 1310206123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02916,32.12193,71.02916,32.12193",
+    "geom:latitude":32.12193,
+    "geom:longitude":71.02916,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bagwani",
+    "gn:country_code":"PK",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7318954,
+    "gn:latitude":32.12193,
+    "gn:longitude":71.02916,
+    "gn:modification_date":"2010-08-06",
+    "gn:name":"Bagw\u0101ni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7318954
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8d30924cc6be4fd5274b246aa78e1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1310206123,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310206123,
+    "wof:lastmodified":1536850257,
+    "wof:name":"Bagwani",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02916,
+    32.12193,
+    71.02916,
+    32.12193
+],
+  "geometry": {"coordinates":[71.02916,32.12193],"type":"Point"}
+}

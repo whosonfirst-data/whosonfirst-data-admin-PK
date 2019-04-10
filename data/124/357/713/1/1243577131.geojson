@@ -1,0 +1,67 @@
+{
+  "id": 1243577131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44903,32.06535,71.44903,32.06535",
+    "geom:latitude":32.06535,
+    "geom:longitude":71.44903,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Awananwala",
+    "gn:country_code":"PK",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140203,
+    "gn:latitude":32.06535,
+    "gn:longitude":71.44903,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Awananwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140203
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"341d8277958f20b4e1cd2005af5d9497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1243577131,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243577131,
+    "wof:lastmodified":1536614907,
+    "wof:name":"Awananwala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44903000000002,
+    32.06535,
+    71.44903000000002,
+    32.06535
+],
+  "geometry": {"coordinates":[71.44903000000002,32.06535],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343366749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43008,31.02962,69.43008,31.02962",
+    "geom:latitude":31.02962,
+    "geom:longitude":69.43008,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khuranai",
+    "gn:country_code":"PK",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337633,
+    "gn:latitude":31.02962,
+    "gn:longitude":69.43008,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Khuranai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khar\u0101p\u0101ni Kili",
+        "Khuranai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337633
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa78f17a630f9ce6c4666bcd72ed527d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1343366749,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343366749,
+    "wof:lastmodified":1537680148,
+    "wof:name":"Khuranai",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43008,
+    31.02962,
+    69.43008,
+    31.02962
+],
+  "geometry": {"coordinates":[69.43008,31.02962],"type":"Point"}
+}

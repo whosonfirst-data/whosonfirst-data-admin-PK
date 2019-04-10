@@ -1,0 +1,67 @@
+{
+  "id": 1327466055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04202,32.87098,72.04202,32.87098",
+    "geom:latitude":32.87098,
+    "geom:longitude":72.04202,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sukka",
+    "gn:country_code":"PK",
+    "gn:dem":406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164410,
+    "gn:latitude":32.87098,
+    "gn:longitude":72.04202,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Sukka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164410
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0f4e452b86df99ca26e5a6c3382d8f90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1327466055,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327466055,
+    "wof:lastmodified":1536630666,
+    "wof:name":"Sukka",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04202,
+    32.87098,
+    72.04202,
+    32.87098
+],
+  "geometry": {"coordinates":[72.04201999999999,32.87098],"type":"Point"}
+}

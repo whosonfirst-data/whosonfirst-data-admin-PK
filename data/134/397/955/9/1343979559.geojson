@@ -1,0 +1,82 @@
+{
+  "id": 1343979559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.92385,33.03304,73.92385,33.03304",
+    "geom:latitude":33.03304,
+    "geom:longitude":73.92385,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kanbi",
+    "gn:country_code":"PK",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386505,
+    "gn:latitude":33.03304,
+    "gn:longitude":73.92385,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kanbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khambi",
+        "Kanbi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386505
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e24fcca89d6c3cbe80764236a49cd653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343979559,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343979559,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343979559,
+    "wof:lastmodified":1537680864,
+    "wof:name":"Kanbi",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.92385,
+    33.03304,
+    73.92385,
+    33.03304
+],
+  "geometry": {"coordinates":[73.92385,33.03304],"type":"Point"}
+}

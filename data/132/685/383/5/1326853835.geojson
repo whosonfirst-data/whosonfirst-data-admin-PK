@@ -1,0 +1,67 @@
+{
+  "id": 1326853835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.94848,32.76138,73.94848,32.76138",
+    "geom:latitude":32.76138,
+    "geom:longitude":73.94848,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daho",
+    "gn:country_code":"PK",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069036,
+    "gn:latitude":32.76138,
+    "gn:longitude":73.94848,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Daho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069036
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea1669773bb1a8c75232b0a4b5a7c1de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1326853835,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326853835,
+    "wof:lastmodified":1537016932,
+    "wof:name":"Daho",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.94848,
+    32.76138,
+    73.94848,
+    32.76138
+],
+  "geometry": {"coordinates":[73.94848,32.76138],"type":"Point"}
+}

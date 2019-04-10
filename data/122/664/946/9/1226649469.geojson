@@ -1,0 +1,67 @@
+{
+  "id": 1226649469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.01164,33.98253,71.01164,33.98253",
+    "geom:latitude":33.98253,
+    "geom:longitude":71.01164,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Halwai",
+    "gn:country_code":"PK",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177248,
+    "gn:latitude":33.98253,
+    "gn:longitude":71.01164,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Halwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4187b21566339a1c95746dc07640b554",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1226649469,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226649469,
+    "wof:lastmodified":1536852917,
+    "wof:name":"Halwai",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.01164,
+    33.98253,
+    71.01164,
+    33.98253
+],
+  "geometry": {"coordinates":[71.01164,33.98253],"type":"Point"}
+}

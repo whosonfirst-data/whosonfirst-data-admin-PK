@@ -1,0 +1,71 @@
+{
+  "id": 1225945301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07984,33.90798,72.07984,33.90798",
+    "geom:latitude":33.90798,
+    "geom:longitude":72.07984,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Manhai",
+    "gn:country_code":"PK",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171013,
+    "gn:latitude":33.90798,
+    "gn:longitude":72.07984,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Manhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manai",
+        "Manhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171013
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65dfdb7f03254bac408e232c37cdc918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1225945301,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945301,
+    "wof:lastmodified":1543515673,
+    "wof:name":"Manhai",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07984,
+    33.90798,
+    72.07984,
+    33.90798
+],
+  "geometry": {"coordinates":[72.07984,33.90798],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209106843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8402,33.96691,72.8402,33.96691",
+    "geom:latitude":33.96691,
+    "geom:longitude":72.8402,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kamalpur",
+    "gn:country_code":"PK",
+    "gn:dem":462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338726,
+    "gn:latitude":33.96691,
+    "gn:longitude":72.8402,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kamalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338726
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"063c1e43c9e0acaa7394d43e94c42ebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1209106843,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209106843,
+    "wof:lastmodified":1543515451,
+    "wof:name":"Kamalpur",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8402,
+    33.96691,
+    72.8402,
+    33.96691
+],
+  "geometry": {"coordinates":[72.8402,33.96691],"type":"Point"}
+}

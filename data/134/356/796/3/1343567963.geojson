@@ -1,0 +1,67 @@
+{
+  "id": 1343567963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15063,35.54422,73.15063,35.54422",
+    "geom:latitude":35.54422,
+    "geom:longitude":73.15063,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Siri",
+    "gn:country_code":"PK",
+    "gn:dem":2376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000416,
+    "gn:latitude":35.54422,
+    "gn:longitude":73.15063,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Siri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000416
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09e064156b07b290d2c5fc7fbe8b45ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1343567963,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343567963,
+    "wof:lastmodified":1537085408,
+    "wof:name":"Siri",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15063,
+    35.54422,
+    73.15063,
+    35.54422
+],
+  "geometry": {"coordinates":[73.15063000000001,35.54422],"type":"Point"}
+}

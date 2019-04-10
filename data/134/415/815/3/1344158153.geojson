@@ -1,0 +1,67 @@
+{
+  "id": 1344158153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.83949,34.174,72.83949,34.174",
+    "geom:latitude":34.174,
+    "geom:longitude":72.83949,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khanpur",
+    "gn:country_code":"PK",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421290,
+    "gn:latitude":34.174,
+    "gn:longitude":72.83949,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Khanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421290
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"042ec574fd79e344b143d2be292dfd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1344158153,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344158153,
+    "wof:lastmodified":1536734786,
+    "wof:name":"Khanpur",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.83949,
+    34.174,
+    72.83949,
+    34.174
+],
+  "geometry": {"coordinates":[72.83949,34.174],"type":"Point"}
+}

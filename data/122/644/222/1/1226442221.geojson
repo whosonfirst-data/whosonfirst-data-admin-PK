@@ -1,0 +1,67 @@
+{
+  "id": 1226442221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39276,30.29803,73.39276,30.29803",
+    "geom:latitude":30.29803,
+    "geom:longitude":73.39276,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Alam Dhuddi",
+    "gn:country_code":"PK",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416539,
+    "gn:latitude":30.29803,
+    "gn:longitude":73.39276,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Alam Dhuddi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416539
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c106ff7d643e638725d25adc20f84344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1226442221,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226442221,
+    "wof:lastmodified":1536650372,
+    "wof:name":"Alam Dhuddi",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39276,
+    30.29803,
+    73.39276,
+    30.29803
+],
+  "geometry": {"coordinates":[73.39276,30.29803],"type":"Point"}
+}

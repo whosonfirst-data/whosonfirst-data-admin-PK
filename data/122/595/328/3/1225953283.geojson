@@ -1,0 +1,72 @@
+{
+  "id": 1225953283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.47222,32.43139,69.47222,32.43139",
+    "geom:latitude":32.43139,
+    "geom:longitude":69.47222,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Shindai",
+    "gn:cc2":"PK",
+    "gn:country_code":"PK",
+    "gn:dem":1888,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107825,
+    "gn:latitude":32.43139,
+    "gn:longitude":69.47222,
+    "gn:modification_date":"2012-01-16",
+    "gn:name":"Shindai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shindal",
+        "Shindai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107825
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31698c2a6fd674c87672834f4311a24e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1225953283,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225953283,
+    "wof:lastmodified":1543515608,
+    "wof:name":"Shindai",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.47222,
+    32.43139,
+    69.47222,
+    32.43139
+],
+  "geometry": {"coordinates":[69.47221999999999,32.43139],"type":"Point"}
+}

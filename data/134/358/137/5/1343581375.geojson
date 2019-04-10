@@ -1,0 +1,83 @@
+{
+  "id": 1343581375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.83202,35.05187,74.83202,35.05187",
+    "geom:latitude":35.05187,
+    "geom:longitude":74.83202,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Darle Pain",
+    "gn:country_code":"PK",
+    "gn:dem":2826,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180495,
+    "gn:latitude":35.05187,
+    "gn:longitude":74.83202,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Darle Pain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darle",
+        "Darle P\u0101\u012bn",
+        "Darle Pain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180495
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"df341dc340e537e09ed98fc231595334",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343581375,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343581375,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343581375,
+    "wof:lastmodified":1537679822,
+    "wof:name":"Darle Pain",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.83202,
+    35.05187,
+    74.83202,
+    35.05187
+],
+  "geometry": {"coordinates":[74.83202,35.05187],"type":"Point"}
+}

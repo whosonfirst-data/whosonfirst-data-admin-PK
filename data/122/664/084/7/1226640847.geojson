@@ -1,0 +1,81 @@
+{
+  "id": 1226640847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61859,33.90089,73.61859,33.90089",
+    "geom:latitude":33.90089,
+    "geom:longitude":73.61859,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tain",
+    "gn:country_code":"PK",
+    "gn:dem":1124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164141,
+    "gn:latitude":33.90089,
+    "gn:longitude":73.61859,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u0101\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164141
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"32aacfa68f0f2ed18424a194c4394d2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1226640847,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1226640847,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226640847,
+    "wof:lastmodified":1537679253,
+    "wof:name":"Tain",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61859,
+    33.90089,
+    73.61859,
+    33.90089
+],
+  "geometry": {"coordinates":[73.61859,33.90089],"type":"Point"}
+}

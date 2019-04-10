@@ -1,0 +1,81 @@
+{
+  "id": 1125865743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.91673,29.62382,71.91673,29.62382",
+    "geom:latitude":29.62382,
+    "geom:longitude":71.91673,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":69743,
+    "gn:population":69743,
+    "iso:country":"PK",
+    "lbl:latitude":29.62382,
+    "lbl:longitude":71.91673,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Kharor"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1175446,
+    "qs_pg:gn_pop":69743,
+    "qs_pg:name":"Kohror Pakka",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":130797,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175446,
+        "qs_pg:id":130797
+    },
+    "wof:country":"PK",
+    "wof:created":1497294031,
+    "wof:geomhash":"362f65d77f4c20fbdfae169df4d37d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1125865743,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125865743,
+    "wof:lastmodified":1509396972,
+    "wof:name":"Kohror Pakka",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:population":69743,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.91673,
+    29.62382,
+    71.91673,
+    29.62382
+],
+  "geometry": {"coordinates":[71.91673,29.62382],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1242994597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00494,33.41742,74.00494,33.41742",
+    "geom:latitude":33.41742,
+    "geom:longitude":74.00494,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Radbahl",
+    "gn:country_code":"PK",
+    "gn:dem":678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415075,
+    "gn:latitude":33.41742,
+    "gn:longitude":74.00494,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Radbahl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Radbohl"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415075
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5a5239e12ec36cf69079619ef54f389a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1242994597,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1242994597,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242994597,
+    "wof:lastmodified":1537681355,
+    "wof:name":"Radbahl",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00494,
+    33.41742,
+    74.00494,
+    33.41742
+],
+  "geometry": {"coordinates":[74.00494,33.41742],"type":"Point"}
+}

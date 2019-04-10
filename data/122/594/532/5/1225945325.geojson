@@ -1,0 +1,67 @@
+{
+  "id": 1225945325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.1257,33.07726,71.1257,33.07726",
+    "geom:latitude":33.07726,
+    "geom:longitude":71.1257,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dabli",
+    "gn:country_code":"PK",
+    "gn:dem":647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180857,
+    "gn:latitude":33.07726,
+    "gn:longitude":71.1257,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Dabli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180857
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f95d689c79a5e5e97552044548358563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1225945325,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945325,
+    "wof:lastmodified":1543515677,
+    "wof:name":"Dabli",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.1257,
+    33.07726,
+    71.1257,
+    33.07726
+],
+  "geometry": {"coordinates":[71.12569999999999,33.07726],"type":"Point"}
+}

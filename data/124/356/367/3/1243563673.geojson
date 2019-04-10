@@ -1,0 +1,67 @@
+{
+  "id": 1243563673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3423,33.83754,70.3423,33.83754",
+    "geom:latitude":33.83754,
+    "geom:longitude":70.3423,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Aud",
+    "gn:country_code":"PK",
+    "gn:dem":2359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343491,
+    "gn:latitude":33.83754,
+    "gn:longitude":70.3423,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Aud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343491
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d5068cca48b56ab835846997f5982ae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1243563673,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243563673,
+    "wof:lastmodified":1536635257,
+    "wof:name":"Aud",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3423,
+    33.83754,
+    70.3423,
+    33.83754
+],
+  "geometry": {"coordinates":[70.34229999999999,33.83754],"type":"Point"}
+}

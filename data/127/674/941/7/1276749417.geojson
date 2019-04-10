@@ -1,0 +1,89 @@
+{
+  "id": 1276749417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01936,36.20857,74.01936,36.20857",
+    "geom:latitude":36.20857,
+    "geom:longitude":74.01936,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dogah",
+    "gn:country_code":"PK",
+    "gn:dem":3624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427847,
+    "gn:latitude":36.20857,
+    "gn:longitude":74.01936,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Dogah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Karaedar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427847
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7603cdb0a686927e41830abc342f595d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1276749417,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1276749417,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1276749417,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276749417,
+    "wof:lastmodified":1537681913,
+    "wof:name":"Dogah",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01935999999998,
+    36.20857,
+    74.01935999999998,
+    36.20857
+],
+  "geometry": {"coordinates":[74.01935999999998,36.20857],"type":"Point"}
+}

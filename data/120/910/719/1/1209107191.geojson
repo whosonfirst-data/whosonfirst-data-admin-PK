@@ -1,0 +1,67 @@
+{
+  "id": 1209107191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.92033,31.89795,70.92033,31.89795",
+    "geom:latitude":31.89795,
+    "geom:longitude":70.92033,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Singhar",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1427209,
+    "gn:latitude":31.89795,
+    "gn:longitude":70.92033,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Singhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1427209
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"afaa7cf1302eefff9dee1df852290279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1209107191,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209107191,
+    "wof:lastmodified":1543515457,
+    "wof:name":"Singhar",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.92033,
+    31.89795,
+    70.92033,
+    31.89795
+],
+  "geometry": {"coordinates":[70.92033000000001,31.89795],"type":"Point"}
+}

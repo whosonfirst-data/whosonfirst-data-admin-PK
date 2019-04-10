@@ -1,0 +1,67 @@
+{
+  "id": 1293103087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15116,24.78393,68.15116,24.78393",
+    "geom:latitude":24.78393,
+    "geom:longitude":68.15116,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ahmad Sola",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371567,
+    "gn:latitude":24.78393,
+    "gn:longitude":68.15116,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Ahmad Sola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371567
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"545c77a5208ada5e5d1c24eb74c96286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692393,
+            "locality_id":1293103087,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293103087,
+    "wof:lastmodified":1536843167,
+    "wof:name":"Ahmad Sola",
+    "wof:parent_id":1108692393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15116,
+    24.78393,
+    68.15116,
+    24.78393
+],
+  "geometry": {"coordinates":[68.15116,24.78393],"type":"Point"}
+}

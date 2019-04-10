@@ -1,0 +1,67 @@
+{
+  "id": 1293004991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.55528,27.05902,68.55528,27.05902",
+    "geom:latitude":27.05902,
+    "geom:longitude":68.55528,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Solangi",
+    "gn:country_code":"PK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11569198,
+    "gn:latitude":27.05902,
+    "gn:longitude":68.55528,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Solangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11569198
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3efe76190aeee91e5592e11b2b13be03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1293004991,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293004991,
+    "wof:lastmodified":1536984740,
+    "wof:name":"Solangi",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.55528000000001,
+    27.05902,
+    68.55528000000001,
+    27.05902
+],
+  "geometry": {"coordinates":[68.55528000000001,27.05902],"type":"Point"}
+}

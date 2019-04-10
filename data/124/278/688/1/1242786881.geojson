@@ -1,0 +1,67 @@
+{
+  "id": 1242786881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.75243,33.89199,70.75243,33.89199",
+    "geom:latitude":33.89199,
+    "geom:longitude":70.75243,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tseri",
+    "gn:country_code":"PK",
+    "gn:dem":1795,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446631,
+    "gn:latitude":33.89199,
+    "gn:longitude":70.75243,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Tseri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446631
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"de31ade7f1b52e198521dfefa57993cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1242786881,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242786881,
+    "wof:lastmodified":1543515576,
+    "wof:name":"Tseri",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.75243,
+    33.89199,
+    70.75243,
+    33.89199
+],
+  "geometry": {"coordinates":[70.75243,33.89199],"type":"Point"}
+}

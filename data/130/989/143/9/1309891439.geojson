@@ -1,0 +1,81 @@
+{
+  "id": 1309891439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.72421,35.04861,74.72421,35.04861",
+    "geom:latitude":35.04861,
+    "geom:longitude":74.72421,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Batwash",
+    "gn:country_code":"PK",
+    "gn:dem":2974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183077,
+    "gn:latitude":35.04861,
+    "gn:longitude":74.72421,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Batwash",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batw\u0101shi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183077
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8cfd5738f5323e214729932d432fbc80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309891439,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309891439,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309891439,
+    "wof:lastmodified":1537679918,
+    "wof:name":"Batwash",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.72421,
+    35.04861,
+    74.72421,
+    35.04861
+],
+  "geometry": {"coordinates":[74.72421,35.04861],"type":"Point"}
+}

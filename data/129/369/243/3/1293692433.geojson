@@ -1,0 +1,67 @@
+{
+  "id": 1293692433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2233,32.81543,74.2233,32.81543",
+    "geom:latitude":32.81543,
+    "geom:longitude":74.2233,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khokhar",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173843,
+    "gn:latitude":32.81543,
+    "gn:longitude":74.2233,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Khokhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173843
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9eea225cf83ab879079f6b632775c4e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1293692433,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293692433,
+    "wof:lastmodified":1536987997,
+    "wof:name":"Khokhar",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2233,
+    32.81543,
+    74.2233,
+    32.81543
+],
+  "geometry": {"coordinates":[74.22329999999999,32.81543],"type":"Point"}
+}

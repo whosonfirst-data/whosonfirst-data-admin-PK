@@ -1,0 +1,67 @@
+{
+  "id": 1344269665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73492,28.5474,67.73492,28.5474",
+    "geom:latitude":28.5474,
+    "geom:longitude":67.73492,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Umrani",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7068481,
+    "gn:latitude":28.5474,
+    "gn:longitude":67.73492,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Umrani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068481
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b6e4f3cdadffd8176f12b3ab16e6c0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692221,
+            "locality_id":1344269665,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344269665,
+    "wof:lastmodified":1537067829,
+    "wof:name":"Umrani",
+    "wof:parent_id":1108692221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73491999999999,
+    28.5474,
+    67.73491999999999,
+    28.5474
+],
+  "geometry": {"coordinates":[67.73491999999999,28.5474],"type":"Point"}
+}

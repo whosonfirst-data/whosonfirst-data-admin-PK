@@ -1,0 +1,71 @@
+{
+  "id": 1343863999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52637,32.06327,73.52637,32.06327",
+    "geom:latitude":32.06327,
+    "geom:longitude":73.52637,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sindwan",
+    "gn:country_code":"PK",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164802,
+    "gn:latitude":32.06327,
+    "gn:longitude":73.52637,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sindwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sandhwan",
+        "Sindwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164802
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78b83bcb6e9a842ac03aeb23d69df48e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1343863999,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343863999,
+    "wof:lastmodified":1537679271,
+    "wof:name":"Sindwan",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52637,
+    32.06327,
+    73.52637,
+    32.06327
+],
+  "geometry": {"coordinates":[73.52637,32.06327],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293681151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.56602,34.55284,73.56602,34.55284",
+    "geom:latitude":34.55284,
+    "geom:longitude":73.56602,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Thandikasi",
+    "gn:country_code":"PK",
+    "gn:dem":2058,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385387,
+    "gn:latitude":34.55284,
+    "gn:longitude":73.56602,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Thandikasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385387
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02ec84ea26c3860e883d7ae8c055b10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293681151,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293681151,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293681151,
+    "wof:lastmodified":1537004439,
+    "wof:name":"Thandikasi",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.56602,
+    34.55284,
+    73.56602,
+    34.55284
+],
+  "geometry": {"coordinates":[73.56601999999999,34.55284],"type":"Point"}
+}

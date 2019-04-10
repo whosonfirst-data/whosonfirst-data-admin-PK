@@ -1,0 +1,78 @@
+{
+  "id": 1209937955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6912,33.91461,73.6912,33.91461",
+    "geom:latitude":33.91461,
+    "geom:longitude":73.6912,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sarachha",
+    "gn:country_code":"PK",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096963,
+    "gn:latitude":33.91461,
+    "gn:longitude":73.6912,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sarachha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096963
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ff176c817a77ef787a9a294b8ee8b5c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1209937955,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1209937955,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209937955,
+    "wof:lastmodified":1536389784,
+    "wof:name":"Sarachha",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6912,
+    33.91461,
+    73.6912,
+    33.91461
+],
+  "geometry": {"coordinates":[73.69119999999999,33.91461],"type":"Point"}
+}

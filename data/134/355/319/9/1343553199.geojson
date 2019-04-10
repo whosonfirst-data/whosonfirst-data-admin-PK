@@ -1,0 +1,81 @@
+{
+  "id": 1343553199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.29621,32.90232,74.29621,32.90232",
+    "geom:latitude":32.90232,
+    "geom:longitude":74.29621,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Watala",
+    "gn:country_code":"PK",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413292,
+    "gn:latitude":32.90232,
+    "gn:longitude":74.29621,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Watala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jakhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413292
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"140c6f8c877fdc2c989bec42c5fca5dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343553199,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343553199,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343553199,
+    "wof:lastmodified":1537681311,
+    "wof:name":"Watala",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.29621,
+    32.90232,
+    74.29621,
+    32.90232
+],
+  "geometry": {"coordinates":[74.29621,32.90232],"type":"Point"}
+}

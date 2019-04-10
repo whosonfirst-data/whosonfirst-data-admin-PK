@@ -1,0 +1,64 @@
+{
+  "id": 1209438267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00222,32.88744,73.00222,32.88744",
+    "geom:latitude":32.88744,
+    "geom:longitude":73.00222,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khothian",
+    "gn:country_code":"PK",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173786,
+    "gn:latitude":32.88744,
+    "gn:longitude":73.00222,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Khothian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khoti\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173786
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2e8b185acdcd0a213bec17a64042444",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209438267
+        }
+    ],
+    "wof:id":1209438267,
+    "wof:lastmodified":1537679585,
+    "wof:name":"Khothian",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00222,
+    32.88744000000001,
+    73.00222,
+    32.88744000000001
+],
+  "geometry": {"coordinates":[73.00221999999999,32.88744000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327146935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.50974,28.43458,68.50974,28.43458",
+    "geom:latitude":28.43458,
+    "geom:longitude":68.50974,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mehrabpur",
+    "gn:country_code":"PK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11254774,
+    "gn:latitude":28.43458,
+    "gn:longitude":68.50974,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Mehrabpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11254774
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dcdb204a308ba5e491ca9f1e9faef43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692385,
+            "locality_id":1327146935,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327146935,
+    "wof:lastmodified":1537089739,
+    "wof:name":"Mehrabpur",
+    "wof:parent_id":1108692385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.50974000000001,
+    28.43458,
+    68.50974000000001,
+    28.43458
+],
+  "geometry": {"coordinates":[68.50974000000001,28.43458],"type":"Point"}
+}

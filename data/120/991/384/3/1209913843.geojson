@@ -1,0 +1,67 @@
+{
+  "id": 1209913843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58422,30.55137,71.58422,30.55137",
+    "geom:latitude":30.55137,
+    "geom:longitude":71.58422,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kulaliwala",
+    "gn:country_code":"PK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567597,
+    "gn:latitude":30.55137,
+    "gn:longitude":71.58422,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kulaliwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567597
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"723a28e6d2c38c06c9e687855cd9307d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1209913843,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209913843,
+    "wof:lastmodified":1536375876,
+    "wof:name":"Kulaliwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58422,
+    30.55137,
+    71.58422,
+    30.55137
+],
+  "geometry": {"coordinates":[71.58422,30.55137],"type":"Point"}
+}

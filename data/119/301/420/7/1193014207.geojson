@@ -1,0 +1,67 @@
+{
+  "id": 1193014207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.93359,28.39879,68.93359,28.39879",
+    "geom:latitude":28.39879,
+    "geom:longitude":68.93359,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hotkani",
+    "gn:country_code":"PK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7421990,
+    "gn:latitude":28.39879,
+    "gn:longitude":68.93359,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Hotkani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7421990
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bac26a75b2b7603db811e4444a234a99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692237,
+            "locality_id":1193014207,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193014207,
+    "wof:lastmodified":1536380260,
+    "wof:name":"Hotkani",
+    "wof:parent_id":1108692237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.93359,
+    28.39879,
+    68.93359,
+    28.39879
+],
+  "geometry": {"coordinates":[68.93359,28.39879],"type":"Point"}
+}

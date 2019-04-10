@@ -1,0 +1,67 @@
+{
+  "id": 1243276463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.55195,27.04168,63.55195,27.04168",
+    "geom:latitude":27.04168,
+    "geom:longitude":63.55195,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Amir Bakhsh Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10989083,
+    "gn:latitude":27.04168,
+    "gn:longitude":63.55195,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Amir Bakhsh Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10989083
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"49170795e1505886127d59bc89d044e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1243276463,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243276463,
+    "wof:lastmodified":1537048483,
+    "wof:name":"Amir Bakhsh Bazar",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.55195,
+    27.04168,
+    63.55195,
+    27.04168
+],
+  "geometry": {"coordinates":[63.55195,27.04168],"type":"Point"}
+}

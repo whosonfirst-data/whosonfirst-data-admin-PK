@@ -1,0 +1,67 @@
+{
+  "id": 1360197111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.98639,25.99825,62.98639,25.99825",
+    "geom:latitude":25.99825,
+    "geom:longitude":62.98639,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kotwali",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336597,
+    "gn:latitude":25.99825,
+    "gn:longitude":62.98639,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kotwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336597
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b35a44fb66ff5101d8a93712d490a1a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1360197111,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360197111,
+    "wof:lastmodified":1536784476,
+    "wof:name":"Kotwali",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.98639,
+    25.99825,
+    62.98639,
+    25.99825
+],
+  "geometry": {"coordinates":[62.98639,25.99825],"type":"Point"}
+}

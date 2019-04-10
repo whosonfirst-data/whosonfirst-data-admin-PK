@@ -1,0 +1,74 @@
+{
+  "id": 1260285019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.96563,35.75461,71.96563,35.75461",
+    "geom:latitude":35.75461,
+    "geom:longitude":71.96563,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Warzo Shal",
+    "gn:country_code":"PK",
+    "gn:dem":3158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1348068,
+    "gn:latitude":35.75461,
+    "gn:longitude":71.96563,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Warzo Shal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "W\u0101rzu Sh\u0101l"
+    ],
+    "name:und_x_variant":[
+        "W\u0101rze Sh\u0101l",
+        "Warzo Shal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348068
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2f6c63d9a9d348362dfe190b658d0fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1260285019,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260285019,
+    "wof:lastmodified":1537680281,
+    "wof:name":"Warzo Shal",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.96563,
+    35.75461,
+    71.96563,
+    35.75461
+],
+  "geometry": {"coordinates":[71.96563,35.75461],"type":"Point"}
+}

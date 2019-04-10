@@ -1,0 +1,67 @@
+{
+  "id": 1226755595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.75557,27.91959,66.75557,27.91959",
+    "geom:latitude":27.91959,
+    "geom:longitude":66.75557,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karez",
+    "gn:country_code":"PK",
+    "gn:dem":1505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110222,
+    "gn:latitude":27.91959,
+    "gn:longitude":66.75557,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Karez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110222
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"82f1eb07441bd78924fa5b1ef663e44b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1226755595,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226755595,
+    "wof:lastmodified":1536701561,
+    "wof:name":"Karez",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.75556999999999,
+    27.91959,
+    66.75556999999999,
+    27.91959
+],
+  "geometry": {"coordinates":[66.75556999999999,27.91959],"type":"Point"}
+}

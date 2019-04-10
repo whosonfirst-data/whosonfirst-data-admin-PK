@@ -1,0 +1,61 @@
+{
+  "id": 1209111491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60604,32.76024,71.60604,32.76024",
+    "geom:latitude":32.76024,
+    "geom:longitude":71.60604,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dera Khudayar",
+    "gn:country_code":"PK",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11140588,
+    "gn:latitude":32.76024,
+    "gn:longitude":71.60604,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Dera Khudayar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11140588
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ccff09db8c7492c5340b4f36a4d53cc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209111491
+        }
+    ],
+    "wof:id":1209111491,
+    "wof:lastmodified":1536297392,
+    "wof:name":"Dera Khudayar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60604000000002,
+    32.76024,
+    71.60604000000002,
+    32.76024
+],
+  "geometry": {"coordinates":[71.60604000000002,32.76024],"type":"Point"}
+}

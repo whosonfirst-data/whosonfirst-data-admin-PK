@@ -1,0 +1,67 @@
+{
+  "id": 1259986505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34814,34.57854,73.34814,34.57854",
+    "geom:latitude":34.57854,
+    "geom:longitude":73.34814,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khon",
+    "gn:country_code":"PK",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10994162,
+    "gn:latitude":34.57854,
+    "gn:longitude":73.34814,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Khon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994162
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bfa99450a8c3e977d120a7f3e590c161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1259986505,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259986505,
+    "wof:lastmodified":1536629031,
+    "wof:name":"Khon",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34814,
+    34.57854,
+    73.34814,
+    34.57854
+],
+  "geometry": {"coordinates":[73.34814,34.57854],"type":"Point"}
+}

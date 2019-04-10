@@ -1,0 +1,71 @@
+{
+  "id": 1209215555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61518,32.96592,70.61518,32.96592",
+    "geom:latitude":32.96592,
+    "geom:longitude":70.61518,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bari Khel",
+    "gn:country_code":"PK",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332825,
+    "gn:latitude":32.96592,
+    "gn:longitude":70.61518,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Bari Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beri Khel",
+        "Bari Khel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332825
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"946237ba2d37d1f57321ab67dd2f18b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1209215555,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215555,
+    "wof:lastmodified":1543515541,
+    "wof:name":"Bari Khel",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61518000000002,
+    32.96592,
+    70.61518000000002,
+    32.96592
+],
+  "geometry": {"coordinates":[70.61518000000002,32.96592],"type":"Point"}
+}

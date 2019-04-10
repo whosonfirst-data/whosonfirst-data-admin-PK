@@ -1,0 +1,67 @@
+{
+  "id": 1293111143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.78259,26.92417,64.78259,26.92417",
+    "geom:latitude":26.92417,
+    "geom:longitude":64.78259,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zilug",
+    "gn:country_code":"PK",
+    "gn:dem":1131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7571502,
+    "gn:latitude":26.92417,
+    "gn:longitude":64.78259,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Zilug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7571502
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c9bfe87922ca71b8d47fe0eaa78d4734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1293111143,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293111143,
+    "wof:lastmodified":1536831593,
+    "wof:name":"Zilug",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.78259,
+    26.92417,
+    64.78259,
+    26.92417
+],
+  "geometry": {"coordinates":[64.78259,26.92417],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226744681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75226,33.54929,73.75226,33.54929",
+    "geom:latitude":33.54929,
+    "geom:longitude":73.75226,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ajror",
+    "gn:country_code":"PK",
+    "gn:dem":709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413690,
+    "gn:latitude":33.54929,
+    "gn:longitude":73.75226,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ajror",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ajarora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413690
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c184a7cb08ad9854345ff1ec5b5215dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1226744681,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1226744681,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226744681,
+    "wof:lastmodified":1537681319,
+    "wof:name":"Ajror",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75225999999998,
+    33.54929,
+    73.75225999999998,
+    33.54929
+],
+  "geometry": {"coordinates":[73.75225999999998,33.54929],"type":"Point"}
+}

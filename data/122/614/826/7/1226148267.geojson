@@ -1,0 +1,67 @@
+{
+  "id": 1226148267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7,29.55556,70.7,29.55556",
+    "geom:latitude":29.55556,
+    "geom:longitude":70.7,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Talibwala",
+    "gn:country_code":"PK",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1396029,
+    "gn:latitude":29.55556,
+    "gn:longitude":70.7,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Talibwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1396029
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0847a8327f6008ff21e26a15532121ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1226148267,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226148267,
+    "wof:lastmodified":1537070955,
+    "wof:name":"Talibwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7,
+    29.55556,
+    70.7,
+    29.55556
+],
+  "geometry": {"coordinates":[70.7,29.55556],"type":"Point"}
+}

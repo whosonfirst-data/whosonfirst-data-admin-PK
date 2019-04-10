@@ -1,0 +1,81 @@
+{
+  "id": 1243446311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.68972,33.47921,73.68972,33.47921",
+    "geom:latitude":33.47921,
+    "geom:longitude":73.68972,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bari Gohra",
+    "gn:country_code":"PK",
+    "gn:dem":580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100943,
+    "gn:latitude":33.47921,
+    "gn:longitude":73.68972,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Bari Gohra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bari Gora"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100943
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56c8e9e7f807a6dd6e86a3d64720a13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243446311,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243446311,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243446311,
+    "wof:lastmodified":1537681694,
+    "wof:name":"Bari Gohra",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.68972,
+    33.47920999999999,
+    73.68972,
+    33.47920999999999
+],
+  "geometry": {"coordinates":[73.68971999999999,33.47920999999999],"type":"Point"}
+}

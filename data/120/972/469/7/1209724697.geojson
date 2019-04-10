@@ -1,0 +1,67 @@
+{
+  "id": 1209724697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02992,32.52564,70.02992,32.52564",
+    "geom:latitude":32.52564,
+    "geom:longitude":70.02992,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsappara",
+    "gn:country_code":"PK",
+    "gn:dem":1245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340396,
+    "gn:latitude":32.52564,
+    "gn:longitude":70.02992,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Tsappara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340396
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a39419cd8d2bb340fc88b891224c349a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1209724697,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209724697,
+    "wof:lastmodified":1543515683,
+    "wof:name":"Tsappara",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02991999999999,
+    32.52564,
+    70.02991999999999,
+    32.52564
+],
+  "geometry": {"coordinates":[70.02991999999999,32.52564],"type":"Point"}
+}

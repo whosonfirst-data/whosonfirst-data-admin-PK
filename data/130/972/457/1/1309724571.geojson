@@ -1,0 +1,67 @@
+{
+  "id": 1309724571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.97152,29.90023,66.97152,29.90023",
+    "geom:latitude":29.90023,
+    "geom:longitude":66.97152,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Jangi",
+    "gn:country_code":"PK",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7108712,
+    "gn:latitude":29.90023,
+    "gn:longitude":66.97152,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Jangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7108712
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fd9cbf89bbb1c387808f136bab65578",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1309724571,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309724571,
+    "wof:lastmodified":1537046202,
+    "wof:name":"Jangi",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.97152,
+    29.90023,
+    66.97152,
+    29.90023
+],
+  "geometry": {"coordinates":[66.97152,29.90023],"type":"Point"}
+}

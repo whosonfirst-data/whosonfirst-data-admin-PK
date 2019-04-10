@@ -1,0 +1,67 @@
+{
+  "id": 1276233197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.57725,31.55911,74.57725,31.55911",
+    "geom:latitude":31.55911,
+    "geom:longitude":74.57725,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baradari",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11535119,
+    "gn:latitude":31.55911,
+    "gn:longitude":74.57725,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Baradari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11535119
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"338d1f5c6283f3cf7b5a06af59c22413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1276233197,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276233197,
+    "wof:lastmodified":1536913308,
+    "wof:name":"Baradari",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.57725,
+    31.55911,
+    74.57725,
+    31.55911
+],
+  "geometry": {"coordinates":[74.57725000000001,31.55911],"type":"Point"}
+}

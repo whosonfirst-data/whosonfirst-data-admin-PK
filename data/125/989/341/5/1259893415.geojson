@@ -1,0 +1,67 @@
+{
+  "id": 1259893415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48525,33.24785,70.48525,33.24785",
+    "geom:latitude":33.24785,
+    "geom:longitude":70.48525,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tandai",
+    "gn:country_code":"PK",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345244,
+    "gn:latitude":33.24785,
+    "gn:longitude":70.48525,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Tandai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345244
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e573602f9b88e5bec2770035b6580bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1259893415,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259893415,
+    "wof:lastmodified":1536765135,
+    "wof:name":"Tandai",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48525,
+    33.24785,
+    70.48525,
+    33.24785
+],
+  "geometry": {"coordinates":[70.48524999999999,33.24785],"type":"Point"}
+}

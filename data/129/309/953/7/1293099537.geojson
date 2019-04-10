@@ -1,0 +1,67 @@
+{
+  "id": 1293099537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6363,36.12047,71.6363,36.12047",
+    "geom:latitude":36.12047,
+    "geom:longitude":71.6363,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shahrat",
+    "gn:country_code":"PK",
+    "gn:dem":3751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999687,
+    "gn:latitude":36.12047,
+    "gn:longitude":71.6363,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Shahrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999687
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3bfcd09d26227c603361bc8d5caa5db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1293099537,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293099537,
+    "wof:lastmodified":1536848272,
+    "wof:name":"Shahrat",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6363,
+    36.12047000000001,
+    71.6363,
+    36.12047000000001
+],
+  "geometry": {"coordinates":[71.63630000000001,36.12047000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1193150469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.50259,32.84275,69.50259,32.84275",
+    "geom:latitude":32.84275,
+    "geom:longitude":69.50259,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kharsin",
+    "gn:country_code":"PK",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109340,
+    "gn:latitude":32.84275,
+    "gn:longitude":69.50259,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kharsin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109340
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7085732be6795b1027325bfb1312da90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1193150469,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193150469,
+    "wof:lastmodified":1543515446,
+    "wof:name":"Kharsin",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.50259,
+    32.84275,
+    69.50259,
+    32.84275
+],
+  "geometry": {"coordinates":[69.50259,32.84275],"type":"Point"}
+}

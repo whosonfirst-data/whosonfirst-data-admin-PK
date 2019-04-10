@@ -1,0 +1,67 @@
+{
+  "id": 1226449331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57809,35.4818,72.57809,35.4818",
+    "geom:latitude":35.4818,
+    "geom:longitude":72.57809,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalam",
+    "gn:country_code":"PK",
+    "gn:dem":2082,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175334,
+    "gn:latitude":35.4818,
+    "gn:longitude":72.57809,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Kalam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175334
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ecfed82e5411c702e54a767180a32965",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1226449331,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226449331,
+    "wof:lastmodified":1536639255,
+    "wof:name":"Kalam",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57809,
+    35.4818,
+    72.57809,
+    35.4818
+],
+  "geometry": {"coordinates":[72.57809,35.4818],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1259585479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87056,30.8775,67.87056,30.8775",
+    "geom:latitude":30.8775,
+    "geom:longitude":67.87056,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kwath",
+    "gn:country_code":"PK",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347584,
+    "gn:latitude":30.8775,
+    "gn:longitude":67.87056,
+    "gn:modification_date":"1999-03-15",
+    "gn:name":"Kwath",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347584
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dbaacc54f8405989cee022b0b7c00527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1259585479,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259585479,
+    "wof:lastmodified":1536712255,
+    "wof:name":"Kwath",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87056,
+    30.8775,
+    67.87056,
+    30.8775
+],
+  "geometry": {"coordinates":[67.87056,30.8775],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243370427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63103,34.74445,73.63103,34.74445",
+    "geom:latitude":34.74445,
+    "geom:longitude":73.63103,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Chamba",
+    "gn:country_code":"PK",
+    "gn:dem":2452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385177,
+    "gn:latitude":34.74445,
+    "gn:longitude":73.63103,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chamba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385177
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e1584ecb02298efb5158cb6f22de28e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1243370427,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243370427,
+    "wof:lastmodified":1536915627,
+    "wof:name":"Chamba",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63103000000002,
+    34.74445,
+    73.63103000000002,
+    34.74445
+],
+  "geometry": {"coordinates":[73.63103000000002,34.74445],"type":"Point"}
+}

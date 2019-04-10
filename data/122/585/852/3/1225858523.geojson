@@ -1,0 +1,72 @@
+{
+  "id": 1225858523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12945,33.92825,70.12945,33.92825",
+    "geom:latitude":33.92825,
+    "geom:longitude":70.12945,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Qubad Shah Khel Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":1951,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167538,
+    "gn:latitude":33.92825,
+    "gn:longitude":70.12945,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Qubad Shah Khel Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qubad Shah Khel",
+        "Qub\u0101d Shah Khel Kili",
+        "Qubad Shah Khel Kalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167538
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd7b37b8ae7370746e3d5a2a8d78c2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1225858523,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225858523,
+    "wof:lastmodified":1543515499,
+    "wof:name":"Qubad Shah Khel Kalle",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12945,
+    33.92825,
+    70.12945,
+    33.92825
+],
+  "geometry": {"coordinates":[70.12945000000001,33.92825],"type":"Point"}
+}

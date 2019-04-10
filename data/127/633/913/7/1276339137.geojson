@@ -1,0 +1,67 @@
+{
+  "id": 1276339137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3353,25.68171,70.3353,25.68171",
+    "geom:latitude":25.68171,
+    "geom:longitude":70.3353,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Baral",
+    "gn:country_code":"PK",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039135,
+    "gn:latitude":25.68171,
+    "gn:longitude":70.3353,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Baral",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039135
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"75ee5f0006e449380491f80d82636087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1276339137,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276339137,
+    "wof:lastmodified":1536771157,
+    "wof:name":"Baral",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3353,
+    25.68171,
+    70.3353,
+    25.68171
+],
+  "geometry": {"coordinates":[70.3353,25.68171],"type":"Point"}
+}

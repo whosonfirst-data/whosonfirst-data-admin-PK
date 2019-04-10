@@ -1,0 +1,67 @@
+{
+  "id": 1326631223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12123,35.06961,72.12123,35.06961",
+    "geom:latitude":35.06961,
+    "geom:longitude":72.12123,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jagam",
+    "gn:country_code":"PK",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478106,
+    "gn:latitude":35.06961,
+    "gn:longitude":72.12123,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jagam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478106
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab1b1757e7011434514d5ad7f7b7f79d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1326631223,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326631223,
+    "wof:lastmodified":1536840233,
+    "wof:name":"Jagam",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12123000000003,
+    35.06961,
+    72.12123000000003,
+    35.06961
+],
+  "geometry": {"coordinates":[72.12123000000003,35.06961],"type":"Point"}
+}

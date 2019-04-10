@@ -1,0 +1,78 @@
+{
+  "id": 1193039683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.94286,33.74465,73.94286,33.74465",
+    "geom:latitude":33.74465,
+    "geom:longitude":73.94286,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kharanj Nehri",
+    "gn:country_code":"PK",
+    "gn:dem":995,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10875643,
+    "gn:latitude":33.74465,
+    "gn:longitude":73.94286,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kharanj Nehri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10875643
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"114cf21a30a724d30e0f32087eef7973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1193039683,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1193039683,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193039683,
+    "wof:lastmodified":1536377268,
+    "wof:name":"Kharanj Nehri",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.94286,
+    33.74465,
+    73.94286,
+    33.74465
+],
+  "geometry": {"coordinates":[73.94286,33.74465],"type":"Point"}
+}

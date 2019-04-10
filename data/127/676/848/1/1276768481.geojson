@@ -1,0 +1,67 @@
+{
+  "id": 1276768481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15009,29.45756,70.15009,29.45756",
+    "geom:latitude":29.45756,
+    "geom:longitude":70.15009,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulabi",
+    "gn:country_code":"PK",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177641,
+    "gn:latitude":29.45756,
+    "gn:longitude":70.15009,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Gulabi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177641
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ae9a152d591cc2303736111f2d83ff1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1276768481,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276768481,
+    "wof:lastmodified":1536692936,
+    "wof:name":"Gulabi",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15009,
+    29.45756,
+    70.15009,
+    29.45756
+],
+  "geometry": {"coordinates":[70.15009000000001,29.45756],"type":"Point"}
+}

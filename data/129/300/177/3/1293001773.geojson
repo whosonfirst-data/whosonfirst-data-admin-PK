@@ -1,0 +1,67 @@
+{
+  "id": 1293001773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.05298,34.11198,73.05298,34.11198",
+    "geom:latitude":34.11198,
+    "geom:longitude":73.05298,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Talhad",
+    "gn:country_code":"PK",
+    "gn:dem":804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416290,
+    "gn:latitude":34.11198,
+    "gn:longitude":73.05298,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Talhad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416290
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba643c27a7abe9adebb8fb45f99b4895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1293001773,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293001773,
+    "wof:lastmodified":1536989407,
+    "wof:name":"Talhad",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.05298,
+    34.11198,
+    73.05298,
+    34.11198
+],
+  "geometry": {"coordinates":[73.05298000000001,34.11198],"type":"Point"}
+}

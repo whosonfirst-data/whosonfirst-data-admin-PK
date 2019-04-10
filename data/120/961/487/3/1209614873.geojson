@@ -1,0 +1,64 @@
+{
+  "id": 1209614873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.89128,30.04673,70.89128,30.04673",
+    "geom:latitude":30.04673,
+    "geom:longitude":70.89128,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Kalu Pirhar",
+    "gn:country_code":"PK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392375,
+    "gn:latitude":30.04673,
+    "gn:longitude":70.89128,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Basti Kalu Pirhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Basti Kalu Pirhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4883e9872234372a91a8af647eea78ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209614873
+        }
+    ],
+    "wof:id":1209614873,
+    "wof:lastmodified":1537681003,
+    "wof:name":"Basti Kalu Pirhar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.89128000000002,
+    30.04673,
+    70.89128000000002,
+    30.04673
+],
+  "geometry": {"coordinates":[70.89128000000002,30.04673],"type":"Point"}
+}

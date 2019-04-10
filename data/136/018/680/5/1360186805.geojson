@@ -1,0 +1,67 @@
+{
+  "id": 1360186805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.43263,28.30261,66.43263,28.30261",
+    "geom:latitude":28.30261,
+    "geom:longitude":66.43263,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Arzonan",
+    "gn:country_code":"PK",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1395091,
+    "gn:latitude":28.30261,
+    "gn:longitude":66.43263,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Arzonan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1395091
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c4dc23dda4352711f468120af4ca2b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1360186805,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360186805,
+    "wof:lastmodified":1536798989,
+    "wof:name":"Arzonan",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.43263,
+    28.30261,
+    66.43263,
+    28.30261
+],
+  "geometry": {"coordinates":[66.43263,28.30261],"type":"Point"}
+}

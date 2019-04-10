@@ -1,0 +1,64 @@
+{
+  "id": 1209319873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.06789,32.06377,74.06789,32.06377",
+    "geom:latitude":32.06377,
+    "geom:longitude":74.06789,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jajoke",
+    "gn:country_code":"PK",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413223,
+    "gn:latitude":32.06377,
+    "gn:longitude":74.06789,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jajoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaioke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413223
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"08ee2dc2bacd627c5a45ee3dffb5bc64",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209319873
+        }
+    ],
+    "wof:id":1209319873,
+    "wof:lastmodified":1537681309,
+    "wof:name":"Jajoke",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.06789,
+    32.06377,
+    74.06789,
+    32.06377
+],
+  "geometry": {"coordinates":[74.06789000000001,32.06377],"type":"Point"}
+}

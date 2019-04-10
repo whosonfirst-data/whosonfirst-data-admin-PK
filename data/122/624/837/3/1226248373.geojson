@@ -1,0 +1,67 @@
+{
+  "id": 1226248373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.29118,33.38423,73.29118,33.38423",
+    "geom:latitude":33.38423,
+    "geom:longitude":73.29118,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jatu",
+    "gn:country_code":"PK",
+    "gn:dem":546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457426,
+    "gn:latitude":33.38423,
+    "gn:longitude":73.29118,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Jatu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457426
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"79b917d1e3b905e58848ee0dd860835d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1226248373,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226248373,
+    "wof:lastmodified":1536930518,
+    "wof:name":"Jatu",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.29118000000003,
+    33.38423,
+    73.29118000000003,
+    33.38423
+],
+  "geometry": {"coordinates":[73.29118000000003,33.38423],"type":"Point"}
+}

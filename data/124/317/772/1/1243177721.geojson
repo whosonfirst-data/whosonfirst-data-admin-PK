@@ -1,0 +1,67 @@
+{
+  "id": 1243177721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.76852,30.7854,71.76852,30.7854",
+    "geom:latitude":30.7854,
+    "geom:longitude":71.76852,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chak Five",
+    "gn:country_code":"PK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410149,
+    "gn:latitude":30.7854,
+    "gn:longitude":71.76852,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Chak Five",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410149
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"be3bf2fe4b2c527d82c0c2eae22f1c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1243177721,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243177721,
+    "wof:lastmodified":1536696156,
+    "wof:name":"Chak Five",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.76852,
+    30.7854,
+    71.76852,
+    30.7854
+],
+  "geometry": {"coordinates":[71.76852,30.7854],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276455845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.2,28.049,63.2,28.049",
+    "geom:latitude":28.049,
+    "geom:longitude":63.2,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Balatar",
+    "gn:country_code":"PK",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1374515,
+    "gn:latitude":28.049,
+    "gn:longitude":63.2,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Balatar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1374515
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f61372ed72b589f13da19dce000e6756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1276455845,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276455845,
+    "wof:lastmodified":1536611977,
+    "wof:name":"Balatar",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.2,
+    28.049,
+    63.2,
+    28.049
+],
+  "geometry": {"coordinates":[63.2,28.049],"type":"Point"}
+}

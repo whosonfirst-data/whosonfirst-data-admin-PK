@@ -1,0 +1,67 @@
+{
+  "id": 1309713265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69164,34.32273,71.69164,34.32273",
+    "geom:latitude":34.32273,
+    "geom:longitude":71.69164,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kohiabad",
+    "gn:country_code":"PK",
+    "gn:dem":359,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10348833,
+    "gn:latitude":34.32273,
+    "gn:longitude":71.69164,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Kohiabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10348833
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f21878153c3286c98b58ea14217f634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1309713265,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309713265,
+    "wof:lastmodified":1537061779,
+    "wof:name":"Kohiabad",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69164,
+    34.32273,
+    71.69164,
+    34.32273
+],
+  "geometry": {"coordinates":[71.69164000000001,34.32273],"type":"Point"}
+}

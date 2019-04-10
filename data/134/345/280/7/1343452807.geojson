@@ -1,0 +1,78 @@
+{
+  "id": 1343452807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64453,33.88817,73.64453,33.88817",
+    "geom:latitude":33.88817,
+    "geom:longitude":73.64453,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nailian",
+    "gn:country_code":"PK",
+    "gn:dem":1332,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986209,
+    "gn:latitude":33.88817,
+    "gn:longitude":73.64453,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Nailian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986209
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"11a576fbe60bb67cd8ab417b5543b058",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1343452807,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1343452807,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343452807,
+    "wof:lastmodified":1536757402,
+    "wof:name":"Nailian",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64453,
+    33.88817,
+    73.64453,
+    33.88817
+],
+  "geometry": {"coordinates":[73.64453,33.88817],"type":"Point"}
+}

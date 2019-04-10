@@ -1,0 +1,67 @@
+{
+  "id": 1293890335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12908,34.96262,72.12908,34.96262",
+    "geom:latitude":34.96262,
+    "geom:longitude":72.12908,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hassanabad",
+    "gn:country_code":"PK",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605315,
+    "gn:latitude":34.96262,
+    "gn:longitude":72.12908,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Hassanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605315
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2ac4ae13f4010569d0f9df2fc5ddb33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1293890335,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293890335,
+    "wof:lastmodified":1536703726,
+    "wof:name":"Hassanabad",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12908,
+    34.96262,
+    72.12908,
+    34.96262
+],
+  "geometry": {"coordinates":[72.12908,34.96262],"type":"Point"}
+}

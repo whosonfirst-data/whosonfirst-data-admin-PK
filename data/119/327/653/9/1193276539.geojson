@@ -1,0 +1,67 @@
+{
+  "id": 1193276539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.31802,34.30232,73.31802,34.30232",
+    "geom:latitude":34.30232,
+    "geom:longitude":73.31802,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lagarban",
+    "gn:country_code":"PK",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406850,
+    "gn:latitude":34.30232,
+    "gn:longitude":73.31802,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lagarban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406850
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2bdd5eb796dc5ad34df38f4cd3d4f83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1193276539,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193276539,
+    "wof:lastmodified":1543515525,
+    "wof:name":"Lagarban",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.31801999999998,
+    34.30232,
+    73.31801999999998,
+    34.30232
+],
+  "geometry": {"coordinates":[73.31801999999998,34.30232],"type":"Point"}
+}

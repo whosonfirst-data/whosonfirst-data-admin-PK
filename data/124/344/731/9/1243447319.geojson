@@ -1,0 +1,67 @@
+{
+  "id": 1243447319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.0399,26.82834,69.0399,26.82834",
+    "geom:latitude":26.82834,
+    "geom:longitude":69.0399,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Lundo",
+    "gn:country_code":"PK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369924,
+    "gn:latitude":26.82834,
+    "gn:longitude":69.0399,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Lundo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369924
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bd58fa8a890a1fa8eaf1cb80830b9265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1243447319,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243447319,
+    "wof:lastmodified":1536804155,
+    "wof:name":"Lundo",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.0399,
+    26.82834,
+    69.0399,
+    26.82834
+],
+  "geometry": {"coordinates":[69.0399,26.82834],"type":"Point"}
+}

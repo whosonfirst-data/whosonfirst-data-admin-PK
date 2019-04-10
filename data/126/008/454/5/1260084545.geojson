@@ -1,0 +1,67 @@
+{
+  "id": 1260084545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.6189,25.55438,70.6189,25.55438",
+    "geom:latitude":25.55438,
+    "geom:longitude":70.6189,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kharri",
+    "gn:country_code":"PK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039582,
+    "gn:latitude":25.55438,
+    "gn:longitude":70.6189,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Kharri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039582
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d51cded15df610ef6d4e851529b93692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1260084545,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260084545,
+    "wof:lastmodified":1536985639,
+    "wof:name":"Kharri",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.6189,
+    25.55438,
+    70.6189,
+    25.55438
+],
+  "geometry": {"coordinates":[70.6189,25.55438],"type":"Point"}
+}

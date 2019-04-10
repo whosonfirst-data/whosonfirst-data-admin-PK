@@ -1,0 +1,67 @@
+{
+  "id": 1210020879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.52558,28.23234,68.52558,28.23234",
+    "geom:latitude":28.23234,
+    "geom:longitude":68.52558,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Sardar Khan",
+    "gn:country_code":"PK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1396787,
+    "gn:latitude":28.23234,
+    "gn:longitude":68.52558,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sardar Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1396787
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"075ac46be0d16d02e344b5f72c7ed659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1210020879,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1210020879,
+    "wof:lastmodified":1536392923,
+    "wof:name":"Sardar Khan",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.52558,
+    28.23234,
+    68.52558,
+    28.23234
+],
+  "geometry": {"coordinates":[68.52558000000001,28.23234],"type":"Point"}
+}

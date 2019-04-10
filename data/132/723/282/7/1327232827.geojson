@@ -1,0 +1,67 @@
+{
+  "id": 1327232827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30415,35.03603,73.30415,35.03603",
+    "geom:latitude":35.03603,
+    "geom:longitude":73.30415,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sartoe",
+    "gn:country_code":"PK",
+    "gn:dem":2275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022478,
+    "gn:latitude":35.03603,
+    "gn:longitude":73.30415,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Sartoe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022478
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"500f5c652ea57357f5fc4b6ca3e2b773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1327232827,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327232827,
+    "wof:lastmodified":1536968676,
+    "wof:name":"Sartoe",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30415,
+    35.03603,
+    73.30415,
+    35.03603
+],
+  "geometry": {"coordinates":[73.30415000000001,35.03603],"type":"Point"}
+}

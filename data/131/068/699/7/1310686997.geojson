@@ -1,0 +1,81 @@
+{
+  "id": 1310686997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.40269,35.79826,75.40269,35.79826",
+    "geom:latitude":35.79826,
+    "geom:longitude":75.40269,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kati Bran",
+    "gn:country_code":"PK",
+    "gn:dem":2547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419606,
+    "gn:latitude":35.79826,
+    "gn:longitude":75.40269,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Kati Bran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huldoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419606
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"14da718fb559ebad879c1571dce1f6e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310686997,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310686997,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310686997,
+    "wof:lastmodified":1537681902,
+    "wof:name":"Kati Bran",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.40269,
+    35.79826,
+    75.40269,
+    35.79826
+],
+  "geometry": {"coordinates":[75.40269000000001,35.79826],"type":"Point"}
+}

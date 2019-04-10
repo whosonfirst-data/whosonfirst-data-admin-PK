@@ -1,0 +1,67 @@
+{
+  "id": 1243453975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.3817,28.55789,70.3817,28.55789",
+    "geom:latitude":28.55789,
+    "geom:longitude":70.3817,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Itrah",
+    "gn:country_code":"PK",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547190,
+    "gn:latitude":28.55789,
+    "gn:longitude":70.3817,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Itrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547190
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0403df0937b050c2346fd4268369a844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1243453975,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243453975,
+    "wof:lastmodified":1536794902,
+    "wof:name":"Itrah",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.3817,
+    28.55789,
+    70.3817,
+    28.55789
+],
+  "geometry": {"coordinates":[70.3817,28.55789],"type":"Point"}
+}

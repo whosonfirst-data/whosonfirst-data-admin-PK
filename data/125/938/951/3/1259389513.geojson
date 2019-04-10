@@ -1,0 +1,67 @@
+{
+  "id": 1259389513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63746,32.61786,70.63746,32.61786",
+    "geom:latitude":32.61786,
+    "geom:longitude":70.63746,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Adamzai",
+    "gn:country_code":"PK",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184975,
+    "gn:latitude":32.61786,
+    "gn:longitude":70.63746,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Adamzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184975
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7b2124aa03d09404c4f95c84b7a75240",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1259389513,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259389513,
+    "wof:lastmodified":1536992674,
+    "wof:name":"Adamzai",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63746,
+    32.61786,
+    70.63746,
+    32.61786
+],
+  "geometry": {"coordinates":[70.63746,32.61786],"type":"Point"}
+}

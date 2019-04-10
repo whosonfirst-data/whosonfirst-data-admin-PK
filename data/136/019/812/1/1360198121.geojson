@@ -1,0 +1,71 @@
+{
+  "id": 1360198121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.29593,34.75426,71.29593,34.75426",
+    "geom:latitude":34.75426,
+    "geom:longitude":71.29593,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kuhi",
+    "gn:country_code":"PK",
+    "gn:dem":1290,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353052,
+    "gn:latitude":34.75426,
+    "gn:longitude":71.29593,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Kuhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuhai",
+        "Kohi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353052
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"37cdf0fba4f018f4cba4e6f01b8b906c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1360198121,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360198121,
+    "wof:lastmodified":1543515356,
+    "wof:name":"Kuhi",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.29593,
+    34.75426,
+    71.29593,
+    34.75426
+],
+  "geometry": {"coordinates":[71.29593,34.75426],"type":"Point"}
+}

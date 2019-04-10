@@ -1,0 +1,67 @@
+{
+  "id": 1260195477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.93103,30.01136,69.93103,30.01136",
+    "geom:latitude":30.01136,
+    "geom:longitude":69.93103,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalchiani",
+    "gn:country_code":"PK",
+    "gn:dem":1083,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11152541,
+    "gn:latitude":30.01136,
+    "gn:longitude":69.93103,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Kalchiani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11152541
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3202f1661fd2ca271f2aa41091453a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1260195477,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260195477,
+    "wof:lastmodified":1536830421,
+    "wof:name":"Kalchiani",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.93103,
+    30.01136,
+    69.93103,
+    30.01136
+],
+  "geometry": {"coordinates":[69.93103000000001,30.01136],"type":"Point"}
+}

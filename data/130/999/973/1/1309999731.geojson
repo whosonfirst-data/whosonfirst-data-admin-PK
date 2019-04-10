@@ -1,0 +1,78 @@
+{
+  "id": 1309999731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.42803,35.85252,75.42803,35.85252",
+    "geom:latitude":35.85252,
+    "geom:longitude":75.42803,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Murtswa",
+    "gn:country_code":"PK",
+    "gn:dem":3023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419600,
+    "gn:latitude":35.85252,
+    "gn:longitude":75.42803,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Murtswa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419600
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d2e67f066c4485d8df48ee56fd224bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1309999731,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1309999731,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309999731,
+    "wof:lastmodified":1536651476,
+    "wof:name":"Murtswa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.42803,
+    35.85252,
+    75.42803,
+    35.85252
+],
+  "geometry": {"coordinates":[75.42803000000001,35.85252],"type":"Point"}
+}

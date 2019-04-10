@@ -1,0 +1,70 @@
+{
+  "id": 1243067595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.21025,29.91233,72.21025,29.91233",
+    "geom:latitude":29.91233,
+    "geom:longitude":72.21025,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sorku",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383013,
+    "gn:latitude":29.91233,
+    "gn:longitude":72.21025,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sorku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383013
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4b4625d61f05997a1a2ac583a176fbc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1243067595,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243067595,
+    "wof:lastmodified":1537680797,
+    "wof:name":"Sorku",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.21025,
+    29.91233,
+    72.21025,
+    29.91233
+],
+  "geometry": {"coordinates":[72.21025,29.91233],"type":"Point"}
+}

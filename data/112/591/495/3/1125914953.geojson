@@ -1,0 +1,78 @@
+{
+  "id": 1125914953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82306,32.78518,73.82306,32.78518",
+    "geom:latitude":32.78518,
+    "geom:longitude":73.82306,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPLL",
+    "gn:gn_pop":5000,
+    "gn:population":5000,
+    "iso:country":"PK",
+    "lbl:latitude":32.78518,
+    "lbl:longitude":73.82306,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPLL",
+    "qs_pg:gn_id":6940901,
+    "qs_pg:gn_pop":5000,
+    "qs_pg:name":"Mehmand Chak",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":4,
+    "qs_pg:qs_id":105835,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6940901,
+        "qs_pg:id":105835
+    },
+    "wof:country":"PK",
+    "wof:created":1497296287,
+    "wof:geomhash":"215ba90ffc359ba1ea3e68493a6f7ffe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1125914953,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125914953,
+    "wof:lastmodified":1509400453,
+    "wof:name":"Mehmand Chak",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:population":5000,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82306,
+    32.78518,
+    73.82306,
+    32.78518
+],
+  "geometry": {"coordinates":[73.82306,32.78518],"type":"Point"}
+}

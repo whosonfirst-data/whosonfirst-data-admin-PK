@@ -1,0 +1,79 @@
+{
+  "id": 1193010191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16987,33.41849,74.16987,33.41849",
+    "geom:latitude":33.41849,
+    "geom:longitude":74.16987,
+    "gn:admin1_code":"6",
+    "gn:admin2_code":"006",
+    "gn:asciiname":"Mohra Kundi",
+    "gn:country_code":"PK",
+    "gn:dem":1518,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415191,
+    "gn:latitude":33.41849,
+    "gn:longitude":74.16987,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mohra Kundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415191
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"71d012484e37133c674c69c2d048b04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1193010191,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1193010191,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193010191,
+    "wof:lastmodified":1536384307,
+    "wof:name":"Mohra Kundi",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16986999999997,
+    33.41849000000001,
+    74.16986999999997,
+    33.41849000000001
+],
+  "geometry": {"coordinates":[74.16986999999997,33.41849000000001],"type":"Point"}
+}

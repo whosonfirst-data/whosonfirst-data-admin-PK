@@ -1,0 +1,110 @@
+{
+  "id": 421180217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.73909,35.42255,75.73909,35.42255",
+    "geom:latitude":35.42255,
+    "geom:longitude":75.73909,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Shigar"
+    ],
+    "name:eng_x_preferred":[
+        "Shigar"
+    ],
+    "name:ita_x_preferred":[
+        "Shigar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u06af\u0631"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1165119,
+    "qs:gn_pop":0,
+    "qs:name":"Shigar",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":80,
+    "qs:photos_1k":16,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":80,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":424433,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":29214543,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":160,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692133,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165119,
+        "gp:id":29214543,
+        "qs:id":424433,
+        "wd:id":"Q7496305",
+        "wk:page":"Shigar"
+    },
+    "wof:country":"PK",
+    "wof:created":1459009248,
+    "wof:geomhash":"7c77bb9bddffcec625d3af94ab5b1205",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "locality_id":421180217,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":421180217,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":421180217,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":421180217,
+    "wof:lastmodified":1533678728,
+    "wof:name":"Shigar",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.73909,
+    35.42255,
+    75.73909,
+    35.42255
+],
+  "geometry": {"coordinates":[75.73909,35.42255],"type":"Point"}
+}

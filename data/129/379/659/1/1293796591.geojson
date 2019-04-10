@@ -1,0 +1,67 @@
+{
+  "id": 1293796591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6425,30.57687,66.6425,30.57687",
+    "geom:latitude":30.57687,
+    "geom:longitude":66.6425,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Saranan",
+    "gn:country_code":"PK",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11082145,
+    "gn:latitude":30.57687,
+    "gn:longitude":66.6425,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Saranan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11082145
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3bd37d2e75a19029d4ce8b33966826ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1293796591,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293796591,
+    "wof:lastmodified":1536837436,
+    "wof:name":"Saranan",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6425,
+    30.57687,
+    66.6425,
+    30.57687
+],
+  "geometry": {"coordinates":[66.6425,30.57687],"type":"Point"}
+}

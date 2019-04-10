@@ -1,0 +1,67 @@
+{
+  "id": 1310113565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.05927,28.30415,65.05927,28.30415",
+    "geom:latitude":28.30415,
+    "geom:longitude":65.05927,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Thalo",
+    "gn:country_code":"PK",
+    "gn:dem":656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11225770,
+    "gn:latitude":28.30415,
+    "gn:longitude":65.05927,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Thalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11225770
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6f9584eee6753dab4ea85a6e0c8c4bb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1310113565,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310113565,
+    "wof:lastmodified":1536984001,
+    "wof:name":"Thalo",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.05927,
+    28.30415,
+    65.05927,
+    28.30415
+],
+  "geometry": {"coordinates":[65.05927,28.30415],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293093003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.86717,34.32879,73.86717,34.32879",
+    "geom:latitude":34.32879,
+    "geom:longitude":73.86717,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gowaji",
+    "gn:country_code":"PK",
+    "gn:dem":2108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415901,
+    "gn:latitude":34.32879,
+    "gn:longitude":73.86717,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gowaji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415901
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2fbc5b6dac52ddf201529110527bb464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293093003,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293093003,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293093003,
+    "wof:lastmodified":1536857544,
+    "wof:name":"Gowaji",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.86717,
+    34.32879000000001,
+    73.86717,
+    34.32879000000001
+],
+  "geometry": {"coordinates":[73.86717,34.32879000000001],"type":"Point"}
+}

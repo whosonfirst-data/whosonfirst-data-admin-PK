@@ -1,0 +1,67 @@
+{
+  "id": 1310118559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72239,28.55882,67.72239,28.55882",
+    "geom:latitude":28.55882,
+    "geom:longitude":67.72239,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wasawa",
+    "gn:country_code":"PK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7068483,
+    "gn:latitude":28.55882,
+    "gn:longitude":67.72239,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Wasawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7068483
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77df624991f9d4b58cd92b86d1c47ed2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692221,
+            "locality_id":1310118559,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310118559,
+    "wof:lastmodified":1536977025,
+    "wof:name":"Wasawa",
+    "wof:parent_id":1108692221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72239,
+    28.55882,
+    67.72239,
+    28.55882
+],
+  "geometry": {"coordinates":[67.72239,28.55882],"type":"Point"}
+}

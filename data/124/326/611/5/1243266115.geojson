@@ -1,0 +1,67 @@
+{
+  "id": 1243266115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.13556,30.35417,67.13556,30.35417",
+    "geom:latitude":30.35417,
+    "geom:longitude":67.13556,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ghundak",
+    "gn:country_code":"PK",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178397,
+    "gn:latitude":30.35417,
+    "gn:longitude":67.13556,
+    "gn:modification_date":"2006-06-07",
+    "gn:name":"Ghundak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890438109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178397
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b85e9c304bcbdef1a4b557aadd95662a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1243266115,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243266115,
+    "wof:lastmodified":1537062696,
+    "wof:name":"Ghundak",
+    "wof:parent_id":890438109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13556,
+    30.35417,
+    67.13556,
+    30.35417
+],
+  "geometry": {"coordinates":[67.13556,30.35417],"type":"Point"}
+}

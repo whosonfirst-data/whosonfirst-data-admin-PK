@@ -1,0 +1,67 @@
+{
+  "id": 1243264613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.18981,34.12146,73.18981,34.12146",
+    "geom:latitude":34.12146,
+    "geom:longitude":73.18981,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uchhar",
+    "gn:country_code":"PK",
+    "gn:dem":1207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11425361,
+    "gn:latitude":34.12146,
+    "gn:longitude":73.18981,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Uchhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11425361
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83df0a1a20b7c54c7946ed0ac94a24e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1243264613,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243264613,
+    "wof:lastmodified":1537064795,
+    "wof:name":"Uchhar",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.18981,
+    34.12146,
+    73.18981,
+    34.12146
+],
+  "geometry": {"coordinates":[73.18980999999999,34.12146],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209607053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87466,33.24098,73.87466,33.24098",
+    "geom:latitude":33.24098,
+    "geom:longitude":73.87466,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Burjun",
+    "gn:country_code":"PK",
+    "gn:dem":765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386335,
+    "gn:latitude":33.24098,
+    "gn:longitude":73.87466,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Burjun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barjan",
+        "Burjun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3b342fc1cc89acc0403e025a4199b459",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209607053
+        }
+    ],
+    "wof:id":1209607053,
+    "wof:lastmodified":1537680859,
+    "wof:name":"Burjun",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87465999999998,
+    33.24098,
+    73.87465999999998,
+    33.24098
+],
+  "geometry": {"coordinates":[73.87465999999998,33.24098],"type":"Point"}
+}

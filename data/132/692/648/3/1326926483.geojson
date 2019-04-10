@@ -1,0 +1,78 @@
+{
+  "id": 1326926483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.77891,35.11664,75.77891,35.11664",
+    "geom:latitude":35.11664,
+    "geom:longitude":75.77891,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Mal",
+    "gn:country_code":"PK",
+    "gn:dem":3450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081011,
+    "gn:latitude":35.11664,
+    "gn:longitude":75.77891,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081011
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"99f03e366e0e5df19c3b80f3e6156cac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1326926483,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1326926483,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326926483,
+    "wof:lastmodified":1536913533,
+    "wof:name":"Mal",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.77891,
+    35.11664,
+    75.77891,
+    35.11664
+],
+  "geometry": {"coordinates":[75.77891,35.11664],"type":"Point"}
+}

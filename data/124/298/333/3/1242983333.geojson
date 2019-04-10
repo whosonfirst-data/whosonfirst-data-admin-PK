@@ -1,0 +1,67 @@
+{
+  "id": 1242983333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.78535,30.71245,66.78535,30.71245",
+    "geom:latitude":30.71245,
+    "geom:longitude":66.78535,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kulak",
+    "gn:country_code":"PK",
+    "gn:dem":1480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6258386,
+    "gn:latitude":30.71245,
+    "gn:longitude":66.78535,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6258386
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"45ebadf99de7ad9dc42c272b4be8fccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1242983333,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242983333,
+    "wof:lastmodified":1536975639,
+    "wof:name":"Kulak",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.78535,
+    30.71245,
+    66.78535,
+    30.71245
+],
+  "geometry": {"coordinates":[66.78534999999999,30.71245],"type":"Point"}
+}

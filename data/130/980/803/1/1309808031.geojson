@@ -1,0 +1,67 @@
+{
+  "id": 1309808031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.5,25.9,67.5,25.9",
+    "geom:latitude":25.9,
+    "geom:longitude":67.5,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Goth Mehn",
+    "gn:country_code":"PK",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109517,
+    "gn:latitude":25.9,
+    "gn:longitude":67.5,
+    "gn:modification_date":"1999-06-11",
+    "gn:name":"Goth Mehn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109517
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5c81f38d501df13eb596e45fbae13e1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692219,
+            "locality_id":1309808031,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1309808031,
+    "wof:lastmodified":1536928502,
+    "wof:name":"Goth Mehn",
+    "wof:parent_id":1108692219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.5,
+    25.9,
+    67.5,
+    25.9
+],
+  "geometry": {"coordinates":[67.5,25.9],"type":"Point"}
+}

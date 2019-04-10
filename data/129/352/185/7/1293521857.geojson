@@ -1,0 +1,67 @@
+{
+  "id": 1293521857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07673,30.96613,71.07673,30.96613",
+    "geom:latitude":30.96613,
+    "geom:longitude":71.07673,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Athwan Mile",
+    "gn:country_code":"PK",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7324050,
+    "gn:latitude":30.96613,
+    "gn:longitude":71.07673,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Athwan Mile",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7324050
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b8d5be7883596be8d250adc4951bce73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1293521857,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293521857,
+    "wof:lastmodified":1536737502,
+    "wof:name":"Athwan Mile",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07673,
+    30.96613,
+    71.07673,
+    30.96613
+],
+  "geometry": {"coordinates":[71.07673,30.96613],"type":"Point"}
+}

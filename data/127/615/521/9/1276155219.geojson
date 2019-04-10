@@ -1,0 +1,67 @@
+{
+  "id": 1276155219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.21071,32.15678,75.21071,32.15678",
+    "geom:latitude":32.15678,
+    "geom:longitude":75.21071,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Harial",
+    "gn:country_code":"PK",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177128,
+    "gn:latitude":32.15678,
+    "gn:longitude":75.21071,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Harial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177128
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2d0d7e831d127d14f5142ccf82a0538b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1276155219,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276155219,
+    "wof:lastmodified":1537016741,
+    "wof:name":"Harial",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.21070999999998,
+    32.15678,
+    75.21070999999998,
+    32.15678
+],
+  "geometry": {"coordinates":[75.21070999999998,32.15678],"type":"Point"}
+}

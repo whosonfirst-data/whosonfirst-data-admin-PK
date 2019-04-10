@@ -1,0 +1,67 @@
+{
+  "id": 1327030711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.02053,34.28244,72.02053,34.28244",
+    "geom:latitude":34.28244,
+    "geom:longitude":72.02053,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khandare",
+    "gn:country_code":"PK",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11605643,
+    "gn:latitude":34.28244,
+    "gn:longitude":72.02053,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Khandare",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11605643
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f49ee533e0a3e657086d0685159d318",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692299,
+            "locality_id":1327030711,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327030711,
+    "wof:lastmodified":1536763190,
+    "wof:name":"Khandare",
+    "wof:parent_id":1108692299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.02053000000002,
+    34.28244,
+    72.02053000000002,
+    34.28244
+],
+  "geometry": {"coordinates":[72.02053000000002,34.28244],"type":"Point"}
+}

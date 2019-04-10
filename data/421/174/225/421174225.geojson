@@ -1,0 +1,99 @@
+{
+  "id": 421174225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.75468,35.13558,76.75468,35.13558",
+    "geom:latitude":35.13558,
+    "geom:longitude":76.75468,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Iskit"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":7418487,
+    "qs:gn_pop":0,
+    "qs:name":"Diskit",
+    "qs:name_adm0":"India",
+    "qs:name_adm1":"Jammu and Kashmir",
+    "qs:photos":288,
+    "qs:photos_1k":58,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":288,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":318209,
+    "qs:woe_adm0":23424848,
+    "qs:woe_id":2276435,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":159,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692185,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418487,
+        "gp:id":2276435,
+        "qs:id":318209
+    },
+    "wof:country":"PK",
+    "wof:created":1459009024,
+    "wof:geomhash":"8bef3ac550415ce8d90da2c0ac97c4be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "locality_id":421174225,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":421174225,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":421174225,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":421174225,
+    "wof:lastmodified":1533678728,
+    "wof:name":"Diskit",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.75468,
+    35.13558,
+    76.75468,
+    35.13558
+],
+  "geometry": {"coordinates":[76.75467999999999,35.13558],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327132713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.99658,25.09888,69.99658,25.09888",
+    "geom:latitude":25.09888,
+    "geom:longitude":69.99658,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Arnaro",
+    "gn:country_code":"PK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352721,
+    "gn:latitude":25.09888,
+    "gn:longitude":69.99658,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Arnaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352721
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f1a88fb5ca9440df06da388e43f729a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1327132713,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1327132713,
+    "wof:lastmodified":1536613270,
+    "wof:name":"Arnaro",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.99658000000001,
+    25.09888,
+    69.99658000000001,
+    25.09888
+],
+  "geometry": {"coordinates":[69.99658000000001,25.09888],"type":"Point"}
+}

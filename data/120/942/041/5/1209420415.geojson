@@ -1,0 +1,64 @@
+{
+  "id": 1209420415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.40071,33.64022,73.40071,33.64022",
+    "geom:latitude":33.64022,
+    "geom:longitude":73.40071,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Parali",
+    "gn:country_code":"PK",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082793,
+    "gn:latitude":33.64022,
+    "gn:longitude":73.40071,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Parali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pihar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082793
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"06bfde408f96cb08377af3b9cbacd196",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209420415
+        }
+    ],
+    "wof:id":1209420415,
+    "wof:lastmodified":1537681660,
+    "wof:name":"Parali",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.40071,
+    33.64022,
+    73.40071,
+    33.64022
+],
+  "geometry": {"coordinates":[73.40071,33.64022],"type":"Point"}
+}

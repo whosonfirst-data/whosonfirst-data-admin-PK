@@ -1,0 +1,78 @@
+{
+  "id": 1309733425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.58031,34.37696,73.58031,34.37696",
+    "geom:latitude":34.37696,
+    "geom:longitude":73.58031,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kund",
+    "gn:country_code":"PK",
+    "gn:dem":2233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385696,
+    "gn:latitude":34.37696,
+    "gn:longitude":73.58031,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385696
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"41260ce4c803218aeafdf1a0b19d0644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1309733425,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1309733425,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309733425,
+    "wof:lastmodified":1537034013,
+    "wof:name":"Kund",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.58031,
+    34.37696,
+    73.58031,
+    34.37696
+],
+  "geometry": {"coordinates":[73.58031,34.37696],"type":"Point"}
+}

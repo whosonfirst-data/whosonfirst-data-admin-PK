@@ -1,0 +1,81 @@
+{
+  "id": 1259871539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13952,33.4523,74.13952,33.4523",
+    "geom:latitude":33.4523,
+    "geom:longitude":74.13952,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Palani",
+    "gn:country_code":"PK",
+    "gn:dem":1272,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415214,
+    "gn:latitude":33.4523,
+    "gn:longitude":74.13952,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Palani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "D\u0101dor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415214
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f2f9ca6157c2163233b0d05dcb3e7ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1259871539,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1259871539,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259871539,
+    "wof:lastmodified":1537681358,
+    "wof:name":"Palani",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13951999999998,
+    33.4523,
+    74.13951999999998,
+    33.4523
+],
+  "geometry": {"coordinates":[74.13951999999998,33.4523],"type":"Point"}
+}

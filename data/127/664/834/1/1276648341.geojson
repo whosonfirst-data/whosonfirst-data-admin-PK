@@ -1,0 +1,81 @@
+{
+  "id": 1276648341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12863,33.96309,74.12863,33.96309",
+    "geom:latitude":33.96309,
+    "geom:longitude":74.12863,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bain",
+    "gn:country_code":"PK",
+    "gn:dem":2778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414920,
+    "gn:latitude":33.96309,
+    "gn:longitude":74.12863,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414920
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e422ce1373f3837fc993926ad348466",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276648341,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276648341,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276648341,
+    "wof:lastmodified":1537681351,
+    "wof:name":"Bain",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12863,
+    33.96309,
+    74.12863,
+    33.96309
+],
+  "geometry": {"coordinates":[74.12863,33.96309],"type":"Point"}
+}

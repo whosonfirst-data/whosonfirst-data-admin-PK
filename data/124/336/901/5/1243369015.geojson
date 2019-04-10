@@ -1,0 +1,67 @@
+{
+  "id": 1243369015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.95975,29.96568,71.95975,29.96568",
+    "geom:latitude":29.96568,
+    "geom:longitude":71.95975,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mahiwala",
+    "gn:country_code":"PK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418409,
+    "gn:latitude":29.96568,
+    "gn:longitude":71.95975,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Mahiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418409
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2681894645fcc23afa4d3fd3f5027c6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1243369015,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243369015,
+    "wof:lastmodified":1536917737,
+    "wof:name":"Mahiwala",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.95975,
+    29.96568,
+    71.95975,
+    29.96568
+],
+  "geometry": {"coordinates":[71.95975,29.96568],"type":"Point"}
+}

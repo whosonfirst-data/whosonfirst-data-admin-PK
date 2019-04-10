@@ -1,0 +1,67 @@
+{
+  "id": 1226235309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.45278,27.20556,68.45278,27.20556",
+    "geom:latitude":27.20556,
+    "geom:longitude":68.45278,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Shah Waiz",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412006,
+    "gn:latitude":27.20556,
+    "gn:longitude":68.45278,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Shah Waiz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412006
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"85f13c8188d697659f48b311ebd39de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1226235309,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226235309,
+    "wof:lastmodified":1536948992,
+    "wof:name":"Shah Waiz",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.45278,
+    27.20556,
+    68.45278,
+    27.20556
+],
+  "geometry": {"coordinates":[68.45278,27.20556],"type":"Point"}
+}

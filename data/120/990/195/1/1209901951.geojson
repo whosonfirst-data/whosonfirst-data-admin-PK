@@ -1,0 +1,78 @@
+{
+  "id": 1209901951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.11258,35.20988,75.11258,35.20988",
+    "geom:latitude":35.20988,
+    "geom:longitude":75.11258,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khanai",
+    "gn:country_code":"PK",
+    "gn:dem":3496,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":11070697,
+    "gn:latitude":35.20988,
+    "gn:longitude":75.11258,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Khanai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070697
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ddd16521abf21b625a8ac6adf554529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209901951,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209901951,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209901951,
+    "wof:lastmodified":1536386034,
+    "wof:name":"Khanai",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.11258000000002,
+    35.20988,
+    75.11258000000002,
+    35.20988
+],
+  "geometry": {"coordinates":[75.11258000000002,35.20988],"type":"Point"}
+}

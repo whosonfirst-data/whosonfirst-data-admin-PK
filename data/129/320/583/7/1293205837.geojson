@@ -1,0 +1,67 @@
+{
+  "id": 1293205837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.8,32.23167,72.8,32.23167",
+    "geom:latitude":32.23167,
+    "geom:longitude":72.8,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jalalabad",
+    "gn:country_code":"PK",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176380,
+    "gn:latitude":32.23167,
+    "gn:longitude":72.8,
+    "gn:modification_date":"2001-11-23",
+    "gn:name":"Jal\u0101l\u0101b\u0101d",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176380
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7b2fc5c73828ce1fd438a7e522c2815c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1293205837,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293205837,
+    "wof:lastmodified":1536696266,
+    "wof:name":"Jalalabad",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.8,
+    32.23167,
+    72.8,
+    32.23167
+],
+  "geometry": {"coordinates":[72.8,32.23167],"type":"Point"}
+}

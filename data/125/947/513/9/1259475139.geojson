@@ -1,0 +1,92 @@
+{
+  "id": 1259475139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76393,33.68107,73.76393,33.68107",
+    "geom:latitude":33.68107,
+    "geom:longitude":73.76393,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Tarar Khal",
+    "gn:country_code":"PK",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163836,
+    "gn:latitude":33.68107,
+    "gn:longitude":73.76393,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tarar Khal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Trarkhel",
+        "Tarakhel",
+        "Tar\u0101r Kh\u0101l",
+        "Tarar Khal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163836
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02539fdc5cef01bcf529fe6d7542a996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1259475139,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259475139,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259475139,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259475139,
+    "wof:lastmodified":1537679244,
+    "wof:name":"Tarar Khal",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76393,
+    33.68107,
+    73.76393,
+    33.68107
+],
+  "geometry": {"coordinates":[73.76393,33.68107],"type":"Point"}
+}

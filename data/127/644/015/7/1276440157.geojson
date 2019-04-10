@@ -1,0 +1,67 @@
+{
+  "id": 1276440157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.91389,26.725,68.91389,26.725",
+    "geom:latitude":26.725,
+    "geom:longitude":68.91389,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Balati",
+    "gn:country_code":"PK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369614,
+    "gn:latitude":26.725,
+    "gn:longitude":68.91389,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Balati",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369614
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65ee82e1b4435de20984e5c0372687e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1276440157,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276440157,
+    "wof:lastmodified":1536634166,
+    "wof:name":"Balati",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.91389000000001,
+    26.725,
+    68.91389000000001,
+    26.725
+],
+  "geometry": {"coordinates":[68.91389000000001,26.725],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1259683557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.63339,32.52979,74.63339,32.52979",
+    "geom:latitude":32.52979,
+    "geom:longitude":74.63339,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Wadi Tejar",
+    "gn:country_code":"PK",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371983,
+    "gn:latitude":32.52979,
+    "gn:longitude":74.63339,
+    "gn:modification_date":"2001-09-27",
+    "gn:name":"Wadi Tejar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tejar Kalan",
+        "Wadi Tejar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371983
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58679cc3f42d83a56a875f5e113def97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1259683557,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259683557,
+    "wof:lastmodified":1537680600,
+    "wof:name":"Wadi Tejar",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.63339,
+    32.52979000000001,
+    74.63339,
+    32.52979000000001
+],
+  "geometry": {"coordinates":[74.63339000000001,32.52979000000001],"type":"Point"}
+}

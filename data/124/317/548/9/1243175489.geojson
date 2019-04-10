@@ -1,0 +1,67 @@
+{
+  "id": 1243175489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.7998,32.52085,69.7998,32.52085",
+    "geom:latitude":32.52085,
+    "geom:longitude":69.7998,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Biga",
+    "gn:country_code":"PK",
+    "gn:dem":1852,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9876619,
+    "gn:latitude":32.52085,
+    "gn:longitude":69.7998,
+    "gn:modification_date":"2014-12-05",
+    "gn:name":"Biga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9876619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fae69f10c7972f92c27085e4beabd15a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1243175489,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243175489,
+    "wof:lastmodified":1536699467,
+    "wof:name":"Biga",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.7998,
+    32.52085,
+    69.7998,
+    32.52085
+],
+  "geometry": {"coordinates":[69.7998,32.52085],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 1276356347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.6509,36.12526,72.6509,36.12526",
+    "geom:latitude":36.12526,
+    "geom:longitude":72.6509,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Noghar Shal",
+    "gn:country_code":"PK",
+    "gn:dem":3326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7457729,
+    "gn:latitude":36.12526,
+    "gn:longitude":72.6509,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Noghar Shal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Noghor Sh\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7457729
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d49dd55cb8d384f017ab125e5f3428d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1276356347,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1276356347,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1276356347,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276356347,
+    "wof:lastmodified":1537681922,
+    "wof:name":"Noghar Shal",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.6509,
+    36.12526,
+    72.6509,
+    36.12526
+],
+  "geometry": {"coordinates":[72.65089999999999,36.12526],"type":"Point"}
+}

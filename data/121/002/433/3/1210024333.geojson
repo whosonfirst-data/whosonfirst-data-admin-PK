@@ -1,0 +1,73 @@
+{
+  "id": 1210024333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.99823,28.43771,67.99823,28.43771",
+    "geom:latitude":28.43771,
+    "geom:longitude":67.99823,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Imam Bakhsh Takri",
+    "gn:country_code":"PK",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371955,
+    "gn:latitude":28.43771,
+    "gn:longitude":67.99823,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Imam Bakhsh Takri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Takri Im\u0101m Bakhsh",
+        "Im\u0101m akhsh Takri",
+        "Takri Im\u0101m Bakh",
+        "Imam Bakhsh Takri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371955
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fe19876db8f6c190c3e821789377fef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1210024333,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1210024333,
+    "wof:lastmodified":1537681827,
+    "wof:name":"Imam Bakhsh Takri",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.99823,
+    28.43771,
+    67.99823,
+    28.43771
+],
+  "geometry": {"coordinates":[67.99823000000001,28.43771],"type":"Point"}
+}

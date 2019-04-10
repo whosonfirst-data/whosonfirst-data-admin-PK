@@ -1,0 +1,67 @@
+{
+  "id": 1344241603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.17871,33.56395,73.17871,33.56395",
+    "geom:latitude":33.56395,
+    "geom:longitude":73.17871,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gaghari",
+    "gn:country_code":"PK",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449803,
+    "gn:latitude":33.56395,
+    "gn:longitude":73.17871,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gaghari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675741,
+        1108692213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449803
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"165a020805a90eb1161c128703bef0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1344241603,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1344241603,
+    "wof:lastmodified":1536611710,
+    "wof:name":"Gaghari",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.17871,
+    33.56395,
+    73.17871,
+    33.56395
+],
+  "geometry": {"coordinates":[73.17871,33.56395],"type":"Point"}
+}

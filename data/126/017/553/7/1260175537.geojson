@@ -1,0 +1,78 @@
+{
+  "id": 1260175537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63053,35.7088,73.63053,35.7088",
+    "geom:latitude":35.7088,
+    "geom:longitude":73.63053,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rajikot",
+    "gn:country_code":"PK",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167354,
+    "gn:latitude":35.7088,
+    "gn:longitude":73.63053,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Rajikot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167354
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"911291572ec66e35262b0e6577628289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260175537,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260175537,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260175537,
+    "wof:lastmodified":1536857660,
+    "wof:name":"Rajikot",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63053000000002,
+    35.7088,
+    73.63053000000002,
+    35.7088
+],
+  "geometry": {"coordinates":[73.63053000000002,35.7088],"type":"Point"}
+}

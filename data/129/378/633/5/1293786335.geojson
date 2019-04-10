@@ -1,0 +1,67 @@
+{
+  "id": 1293786335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.26733,28.09747,63.26733,28.09747",
+    "geom:latitude":28.09747,
+    "geom:longitude":63.26733,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kabko",
+    "gn:country_code":"PK",
+    "gn:dem":509,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11200905,
+    "gn:latitude":28.09747,
+    "gn:longitude":63.26733,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11200905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"313f3066bdd7b60a04ba3650fd6ba1cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1293786335,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293786335,
+    "wof:lastmodified":1536852180,
+    "wof:name":"Kabko",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.26733,
+    28.09747,
+    63.26733,
+    28.09747
+],
+  "geometry": {"coordinates":[63.26733,28.09747],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242599219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.48188,34.50657,73.48188,34.50657",
+    "geom:latitude":34.50657,
+    "geom:longitude":73.48188,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bhent",
+    "gn:country_code":"PK",
+    "gn:dem":1378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406417,
+    "gn:latitude":34.50657,
+    "gn:longitude":73.48188,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Bhent",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406417
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"548475eb0c128d0eeaef6316e3aa0753",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1242599219,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1242599219,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242599219,
+    "wof:lastmodified":1537031212,
+    "wof:name":"Bhent",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.48188,
+    34.50657,
+    73.48188,
+    34.50657
+],
+  "geometry": {"coordinates":[73.48188,34.50657],"type":"Point"}
+}

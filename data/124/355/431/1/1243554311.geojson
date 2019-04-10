@@ -1,0 +1,67 @@
+{
+  "id": 1243554311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.14348,31.65061,74.14348,31.65061",
+    "geom:latitude":31.65061,
+    "geom:longitude":74.14348,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Madina Colony",
+    "gn:country_code":"PK",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531672,
+    "gn:latitude":31.65061,
+    "gn:longitude":74.14348,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Madina Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531672
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e1d50cf7dfa3457b0dad594bd79f2b33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1243554311,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243554311,
+    "wof:lastmodified":1536649859,
+    "wof:name":"Madina Colony",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.14348000000003,
+    31.65061,
+    74.14348000000003,
+    31.65061
+],
+  "geometry": {"coordinates":[74.14348000000003,31.65061],"type":"Point"}
+}

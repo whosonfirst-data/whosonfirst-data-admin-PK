@@ -1,0 +1,81 @@
+{
+  "id": 1309733421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.74308,33.56437,73.74308,33.56437",
+    "geom:latitude":33.56437,
+    "geom:longitude":73.74308,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Samalian",
+    "gn:country_code":"PK",
+    "gn:dem":763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100625,
+    "gn:latitude":33.56437,
+    "gn:longitude":73.74308,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Samalian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101m\u0101li\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100625
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ef6be4ddb0824aece91a4f720d16c7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1309733421,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1309733421,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309733421,
+    "wof:lastmodified":1537681693,
+    "wof:name":"Samalian",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.74308,
+    33.56437,
+    73.74308,
+    33.56437
+],
+  "geometry": {"coordinates":[73.74308000000001,33.56437],"type":"Point"}
+}

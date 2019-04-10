@@ -1,0 +1,64 @@
+{
+  "id": 1209638495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79627,31.00782,73.79627,31.00782",
+    "geom:latitude":31.00782,
+    "geom:longitude":73.79627,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chak Two",
+    "gn:country_code":"PK",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388134,
+    "gn:latitude":31.00782,
+    "gn:longitude":73.79627,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Chak Two",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Saresar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388134
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"deb14cd37b105e2cf69361389ee6d9c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638495
+        }
+    ],
+    "wof:id":1209638495,
+    "wof:lastmodified":1537680908,
+    "wof:name":"Chak Two",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79626999999998,
+    31.00782,
+    73.79626999999998,
+    31.00782
+],
+  "geometry": {"coordinates":[73.79626999999998,31.00782],"type":"Point"}
+}

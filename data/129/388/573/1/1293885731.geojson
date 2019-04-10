@@ -1,0 +1,67 @@
+{
+  "id": 1293885731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.80408,26.56273,62.80408,26.56273",
+    "geom:latitude":26.56273,
+    "geom:longitude":62.80408,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Kujug",
+    "gn:country_code":"PK",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109850,
+    "gn:latitude":26.56273,
+    "gn:longitude":62.80408,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Kujug",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109850
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"89b206ffb992b17c9a425d951152a8af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1293885731,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293885731,
+    "wof:lastmodified":1536710430,
+    "wof:name":"Kujug",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.80408000000001,
+    26.56273,
+    62.80408000000001,
+    26.56273
+],
+  "geometry": {"coordinates":[62.80408000000001,26.56273],"type":"Point"}
+}

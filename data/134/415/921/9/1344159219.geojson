@@ -1,0 +1,67 @@
+{
+  "id": 1344159219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.24311,30.40955,68.24311,30.40955",
+    "geom:latitude":30.40955,
+    "geom:longitude":68.24311,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Biani",
+    "gn:country_code":"PK",
+    "gn:dem":1916,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366070,
+    "gn:latitude":30.40955,
+    "gn:longitude":68.24311,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Biani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366070
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77d765d36c1c842b7bc7d8f13ff2feb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1344159219,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344159219,
+    "wof:lastmodified":1536733315,
+    "wof:name":"Biani",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.24311,
+    30.40955,
+    68.24311,
+    30.40955
+],
+  "geometry": {"coordinates":[68.24311,30.40955],"type":"Point"}
+}

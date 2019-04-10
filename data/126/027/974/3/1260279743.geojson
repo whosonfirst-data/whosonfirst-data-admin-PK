@@ -1,0 +1,78 @@
+{
+  "id": 1260279743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.22319,34.95609,76.22319,34.95609",
+    "geom:latitude":34.95609,
+    "geom:longitude":76.22319,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Zhoksi Thang",
+    "gn:country_code":"PK",
+    "gn:dem":2775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538646,
+    "gn:latitude":34.95609,
+    "gn:longitude":76.22319,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Zhoksi Thang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538646
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e75ff497c2ae16284a6377a25ccc3e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260279743,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260279743,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260279743,
+    "wof:lastmodified":1536717308,
+    "wof:name":"Zhoksi Thang",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.22319,
+    34.95609,
+    76.22319,
+    34.95609
+],
+  "geometry": {"coordinates":[76.22319,34.95609],"type":"Point"}
+}

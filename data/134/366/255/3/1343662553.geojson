@@ -1,0 +1,70 @@
+{
+  "id": 1343662553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11003,34.67931,73.11003,34.67931",
+    "geom:latitude":34.67931,
+    "geom:longitude":73.11003,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Thilar",
+    "gn:country_code":"PK",
+    "gn:dem":1580,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389827,
+    "gn:latitude":34.67931,
+    "gn:longitude":73.11003,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thilar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thikar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389827
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3ce8e1113be1fd91f958734359db87f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1343662553,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343662553,
+    "wof:lastmodified":1537680953,
+    "wof:name":"Thilar",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11003000000002,
+    34.67931,
+    73.11003000000002,
+    34.67931
+],
+  "geometry": {"coordinates":[73.11003000000002,34.67931],"type":"Point"}
+}

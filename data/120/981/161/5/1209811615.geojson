@@ -1,0 +1,86 @@
+{
+  "id": 1209811615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64291,36.32522,73.64291,36.32522",
+    "geom:latitude":36.32522,
+    "geom:longitude":73.64291,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kharbil",
+    "gn:country_code":"PK",
+    "gn:dem":2954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11043780,
+    "gn:latitude":36.32522,
+    "gn:longitude":73.64291,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Kharbil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11043780
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5a044a0f270e9d87310f865a25f910ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1209811615,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1209811615,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1209811615,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209811615,
+    "wof:lastmodified":1536386176,
+    "wof:name":"Kharbil",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64291,
+    36.32522,
+    73.64291,
+    36.32522
+],
+  "geometry": {"coordinates":[73.64291,36.32522],"type":"Point"}
+}

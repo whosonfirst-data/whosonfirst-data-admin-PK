@@ -1,0 +1,67 @@
+{
+  "id": 1343365775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.22869,32.34298,71.22869,32.34298",
+    "geom:latitude":32.34298,
+    "geom:longitude":71.22869,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Namdar Khel",
+    "gn:country_code":"PK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365659,
+    "gn:latitude":32.34298,
+    "gn:longitude":71.22869,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Namdar Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365659
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8cb3cac2911d553167499e18c8030092",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1343365775,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343365775,
+    "wof:lastmodified":1536882109,
+    "wof:name":"Namdar Khel",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.22869,
+    32.34298,
+    71.22869,
+    32.34298
+],
+  "geometry": {"coordinates":[71.22869,32.34298],"type":"Point"}
+}

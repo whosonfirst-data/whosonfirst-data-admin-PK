@@ -1,0 +1,64 @@
+{
+  "id": 1209409815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.03617,33.90689,74.03617,33.90689",
+    "geom:latitude":33.90689,
+    "geom:longitude":74.03617,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Charhun",
+    "gn:country_code":"PK",
+    "gn:dem":1796,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414812,
+    "gn:latitude":33.90689,
+    "gn:longitude":74.03617,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Charhun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Char\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414812
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"325a2366c11e2b80a67c70ccae1756bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209409815
+        }
+    ],
+    "wof:id":1209409815,
+    "wof:lastmodified":1537681347,
+    "wof:name":"Charhun",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.03617,
+    33.90689,
+    74.03617,
+    33.90689
+],
+  "geometry": {"coordinates":[74.03617,33.90689],"type":"Point"}
+}

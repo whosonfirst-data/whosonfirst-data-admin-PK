@@ -1,0 +1,67 @@
+{
+  "id": 1343584645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10107,30.61776,72.10107,30.61776",
+    "geom:latitude":30.61776,
+    "geom:longitude":72.10107,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pariwala",
+    "gn:country_code":"PK",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7336136,
+    "gn:latitude":30.61776,
+    "gn:longitude":72.10107,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pariwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7336136
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f4bf567a4eede129c8bdab61531d8e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1343584645,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343584645,
+    "wof:lastmodified":1537061827,
+    "wof:name":"Pariwala",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10106999999998,
+    30.61776,
+    72.10106999999998,
+    30.61776
+],
+  "geometry": {"coordinates":[72.10106999999998,30.61776],"type":"Point"}
+}

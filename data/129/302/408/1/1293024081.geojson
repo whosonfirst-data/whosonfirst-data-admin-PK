@@ -1,0 +1,67 @@
+{
+  "id": 1293024081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.38637,28.82865,70.38637,28.82865",
+    "geom:latitude":28.82865,
+    "geom:longitude":70.38637,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mad Murad",
+    "gn:country_code":"PK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355402,
+    "gn:latitude":28.82865,
+    "gn:longitude":70.38637,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mad Murad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355402
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57600895c0e146b3a73a9a12731c8126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1293024081,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293024081,
+    "wof:lastmodified":1536958129,
+    "wof:name":"Mad Murad",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.38637,
+    28.82865,
+    70.38637,
+    28.82865
+],
+  "geometry": {"coordinates":[70.38637,28.82865],"type":"Point"}
+}

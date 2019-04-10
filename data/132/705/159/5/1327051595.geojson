@@ -1,0 +1,78 @@
+{
+  "id": 1327051595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.21457,33.95499,74.21457,33.95499",
+    "geom:latitude":33.95499,
+    "geom:longitude":74.21457,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pantar",
+    "gn:country_code":"PK",
+    "gn:dem":2413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11008518,
+    "gn:latitude":33.95499,
+    "gn:longitude":74.21457,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Pantar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11008518
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2808985826822897a41d5cdbb7c16f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1327051595,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1327051595,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327051595,
+    "wof:lastmodified":1536733001,
+    "wof:name":"Pantar",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.21457,
+    33.95499,
+    74.21457,
+    33.95499
+],
+  "geometry": {"coordinates":[74.21456999999999,33.95499],"type":"Point"}
+}

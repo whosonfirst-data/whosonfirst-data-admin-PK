@@ -1,0 +1,73 @@
+{
+  "id": 1243561425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.56537,35.23256,72.56537,35.23256",
+    "geom:latitude":35.23256,
+    "geom:longitude":72.56537,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kunr",
+    "gn:country_code":"PK",
+    "gn:dem":1757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377632,
+    "gn:latitude":35.23256,
+    "gn:longitude":72.56537,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kunr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kunr"
+    ],
+    "name:und_x_variant":[
+        "K\u016bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377632
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a1e96d7676194c2642bce283851ff0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1243561425,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243561425,
+    "wof:lastmodified":1537680682,
+    "wof:name":"Kunr",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.56537,
+    35.23256,
+    72.56537,
+    35.23256
+],
+  "geometry": {"coordinates":[72.56537,35.23256],"type":"Point"}
+}

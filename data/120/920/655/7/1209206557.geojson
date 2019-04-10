@@ -1,0 +1,64 @@
+{
+  "id": 1209206557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.66772,33.68292,73.66772,33.68292",
+    "geom:latitude":33.68292,
+    "geom:longitude":73.66772,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhera",
+    "gn:country_code":"PK",
+    "gn:dem":1300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100362,
+    "gn:latitude":33.68292,
+    "gn:longitude":73.66772,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Dhera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100362
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81dd3cac14a64b6e540ffce087e5bc4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209206557
+        }
+    ],
+    "wof:id":1209206557,
+    "wof:lastmodified":1537681691,
+    "wof:name":"Dhera",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.66771999999997,
+    33.68292,
+    73.66771999999997,
+    33.68292
+],
+  "geometry": {"coordinates":[73.66771999999997,33.68292],"type":"Point"}
+}

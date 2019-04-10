@@ -1,0 +1,81 @@
+{
+  "id": 1343347269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.39691,35.28519,76.39691,35.28519",
+    "geom:latitude":35.28519,
+    "geom:longitude":76.39691,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bale Gund",
+    "gn:country_code":"PK",
+    "gn:dem":2622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418457,
+    "gn:latitude":35.28519,
+    "gn:longitude":76.39691,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Bale Gund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brale Gone"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418457
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"899491a0dbfb738d98e653a8dca3e684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1343347269,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1343347269,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343347269,
+    "wof:lastmodified":1537681900,
+    "wof:name":"Bale Gund",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.39690999999998,
+    35.28519,
+    76.39690999999998,
+    35.28519
+],
+  "geometry": {"coordinates":[76.39690999999998,35.28519],"type":"Point"}
+}

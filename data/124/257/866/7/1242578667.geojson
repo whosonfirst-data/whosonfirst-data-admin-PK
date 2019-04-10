@@ -1,0 +1,67 @@
+{
+  "id": 1242578667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.02932,35.18092,73.02932,35.18092",
+    "geom:latitude":35.18092,
+    "geom:longitude":73.02932,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bandlu",
+    "gn:country_code":"PK",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045538,
+    "gn:latitude":35.18092,
+    "gn:longitude":73.02932,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Bandlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045538
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e33d34c4cb28a15cd9fac923037925b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1242578667,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578667,
+    "wof:lastmodified":1543515383,
+    "wof:name":"Bandlu",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.02932,
+    35.18092,
+    73.02932,
+    35.18092
+],
+  "geometry": {"coordinates":[73.02932,35.18092],"type":"Point"}
+}

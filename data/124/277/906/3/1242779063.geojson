@@ -1,0 +1,67 @@
+{
+  "id": 1242779063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48225,32.13416,70.48225,32.13416",
+    "geom:latitude":32.13416,
+    "geom:longitude":70.48225,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mahsudabad",
+    "gn:country_code":"PK",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11122110,
+    "gn:latitude":32.13416,
+    "gn:longitude":70.48225,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Mahsudabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11122110
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c10264498652439a9b878116346fa3f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692407,
+            "locality_id":1242779063,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242779063,
+    "wof:lastmodified":1543515590,
+    "wof:name":"Mahsudabad",
+    "wof:parent_id":1108692407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48225,
+    32.13415999999999,
+    70.48225,
+    32.13415999999999
+],
+  "geometry": {"coordinates":[70.48224999999999,32.13415999999999],"type":"Point"}
+}

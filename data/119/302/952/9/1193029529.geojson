@@ -1,0 +1,67 @@
+{
+  "id": 1193029529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42325,34.77809,71.42325,34.77809",
+    "geom:latitude":34.77809,
+    "geom:longitude":71.42325,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kammar Sar",
+    "gn:country_code":"PK",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9265800,
+    "gn:latitude":34.77809,
+    "gn:longitude":71.42325,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Kammar Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9265800
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2be31966e3142725376f2f188402e119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1193029529,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193029529,
+    "wof:lastmodified":1543515440,
+    "wof:name":"Kammar Sar",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42325,
+    34.77809,
+    71.42325,
+    34.77809
+],
+  "geometry": {"coordinates":[71.42325,34.77809],"type":"Point"}
+}

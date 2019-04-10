@@ -1,0 +1,67 @@
+{
+  "id": 1259879541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.29207,31.85048,72.29207,31.85048",
+    "geom:latitude":31.85048,
+    "geom:longitude":72.29207,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hamidoabad",
+    "gn:country_code":"PK",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11460251,
+    "gn:latitude":31.85048,
+    "gn:longitude":72.29207,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hamidoabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11460251
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"448c281ab11bfb8ff1bb7ac75826c5c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1259879541,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259879541,
+    "wof:lastmodified":1536785372,
+    "wof:name":"Hamidoabad",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.29207,
+    31.85048,
+    72.29207,
+    31.85048
+],
+  "geometry": {"coordinates":[72.29207,31.85048],"type":"Point"}
+}

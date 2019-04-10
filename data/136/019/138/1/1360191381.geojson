@@ -1,0 +1,67 @@
+{
+  "id": 1360191381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.09768,35.06196,72.09768,35.06196",
+    "geom:latitude":35.06196,
+    "geom:longitude":72.09768,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mashwano",
+    "gn:country_code":"PK",
+    "gn:dem":1774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478194,
+    "gn:latitude":35.06196,
+    "gn:longitude":72.09768,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mashwano",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478194
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2749e44637f9c2daaaa0283806b4e14e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1360191381,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360191381,
+    "wof:lastmodified":1543515249,
+    "wof:name":"Mashwano",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09768000000003,
+    35.06196,
+    72.09768000000003,
+    35.06196
+],
+  "geometry": {"coordinates":[72.09768000000003,35.06196],"type":"Point"}
+}

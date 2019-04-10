@@ -1,0 +1,67 @@
+{
+  "id": 1209622011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83521,34.90032,71.83521,34.90032",
+    "geom:latitude":34.90032,
+    "geom:longitude":71.83521,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Kaladag",
+    "gn:country_code":"PK",
+    "gn:dem":938,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111035,
+    "gn:latitude":34.90032,
+    "gn:longitude":71.83521,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Kaladag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111035
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6fb1c995e9f42137f9fad10f44998b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1209622011,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209622011,
+    "wof:lastmodified":1543515653,
+    "wof:name":"Kaladag",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83521,
+    34.90032,
+    71.83521,
+    34.90032
+],
+  "geometry": {"coordinates":[71.83521,34.90032],"type":"Point"}
+}

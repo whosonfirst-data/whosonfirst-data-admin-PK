@@ -1,0 +1,67 @@
+{
+  "id": 1226748273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.37139,34.69,73.37139,34.69",
+    "geom:latitude":34.69,
+    "geom:longitude":73.37139,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pandori",
+    "gn:country_code":"PK",
+    "gn:dem":2959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406278,
+    "gn:latitude":34.69,
+    "gn:longitude":73.37139,
+    "gn:modification_date":"2006-12-13",
+    "gn:name":"Pandori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406278
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"101c9ba554c8d98e606fcd6554ab898e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1226748273,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748273,
+    "wof:lastmodified":1536712181,
+    "wof:name":"Pandori",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.37139,
+    34.69,
+    73.37139,
+    34.69
+],
+  "geometry": {"coordinates":[73.37139000000001,34.69],"type":"Point"}
+}

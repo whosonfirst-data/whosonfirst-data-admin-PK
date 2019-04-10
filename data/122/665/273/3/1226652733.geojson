@@ -1,0 +1,67 @@
+{
+  "id": 1226652733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.81827,34.96379,72.81827,34.96379",
+    "geom:latitude":34.96379,
+    "geom:longitude":72.81827,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gandorai",
+    "gn:country_code":"PK",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378299,
+    "gn:latitude":34.96379,
+    "gn:longitude":72.81827,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Gandorai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378299
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3ec1dc71eadf49bb1145409c59b71eb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1226652733,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226652733,
+    "wof:lastmodified":1536848204,
+    "wof:name":"Gandorai",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.81827,
+    34.96379,
+    72.81827,
+    34.96379
+],
+  "geometry": {"coordinates":[72.81827,34.96379],"type":"Point"}
+}

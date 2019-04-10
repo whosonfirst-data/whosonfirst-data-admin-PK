@@ -1,0 +1,67 @@
+{
+  "id": 1259879155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39155,31.04672,73.39155,31.04672",
+    "geom:latitude":31.04672,
+    "geom:longitude":73.39155,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thatta Nadir",
+    "gn:country_code":"PK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388798,
+    "gn:latitude":31.04672,
+    "gn:longitude":73.39155,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thatta Nadir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692169
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388798
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5011eaab75b29cba97ec286d61d743c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1259879155,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259879155,
+    "wof:lastmodified":1536785924,
+    "wof:name":"Thatta Nadir",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39155,
+    31.04672,
+    73.39155,
+    31.04672
+],
+  "geometry": {"coordinates":[73.39155,31.04672],"type":"Point"}
+}

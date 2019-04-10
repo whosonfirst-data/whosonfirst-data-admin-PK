@@ -1,0 +1,67 @@
+{
+  "id": 1259893401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6375,32.26806,69.6375,32.26806",
+    "geom:latitude":32.26806,
+    "geom:longitude":69.6375,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jarmonai",
+    "gn:country_code":"PK",
+    "gn:dem":1244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107552,
+    "gn:latitude":32.26806,
+    "gn:longitude":69.6375,
+    "gn:modification_date":"2005-05-03",
+    "gn:name":"Jarmonai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107552
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e0f36e1215dc77e5fd1c2fdec8cae86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1259893401,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259893401,
+    "wof:lastmodified":1536765156,
+    "wof:name":"Jarmonai",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6375,
+    32.26806,
+    69.6375,
+    32.26806
+],
+  "geometry": {"coordinates":[69.6375,32.26806],"type":"Point"}
+}

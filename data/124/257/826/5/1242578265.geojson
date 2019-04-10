@@ -1,0 +1,67 @@
+{
+  "id": 1242578265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51949,35.12392,72.51949,35.12392",
+    "geom:latitude":35.12392,
+    "geom:longitude":72.51949,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Damana",
+    "gn:country_code":"PK",
+    "gn:dem":1323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377496,
+    "gn:latitude":35.12392,
+    "gn:longitude":72.51949,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Damana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377496
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6ef87a2e3fd2e246f76d582f9c669bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242578265,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242578265,
+    "wof:lastmodified":1543515372,
+    "wof:name":"Damana",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51949,
+    35.12392,
+    72.51949,
+    35.12392
+],
+  "geometry": {"coordinates":[72.51949,35.12392],"type":"Point"}
+}

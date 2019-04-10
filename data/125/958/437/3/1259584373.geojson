@@ -1,0 +1,67 @@
+{
+  "id": 1259584373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70505,34.75759,72.70505,34.75759",
+    "geom:latitude":34.75759,
+    "geom:longitude":72.70505,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Landai",
+    "gn:country_code":"PK",
+    "gn:dem":1544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482230,
+    "gn:latitude":34.75759,
+    "gn:longitude":72.70505,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Landai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482230
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1b09d69343ab17182a9bc0938404786b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1259584373,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259584373,
+    "wof:lastmodified":1536713871,
+    "wof:name":"Landai",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70505,
+    34.75759,
+    72.70505,
+    34.75759
+],
+  "geometry": {"coordinates":[72.70505,34.75759],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225943653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.329,32.60208,73.329,32.60208",
+    "geom:latitude":32.60208,
+    "geom:longitude":73.329,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kapur",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371296,
+    "gn:latitude":32.60208,
+    "gn:longitude":73.329,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Kapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371296
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43dc15cdeb5825367a49b3c972eee805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1225943653,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225943653,
+    "wof:lastmodified":1536871326,
+    "wof:name":"Kapur",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.329,
+    32.60208,
+    73.329,
+    32.60208
+],
+  "geometry": {"coordinates":[73.32899999999999,32.60208],"type":"Point"}
+}

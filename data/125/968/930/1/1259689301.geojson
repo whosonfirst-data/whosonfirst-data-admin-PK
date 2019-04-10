@@ -1,0 +1,67 @@
+{
+  "id": 1259689301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.93436,31.27586,70.93436,31.27586",
+    "geom:latitude":31.27586,
+    "geom:longitude":70.93436,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Hassuwala",
+    "gn:country_code":"PK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419638,
+    "gn:latitude":31.27586,
+    "gn:longitude":70.93436,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Hassuwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419638
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7b4b61ca3e7e36174a487842802623b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1259689301,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259689301,
+    "wof:lastmodified":1537056132,
+    "wof:name":"Hassuwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.93436,
+    31.27586,
+    70.93436,
+    31.27586
+],
+  "geometry": {"coordinates":[70.93436,31.27586],"type":"Point"}
+}

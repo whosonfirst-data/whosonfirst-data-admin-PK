@@ -1,0 +1,81 @@
+{
+  "id": 1260275163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.66806,34.3661,73.66806,34.3661",
+    "geom:latitude":34.3661,
+    "geom:longitude":73.66806,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bagnun Bhaik",
+    "gn:country_code":"PK",
+    "gn:dem":2235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385755,
+    "gn:latitude":34.3661,
+    "gn:longitude":73.66806,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bagnun Bhaik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagnu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385755
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a53c2a94408877a4af0ebccf88e4bc28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260275163,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260275163,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260275163,
+    "wof:lastmodified":1537680845,
+    "wof:name":"Bagnun Bhaik",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.66806,
+    34.3661,
+    73.66806,
+    34.3661
+],
+  "geometry": {"coordinates":[73.66806,34.3661],"type":"Point"}
+}

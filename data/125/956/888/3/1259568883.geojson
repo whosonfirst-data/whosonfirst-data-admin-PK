@@ -1,0 +1,78 @@
+{
+  "id": 1259568883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.0519,35.17844,74.0519,35.17844",
+    "geom:latitude":35.17844,
+    "geom:longitude":74.0519,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Koda Bathhk",
+    "gn:country_code":"PK",
+    "gn:dem":3348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069470,
+    "gn:latitude":35.17844,
+    "gn:longitude":74.0519,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Koda Bathhk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069470
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b10088b586de69b89dace99d630d8790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259568883,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259568883,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259568883,
+    "wof:lastmodified":1536735999,
+    "wof:name":"Koda Bathhk",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.0519,
+    35.17844,
+    74.0519,
+    35.17844
+],
+  "geometry": {"coordinates":[74.0519,35.17844],"type":"Point"}
+}

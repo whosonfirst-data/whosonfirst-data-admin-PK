@@ -1,0 +1,73 @@
+{
+  "id": 1243360839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.68924,33.01054,73.68924,33.01054",
+    "geom:latitude":33.01054,
+    "geom:longitude":73.68924,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mohra Karim Bukksn",
+    "gn:country_code":"PK",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170043,
+    "gn:latitude":33.01054,
+    "gn:longitude":73.68924,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mohra Karim Bukksn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kar\u012bm Bakhsh",
+        "Mohra Karim Bakhsh",
+        "Mora",
+        "Mohra Karim Bukksn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170043
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"53f88f1df6df54c80a36fca7a8378b86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1243360839,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243360839,
+    "wof:lastmodified":1537679453,
+    "wof:name":"Mohra Karim Bukksn",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.68924,
+    33.01054,
+    73.68924,
+    33.01054
+],
+  "geometry": {"coordinates":[73.68924,33.01054],"type":"Point"}
+}

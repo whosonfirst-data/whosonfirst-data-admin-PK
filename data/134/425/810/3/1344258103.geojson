@@ -1,0 +1,67 @@
+{
+  "id": 1344258103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47595,34.60943,72.47595,34.60943",
+    "geom:latitude":34.60943,
+    "geom:longitude":72.47595,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Konwan",
+    "gn:country_code":"PK",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11414836,
+    "gn:latitude":34.60943,
+    "gn:longitude":72.47595,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Konwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11414836
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0f8a854f4f9ef514248411f0f93b934",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1344258103,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344258103,
+    "wof:lastmodified":1537084417,
+    "wof:name":"Konwan",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47595,
+    34.60943,
+    72.47595,
+    34.60943
+],
+  "geometry": {"coordinates":[72.47595,34.60943],"type":"Point"}
+}

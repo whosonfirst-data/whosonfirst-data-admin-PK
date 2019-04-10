@@ -1,0 +1,78 @@
+{
+  "id": 1360170511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.83355,35.4339,73.83355,35.4339",
+    "geom:latitude":35.4339,
+    "geom:longitude":73.83355,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Miyak",
+    "gn:country_code":"PK",
+    "gn:dem":1452,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427231,
+    "gn:latitude":35.4339,
+    "gn:longitude":73.83355,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Miyak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427231
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"21f2ba0b7ce7ab2b30eab014e4da2d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360170511,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360170511,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360170511,
+    "wof:lastmodified":1536821601,
+    "wof:name":"Miyak",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.83355,
+    35.4339,
+    73.83355,
+    35.4339
+],
+  "geometry": {"coordinates":[73.83355,35.4339],"type":"Point"}
+}

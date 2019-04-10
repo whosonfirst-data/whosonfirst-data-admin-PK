@@ -1,0 +1,67 @@
+{
+  "id": 1243554307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.59487,32.17226,74.59487,32.17226",
+    "geom:latitude":32.17226,
+    "geom:longitude":74.59487,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khaire",
+    "gn:country_code":"PK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381733,
+    "gn:latitude":32.17226,
+    "gn:longitude":74.59487,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Khaire",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381733
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b856b330331ed86bb04f4b8f87e973d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1243554307,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243554307,
+    "wof:lastmodified":1536649862,
+    "wof:name":"Khaire",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.59487,
+    32.17225999999999,
+    74.59487,
+    32.17225999999999
+],
+  "geometry": {"coordinates":[74.59487,32.17225999999999],"type":"Point"}
+}

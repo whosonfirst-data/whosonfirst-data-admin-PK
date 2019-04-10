@@ -1,0 +1,67 @@
+{
+  "id": 1242777529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20278,32.45833,73.20278,32.45833",
+    "geom:latitude":32.45833,
+    "geom:longitude":73.20278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chak Eight",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379812,
+    "gn:latitude":32.45833,
+    "gn:longitude":73.20278,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chak Eight",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379812
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c59535dbc8e7e11a9393c5a6083df3ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1242777529,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242777529,
+    "wof:lastmodified":1536776301,
+    "wof:name":"Chak Eight",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20278,
+    32.45833,
+    73.20278,
+    32.45833
+],
+  "geometry": {"coordinates":[73.20278,32.45833],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1309816023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.58453,29.23802,61.58453,29.23802",
+    "geom:latitude":29.23802,
+    "geom:longitude":61.58453,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Saindak Colony",
+    "gn:country_code":"PK",
+    "gn:dem":1030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10975029,
+    "gn:latitude":29.23802,
+    "gn:longitude":61.58453,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Saindak Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10975029
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"466dcd67dcb1110b518268bd6e083a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692147,
+            "locality_id":1309816023,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309816023,
+    "wof:lastmodified":1536916793,
+    "wof:name":"Saindak Colony",
+    "wof:parent_id":1108692147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.58453000000001,
+    29.23802,
+    61.58453000000001,
+    29.23802
+],
+  "geometry": {"coordinates":[61.58453000000001,29.23802],"type":"Point"}
+}

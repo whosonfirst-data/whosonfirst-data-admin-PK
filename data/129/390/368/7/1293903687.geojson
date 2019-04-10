@@ -1,0 +1,82 @@
+{
+  "id": 1293903687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.58085,35.20369,76.58085,35.20369",
+    "geom:latitude":35.20369,
+    "geom:longitude":76.58085,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bar Kahor",
+    "gn:country_code":"PK",
+    "gn:dem":2723,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418517,
+    "gn:latitude":35.20369,
+    "gn:longitude":76.58085,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bar Kahor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Brakhor",
+        "Bar Qahor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418517
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d4fddda84c667ce63ceea3e569cc55c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293903687,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293903687,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293903687,
+    "wof:lastmodified":1537681900,
+    "wof:name":"Bar Kahor",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.58085,
+    35.20369,
+    76.58085,
+    35.20369
+],
+  "geometry": {"coordinates":[76.58085,35.20369],"type":"Point"}
+}

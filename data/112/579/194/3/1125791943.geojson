@@ -1,0 +1,81 @@
+{
+  "id": 1125791943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13889,29.61333,73.13889,29.61333",
+    "geom:latitude":29.61333,
+    "geom:longitude":73.13889,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":72432,
+    "gn:population":72432,
+    "iso:country":"PK",
+    "lbl:latitude":29.61333,
+    "lbl:longitude":73.13889,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:unk_x_variant":[
+        "Badruw\u0101la Mandi"
+    ],
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1177073,
+    "qs_pg:gn_pop":72432,
+    "qs_pg:name":"Haru Zbad",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":8,
+    "qs_pg:qs_id":130819,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177073,
+        "qs_pg:id":130819
+    },
+    "wof:country":"PK",
+    "wof:created":1497290897,
+    "wof:geomhash":"4e6175da6404df9116d2fd832eefd0df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1125791943,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1125791943,
+    "wof:lastmodified":1509392402,
+    "wof:name":"Haru Zbad",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:population":72432,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13889,
+    29.61333,
+    73.13889,
+    29.61333
+],
+  "geometry": {"coordinates":[73.13889,29.61333],"type":"Point"}
+}

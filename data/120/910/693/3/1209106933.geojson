@@ -1,0 +1,74 @@
+{
+  "id": 1209106933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.7206,34.3085,71.7206,34.3085",
+    "geom:latitude":34.3085,
+    "geom:longitude":71.7206,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tortam Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335544,
+    "gn:latitude":34.3085,
+    "gn:longitude":71.7206,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Tortam Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hay\u0101t Kh\u0101n Kalle"
+    ],
+    "name:und_x_variant":[
+        "Haya Kh\u0101n Kili",
+        "Tortam Kalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335544
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"105d41b2917f5fe9a90a756bc89eac63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1209106933,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209106933,
+    "wof:lastmodified":1543515453,
+    "wof:name":"Tortam Kalle",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.7206,
+    34.3085,
+    71.7206,
+    34.3085
+],
+  "geometry": {"coordinates":[71.7206,34.3085],"type":"Point"}
+}

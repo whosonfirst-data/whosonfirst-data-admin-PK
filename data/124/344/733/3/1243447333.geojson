@@ -1,0 +1,67 @@
+{
+  "id": 1243447333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.6976,24.83649,68.6976,24.83649",
+    "geom:latitude":24.83649,
+    "geom:longitude":68.6976,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Nawab Khan",
+    "gn:country_code":"PK",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11600142,
+    "gn:latitude":24.83649,
+    "gn:longitude":68.6976,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Nawab Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11600142
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1271b634cf7c5c5f4de3a7240224687d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1243447333,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243447333,
+    "wof:lastmodified":1536804133,
+    "wof:name":"Nawab Khan",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.6976,
+    24.83649,
+    68.6976,
+    24.83649
+],
+  "geometry": {"coordinates":[68.69759999999999,24.83649],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225967331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53468,33.88998,73.53468,33.88998",
+    "geom:latitude":33.88998,
+    "geom:longitude":73.53468,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kachrian",
+    "gn:country_code":"PK",
+    "gn:dem":1157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097439,
+    "gn:latitude":33.88998,
+    "gn:longitude":73.53468,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kachrian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097439
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e22b45189692591f60c8986f161e1cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1225967331,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225967331,
+    "wof:lastmodified":1536837141,
+    "wof:name":"Kachrian",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53468000000002,
+    33.88998,
+    73.53468000000002,
+    33.88998
+],
+  "geometry": {"coordinates":[73.53468000000002,33.88998],"type":"Point"}
+}

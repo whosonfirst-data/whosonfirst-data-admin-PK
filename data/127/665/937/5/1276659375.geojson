@@ -1,0 +1,67 @@
+{
+  "id": 1276659375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.86908,27.73144,65.86908,27.73144",
+    "geom:latitude":27.73144,
+    "geom:longitude":65.86908,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kodak",
+    "gn:country_code":"PK",
+    "gn:dem":1413,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7580011,
+    "gn:latitude":27.73144,
+    "gn:longitude":65.86908,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Kodak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580011
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"13fe552d9f7702b105d8ba5407279f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1276659375,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276659375,
+    "wof:lastmodified":1536837842,
+    "wof:name":"Kodak",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.86908000000001,
+    27.73144000000001,
+    65.86908000000001,
+    27.73144000000001
+],
+  "geometry": {"coordinates":[65.86908000000001,27.73144000000001],"type":"Point"}
+}

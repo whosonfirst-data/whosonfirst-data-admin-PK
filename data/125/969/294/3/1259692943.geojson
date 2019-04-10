@@ -1,0 +1,67 @@
+{
+  "id": 1259692943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.37103,34.76986,71.37103,34.76986",
+    "geom:latitude":34.76986,
+    "geom:longitude":71.37103,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tangai",
+    "gn:country_code":"PK",
+    "gn:dem":1163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353066,
+    "gn:latitude":34.76986,
+    "gn:longitude":71.37103,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Tangai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353066
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"48a29debe78d75cdbbdfa87d9fc36e10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1259692943,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259692943,
+    "wof:lastmodified":1537051150,
+    "wof:name":"Tangai",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.37103,
+    34.76985999999999,
+    71.37103,
+    34.76985999999999
+],
+  "geometry": {"coordinates":[71.37103,34.76985999999999],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1310707289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.45,32.71667,74.45,32.71667",
+    "geom:latitude":32.71667,
+    "geom:longitude":74.45,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"1177651",
+    "gn:asciiname":"Surkhpur",
+    "gn:country_code":"PK",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164245,
+    "gn:latitude":32.71667,
+    "gn:longitude":74.45,
+    "gn:modification_date":"2013-06-26",
+    "gn:name":"Surkhpur",
+    "gn:population":20000,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Surakhpur",
+        "Surkhpur"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164245
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"265bad7ccb343edf1f993a18ea384a61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1310707289,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310707289,
+    "wof:lastmodified":1537679256,
+    "wof:name":"Surkhpur",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:population":20000,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.45,
+    32.71667,
+    74.45,
+    32.71667
+],
+  "geometry": {"coordinates":[74.45,32.71667],"type":"Point"}
+}

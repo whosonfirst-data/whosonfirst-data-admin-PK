@@ -1,0 +1,67 @@
+{
+  "id": 1226243775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07361,32.85115,71.07361,32.85115",
+    "geom:latitude":32.85115,
+    "geom:longitude":71.07361,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Puki Banda",
+    "gn:country_code":"PK",
+    "gn:dem":490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365546,
+    "gn:latitude":32.85115,
+    "gn:longitude":71.07361,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Puki Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365546
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7ceabd84a596536ed791fb7aa6f6be7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1226243775,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226243775,
+    "wof:lastmodified":1536937210,
+    "wof:name":"Puki Banda",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07361,
+    32.85115,
+    71.07361,
+    32.85115
+],
+  "geometry": {"coordinates":[71.07361,32.85115],"type":"Point"}
+}

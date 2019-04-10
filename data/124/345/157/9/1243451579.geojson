@@ -1,0 +1,83 @@
+{
+  "id": 1243451579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84801,33.56298,73.84801,33.56298",
+    "geom:latitude":33.56298,
+    "geom:longitude":73.84801,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Sarsawah",
+    "gn:country_code":"PK",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165910,
+    "gn:latitude":33.56298,
+    "gn:longitude":73.84801,
+    "gn:modification_date":"2015-11-07",
+    "gn:name":"Sarsawah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sarsawa",
+        "Sars\u0101w\u0101h",
+        "Sarsawah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165910
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a859f566fd3fdaf49f84b45405ead6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243451579,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243451579,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243451579,
+    "wof:lastmodified":1537679305,
+    "wof:name":"Sarsawah",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84801,
+    33.56298,
+    73.84801,
+    33.56298
+],
+  "geometry": {"coordinates":[73.84801,33.56298],"type":"Point"}
+}

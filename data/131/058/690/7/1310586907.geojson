@@ -1,0 +1,78 @@
+{
+  "id": 1310586907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.64715,36.30239,74.64715,36.30239",
+    "geom:latitude":36.30239,
+    "geom:longitude":74.64715,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Askar Das",
+    "gn:country_code":"PK",
+    "gn:dem":2199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427905,
+    "gn:latitude":36.30239,
+    "gn:longitude":74.64715,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Askar Das",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3fb08b5f694d49853e6cea22f9c48fd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1310586907,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1310586907,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310586907,
+    "wof:lastmodified":1536799638,
+    "wof:name":"Askar Das",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.64715,
+    36.30239,
+    74.64715,
+    36.30239
+],
+  "geometry": {"coordinates":[74.64715,36.30239],"type":"Point"}
+}

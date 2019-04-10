@@ -1,0 +1,67 @@
+{
+  "id": 1259885401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.34285,32.88262,73.34285,32.88262",
+    "geom:latitude":32.88262,
+    "geom:longitude":73.34285,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhok Nagial",
+    "gn:country_code":"PK",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371176,
+    "gn:latitude":32.88262,
+    "gn:longitude":73.34285,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhok Nagial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371176
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"830c5f0fe745563e0d4f273750d97d50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1259885401,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259885401,
+    "wof:lastmodified":1536776910,
+    "wof:name":"Dhok Nagial",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.34285,
+    32.88262,
+    73.34285,
+    32.88262
+],
+  "geometry": {"coordinates":[73.34285,32.88262],"type":"Point"}
+}

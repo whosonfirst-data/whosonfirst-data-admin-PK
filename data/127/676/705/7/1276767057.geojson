@@ -1,0 +1,67 @@
+{
+  "id": 1276767057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46833,25.48008,70.46833,25.48008",
+    "geom:latitude":25.48008,
+    "geom:longitude":70.46833,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Beknal",
+    "gn:country_code":"PK",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039390,
+    "gn:latitude":25.48008,
+    "gn:longitude":70.46833,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Beknal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039390
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a6f8aac954150534c6cf345b949a52b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1276767057,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276767057,
+    "wof:lastmodified":1536694864,
+    "wof:name":"Beknal",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46833000000002,
+    25.48008,
+    70.46833000000002,
+    25.48008
+],
+  "geometry": {"coordinates":[70.46833000000002,25.48008],"type":"Point"}
+}

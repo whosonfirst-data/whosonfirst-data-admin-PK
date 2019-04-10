@@ -1,0 +1,78 @@
+{
+  "id": 1243360847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00438,33.4956,74.00438,33.4956",
+    "geom:latitude":33.4956,
+    "geom:longitude":74.00438,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Panag",
+    "gn:country_code":"PK",
+    "gn:dem":868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415042,
+    "gn:latitude":33.4956,
+    "gn:longitude":74.00438,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Panag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415042
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4c48be79ce544cbd4b53e187efa4e69b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243360847,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243360847,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243360847,
+    "wof:lastmodified":1536929746,
+    "wof:name":"Panag",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00438,
+    33.4956,
+    74.00438,
+    33.4956
+],
+  "geometry": {"coordinates":[74.00438,33.4956],"type":"Point"}
+}

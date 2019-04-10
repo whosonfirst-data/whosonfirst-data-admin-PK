@@ -1,0 +1,67 @@
+{
+  "id": 1226539473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.10775,32.44454,75.10775,32.44454",
+    "geom:latitude":32.44454,
+    "geom:longitude":75.10775,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sargala",
+    "gn:country_code":"PK",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081259,
+    "gn:latitude":32.44454,
+    "gn:longitude":75.10775,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sargala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081259
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d12ccea2aa907dfd6266b4b6fb2eb8e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226539473,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226539473,
+    "wof:lastmodified":1537006384,
+    "wof:name":"Sargala",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.10775,
+    32.44454,
+    75.10775,
+    32.44454
+],
+  "geometry": {"coordinates":[75.10775,32.44454],"type":"Point"}
+}

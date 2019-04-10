@@ -1,0 +1,70 @@
+{
+  "id": 1343365769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0775,33.93839,73.0775,33.93839",
+    "geom:latitude":33.93839,
+    "geom:longitude":73.0775,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Barwal",
+    "gn:country_code":"PK",
+    "gn:dem":1127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075888,
+    "gn:latitude":33.93839,
+    "gn:longitude":73.0775,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Barwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Barwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075888
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"181583c4bc932e69b03f93aa0507edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1343365769,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343365769,
+    "wof:lastmodified":1537681631,
+    "wof:name":"Barwal",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0775,
+    33.93839000000001,
+    73.0775,
+    33.93839000000001
+],
+  "geometry": {"coordinates":[73.0775,33.93839000000001],"type":"Point"}
+}

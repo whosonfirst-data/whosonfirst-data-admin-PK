@@ -1,0 +1,78 @@
+{
+  "id": 1225964381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.63835,35.19612,74.63835,35.19612",
+    "geom:latitude":35.19612,
+    "geom:longitude":74.63835,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Top Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":3511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070018,
+    "gn:latitude":35.19612,
+    "gn:longitude":74.63835,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Top Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070018
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d97c0cd5c1cc6bc9b10a6a83e12ac5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1225964381,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1225964381,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1225964381,
+    "wof:lastmodified":1536841412,
+    "wof:name":"Top Baihk",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.63835,
+    35.19612,
+    74.63835,
+    35.19612
+],
+  "geometry": {"coordinates":[74.63835,35.19612],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310502639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55917,32.45905,70.55917,32.45905",
+    "geom:latitude":32.45905,
+    "geom:longitude":70.55917,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bain",
+    "gn:country_code":"PK",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183804,
+    "gn:latitude":32.45905,
+    "gn:longitude":70.55917,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Bain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183804
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"195f992de5572fbdbb8f3bf07925f0cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692407,
+            "locality_id":1310502639,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310502639,
+    "wof:lastmodified":1536921714,
+    "wof:name":"Bain",
+    "wof:parent_id":1108692407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55917,
+    32.45905,
+    70.55917,
+    32.45905
+],
+  "geometry": {"coordinates":[70.55916999999999,32.45905],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209716641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.72556,34.01282,71.72556,34.01282",
+    "geom:latitude":34.01282,
+    "geom:longitude":71.72556,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Taru",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163777,
+    "gn:latitude":34.01282,
+    "gn:longitude":71.72556,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Taru",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163777
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e2aba64b9920c90ca9bc51849ae2b75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1209716641,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716641,
+    "wof:lastmodified":1543515715,
+    "wof:name":"Taru",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.72556,
+    34.01282,
+    71.72556,
+    34.01282
+],
+  "geometry": {"coordinates":[71.72556,34.01282],"type":"Point"}
+}

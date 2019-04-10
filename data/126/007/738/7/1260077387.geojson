@@ -1,0 +1,89 @@
+{
+  "id": 1260077387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65184,33.76686,73.65184,33.76686",
+    "geom:latitude":33.76686,
+    "geom:longitude":73.65184,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Behkan",
+    "gn:country_code":"PK",
+    "gn:dem":753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100141,
+    "gn:latitude":33.76686,
+    "gn:longitude":73.65184,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Behkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baihkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100141
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"731219212801782648a16107c66801dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1260077387,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1260077387,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1260077387,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260077387,
+    "wof:lastmodified":1537681690,
+    "wof:name":"Behkan",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65184,
+    33.76686,
+    73.65184,
+    33.76686
+],
+  "geometry": {"coordinates":[73.65184000000001,33.76686],"type":"Point"}
+}

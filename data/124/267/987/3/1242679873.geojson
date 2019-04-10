@@ -1,0 +1,67 @@
+{
+  "id": 1242679873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.20963,28.53018,65.20963,28.53018",
+    "geom:latitude":28.53018,
+    "geom:longitude":65.20963,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Darj",
+    "gn:country_code":"PK",
+    "gn:dem":693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10996927,
+    "gn:latitude":28.53018,
+    "gn:longitude":65.20963,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Darj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10996927
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a695779d9db9607af25804f08c4e9d5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1242679873,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242679873,
+    "wof:lastmodified":1536916988,
+    "wof:name":"Darj",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.20963,
+    28.53018,
+    65.20963,
+    28.53018
+],
+  "geometry": {"coordinates":[65.20963,28.53018],"type":"Point"}
+}

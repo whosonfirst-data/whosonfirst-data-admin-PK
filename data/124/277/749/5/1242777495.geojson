@@ -1,0 +1,72 @@
+{
+  "id": 1242777495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51955,32.70373,73.51955,32.70373",
+    "geom:latitude":32.70373,
+    "geom:longitude":73.51955,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotahtra",
+    "gn:country_code":"PK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173293,
+    "gn:latitude":32.70373,
+    "gn:longitude":73.51955,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Kotahtra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katehra",
+        "Kotehra",
+        "Kotahtra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173293
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5c3122455c13a69a4353f138ee562aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1242777495,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242777495,
+    "wof:lastmodified":1537679568,
+    "wof:name":"Kotahtra",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51955,
+    32.70373,
+    73.51955,
+    32.70373
+],
+  "geometry": {"coordinates":[73.51955,32.70373],"type":"Point"}
+}

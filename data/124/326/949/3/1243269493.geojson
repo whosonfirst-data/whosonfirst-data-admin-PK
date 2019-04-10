@@ -1,0 +1,67 @@
+{
+  "id": 1243269493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25,30.91389,71.25,30.91389",
+    "geom:latitude":30.91389,
+    "geom:longitude":71.25,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kherawala",
+    "gn:country_code":"PK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409121,
+    "gn:latitude":30.91389,
+    "gn:longitude":71.25,
+    "gn:modification_date":"2001-12-13",
+    "gn:name":"Kheraw\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409121
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa01d94fd14f38d567960b0d501c2a3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1243269493,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243269493,
+    "wof:lastmodified":1537058029,
+    "wof:name":"Kherawala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25,
+    30.91389,
+    71.25,
+    30.91389
+],
+  "geometry": {"coordinates":[71.25,30.91389],"type":"Point"}
+}

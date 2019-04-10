@@ -1,0 +1,64 @@
+{
+  "id": 1209214311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54665,32.27468,72.54665,32.27468",
+    "geom:latitude":32.27468,
+    "geom:longitude":72.54665,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lalawala",
+    "gn:country_code":"PK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7337105,
+    "gn:latitude":32.27468,
+    "gn:longitude":72.54665,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Lalawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u0101lew\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7337105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"11ab9afcb8b9757d8267f3ef144eb841",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209214311
+        }
+    ],
+    "wof:id":1209214311,
+    "wof:lastmodified":1537681776,
+    "wof:name":"Lalawala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54665,
+    32.27468,
+    72.54665,
+    32.27468
+],
+  "geometry": {"coordinates":[72.54665,32.27468],"type":"Point"}
+}

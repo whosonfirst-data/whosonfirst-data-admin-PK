@@ -1,0 +1,78 @@
+{
+  "id": 1293674885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84721,35.38617,73.84721,35.38617",
+    "geom:latitude":35.38617,
+    "geom:longitude":73.84721,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bui",
+    "gn:country_code":"PK",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020091,
+    "gn:latitude":35.38617,
+    "gn:longitude":73.84721,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Bui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020091
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8f94025c4d1f2930ceee47d4cc94b8ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293674885,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293674885,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293674885,
+    "wof:lastmodified":1537013482,
+    "wof:name":"Bui",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84721,
+    35.38617,
+    73.84721,
+    35.38617
+],
+  "geometry": {"coordinates":[73.84721,35.38617],"type":"Point"}
+}

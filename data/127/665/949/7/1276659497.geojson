@@ -1,0 +1,67 @@
+{
+  "id": 1276659497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.89293,29.17723,67.89293,29.17723",
+    "geom:latitude":29.17723,
+    "geom:longitude":67.89293,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Lund",
+    "gn:country_code":"PK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1394863,
+    "gn:latitude":29.17723,
+    "gn:longitude":67.89293,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Lund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1394863
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2f0d7e84c59495fdca6a9620ef85f15e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1276659497,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276659497,
+    "wof:lastmodified":1536837671,
+    "wof:name":"Lund",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.89293,
+    29.17723,
+    67.89293,
+    29.17723
+],
+  "geometry": {"coordinates":[67.89293000000001,29.17723],"type":"Point"}
+}

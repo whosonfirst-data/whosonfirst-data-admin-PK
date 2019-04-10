@@ -1,0 +1,67 @@
+{
+  "id": 1226147431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.0208,25.03601,70.0208,25.03601",
+    "geom:latitude":25.03601,
+    "geom:longitude":70.0208,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Lahria",
+    "gn:country_code":"PK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038959,
+    "gn:latitude":25.03601,
+    "gn:longitude":70.0208,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Lahria",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038959
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e616fa5edb55cd77f22d66ff339246d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1226147431,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226147431,
+    "wof:lastmodified":1537072141,
+    "wof:name":"Lahria",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.0208,
+    25.03601,
+    70.0208,
+    25.03601
+],
+  "geometry": {"coordinates":[70.02079999999999,25.03601],"type":"Point"}
+}

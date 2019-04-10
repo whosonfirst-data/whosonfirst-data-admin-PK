@@ -1,0 +1,67 @@
+{
+  "id": 1243563661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.47355,33.51535,70.47355,33.51535",
+    "geom:latitude":33.51535,
+    "geom:longitude":70.47355,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Burjo",
+    "gn:country_code":"PK",
+    "gn:dem":1061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10178794,
+    "gn:latitude":33.51535,
+    "gn:longitude":70.47355,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Burjo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10178794
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"579dffb9516ed1a456d6654322185efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1243563661,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243563661,
+    "wof:lastmodified":1536635276,
+    "wof:name":"Burjo",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.47355,
+    33.51535,
+    70.47355,
+    33.51535
+],
+  "geometry": {"coordinates":[70.47355,33.51535],"type":"Point"}
+}

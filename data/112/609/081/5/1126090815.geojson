@@ -1,0 +1,93 @@
+{
+  "id": 1126090815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3143,31.5334,74.3143,31.5334",
+    "geom:latitude":31.5334,
+    "geom:longitude":74.3143,
+    "gn:gn_country":"PK",
+    "gn:gn_fcode":"PPL",
+    "gn:gn_pop":0,
+    "iso:country":"PK",
+    "lbl:latitude":31.5334,
+    "lbl:longitude":74.3143,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "qs_pg:aaroncc":"PK",
+    "qs_pg:gn_country":"PK",
+    "qs_pg:gn_fcode":"PPL",
+    "qs_pg:gn_id":1176716,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Ichhra",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Punjab",
+    "qs_pg:photos":1011,
+    "qs_pg:photos_1k":205,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":7,
+    "qs_pg:photos_all":1011,
+    "qs_pg:photos_sr":11,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1083714,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":2197908,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Punjab",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        85675753,
+        102191569,
+        85632659,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176716,
+        "gp:id":2197908,
+        "qs_pg:id":1083714
+    },
+    "wof:country":"PK",
+    "wof:created":1497313718,
+    "wof:geomhash":"6dc660eb5244d51f0b3f0db5c46fabcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":-1,
+            "neighbourhood_id":1126090815,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1126090815,
+    "wof:lastmodified":1534379406,
+    "wof:name":"Ichhra",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[
+        85903681
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3143,
+    31.5334,
+    74.3143,
+    31.5334
+],
+  "geometry": {"coordinates":[74.3143,31.5334],"type":"Point"}
+}

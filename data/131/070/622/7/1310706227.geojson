@@ -1,0 +1,67 @@
+{
+  "id": 1310706227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.79976,25.44906,69.79976,25.44906",
+    "geom:latitude":25.44906,
+    "geom:longitude":69.79976,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khalrai",
+    "gn:country_code":"PK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1363126,
+    "gn:latitude":25.44906,
+    "gn:longitude":69.79976,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Khalrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1363126
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc00126ea7fea49440a78c2f1379eeb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1310706227,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310706227,
+    "wof:lastmodified":1536625393,
+    "wof:name":"Khalrai",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.79975999999999,
+    25.44906,
+    69.79975999999999,
+    25.44906
+],
+  "geometry": {"coordinates":[69.79975999999999,25.44906],"type":"Point"}
+}

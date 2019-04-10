@@ -1,0 +1,67 @@
+{
+  "id": 1343669551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.62495,30.25936,67.62495,30.25936",
+    "geom:latitude":30.25936,
+    "geom:longitude":67.62495,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mobin",
+    "gn:country_code":"PK",
+    "gn:dem":1604,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347193,
+    "gn:latitude":30.25936,
+    "gn:longitude":67.62495,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Mobin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"72f0f521fba7ee0e2184a99520e3f5a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692209,
+            "locality_id":1343669551,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343669551,
+    "wof:lastmodified":1536942463,
+    "wof:name":"Mobin",
+    "wof:parent_id":1108692209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.62495,
+    30.25936,
+    67.62495,
+    30.25936
+],
+  "geometry": {"coordinates":[67.62495,30.25936],"type":"Point"}
+}

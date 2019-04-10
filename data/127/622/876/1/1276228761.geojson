@@ -1,0 +1,67 @@
+{
+  "id": 1276228761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41059,34.87132,72.41059,34.87132",
+    "geom:latitude":34.87132,
+    "geom:longitude":72.41059,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Shakardarra",
+    "gn:country_code":"PK",
+    "gn:dem":1048,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165389,
+    "gn:latitude":34.87132,
+    "gn:longitude":72.41059,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Shakardarra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"529161c0644b7aee0a76a2b34fa94eda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1276228761,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276228761,
+    "wof:lastmodified":1536919576,
+    "wof:name":"Shakardarra",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41059,
+    34.87132,
+    72.41059,
+    34.87132
+],
+  "geometry": {"coordinates":[72.41059,34.87132],"type":"Point"}
+}

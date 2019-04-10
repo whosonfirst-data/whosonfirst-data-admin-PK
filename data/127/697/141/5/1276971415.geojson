@@ -1,0 +1,78 @@
+{
+  "id": 1276971415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.13788,33.38107,74.13788,33.38107",
+    "geom:latitude":33.38107,
+    "geom:longitude":74.13788,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hillan Naroian",
+    "gn:country_code":"PK",
+    "gn:dem":1006,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10867149,
+    "gn:latitude":33.38107,
+    "gn:longitude":74.13788,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hillan Naroian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10867149
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b44367b38ea873142acf52a6e03e33f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1276971415,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1276971415,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276971415,
+    "wof:lastmodified":1536919180,
+    "wof:name":"Hillan Naroian",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.13788000000002,
+    33.38107,
+    74.13788000000002,
+    33.38107
+],
+  "geometry": {"coordinates":[74.13788000000002,33.38107],"type":"Point"}
+}

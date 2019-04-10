@@ -1,0 +1,67 @@
+{
+  "id": 1343360251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78382,33.42431,70.78382,33.42431",
+    "geom:latitude":33.42431,
+    "geom:longitude":70.78382,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sarozai",
+    "gn:country_code":"PK",
+    "gn:dem":914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165920,
+    "gn:latitude":33.42431,
+    "gn:longitude":70.78382,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Sarozai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165920
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea05a0406fe070f77a906c531a538cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692203,
+            "locality_id":1343360251,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343360251,
+    "wof:lastmodified":1536890429,
+    "wof:name":"Sarozai",
+    "wof:parent_id":1108692203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78381999999998,
+    33.42431,
+    70.78381999999998,
+    33.42431
+],
+  "geometry": {"coordinates":[70.78381999999998,33.42431],"type":"Point"}
+}

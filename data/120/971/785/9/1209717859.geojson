@@ -1,0 +1,73 @@
+{
+  "id": 1209717859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.7781,28.04649,62.7781,28.04649",
+    "geom:latitude":28.04649,
+    "geom:longitude":62.7781,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Charjan",
+    "gn:country_code":"PK",
+    "gn:dem":502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1113659,
+    "gn:latitude":28.04649,
+    "gn:longitude":62.7781,
+    "gn:modification_date":"2015-04-07",
+    "gn:name":"Ch\u0101rj\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u062c\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "Ch\u0101rj\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1113659
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3d8e72d86bec89f218b491dcb245367f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692147,
+            "locality_id":1209717859,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209717859,
+    "wof:lastmodified":1537679177,
+    "wof:name":"Charjan",
+    "wof:parent_id":1108692147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.7781,
+    28.04649,
+    62.7781,
+    28.04649
+],
+  "geometry": {"coordinates":[62.7781,28.04649],"type":"Point"}
+}

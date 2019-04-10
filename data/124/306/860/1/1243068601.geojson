@@ -1,0 +1,67 @@
+{
+  "id": 1243068601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85337,34.24761,71.85337,34.24761",
+    "geom:latitude":34.24761,
+    "geom:longitude":71.85337,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tombulak",
+    "gn:country_code":"PK",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124248,
+    "gn:latitude":34.24761,
+    "gn:longitude":71.85337,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Tombulak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"86ee38fa565ecf35b20e1e600e3d4cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1243068601,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243068601,
+    "wof:lastmodified":1536852118,
+    "wof:name":"Tombulak",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85337,
+    34.24760999999999,
+    71.85337,
+    34.24760999999999
+],
+  "geometry": {"coordinates":[71.85337,34.24760999999999],"type":"Point"}
+}

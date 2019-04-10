@@ -1,0 +1,67 @@
+{
+  "id": 1242784669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98351,34.32155,72.98351,34.32155",
+    "geom:latitude":34.32155,
+    "geom:longitude":72.98351,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kalabai",
+    "gn:country_code":"PK",
+    "gn:dem":1137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378522,
+    "gn:latitude":34.32155,
+    "gn:longitude":72.98351,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kalabai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378522
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3007294d91d3e1e671ade054c782d8eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1242784669,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242784669,
+    "wof:lastmodified":1543515558,
+    "wof:name":"Kalabai",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98351,
+    34.32155,
+    72.98351,
+    34.32155
+],
+  "geometry": {"coordinates":[72.98351,34.32155],"type":"Point"}
+}

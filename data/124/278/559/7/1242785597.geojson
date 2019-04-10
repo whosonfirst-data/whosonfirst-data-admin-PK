@@ -1,0 +1,67 @@
+{
+  "id": 1242785597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.04196,28.52569,65.04196,28.52569",
+    "geom:latitude":28.52569,
+    "geom:longitude":65.04196,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shaidabad",
+    "gn:country_code":"PK",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10996836,
+    "gn:latitude":28.52569,
+    "gn:longitude":65.04196,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Shaidabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10996836
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f96d4733adddc2971ba3202e19980e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1242785597,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242785597,
+    "wof:lastmodified":1536764354,
+    "wof:name":"Shaidabad",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.04196,
+    28.52569,
+    65.04196,
+    28.52569
+],
+  "geometry": {"coordinates":[65.04196,28.52569],"type":"Point"}
+}

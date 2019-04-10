@@ -1,0 +1,67 @@
+{
+  "id": 1193149459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.33333,29.08333,63.33333,29.08333",
+    "geom:latitude":29.08333,
+    "geom:longitude":63.33333,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Luhli",
+    "gn:country_code":"PK",
+    "gn:dem":947,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109798,
+    "gn:latitude":29.08333,
+    "gn:longitude":63.33333,
+    "gn:modification_date":"1999-06-08",
+    "gn:name":"Luhli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109798
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"28f73318e42927e86285fa48e146af04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692147,
+            "locality_id":1193149459,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193149459,
+    "wof:lastmodified":1536379836,
+    "wof:name":"Luhli",
+    "wof:parent_id":1108692147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.33333,
+    29.08333,
+    63.33333,
+    29.08333
+],
+  "geometry": {"coordinates":[63.33333,29.08333],"type":"Point"}
+}

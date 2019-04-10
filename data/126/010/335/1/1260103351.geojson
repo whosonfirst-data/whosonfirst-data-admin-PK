@@ -1,0 +1,67 @@
+{
+  "id": 1260103351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.76549,32.68577,71.76549,32.68577",
+    "geom:latitude":32.68577,
+    "geom:longitude":71.76549,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Salt Chauki",
+    "gn:country_code":"PK",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333348,
+    "gn:latitude":32.68577,
+    "gn:longitude":71.76549,
+    "gn:modification_date":"1998-03-20",
+    "gn:name":"Salt Chauki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333348
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c987268c2de25d46ddb0234802053720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1260103351,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260103351,
+    "wof:lastmodified":1536959460,
+    "wof:name":"Salt Chauki",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.76549,
+    32.68577,
+    71.76549,
+    32.68577
+],
+  "geometry": {"coordinates":[71.76549,32.68577],"type":"Point"}
+}

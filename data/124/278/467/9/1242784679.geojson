@@ -1,0 +1,67 @@
+{
+  "id": 1242784679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.82533,33.95214,72.82533,33.95214",
+    "geom:latitude":33.95214,
+    "geom:longitude":72.82533,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ghaira",
+    "gn:country_code":"PK",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338727,
+    "gn:latitude":33.95214,
+    "gn:longitude":72.82533,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Ghaira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338727
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d1eca7aea9676c59ebe93fcd5779adc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1242784679,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242784679,
+    "wof:lastmodified":1543515557,
+    "wof:name":"Ghaira",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.82533000000002,
+    33.95214,
+    72.82533000000002,
+    33.95214
+],
+  "geometry": {"coordinates":[72.82533000000002,33.95214],"type":"Point"}
+}

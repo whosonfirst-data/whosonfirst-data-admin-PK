@@ -1,0 +1,65 @@
+{
+  "id": 1209627771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.9218,31.18549,69.9218,31.18549",
+    "geom:latitude":31.18549,
+    "geom:longitude":69.9218,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ali Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1337945,
+    "gn:latitude":31.18549,
+    "gn:longitude":69.9218,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Ali Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ali Khei",
+        "Ali Khel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337945
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"62ccf5eddbbf1229770f141752e95631",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209627771
+        }
+    ],
+    "wof:id":1209627771,
+    "wof:lastmodified":1537680150,
+    "wof:name":"Ali Khel",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.9218,
+    31.18549,
+    69.9218,
+    31.18549
+],
+  "geometry": {"coordinates":[69.9218,31.18549],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293521621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32917,33.80139,73.32917,33.80139",
+    "geom:latitude":33.80139,
+    "geom:longitude":73.32917,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jamman",
+    "gn:country_code":"PK",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082797,
+    "gn:latitude":33.80139,
+    "gn:longitude":73.32917,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jamman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jamman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082797
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c76ac21b66b913947bb44286a3ca13a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1293521621,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293521621,
+    "wof:lastmodified":1537681660,
+    "wof:name":"Jamman",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32916999999998,
+    33.80139,
+    73.32916999999998,
+    33.80139
+],
+  "geometry": {"coordinates":[73.32916999999998,33.80139],"type":"Point"}
+}

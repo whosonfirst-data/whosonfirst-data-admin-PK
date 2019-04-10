@@ -1,0 +1,67 @@
+{
+  "id": 1260088033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.58869,30.70214,66.58869,30.70214",
+    "geom:latitude":30.70214,
+    "geom:longitude":66.58869,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Binki",
+    "gn:country_code":"PK",
+    "gn:dem":1701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11082166,
+    "gn:latitude":30.70214,
+    "gn:longitude":66.58869,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Binki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11082166
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e6e767c57d5b88e2375b82a7f8b63346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1260088033,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260088033,
+    "wof:lastmodified":1536980715,
+    "wof:name":"Binki",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.58869,
+    30.70214,
+    66.58869,
+    30.70214
+],
+  "geometry": {"coordinates":[66.58869,30.70214],"type":"Point"}
+}

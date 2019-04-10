@@ -1,0 +1,78 @@
+{
+  "id": 1327027169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49062,34.3775,73.49062,34.3775",
+    "geom:latitude":34.3775,
+    "geom:longitude":73.49062,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhani Saidan",
+    "gn:country_code":"PK",
+    "gn:dem":1309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997514,
+    "gn:latitude":34.3775,
+    "gn:longitude":73.49062,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Dhani Saidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997514
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"11a072f37252994d6fd78eca22ece91c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327027169,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327027169,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327027169,
+    "wof:lastmodified":1536768498,
+    "wof:name":"Dhani Saidan",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49061999999998,
+    34.3775,
+    73.49061999999998,
+    34.3775
+],
+  "geometry": {"coordinates":[73.49061999999998,34.3775],"type":"Point"}
+}

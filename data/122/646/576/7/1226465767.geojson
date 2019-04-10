@@ -1,0 +1,67 @@
+{
+  "id": 1226465767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.20833,32.73333,72.20833,32.73333",
+    "geom:latitude":32.73333,
+    "geom:longitude":72.20833,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Walawin",
+    "gn:country_code":"PK",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370536,
+    "gn:latitude":32.73333,
+    "gn:longitude":72.20833,
+    "gn:modification_date":"2001-09-25",
+    "gn:name":"Walawin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370536
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb1b07f2fc2e492edc7226603e72cc10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1226465767,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226465767,
+    "wof:lastmodified":1536614306,
+    "wof:name":"Walawin",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.20833,
+    32.73333,
+    72.20833,
+    32.73333
+],
+  "geometry": {"coordinates":[72.20833,32.73333],"type":"Point"}
+}

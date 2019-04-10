@@ -1,0 +1,78 @@
+{
+  "id": 1226137607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16389,34.025,74.16389,34.025",
+    "geom:latitude":34.025,
+    "geom:longitude":74.16389,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Muhri",
+    "gn:country_code":"PK",
+    "gn:dem":2693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412455,
+    "gn:latitude":34.025,
+    "gn:longitude":74.16389,
+    "gn:modification_date":"2001-12-20",
+    "gn:name":"Muhri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412455
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9529f0694a95cf61687a8717e377e8c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226137607,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226137607,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226137607,
+    "wof:lastmodified":1537086267,
+    "wof:name":"Muhri",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16389000000002,
+    34.025,
+    74.16389000000002,
+    34.025
+],
+  "geometry": {"coordinates":[74.16389000000002,34.025],"type":"Point"}
+}

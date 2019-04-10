@@ -1,0 +1,67 @@
+{
+  "id": 1276550839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.80145,33.7306,70.80145,33.7306",
+    "geom:latitude":33.7306,
+    "geom:longitude":70.80145,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Zakhtan",
+    "gn:country_code":"PK",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162246,
+    "gn:latitude":33.7306,
+    "gn:longitude":70.80145,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Zakhtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162246
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"987229306b83d6347c86844ade1d9cbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1276550839,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1276550839,
+    "wof:lastmodified":1536983762,
+    "wof:name":"Zakhtan",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.80145,
+    33.7306,
+    70.80145,
+    33.7306
+],
+  "geometry": {"coordinates":[70.80145,33.7306],"type":"Point"}
+}

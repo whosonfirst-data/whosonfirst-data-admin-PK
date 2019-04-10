@@ -1,0 +1,67 @@
+{
+  "id": 1276123669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.18122,32.82826,71.18122,32.82826",
+    "geom:latitude":32.82826,
+    "geom:longitude":71.18122,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Garang",
+    "gn:country_code":"PK",
+    "gn:dem":288,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544753,
+    "gn:latitude":32.82826,
+    "gn:longitude":71.18122,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Garang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544753
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f38c85652b0c79985e57a71f7c0df164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1276123669,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276123669,
+    "wof:lastmodified":1537056978,
+    "wof:name":"Garang",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.18122,
+    32.82826,
+    71.18122,
+    32.82826
+],
+  "geometry": {"coordinates":[71.18122,32.82826],"type":"Point"}
+}

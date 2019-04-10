@@ -1,0 +1,67 @@
+{
+  "id": 1293489791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.993,26.01975,62.993,26.01975",
+    "geom:latitude":26.01975,
+    "geom:longitude":62.993,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tanzag",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988168,
+    "gn:latitude":26.01975,
+    "gn:longitude":62.993,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Tanzag",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988168
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2bf08a6674c97b046ea37a5eb39790b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1293489791,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293489791,
+    "wof:lastmodified":1536784217,
+    "wof:name":"Tanzag",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.993,
+    26.01975,
+    62.993,
+    26.01975
+],
+  "geometry": {"coordinates":[62.993,26.01975],"type":"Point"}
+}

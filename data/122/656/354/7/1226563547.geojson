@@ -1,0 +1,81 @@
+{
+  "id": 1226563547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84668,34.08169,73.84668,34.08169",
+    "geom:latitude":34.08169,
+    "geom:longitude":73.84668,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sar Kanja",
+    "gn:country_code":"PK",
+    "gn:dem":2259,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415566,
+    "gn:latitude":34.08169,
+    "gn:longitude":73.84668,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Sar Kanja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sur Kanja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415566
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ca845b84d0d1282e59377194d9ab319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226563547,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226563547,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226563547,
+    "wof:lastmodified":1537681364,
+    "wof:name":"Sar Kanja",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84668,
+    34.08169,
+    73.84668,
+    34.08169
+],
+  "geometry": {"coordinates":[73.84668000000001,34.08169],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 421195659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"66.88333,25.02611,66.88333,25.02611",
+    "geom:latitude":25.02611,
+    "geom:longitude":66.88333,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Hab Chauki"
+    ],
+    "name:eng_x_variant":[
+        "Hab Nadi Chowki",
+        "Habnadi",
+        "Hab Chawki"
+    ],
+    "name:unk_x_variant":[
+        "Habnadi"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1177416,
+    "qs:gn_pop":0,
+    "qs:name":"Hab Chowki",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Balochistan",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"5",
+    "qs:qs_id":1221832,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":2210989,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177416,
+        "gp:id":2210989,
+        "qs:id":1221832
+    },
+    "wof:country":"PK",
+    "wof:created":1459009855,
+    "wof:geomhash":"60d03a923d37e24cdc2c63b4865d3276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421195659,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":421195659,
+    "wof:lastmodified":1501217014,
+    "wof:name":"Hab Chowki",
+    "wof:parent_id":85675733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.88333,
+    25.02611,
+    66.88333,
+    25.02611
+],
+  "geometry": {"coordinates":[66.88333,25.02611],"type":"Point"}
+}

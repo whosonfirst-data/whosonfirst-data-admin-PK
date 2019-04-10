@@ -1,0 +1,67 @@
+{
+  "id": 1226455967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.44678,33.67462,70.44678,33.67462",
+    "geom:latitude":33.67462,
+    "geom:longitude":70.44678,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Mazrina",
+    "gn:country_code":"PK",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110110,
+    "gn:latitude":33.67462,
+    "gn:longitude":70.44678,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mazrina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110110
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8410ab74db20d852b70a912266d79cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1226455967,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226455967,
+    "wof:lastmodified":1536628965,
+    "wof:name":"Mazrina",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.44678,
+    33.67462,
+    70.44678,
+    33.67462
+],
+  "geometry": {"coordinates":[70.44678,33.67462],"type":"Point"}
+}

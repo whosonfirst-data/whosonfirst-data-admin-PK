@@ -1,0 +1,67 @@
+{
+  "id": 1242684471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.58364,34.89477,72.58364,34.89477",
+    "geom:latitude":34.89477,
+    "geom:longitude":72.58364,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Budai",
+    "gn:country_code":"PK",
+    "gn:dem":1891,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420791,
+    "gn:latitude":34.89477,
+    "gn:longitude":72.58364,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Budai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420791
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4e3f4996d1ab4e72f34e9b4c36721fd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242684471,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242684471,
+    "wof:lastmodified":1536910142,
+    "wof:name":"Budai",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.58364,
+    34.89477,
+    72.58364,
+    34.89477
+],
+  "geometry": {"coordinates":[72.58364,34.89477],"type":"Point"}
+}

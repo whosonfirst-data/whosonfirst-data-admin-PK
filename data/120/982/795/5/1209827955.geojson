@@ -1,0 +1,67 @@
+{
+  "id": 1209827955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.97615,28.51125,64.97615,28.51125",
+    "geom:latitude":28.51125,
+    "geom:longitude":64.97615,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Hetak",
+    "gn:country_code":"PK",
+    "gn:dem":661,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":10994668,
+    "gn:latitude":28.51125,
+    "gn:longitude":64.97615,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Hetak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10994668
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc4aa82183605f2f8feadafd3b3bdac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1209827955,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209827955,
+    "wof:lastmodified":1536371640,
+    "wof:name":"Hetak",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.97615,
+    28.51125,
+    64.97615,
+    28.51125
+],
+  "geometry": {"coordinates":[64.97615,28.51125],"type":"Point"}
+}

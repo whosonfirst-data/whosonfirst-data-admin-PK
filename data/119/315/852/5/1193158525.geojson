@@ -1,0 +1,78 @@
+{
+  "id": 1193158525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.24657,32.97037,74.24657,32.97037",
+    "geom:latitude":32.97037,
+    "geom:longitude":74.24657,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chinyara",
+    "gn:country_code":"PK",
+    "gn:dem":550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070370,
+    "gn:latitude":32.97037,
+    "gn:longitude":74.24657,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chinyara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070370
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d0d2f5ffb0df650c820e16fcd980676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193158525,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193158525,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193158525,
+    "wof:lastmodified":1536370617,
+    "wof:name":"Chinyara",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.24656999999998,
+    32.97037,
+    74.24656999999998,
+    32.97037
+],
+  "geometry": {"coordinates":[74.24656999999998,32.97037],"type":"Point"}
+}

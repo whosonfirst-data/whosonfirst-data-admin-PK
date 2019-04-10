@@ -1,0 +1,78 @@
+{
+  "id": 1344078409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12089,33.06061,74.12089,33.06061",
+    "geom:latitude":33.06061,
+    "geom:longitude":74.12089,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dab",
+    "gn:country_code":"PK",
+    "gn:dem":644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415453,
+    "gn:latitude":33.06061,
+    "gn:longitude":74.12089,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Dab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415453
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"782e9d401499b28bdb3191b88d14c3a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1344078409,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1344078409,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1344078409,
+    "wof:lastmodified":1536848661,
+    "wof:name":"Dab",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12089,
+    33.06061,
+    74.12089,
+    33.06061
+],
+  "geometry": {"coordinates":[74.12089,33.06061],"type":"Point"}
+}

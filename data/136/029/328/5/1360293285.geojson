@@ -1,0 +1,67 @@
+{
+  "id": 1360293285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.01667,26.95,65.01667,26.95",
+    "geom:latitude":26.95,
+    "geom:longitude":65.01667,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ghichak",
+    "gn:country_code":"PK",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178497,
+    "gn:latitude":26.95,
+    "gn:longitude":65.01667,
+    "gn:modification_date":"1996-05-08",
+    "gn:name":"Ghichak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178497
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c4ddcc0d5847b46664525a53ea2690a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1360293285,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360293285,
+    "wof:lastmodified":1536644601,
+    "wof:name":"Ghichak",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.01666999999999,
+    26.95,
+    65.01666999999999,
+    26.95
+],
+  "geometry": {"coordinates":[65.01666999999999,26.95],"type":"Point"}
+}

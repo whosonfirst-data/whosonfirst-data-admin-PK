@@ -1,0 +1,67 @@
+{
+  "id": 1193160293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.14012,30.57719,71.14012,30.57719",
+    "geom:latitude":30.57719,
+    "geom:longitude":71.14012,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Shoriwala",
+    "gn:country_code":"PK",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367033,
+    "gn:latitude":30.57719,
+    "gn:longitude":71.14012,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shoriwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367033
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0f6328b1a090838f93905b423758f89d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1193160293,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193160293,
+    "wof:lastmodified":1536368592,
+    "wof:name":"Shoriwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.14012,
+    30.57719,
+    71.14012,
+    30.57719
+],
+  "geometry": {"coordinates":[71.14012,30.57719],"type":"Point"}
+}

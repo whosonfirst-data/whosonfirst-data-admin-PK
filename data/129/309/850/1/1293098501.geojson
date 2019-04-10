@@ -1,0 +1,67 @@
+{
+  "id": 1293098501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9438,32.66412,73.9438,32.66412",
+    "geom:latitude":32.66412,
+    "geom:longitude":73.9438,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Paswal",
+    "gn:country_code":"PK",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168297,
+    "gn:latitude":32.66412,
+    "gn:longitude":73.9438,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Paswal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168297
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4f82250890a8bfdccbbe99e816354d4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1293098501,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293098501,
+    "wof:lastmodified":1536849777,
+    "wof:name":"Paswal",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9438,
+    32.66412,
+    73.9438,
+    32.66412
+],
+  "geometry": {"coordinates":[73.9438,32.66412],"type":"Point"}
+}

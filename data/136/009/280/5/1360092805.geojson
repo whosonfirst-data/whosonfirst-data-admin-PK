@@ -1,0 +1,67 @@
+{
+  "id": 1360092805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.84949,26.27431,65.84949,26.27431",
+    "geom:latitude":26.27431,
+    "geom:longitude":65.84949,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Muhammad",
+    "gn:country_code":"PK",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234198,
+    "gn:latitude":26.27431,
+    "gn:longitude":65.84949,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Muhammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234198
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"64c0d0c2f30a79d06108c8542cf21ccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1360092805,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360092805,
+    "wof:lastmodified":1536935218,
+    "wof:name":"Muhammad",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.84949,
+    26.27431,
+    65.84949,
+    26.27431
+],
+  "geometry": {"coordinates":[65.84949,26.27431],"type":"Point"}
+}

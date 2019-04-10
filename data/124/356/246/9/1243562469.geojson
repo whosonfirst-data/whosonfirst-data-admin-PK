@@ -1,0 +1,67 @@
+{
+  "id": 1243562469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.39202,27.99982,66.39202,27.99982",
+    "geom:latitude":27.99982,
+    "geom:longitude":66.39202,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Darwazo",
+    "gn:country_code":"PK",
+    "gn:dem":1476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1399924,
+    "gn:latitude":27.99982,
+    "gn:longitude":66.39202,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Darwazo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1399924
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4bf2ede0daa227a117015d3acb1cc80c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1243562469,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243562469,
+    "wof:lastmodified":1536637111,
+    "wof:name":"Darwazo",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.39202,
+    27.99982,
+    66.39202,
+    27.99982
+],
+  "geometry": {"coordinates":[66.39202,27.99982],"type":"Point"}
+}

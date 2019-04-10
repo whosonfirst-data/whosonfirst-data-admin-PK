@@ -1,0 +1,67 @@
+{
+  "id": 1293691123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.20227,24.82045,67.20227,24.82045",
+    "geom:latitude":24.82045,
+    "geom:longitude":67.20227,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wagoder",
+    "gn:country_code":"PK",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162739,
+    "gn:latitude":24.82045,
+    "gn:longitude":67.20227,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Wagoder",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162739
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e61e6a06639ac338e7ff23bed876772d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":1293691123,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293691123,
+    "wof:lastmodified":1536989891,
+    "wof:name":"Wagoder",
+    "wof:parent_id":1108692233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.20227,
+    24.82045,
+    67.20227,
+    24.82045
+],
+  "geometry": {"coordinates":[67.20227,24.82045],"type":"Point"}
+}

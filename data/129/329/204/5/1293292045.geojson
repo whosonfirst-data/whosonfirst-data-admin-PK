@@ -1,0 +1,67 @@
+{
+  "id": 1293292045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.27265,31.04788,72.27265,31.04788",
+    "geom:latitude":31.04788,
+    "geom:longitude":72.27265,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tahliwala",
+    "gn:country_code":"PK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330219,
+    "gn:latitude":31.04788,
+    "gn:longitude":72.27265,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tahliwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330219
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b0430ed4f41f92fee08d21ee8bd00a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1293292045,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293292045,
+    "wof:lastmodified":1537065882,
+    "wof:name":"Tahliwala",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.27265,
+    31.04788,
+    72.27265,
+    31.04788
+],
+  "geometry": {"coordinates":[72.27265,31.04788],"type":"Point"}
+}

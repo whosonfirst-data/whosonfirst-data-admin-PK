@@ -1,0 +1,65 @@
+{
+  "id": 1209523171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.55142,30.60631,67.55142,30.60631",
+    "geom:latitude":30.60631,
+    "geom:longitude":67.55142,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Skroragha",
+    "gn:country_code":"PK",
+    "gn:dem":2328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1348100,
+    "gn:latitude":30.60631,
+    "gn:longitude":67.55142,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Skroragha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanobai",
+        "Skroragha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348100
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"014c02326b546c52779053df835bf353",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209523171
+        }
+    ],
+    "wof:id":1209523171,
+    "wof:lastmodified":1537680281,
+    "wof:name":"Skroragha",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.55142,
+    30.60631,
+    67.55142,
+    30.60631
+],
+  "geometry": {"coordinates":[67.55141999999999,30.60631],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1242893927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.33678,36.45915,73.33678,36.45915",
+    "geom:latitude":36.45915,
+    "geom:longitude":73.33678,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shukai",
+    "gn:country_code":"PK",
+    "gn:dem":2524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11041151,
+    "gn:latitude":36.45915,
+    "gn:longitude":73.33678,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Shukai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11041151
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"64b0ef65679540c3d1064016c171d0f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1242893927,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1242893927,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1242893927,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242893927,
+    "wof:lastmodified":1536605077,
+    "wof:name":"Shukai",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.33678,
+    36.45915,
+    73.33678,
+    36.45915
+],
+  "geometry": {"coordinates":[73.33678,36.45915],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 421166675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"73.43209,33.89771,73.43209,33.89771",
+    "geom:latitude":33.89771,
+    "geom:longitude":73.43209,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Lower Topa"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1171843,
+    "qs:gn_pop":0,
+    "qs:name":"Lower Topa",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Punjab",
+    "qs:photos":99,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":99,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":269022,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":2202214,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171843,
+        "gp:id":2202214,
+        "qs:id":269022
+    },
+    "wof:country":"PK",
+    "wof:created":1459008699,
+    "wof:geomhash":"d96918ff14546eba3443d20119b9c044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421166675,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":421166675,
+    "wof:lastmodified":1501217008,
+    "wof:name":"Lower Topa",
+    "wof:parent_id":85675753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43209,
+    33.89771,
+    73.43209,
+    33.89771
+],
+  "geometry": {"coordinates":[73.43209,33.89771],"type":"Point"}
+}

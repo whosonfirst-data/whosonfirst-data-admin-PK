@@ -1,0 +1,67 @@
+{
+  "id": 1225947801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.08738,33.96466,70.08738,33.96466",
+    "geom:latitude":33.96466,
+    "geom:longitude":70.08738,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maland Dam",
+    "gn:country_code":"PK",
+    "gn:dem":2355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9984882,
+    "gn:latitude":33.96466,
+    "gn:longitude":70.08738,
+    "gn:modification_date":"2015-02-08",
+    "gn:name":"Maland Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9984882
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"08b70b3dd79da554dc7bef29bca296e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1225947801,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225947801,
+    "wof:lastmodified":1543515737,
+    "wof:name":"Maland Dam",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.08738000000001,
+    33.96465999999999,
+    70.08738000000001,
+    33.96465999999999
+],
+  "geometry": {"coordinates":[70.08738000000001,33.96465999999999],"type":"Point"}
+}

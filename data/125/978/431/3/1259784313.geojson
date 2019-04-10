@@ -1,0 +1,67 @@
+{
+  "id": 1259784313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97374,34.64686,71.97374,34.64686",
+    "geom:latitude":34.64686,
+    "geom:longitude":71.97374,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bar Badwan",
+    "gn:country_code":"PK",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110769,
+    "gn:latitude":34.64686,
+    "gn:longitude":71.97374,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Bar Badwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110769
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5291e9a8a45f61aede8c146550bb0bf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1259784313,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259784313,
+    "wof:lastmodified":1536922642,
+    "wof:name":"Bar Badwan",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97374,
+    34.64686,
+    71.97374,
+    34.64686
+],
+  "geometry": {"coordinates":[71.97374000000001,34.64686],"type":"Point"}
+}

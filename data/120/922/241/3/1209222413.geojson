@@ -1,0 +1,64 @@
+{
+  "id": 1209222413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.80729,25.23681,66.80729,25.23681",
+    "geom:latitude":25.23681,
+    "geom:longitude":66.80729,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goth Allu",
+    "gn:country_code":"PK",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1344263,
+    "gn:latitude":25.23681,
+    "gn:longitude":66.80729,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Goth Allu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Goth Allu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1344263
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"13bb95dfa53665572051428d43abb402",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209222413
+        }
+    ],
+    "wof:id":1209222413,
+    "wof:lastmodified":1537680242,
+    "wof:name":"Goth Allu",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.80729000000001,
+    25.23681,
+    66.80729000000001,
+    25.23681
+],
+  "geometry": {"coordinates":[66.80729000000001,25.23681],"type":"Point"}
+}

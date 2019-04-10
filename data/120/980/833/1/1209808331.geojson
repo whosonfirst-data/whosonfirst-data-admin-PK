@@ -1,0 +1,70 @@
+{
+  "id": 1209808331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.01364,28.367,69.01364,28.367",
+    "geom:latitude":28.367,
+    "geom:longitude":69.01364,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Salghani",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166333,
+    "gn:latitude":28.367,
+    "gn:longitude":69.01364,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Salghani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101lg\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166333
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a009f5ab0c429ba3fcd686c768fd561f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692237,
+            "locality_id":1209808331,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209808331,
+    "wof:lastmodified":1537679319,
+    "wof:name":"Salghani",
+    "wof:parent_id":1108692237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.01364000000001,
+    28.367,
+    69.01364000000001,
+    28.367
+],
+  "geometry": {"coordinates":[69.01364000000001,28.367],"type":"Point"}
+}

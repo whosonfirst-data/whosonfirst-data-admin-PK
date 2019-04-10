@@ -1,0 +1,67 @@
+{
+  "id": 1209221417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.50589,35.09368,72.50589,35.09368",
+    "geom:latitude":35.09368,
+    "geom:longitude":72.50589,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pirpatai",
+    "gn:country_code":"PK",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377475,
+    "gn:latitude":35.09368,
+    "gn:longitude":72.50589,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pirpatai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377475
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8bd50d3c722278dcd3fd63da4eca7ebe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1209221417,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209221417,
+    "wof:lastmodified":1543515502,
+    "wof:name":"Pirpatai",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.50589000000002,
+    35.09368,
+    72.50589000000002,
+    35.09368
+],
+  "geometry": {"coordinates":[72.50589000000002,35.09368],"type":"Point"}
+}

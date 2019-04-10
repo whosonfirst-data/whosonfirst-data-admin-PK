@@ -1,0 +1,67 @@
+{
+  "id": 1226444763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.22048,30.16666,67.22048,30.16666",
+    "geom:latitude":30.16666,
+    "geom:longitude":67.22048,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sorange",
+    "gn:country_code":"PK",
+    "gn:dem":1925,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451390,
+    "gn:latitude":30.16666,
+    "gn:longitude":67.22048,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Sorange",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451390
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97ada810cf474db7d9f38edbaafbd516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1226444763,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226444763,
+    "wof:lastmodified":1536646426,
+    "wof:name":"Sorange",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.22048000000001,
+    30.16666,
+    67.22048000000001,
+    30.16666
+],
+  "geometry": {"coordinates":[67.22048000000001,30.16666],"type":"Point"}
+}

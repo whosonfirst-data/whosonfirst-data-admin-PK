@@ -1,0 +1,78 @@
+{
+  "id": 1260076251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.86836,34.82334,75.86836,34.82334",
+    "geom:latitude":34.82334,
+    "geom:longitude":75.86836,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Loli",
+    "gn:country_code":"PK",
+    "gn:dem":4063,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081214,
+    "gn:latitude":34.82334,
+    "gn:longitude":75.86836,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Loli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081214
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fcc83f6e90800224cf6c808a304412ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260076251,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260076251,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260076251,
+    "wof:lastmodified":1536997733,
+    "wof:name":"Loli",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.86836,
+    34.82334,
+    75.86836,
+    34.82334
+],
+  "geometry": {"coordinates":[75.86836,34.82334],"type":"Point"}
+}

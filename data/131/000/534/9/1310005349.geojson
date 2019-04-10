@@ -1,0 +1,67 @@
+{
+  "id": 1310005349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.39453,33.51527,72.39453,33.51527",
+    "geom:latitude":33.51527,
+    "geom:longitude":72.39453,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Tajal",
+    "gn:country_code":"PK",
+    "gn:dem":428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164132,
+    "gn:latitude":33.51527,
+    "gn:longitude":72.39453,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Tajal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164132
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f638ff4a1b05a51908eb9a35865268f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1310005349,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310005349,
+    "wof:lastmodified":1536642768,
+    "wof:name":"Tajal",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.39453,
+    33.51527,
+    72.39453,
+    33.51527
+],
+  "geometry": {"coordinates":[72.39453,33.51527],"type":"Point"}
+}

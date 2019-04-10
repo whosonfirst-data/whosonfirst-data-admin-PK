@@ -1,0 +1,67 @@
+{
+  "id": 1226647169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60161,35.52639,73.60161,35.52639",
+    "geom:latitude":35.52639,
+    "geom:longitude":73.60161,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sigimus",
+    "gn:country_code":"PK",
+    "gn:dem":1110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021128,
+    "gn:latitude":35.52639,
+    "gn:longitude":73.60161,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sigimus",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021128
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6edcbda111f7284310f13ba0b0c24a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226647169,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226647169,
+    "wof:lastmodified":1536856138,
+    "wof:name":"Sigimus",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60161,
+    35.52639,
+    73.60161,
+    35.52639
+],
+  "geometry": {"coordinates":[73.60160999999999,35.52639],"type":"Point"}
+}

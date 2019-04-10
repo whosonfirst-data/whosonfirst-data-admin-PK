@@ -1,0 +1,80 @@
+{
+  "id": 1209716335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54929,35.31025,71.54929,35.31025",
+    "geom:latitude":35.31025,
+    "geom:longitude":71.54929,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Arandu",
+    "gn:country_code":"PK",
+    "gn:dem":1143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184409,
+    "gn:latitude":35.31025,
+    "gn:longitude":71.54929,
+    "gn:modification_date":"2016-04-10",
+    "gn:name":"Arandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Arandu"
+    ],
+    "name:und_x_variant":[
+        "Arnawai",
+        "Arnawa"
+    ],
+    "name:urd_x_preferred":[
+        "Arand\u016b"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u064e\u0631\u0646\u0652\u062f\u0648"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184409
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7ab27d73d28e96df38ab69d5502e590a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1209716335,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716335,
+    "wof:lastmodified":1543515710,
+    "wof:name":"Arandu",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54929,
+    35.31025,
+    71.54929,
+    35.31025
+],
+  "geometry": {"coordinates":[71.54929,35.31025],"type":"Point"}
+}

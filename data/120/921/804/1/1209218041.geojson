@@ -1,0 +1,67 @@
+{
+  "id": 1209218041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.2527,33.90844,70.2527,33.90844",
+    "geom:latitude":33.90844,
+    "geom:longitude":70.2527,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bago Kandao",
+    "gn:country_code":"PK",
+    "gn:dem":2040,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10134901,
+    "gn:latitude":33.90844,
+    "gn:longitude":70.2527,
+    "gn:modification_date":"2015-03-10",
+    "gn:name":"Bago Kandao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10134901
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f42d40c28aafbd01658afc1267aa2241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1209218041,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209218041,
+    "wof:lastmodified":1543515576,
+    "wof:name":"Bago Kandao",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.2527,
+    33.90844,
+    70.2527,
+    33.90844
+],
+  "geometry": {"coordinates":[70.2527,33.90844],"type":"Point"}
+}

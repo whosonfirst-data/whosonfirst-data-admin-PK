@@ -1,0 +1,78 @@
+{
+  "id": 1293709351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82685,35.32898,73.82685,35.32898",
+    "geom:latitude":35.32898,
+    "geom:longitude":73.82685,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Belangah",
+    "gn:country_code":"PK",
+    "gn:dem":2257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020109,
+    "gn:latitude":35.32898,
+    "gn:longitude":73.82685,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Belangah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020109
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da65a3c7a6a1b34a36fe9c00cc6c9c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293709351,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293709351,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293709351,
+    "wof:lastmodified":1536964442,
+    "wof:name":"Belangah",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82685,
+    35.32898,
+    73.82685,
+    35.32898
+],
+  "geometry": {"coordinates":[73.82684999999999,35.32898],"type":"Point"}
+}

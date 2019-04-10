@@ -1,0 +1,67 @@
+{
+  "id": 1242582989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36296,33.0817,73.36296,33.0817",
+    "geom:latitude":33.0817,
+    "geom:longitude":73.36296,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kandiari",
+    "gn:country_code":"PK",
+    "gn:dem":494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379459,
+    "gn:latitude":33.0817,
+    "gn:longitude":73.36296,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kandiari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379459
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c97ca77dfbe0b4de33193d3d3fc9c596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1242582989,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242582989,
+    "wof:lastmodified":1537053517,
+    "wof:name":"Kandiari",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36296,
+    33.0817,
+    73.36296,
+    33.0817
+],
+  "geometry": {"coordinates":[73.36296,33.0817],"type":"Point"}
+}

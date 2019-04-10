@@ -1,0 +1,67 @@
+{
+  "id": 1310709615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02131,30.25382,70.02131,30.25382",
+    "geom:latitude":30.25382,
+    "geom:longitude":70.02131,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Minghani",
+    "gn:country_code":"PK",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11339052,
+    "gn:latitude":30.25382,
+    "gn:longitude":70.02131,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Minghani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11339052
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dcf2df2f2f05ac0dc805b8bae3169782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692139,
+            "locality_id":1310709615,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310709615,
+    "wof:lastmodified":1536620277,
+    "wof:name":"Minghani",
+    "wof:parent_id":1108692139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02131,
+    30.25382,
+    70.02131,
+    30.25382
+],
+  "geometry": {"coordinates":[70.02131,30.25382],"type":"Point"}
+}

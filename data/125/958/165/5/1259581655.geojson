@@ -1,0 +1,67 @@
+{
+  "id": 1259581655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.29851,25.2656,67.29851,25.2656",
+    "geom:latitude":25.2656,
+    "geom:longitude":67.29851,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Had",
+    "gn:country_code":"PK",
+    "gn:dem":342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096651,
+    "gn:latitude":25.2656,
+    "gn:longitude":67.29851,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Had",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692233
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096651
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a808740aa0f84f1c3fa143d9faf90365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":1259581655,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259581655,
+    "wof:lastmodified":1536717833,
+    "wof:name":"Had",
+    "wof:parent_id":1108692233,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.29851,
+    25.2656,
+    67.29851,
+    25.2656
+],
+  "geometry": {"coordinates":[67.29850999999999,25.2656],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226541155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4655,34.5049,72.4655,34.5049",
+    "geom:latitude":34.5049,
+    "geom:longitude":72.4655,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tahsil",
+    "gn:country_code":"PK",
+    "gn:dem":738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482241,
+    "gn:latitude":34.5049,
+    "gn:longitude":72.4655,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Tahsil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482241
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"132572e92b1392b3004d767f1f729a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1226541155,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226541155,
+    "wof:lastmodified":1537003909,
+    "wof:name":"Tahsil",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4655,
+    34.5049,
+    72.4655,
+    34.5049
+],
+  "geometry": {"coordinates":[72.46550000000001,34.5049],"type":"Point"}
+}

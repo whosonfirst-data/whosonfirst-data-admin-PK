@@ -1,0 +1,65 @@
+{
+  "id": 1209247077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33006,33.70168,72.33006,33.70168",
+    "geom:latitude":33.70168,
+    "geom:longitude":72.33006,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dheri Langhal",
+    "gn:country_code":"PK",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180048,
+    "gn:latitude":33.70168,
+    "gn:longitude":72.33006,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dheri Langhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dheri Lagal",
+        "Dheri Langhal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180048
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a979846fbd23541962474203c4637c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209247077
+        }
+    ],
+    "wof:id":1209247077,
+    "wof:lastmodified":1537679804,
+    "wof:name":"Dheri Langhal",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33006,
+    33.70168,
+    72.33006,
+    33.70168
+],
+  "geometry": {"coordinates":[72.33006,33.70168],"type":"Point"}
+}

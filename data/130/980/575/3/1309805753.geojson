@@ -1,0 +1,67 @@
+{
+  "id": 1309805753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.43365,26.88573,65.43365,26.88573",
+    "geom:latitude":26.88573,
+    "geom:longitude":65.43365,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mashkai",
+    "gn:country_code":"PK",
+    "gn:dem":843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11235756,
+    "gn:latitude":26.88573,
+    "gn:longitude":65.43365,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Mashkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11235756
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"63e11a398da625a3d497ba3f59511ec7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1309805753,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309805753,
+    "wof:lastmodified":1536931832,
+    "wof:name":"Mashkai",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.43365,
+    26.88573,
+    65.43365,
+    26.88573
+],
+  "geometry": {"coordinates":[65.43365,26.88573],"type":"Point"}
+}

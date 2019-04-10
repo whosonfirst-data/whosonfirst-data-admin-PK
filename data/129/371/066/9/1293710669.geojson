@@ -1,0 +1,78 @@
+{
+  "id": 1293710669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3882,34.79287,74.3882,34.79287",
+    "geom:latitude":34.79287,
+    "geom:longitude":74.3882,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhakki",
+    "gn:country_code":"PK",
+    "gn:dem":3281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180218,
+    "gn:latitude":34.79287,
+    "gn:longitude":74.3882,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Dhakki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180218
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"617e71e2d2cf061232da0ddd47ccb5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1293710669,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1293710669,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293710669,
+    "wof:lastmodified":1536962589,
+    "wof:name":"Dhakki",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3882,
+    34.79287,
+    74.3882,
+    34.79287
+],
+  "geometry": {"coordinates":[74.3882,34.79287],"type":"Point"}
+}

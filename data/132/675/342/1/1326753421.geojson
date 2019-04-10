@@ -1,0 +1,67 @@
+{
+  "id": 1326753421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44472,30.61361,73.44472,30.61361",
+    "geom:latitude":30.61361,
+    "geom:longitude":73.44472,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mohl",
+    "gn:country_code":"PK",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332125,
+    "gn:latitude":30.61361,
+    "gn:longitude":73.44472,
+    "gn:modification_date":"1995-05-31",
+    "gn:name":"Mohl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332125
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af2daa4d933c0d1c6d77e925a2a919d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1326753421,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326753421,
+    "wof:lastmodified":1536665163,
+    "wof:name":"Mohl",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44471999999998,
+    30.61361,
+    73.44471999999998,
+    30.61361
+],
+  "geometry": {"coordinates":[73.44471999999998,30.61361],"type":"Point"}
+}

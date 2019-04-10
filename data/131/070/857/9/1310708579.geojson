@@ -1,0 +1,74 @@
+{
+  "id": 1310708579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.45125,34.13887,72.45125,34.13887",
+    "geom:latitude":34.13887,
+    "geom:longitude":72.45125,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mirdad Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385029,
+    "gn:latitude":34.13887,
+    "gn:longitude":72.45125,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Mirdad Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "M\u012br D\u0101d Kalle"
+    ],
+    "name:und_x_variant":[
+        "M\u012brd\u0101d Kili",
+        "Mirdad Kalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692397
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385029
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"567ff19f4dc304a8ecb5fd96ee431b5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692397,
+            "locality_id":1310708579,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310708579,
+    "wof:lastmodified":1537680833,
+    "wof:name":"Mirdad Kalle",
+    "wof:parent_id":1108692397,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.45125,
+    34.13887,
+    72.45125,
+    34.13887
+],
+  "geometry": {"coordinates":[72.45125,34.13887],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276250533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9739,33.62286,73.9739,33.62286",
+    "geom:latitude":33.62286,
+    "geom:longitude":73.9739,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bhahun",
+    "gn:country_code":"PK",
+    "gn:dem":806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413740,
+    "gn:latitude":33.62286,
+    "gn:longitude":73.9739,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bhahun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bhun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413740
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2fca13bd28d10ca662311411817745a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276250533,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276250533,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276250533,
+    "wof:lastmodified":1537681320,
+    "wof:name":"Bhahun",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9739,
+    33.62286,
+    73.9739,
+    33.62286
+],
+  "geometry": {"coordinates":[73.9739,33.62286],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260309325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.98853,29.92737,69.98853,29.92737",
+    "geom:latitude":29.92737,
+    "geom:longitude":69.98853,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Fort Munro",
+    "gn:country_code":"PK",
+    "gn:dem":1805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169752,
+    "gn:latitude":29.92737,
+    "gn:longitude":69.98853,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Fort Munro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Muhr",
+        "Fort Munro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169752
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3d5a28041405d03ae1b025722da23712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1260309325,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260309325,
+    "wof:lastmodified":1537679442,
+    "wof:name":"Fort Munro",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.98853000000001,
+    29.92737,
+    69.98853000000001,
+    29.92737
+],
+  "geometry": {"coordinates":[69.98853000000001,29.92737],"type":"Point"}
+}

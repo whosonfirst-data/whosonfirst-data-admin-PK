@@ -1,0 +1,67 @@
+{
+  "id": 1243074511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.18834,34.25757,73.18834,34.25757",
+    "geom:latitude":34.25757,
+    "geom:longitude":73.18834,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Thithar",
+    "gn:country_code":"PK",
+    "gn:dem":1275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389992,
+    "gn:latitude":34.25757,
+    "gn:longitude":73.18834,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thithar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389992
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0e9f4431d4f5df101ff327ec19b65737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1243074511,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243074511,
+    "wof:lastmodified":1536843585,
+    "wof:name":"Thithar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.18834,
+    34.25757,
+    73.18834,
+    34.25757
+],
+  "geometry": {"coordinates":[73.18834,34.25757],"type":"Point"}
+}

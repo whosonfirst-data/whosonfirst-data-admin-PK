@@ -1,0 +1,67 @@
+{
+  "id": 1293884439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93114,34.60961,72.93114,34.60961",
+    "geom:latitude":34.60961,
+    "geom:longitude":72.93114,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bab",
+    "gn:country_code":"PK",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482594,
+    "gn:latitude":34.60961,
+    "gn:longitude":72.93114,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Bab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482594
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba3bc6de5fe89a6728676b3cb7f7acb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1293884439,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293884439,
+    "wof:lastmodified":1536712306,
+    "wof:name":"Bab",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93114,
+    34.60961,
+    72.93114,
+    34.60961
+],
+  "geometry": {"coordinates":[72.93114,34.60961],"type":"Point"}
+}

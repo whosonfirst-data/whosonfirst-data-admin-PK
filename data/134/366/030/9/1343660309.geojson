@@ -1,0 +1,67 @@
+{
+  "id": 1343660309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.07127,27.73169,69.07127,27.73169",
+    "geom:latitude":27.73169,
+    "geom:longitude":69.07127,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Taj Muhammad Khan",
+    "gn:country_code":"PK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361377,
+    "gn:latitude":27.73169,
+    "gn:longitude":69.07127,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Taj Muhammad Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361377
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d2941d71ff56821558125e5c0711720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1343660309,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343660309,
+    "wof:lastmodified":1536955363,
+    "wof:name":"Taj Muhammad Khan",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.07127,
+    27.73169,
+    69.07127,
+    27.73169
+],
+  "geometry": {"coordinates":[69.07127,27.73169],"type":"Point"}
+}

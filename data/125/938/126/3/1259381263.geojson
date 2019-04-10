@@ -1,0 +1,67 @@
+{
+  "id": 1259381263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.16294,25.66479,70.16294,25.66479",
+    "geom:latitude":25.66479,
+    "geom:longitude":70.16294,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Bhitala",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182612,
+    "gn:latitude":25.66479,
+    "gn:longitude":70.16294,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Bhitala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182612
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7b8d8ffd860fa6852f115ff992d5ecde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692417,
+            "locality_id":1259381263,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259381263,
+    "wof:lastmodified":1537004764,
+    "wof:name":"Bhitala",
+    "wof:parent_id":1108692417,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.16294,
+    25.66479,
+    70.16294,
+    25.66479
+],
+  "geometry": {"coordinates":[70.16294000000001,25.66479],"type":"Point"}
+}

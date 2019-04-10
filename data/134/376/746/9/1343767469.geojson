@@ -1,0 +1,67 @@
+{
+  "id": 1343767469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.78265,32.40404,71.78265,32.40404",
+    "geom:latitude":32.40404,
+    "geom:longitude":71.78265,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Purianwala",
+    "gn:country_code":"PK",
+    "gn:dem":200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11564464,
+    "gn:latitude":32.40404,
+    "gn:longitude":71.78265,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Purianwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11564464
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"447c0d90935e97cdd0139b8d2b05cd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1343767469,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343767469,
+    "wof:lastmodified":1536800837,
+    "wof:name":"Purianwala",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.78265,
+    32.40404,
+    71.78265,
+    32.40404
+],
+  "geometry": {"coordinates":[71.78265,32.40404],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209722291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.91054,35.02743,71.91054,35.02743",
+    "geom:latitude":35.02743,
+    "geom:longitude":71.91054,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jachal",
+    "gn:country_code":"PK",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138204,
+    "gn:latitude":35.02743,
+    "gn:longitude":71.91054,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Jachal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138204
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a1d0d478e2202f1b5ac9fd3cdc0d836c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1209722291,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209722291,
+    "wof:lastmodified":1543515654,
+    "wof:name":"Jachal",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.91054,
+    35.02743,
+    71.91054,
+    35.02743
+],
+  "geometry": {"coordinates":[71.91054,35.02743],"type":"Point"}
+}

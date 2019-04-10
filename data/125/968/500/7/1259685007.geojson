@@ -1,0 +1,77 @@
+{
+  "id": 1259685007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88492,36.5862,72.88492,36.5862",
+    "geom:latitude":36.5862,
+    "geom:longitude":72.88492,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Wasm",
+    "gn:country_code":"PK",
+    "gn:dem":2707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162527,
+    "gn:latitude":36.5862,
+    "gn:longitude":72.88492,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Wasm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wasam",
+        "Wasm"
+    ],
+    "name:urd_x_preferred":[
+        "W\u0101sam"
+    ],
+    "name:urd_x_variant":[
+        "\u0648\u064e\u0627\u0633\u064e\u0645"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162527
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"96dd9ae61aadcc4519202899a7927bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1259685007,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259685007,
+    "wof:lastmodified":1537679195,
+    "wof:name":"Wasm",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88492,
+    36.5862,
+    72.88492,
+    36.5862
+],
+  "geometry": {"coordinates":[72.88491999999999,36.5862],"type":"Point"}
+}

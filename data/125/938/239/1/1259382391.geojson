@@ -1,0 +1,67 @@
+{
+  "id": 1259382391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44304,33.54998,73.44304,33.54998",
+    "geom:latitude":33.54998,
+    "geom:longitude":73.44304,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gharet",
+    "gn:country_code":"PK",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11441724,
+    "gn:latitude":33.54998,
+    "gn:longitude":73.44304,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Gharet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11441724
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"86f654e991d2d9879eff312a980ee912",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1259382391,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259382391,
+    "wof:lastmodified":1537003092,
+    "wof:name":"Gharet",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44304,
+    33.54998,
+    73.44304,
+    33.54998
+],
+  "geometry": {"coordinates":[73.44304,33.54998],"type":"Point"}
+}

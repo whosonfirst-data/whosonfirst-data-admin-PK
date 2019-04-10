@@ -1,0 +1,72 @@
+{
+  "id": 1343962401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72127,26.34245,67.72127,26.34245",
+    "geom:latitude":26.34245,
+    "geom:longitude":67.72127,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jhangara",
+    "gn:country_code":"PK",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175911,
+    "gn:latitude":26.34245,
+    "gn:longitude":67.72127,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jhangara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangar",
+        "Jhanjar",
+        "Jhangara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175911
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d858cb0e32cb511aecae2de86f4a020",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692219,
+            "locality_id":1343962401,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343962401,
+    "wof:lastmodified":1537679661,
+    "wof:name":"Jhangara",
+    "wof:parent_id":1108692219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72126999999999,
+    26.34245,
+    67.72126999999999,
+    26.34245
+],
+  "geometry": {"coordinates":[67.72126999999999,26.34245],"type":"Point"}
+}

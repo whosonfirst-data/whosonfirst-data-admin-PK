@@ -1,0 +1,67 @@
+{
+  "id": 1293890413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0241,34.17346,73.0241,34.17346",
+    "geom:latitude":34.17346,
+    "geom:longitude":73.0241,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ganda",
+    "gn:country_code":"PK",
+    "gn:dem":1075,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179048,
+    "gn:latitude":34.17346,
+    "gn:longitude":73.0241,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ganda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179048
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"031840854a8dc34a3804c9eddb9052ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1293890413,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293890413,
+    "wof:lastmodified":1536703614,
+    "wof:name":"Ganda",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0241,
+    34.17346,
+    73.0241,
+    34.17346
+],
+  "geometry": {"coordinates":[73.0241,34.17346],"type":"Point"}
+}

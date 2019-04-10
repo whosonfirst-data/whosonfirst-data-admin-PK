@@ -1,0 +1,78 @@
+{
+  "id": 1226735553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.84233,35.11899,75.84233,35.11899",
+    "geom:latitude":35.11899,
+    "geom:longitude":75.84233,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Sonda",
+    "gn:country_code":"PK",
+    "gn:dem":3090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080954,
+    "gn:latitude":35.11899,
+    "gn:longitude":75.84233,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Sonda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080954
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c503ae69fd9592fcf8981ae13efa2386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1226735553,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1226735553,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226735553,
+    "wof:lastmodified":1536730617,
+    "wof:name":"Sonda",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.84233,
+    35.11899,
+    75.84233,
+    35.11899
+],
+  "geometry": {"coordinates":[75.84233,35.11899],"type":"Point"}
+}

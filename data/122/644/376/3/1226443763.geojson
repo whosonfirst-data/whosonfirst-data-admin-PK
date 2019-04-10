@@ -1,0 +1,67 @@
+{
+  "id": 1226443763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44079,33.48212,71.44079,33.48212",
+    "geom:latitude":33.48212,
+    "geom:longitude":71.44079,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khattakabad",
+    "gn:country_code":"PK",
+    "gn:dem":431,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544706,
+    "gn:latitude":33.48212,
+    "gn:longitude":71.44079,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Khattakabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544706
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a9e5d645941fd57c83548af2374a37e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692263,
+            "locality_id":1226443763,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226443763,
+    "wof:lastmodified":1536647995,
+    "wof:name":"Khattakabad",
+    "wof:parent_id":1108692263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44079,
+    33.48212,
+    71.44079,
+    33.48212
+],
+  "geometry": {"coordinates":[71.44079000000001,33.48212],"type":"Point"}
+}

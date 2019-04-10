@@ -1,0 +1,86 @@
+{
+  "id": 1226639767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3781,35.978,73.3781,35.978",
+    "geom:latitude":35.978,
+    "geom:longitude":73.3781,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Batel",
+    "gn:country_code":"PK",
+    "gn:dem":4280,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427241,
+    "gn:latitude":35.978,
+    "gn:longitude":73.3781,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Batel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427241
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c736a93f2aad641068bd34b7202ab09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1226639767,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226639767,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226639767,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226639767,
+    "wof:lastmodified":1536866792,
+    "wof:name":"Batel",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3781,
+    35.978,
+    73.3781,
+    35.978
+],
+  "geometry": {"coordinates":[73.3781,35.978],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276857041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63964,35.69531,73.63964,35.69531",
+    "geom:latitude":35.69531,
+    "geom:longitude":73.63964,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Guchele",
+    "gn:country_code":"PK",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427340,
+    "gn:latitude":35.69531,
+    "gn:longitude":73.63964,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Guchele",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427340
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56ac31960d2524bfd49713c5fb60d798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276857041,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276857041,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276857041,
+    "wof:lastmodified":1537068713,
+    "wof:name":"Guchele",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63964,
+    35.69531,
+    73.63964,
+    35.69531
+],
+  "geometry": {"coordinates":[73.63964,35.69531],"type":"Point"}
+}

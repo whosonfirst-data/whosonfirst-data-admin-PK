@@ -1,0 +1,81 @@
+{
+  "id": 1276142367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.52814,35.51469,74.52814,35.51469",
+    "geom:latitude":35.51469,
+    "geom:longitude":74.52814,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dirkul",
+    "gn:country_code":"PK",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423673,
+    "gn:latitude":35.51469,
+    "gn:longitude":74.52814,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Dirkul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dirkil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423673
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb5b5b09740af62c247bcd33d96d6cf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276142367,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276142367,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276142367,
+    "wof:lastmodified":1537681907,
+    "wof:name":"Dirkul",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.52814000000002,
+    35.51469,
+    74.52814000000002,
+    35.51469
+],
+  "geometry": {"coordinates":[74.52814000000002,35.51469],"type":"Point"}
+}

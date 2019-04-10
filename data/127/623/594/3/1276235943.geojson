@@ -1,0 +1,67 @@
+{
+  "id": 1276235943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.01653,26.47301,63.01653,26.47301",
+    "geom:latitude":26.47301,
+    "geom:longitude":63.01653,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kando",
+    "gn:country_code":"PK",
+    "gn:dem":939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11199485,
+    "gn:latitude":26.47301,
+    "gn:longitude":63.01653,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kando",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11199485
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"37db6bf631bcadf50fe3b054c38b02f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1276235943,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276235943,
+    "wof:lastmodified":1536909408,
+    "wof:name":"Kando",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.01653,
+    26.47301,
+    63.01653,
+    26.47301
+],
+  "geometry": {"coordinates":[63.01653,26.47301],"type":"Point"}
+}

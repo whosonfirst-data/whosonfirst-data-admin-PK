@@ -1,0 +1,64 @@
+{
+  "id": 1209016891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.99957,25.33933,61.99957,25.33933",
+    "geom:latitude":25.33933,
+    "geom:longitude":61.99957,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pishal",
+    "gn:country_code":"PK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336460,
+    "gn:latitude":25.33933,
+    "gn:longitude":61.99957,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Pishal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pishal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336460
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a4b4e65e37a81bbd038e1508684234f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209016891
+        }
+    ],
+    "wof:id":1209016891,
+    "wof:lastmodified":1537680140,
+    "wof:name":"Pishal",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.99957,
+    25.33933,
+    61.99957,
+    25.33933
+],
+  "geometry": {"coordinates":[61.99957,25.33933],"type":"Point"}
+}

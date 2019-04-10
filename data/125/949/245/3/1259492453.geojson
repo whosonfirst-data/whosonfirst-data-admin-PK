@@ -1,0 +1,73 @@
+{
+  "id": 1259492453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.52761,34.8866,71.52761,34.8866",
+    "geom:latitude":34.8866,
+    "geom:longitude":71.52761,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gambat",
+    "gn:country_code":"PK",
+    "gn:dem":1010,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111791,
+    "gn:latitude":34.8866,
+    "gn:longitude":71.52761,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Gambat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gambat"
+    ],
+    "name:und_x_variant":[
+        "Lar Gembat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111791
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bc11d1551b280a36eed580ded5878d06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1259492453,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259492453,
+    "wof:lastmodified":1537679169,
+    "wof:name":"Gambat",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.52761,
+    34.8866,
+    71.52761,
+    34.8866
+],
+  "geometry": {"coordinates":[71.52761,34.8866],"type":"Point"}
+}

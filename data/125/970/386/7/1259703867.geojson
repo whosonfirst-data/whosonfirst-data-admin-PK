@@ -1,0 +1,78 @@
+{
+  "id": 1259703867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.67272,35.75648,73.67272,35.75648",
+    "geom:latitude":35.75648,
+    "geom:longitude":73.67272,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khate",
+    "gn:country_code":"PK",
+    "gn:dem":2230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000020,
+    "gn:latitude":35.75648,
+    "gn:longitude":73.67272,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Khate",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000020
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f0c0cf640a59bdf2dcc13a57b4f5aba3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259703867,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259703867,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259703867,
+    "wof:lastmodified":1537036177,
+    "wof:name":"Khate",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.67272,
+    35.75648,
+    73.67272,
+    35.75648
+],
+  "geometry": {"coordinates":[73.67272,35.75648],"type":"Point"}
+}

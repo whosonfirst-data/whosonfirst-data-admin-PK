@@ -1,0 +1,67 @@
+{
+  "id": 1343261227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56722,30.52332,71.56722,30.52332",
+    "geom:latitude":30.52332,
+    "geom:longitude":71.56722,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Balkana",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183651,
+    "gn:latitude":30.52332,
+    "gn:longitude":71.56722,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Balkana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183651
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6dcf532a52d0642629741191eb0ac10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343261227,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343261227,
+    "wof:lastmodified":1537032377,
+    "wof:name":"Balkana",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56721999999998,
+    30.52332,
+    71.56721999999998,
+    30.52332
+],
+  "geometry": {"coordinates":[71.56721999999998,30.52332],"type":"Point"}
+}

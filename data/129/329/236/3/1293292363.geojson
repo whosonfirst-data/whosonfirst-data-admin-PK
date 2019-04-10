@@ -1,0 +1,67 @@
+{
+  "id": 1293292363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.913,32.52497,73.913,32.52497",
+    "geom:latitude":32.52497,
+    "geom:longitude":73.913,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tibbi",
+    "gn:country_code":"PK",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449573,
+    "gn:latitude":32.52497,
+    "gn:longitude":73.913,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Tibbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449573
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"12e8316d4ab5e3ae4e034c9caa973121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1293292363,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293292363,
+    "wof:lastmodified":1537065430,
+    "wof:name":"Tibbi",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.913,
+    32.52497,
+    73.913,
+    32.52497
+],
+  "geometry": {"coordinates":[73.913,32.52497],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343459779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.74456,34.71719,72.74456,34.71719",
+    "geom:latitude":34.71719,
+    "geom:longitude":72.74456,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Karnada",
+    "gn:country_code":"PK",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390786,
+    "gn:latitude":34.71719,
+    "gn:longitude":72.74456,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Karnada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390786
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5edc3966a9e0f769972ccf4e6ad03dfd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1343459779,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343459779,
+    "wof:lastmodified":1536746918,
+    "wof:name":"Karnada",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.74455999999998,
+    34.71719,
+    72.74455999999998,
+    34.71719
+],
+  "geometry": {"coordinates":[72.74455999999998,34.71719],"type":"Point"}
+}

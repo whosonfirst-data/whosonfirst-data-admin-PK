@@ -1,0 +1,78 @@
+{
+  "id": 1193271801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.603,35.50628,75.603,35.50628",
+    "geom:latitude":35.50628,
+    "geom:longitude":75.603,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Matulu",
+    "gn:country_code":"PK",
+    "gn:dem":2306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419587,
+    "gn:latitude":35.50628,
+    "gn:longitude":75.603,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Matulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419587
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"247f5b864c9a413a6e3d52cb8ce88daf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1193271801,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1193271801,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193271801,
+    "wof:lastmodified":1536369817,
+    "wof:name":"Matulu",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.60300000000002,
+    35.50628,
+    75.60300000000002,
+    35.50628
+],
+  "geometry": {"coordinates":[75.60300000000002,35.50628],"type":"Point"}
+}

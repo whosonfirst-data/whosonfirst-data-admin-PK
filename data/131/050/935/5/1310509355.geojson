@@ -1,0 +1,67 @@
+{
+  "id": 1310509355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.5518,29.85485,69.5518,29.85485",
+    "geom:latitude":29.85485,
+    "geom:longitude":69.5518,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kubri",
+    "gn:country_code":"PK",
+    "gn:dem":1050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1398798,
+    "gn:latitude":29.85485,
+    "gn:longitude":69.5518,
+    "gn:modification_date":"2001-11-01",
+    "gn:name":"Kubri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1398798
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"073b71622e7e1b07bf0b52321f63ede8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692139,
+            "locality_id":1310509355,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310509355,
+    "wof:lastmodified":1536911636,
+    "wof:name":"Kubri",
+    "wof:parent_id":1108692139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.5518,
+    29.85485,
+    69.5518,
+    29.85485
+],
+  "geometry": {"coordinates":[69.5518,29.85485],"type":"Point"}
+}

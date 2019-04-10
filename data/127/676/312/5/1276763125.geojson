@@ -1,0 +1,67 @@
+{
+  "id": 1276763125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66418,35.15478,72.66418,35.15478",
+    "geom:latitude":35.15478,
+    "geom:longitude":72.66418,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Karamar",
+    "gn:country_code":"PK",
+    "gn:dem":2704,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377539,
+    "gn:latitude":35.15478,
+    "gn:longitude":72.66418,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Karamar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377539
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"86c7ecbe1b8c85d4b9c1823e50663786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1276763125,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276763125,
+    "wof:lastmodified":1536700199,
+    "wof:name":"Karamar",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66418,
+    35.15478,
+    72.66418,
+    35.15478
+],
+  "geometry": {"coordinates":[72.66418,35.15478],"type":"Point"}
+}

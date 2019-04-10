@@ -1,0 +1,67 @@
+{
+  "id": 1242979907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.30634,33.60989,70.30634,33.60989",
+    "geom:latitude":33.60989,
+    "geom:longitude":70.30634,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Makhazai",
+    "gn:country_code":"PK",
+    "gn:dem":1068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1344151,
+    "gn:latitude":33.60989,
+    "gn:longitude":70.30634,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Makhazai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1344151
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3dc61cc94c1b1a074d50bb012b9af4fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1242979907,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1242979907,
+    "wof:lastmodified":1536980416,
+    "wof:name":"Makhazai",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.30634,
+    33.60989,
+    70.30634,
+    33.60989
+],
+  "geometry": {"coordinates":[70.30634000000001,33.60989],"type":"Point"}
+}

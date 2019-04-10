@@ -1,0 +1,82 @@
+{
+  "id": 1226137591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93463,33.04898,73.93463,33.04898",
+    "geom:latitude":33.04898,
+    "geom:longitude":73.93463,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Harah",
+    "gn:country_code":"PK",
+    "gn:dem":344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386527,
+    "gn:latitude":33.04898,
+    "gn:longitude":73.93463,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Harah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maira Ghaz",
+        "Harah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386527
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"998e4e0e1d9bbe2ae60cc07a715ee036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226137591,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226137591,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226137591,
+    "wof:lastmodified":1537680864,
+    "wof:name":"Harah",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93463,
+    33.04898,
+    73.93463,
+    33.04898
+],
+  "geometry": {"coordinates":[73.93463,33.04898],"type":"Point"}
+}

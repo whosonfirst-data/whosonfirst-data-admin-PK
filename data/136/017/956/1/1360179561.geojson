@@ -1,0 +1,81 @@
+{
+  "id": 1360179561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6506,33.86303,73.6506,33.86303",
+    "geom:latitude":33.86303,
+    "geom:longitude":73.6506,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kun Dhok",
+    "gn:country_code":"PK",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097571,
+    "gn:latitude":33.86303,
+    "gn:longitude":73.6506,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kun Dhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u016bn Dhok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097571
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"492fcca02f13a7e7c32ba1fc95f16f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1360179561,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1360179561,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1360179561,
+    "wof:lastmodified":1537681683,
+    "wof:name":"Kun Dhok",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6506,
+    33.86303,
+    73.6506,
+    33.86303
+],
+  "geometry": {"coordinates":[73.6506,33.86303],"type":"Point"}
+}

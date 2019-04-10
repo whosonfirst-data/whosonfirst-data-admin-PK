@@ -1,0 +1,67 @@
+{
+  "id": 1360085631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98215,34.2965,71.98215,34.2965",
+    "geom:latitude":34.2965,
+    "geom:longitude":71.98215,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pamp Koruna",
+    "gn:country_code":"PK",
+    "gn:dem":346,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543345,
+    "gn:latitude":34.2965,
+    "gn:longitude":71.98215,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Pamp Koruna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543345
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a1d0668c9d12784c2ebbcc92e03a2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692299,
+            "locality_id":1360085631,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360085631,
+    "wof:lastmodified":1543515291,
+    "wof:name":"Pamp Koruna",
+    "wof:parent_id":1108692299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98215,
+    34.2965,
+    71.98215,
+    34.2965
+],
+  "geometry": {"coordinates":[71.98215,34.2965],"type":"Point"}
+}

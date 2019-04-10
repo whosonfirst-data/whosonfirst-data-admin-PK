@@ -1,0 +1,67 @@
+{
+  "id": 1242599203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.53924,33.26399,73.53924,33.26399",
+    "geom:latitude":33.26399,
+    "geom:longitude":73.53924,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bandiala",
+    "gn:country_code":"PK",
+    "gn:dem":472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11047609,
+    "gn:latitude":33.26399,
+    "gn:longitude":73.53924,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bandiala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11047609
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"88fba097c475ef4a23d848e373249942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1242599203,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242599203,
+    "wof:lastmodified":1537031234,
+    "wof:name":"Bandiala",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.53924,
+    33.26399,
+    73.53924,
+    33.26399
+],
+  "geometry": {"coordinates":[73.53924000000001,33.26399],"type":"Point"}
+}

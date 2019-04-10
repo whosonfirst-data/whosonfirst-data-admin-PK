@@ -1,0 +1,81 @@
+{
+  "id": 1360104999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.71312,36.90165,74.71312,36.90165",
+    "geom:latitude":36.90165,
+    "geom:longitude":74.71312,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lup Jungle",
+    "gn:country_code":"PK",
+    "gn:dem":3542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427726,
+    "gn:latitude":36.90165,
+    "gn:longitude":74.71312,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Lup Jungle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "L\u016bp Jangal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427726
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a277a7b44db20e9e0ee46f1c716cc4a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1360104999,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1360104999,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360104999,
+    "wof:lastmodified":1537681913,
+    "wof:name":"Lup Jungle",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.71311999999998,
+    36.90165,
+    74.71311999999998,
+    36.90165
+],
+  "geometry": {"coordinates":[74.71311999999998,36.90165],"type":"Point"}
+}

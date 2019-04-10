@@ -1,0 +1,61 @@
+{
+  "id": 1209436511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.70333,33.26161,73.70333,33.26161",
+    "geom:latitude":33.26161,
+    "geom:longitude":73.70333,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chak Pathanan",
+    "gn:country_code":"PK",
+    "gn:dem":335,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7101049,
+    "gn:latitude":33.26161,
+    "gn:longitude":73.70333,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chak Pathanan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101049
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f56be4d591a4c508747b9e34ae0906f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209436511
+        }
+    ],
+    "wof:id":1209436511,
+    "wof:lastmodified":1536287088,
+    "wof:name":"Chak Pathanan",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70333000000002,
+    33.26161,
+    73.70333000000002,
+    33.26161
+],
+  "geometry": {"coordinates":[73.70333000000002,33.26161],"type":"Point"}
+}

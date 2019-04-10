@@ -1,0 +1,81 @@
+{
+  "id": 1343582785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73901,33.51201,73.73901,33.51201",
+    "geom:latitude":33.51201,
+    "geom:longitude":73.73901,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Saila",
+    "gn:country_code":"PK",
+    "gn:dem":633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100634,
+    "gn:latitude":33.51201,
+    "gn:longitude":73.73901,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Saila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "S\u0101ilah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100634
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a685001d89fb44401d0653e383b1f4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343582785,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343582785,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343582785,
+    "wof:lastmodified":1537681693,
+    "wof:name":"Saila",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73901,
+    33.51201,
+    73.73901,
+    33.51201
+],
+  "geometry": {"coordinates":[73.73900999999999,33.51201],"type":"Point"}
+}

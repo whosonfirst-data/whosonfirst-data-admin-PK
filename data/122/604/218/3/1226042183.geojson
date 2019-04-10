@@ -1,0 +1,73 @@
+{
+  "id": 1226042183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.79273,30.76888,70.79273,30.76888",
+    "geom:latitude":30.76888,
+    "geom:longitude":70.79273,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baluch Khanwala",
+    "gn:country_code":"PK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1354479,
+    "gn:latitude":30.76888,
+    "gn:longitude":70.79273,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Baluch Khanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Ch\u0101ndi\u0101w\u0101la"
+    ],
+    "name:und_x_variant":[
+        "Kann\u016bw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354479
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"54600ab6c073da1d96bc7be21f5c4e57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1226042183,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226042183,
+    "wof:lastmodified":1537680318,
+    "wof:name":"Baluch Khanwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.79273,
+    30.76888,
+    70.79273,
+    30.76888
+],
+  "geometry": {"coordinates":[70.79273000000001,30.76888],"type":"Point"}
+}

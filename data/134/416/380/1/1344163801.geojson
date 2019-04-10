@@ -1,0 +1,67 @@
+{
+  "id": 1344163801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.80974,34.11301,72.80974,34.11301",
+    "geom:latitude":34.11301,
+    "geom:longitude":72.80974,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Karenti",
+    "gn:country_code":"PK",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1378983,
+    "gn:latitude":34.11301,
+    "gn:longitude":72.80974,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Karenti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378983
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"304256e99399a8f4ffe1aa3453f6d50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1344163801,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344163801,
+    "wof:lastmodified":1536726813,
+    "wof:name":"Karenti",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.80974,
+    34.11301,
+    72.80974,
+    34.11301
+],
+  "geometry": {"coordinates":[72.80974000000001,34.11301],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209624295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.7753,32.7166,69.7753,32.7166",
+    "geom:latitude":32.7166,
+    "geom:longitude":69.7753,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Khojai",
+    "gn:country_code":"PK",
+    "gn:dem":2307,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1426270,
+    "gn:latitude":32.7166,
+    "gn:longitude":69.7753,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Khojai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1426270
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"89ff675da7cb4d35b976223d191ded7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1209624295,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209624295,
+    "wof:lastmodified":1543515686,
+    "wof:name":"Khojai",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.7753,
+    32.7166,
+    69.7753,
+    32.7166
+],
+  "geometry": {"coordinates":[69.7753,32.7166],"type":"Point"}
+}

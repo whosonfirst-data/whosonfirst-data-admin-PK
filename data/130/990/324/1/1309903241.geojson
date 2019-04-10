@@ -1,0 +1,67 @@
+{
+  "id": 1309903241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.896,33.00658,73.896,33.00658",
+    "geom:latitude":33.00658,
+    "geom:longitude":73.896,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Marial",
+    "gn:country_code":"PK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386518,
+    "gn:latitude":33.00658,
+    "gn:longitude":73.896,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Marial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386518
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43172fd10dd6dcc2f40502cd333bb320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1309903241,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309903241,
+    "wof:lastmodified":1536791043,
+    "wof:name":"Marial",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.896,
+    33.00658,
+    73.896,
+    33.00658
+],
+  "geometry": {"coordinates":[73.896,33.00658],"type":"Point"}
+}

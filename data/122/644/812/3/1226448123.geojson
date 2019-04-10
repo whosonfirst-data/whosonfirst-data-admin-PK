@@ -1,0 +1,67 @@
+{
+  "id": 1226448123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.29631,31.08055,72.29631,31.08055",
+    "geom:latitude":31.08055,
+    "geom:longitude":72.29631,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dinpur",
+    "gn:country_code":"PK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482302,
+    "gn:latitude":31.08055,
+    "gn:longitude":72.29631,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dinpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482302
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"74d419efc79f778fbb9e75b9e4a3dc7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1226448123,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226448123,
+    "wof:lastmodified":1536641162,
+    "wof:name":"Dinpur",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.29630999999998,
+    31.08055,
+    72.29630999999998,
+    31.08055
+],
+  "geometry": {"coordinates":[72.29630999999998,31.08055],"type":"Point"}
+}

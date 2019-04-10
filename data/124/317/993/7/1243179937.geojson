@@ -1,0 +1,65 @@
+{
+  "id": 1243179937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.1087,25.3674,64.1087,25.3674",
+    "geom:latitude":25.3674,
+    "geom:longitude":64.1087,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Loap",
+    "gn:country_code":"PK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109622,
+    "gn:latitude":25.3674,
+    "gn:longitude":64.1087,
+    "gn:modification_date":"2009-10-30",
+    "gn:name":"Loap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109622
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"132fd691358778ea7dc6efbf57b95a24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":1243179937,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243179937,
+    "wof:lastmodified":1536692919,
+    "wof:name":"Loap",
+    "wof:parent_id":85675733,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.1087,
+    25.3674,
+    64.1087,
+    25.3674
+],
+  "geometry": {"coordinates":[64.1087,25.3674],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259368685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.87097,35.3645,74.87097,35.3645",
+    "geom:latitude":35.3645,
+    "geom:longitude":74.87097,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Los Bala",
+    "gn:country_code":"PK",
+    "gn:dem":2294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11079080,
+    "gn:latitude":35.3645,
+    "gn:longitude":74.87097,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Los Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11079080
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"458292d9824f00a85c5b465704b3a11e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259368685,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259368685,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259368685,
+    "wof:lastmodified":1537022592,
+    "wof:name":"Los Bala",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.87097,
+    35.3645,
+    74.87097,
+    35.3645
+],
+  "geometry": {"coordinates":[74.87097,35.3645],"type":"Point"}
+}

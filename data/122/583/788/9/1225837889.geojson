@@ -1,0 +1,67 @@
+{
+  "id": 1225837889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56514,24.81637,69.56514,24.81637",
+    "geom:latitude":24.81637,
+    "geom:longitude":69.56514,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khario",
+    "gn:country_code":"PK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377303,
+    "gn:latitude":24.81637,
+    "gn:longitude":69.56514,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khario",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377303
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e837984eca4654af3e2ac9e4710ed32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1225837889,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1225837889,
+    "wof:lastmodified":1537023983,
+    "wof:name":"Khario",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56514,
+    24.81637000000001,
+    69.56514,
+    24.81637000000001
+],
+  "geometry": {"coordinates":[69.56514,24.81637000000001],"type":"Point"}
+}

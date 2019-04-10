@@ -1,0 +1,78 @@
+{
+  "id": 1226362621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87416,35.8147,73.87416,35.8147",
+    "geom:latitude":35.8147,
+    "geom:longitude":73.87416,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kosir Rara",
+    "gn:country_code":"PK",
+    "gn:dem":3207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11046348,
+    "gn:latitude":35.8147,
+    "gn:longitude":73.87416,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kosir Rara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11046348
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c831c6852de5b29f966b315560c32ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226362621,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226362621,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226362621,
+    "wof:lastmodified":1536765657,
+    "wof:name":"Kosir Rara",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87416,
+    35.8147,
+    73.87416,
+    35.8147
+],
+  "geometry": {"coordinates":[73.87416,35.8147],"type":"Point"}
+}

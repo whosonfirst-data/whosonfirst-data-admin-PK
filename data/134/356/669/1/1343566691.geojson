@@ -1,0 +1,67 @@
+{
+  "id": 1343566691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97897,32.39973,73.97897,32.39973",
+    "geom:latitude":32.39973,
+    "geom:longitude":73.97897,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khanki",
+    "gn:country_code":"PK",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174200,
+    "gn:latitude":32.39973,
+    "gn:longitude":73.97897,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Khanki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174200
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eafe1d90154b2827b84bcc19a5192d90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1343566691,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343566691,
+    "wof:lastmodified":1537087231,
+    "wof:name":"Khanki",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97896999999998,
+    32.39973,
+    73.97896999999998,
+    32.39973
+],
+  "geometry": {"coordinates":[73.97896999999998,32.39973],"type":"Point"}
+}

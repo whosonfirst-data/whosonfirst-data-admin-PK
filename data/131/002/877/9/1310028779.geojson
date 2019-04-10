@@ -1,0 +1,67 @@
+{
+  "id": 1310028779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70591,32.49735,72.70591,32.49735",
+    "geom:latitude":32.49735,
+    "geom:longitude":72.70591,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kahana",
+    "gn:country_code":"PK",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175474,
+    "gn:latitude":32.49735,
+    "gn:longitude":72.70591,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kahana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175474
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9ec4f83ae51e076a01c1be95f4a85c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1310028779,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310028779,
+    "wof:lastmodified":1536606909,
+    "wof:name":"Kahana",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70591,
+    32.49735,
+    72.70591,
+    32.49735
+],
+  "geometry": {"coordinates":[72.70591,32.49735],"type":"Point"}
+}

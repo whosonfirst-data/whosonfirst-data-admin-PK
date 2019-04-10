@@ -1,0 +1,64 @@
+{
+  "id": 1209607919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.82114,27.47754,68.82114,27.47754",
+    "geom:latitude":27.47754,
+    "geom:longitude":68.82114,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Mankhani",
+    "gn:country_code":"PK",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1403456,
+    "gn:latitude":27.47754,
+    "gn:longitude":68.82114,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Mankhani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Markani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1403456
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa77bf881087136c0820c922590581d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209607919
+        }
+    ],
+    "wof:id":1209607919,
+    "wof:lastmodified":1537681153,
+    "wof:name":"Mankhani",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.82114,
+    27.47754,
+    68.82114,
+    27.47754
+],
+  "geometry": {"coordinates":[68.82114,27.47754],"type":"Point"}
+}

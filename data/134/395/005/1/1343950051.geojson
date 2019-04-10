@@ -1,0 +1,78 @@
+{
+  "id": 1343950051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63942,33.62051,73.63942,33.62051",
+    "geom:latitude":33.62051,
+    "geom:longitude":73.63942,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Atkora",
+    "gn:country_code":"PK",
+    "gn:dem":792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100385,
+    "gn:latitude":33.62051,
+    "gn:longitude":73.63942,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Atkora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100385
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c54b87c46ddad5c03fb5d1c757dc86ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343950051,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1343950051,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343950051,
+    "wof:lastmodified":1537033632,
+    "wof:name":"Atkora",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63942,
+    33.62051,
+    73.63942,
+    33.62051
+],
+  "geometry": {"coordinates":[73.63942,33.62051],"type":"Point"}
+}

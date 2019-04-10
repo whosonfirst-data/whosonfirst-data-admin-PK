@@ -1,0 +1,78 @@
+{
+  "id": 1310409089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71822,33.44156,73.71822,33.44156",
+    "geom:latitude":33.44156,
+    "geom:longitude":73.71822,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Bafurd",
+    "gn:country_code":"PK",
+    "gn:dem":565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11047647,
+    "gn:latitude":33.44156,
+    "gn:longitude":73.71822,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Bafurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11047647
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6945d69a470a9eacc1a9a0a78aa5aae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1310409089,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1310409089,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310409089,
+    "wof:lastmodified":1537053753,
+    "wof:name":"Bafurd",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71822,
+    33.44156,
+    73.71822,
+    33.44156
+],
+  "geometry": {"coordinates":[73.71822,33.44156],"type":"Point"}
+}

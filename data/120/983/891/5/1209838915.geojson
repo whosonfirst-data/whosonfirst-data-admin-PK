@@ -1,0 +1,67 @@
+{
+  "id": 1209838915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.5362,33.54912,72.5362,33.54912",
+    "geom:latitude":33.54912,
+    "geom:longitude":72.5362,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jafar",
+    "gn:country_code":"PK",
+    "gn:dem":520,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176504,
+    "gn:latitude":33.54912,
+    "gn:longitude":72.5362,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Jafar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176504
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec74797be82127c947c71326b27274de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1209838915,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209838915,
+    "wof:lastmodified":1536393613,
+    "wof:name":"Jafar",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.5362,
+    33.54912,
+    72.5362,
+    33.54912
+],
+  "geometry": {"coordinates":[72.53619999999999,33.54912],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243370383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.56715,34.9031,72.56715,34.9031",
+    "geom:latitude":34.9031,
+    "geom:longitude":72.56715,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Urdam",
+    "gn:country_code":"PK",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162902,
+    "gn:latitude":34.9031,
+    "gn:longitude":72.56715,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Urdam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162902
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6fce337c640ff13e8b72b5bc8517b044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1243370383,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243370383,
+    "wof:lastmodified":1536915691,
+    "wof:name":"Urdam",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.56715,
+    34.9031,
+    72.56715,
+    34.9031
+],
+  "geometry": {"coordinates":[72.56715,34.9031],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260077397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.95722,33.15065,73.95722,33.15065",
+    "geom:latitude":33.15065,
+    "geom:longitude":73.95722,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Nihari",
+    "gn:country_code":"PK",
+    "gn:dem":650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386356,
+    "gn:latitude":33.15065,
+    "gn:longitude":73.95722,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nihari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jabba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386356
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8daa6caccc78e8044b7f0d1caf5f0b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260077397,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260077397,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260077397,
+    "wof:lastmodified":1537680859,
+    "wof:name":"Nihari",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.95721999999998,
+    33.15065,
+    73.95721999999998,
+    33.15065
+],
+  "geometry": {"coordinates":[73.95721999999998,33.15065],"type":"Point"}
+}

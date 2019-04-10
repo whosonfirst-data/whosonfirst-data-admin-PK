@@ -1,0 +1,78 @@
+{
+  "id": 1343951867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82836,35.39878,73.82836,35.39878",
+    "geom:latitude":35.39878,
+    "geom:longitude":73.82836,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Parika",
+    "gn:country_code":"PK",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427422,
+    "gn:latitude":35.39878,
+    "gn:longitude":73.82836,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Parika",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427422
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83ca413e85e01bbb6ce207383d8cf682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343951867,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343951867,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343951867,
+    "wof:lastmodified":1537031100,
+    "wof:name":"Parika",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82836,
+    35.39878,
+    73.82836,
+    35.39878
+],
+  "geometry": {"coordinates":[73.82836,35.39878],"type":"Point"}
+}

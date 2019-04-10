@@ -1,0 +1,67 @@
+{
+  "id": 1343870717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.14312,31.13343,70.14312,31.13343",
+    "geom:latitude":31.13343,
+    "geom:longitude":70.14312,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kundi",
+    "gn:country_code":"PK",
+    "gn:dem":975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10311345,
+    "gn:latitude":31.13343,
+    "gn:longitude":70.14312,
+    "gn:modification_date":"2015-06-10",
+    "gn:name":"Kundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10311345
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0480151ebc69cb26f2bfd0792fad273f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1343870717,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343870717,
+    "wof:lastmodified":1536651576,
+    "wof:name":"Kundi",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.14312,
+    31.13343,
+    70.14312,
+    31.13343
+],
+  "geometry": {"coordinates":[70.14312,31.13343],"type":"Point"}
+}

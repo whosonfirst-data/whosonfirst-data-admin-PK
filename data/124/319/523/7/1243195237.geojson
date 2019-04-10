@@ -1,0 +1,70 @@
+{
+  "id": 1243195237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.40368,32.23429,73.40368,32.23429",
+    "geom:latitude":32.23429,
+    "geom:longitude":73.40368,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chakori",
+    "gn:country_code":"PK",
+    "gn:dem":201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181712,
+    "gn:latitude":32.23429,
+    "gn:longitude":73.40368,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Chakori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chakore"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181712
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0829ec834058be280bf883f31a15deec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1243195237,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243195237,
+    "wof:lastmodified":1537679864,
+    "wof:name":"Chakori",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.40368000000002,
+    32.23429,
+    73.40368000000002,
+    32.23429
+],
+  "geometry": {"coordinates":[73.40368000000002,32.23429],"type":"Point"}
+}

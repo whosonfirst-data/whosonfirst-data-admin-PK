@@ -1,0 +1,67 @@
+{
+  "id": 1243560245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2131,32.35615,74.2131,32.35615",
+    "geom:latitude":32.35615,
+    "geom:longitude":74.2131,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jaura",
+    "gn:country_code":"PK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176015,
+    "gn:latitude":32.35615,
+    "gn:longitude":74.2131,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jaura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176015
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"69d2c79a4ddf97dfedfa0c7f63a9fedf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1243560245,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243560245,
+    "wof:lastmodified":1536640578,
+    "wof:name":"Jaura",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2131,
+    32.35615,
+    74.2131,
+    32.35615
+],
+  "geometry": {"coordinates":[74.2131,32.35615],"type":"Point"}
+}

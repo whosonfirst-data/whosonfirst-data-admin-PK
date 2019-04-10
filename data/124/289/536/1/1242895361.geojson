@@ -1,0 +1,81 @@
+{
+  "id": 1242895361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64744,33.87067,73.64744,33.87067",
+    "geom:latitude":33.87067,
+    "geom:longitude":73.64744,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bhosa Gala",
+    "gn:country_code":"PK",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7099013,
+    "gn:latitude":33.87067,
+    "gn:longitude":73.64744,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Bhosa Gala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gala Dhok"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7099013
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4ff9d22728b1783be130b4be2478ff00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1242895361,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1242895361,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242895361,
+    "wof:lastmodified":1537681688,
+    "wof:name":"Bhosa Gala",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64744,
+    33.87067,
+    73.64744,
+    33.87067
+],
+  "geometry": {"coordinates":[73.64744,33.87067],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226448035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.44401,31.22522,74.44401,31.22522",
+    "geom:latitude":31.22522,
+    "geom:longitude":74.44401,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bholeke",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331768,
+    "gn:latitude":31.22522,
+    "gn:longitude":74.44401,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Bholeke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331768
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5966d3f66f7464c4b0ff4fd6db848011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1226448035,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226448035,
+    "wof:lastmodified":1536641295,
+    "wof:name":"Bholeke",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.44400999999998,
+    31.22522,
+    74.44400999999998,
+    31.22522
+],
+  "geometry": {"coordinates":[74.44400999999998,31.22522],"type":"Point"}
+}

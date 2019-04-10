@@ -1,0 +1,67 @@
+{
+  "id": 1344270733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.02275,33.98136,71.02275,33.98136",
+    "geom:latitude":33.98136,
+    "geom:longitude":71.02275,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Mian Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10201825,
+    "gn:latitude":33.98136,
+    "gn:longitude":71.02275,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Mian Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10201825
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cdb98691f96d2123d7984499c4eb5b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1344270733,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1344270733,
+    "wof:lastmodified":1537066312,
+    "wof:name":"Mian Khel",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.02275,
+    33.98136,
+    71.02275,
+    33.98136
+],
+  "geometry": {"coordinates":[71.02275,33.98136],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360170503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.55502,35.29623,75.55502,35.29623",
+    "geom:latitude":35.29623,
+    "geom:longitude":75.55502,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shagari Kalan",
+    "gn:country_code":"PK",
+    "gn:dem":2240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080447,
+    "gn:latitude":35.29623,
+    "gn:longitude":75.55502,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Shagari Kalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080447
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dbe230773b1ff1a9c819bdcf818627e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1360170503,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1360170503,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360170503,
+    "wof:lastmodified":1536821615,
+    "wof:name":"Shagari Kalan",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.55502,
+    35.29623,
+    75.55502,
+    35.29623
+],
+  "geometry": {"coordinates":[75.55502,35.29623],"type":"Point"}
+}

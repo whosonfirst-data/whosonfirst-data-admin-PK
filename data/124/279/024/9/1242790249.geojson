@@ -1,0 +1,67 @@
+{
+  "id": 1242790249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.37319,25.76931,65.37319,25.76931",
+    "geom:latitude":25.76931,
+    "geom:longitude":65.37319,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gayar",
+    "gn:country_code":"PK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341647,
+    "gn:latitude":25.76931,
+    "gn:longitude":65.37319,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Gayar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341647
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6b79f90eea1c2c5ae32e8d688dc0979c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1242790249,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242790249,
+    "wof:lastmodified":1536757399,
+    "wof:name":"Gayar",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.37319000000001,
+    25.76931,
+    65.37319000000001,
+    25.76931
+],
+  "geometry": {"coordinates":[65.37319000000001,25.76931],"type":"Point"}
+}

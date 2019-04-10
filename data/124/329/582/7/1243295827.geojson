@@ -1,0 +1,77 @@
+{
+  "id": 1243295827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.46111,30.96944,74.46111,30.96944",
+    "geom:latitude":30.96944,
+    "geom:longitude":74.46111,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mambeke",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421274,
+    "gn:latitude":30.96944,
+    "gn:longitude":74.46111,
+    "gn:modification_date":"2002-01-29",
+    "gn:name":"Mambeke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632469,
+        85672195,
+        890508949,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421274
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2ad1c21aba1ad321f9ed45e31eb0e269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":890508949,
+            "locality_id":1243295827,
+            "region_id":85672195
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1243295827,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243295827,
+    "wof:lastmodified":1537021716,
+    "wof:name":"Mambeke",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.46110999999998,
+    30.96944,
+    74.46110999999998,
+    30.96944
+],
+  "geometry": {"coordinates":[74.46110999999998,30.96944],"type":"Point"}
+}

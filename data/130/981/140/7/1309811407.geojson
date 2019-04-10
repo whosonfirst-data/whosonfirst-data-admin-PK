@@ -1,0 +1,67 @@
+{
+  "id": 1309811407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.75778,31.04972,66.75778,31.04972",
+    "geom:latitude":31.04972,
+    "geom:longitude":66.75778,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Potakai",
+    "gn:country_code":"PK",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1375570,
+    "gn:latitude":31.04972,
+    "gn:longitude":66.75778,
+    "gn:modification_date":"2006-12-26",
+    "gn:name":"Potakai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1375570
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d60c0d3261a1ad23a1853672f72fb4e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1309811407,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309811407,
+    "wof:lastmodified":1536923607,
+    "wof:name":"Potakai",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.75778000000001,
+    31.04972,
+    66.75778000000001,
+    31.04972
+],
+  "geometry": {"coordinates":[66.75778000000001,31.04972],"type":"Point"}
+}

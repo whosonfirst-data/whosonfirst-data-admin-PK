@@ -1,0 +1,67 @@
+{
+  "id": 1360097635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48832,28.46168,67.48832,28.46168",
+    "geom:latitude":28.46168,
+    "geom:longitude":67.48832,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pirani",
+    "gn:country_code":"PK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11232772,
+    "gn:latitude":28.46168,
+    "gn:longitude":67.48832,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Pirani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11232772
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05d8c219cfaf3ef1cd7603fbdd84fa7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692221,
+            "locality_id":1360097635,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360097635,
+    "wof:lastmodified":1536928200,
+    "wof:name":"Pirani",
+    "wof:parent_id":1108692221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48832,
+    28.46168,
+    67.48832,
+    28.46168
+],
+  "geometry": {"coordinates":[67.48832,28.46168],"type":"Point"}
+}

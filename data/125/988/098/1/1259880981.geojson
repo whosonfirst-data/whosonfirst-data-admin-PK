@@ -1,0 +1,67 @@
+{
+  "id": 1259880981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57119,34.86588,72.57119,34.86588",
+    "geom:latitude":34.86588,
+    "geom:longitude":72.57119,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kakot",
+    "gn:country_code":"PK",
+    "gn:dem":1632,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420806,
+    "gn:latitude":34.86588,
+    "gn:longitude":72.57119,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kakot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420806
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"79520de425678757f37fdddecc7d01d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1259880981,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259880981,
+    "wof:lastmodified":1536783265,
+    "wof:name":"Kakot",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57119,
+    34.86588,
+    72.57119,
+    34.86588
+],
+  "geometry": {"coordinates":[72.57119,34.86588],"type":"Point"}
+}

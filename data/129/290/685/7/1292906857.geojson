@@ -1,0 +1,67 @@
+{
+  "id": 1292906857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.34842,33.51713,70.34842,33.51713",
+    "geom:latitude":33.51713,
+    "geom:longitude":70.34842,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Pasbarari",
+    "gn:country_code":"PK",
+    "gn:dem":965,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1344158,
+    "gn:latitude":33.51713,
+    "gn:longitude":70.34842,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Pasbarari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1344158
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60502132ce97742eb1b33174f4248eed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1292906857,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1292906857,
+    "wof:lastmodified":1536628260,
+    "wof:name":"Pasbarari",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.34841999999999,
+    33.51713,
+    70.34841999999999,
+    33.51713
+],
+  "geometry": {"coordinates":[70.34841999999999,33.51713],"type":"Point"}
+}

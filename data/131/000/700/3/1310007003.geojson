@@ -1,0 +1,68 @@
+{
+  "id": 1310007003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78915,32.10434,70.78915,32.10434",
+    "geom:latitude":32.10434,
+    "geom:longitude":70.78915,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Yarik",
+    "gn:country_code":"PK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162340,
+    "gn:latitude":32.10434,
+    "gn:longitude":70.78915,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Yarik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162340,
+        "wk:page":"Yarik"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a965947ebd03aaacd39a6d8faf5a729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1310007003,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310007003,
+    "wof:lastmodified":1537570666,
+    "wof:name":"Yarik",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78915,
+    32.10434,
+    70.78915,
+    32.10434
+],
+  "geometry": {"coordinates":[70.78915000000001,32.10434],"type":"Point"}
+}

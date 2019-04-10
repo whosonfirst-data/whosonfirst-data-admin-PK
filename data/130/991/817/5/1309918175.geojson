@@ -1,0 +1,67 @@
+{
+  "id": 1309918175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.04078,25.39734,64.04078,25.39734",
+    "geom:latitude":25.39734,
+    "geom:longitude":64.04078,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Talu",
+    "gn:country_code":"PK",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227886,
+    "gn:latitude":25.39734,
+    "gn:longitude":64.04078,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Talu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227886
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f61f2cbca8ebbbcac36f0bddab14b54e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692199,
+            "locality_id":1309918175,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309918175,
+    "wof:lastmodified":1536769536,
+    "wof:name":"Talu",
+    "wof:parent_id":1108692199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.04078,
+    25.39734,
+    64.04078,
+    25.39734
+],
+  "geometry": {"coordinates":[64.04078,25.39734],"type":"Point"}
+}

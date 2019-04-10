@@ -1,0 +1,74 @@
+{
+  "id": 1360278155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.34638,25.87263,68.34638,25.87263",
+    "geom:latitude":25.87263,
+    "geom:longitude":68.34638,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Bhanat",
+    "gn:country_code":"PK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183457,
+    "gn:latitude":25.87263,
+    "gn:longitude":68.34638,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Goth Bhanat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "B\u0101noth"
+    ],
+    "name:und_x_variant":[
+        "Bhanot",
+        "Goth Bhanat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183457
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0ff4eee6f85860298b8cbce0c1bdc5bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692303,
+            "locality_id":1360278155,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1360278155,
+    "wof:lastmodified":1537679934,
+    "wof:name":"Goth Bhanat",
+    "wof:parent_id":1108692303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.34638000000001,
+    25.87263,
+    68.34638000000001,
+    25.87263
+],
+  "geometry": {"coordinates":[68.34638000000001,25.87263],"type":"Point"}
+}

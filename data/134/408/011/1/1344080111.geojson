@@ -1,0 +1,70 @@
+{
+  "id": 1344080111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2592,31.4397,74.2592,31.4397",
+    "geom:latitude":31.4397,
+    "geom:longitude":74.2592,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rajabad",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7043321,
+    "gn:latitude":31.4397,
+    "gn:longitude":74.2592,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Rajabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Rajabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7043321
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af8cfa52bd41ee00926bb33a0de08259",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1344080111,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344080111,
+    "wof:lastmodified":1537681605,
+    "wof:name":"Rajabad",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2592,
+    31.4397,
+    74.2592,
+    31.4397
+],
+  "geometry": {"coordinates":[74.25920000000001,31.4397],"type":"Point"}
+}

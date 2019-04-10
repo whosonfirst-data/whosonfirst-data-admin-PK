@@ -1,0 +1,78 @@
+{
+  "id": 1193122985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.50474,35.93343,74.50474,35.93343",
+    "geom:latitude":35.93343,
+    "geom:longitude":74.50474,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hamaran",
+    "gn:country_code":"PK",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069912,
+    "gn:latitude":35.93343,
+    "gn:longitude":74.50474,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hamaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069912
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c878b70a5ed9b6652bd1cda5bebce2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1193122985,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1193122985,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193122985,
+    "wof:lastmodified":1536383929,
+    "wof:name":"Hamaran",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.50474,
+    35.93343,
+    74.50474,
+    35.93343
+],
+  "geometry": {"coordinates":[74.50474,35.93343],"type":"Point"}
+}

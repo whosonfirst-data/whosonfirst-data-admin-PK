@@ -1,0 +1,67 @@
+{
+  "id": 1209516445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88031,34.89244,71.88031,34.89244",
+    "geom:latitude":34.89244,
+    "geom:longitude":71.88031,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Giro",
+    "gn:country_code":"PK",
+    "gn:dem":1095,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111064,
+    "gn:latitude":34.89244,
+    "gn:longitude":71.88031,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Giro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111064
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b3b22cf78b4b45b461ef66d9e42ac924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1209516445,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209516445,
+    "wof:lastmodified":1543515758,
+    "wof:name":"Giro",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88031,
+    34.89244,
+    71.88031,
+    34.89244
+],
+  "geometry": {"coordinates":[71.88030999999999,34.89244],"type":"Point"}
+}

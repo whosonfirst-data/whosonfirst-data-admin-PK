@@ -1,0 +1,67 @@
+{
+  "id": 1193011179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.91807,24.70547,69.91807,24.70547",
+    "geom:latitude":24.70547,
+    "geom:longitude":69.91807,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Railo",
+    "gn:country_code":"PK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497567,
+    "gn:latitude":24.70547,
+    "gn:longitude":69.91807,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Railo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497567
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"47671e2c5017575517c3aed359b75f8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1193011179,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193011179,
+    "wof:lastmodified":1536383355,
+    "wof:name":"Railo",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.91807,
+    24.70547,
+    69.91807,
+    24.70547
+],
+  "geometry": {"coordinates":[69.91807,24.70547],"type":"Point"}
+}

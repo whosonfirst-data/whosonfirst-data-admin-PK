@@ -1,0 +1,74 @@
+{
+  "id": 890455845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95764,32.95087,69.95764,32.95087",
+    "geom:latitude":32.95087,
+    "geom:longitude":69.95764,
+    "gn:country":"PK",
+    "gn:fcode":"ADM2",
+    "gn:pop":361246,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "North Waz\u012brist\u0101n Agency"
+    ],
+    "name:eng_x_variant":[
+        "North Waz\u012brist\u0101n"
+    ],
+    "name:unk_x_variant":[
+        "Tochi"
+    ],
+    "qs:name":"North Waz\u012brist\u0101n Agency",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168875,
+        "qs:id":555308
+    },
+    "wof:country":"PK",
+    "wof:created":1469052977,
+    "wof:geomhash":"9f3392cf9b6cab7d7dccf0d1b1d0b8d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455845,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":890455845,
+    "wof:lastmodified":1505343666,
+    "wof:name":"North Waz\u012brist\u0101n Agency",
+    "wof:parent_id":85675749,
+    "wof:placetype":"county",
+    "wof:population":361246,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95764,
+    32.95087,
+    69.95764,
+    32.95087
+],
+  "geometry": {"coordinates":[69.95764,32.95087],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1276155577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.90651,32.46847,74.90651,32.46847",
+    "geom:latitude":32.46847,
+    "geom:longitude":74.90651,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhundial",
+    "gn:country_code":"PK",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465631,
+    "gn:latitude":32.46847,
+    "gn:longitude":74.90651,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhundial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381,
+        85672137,
+        85632427,
+        1108695737,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465631
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0d14adfb87edc0e732b2a9bc0da739f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1276155577,
+            "region_id":85675753
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695737,
+            "disputed_id":85632427,
+            "locality_id":1276155577,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695737,
+            "disputed_id":85632427,
+            "locality_id":1276155577,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1276155577,
+    "wof:lastmodified":1537016286,
+    "wof:name":"Dhundial",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.90651,
+    32.46847,
+    74.90651,
+    32.46847
+],
+  "geometry": {"coordinates":[74.90651,32.46847],"type":"Point"}
+}

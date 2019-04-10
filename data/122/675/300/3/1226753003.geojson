@@ -1,0 +1,70 @@
+{
+  "id": 1226753003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71548,32.41699,73.71548,32.41699",
+    "geom:latitude":32.41699,
+    "geom:longitude":73.71548,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jonoki",
+    "gn:country_code":"PK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380163,
+    "gn:latitude":32.41699,
+    "gn:longitude":73.71548,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jonoki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Janoki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380163
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ccc5cc0ce870bf6905f517288b6afce6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1226753003,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226753003,
+    "wof:lastmodified":1537680716,
+    "wof:name":"Jonoki",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71548,
+    32.41699000000001,
+    73.71548,
+    32.41699000000001
+],
+  "geometry": {"coordinates":[73.71548,32.41699000000001],"type":"Point"}
+}

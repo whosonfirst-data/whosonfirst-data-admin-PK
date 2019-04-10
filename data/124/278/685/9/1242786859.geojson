@@ -1,0 +1,72 @@
+{
+  "id": 1242786859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.59618,32.9651,69.59618,32.9651",
+    "geom:latitude":32.9651,
+    "geom:longitude":69.59618,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pirano Kas Raghze Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":1754,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109205,
+    "gn:latitude":32.9651,
+    "gn:longitude":69.59618,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Pirano Kas Raghze Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012br\u0101na Kats",
+        "P\u012br\u0101no Kats",
+        "Pirano Kas Raghze Kalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109205
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"37afa9af5efe6ea99f9c551c9d4111a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1242786859,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242786859,
+    "wof:lastmodified":1543515577,
+    "wof:name":"Pirano Kas Raghze Kalle",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.59618,
+    32.9651,
+    69.59618,
+    32.9651
+],
+  "geometry": {"coordinates":[69.59618,32.9651],"type":"Point"}
+}

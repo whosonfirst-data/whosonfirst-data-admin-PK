@@ -1,0 +1,67 @@
+{
+  "id": 1310210539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22565,32.67117,73.22565,32.67117",
+    "geom:latitude":32.67117,
+    "geom:longitude":73.22565,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Warnali",
+    "gn:country_code":"PK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379732,
+    "gn:latitude":32.67117,
+    "gn:longitude":73.22565,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Warnali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379732
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d426ea59692b79b59d4e594e3f26e185",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1310210539,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310210539,
+    "wof:lastmodified":1536843877,
+    "wof:name":"Warnali",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22565,
+    32.67117,
+    73.22565,
+    32.67117
+],
+  "geometry": {"coordinates":[73.22565,32.67117],"type":"Point"}
+}

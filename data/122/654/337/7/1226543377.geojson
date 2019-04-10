@@ -1,0 +1,67 @@
+{
+  "id": 1226543377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06933,34.55826,71.06933,34.55826",
+    "geom:latitude":34.55826,
+    "geom:longitude":71.06933,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kao",
+    "gn:country_code":"PK",
+    "gn:dem":1680,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9269476,
+    "gn:latitude":34.55826,
+    "gn:longitude":71.06933,
+    "gn:modification_date":"2014-08-07",
+    "gn:name":"Kao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9269476
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"51d2f43abd895de4b0108bc10a9c92c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1226543377,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226543377,
+    "wof:lastmodified":1537000675,
+    "wof:name":"Kao",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06933000000002,
+    34.55826,
+    71.06933000000002,
+    34.55826
+],
+  "geometry": {"coordinates":[71.06933000000002,34.55826],"type":"Point"}
+}

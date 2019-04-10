@@ -1,0 +1,67 @@
+{
+  "id": 1343368033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.24627,32.92072,70.24627,32.92072",
+    "geom:latitude":32.92072,
+    "geom:longitude":70.24627,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Khawarzin",
+    "gn:country_code":"PK",
+    "gn:dem":710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340513,
+    "gn:latitude":32.92072,
+    "gn:longitude":70.24627,
+    "gn:modification_date":"2014-11-06",
+    "gn:name":"Khawarzin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340513
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c69a739ffee51d871316b7e5a6a41b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1343368033,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343368033,
+    "wof:lastmodified":1536878701,
+    "wof:name":"Khawarzin",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.24627,
+    32.92072,
+    70.24627,
+    32.92072
+],
+  "geometry": {"coordinates":[70.24627,32.92072],"type":"Point"}
+}

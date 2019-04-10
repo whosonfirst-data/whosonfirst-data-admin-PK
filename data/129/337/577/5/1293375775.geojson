@@ -1,0 +1,78 @@
+{
+  "id": 1293375775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.31172,35.9273,74.31172,35.9273",
+    "geom:latitude":35.9273,
+    "geom:longitude":74.31172,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Konu Das",
+    "gn:country_code":"PK",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069474,
+    "gn:latitude":35.9273,
+    "gn:longitude":74.31172,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Konu Das",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069474
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9be30c95cc555bb8558da6479f0c07be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293375775,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1293375775,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293375775,
+    "wof:lastmodified":1536948439,
+    "wof:name":"Konu Das",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.31172,
+    35.9273,
+    74.31172,
+    35.9273
+],
+  "geometry": {"coordinates":[74.31171999999999,35.9273],"type":"Point"}
+}

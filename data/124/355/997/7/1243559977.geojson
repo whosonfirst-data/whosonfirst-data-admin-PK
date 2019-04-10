@@ -1,0 +1,67 @@
+{
+  "id": 1243559977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28943,28.49176,70.28943,28.49176",
+    "geom:latitude":28.49176,
+    "geom:longitude":70.28943,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dera Jam",
+    "gn:country_code":"PK",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023427,
+    "gn:latitude":28.49176,
+    "gn:longitude":70.28943,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Dera Jam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023427
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e6a39aad14f92aebceedb372d9cdccd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1243559977,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243559977,
+    "wof:lastmodified":1536640995,
+    "wof:name":"Dera Jam",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28943000000001,
+    28.49176,
+    70.28943000000001,
+    28.49176
+],
+  "geometry": {"coordinates":[70.28943000000001,28.49176],"type":"Point"}
+}

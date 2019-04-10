@@ -1,0 +1,81 @@
+{
+  "id": 1243193849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9475,33.5943,73.9475,33.5943",
+    "geom:latitude":33.5943,
+    "geom:longitude":73.9475,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ahmadabad Colony",
+    "gn:country_code":"PK",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413718,
+    "gn:latitude":33.5943,
+    "gn:longitude":73.9475,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ahmadabad Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Menhthli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413718
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6ece4f63e5da7ad8f39b0583b63c4082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243193849,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243193849,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243193849,
+    "wof:lastmodified":1537681320,
+    "wof:name":"Ahmadabad Colony",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9475,
+    33.5943,
+    73.9475,
+    33.5943
+],
+  "geometry": {"coordinates":[73.94750000000001,33.5943],"type":"Point"}
+}

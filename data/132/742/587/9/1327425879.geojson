@@ -1,0 +1,78 @@
+{
+  "id": 1327425879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82031,33.85354,73.82031,33.85354",
+    "geom:latitude":33.85354,
+    "geom:longitude":73.82031,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Barmang Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386089,
+    "gn:latitude":33.85354,
+    "gn:longitude":73.82031,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Barmang Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386089
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f6c5dce183fd557d54d5b9d0fbeef6b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1327425879,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1327425879,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327425879,
+    "wof:lastmodified":1536690390,
+    "wof:name":"Barmang Khurd",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82030999999998,
+    33.85354,
+    73.82030999999998,
+    33.85354
+],
+  "geometry": {"coordinates":[73.82030999999998,33.85354],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 1243540347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47102,35.96088,73.47102,35.96088",
+    "geom:latitude":35.96088,
+    "geom:longitude":73.47102,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Kutraparao",
+    "gn:country_code":"PK",
+    "gn:dem":3492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172541,
+    "gn:latitude":35.96088,
+    "gn:longitude":73.47102,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kutraparao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kutropar\u0101o",
+        "Kutraparao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172541
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b73d5b2f41e0d4a03ad2216c7c90574b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1243540347,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1243540347,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1243540347,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243540347,
+    "wof:lastmodified":1537679540,
+    "wof:name":"Kutraparao",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47102,
+    35.96088,
+    73.47102,
+    35.96088
+],
+  "geometry": {"coordinates":[73.47102,35.96088],"type":"Point"}
+}

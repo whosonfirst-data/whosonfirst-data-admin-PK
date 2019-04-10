@@ -1,0 +1,67 @@
+{
+  "id": 1360091771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.3222,36.35859,72.3222,36.35859",
+    "geom:latitude":36.35859,
+    "geom:longitude":72.3222,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dok",
+    "gn:country_code":"PK",
+    "gn:dem":3254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045268,
+    "gn:latitude":36.35859,
+    "gn:longitude":72.3222,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Dok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045268
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b8fb9772252e3711b90746c4977b6e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1360091771,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360091771,
+    "wof:lastmodified":1543515261,
+    "wof:name":"Dok",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.3222,
+    36.35859,
+    72.3222,
+    36.35859
+],
+  "geometry": {"coordinates":[72.3222,36.35859],"type":"Point"}
+}

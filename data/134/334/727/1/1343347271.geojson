@@ -1,0 +1,81 @@
+{
+  "id": 1343347271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.18291,35.26275,74.18291,35.26275",
+    "geom:latitude":35.26275,
+    "geom:longitude":74.18291,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lumar",
+    "gn:country_code":"PK",
+    "gn:dem":2230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423788,
+    "gn:latitude":35.26275,
+    "gn:longitude":74.18291,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lumar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lomar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423788
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"91056028bbf10f78c503dcdf50cc366c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343347271,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343347271,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343347271,
+    "wof:lastmodified":1537681909,
+    "wof:name":"Lumar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.18290999999998,
+    35.26275,
+    74.18290999999998,
+    35.26275
+],
+  "geometry": {"coordinates":[74.18290999999998,35.26275],"type":"Point"}
+}

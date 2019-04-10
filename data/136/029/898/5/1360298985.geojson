@@ -1,0 +1,81 @@
+{
+  "id": 1360298985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71919,33.47133,73.71919,33.47133",
+    "geom:latitude":33.47133,
+    "geom:longitude":73.71919,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Dongi",
+    "gn:country_code":"PK",
+    "gn:dem":677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100946,
+    "gn:latitude":33.47133,
+    "gn:longitude":73.71919,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Dongi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dungi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100946
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f436ad50da22ef619f6080f7eb37a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1360298985,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1360298985,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1360298985,
+    "wof:lastmodified":1537681695,
+    "wof:name":"Dongi",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71919,
+    33.47133,
+    73.71919,
+    33.47133
+],
+  "geometry": {"coordinates":[73.71919,33.47133],"type":"Point"}
+}

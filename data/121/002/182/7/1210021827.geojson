@@ -1,0 +1,67 @@
+{
+  "id": 1210021827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.86921,28.3825,69.86921,28.3825",
+    "geom:latitude":28.3825,
+    "geom:longitude":69.86921,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thul",
+    "gn:country_code":"PK",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1401658,
+    "gn:latitude":28.3825,
+    "gn:longitude":69.86921,
+    "gn:modification_date":"2011-07-10",
+    "gn:name":"Thul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1401658
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7adbd5fdacc416841906b0300e55edb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1210021827,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1210021827,
+    "wof:lastmodified":1536392508,
+    "wof:name":"Thul",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.86921,
+    28.3825,
+    69.86921,
+    28.3825
+],
+  "geometry": {"coordinates":[69.86921,28.3825],"type":"Point"}
+}

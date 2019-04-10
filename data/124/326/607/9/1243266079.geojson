@@ -1,0 +1,67 @@
+{
+  "id": 1243266079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87248,28.24357,67.87248,28.24357",
+    "geom:latitude":28.24357,
+    "geom:longitude":67.87248,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Pir Bakhsh",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410786,
+    "gn:latitude":28.24357,
+    "gn:longitude":67.87248,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Pir Bakhsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410786
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7ed4fd5f67d3375aea4beec4aa21483b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1243266079,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243266079,
+    "wof:lastmodified":1537062747,
+    "wof:name":"Pir Bakhsh",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87248000000001,
+    28.24357,
+    67.87248000000001,
+    28.24357
+],
+  "geometry": {"coordinates":[67.87248000000001,28.24357],"type":"Point"}
+}

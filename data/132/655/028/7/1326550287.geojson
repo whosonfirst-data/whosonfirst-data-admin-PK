@@ -1,0 +1,78 @@
+{
+  "id": 1326550287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.03169,35.69418,75.03169,35.69418",
+    "geom:latitude":35.69418,
+    "geom:longitude":75.03169,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Moupa",
+    "gn:country_code":"PK",
+    "gn:dem":2525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070566,
+    "gn:latitude":35.69418,
+    "gn:longitude":75.03169,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Moupa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070566
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b6640b7aaaf6985221eccdae5640f879",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1326550287,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1326550287,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326550287,
+    "wof:lastmodified":1536958009,
+    "wof:name":"Moupa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.03169,
+    35.69418,
+    75.03169,
+    35.69418
+],
+  "geometry": {"coordinates":[75.03169,35.69418],"type":"Point"}
+}

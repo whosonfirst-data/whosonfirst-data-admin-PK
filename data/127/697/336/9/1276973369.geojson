@@ -1,0 +1,78 @@
+{
+  "id": 1276973369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.70654,35.59914,73.70654,35.59914",
+    "geom:latitude":35.59914,
+    "geom:longitude":73.70654,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Danial",
+    "gn:country_code":"PK",
+    "gn:dem":1877,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11021150,
+    "gn:latitude":35.59914,
+    "gn:longitude":73.70654,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Danial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11021150
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"428c31a30b676b452daa53ffdf6b3488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276973369,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276973369,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276973369,
+    "wof:lastmodified":1536916477,
+    "wof:name":"Danial",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70654,
+    35.59914000000001,
+    73.70654,
+    35.59914000000001
+],
+  "geometry": {"coordinates":[73.70654,35.59914000000001],"type":"Point"}
+}

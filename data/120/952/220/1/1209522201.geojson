@@ -1,0 +1,67 @@
+{
+  "id": 1209522201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62488,36.00661,71.62488,36.00661",
+    "geom:latitude":36.00661,
+    "geom:longitude":71.62488,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Uchu",
+    "gn:country_code":"PK",
+    "gn:dem":2069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999641,
+    "gn:latitude":36.00661,
+    "gn:longitude":71.62488,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Uchu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999641
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"785c9dd76dcda2cf24e333933034bc2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1209522201,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209522201,
+    "wof:lastmodified":1543515633,
+    "wof:name":"Uchu",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62488,
+    36.00660999999999,
+    71.62488,
+    36.00660999999999
+],
+  "geometry": {"coordinates":[71.62488,36.00660999999999],"type":"Point"}
+}

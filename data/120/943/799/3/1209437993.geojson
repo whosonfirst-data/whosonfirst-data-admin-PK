@@ -1,0 +1,64 @@
+{
+  "id": 1209437993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71667,30.55,71.71667,30.55",
+    "geom:latitude":30.55,
+    "geom:longitude":71.71667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baqirabad",
+    "gn:country_code":"PK",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183443,
+    "gn:latitude":30.55,
+    "gn:longitude":71.71667,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Baqirabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u0101qar\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183443
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dd5b1cc249b87f2166ad3d312bd8a3e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209437993
+        }
+    ],
+    "wof:id":1209437993,
+    "wof:lastmodified":1537679933,
+    "wof:name":"Baqirabad",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71667,
+    30.55,
+    71.71667,
+    30.55
+],
+  "geometry": {"coordinates":[71.71666999999999,30.55],"type":"Point"}
+}

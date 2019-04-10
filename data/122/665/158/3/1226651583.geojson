@@ -1,0 +1,67 @@
+{
+  "id": 1226651583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.04058,30.55307,72.04058,30.55307",
+    "geom:latitude":30.55307,
+    "geom:longitude":72.04058,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bakhshiwala",
+    "gn:country_code":"PK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414381,
+    "gn:latitude":30.55307,
+    "gn:longitude":72.04058,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bakhshiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414381
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa382a8551f4386d02ff5c110d3b4620",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1226651583,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226651583,
+    "wof:lastmodified":1536849870,
+    "wof:name":"Bakhshiwala",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.04058,
+    30.55307,
+    72.04058,
+    30.55307
+],
+  "geometry": {"coordinates":[72.04058000000001,30.55307],"type":"Point"}
+}

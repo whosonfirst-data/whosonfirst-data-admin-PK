@@ -1,0 +1,67 @@
+{
+  "id": 1343458223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32289,30.75166,73.32289,30.75166",
+    "geom:latitude":30.75166,
+    "geom:longitude":73.32289,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhutto Basti",
+    "gn:country_code":"PK",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543087,
+    "gn:latitude":30.75166,
+    "gn:longitude":73.32289,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Bhutto Basti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543087
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6dd72cf9480e24c8d33fe4ed4c330755",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":1343458223,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343458223,
+    "wof:lastmodified":1536749266,
+    "wof:name":"Bhutto Basti",
+    "wof:parent_id":1108692363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32289,
+    30.75166,
+    73.32289,
+    30.75166
+],
+  "geometry": {"coordinates":[73.32289,30.75166],"type":"Point"}
+}

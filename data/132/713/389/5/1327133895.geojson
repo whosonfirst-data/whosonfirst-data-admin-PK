@@ -1,0 +1,67 @@
+{
+  "id": 1327133895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.04623,30.69192,71.04623,30.69192",
+    "geom:latitude":30.69192,
+    "geom:longitude":71.04623,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jalwala",
+    "gn:country_code":"PK",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11343168,
+    "gn:latitude":30.69192,
+    "gn:longitude":71.04623,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Jalwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11343168
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e5d4a7174023adbbb28df3909fe555e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1327133895,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327133895,
+    "wof:lastmodified":1536611432,
+    "wof:name":"Jalwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.04623000000002,
+    30.69192,
+    71.04623000000002,
+    30.69192
+],
+  "geometry": {"coordinates":[71.04623000000002,30.69192],"type":"Point"}
+}

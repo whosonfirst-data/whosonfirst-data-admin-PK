@@ -1,0 +1,81 @@
+{
+  "id": 1277071719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76621,34.16123,73.76621,34.16123",
+    "geom:latitude":34.16123,
+    "geom:longitude":73.76621,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dabran",
+    "gn:country_code":"PK",
+    "gn:dem":1399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415672,
+    "gn:latitude":34.16123,
+    "gn:longitude":73.76621,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dabran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dabar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415672
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43c64b16a6ba1f31d7c5c3859c21cb17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1277071719,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1277071719,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277071719,
+    "wof:lastmodified":1537681367,
+    "wof:name":"Dabran",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76621,
+    34.16123,
+    73.76621,
+    34.16123
+],
+  "geometry": {"coordinates":[73.76621,34.16123],"type":"Point"}
+}

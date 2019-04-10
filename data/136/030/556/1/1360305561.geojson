@@ -1,0 +1,78 @@
+{
+  "id": 1360305561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.61451,36.81239,74.61451,36.81239",
+    "geom:latitude":36.81239,
+    "geom:longitude":74.61451,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Aminabad",
+    "gn:country_code":"PK",
+    "gn:dem":3121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037835,
+    "gn:latitude":36.81239,
+    "gn:longitude":74.61451,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Aminabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037835
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c66f212f04cd23bdf7d8576f9218b872",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1360305561,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1360305561,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360305561,
+    "wof:lastmodified":1536625740,
+    "wof:name":"Aminabad",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.61451,
+    36.81239,
+    74.61451,
+    36.81239
+],
+  "geometry": {"coordinates":[74.61451,36.81239],"type":"Point"}
+}

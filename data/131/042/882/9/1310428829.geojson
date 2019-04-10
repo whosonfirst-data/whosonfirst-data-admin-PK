@@ -1,0 +1,77 @@
+{
+  "id": 1310428829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92492,33.22661,72.92492,33.22661",
+    "geom:latitude":33.22661,
+    "geom:longitude":72.92492,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Ruphar Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166731,
+    "gn:latitude":33.22661,
+    "gn:longitude":72.92492,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Ruphar Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ruppar Khurd"
+    ],
+    "name:eng_x_variant":[
+        "Ropar Khurd"
+    ],
+    "name:und_x_variant":[
+        "Ropar Khurd",
+        "Ruphar Khurd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166731
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"92a555f798870b5f5d113057aace9dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1310428829,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310428829,
+    "wof:lastmodified":1537679335,
+    "wof:name":"Ruphar Khurd",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92492,
+    33.22661,
+    72.92492,
+    33.22661
+],
+  "geometry": {"coordinates":[72.92492,33.22661],"type":"Point"}
+}

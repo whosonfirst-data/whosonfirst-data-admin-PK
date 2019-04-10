@@ -1,0 +1,78 @@
+{
+  "id": 1226163053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.10685,36.04694,74.10685,36.04694",
+    "geom:latitude":36.04694,
+    "geom:longitude":74.10685,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shakiot",
+    "gn:country_code":"PK",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427858,
+    "gn:latitude":36.04694,
+    "gn:longitude":74.10685,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Shakiot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427858
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b320a0028e482b3f3f9e280825bb4e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226163053,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1226163053,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226163053,
+    "wof:lastmodified":1537050682,
+    "wof:name":"Shakiot",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.10685,
+    36.04694,
+    74.10685,
+    36.04694
+],
+  "geometry": {"coordinates":[74.10684999999999,36.04694],"type":"Point"}
+}

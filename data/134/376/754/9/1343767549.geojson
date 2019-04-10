@@ -1,0 +1,67 @@
+{
+  "id": 1343767549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54162,30.00788,71.54162,30.00788",
+    "geom:latitude":30.00788,
+    "geom:longitude":71.54162,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rid",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166906,
+    "gn:latitude":30.00788,
+    "gn:longitude":71.54162,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Rid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dee2a03e5aa0c01ee42647f8940ae87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1343767549,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343767549,
+    "wof:lastmodified":1536800730,
+    "wof:name":"Rid",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54162,
+    30.00788,
+    71.54162,
+    30.00788
+],
+  "geometry": {"coordinates":[71.54161999999999,30.00788],"type":"Point"}
+}

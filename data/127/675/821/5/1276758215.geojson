@@ -1,0 +1,78 @@
+{
+  "id": 1276758215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.95298,35.76465,73.95298,35.76465",
+    "geom:latitude":35.76465,
+    "geom:longitude":73.95298,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Abdullah Khan di Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":2999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11046359,
+    "gn:latitude":35.76465,
+    "gn:longitude":73.95298,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Abdullah Khan di Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11046359
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aee018b13a096d7e36e030868a3200b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276758215,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1276758215,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276758215,
+    "wof:lastmodified":1536706760,
+    "wof:name":"Abdullah Khan di Baihk",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.95298000000003,
+    35.76465,
+    73.95298000000003,
+    35.76465
+],
+  "geometry": {"coordinates":[73.95298000000003,35.76465],"type":"Point"}
+}

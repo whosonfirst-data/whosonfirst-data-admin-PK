@@ -1,0 +1,70 @@
+{
+  "id": 1225853895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.39128,33.81444,70.39128,33.81444",
+    "geom:latitude":33.81444,
+    "geom:longitude":70.39128,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lokhai",
+    "gn:country_code":"PK",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343501,
+    "gn:latitude":33.81444,
+    "gn:longitude":70.39128,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Lokhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lokha Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343501
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"297f588737a4fa77dbab6961b0ab617b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1225853895,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225853895,
+    "wof:lastmodified":1543515498,
+    "wof:name":"Lokhai",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.39128000000002,
+    33.81444,
+    70.39128000000002,
+    33.81444
+],
+  "geometry": {"coordinates":[70.39128000000002,33.81444],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260376591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.12542,34.87417,76.12542,34.87417",
+    "geom:latitude":34.87417,
+    "geom:longitude":76.12542,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shabriwal",
+    "gn:country_code":"PK",
+    "gn:dem":3132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11538555,
+    "gn:latitude":34.87417,
+    "gn:longitude":76.12542,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Shabriwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11538555
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c048b3eb9677aeaecabc84dc3eeb523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260376591,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260376591,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260376591,
+    "wof:lastmodified":1537081083,
+    "wof:name":"Shabriwal",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.12541999999998,
+    34.87417,
+    76.12541999999998,
+    34.87417
+],
+  "geometry": {"coordinates":[76.12541999999998,34.87417],"type":"Point"}
+}

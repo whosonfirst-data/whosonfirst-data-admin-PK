@@ -1,0 +1,67 @@
+{
+  "id": 1226149831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.74153,33.99215,72.74153,33.99215",
+    "geom:latitude":33.99215,
+    "geom:longitude":72.74153,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jhaliari",
+    "gn:country_code":"PK",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339496,
+    "gn:latitude":33.99215,
+    "gn:longitude":72.74153,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jhaliari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339496
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d78801f8108991ecebcb2d26285f5d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1226149831,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226149831,
+    "wof:lastmodified":1537068763,
+    "wof:name":"Jhaliari",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.74153000000003,
+    33.99215,
+    72.74153000000003,
+    33.99215
+],
+  "geometry": {"coordinates":[72.74153000000003,33.99215],"type":"Point"}
+}

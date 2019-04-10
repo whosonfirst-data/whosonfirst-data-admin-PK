@@ -1,0 +1,67 @@
+{
+  "id": 1209819783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41471,25.82652,68.41471,25.82652",
+    "geom:latitude":25.82652,
+    "geom:longitude":68.41471,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wapda Colony",
+    "gn:country_code":"PK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11590982,
+    "gn:latitude":25.82652,
+    "gn:longitude":68.41471,
+    "gn:modification_date":"2017-06-08",
+    "gn:name":"Wapda Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11590982
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"24f556c56a93dedb44c26b00b83f46d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692303,
+            "locality_id":1209819783,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209819783,
+    "wof:lastmodified":1536379996,
+    "wof:name":"Wapda Colony",
+    "wof:parent_id":1108692303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41471,
+    25.82652,
+    68.41471,
+    25.82652
+],
+  "geometry": {"coordinates":[68.41471,25.82652],"type":"Point"}
+}

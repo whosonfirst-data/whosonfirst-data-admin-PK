@@ -1,0 +1,67 @@
+{
+  "id": 1193015497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26349,33.40181,73.26349,33.40181",
+    "geom:latitude":33.40181,
+    "geom:longitude":73.26349,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sarain",
+    "gn:country_code":"PK",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457442,
+    "gn:latitude":33.40181,
+    "gn:longitude":73.26349,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sarain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457442
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c5830f6aff6becd123d37a79d7a17202",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1193015497,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193015497,
+    "wof:lastmodified":1536378928,
+    "wof:name":"Sarain",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26349,
+    33.40181,
+    73.26349,
+    33.40181
+],
+  "geometry": {"coordinates":[73.26349,33.40181],"type":"Point"}
+}

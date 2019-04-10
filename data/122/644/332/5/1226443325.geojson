@@ -1,0 +1,67 @@
+{
+  "id": 1226443325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12645,34.17665,73.12645,34.17665",
+    "geom:latitude":34.17665,
+    "geom:longitude":73.12645,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Phagla",
+    "gn:country_code":"PK",
+    "gn:dem":1344,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416259,
+    "gn:latitude":34.17665,
+    "gn:longitude":73.12645,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Phagla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416259
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d71244f92f4d112c791e99e23ec81ff4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1226443325,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226443325,
+    "wof:lastmodified":1536648665,
+    "wof:name":"Phagla",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12645,
+    34.17665,
+    73.12645,
+    34.17665
+],
+  "geometry": {"coordinates":[73.12645000000001,34.17665],"type":"Point"}
+}

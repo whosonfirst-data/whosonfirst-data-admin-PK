@@ -1,0 +1,67 @@
+{
+  "id": 1277005259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.40815,31.47048,71.40815,31.47048",
+    "geom:latitude":31.47048,
+    "geom:longitude":71.40815,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Abdewala",
+    "gn:country_code":"PK",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367631,
+    "gn:latitude":31.47048,
+    "gn:longitude":71.40815,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Abdewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367631
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6589fb5bc4653c62319963044ab7ba05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1277005259,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1277005259,
+    "wof:lastmodified":1536872111,
+    "wof:name":"Abdewala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.40815,
+    31.47048,
+    71.40815,
+    31.47048
+],
+  "geometry": {"coordinates":[71.40815000000001,31.47048],"type":"Point"}
+}

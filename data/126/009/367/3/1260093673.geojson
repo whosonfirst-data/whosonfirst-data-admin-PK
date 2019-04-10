@@ -1,0 +1,67 @@
+{
+  "id": 1260093673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.90535,32.72757,69.90535,32.72757",
+    "geom:latitude":32.72757,
+    "geom:longitude":69.90535,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Bobakra",
+    "gn:country_code":"PK",
+    "gn:dem":1935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1426163,
+    "gn:latitude":32.72757,
+    "gn:longitude":69.90535,
+    "gn:modification_date":"2014-12-03",
+    "gn:name":"Bobakra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1426163
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa39453982fdb7a36b9bca4e5264a7d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1260093673,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1260093673,
+    "wof:lastmodified":1536972893,
+    "wof:name":"Bobakra",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.90535,
+    32.72757,
+    69.90535,
+    32.72757
+],
+  "geometry": {"coordinates":[69.90535,32.72757],"type":"Point"}
+}

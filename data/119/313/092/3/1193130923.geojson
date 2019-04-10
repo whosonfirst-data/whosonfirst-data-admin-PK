@@ -1,0 +1,81 @@
+{
+  "id": 1193130923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.09609,34.95663,75.09609,34.95663",
+    "geom:latitude":34.95663,
+    "geom:longitude":75.09609,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Sardar Kothi",
+    "gn:country_code":"PK",
+    "gn:dem":3732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166028,
+    "gn:latitude":34.95663,
+    "gn:longitude":75.09609,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sardar Kothi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sard\u0101r Chauki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166028
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f7788d3e7b410fe268c0caeb6af4e294",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193130923,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193130923,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193130923,
+    "wof:lastmodified":1537679309,
+    "wof:name":"Sardar Kothi",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.09609,
+    34.95663,
+    75.09609,
+    34.95663
+],
+  "geometry": {"coordinates":[75.09609,34.95663],"type":"Point"}
+}

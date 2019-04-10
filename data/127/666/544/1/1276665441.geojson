@@ -1,0 +1,67 @@
+{
+  "id": 1276665441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.41483,27.77807,66.41483,27.77807",
+    "geom:latitude":27.77807,
+    "geom:longitude":66.41483,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ahmad Nur",
+    "gn:country_code":"PK",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234509,
+    "gn:latitude":27.77807,
+    "gn:longitude":66.41483,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Ahmad Nur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234509
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4fc143b5b9bfd47e3825a89ac3602acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1276665441,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276665441,
+    "wof:lastmodified":1536829720,
+    "wof:name":"Ahmad Nur",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.41483000000001,
+    27.77807,
+    66.41483000000001,
+    27.77807
+],
+  "geometry": {"coordinates":[66.41483000000001,27.77807],"type":"Point"}
+}

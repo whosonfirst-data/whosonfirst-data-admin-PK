@@ -1,0 +1,67 @@
+{
+  "id": 1226449353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16053,35.29659,73.16053,35.29659",
+    "geom:latitude":35.29659,
+    "geom:longitude":73.16053,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Anpholi",
+    "gn:country_code":"PK",
+    "gn:dem":1722,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999954,
+    "gn:latitude":35.29659,
+    "gn:longitude":73.16053,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Anpholi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999954
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fbb1260725b56eab1baa2a580db82f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226449353,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226449353,
+    "wof:lastmodified":1536639220,
+    "wof:name":"Anpholi",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16053000000002,
+    35.29659,
+    73.16053000000002,
+    35.29659
+],
+  "geometry": {"coordinates":[73.16053000000002,35.29659],"type":"Point"}
+}

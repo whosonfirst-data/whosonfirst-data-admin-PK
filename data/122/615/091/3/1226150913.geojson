@@ -1,0 +1,67 @@
+{
+  "id": 1226150913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15876,28.97353,68.15876,28.97353",
+    "geom:latitude":28.97353,
+    "geom:longitude":68.15876,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Wazira",
+    "gn:country_code":"PK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162460,
+    "gn:latitude":28.97353,
+    "gn:longitude":68.15876,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Wazira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162460
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ddf2776434722bbd32cda796736b8a33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692285,
+            "locality_id":1226150913,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226150913,
+    "wof:lastmodified":1537067256,
+    "wof:name":"Wazira",
+    "wof:parent_id":1108692285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15876,
+    28.97353,
+    68.15876,
+    28.97353
+],
+  "geometry": {"coordinates":[68.15876,28.97353],"type":"Point"}
+}

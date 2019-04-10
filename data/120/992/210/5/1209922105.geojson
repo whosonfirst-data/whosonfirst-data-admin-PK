@@ -1,0 +1,67 @@
+{
+  "id": 1209922105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.61598,27.75381,65.61598,27.75381",
+    "geom:latitude":27.75381,
+    "geom:longitude":65.61598,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Patak",
+    "gn:country_code":"PK",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7069806,
+    "gn:latitude":27.75381,
+    "gn:longitude":65.61598,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Patak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7069806
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"18863e98a60e434089ad0f018454e36c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1209922105,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209922105,
+    "wof:lastmodified":1536396553,
+    "wof:name":"Patak",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.61598000000001,
+    27.75381,
+    65.61598000000001,
+    27.75381
+],
+  "geometry": {"coordinates":[65.61598000000001,27.75381],"type":"Point"}
+}

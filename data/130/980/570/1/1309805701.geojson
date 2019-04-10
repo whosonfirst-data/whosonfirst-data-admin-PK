@@ -1,0 +1,67 @@
+{
+  "id": 1309805701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.56813,27.10297,65.56813,27.10297",
+    "geom:latitude":27.10297,
+    "geom:longitude":65.56813,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kallar",
+    "gn:country_code":"PK",
+    "gn:dem":1004,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11109905,
+    "gn:latitude":27.10297,
+    "gn:longitude":65.56813,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Kallar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11109905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7beee0982f98b7c886926ddb8d58574d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1309805701,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309805701,
+    "wof:lastmodified":1536931901,
+    "wof:name":"Kallar",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.56813000000001,
+    27.10297000000001,
+    65.56813000000001,
+    27.10297000000001
+],
+  "geometry": {"coordinates":[65.56813000000001,27.10297000000001],"type":"Point"}
+}

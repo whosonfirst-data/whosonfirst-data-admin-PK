@@ -1,0 +1,67 @@
+{
+  "id": 1243068905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60295,35.57626,72.60295,35.57626",
+    "geom:latitude":35.57626,
+    "geom:longitude":72.60295,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorsan",
+    "gn:country_code":"PK",
+    "gn:dem":3537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023316,
+    "gn:latitude":35.57626,
+    "gn:longitude":72.60295,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gorsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023316
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cdbf8e2ab2832d5174ba27b4c437d7aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1243068905,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243068905,
+    "wof:lastmodified":1536851687,
+    "wof:name":"Gorsan",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60295,
+    35.57626,
+    72.60295,
+    35.57626
+],
+  "geometry": {"coordinates":[72.60295000000001,35.57626],"type":"Point"}
+}

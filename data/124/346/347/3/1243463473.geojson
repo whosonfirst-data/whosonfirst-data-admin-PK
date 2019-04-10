@@ -1,0 +1,67 @@
+{
+  "id": 1243463473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.28001,32.32438,70.28001,32.32438",
+    "geom:latitude":32.32438,
+    "geom:longitude":70.28001,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shakhi Kili",
+    "gn:country_code":"PK",
+    "gn:dem":485,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1338419,
+    "gn:latitude":32.32438,
+    "gn:longitude":70.28001,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Shakhi Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338419
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"787e879dde8e166fa0a94ed88096653b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692183,
+            "locality_id":1243463473,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243463473,
+    "wof:lastmodified":1536781396,
+    "wof:name":"Shakhi Kili",
+    "wof:parent_id":1108692183,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.28001,
+    32.32438,
+    70.28001,
+    32.32438
+],
+  "geometry": {"coordinates":[70.28001,32.32438],"type":"Point"}
+}

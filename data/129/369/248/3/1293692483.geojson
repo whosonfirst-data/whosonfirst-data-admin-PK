@@ -1,0 +1,67 @@
+{
+  "id": 1293692483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.62102,30.19046,73.62102,30.19046",
+    "geom:latitude":30.19046,
+    "geom:longitude":73.62102,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jahangir",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11540648,
+    "gn:latitude":30.19046,
+    "gn:longitude":73.62102,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Jahangir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11540648
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"30d39c1d196f565928d47036ea03c280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1293692483,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293692483,
+    "wof:lastmodified":1536987924,
+    "wof:name":"Jahangir",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.62102,
+    30.19046,
+    73.62102,
+    30.19046
+],
+  "geometry": {"coordinates":[73.62102,30.19046],"type":"Point"}
+}

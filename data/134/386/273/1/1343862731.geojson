@@ -1,0 +1,67 @@
+{
+  "id": 1343862731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.51847,26.01884,68.51847,26.01884",
+    "geom:latitude":26.01884,
+    "geom:longitude":68.51847,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khota Zardari",
+    "gn:country_code":"PK",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7352395,
+    "gn:latitude":26.01884,
+    "gn:longitude":68.51847,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Khota Zardari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7352395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"30b3467ddda6ce0871e72a8d1469054c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1343862731,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343862731,
+    "wof:lastmodified":1536663305,
+    "wof:name":"Khota Zardari",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.51847,
+    26.01884,
+    68.51847,
+    26.01884
+],
+  "geometry": {"coordinates":[68.51846999999999,26.01884],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1209508045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.884,24.47818,70.884,24.47818",
+    "geom:latitude":24.47818,
+    "geom:longitude":70.884,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Karki",
+    "gn:country_code":"PK",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497253,
+    "gn:latitude":24.47818,
+    "gn:longitude":70.884,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Karki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u0101rkhi",
+        "K\u0101lki",
+        "Karki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497253
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd249e6cdbaf6491c17c6284509cd0b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209508045
+        }
+    ],
+    "wof:id":1209508045,
+    "wof:lastmodified":1537681942,
+    "wof:name":"Karki",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.884,
+    24.47818,
+    70.884,
+    24.47818
+],
+  "geometry": {"coordinates":[70.884,24.47818],"type":"Point"}
+}

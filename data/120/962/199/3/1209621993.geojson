@@ -1,0 +1,67 @@
+{
+  "id": 1209621993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.09346,32.20085,71.09346,32.20085",
+    "geom:latitude":32.20085,
+    "geom:longitude":71.09346,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tirgarh",
+    "gn:country_code":"PK",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365761,
+    "gn:latitude":32.20085,
+    "gn:longitude":71.09346,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Tirgarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365761
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"76a78c5d4bf751003eda046461cd2b20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1209621993,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209621993,
+    "wof:lastmodified":1543515650,
+    "wof:name":"Tirgarh",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.09346,
+    32.20085,
+    71.09346,
+    32.20085
+],
+  "geometry": {"coordinates":[71.09345999999999,32.20085],"type":"Point"}
+}

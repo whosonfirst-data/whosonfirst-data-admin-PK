@@ -1,0 +1,78 @@
+{
+  "id": 1293409885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.04655,35.17802,76.04655,35.17802",
+    "geom:latitude":35.17802,
+    "geom:longitude":76.04655,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Manjar",
+    "gn:country_code":"PK",
+    "gn:dem":2329,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088099,
+    "gn:latitude":35.17802,
+    "gn:longitude":76.04655,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Manjar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088099
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4b0e17b9a1e8697ae559b96b82711b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293409885,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293409885,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293409885,
+    "wof:lastmodified":1536898943,
+    "wof:name":"Manjar",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.04655,
+    35.17802,
+    76.04655,
+    35.17802
+],
+  "geometry": {"coordinates":[76.04655,35.17802],"type":"Point"}
+}

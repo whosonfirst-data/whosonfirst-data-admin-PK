@@ -1,0 +1,67 @@
+{
+  "id": 1292905655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56401,29.46691,69.56401,29.46691",
+    "geom:latitude":29.46691,
+    "geom:longitude":69.56401,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kandh",
+    "gn:country_code":"PK",
+    "gn:dem":691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300536,
+    "gn:latitude":29.46691,
+    "gn:longitude":69.56401,
+    "gn:modification_date":"2012-06-06",
+    "gn:name":"Kandh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300536
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b48e76c6ae6ad4769f1223f7822bdddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692161,
+            "locality_id":1292905655,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1292905655,
+    "wof:lastmodified":1536630089,
+    "wof:name":"Kandh",
+    "wof:parent_id":1108692161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56401,
+    29.46691,
+    69.56401,
+    29.46691
+],
+  "geometry": {"coordinates":[69.56401,29.46691],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276871995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.89048,32.65555,72.89048,32.65555",
+    "geom:latitude":32.65555,
+    "geom:longitude":72.89048,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nila",
+    "gn:country_code":"PK",
+    "gn:dem":569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370878,
+    "gn:latitude":32.65555,
+    "gn:longitude":72.89048,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Nila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370878
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"28eecd34fea8b1cb441026d2309164cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1276871995,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276871995,
+    "wof:lastmodified":1537049631,
+    "wof:name":"Nila",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.89048000000003,
+    32.65555,
+    72.89048000000003,
+    32.65555
+],
+  "geometry": {"coordinates":[72.89048000000003,32.65555],"type":"Point"}
+}

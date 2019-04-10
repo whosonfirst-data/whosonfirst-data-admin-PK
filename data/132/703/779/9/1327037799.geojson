@@ -1,0 +1,67 @@
+{
+  "id": 1327037799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.31669,26.01715,64.31669,26.01715",
+    "geom:latitude":26.01715,
+    "geom:longitude":64.31669,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Balach Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":553,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11222419,
+    "gn:latitude":26.01715,
+    "gn:longitude":64.31669,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Balach Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11222419
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a65955e742829624e170877f6707b974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1327037799,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327037799,
+    "wof:lastmodified":1536752527,
+    "wof:name":"Balach Bazar",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.31669000000001,
+    26.01715,
+    64.31669000000001,
+    26.01715
+],
+  "geometry": {"coordinates":[64.31669000000001,26.01715],"type":"Point"}
+}

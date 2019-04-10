@@ -1,0 +1,65 @@
+{
+  "id": 1209337895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59097,32.52369,73.59097,32.52369",
+    "geom:latitude":32.52369,
+    "geom:longitude":73.59097,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Churand",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180926,
+    "gn:latitude":32.52369,
+    "gn:longitude":73.59097,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Churand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chorand",
+        "Churand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180926
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d6cdfcec9dcc89e27e7260f6c55eeb3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209337895
+        }
+    ],
+    "wof:id":1209337895,
+    "wof:lastmodified":1537679834,
+    "wof:name":"Churand",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59097,
+    32.52369,
+    73.59097,
+    32.52369
+],
+  "geometry": {"coordinates":[73.59097,32.52369],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293588587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.32975,28.68395,70.32975,28.68395",
+    "geom:latitude":28.68395,
+    "geom:longitude":70.32975,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sikandarabad",
+    "gn:country_code":"PK",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7324811,
+    "gn:latitude":28.68395,
+    "gn:longitude":70.32975,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sikandarabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7324811
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"229e7a6a4e32e822935e6cf2fe658e84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1293588587,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293588587,
+    "wof:lastmodified":1536640464,
+    "wof:name":"Sikandarabad",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.32975,
+    28.68395,
+    70.32975,
+    28.68395
+],
+  "geometry": {"coordinates":[70.32975,28.68395],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226362657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.36871,35.36393,76.36871,35.36393",
+    "geom:latitude":35.36393,
+    "geom:longitude":76.36871,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kande",
+    "gn:country_code":"PK",
+    "gn:dem":2881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175031,
+    "gn:latitude":35.36393,
+    "gn:longitude":76.36871,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175031
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e3445de934c2b86cb7303bff6be6f76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1226362657,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1226362657,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226362657,
+    "wof:lastmodified":1536765604,
+    "wof:name":"Kande",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.36871,
+    35.36393,
+    76.36871,
+    35.36393
+],
+  "geometry": {"coordinates":[76.36870999999999,35.36393],"type":"Point"}
+}

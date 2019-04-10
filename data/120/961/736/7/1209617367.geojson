@@ -1,0 +1,64 @@
+{
+  "id": 1209617367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.4374,28.19874,66.4374,28.19874",
+    "geom:latitude":28.19874,
+    "geom:longitude":66.4374,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dasht",
+    "gn:country_code":"PK",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7074249,
+    "gn:latitude":28.19874,
+    "gn:longitude":66.4374,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Dasht",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Darhe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7074249
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e05c31237d9474f2db9b5312757ec32d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209617367
+        }
+    ],
+    "wof:id":1209617367,
+    "wof:lastmodified":1537681622,
+    "wof:name":"Dasht",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.4374,
+    28.19874,
+    66.4374,
+    28.19874
+],
+  "geometry": {"coordinates":[66.4374,28.19874],"type":"Point"}
+}

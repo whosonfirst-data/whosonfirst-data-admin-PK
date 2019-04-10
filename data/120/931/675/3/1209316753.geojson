@@ -1,0 +1,61 @@
+{
+  "id": 1209316753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.41677,25.33167,62.41677,25.33167",
+    "geom:latitude":25.33167,
+    "geom:longitude":62.41677,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khudadad Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11184006,
+    "gn:latitude":25.33167,
+    "gn:longitude":62.41677,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Khudadad Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11184006
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d2f604bd99718210f847e272e2f9bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209316753
+        }
+    ],
+    "wof:id":1209316753,
+    "wof:lastmodified":1536290837,
+    "wof:name":"Khudadad Bazar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.41676999999999,
+    25.331670000000006,
+    62.41676999999999,
+    25.331670000000006
+],
+  "geometry": {"coordinates":[62.41676999999999,25.33167000000001],"type":"Point"}
+}

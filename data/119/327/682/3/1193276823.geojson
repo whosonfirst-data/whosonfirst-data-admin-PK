@@ -1,0 +1,67 @@
+{
+  "id": 1193276823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.23415,33.9237,73.23415,33.9237",
+    "geom:latitude":33.9237,
+    "geom:longitude":73.23415,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Saindri",
+    "gn:country_code":"PK",
+    "gn:dem":1165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423839,
+    "gn:latitude":33.9237,
+    "gn:longitude":73.23415,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Saindri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423839
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6843d8e4fdb09a328dac5f0d6e0200b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1193276823,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193276823,
+    "wof:lastmodified":1543515529,
+    "wof:name":"Saindri",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.23415,
+    33.9237,
+    73.23415,
+    33.9237
+],
+  "geometry": {"coordinates":[73.23415,33.9237],"type":"Point"}
+}

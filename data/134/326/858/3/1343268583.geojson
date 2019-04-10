@@ -1,0 +1,68 @@
+{
+  "id": 1343268583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.56259,35.05453,72.56259,35.05453",
+    "geom:latitude":35.05453,
+    "geom:longitude":72.56259,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Miandam",
+    "gn:country_code":"PK",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377443,
+    "gn:latitude":35.05453,
+    "gn:longitude":72.56259,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Miandam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377443,
+        "wk:page":"Miandam"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"40e7bd31ce053ed06df06e1c821aae87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1343268583,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343268583,
+    "wof:lastmodified":1537570890,
+    "wof:name":"Miandam",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.56259,
+    35.05453,
+    72.56259,
+    35.05453
+],
+  "geometry": {"coordinates":[72.56259,35.05453],"type":"Point"}
+}

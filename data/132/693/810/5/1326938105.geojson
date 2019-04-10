@@ -1,0 +1,67 @@
+{
+  "id": 1326938105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.52382,30.11648,66.52382,30.11648",
+    "geom:latitude":30.11648,
+    "geom:longitude":66.52382,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kurram",
+    "gn:country_code":"PK",
+    "gn:dem":1451,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1351620,
+    "gn:latitude":30.11648,
+    "gn:longitude":66.52382,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Kurram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890438109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351620
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4c5e3c1c451a28dde7803ecc2f9b8009",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1326938105,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326938105,
+    "wof:lastmodified":1536896103,
+    "wof:name":"Kurram",
+    "wof:parent_id":890438109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.52382,
+    30.11648,
+    66.52382,
+    30.11648
+],
+  "geometry": {"coordinates":[66.52382,30.11648],"type":"Point"}
+}

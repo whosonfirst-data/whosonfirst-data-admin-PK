@@ -1,0 +1,67 @@
+{
+  "id": 1310607895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27439,34.68194,73.27439,34.68194",
+    "geom:latitude":34.68194,
+    "geom:longitude":73.27439,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Magra",
+    "gn:country_code":"PK",
+    "gn:dem":2340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406489,
+    "gn:latitude":34.68194,
+    "gn:longitude":73.27439,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Magra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406489
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"08abb66291d24fa20461e01d86065aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1310607895,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310607895,
+    "wof:lastmodified":1536769678,
+    "wof:name":"Magra",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27439,
+    34.68194,
+    73.27439,
+    34.68194
+],
+  "geometry": {"coordinates":[73.27439,34.68194],"type":"Point"}
+}

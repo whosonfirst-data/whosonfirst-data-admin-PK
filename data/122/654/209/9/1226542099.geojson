@@ -1,0 +1,67 @@
+{
+  "id": 1226542099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.04651,26.95898,64.04651,26.95898",
+    "geom:latitude":26.95898,
+    "geom:longitude":64.04651,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Halong",
+    "gn:country_code":"PK",
+    "gn:dem":954,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11221168,
+    "gn:latitude":26.95898,
+    "gn:longitude":64.04651,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Halong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11221168
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56192c86157ffc7fa84f56300558d3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1226542099,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226542099,
+    "wof:lastmodified":1537002504,
+    "wof:name":"Halong",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.04651,
+    26.95898,
+    64.04651,
+    26.95898
+],
+  "geometry": {"coordinates":[64.04651,26.95898],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209716677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.84808,35.91609,71.84808,35.91609",
+    "geom:latitude":35.91609,
+    "geom:longitude":71.84808,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kari",
+    "gn:country_code":"PK",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1373557,
+    "gn:latitude":35.91609,
+    "gn:longitude":71.84808,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Kari"
+    ],
+    "name:urd_x_preferred":[
+        "K\u0101r\u012b"
+    ],
+    "name:urd_x_variant":[
+        "\u06a9\u064e\u0627\u0631\u0650\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1373557
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b3203ead77534e09c7838ee0c30a896e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1209716677,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716677,
+    "wof:lastmodified":1543515718,
+    "wof:name":"Kari",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.84808000000002,
+    35.91609000000001,
+    71.84808000000002,
+    35.91609000000001
+],
+  "geometry": {"coordinates":[71.84808000000002,35.91609000000001],"type":"Point"}
+}

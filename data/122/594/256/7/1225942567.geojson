@@ -1,0 +1,67 @@
+{
+  "id": 1225942567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.64169,24.61054,69.64169,24.61054",
+    "geom:latitude":24.61054,
+    "geom:longitude":69.64169,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Parhiari",
+    "gn:country_code":"PK",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11034947,
+    "gn:latitude":24.61054,
+    "gn:longitude":69.64169,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Parhiari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11034947
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b549b98be4e14c1de5e9688d2e986e81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1225942567,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1225942567,
+    "wof:lastmodified":1536872992,
+    "wof:name":"Parhiari",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.64169,
+    24.61054,
+    69.64169,
+    24.61054
+],
+  "geometry": {"coordinates":[69.64169,24.61054],"type":"Point"}
+}

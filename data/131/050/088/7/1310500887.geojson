@@ -1,0 +1,67 @@
+{
+  "id": 1310500887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.26307,31.4245,71.26307,31.4245",
+    "geom:latitude":31.4245,
+    "geom:longitude":71.26307,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bakhrewala",
+    "gn:country_code":"PK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367606,
+    "gn:latitude":31.4245,
+    "gn:longitude":71.26307,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Bakhrewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367606
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a485c2790cef5e58885b3d64dde04737",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1310500887,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310500887,
+    "wof:lastmodified":1536924284,
+    "wof:name":"Bakhrewala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.26307,
+    31.4245,
+    71.26307,
+    31.4245
+],
+  "geometry": {"coordinates":[71.26307,31.4245],"type":"Point"}
+}

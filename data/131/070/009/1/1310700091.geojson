@@ -1,0 +1,67 @@
+{
+  "id": 1310700091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.75258,26.51559,68.75258,26.51559",
+    "geom:latitude":26.51559,
+    "geom:longitude":68.75258,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Pokhal",
+    "gn:country_code":"PK",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369672,
+    "gn:latitude":26.51559,
+    "gn:longitude":68.75258,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Pokhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369672
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"102d64875af901292bff601e502b5094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692371,
+            "locality_id":1310700091,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310700091,
+    "wof:lastmodified":1536634893,
+    "wof:name":"Pokhal",
+    "wof:parent_id":1108692371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.75258000000001,
+    26.51559,
+    68.75258000000001,
+    26.51559
+],
+  "geometry": {"coordinates":[68.75258000000001,26.51559],"type":"Point"}
+}

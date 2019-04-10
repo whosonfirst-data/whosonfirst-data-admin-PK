@@ -1,0 +1,81 @@
+{
+  "id": 1360176531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47782,34.32265,73.47782,34.32265",
+    "geom:latitude":34.32265,
+    "geom:longitude":73.47782,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pati Raro",
+    "gn:country_code":"PK",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406774,
+    "gn:latitude":34.32265,
+    "gn:longitude":73.47782,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pati Raro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101ru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406774
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f6642cf03738ca1aac5096b94b5f44a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1360176531,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1360176531,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1360176531,
+    "wof:lastmodified":1537681203,
+    "wof:name":"Pati Raro",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47782,
+    34.32265,
+    73.47782,
+    34.32265
+],
+  "geometry": {"coordinates":[73.47781999999999,34.32265],"type":"Point"}
+}

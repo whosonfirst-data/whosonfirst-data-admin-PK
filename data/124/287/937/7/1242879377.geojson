@@ -1,0 +1,67 @@
+{
+  "id": 1242879377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.97157,32.43261,71.97157,32.43261",
+    "geom:latitude":32.43261,
+    "geom:longitude":71.97157,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Loharwala",
+    "gn:country_code":"PK",
+    "gn:dem":563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322347,
+    "gn:latitude":32.43261,
+    "gn:longitude":71.97157,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Loharwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322347
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d5828da035e4134f4f07bc8e68bc53a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1242879377,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242879377,
+    "wof:lastmodified":1536627174,
+    "wof:name":"Loharwala",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.97157,
+    32.43261,
+    71.97157,
+    32.43261
+],
+  "geometry": {"coordinates":[71.97157,32.43261],"type":"Point"}
+}

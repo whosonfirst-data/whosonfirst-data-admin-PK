@@ -1,0 +1,67 @@
+{
+  "id": 1310006615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.43808,34.28236,73.43808,34.28236",
+    "geom:latitude":34.28236,
+    "geom:longitude":73.43808,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kokmar",
+    "gn:country_code":"PK",
+    "gn:dem":1118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406834,
+    "gn:latitude":34.28236,
+    "gn:longitude":73.43808,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kokmar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406834
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b5433d50992412cd816346802853c46e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1310006615,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310006615,
+    "wof:lastmodified":1536640820,
+    "wof:name":"Kokmar",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43808,
+    34.28236,
+    73.43808,
+    34.28236
+],
+  "geometry": {"coordinates":[73.43808,34.28236],"type":"Point"}
+}

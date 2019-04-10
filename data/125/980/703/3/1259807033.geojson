@@ -1,0 +1,67 @@
+{
+  "id": 1259807033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03317,32.51497,73.03317,32.51497",
+    "geom:latitude":32.51497,
+    "geom:longitude":73.03317,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Wajhni",
+    "gn:country_code":"PK",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11443048,
+    "gn:latitude":32.51497,
+    "gn:longitude":73.03317,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Wajhni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11443048
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0d9b943a89d2f37d4a48fef905d642fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1259807033,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259807033,
+    "wof:lastmodified":1536888916,
+    "wof:name":"Wajhni",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03317,
+    32.51497,
+    73.03317,
+    32.51497
+],
+  "geometry": {"coordinates":[73.03317,32.51497],"type":"Point"}
+}

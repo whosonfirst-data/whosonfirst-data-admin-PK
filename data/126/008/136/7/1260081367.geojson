@@ -1,0 +1,73 @@
+{
+  "id": 1260081367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.3009,33.08808,71.3009,33.08808",
+    "geom:latitude":33.08808,
+    "geom:longitude":71.3009,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lawa Ghar Channi Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181503,
+    "gn:latitude":33.08808,
+    "gn:longitude":71.3009,
+    "gn:modification_date":"2016-05-07",
+    "gn:name":"Lawa Ghar Channi Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chani Khel",
+        "Channi Khel",
+        "Lawa Ghar Channi Khel",
+        "Lawa Ghar Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181503
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5748cac26040b0ec5bb05b78610f452c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1260081367,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260081367,
+    "wof:lastmodified":1537679856,
+    "wof:name":"Lawa Ghar Channi Khel",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.3009,
+    33.08808,
+    71.3009,
+    33.08808
+],
+  "geometry": {"coordinates":[71.3009,33.08808],"type":"Point"}
+}

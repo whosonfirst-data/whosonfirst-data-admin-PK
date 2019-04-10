@@ -1,0 +1,67 @@
+{
+  "id": 1360297973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.71038,28.96093,65.71038,28.96093",
+    "geom:latitude":28.96093,
+    "geom:longitude":65.71038,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Maidan Sasol",
+    "gn:country_code":"PK",
+    "gn:dem":1021,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11230196,
+    "gn:latitude":28.96093,
+    "gn:longitude":65.71038,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Maidan Sasol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11230196
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"50c90b58e0d2dc121c74762a56a400a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1360297973,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360297973,
+    "wof:lastmodified":1536637299,
+    "wof:name":"Maidan Sasol",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.71038,
+    28.96093,
+    65.71038,
+    28.96093
+],
+  "geometry": {"coordinates":[65.71038,28.96093],"type":"Point"}
+}

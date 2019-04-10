@@ -1,0 +1,67 @@
+{
+  "id": 1309904201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.68732,24.81916,68.68732,24.81916",
+    "geom:latitude":24.81916,
+    "geom:longitude":68.68732,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Panhwar",
+    "gn:country_code":"PK",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11600180,
+    "gn:latitude":24.81916,
+    "gn:longitude":68.68732,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Panhwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11600180
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b36647ad28d22e4f8afb2cad593458e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1309904201,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1309904201,
+    "wof:lastmodified":1536789690,
+    "wof:name":"Panhwar",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.68732,
+    24.81916,
+    68.68732,
+    24.81916
+],
+  "geometry": {"coordinates":[68.68732,24.81916],"type":"Point"}
+}

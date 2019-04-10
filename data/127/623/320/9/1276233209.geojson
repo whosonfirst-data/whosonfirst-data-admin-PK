@@ -1,0 +1,74 @@
+{
+  "id": 1276233209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46519,31.81273,73.46519,31.81273",
+    "geom:latitude":31.81273,
+    "geom:longitude":73.46519,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chak Five",
+    "gn:country_code":"PK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167011,
+    "gn:latitude":31.81273,
+    "gn:longitude":73.46519,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Chak Five",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chak One Hundred Five",
+        "Ratti\u0101n",
+        "Ratti\u0101n Sikh\u0101n",
+        "Chak Five",
+        "Ratti\u0101n Mah\u0101jar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692323
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167011
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"480d69c01e7d1aaff943338a7782ec27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692323,
+            "locality_id":1276233209,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276233209,
+    "wof:lastmodified":1537679344,
+    "wof:name":"Chak Five",
+    "wof:parent_id":1108692323,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46519,
+    31.81273,
+    73.46519,
+    31.81273
+],
+  "geometry": {"coordinates":[73.46519000000001,31.81273],"type":"Point"}
+}

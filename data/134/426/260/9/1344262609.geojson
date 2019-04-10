@@ -1,0 +1,67 @@
+{
+  "id": 1344262609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.63303,30.26417,71.63303,30.26417",
+    "geom:latitude":30.26417,
+    "geom:longitude":71.63303,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pirewala",
+    "gn:country_code":"PK",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1356722,
+    "gn:latitude":30.26417,
+    "gn:longitude":71.63303,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pirewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1356722
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6c3da7e8330afc4c7d6de800793538ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1344262609,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344262609,
+    "wof:lastmodified":1537077880,
+    "wof:name":"Pirewala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.63303,
+    30.26417,
+    71.63303,
+    30.26417
+],
+  "geometry": {"coordinates":[71.63303000000001,30.26417],"type":"Point"}
+}

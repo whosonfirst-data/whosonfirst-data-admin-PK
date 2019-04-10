@@ -1,0 +1,71 @@
+{
+  "id": 1360097555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.92215,30.31841,66.92215,30.31841",
+    "geom:latitude":30.31841,
+    "geom:longitude":66.92215,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Malazai",
+    "gn:country_code":"PK",
+    "gn:dem":1566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171355,
+    "gn:latitude":30.31841,
+    "gn:longitude":66.92215,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Malazai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mallazai",
+        "Malazai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890438109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171355
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"295a5ce07f8378f700d868e865e7fbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1360097555,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360097555,
+    "wof:lastmodified":1537679500,
+    "wof:name":"Malazai",
+    "wof:parent_id":890438109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.92215,
+    30.31841,
+    66.92215,
+    30.31841
+],
+  "geometry": {"coordinates":[66.92215,30.31841],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209212087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64314,34.30601,73.64314,34.30601",
+    "geom:latitude":34.30601,
+    "geom:longitude":73.64314,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kals",
+    "gn:country_code":"PK",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385851,
+    "gn:latitude":34.30601,
+    "gn:longitude":73.64314,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kals",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kallas"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385851
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"40905b846174fd6c26bf5f579747aaaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209212087
+        }
+    ],
+    "wof:id":1209212087,
+    "wof:lastmodified":1537680847,
+    "wof:name":"Kals",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64314,
+    34.30601,
+    73.64314,
+    34.30601
+],
+  "geometry": {"coordinates":[73.64314,34.30601],"type":"Point"}
+}

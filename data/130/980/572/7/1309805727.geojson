@@ -1,0 +1,67 @@
+{
+  "id": 1309805727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.33333,28.04722,66.33333,28.04722",
+    "geom:latitude":28.04722,
+    "geom:longitude":66.33333,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mazi",
+    "gn:country_code":"PK",
+    "gn:dem":1537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1404848,
+    "gn:latitude":28.04722,
+    "gn:longitude":66.33333,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1404848
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6cdaf83234e23050a09ed51b21857bc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1309805727,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309805727,
+    "wof:lastmodified":1536931867,
+    "wof:name":"Mazi",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.33333,
+    28.04722000000001,
+    66.33333,
+    28.04722000000001
+],
+  "geometry": {"coordinates":[66.33333,28.04722000000001],"type":"Point"}
+}

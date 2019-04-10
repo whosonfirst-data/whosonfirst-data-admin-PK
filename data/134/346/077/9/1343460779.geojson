@@ -1,0 +1,67 @@
+{
+  "id": 1343460779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87099,28.25292,67.87099,28.25292",
+    "geom:latitude":28.25292,
+    "geom:longitude":67.87099,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Taj Pur",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410581,
+    "gn:latitude":28.25292,
+    "gn:longitude":67.87099,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Taj Pur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410581
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2a5ae6069b076582fdbe95ae2203278",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692327,
+            "locality_id":1343460779,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343460779,
+    "wof:lastmodified":1536745373,
+    "wof:name":"Taj Pur",
+    "wof:parent_id":1108692327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87099,
+    28.25292,
+    67.87099,
+    28.25292
+],
+  "geometry": {"coordinates":[67.87099000000001,28.25292],"type":"Point"}
+}

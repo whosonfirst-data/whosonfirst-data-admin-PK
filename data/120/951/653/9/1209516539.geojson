@@ -1,0 +1,71 @@
+{
+  "id": 1209516539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63915,34.88468,72.63915,34.88468",
+    "geom:latitude":34.88468,
+    "geom:longitude":72.63915,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gandao",
+    "gn:country_code":"PK",
+    "gn:dem":1538,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179036,
+    "gn:latitude":34.88468,
+    "gn:longitude":72.63915,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Gandao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gundo",
+        "Gandao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179036
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81ebf176363eb678b8693d5eeeab290c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1209516539,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209516539,
+    "wof:lastmodified":1543515761,
+    "wof:name":"Gandao",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63915,
+    34.88468,
+    72.63915,
+    34.88468
+],
+  "geometry": {"coordinates":[72.63915,34.88468],"type":"Point"}
+}

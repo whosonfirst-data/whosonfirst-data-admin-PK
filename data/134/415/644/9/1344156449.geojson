@@ -1,0 +1,70 @@
+{
+  "id": 1344156449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32594,31.30568,72.32594,31.30568",
+    "geom:latitude":31.30568,
+    "geom:longitude":72.32594,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jhang City",
+    "gn:country_code":"PK",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1330335,
+    "gn:latitude":31.30568,
+    "gn:longitude":72.32594,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Jhang City",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d1bfd931b464db2734d89eea964f472",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1344156449,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344156449,
+    "wof:lastmodified":1537680008,
+    "wof:name":"Jhang City",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32594,
+    31.30568,
+    72.32594,
+    31.30568
+],
+  "geometry": {"coordinates":[72.32594,31.30568],"type":"Point"}
+}

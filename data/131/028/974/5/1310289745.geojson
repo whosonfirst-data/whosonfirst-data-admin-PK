@@ -1,0 +1,76 @@
+{
+  "id": 1310289745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99298,33.75227,72.99298,33.75227",
+    "geom:latitude":33.75227,
+    "geom:longitude":72.99298,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Sandhuri",
+    "gn:country_code":"PK",
+    "gn:dem":1069,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338829,
+    "gn:latitude":33.75227,
+    "gn:longitude":72.99298,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sandhuri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sandhuri"
+    ],
+    "name:eng_x_variant":[
+        "Sunl\u0101ri Sandh\u016bri"
+    ],
+    "name:und_x_variant":[
+        "Sani\u0101ri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338829
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e22689ccda9dc004ff6435341e62c1a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1310289745,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310289745,
+    "wof:lastmodified":1537680160,
+    "wof:name":"Sandhuri",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99298,
+    33.75227,
+    72.99298,
+    33.75227
+],
+  "geometry": {"coordinates":[72.99298,33.75227],"type":"Point"}
+}

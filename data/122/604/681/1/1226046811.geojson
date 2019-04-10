@@ -1,0 +1,70 @@
+{
+  "id": 1226046811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.16068,24.64011,68.16068,24.64011",
+    "geom:latitude":24.64011,
+    "geom:longitude":68.16068,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Kandrah",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174996,
+    "gn:latitude":24.64011,
+    "gn:longitude":68.16068,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kandrah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kandra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692393
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174996
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf18ce14e13397c1f9e2b7eaa8516450",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692393,
+            "locality_id":1226046811,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226046811,
+    "wof:lastmodified":1537679626,
+    "wof:name":"Kandrah",
+    "wof:parent_id":1108692393,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.16068,
+    24.64011,
+    68.16068,
+    24.64011
+],
+  "geometry": {"coordinates":[68.16068,24.64011],"type":"Point"}
+}

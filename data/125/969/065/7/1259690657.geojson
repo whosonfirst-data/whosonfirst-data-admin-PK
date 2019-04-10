@@ -1,0 +1,67 @@
+{
+  "id": 1259690657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30989,35.0069,73.30989,35.0069",
+    "geom:latitude":35.0069,
+    "geom:longitude":73.30989,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nao",
+    "gn:country_code":"PK",
+    "gn:dem":2042,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022490,
+    "gn:latitude":35.0069,
+    "gn:longitude":73.30989,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Nao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022490
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2bc106da1f56b1a5e6d69f39efb7c307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1259690657,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259690657,
+    "wof:lastmodified":1537054271,
+    "wof:name":"Nao",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30989,
+    35.0069,
+    73.30989,
+    35.0069
+],
+  "geometry": {"coordinates":[73.30989,35.0069],"type":"Point"}
+}

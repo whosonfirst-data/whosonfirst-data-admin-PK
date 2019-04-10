@@ -1,0 +1,81 @@
+{
+  "id": 1243360831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.69701,33.88801,73.69701,33.88801",
+    "geom:latitude":33.88801,
+    "geom:longitude":73.69701,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chaphra Bar",
+    "gn:country_code":"PK",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097506,
+    "gn:latitude":33.88801,
+    "gn:longitude":73.69701,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Chaphra Bar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chaphra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097506
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65fe4e00f9983847eb97bd947c3cfd04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1243360831,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1243360831,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243360831,
+    "wof:lastmodified":1537681682,
+    "wof:name":"Chaphra Bar",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.69700999999998,
+    33.88800999999999,
+    73.69700999999998,
+    33.88800999999999
+],
+  "geometry": {"coordinates":[73.69700999999998,33.88800999999999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1343566775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.41612,33.13151,73.41612,33.13151",
+    "geom:latitude":33.13151,
+    "geom:longitude":73.41612,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khurakka",
+    "gn:country_code":"PK",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173715,
+    "gn:latitude":33.13151,
+    "gn:longitude":73.41612,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Khurakka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khorakha",
+        "Khurakka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173715
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4fb0a2a783866dafd50739b517b2fabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1343566775,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343566775,
+    "wof:lastmodified":1537679582,
+    "wof:name":"Khurakka",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.41611999999998,
+    33.13151,
+    73.41611999999998,
+    33.13151
+],
+  "geometry": {"coordinates":[73.41611999999998,33.13151],"type":"Point"}
+}

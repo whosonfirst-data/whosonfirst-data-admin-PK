@@ -1,0 +1,67 @@
+{
+  "id": 1226343259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.87901,34.94617,72.87901,34.94617",
+    "geom:latitude":34.94617,
+    "geom:longitude":72.87901,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Munjai",
+    "gn:country_code":"PK",
+    "gn:dem":780,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378279,
+    "gn:latitude":34.94617,
+    "gn:longitude":72.87901,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Munjai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378279
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"417968a8c64bf992656190444df5ee39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226343259,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226343259,
+    "wof:lastmodified":1536793349,
+    "wof:name":"Munjai",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.87901,
+    34.94617,
+    72.87901,
+    34.94617
+],
+  "geometry": {"coordinates":[72.87900999999999,34.94617],"type":"Point"}
+}

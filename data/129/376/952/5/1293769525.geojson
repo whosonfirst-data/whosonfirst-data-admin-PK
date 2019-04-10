@@ -1,0 +1,78 @@
+{
+  "id": 1293769525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.23715,35.24128,76.23715,35.24128",
+    "geom:latitude":35.24128,
+    "geom:longitude":76.23715,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yaskil Khaku",
+    "gn:country_code":"PK",
+    "gn:dem":2493,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088177,
+    "gn:latitude":35.24128,
+    "gn:longitude":76.23715,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Yaskil Khaku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088177
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"340ce2c6a1ee8afdfad85800695c3ae5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293769525,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1293769525,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293769525,
+    "wof:lastmodified":1536876726,
+    "wof:name":"Yaskil Khaku",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.23715,
+    35.24128,
+    76.23715,
+    35.24128
+],
+  "geometry": {"coordinates":[76.23715,35.24128],"type":"Point"}
+}

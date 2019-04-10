@@ -1,0 +1,67 @@
+{
+  "id": 1276446799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4253,24.38296,69.4253,24.38296",
+    "geom:latitude":24.38296,
+    "geom:longitude":69.4253,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sakri",
+    "gn:country_code":"PK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410314,
+    "gn:latitude":24.38296,
+    "gn:longitude":69.4253,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Sakri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410314
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"46b794ebe6e62ca7bbfb0a9a0cbf95bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1276446799,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276446799,
+    "wof:lastmodified":1536624539,
+    "wof:name":"Sakri",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4253,
+    24.38296,
+    69.4253,
+    24.38296
+],
+  "geometry": {"coordinates":[69.42529999999999,24.38296],"type":"Point"}
+}

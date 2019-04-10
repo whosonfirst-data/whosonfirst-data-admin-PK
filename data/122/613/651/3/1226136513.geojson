@@ -1,0 +1,78 @@
+{
+  "id": 1226136513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05751,35.59354,74.05751,35.59354",
+    "geom:latitude":35.59354,
+    "geom:longitude":74.05751,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Pajai",
+    "gn:country_code":"PK",
+    "gn:dem":2168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423620,
+    "gn:latitude":35.59354,
+    "gn:longitude":74.05751,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Pajai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423620
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d9342b8c4c018ab12b0c2bd86a634da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226136513,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1226136513,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226136513,
+    "wof:lastmodified":1537087838,
+    "wof:name":"Pajai",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05751,
+    35.59354000000001,
+    74.05751,
+    35.59354000000001
+],
+  "geometry": {"coordinates":[74.05750999999999,35.59354000000001],"type":"Point"}
+}

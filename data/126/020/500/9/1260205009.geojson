@@ -1,0 +1,82 @@
+{
+  "id": 1260205009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08458,33.96398,74.08458,33.96398",
+    "geom:latitude":33.96398,
+    "geom:longitude":74.08458,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Reran",
+    "gn:country_code":"PK",
+    "gn:dem":2639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414923,
+    "gn:latitude":33.96398,
+    "gn:longitude":74.08458,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Reran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Subhai Dora",
+        "Subhai Doba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414923
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d1870041803d78c9a76c33e4ad061e06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1260205009,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1260205009,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260205009,
+    "wof:lastmodified":1537681351,
+    "wof:name":"Reran",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08458,
+    33.96398,
+    74.08458,
+    33.96398
+],
+  "geometry": {"coordinates":[74.08458,33.96398],"type":"Point"}
+}

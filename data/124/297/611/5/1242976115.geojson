@@ -1,0 +1,67 @@
+{
+  "id": 1242976115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51139,33.6606,73.51139,33.6606",
+    "geom:latitude":33.6606,
+    "geom:longitude":73.51139,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bajuta",
+    "gn:country_code":"PK",
+    "gn:dem":889,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11046847,
+    "gn:latitude":33.6606,
+    "gn:longitude":73.51139,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Bajuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11046847
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"672f0c9c001f65394fb812de5305e492",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1242976115,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242976115,
+    "wof:lastmodified":1536985767,
+    "wof:name":"Bajuta",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51139,
+    33.6606,
+    73.51139,
+    33.6606
+],
+  "geometry": {"coordinates":[73.51139000000001,33.6606],"type":"Point"}
+}

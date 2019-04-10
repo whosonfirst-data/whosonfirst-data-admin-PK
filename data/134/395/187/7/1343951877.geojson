@@ -1,0 +1,78 @@
+{
+  "id": 1343951877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.74001,35.23672,74.74001,35.23672",
+    "geom:latitude":35.23672,
+    "geom:longitude":74.74001,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nihke",
+    "gn:country_code":"PK",
+    "gn:dem":2873,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070068,
+    "gn:latitude":35.23672,
+    "gn:longitude":74.74001,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Nihke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070068
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dba8114c08c4d230c3474b2c0d2dd2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343951877,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343951877,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343951877,
+    "wof:lastmodified":1537031086,
+    "wof:name":"Nihke",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.74001,
+    35.23672,
+    74.74001,
+    35.23672
+],
+  "geometry": {"coordinates":[74.74001,35.23672],"type":"Point"}
+}

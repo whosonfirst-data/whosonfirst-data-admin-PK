@@ -1,0 +1,78 @@
+{
+  "id": 1260100379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.08497,35.21399,76.08497,35.21399",
+    "geom:latitude":35.21399,
+    "geom:longitude":76.08497,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Turkha",
+    "gn:country_code":"PK",
+    "gn:dem":3238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088087,
+    "gn:latitude":35.21399,
+    "gn:longitude":76.08497,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Turkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088087
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"02b8629d72e0c4c77657c71511020de6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1260100379,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1260100379,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260100379,
+    "wof:lastmodified":1536963643,
+    "wof:name":"Turkha",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.08497,
+    35.21399,
+    76.08497,
+    35.21399
+],
+  "geometry": {"coordinates":[76.08497,35.21399],"type":"Point"}
+}

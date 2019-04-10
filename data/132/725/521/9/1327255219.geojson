@@ -1,0 +1,81 @@
+{
+  "id": 1327255219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05398,33.00906,74.05398,33.00906",
+    "geom:latitude":33.00906,
+    "geom:longitude":74.05398,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Randiam",
+    "gn:country_code":"PK",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371547,
+    "gn:latitude":33.00906,
+    "gn:longitude":74.05398,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Randiam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rande\u0101m"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371547
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c17e1e3300a6b8d9a2212ddea87d57e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327255219,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1327255219,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327255219,
+    "wof:lastmodified":1537680589,
+    "wof:name":"Randiam",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05398000000002,
+    33.00906,
+    74.05398000000002,
+    33.00906
+],
+  "geometry": {"coordinates":[74.05398000000002,33.00906],"type":"Point"}
+}

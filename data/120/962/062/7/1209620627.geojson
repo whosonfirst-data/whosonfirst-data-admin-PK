@@ -1,0 +1,65 @@
+{
+  "id": 1209620627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.03281,32.82043,74.03281,32.82043",
+    "geom:latitude":32.82043,
+    "geom:longitude":74.03281,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shampur",
+    "gn:country_code":"PK",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165337,
+    "gn:latitude":32.82043,
+    "gn:longitude":74.03281,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Shampur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101mpu",
+        "Shampur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165337
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dd77b1f9ab82853798d21a051c5444b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209620627
+        }
+    ],
+    "wof:id":1209620627,
+    "wof:lastmodified":1537679285,
+    "wof:name":"Shampur",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.03281,
+    32.82043,
+    74.03281,
+    32.82043
+],
+  "geometry": {"coordinates":[74.03281,32.82043],"type":"Point"}
+}

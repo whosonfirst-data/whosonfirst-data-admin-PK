@@ -1,0 +1,67 @@
+{
+  "id": 1193143875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08288,32.96104,71.08288,32.96104",
+    "geom:latitude":32.96104,
+    "geom:longitude":71.08288,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Zhira",
+    "gn:country_code":"PK",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334804,
+    "gn:latitude":32.96104,
+    "gn:longitude":71.08288,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Zhira",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692235
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334804
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"576f37fcd3282b3997a69b5e359baf8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692235,
+            "locality_id":1193143875,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193143875,
+    "wof:lastmodified":1543515392,
+    "wof:name":"Zhira",
+    "wof:parent_id":1108692235,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08288,
+    32.96104,
+    71.08288,
+    32.96104
+],
+  "geometry": {"coordinates":[71.08288,32.96104],"type":"Point"}
+}

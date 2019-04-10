@@ -1,0 +1,81 @@
+{
+  "id": 1193012097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.14881,35.53815,74.14881,35.53815",
+    "geom:latitude":35.53815,
+    "geom:longitude":74.14881,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Khushlihit",
+    "gn:country_code":"PK",
+    "gn:dem":1963,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172558,
+    "gn:latitude":35.53815,
+    "gn:longitude":74.14881,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Khushlihit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kushlikot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172558
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ef8f794b9f83bec917b59524a85cc384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193012097,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193012097,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193012097,
+    "wof:lastmodified":1537679541,
+    "wof:name":"Khushlihit",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.14881,
+    35.53815,
+    74.14881,
+    35.53815
+],
+  "geometry": {"coordinates":[74.14881,35.53815],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1209801185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.77529,35.47405,74.77529,35.47405",
+    "geom:latitude":35.47405,
+    "geom:longitude":74.77529,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dashkan",
+    "gn:country_code":"PK",
+    "gn:dem":2441,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180444,
+    "gn:latitude":35.47405,
+    "gn:longitude":74.77529,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Dashkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashkin",
+        "Dashkan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180444,
+        "wk:page":"Dashkin"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"720628340f2cf2af4864a040b38fdfc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209801185,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1209801185,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209801185,
+    "wof:lastmodified":1537679820,
+    "wof:name":"Dashkan",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.77529,
+    35.47405,
+    74.77529,
+    35.47405
+],
+  "geometry": {"coordinates":[74.77529,35.47405],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1276584385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.8,29.70278,71.8,29.70278",
+    "geom:latitude":29.70278,
+    "geom:longitude":71.8,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kirkarwala",
+    "gn:country_code":"PK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418269,
+    "gn:latitude":29.70278,
+    "gn:longitude":71.8,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Kirkarwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418269
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"46c93d93963826aa82b761594cc21735",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1276584385,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276584385,
+    "wof:lastmodified":1536940611,
+    "wof:name":"Kirkarwala",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.8,
+    29.70278,
+    71.8,
+    29.70278
+],
+  "geometry": {"coordinates":[71.8,29.70278],"type":"Point"}
+}

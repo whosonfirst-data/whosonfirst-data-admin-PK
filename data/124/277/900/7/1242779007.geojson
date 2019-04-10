@@ -1,0 +1,67 @@
+{
+  "id": 1242779007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92503,33.77509,72.92503,33.77509",
+    "geom:latitude":33.77509,
+    "geom:longitude":72.92503,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kothra",
+    "gn:country_code":"PK",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338306,
+    "gn:latitude":33.77509,
+    "gn:longitude":72.92503,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kothra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338306
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da9bf2abb7666dcbc063d4321c512653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1242779007,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242779007,
+    "wof:lastmodified":1543515589,
+    "wof:name":"Kothra",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92503,
+    33.77509000000001,
+    72.92503,
+    33.77509000000001
+],
+  "geometry": {"coordinates":[72.92503000000001,33.77509000000001],"type":"Point"}
+}

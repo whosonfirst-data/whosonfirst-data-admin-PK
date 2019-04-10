@@ -1,0 +1,67 @@
+{
+  "id": 1209315343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.82814,35.51114,72.82814,35.51114",
+    "geom:latitude":35.51114,
+    "geom:longitude":72.82814,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hirbi",
+    "gn:country_code":"PK",
+    "gn:dem":2421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023894,
+    "gn:latitude":35.51114,
+    "gn:longitude":72.82814,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Hirbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023894
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d5ba6a9dd981e332f64a9e0594954a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209315343,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315343,
+    "wof:lastmodified":1543515549,
+    "wof:name":"Hirbi",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.82814,
+    35.51114000000001,
+    72.82814,
+    35.51114000000001
+],
+  "geometry": {"coordinates":[72.82814,35.51114000000001],"type":"Point"}
+}

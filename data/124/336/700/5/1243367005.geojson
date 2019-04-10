@@ -1,0 +1,67 @@
+{
+  "id": 1243367005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.38524,34.81236,71.38524,34.81236",
+    "geom:latitude":34.81236,
+    "geom:longitude":71.38524,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Irab",
+    "gn:country_code":"PK",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353093,
+    "gn:latitude":34.81236,
+    "gn:longitude":71.38524,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Irab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353093
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f9c8d7c3e280c9524bb7cb7f72a97c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1243367005,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243367005,
+    "wof:lastmodified":1536920745,
+    "wof:name":"Irab",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.38524,
+    34.81236,
+    71.38524,
+    34.81236
+],
+  "geometry": {"coordinates":[71.38524,34.81236],"type":"Point"}
+}

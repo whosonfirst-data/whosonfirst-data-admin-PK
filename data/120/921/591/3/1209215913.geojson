@@ -1,0 +1,72 @@
+{
+  "id": 1209215913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00258,34.13175,73.00258,34.13175",
+    "geom:latitude":34.13175,
+    "geom:longitude":73.00258,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nalki",
+    "gn:country_code":"PK",
+    "gn:dem":578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169465,
+    "gn:latitude":34.13175,
+    "gn:longitude":73.00258,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Nalki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nalaki",
+        "Nalakki",
+        "Nalki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169465
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"766a16dde1092bff06c39ef62e3f8357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209215913,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215913,
+    "wof:lastmodified":1543515550,
+    "wof:name":"Nalki",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00258000000002,
+    34.13175,
+    73.00258000000002,
+    34.13175
+],
+  "geometry": {"coordinates":[73.00258000000002,34.13175],"type":"Point"}
+}

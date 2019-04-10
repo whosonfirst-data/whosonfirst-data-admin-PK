@@ -1,0 +1,64 @@
+{
+  "id": 1209012221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.37287,25.3019,62.37287,25.3019",
+    "geom:latitude":25.3019,
+    "geom:longitude":62.37287,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Dagaro",
+    "gn:country_code":"PK",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175995,
+    "gn:latitude":25.3019,
+    "gn:longitude":62.37287,
+    "gn:modification_date":"2016-06-04",
+    "gn:name":"Dagaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jawar Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175995
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b111d86b649aff220aa47910e343ada9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209012221
+        }
+    ],
+    "wof:id":1209012221,
+    "wof:lastmodified":1537679665,
+    "wof:name":"Dagaro",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.37286999999999,
+    25.3019,
+    62.37286999999999,
+    25.3019
+],
+  "geometry": {"coordinates":[62.37286999999999,25.3019],"type":"Point"}
+}

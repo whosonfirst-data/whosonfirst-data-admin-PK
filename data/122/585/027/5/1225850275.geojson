@@ -1,0 +1,67 @@
+{
+  "id": 1225850275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.88927,32.08341,74.88927,32.08341",
+    "geom:latitude":32.08341,
+    "geom:longitude":74.88927,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Raib",
+    "gn:country_code":"PK",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466338,
+    "gn:latitude":32.08341,
+    "gn:longitude":74.88927,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Raib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466338
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"70112a2f2d89e94eaa0359975078d832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1225850275,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225850275,
+    "wof:lastmodified":1537006385,
+    "wof:name":"Raib",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.88927,
+    32.08341,
+    74.88927,
+    32.08341
+],
+  "geometry": {"coordinates":[74.88927,32.08341],"type":"Point"}
+}

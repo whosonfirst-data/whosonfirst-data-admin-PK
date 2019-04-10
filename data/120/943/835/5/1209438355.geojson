@@ -1,0 +1,64 @@
+{
+  "id": 1209438355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.70205,30.21618,70.70205,30.21618",
+    "geom:latitude":30.21618,
+    "geom:longitude":70.70205,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hotiwala",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505247,
+    "gn:latitude":30.21618,
+    "gn:longitude":70.70205,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Hotiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Hotew\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505247
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"671259cada71854b57879cd6d4945a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209438355
+        }
+    ],
+    "wof:id":1209438355,
+    "wof:lastmodified":1537681955,
+    "wof:name":"Hotiwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.70205,
+    30.21618,
+    70.70205,
+    30.21618
+],
+  "geometry": {"coordinates":[70.70205,30.21618],"type":"Point"}
+}

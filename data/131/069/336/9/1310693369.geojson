@@ -1,0 +1,81 @@
+{
+  "id": 1310693369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49133,34.24571,73.49133,34.24571",
+    "geom:latitude":34.24571,
+    "geom:longitude":73.49133,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Namli Saiyidan",
+    "gn:country_code":"PK",
+    "gn:dem":977,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6311182,
+    "gn:latitude":34.24571,
+    "gn:longitude":73.49133,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Namli Saiyidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "N\u0101mli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6311182
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1ef1dab1744461789a63b63e9a8ed438",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310693369,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1310693369,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310693369,
+    "wof:lastmodified":1537681592,
+    "wof:name":"Namli Saiyidan",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49133,
+    34.24571,
+    73.49133,
+    34.24571
+],
+  "geometry": {"coordinates":[73.49133,34.24571],"type":"Point"}
+}

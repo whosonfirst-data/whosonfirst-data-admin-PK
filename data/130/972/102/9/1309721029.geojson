@@ -1,0 +1,67 @@
+{
+  "id": 1309721029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.68167,32.40167,69.68167,32.40167",
+    "geom:latitude":32.40167,
+    "geom:longitude":69.68167,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Wara",
+    "gn:country_code":"PK",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107438,
+    "gn:latitude":32.40167,
+    "gn:longitude":69.68167,
+    "gn:modification_date":"2005-05-03",
+    "gn:name":"Wara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107438
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4c54ccc72ac279e2dc308165cb78ef6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1309721029,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1309721029,
+    "wof:lastmodified":1537051074,
+    "wof:name":"Wara",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.68167,
+    32.40167,
+    69.68167,
+    32.40167
+],
+  "geometry": {"coordinates":[69.68167,32.40167],"type":"Point"}
+}

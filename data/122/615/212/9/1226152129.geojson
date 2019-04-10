@@ -1,0 +1,67 @@
+{
+  "id": 1226152129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.46479,32.45639,69.46479,32.45639",
+    "geom:latitude":32.45639,
+    "geom:longitude":69.46479,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nasrkar",
+    "gn:country_code":"PK",
+    "gn:dem":1985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9640265,
+    "gn:latitude":32.45639,
+    "gn:longitude":69.46479,
+    "gn:modification_date":"2014-10-04",
+    "gn:name":"Nasrkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9640265
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"84126f9566cbdd34469d43022f097a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1226152129,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226152129,
+    "wof:lastmodified":1537065521,
+    "wof:name":"Nasrkar",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.46479000000001,
+    32.45639,
+    69.46479000000001,
+    32.45639
+],
+  "geometry": {"coordinates":[69.46479000000001,32.45639],"type":"Point"}
+}

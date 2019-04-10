@@ -1,0 +1,67 @@
+{
+  "id": 1343262849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70835,34.78785,72.70835,34.78785",
+    "geom:latitude":34.78785,
+    "geom:longitude":72.70835,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kaglun",
+    "gn:country_code":"PK",
+    "gn:dem":1363,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421097,
+    "gn:latitude":34.78785,
+    "gn:longitude":72.70835,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kaglun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421097
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6a6f5b6a2c00337d0da9d93433d8395e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1343262849,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343262849,
+    "wof:lastmodified":1537030142,
+    "wof:name":"Kaglun",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70835,
+    34.78785,
+    72.70835,
+    34.78785
+],
+  "geometry": {"coordinates":[72.70835,34.78785],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326827225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76756,34.62457,73.76756,34.62457",
+    "geom:latitude":34.62457,
+    "geom:longitude":73.76756,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gurial",
+    "gn:country_code":"PK",
+    "gn:dem":2068,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416088,
+    "gn:latitude":34.62457,
+    "gn:longitude":73.76756,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gurial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416088
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ef3146c4fe921d81c85e790f5da77cb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1326827225,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1326827225,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326827225,
+    "wof:lastmodified":1537053719,
+    "wof:name":"Gurial",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76756,
+    34.62457,
+    73.76756,
+    34.62457
+],
+  "geometry": {"coordinates":[73.76756,34.62457],"type":"Point"}
+}

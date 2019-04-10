@@ -1,0 +1,67 @@
+{
+  "id": 1293199041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76903,25.03959,70.76903,25.03959",
+    "geom:latitude":25.03959,
+    "geom:longitude":70.76903,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Rawatsar",
+    "gn:country_code":"PK",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166981,
+    "gn:latitude":25.03959,
+    "gn:longitude":70.76903,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Rawatsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166981
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f0988e7b946988199ea70b870082d657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1293199041,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293199041,
+    "wof:lastmodified":1536706200,
+    "wof:name":"Rawatsar",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76903,
+    25.03959,
+    70.76903,
+    25.03959
+],
+  "geometry": {"coordinates":[70.76903,25.03959],"type":"Point"}
+}

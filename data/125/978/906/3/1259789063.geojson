@@ -1,0 +1,67 @@
+{
+  "id": 1259789063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.98951,31.51318,70.98951,31.51318",
+    "geom:latitude":31.51318,
+    "geom:longitude":70.98951,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhilmana",
+    "gn:country_code":"PK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182639,
+    "gn:latitude":31.51318,
+    "gn:longitude":70.98951,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Bhilmana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182639
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"174fa6144bfbfaf0ae3328235c34d33c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1259789063,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259789063,
+    "wof:lastmodified":1536915566,
+    "wof:name":"Bhilmana",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.98951,
+    31.51318,
+    70.98951,
+    31.51318
+],
+  "geometry": {"coordinates":[70.98951,31.51318],"type":"Point"}
+}

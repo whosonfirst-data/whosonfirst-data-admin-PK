@@ -1,0 +1,67 @@
+{
+  "id": 1243369033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26878,32.60824,74.26878,32.60824",
+    "geom:latitude":32.60824,
+    "geom:longitude":74.26878,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Laloki",
+    "gn:country_code":"PK",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386768,
+    "gn:latitude":32.60824,
+    "gn:longitude":74.26878,
+    "gn:modification_date":"2001-10-12",
+    "gn:name":"Laloki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386768
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3435ffd7e989963e7405c1010d8ff802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1243369033,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243369033,
+    "wof:lastmodified":1536917708,
+    "wof:name":"Laloki",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26878,
+    32.60824,
+    74.26878,
+    32.60824
+],
+  "geometry": {"coordinates":[74.26878000000001,32.60824],"type":"Point"}
+}

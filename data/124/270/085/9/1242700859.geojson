@@ -1,0 +1,67 @@
+{
+  "id": 1242700859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.27361,32.74306,74.27361,32.74306",
+    "geom:latitude":32.74306,
+    "geom:longitude":74.27361,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Malowal",
+    "gn:country_code":"PK",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386891,
+    "gn:latitude":32.74306,
+    "gn:longitude":74.27361,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Malowal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386891
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22b98de28864c1191ab1a7d42c7b3916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1242700859,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242700859,
+    "wof:lastmodified":1536885765,
+    "wof:name":"Malowal",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.27360999999998,
+    32.74306,
+    74.27360999999998,
+    32.74306
+],
+  "geometry": {"coordinates":[74.27360999999998,32.74306],"type":"Point"}
+}

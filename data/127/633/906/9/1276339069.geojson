@@ -1,0 +1,67 @@
+{
+  "id": 1276339069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48119,25.65278,70.48119,25.65278",
+    "geom:latitude":25.65278,
+    "geom:longitude":70.48119,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sakpal",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11039271,
+    "gn:latitude":25.65278,
+    "gn:longitude":70.48119,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Sakpal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11039271
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc58cb6cf44579cc1a8f72f1b540499b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1276339069,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276339069,
+    "wof:lastmodified":1536771252,
+    "wof:name":"Sakpal",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48119,
+    25.65278,
+    70.48119,
+    25.65278
+],
+  "geometry": {"coordinates":[70.48119,25.65278],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343371341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.5436,27.50851,66.5436,27.50851",
+    "geom:latitude":27.50851,
+    "geom:longitude":66.5436,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sipachik",
+    "gn:country_code":"PK",
+    "gn:dem":1340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234624,
+    "gn:latitude":27.50851,
+    "gn:longitude":66.5436,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Sipachik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234624
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"86ea6474e5cc84885f41a45daedff20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1343371341,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343371341,
+    "wof:lastmodified":1536873767,
+    "wof:name":"Sipachik",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.5436,
+    27.50851,
+    66.5436,
+    27.50851
+],
+  "geometry": {"coordinates":[66.5436,27.50851],"type":"Point"}
+}

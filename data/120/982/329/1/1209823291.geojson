@@ -1,0 +1,70 @@
+{
+  "id": 1209823291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23328,31.02425,69.23328,31.02425",
+    "geom:latitude":31.02425,
+    "geom:longitude":69.23328,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Panchzai",
+    "gn:country_code":"PK",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6305606,
+    "gn:latitude":31.02425,
+    "gn:longitude":69.23328,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Panchzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Panjizai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6305606
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"201135282fa8ec01c24e15098bf5361c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1209823291,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209823291,
+    "wof:lastmodified":1537681588,
+    "wof:name":"Panchzai",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23328000000001,
+    31.02425,
+    69.23328000000001,
+    31.02425
+],
+  "geometry": {"coordinates":[69.23328000000001,31.02425],"type":"Point"}
+}

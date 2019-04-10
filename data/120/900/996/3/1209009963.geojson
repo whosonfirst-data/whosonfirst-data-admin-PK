@@ -1,0 +1,64 @@
+{
+  "id": 1209009963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27716,32.31704,73.27716,32.31704",
+    "geom:latitude":32.31704,
+    "geom:longitude":73.27716,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Buriar",
+    "gn:country_code":"PK",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379954,
+    "gn:latitude":32.31704,
+    "gn:longitude":73.27716,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Buriar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "B\u016bria"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379954
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6c2fd41baf167712236eba4e3d59cf01",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209009963
+        }
+    ],
+    "wof:id":1209009963,
+    "wof:lastmodified":1537680712,
+    "wof:name":"Buriar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27716,
+    32.31704000000001,
+    73.27716,
+    32.31704000000001
+],
+  "geometry": {"coordinates":[73.27715999999999,32.31704000000001],"type":"Point"}
+}

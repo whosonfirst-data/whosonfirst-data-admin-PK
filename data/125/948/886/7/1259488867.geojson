@@ -1,0 +1,67 @@
+{
+  "id": 1259488867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.20661,30.40846,71.20661,30.40846",
+    "geom:latitude":30.40846,
+    "geom:longitude":71.20661,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bablian",
+    "gn:country_code":"PK",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367909,
+    "gn:latitude":30.40846,
+    "gn:longitude":71.20661,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bablian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367909
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"60a2c514b211c01d6bddf111d68862b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1259488867,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259488867,
+    "wof:lastmodified":1536849916,
+    "wof:name":"Bablian",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.20661,
+    30.40846,
+    71.20661,
+    30.40846
+],
+  "geometry": {"coordinates":[71.20661,30.40846],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343763285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21984,34.84854,73.21984,34.84854",
+    "geom:latitude":34.84854,
+    "geom:longitude":73.21984,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Manki",
+    "gn:country_code":"PK",
+    "gn:dem":2801,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418464,
+    "gn:latitude":34.84854,
+    "gn:longitude":73.21984,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Manki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418464
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e1b0432a14b081d047c5ea3ce49ef238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1343763285,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343763285,
+    "wof:lastmodified":1536806625,
+    "wof:name":"Manki",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21984,
+    34.84854,
+    73.21984,
+    34.84854
+],
+  "geometry": {"coordinates":[73.21984,34.84854],"type":"Point"}
+}

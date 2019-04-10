@@ -1,0 +1,67 @@
+{
+  "id": 1360087067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.71565,30.53495,66.71565,30.53495",
+    "geom:latitude":30.53495,
+    "geom:longitude":66.71565,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malezai",
+    "gn:country_code":"PK",
+    "gn:dem":1445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1351397,
+    "gn:latitude":30.53495,
+    "gn:longitude":66.71565,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Malezai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351397
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d04afe566f3d0ef2c4e00ab989088624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1360087067,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360087067,
+    "wof:lastmodified":1536943344,
+    "wof:name":"Malezai",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.71565,
+    30.53495,
+    66.71565,
+    30.53495
+],
+  "geometry": {"coordinates":[66.71565,30.53495],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310325159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.53362,35.40667,74.53362,35.40667",
+    "geom:latitude":35.40667,
+    "geom:longitude":74.53362,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khasto Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":3552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069987,
+    "gn:latitude":35.40667,
+    "gn:longitude":74.53362,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Khasto Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069987
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d3bba5bafb4ec181aaea2e1330432e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310325159,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310325159,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310325159,
+    "wof:lastmodified":1536679612,
+    "wof:name":"Khasto Baihk",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.53362,
+    35.40667,
+    74.53362,
+    35.40667
+],
+  "geometry": {"coordinates":[74.53362,35.40667],"type":"Point"}
+}

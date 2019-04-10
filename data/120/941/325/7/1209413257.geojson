@@ -1,0 +1,64 @@
+{
+  "id": 1209413257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84571,27.57962,67.84571,27.57962",
+    "geom:latitude":27.57962,
+    "geom:longitude":67.84571,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ponar",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352473,
+    "gn:latitude":27.57962,
+    "gn:longitude":67.84571,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Ponar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pohar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352473
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9998f9ce6973febf3aed0cd6b1a177f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209413257
+        }
+    ],
+    "wof:id":1209413257,
+    "wof:lastmodified":1537680295,
+    "wof:name":"Ponar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84571,
+    27.57962,
+    67.84571,
+    27.57962
+],
+  "geometry": {"coordinates":[67.84571,27.57962],"type":"Point"}
+}

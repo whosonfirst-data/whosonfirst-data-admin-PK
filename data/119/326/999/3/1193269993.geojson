@@ -1,0 +1,71 @@
+{
+  "id": 1193269993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61974,33.01378,73.61974,33.01378",
+    "geom:latitude":33.01378,
+    "geom:longitude":73.61974,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Mohal",
+    "gn:country_code":"PK",
+    "gn:dem":273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170145,
+    "gn:latitude":33.01378,
+    "gn:longitude":73.61974,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Mohal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mahal",
+        "Mohal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170145
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b90dedb92eb96d204c18fb3fe175b493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1193269993,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193269993,
+    "wof:lastmodified":1537679458,
+    "wof:name":"Mohal",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61974000000002,
+    33.01378,
+    73.61974000000002,
+    33.01378
+],
+  "geometry": {"coordinates":[73.61974000000002,33.01378],"type":"Point"}
+}

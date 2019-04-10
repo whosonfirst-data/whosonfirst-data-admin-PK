@@ -1,0 +1,71 @@
+{
+  "id": 1209516541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41501,34.88935,72.41501,34.88935",
+    "geom:latitude":34.88935,
+    "geom:longitude":72.41501,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Zangun",
+    "gn:country_code":"PK",
+    "gn:dem":1052,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162204,
+    "gn:latitude":34.88935,
+    "gn:longitude":72.41501,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Zangun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangoon",
+        "Zangun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162204
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"19c89758072c136401e3a755f9c638c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1209516541,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209516541,
+    "wof:lastmodified":1543515761,
+    "wof:name":"Zangun",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41501,
+    34.88935,
+    72.41501,
+    34.88935
+],
+  "geometry": {"coordinates":[72.41501,34.88935],"type":"Point"}
+}

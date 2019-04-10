@@ -1,0 +1,67 @@
+{
+  "id": 1243090705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.48242,30.57477,72.48242,30.57477",
+    "geom:latitude":30.57477,
+    "geom:longitude":72.48242,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Burji",
+    "gn:country_code":"PK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382968,
+    "gn:latitude":30.57477,
+    "gn:longitude":72.48242,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Burji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382968
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d2fc9c9548b90c6c1340f214003afa8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1243090705,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243090705,
+    "wof:lastmodified":1536820443,
+    "wof:name":"Burji",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.48241999999998,
+    30.57477,
+    72.48241999999998,
+    30.57477
+],
+  "geometry": {"coordinates":[72.48241999999998,30.57477],"type":"Point"}
+}

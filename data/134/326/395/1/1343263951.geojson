@@ -1,0 +1,67 @@
+{
+  "id": 1343263951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.67653,26.69113,65.67653,26.69113",
+    "geom:latitude":26.69113,
+    "geom:longitude":65.67653,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Telari",
+    "gn:country_code":"PK",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109033,
+    "gn:latitude":26.69113,
+    "gn:longitude":65.67653,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Telari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109033
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"548001d884408b89af14e999aa647e24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1343263951,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343263951,
+    "wof:lastmodified":1537028630,
+    "wof:name":"Telari",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.67653,
+    26.69113,
+    65.67653,
+    26.69113
+],
+  "geometry": {"coordinates":[65.67653,26.69113],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310708525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.24115,35.34825,73.24115,35.34825",
+    "geom:latitude":35.34825,
+    "geom:longitude":73.24115,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sari",
+    "gn:country_code":"PK",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999928,
+    "gn:latitude":35.34825,
+    "gn:longitude":73.24115,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Sari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999928
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a183b46695de9870bd9dd2ecfdc43fd9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310708525,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310708525,
+    "wof:lastmodified":1536621896,
+    "wof:name":"Sari",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.24115,
+    35.34825,
+    73.24115,
+    35.34825
+],
+  "geometry": {"coordinates":[73.24115,35.34825],"type":"Point"}
+}

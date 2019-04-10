@@ -1,0 +1,67 @@
+{
+  "id": 1293008393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42805,28.49379,68.42805,28.49379",
+    "geom:latitude":28.49379,
+    "geom:longitude":68.42805,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Piyara",
+    "gn:country_code":"PK",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167790,
+    "gn:latitude":28.49379,
+    "gn:longitude":68.42805,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Piyara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167790
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"75945b3d4f17f52e7161d5e9657bf627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692217,
+            "locality_id":1293008393,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293008393,
+    "wof:lastmodified":1536979976,
+    "wof:name":"Piyara",
+    "wof:parent_id":1108692217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42805,
+    28.49379,
+    68.42805,
+    28.49379
+],
+  "geometry": {"coordinates":[68.42805,28.49379],"type":"Point"}
+}

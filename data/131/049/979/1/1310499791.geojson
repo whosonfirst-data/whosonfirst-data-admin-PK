@@ -1,0 +1,67 @@
+{
+  "id": 1310499791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.09735,25.19685,70.09735,25.19685",
+    "geom:latitude":25.19685,
+    "geom:longitude":70.09735,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Garario",
+    "gn:country_code":"PK",
+    "gn:dem":80,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11038937,
+    "gn:latitude":25.19685,
+    "gn:longitude":70.09735,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Garario",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11038937
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"85e0a983911cfe9c51c3da6b66a2897f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1310499791,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310499791,
+    "wof:lastmodified":1536925882,
+    "wof:name":"Garario",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.09735,
+    25.19685,
+    70.09735,
+    25.19685
+],
+  "geometry": {"coordinates":[70.09735000000001,25.19685],"type":"Point"}
+}

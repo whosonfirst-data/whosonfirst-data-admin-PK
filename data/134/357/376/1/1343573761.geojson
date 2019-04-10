@@ -1,0 +1,67 @@
+{
+  "id": 1343573761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42611,31.63278,68.42611,31.63278",
+    "geom:latitude":31.63278,
+    "geom:longitude":68.42611,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Muhammad Karim",
+    "gn:country_code":"PK",
+    "gn:dem":1975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1481688,
+    "gn:latitude":31.63278,
+    "gn:longitude":68.42611,
+    "gn:modification_date":"2005-03-15",
+    "gn:name":"Muhammad Karim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1481688
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa1f5e6423b8e5fe3b92e83a6768ef57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1343573761,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343573761,
+    "wof:lastmodified":1537077116,
+    "wof:name":"Muhammad Karim",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42611,
+    31.63278,
+    68.42611,
+    31.63278
+],
+  "geometry": {"coordinates":[68.42610999999999,31.63278],"type":"Point"}
+}

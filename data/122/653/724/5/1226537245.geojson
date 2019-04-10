@@ -1,0 +1,81 @@
+{
+  "id": 1226537245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54368,34.48731,73.54368,34.48731",
+    "geom:latitude":34.48731,
+    "geom:longitude":73.54368,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pehalian",
+    "gn:country_code":"PK",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385461,
+    "gn:latitude":34.48731,
+    "gn:longitude":73.54368,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pehalian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pih\u0101li\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385461
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c032d06bbc9f58f7227b8c43fd3c10f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226537245,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226537245,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226537245,
+    "wof:lastmodified":1537680840,
+    "wof:name":"Pehalian",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54368000000002,
+    34.48731,
+    73.54368000000002,
+    34.48731
+],
+  "geometry": {"coordinates":[73.54368000000002,34.48731],"type":"Point"}
+}

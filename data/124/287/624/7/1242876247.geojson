@@ -1,0 +1,67 @@
+{
+  "id": 1242876247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.15045,28.90356,66.15045,28.90356",
+    "geom:latitude":28.90356,
+    "geom:longitude":66.15045,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pahrod",
+    "gn:country_code":"PK",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8304970,
+    "gn:latitude":28.90356,
+    "gn:longitude":66.15045,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Pahrod",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8304970
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a45db6a64e178b5eb1d6f5d992c3cae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1242876247,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242876247,
+    "wof:lastmodified":1536632033,
+    "wof:name":"Pahrod",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.15045,
+    28.90356,
+    66.15045,
+    28.90356
+],
+  "geometry": {"coordinates":[66.15045000000001,28.90356],"type":"Point"}
+}

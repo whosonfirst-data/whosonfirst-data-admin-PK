@@ -1,0 +1,78 @@
+{
+  "id": 1343756785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.51418,34.2083,73.51418,34.2083",
+    "geom:latitude":34.2083,
+    "geom:longitude":73.51418,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jabbian",
+    "gn:country_code":"PK",
+    "gn:dem":973,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379114,
+    "gn:latitude":34.2083,
+    "gn:longitude":73.51418,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jabbian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379114
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8b3d4a05b98883f53b44670bd05b7fa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1343756785,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1343756785,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343756785,
+    "wof:lastmodified":1536815505,
+    "wof:name":"Jabbian",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.51418000000002,
+    34.2083,
+    73.51418000000002,
+    34.2083
+],
+  "geometry": {"coordinates":[73.51418000000002,34.2083],"type":"Point"}
+}

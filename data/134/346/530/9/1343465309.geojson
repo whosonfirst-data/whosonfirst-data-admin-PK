@@ -1,0 +1,67 @@
+{
+  "id": 1343465309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.2537,34.58416,73.2537,34.58416",
+    "geom:latitude":34.58416,
+    "geom:longitude":73.2537,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Pajega",
+    "gn:country_code":"PK",
+    "gn:dem":1268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406641,
+    "gn:latitude":34.58416,
+    "gn:longitude":73.2537,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pajega",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406641
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc67d344313bea647926c1512c244854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1343465309,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343465309,
+    "wof:lastmodified":1536738965,
+    "wof:name":"Pajega",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.2537,
+    34.58416,
+    73.2537,
+    34.58416
+],
+  "geometry": {"coordinates":[73.25369999999999,34.58416],"type":"Point"}
+}

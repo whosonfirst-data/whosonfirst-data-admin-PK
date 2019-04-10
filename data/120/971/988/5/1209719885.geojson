@@ -1,0 +1,67 @@
+{
+  "id": 1209719885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.65363,27.00866,67.65363,27.00866",
+    "geom:latitude":27.00866,
+    "geom:longitude":67.65363,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Tharae",
+    "gn:country_code":"PK",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1350354,
+    "gn:latitude":27.00866,
+    "gn:longitude":67.65363,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Tharae",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1350354
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c5602cf76f379e1f47f2d9651c14acf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692159,
+            "locality_id":1209719885,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209719885,
+    "wof:lastmodified":1536386860,
+    "wof:name":"Tharae",
+    "wof:parent_id":1108692159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.65363,
+    27.00866,
+    67.65363,
+    27.00866
+],
+  "geometry": {"coordinates":[67.65363000000001,27.00866],"type":"Point"}
+}

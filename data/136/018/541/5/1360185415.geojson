@@ -1,0 +1,73 @@
+{
+  "id": 1360185415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.67218,32.95021,70.67218,32.95021",
+    "geom:latitude":32.95021,
+    "geom:longitude":70.67218,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotka Azmat Khel",
+    "gn:country_code":"PK",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332785,
+    "gn:latitude":32.95021,
+    "gn:longitude":70.67218,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kotka Azmat Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotka Targul Kh\u0101n",
+        "Kotkai Targul Kh\u0101n",
+        "Kotka Azmat Khel",
+        "Kotkai Azmat Khel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332785
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b30a0967d307a0bffecccec8751f3376",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1360185415,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360185415,
+    "wof:lastmodified":1543515298,
+    "wof:name":"Kotka Azmat Khel",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.67218000000003,
+    32.95021,
+    70.67218000000003,
+    32.95021
+],
+  "geometry": {"coordinates":[70.67218000000003,32.95021],"type":"Point"}
+}

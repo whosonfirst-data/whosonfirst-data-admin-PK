@@ -1,0 +1,67 @@
+{
+  "id": 1344257957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07861,35.39857,73.07861,35.39857",
+    "geom:latitude":35.39857,
+    "geom:longitude":73.07861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karango",
+    "gn:country_code":"PK",
+    "gn:dem":2173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999916,
+    "gn:latitude":35.39857,
+    "gn:longitude":73.07861,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Karango",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999916
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0ddc548ed70255ca89e5ee710016c81b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1344257957,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344257957,
+    "wof:lastmodified":1537084625,
+    "wof:name":"Karango",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07861,
+    35.39857,
+    73.07861,
+    35.39857
+],
+  "geometry": {"coordinates":[73.07861,35.39857],"type":"Point"}
+}

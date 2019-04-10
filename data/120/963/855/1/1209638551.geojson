@@ -1,0 +1,64 @@
+{
+  "id": 1209638551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.79736,31.25425,73.79736,31.25425",
+    "geom:latitude":31.25425,
+    "geom:longitude":73.79736,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thatta Miran",
+    "gn:country_code":"PK",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388338,
+    "gn:latitude":31.25425,
+    "gn:longitude":73.79736,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thatta Miran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thatta Mehr\u0101nda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388338
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"907713ffd93ea57cbdff28eec2f8c95f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638551
+        }
+    ],
+    "wof:id":1209638551,
+    "wof:lastmodified":1537680912,
+    "wof:name":"Thatta Miran",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.79736,
+    31.25425,
+    73.79736,
+    31.25425
+],
+  "geometry": {"coordinates":[73.79736,31.25425],"type":"Point"}
+}

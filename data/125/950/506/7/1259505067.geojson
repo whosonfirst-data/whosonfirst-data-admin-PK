@@ -1,0 +1,82 @@
+{
+  "id": 1259505067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.00678,33.88959,74.00678,33.88959",
+    "geom:latitude":33.88959,
+    "geom:longitude":74.00678,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Budhal",
+    "gn:country_code":"PK",
+    "gn:dem":1748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414820,
+    "gn:latitude":33.88959,
+    "gn:longitude":74.00678,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Budhal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Badhaf",
+        "Badh\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414820
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4bb552f35ac8a15361b884886b4075b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1259505067,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1259505067,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259505067,
+    "wof:lastmodified":1537681347,
+    "wof:name":"Budhal",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.00678,
+    33.88959000000001,
+    74.00678,
+    33.88959000000001
+],
+  "geometry": {"coordinates":[74.00678000000001,33.88959000000001],"type":"Point"}
+}

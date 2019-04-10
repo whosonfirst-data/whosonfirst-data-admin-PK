@@ -1,0 +1,78 @@
+{
+  "id": 1326816085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.39638,35.79594,75.39638,35.79594",
+    "geom:latitude":35.79594,
+    "geom:longitude":75.39638,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Doko",
+    "gn:country_code":"PK",
+    "gn:dem":2606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179663,
+    "gn:latitude":35.79594,
+    "gn:longitude":75.39638,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Doko",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179663
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c84bd2cd478419d060e9d7433163f27e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1326816085,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1326816085,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326816085,
+    "wof:lastmodified":1537069075,
+    "wof:name":"Doko",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.39638000000002,
+    35.79594,
+    75.39638000000002,
+    35.79594
+],
+  "geometry": {"coordinates":[75.39638000000002,35.79594],"type":"Point"}
+}

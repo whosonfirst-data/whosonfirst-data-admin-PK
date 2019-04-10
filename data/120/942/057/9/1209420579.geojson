@@ -1,0 +1,66 @@
+{
+  "id": 1209420579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.06667,30.65,72.06667,30.65",
+    "geom:latitude":30.65,
+    "geom:longitude":72.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sheikhpura",
+    "gn:country_code":"PK",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165238,
+    "gn:latitude":30.65,
+    "gn:longitude":72.06667,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Sheikhpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shekh\u016bpura",
+        "Sheikhpura",
+        "Sheik\u016bpura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165238
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"782f49e19bdccd4fed3b6d1582b1b959",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209420579
+        }
+    ],
+    "wof:id":1209420579,
+    "wof:lastmodified":1537679282,
+    "wof:name":"Sheikhpura",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.06667,
+    30.65,
+    72.06667,
+    30.65
+],
+  "geometry": {"coordinates":[72.06667,30.65],"type":"Point"}
+}

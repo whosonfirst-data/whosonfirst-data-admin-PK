@@ -1,0 +1,89 @@
+{
+  "id": 1259873357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6688,36.26654,73.6688,36.26654",
+    "geom:latitude":36.26654,
+    "geom:longitude":73.6688,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jaj Bargu",
+    "gn:country_code":"PK",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176411,
+    "gn:latitude":36.26654,
+    "gn:longitude":73.6688,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Jaj Bargu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaj B\u0101rgu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176411
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"44d97e689224f6d8181f08089ad5daf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1259873357,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1259873357,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1259873357,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259873357,
+    "wof:lastmodified":1537679680,
+    "wof:name":"Jaj Bargu",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6688,
+    36.26654,
+    73.6688,
+    36.26654
+],
+  "geometry": {"coordinates":[73.6688,36.26654],"type":"Point"}
+}

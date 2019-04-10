@@ -1,0 +1,67 @@
+{
+  "id": 1327141145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46983,36.86302,73.46983,36.86302",
+    "geom:latitude":36.86302,
+    "geom:longitude":73.46983,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Lashkar Gahz",
+    "gn:country_code":"PK",
+    "gn:dem":3681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11040589,
+    "gn:latitude":36.86302,
+    "gn:longitude":73.46983,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Lashkar Gahz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11040589
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8ff4f931d3237e3767c323b46244f04e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1327141145,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327141145,
+    "wof:lastmodified":1536600218,
+    "wof:name":"Lashkar Gahz",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46983,
+    36.86302,
+    73.46983,
+    36.86302
+],
+  "geometry": {"coordinates":[73.46983,36.86302],"type":"Point"}
+}

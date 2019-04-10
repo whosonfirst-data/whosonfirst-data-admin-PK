@@ -1,0 +1,67 @@
+{
+  "id": 1226646885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.75825,35.43654,71.75825,35.43654",
+    "geom:latitude":35.43654,
+    "geom:longitude":71.75825,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotgah",
+    "gn:country_code":"PK",
+    "gn:dem":1725,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138006,
+    "gn:latitude":35.43654,
+    "gn:longitude":71.75825,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Kotgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138006
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b075f41b15d4bb2326c0147e37a94c7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1226646885,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226646885,
+    "wof:lastmodified":1536856534,
+    "wof:name":"Kotgah",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.75825,
+    35.43654,
+    71.75825,
+    35.43654
+],
+  "geometry": {"coordinates":[71.75825,35.43654],"type":"Point"}
+}

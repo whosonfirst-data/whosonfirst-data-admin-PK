@@ -1,0 +1,67 @@
+{
+  "id": 1343981177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.20903,32.36414,75.20903,32.36414",
+    "geom:latitude":32.36414,
+    "geom:longitude":75.20903,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sangran",
+    "gn:country_code":"PK",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081324,
+    "gn:latitude":32.36414,
+    "gn:longitude":75.20903,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sangran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081324
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57e6f883789006127dfa16d23a66c134",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1343981177,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343981177,
+    "wof:lastmodified":1536989286,
+    "wof:name":"Sangran",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.20903,
+    32.36414,
+    75.20903,
+    32.36414
+],
+  "geometry": {"coordinates":[75.20903,32.36414],"type":"Point"}
+}

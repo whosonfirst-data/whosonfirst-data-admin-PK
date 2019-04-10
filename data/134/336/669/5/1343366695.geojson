@@ -1,0 +1,67 @@
+{
+  "id": 1343366695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.80315,27.74308,64.80315,27.74308",
+    "geom:latitude":27.74308,
+    "geom:longitude":64.80315,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bhangar",
+    "gn:country_code":"PK",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11223703,
+    "gn:latitude":27.74308,
+    "gn:longitude":64.80315,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Bhangar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11223703
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"954e395dfd4b552194ba19512f2b8cd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1343366695,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343366695,
+    "wof:lastmodified":1536880702,
+    "wof:name":"Bhangar",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.80315,
+    27.74308,
+    64.80315,
+    27.74308
+],
+  "geometry": {"coordinates":[64.80315,27.74308],"type":"Point"}
+}

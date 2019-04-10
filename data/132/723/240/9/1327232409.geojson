@@ -1,0 +1,67 @@
+{
+  "id": 1327232409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13203,35.61502,73.13203,35.61502",
+    "geom:latitude":35.61502,
+    "geom:longitude":73.13203,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jabbri",
+    "gn:country_code":"PK",
+    "gn:dem":3097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000395,
+    "gn:latitude":35.61502,
+    "gn:longitude":73.13203,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Jabbri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97a084a7071d5e8b742e54843e690738",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1327232409,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327232409,
+    "wof:lastmodified":1536969268,
+    "wof:name":"Jabbri",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13203,
+    35.61502,
+    73.13203,
+    35.61502
+],
+  "geometry": {"coordinates":[73.13203,35.61502],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360291115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.24721,32.94419,71.24721,32.94419",
+    "geom:latitude":32.94419,
+    "geom:longitude":71.24721,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shamalwala",
+    "gn:country_code":"PK",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109891,
+    "gn:latitude":32.94419,
+    "gn:longitude":71.24721,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Shamalwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109891
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"385af2015219b15ba0bdd83d002a243c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1360291115,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360291115,
+    "wof:lastmodified":1536648011,
+    "wof:name":"Shamalwala",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.24721,
+    32.94419,
+    71.24721,
+    32.94419
+],
+  "geometry": {"coordinates":[71.24721,32.94419],"type":"Point"}
+}

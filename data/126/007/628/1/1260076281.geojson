@@ -1,0 +1,78 @@
+{
+  "id": 1260076281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.4453,35.42082,75.4453,35.42082",
+    "geom:latitude":35.42082,
+    "geom:longitude":75.4453,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dumbar",
+    "gn:country_code":"PK",
+    "gn:dem":2455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070867,
+    "gn:latitude":35.42082,
+    "gn:longitude":75.4453,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Dumbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070867
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d847ea8320718d1dd7b3b948d1cfa5cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260076281,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260076281,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260076281,
+    "wof:lastmodified":1536997693,
+    "wof:name":"Dumbar",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.4453,
+    35.42082,
+    75.4453,
+    35.42082
+],
+  "geometry": {"coordinates":[75.4453,35.42082],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242976071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.12296,32.22972,75.12296,32.22972",
+    "geom:latitude":32.22972,
+    "geom:longitude":75.12296,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kasraj",
+    "gn:country_code":"PK",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174636,
+    "gn:latitude":32.22972,
+    "gn:longitude":75.12296,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kasraj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174636
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a0b5f9b81c581f6043472ffe97a4a021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1242976071,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242976071,
+    "wof:lastmodified":1536985831,
+    "wof:name":"Kasraj",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.12295999999998,
+    32.22972,
+    75.12295999999998,
+    32.22972
+],
+  "geometry": {"coordinates":[75.12295999999998,32.22972],"type":"Point"}
+}

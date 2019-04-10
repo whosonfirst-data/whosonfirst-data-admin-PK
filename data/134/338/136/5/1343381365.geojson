@@ -1,0 +1,78 @@
+{
+  "id": 1343381365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.58122,35.8701,74.58122,35.8701",
+    "geom:latitude":35.8701,
+    "geom:longitude":74.58122,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Batkor",
+    "gn:country_code":"PK",
+    "gn:dem":2462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423514,
+    "gn:latitude":35.8701,
+    "gn:longitude":74.58122,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Batkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423514
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5aa82b67b7336ed205b8b923d346f840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1343381365,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1343381365,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343381365,
+    "wof:lastmodified":1536859042,
+    "wof:name":"Batkor",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.58122,
+    35.8701,
+    74.58122,
+    35.8701
+],
+  "geometry": {"coordinates":[74.58122,35.8701],"type":"Point"}
+}

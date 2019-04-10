@@ -1,0 +1,67 @@
+{
+  "id": 1243365731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53896,26.35156,66.53896,26.35156",
+    "geom:latitude":26.35156,
+    "geom:longitude":66.53896,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Muso",
+    "gn:country_code":"PK",
+    "gn:dem":484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11253638,
+    "gn:latitude":26.35156,
+    "gn:longitude":66.53896,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Muso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11253638
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c7898f96c802b65434b1ebb39a1ac6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1243365731,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243365731,
+    "wof:lastmodified":1536922635,
+    "wof:name":"Muso",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53896,
+    26.35156,
+    66.53896,
+    26.35156
+],
+  "geometry": {"coordinates":[66.53896,26.35156],"type":"Point"}
+}

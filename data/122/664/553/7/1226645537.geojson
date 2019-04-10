@@ -1,0 +1,67 @@
+{
+  "id": 1226645537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47239,32.22808,72.47239,32.22808",
+    "geom:latitude":32.22808,
+    "geom:longitude":72.47239,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aminabad",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184545,
+    "gn:latitude":32.22808,
+    "gn:longitude":72.47239,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Aminabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184545
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cbe79ef4b54e6befbbcb3a2d2f2db1b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1226645537,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226645537,
+    "wof:lastmodified":1536858424,
+    "wof:name":"Aminabad",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47239,
+    32.22808,
+    72.47239,
+    32.22808
+],
+  "geometry": {"coordinates":[72.47239,32.22808],"type":"Point"}
+}

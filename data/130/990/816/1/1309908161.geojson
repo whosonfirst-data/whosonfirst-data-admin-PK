@@ -1,0 +1,67 @@
+{
+  "id": 1309908161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.48808,29.6076,67.48808,29.6076",
+    "geom:latitude":29.6076,
+    "geom:longitude":67.48808,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kirta",
+    "gn:country_code":"PK",
+    "gn:dem":326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173555,
+    "gn:latitude":29.6076,
+    "gn:longitude":67.48808,
+    "gn:modification_date":"2018-06-08",
+    "gn:name":"Kirta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173555
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6331af93ee1a9b9596f5a7831c04d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1309908161,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309908161,
+    "wof:lastmodified":1536784023,
+    "wof:name":"Kirta",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.48808000000001,
+    29.6076,
+    67.48808000000001,
+    29.6076
+],
+  "geometry": {"coordinates":[67.48808000000001,29.6076],"type":"Point"}
+}

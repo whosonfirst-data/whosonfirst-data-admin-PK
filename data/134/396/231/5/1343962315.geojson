@@ -1,0 +1,67 @@
+{
+  "id": 1343962315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.47303,24.11487,67.47303,24.11487",
+    "geom:latitude":24.11487,
+    "geom:longitude":67.47303,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Musa Gado",
+    "gn:country_code":"PK",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1108618,
+    "gn:latitude":24.11487,
+    "gn:longitude":67.47303,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Musa Gado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1108618
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"929ad862618b593b2f7ddc195fa05c11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692411,
+            "locality_id":1343962315,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343962315,
+    "wof:lastmodified":1537016537,
+    "wof:name":"Musa Gado",
+    "wof:parent_id":1108692411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.47303000000001,
+    24.11487,
+    67.47303000000001,
+    24.11487
+],
+  "geometry": {"coordinates":[67.47303000000001,24.11487],"type":"Point"}
+}

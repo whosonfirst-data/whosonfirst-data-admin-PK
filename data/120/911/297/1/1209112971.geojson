@@ -1,0 +1,68 @@
+{
+  "id": 1209112971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07489,32.75386,71.07489,32.75386",
+    "geom:latitude":32.75386,
+    "geom:longitude":71.07489,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Samandi",
+    "gn:country_code":"PK",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334673,
+    "gn:latitude":32.75386,
+    "gn:longitude":71.07489,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Samandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334673,
+        "wk:page":"Samandi"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"225e074968c818d750930287d37426ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1209112971,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209112971,
+    "wof:lastmodified":1543515464,
+    "wof:name":"Samandi",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07489,
+    32.75386,
+    71.07489,
+    32.75386
+],
+  "geometry": {"coordinates":[71.07489,32.75386],"type":"Point"}
+}

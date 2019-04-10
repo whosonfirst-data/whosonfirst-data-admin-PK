@@ -1,0 +1,67 @@
+{
+  "id": 1326737099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.45,34.76742,73.45,34.76742",
+    "geom:latitude":34.76742,
+    "geom:longitude":73.45,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lunda",
+    "gn:country_code":"PK",
+    "gn:dem":3022,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390385,
+    "gn:latitude":34.76742,
+    "gn:longitude":73.45,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Lunda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390385
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"26763ea66518d92bf00b15a34c17f903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1326737099,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1326737099,
+    "wof:lastmodified":1536688742,
+    "wof:name":"Lunda",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.45,
+    34.76742,
+    73.45,
+    34.76742
+],
+  "geometry": {"coordinates":[73.45,34.76742],"type":"Point"}
+}

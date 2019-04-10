@@ -1,0 +1,78 @@
+{
+  "id": 1242797915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.84046,35.04401,74.84046,35.04401",
+    "geom:latitude":35.04401,
+    "geom:longitude":74.84046,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Darle Bala",
+    "gn:country_code":"PK",
+    "gn:dem":2833,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423867,
+    "gn:latitude":35.04401,
+    "gn:longitude":74.84046,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Darle Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423867
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b638539a46da65c928d25bd50144b901",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242797915,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242797915,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242797915,
+    "wof:lastmodified":1536746090,
+    "wof:name":"Darle Bala",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.84046,
+    35.04401,
+    74.84046,
+    35.04401
+],
+  "geometry": {"coordinates":[74.84045999999999,35.04401],"type":"Point"}
+}

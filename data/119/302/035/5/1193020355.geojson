@@ -1,0 +1,73 @@
+{
+  "id": 1193020355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.15108,27.71756,68.15108,27.71756",
+    "geom:latitude":27.71756,
+    "geom:longitude":68.15108,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Mehbub Jo Bungalow",
+    "gn:country_code":"PK",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171599,
+    "gn:latitude":27.71756,
+    "gn:longitude":68.15108,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Mehbub Jo Bungalow",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mehboob",
+        "Bungalow Mehbub S\u0101ngi",
+        "Mahb\u016bb Bungalow",
+        "Mehbub Jo Bungalow"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171599
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e0a22710365f10bf6a838a885acaaa5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1193020355,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193020355,
+    "wof:lastmodified":1537679509,
+    "wof:name":"Mehbub Jo Bungalow",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.15108000000001,
+    27.71756,
+    68.15108000000001,
+    27.71756
+],
+  "geometry": {"coordinates":[68.15108000000001,27.71756],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360184249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26425,32.81339,74.26425,32.81339",
+    "geom:latitude":32.81339,
+    "geom:longitude":74.26425,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kalas",
+    "gn:country_code":"PK",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413324,
+    "gn:latitude":32.81339,
+    "gn:longitude":74.26425,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kalas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413324
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"62cd235f314f0f7097b43758b7a9d902",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1360184249,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360184249,
+    "wof:lastmodified":1536802582,
+    "wof:name":"Kalas",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26425,
+    32.81339000000001,
+    74.26425,
+    32.81339000000001
+],
+  "geometry": {"coordinates":[74.26425,32.81339000000001],"type":"Point"}
+}

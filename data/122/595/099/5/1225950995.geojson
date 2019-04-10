@@ -1,0 +1,67 @@
+{
+  "id": 1225950995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07558,34.60399,72.07558,34.60399",
+    "geom:latitude":34.60399,
+    "geom:longitude":72.07558,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Charrat",
+    "gn:country_code":"PK",
+    "gn:dem":822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11409950,
+    "gn:latitude":34.60399,
+    "gn:longitude":72.07558,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Charrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11409950
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d90d8b514f9d30e10fcefa601e7ed2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692291,
+            "locality_id":1225950995,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225950995,
+    "wof:lastmodified":1543515606,
+    "wof:name":"Charrat",
+    "wof:parent_id":1108692291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07558,
+    34.60399,
+    72.07558,
+    34.60399
+],
+  "geometry": {"coordinates":[72.07558,34.60399],"type":"Point"}
+}

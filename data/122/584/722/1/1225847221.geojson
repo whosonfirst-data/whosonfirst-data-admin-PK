@@ -1,0 +1,67 @@
+{
+  "id": 1225847221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16229,27.73973,67.16229,27.73973",
+    "geom:latitude":27.73973,
+    "geom:longitude":67.16229,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chhutto",
+    "gn:country_code":"PK",
+    "gn:dem":791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256708,
+    "gn:latitude":27.73973,
+    "gn:longitude":67.16229,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Chhutto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256708
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ffbe22e1f63577854b927742362cac51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1225847221,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1225847221,
+    "wof:lastmodified":1537010834,
+    "wof:name":"Chhutto",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16229,
+    27.73973,
+    67.16229,
+    27.73973
+],
+  "geometry": {"coordinates":[67.16229,27.73973],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293412775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.25913,32.47226,74.25913,32.47226",
+    "geom:latitude":32.47226,
+    "geom:longitude":74.25913,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kopra Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11473880,
+    "gn:latitude":32.47226,
+    "gn:longitude":74.25913,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Kopra Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11473880
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af22cf257047db68af63a1b70ab5feb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1293412775,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293412775,
+    "wof:lastmodified":1536894537,
+    "wof:name":"Kopra Khurd",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.25913,
+    32.47226,
+    74.25913,
+    32.47226
+],
+  "geometry": {"coordinates":[74.25913,32.47226],"type":"Point"}
+}

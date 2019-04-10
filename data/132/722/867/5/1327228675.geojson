@@ -1,0 +1,67 @@
+{
+  "id": 1327228675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91468,33.02103,73.91468,33.02103",
+    "geom:latitude":33.02103,
+    "geom:longitude":73.91468,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Panjeri",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168458,
+    "gn:latitude":33.02103,
+    "gn:longitude":73.91468,
+    "gn:modification_date":"2011-05-07",
+    "gn:name":"Panjeri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168458
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"886763c6564f4d9ed13acc5780429087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1327228675,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327228675,
+    "wof:lastmodified":1536974529,
+    "wof:name":"Panjeri",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91468,
+    33.02103,
+    73.91468,
+    33.02103
+],
+  "geometry": {"coordinates":[73.91468,33.02103],"type":"Point"}
+}

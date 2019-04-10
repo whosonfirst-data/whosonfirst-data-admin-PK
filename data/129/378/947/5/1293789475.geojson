@@ -1,0 +1,70 @@
+{
+  "id": 1293789475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1268,29.64031,70.1268,29.64031",
+    "geom:latitude":29.64031,
+    "geom:longitude":70.1268,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thai",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1408014,
+    "gn:latitude":29.64031,
+    "gn:longitude":70.1268,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Thai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tulhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1408014
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0a925ba8f0831c0f5f5e39409b4ba8dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1293789475,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293789475,
+    "wof:lastmodified":1537681214,
+    "wof:name":"Thai",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1268,
+    29.64031,
+    70.1268,
+    29.64031
+],
+  "geometry": {"coordinates":[70.1268,29.64031],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293092983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7605,33.50489,73.7605,33.50489",
+    "geom:latitude":33.50489,
+    "geom:longitude":73.7605,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pihai",
+    "gn:country_code":"PK",
+    "gn:dem":681,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413651,
+    "gn:latitude":33.50489,
+    "gn:longitude":73.7605,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Pihai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413651
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d01e71e995d7f7f66ba4c05e58a138f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293092983,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1293092983,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293092983,
+    "wof:lastmodified":1536857573,
+    "wof:name":"Pihai",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7605,
+    33.50489,
+    73.7605,
+    33.50489
+],
+  "geometry": {"coordinates":[73.76049999999999,33.50489],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276224495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63661,34.26873,73.63661,34.26873",
+    "geom:latitude":34.26873,
+    "geom:longitude":73.63661,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Langali",
+    "gn:country_code":"PK",
+    "gn:dem":2000,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385838,
+    "gn:latitude":34.26873,
+    "gn:longitude":73.63661,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Langali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Logali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385838
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e5ff4c042fbe6518b7e5184c048856f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1276224495,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1276224495,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276224495,
+    "wof:lastmodified":1537680847,
+    "wof:name":"Langali",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63661,
+    34.26873,
+    73.63661,
+    34.26873
+],
+  "geometry": {"coordinates":[73.63661,34.26873],"type":"Point"}
+}

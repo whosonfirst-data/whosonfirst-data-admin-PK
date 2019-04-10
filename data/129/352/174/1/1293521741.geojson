@@ -1,0 +1,67 @@
+{
+  "id": 1293521741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.47269,30.06322,71.47269,30.06322",
+    "geom:latitude":30.06322,
+    "geom:longitude":71.47269,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sheikhanwala",
+    "gn:country_code":"PK",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348965,
+    "gn:latitude":30.06322,
+    "gn:longitude":71.47269,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sheikhanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348965
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c86276bbf2274396a42e80377fca68da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1293521741,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293521741,
+    "wof:lastmodified":1536737653,
+    "wof:name":"Sheikhanwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.47269,
+    30.06322,
+    71.47269,
+    30.06322
+],
+  "geometry": {"coordinates":[71.47269,30.06322],"type":"Point"}
+}

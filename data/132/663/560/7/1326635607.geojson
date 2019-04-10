@@ -1,0 +1,67 @@
+{
+  "id": 1326635607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06311,30.83386,71.06311,30.83386",
+    "geom:latitude":30.83386,
+    "geom:longitude":71.06311,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dukar",
+    "gn:country_code":"PK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7323954,
+    "gn:latitude":30.83386,
+    "gn:longitude":71.06311,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Dukar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7323954
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ca03479ff9df1b727dc6f4341441d016",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1326635607,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326635607,
+    "wof:lastmodified":1536833862,
+    "wof:name":"Dukar",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06311,
+    30.83386,
+    71.06311,
+    30.83386
+],
+  "geometry": {"coordinates":[71.06310999999999,30.83386],"type":"Point"}
+}

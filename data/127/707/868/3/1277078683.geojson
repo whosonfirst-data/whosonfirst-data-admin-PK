@@ -1,0 +1,67 @@
+{
+  "id": 1277078683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.62708,24.83706,68.62708,24.83706",
+    "geom:latitude":24.83706,
+    "geom:longitude":68.62708,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khatbar",
+    "gn:country_code":"PK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11600112,
+    "gn:latitude":24.83706,
+    "gn:longitude":68.62708,
+    "gn:modification_date":"2017-07-06",
+    "gn:name":"Khatbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11600112
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3fe4d7632878da4e9c0360ba67576c56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1277078683,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1277078683,
+    "wof:lastmodified":1536774079,
+    "wof:name":"Khatbar",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.62708,
+    24.83706,
+    68.62708,
+    24.83706
+],
+  "geometry": {"coordinates":[68.62708000000001,24.83706],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276680055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.66019,34.31485,73.66019,34.31485",
+    "geom:latitude":34.31485,
+    "geom:longitude":73.66019,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dakhan",
+    "gn:country_code":"PK",
+    "gn:dem":2158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385853,
+    "gn:latitude":34.31485,
+    "gn:longitude":73.66019,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dakhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385853
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fa3f7bf7633e03018f0286c0e29e98a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1276680055,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1276680055,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276680055,
+    "wof:lastmodified":1536810700,
+    "wof:name":"Dakhan",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.66019,
+    34.31485,
+    73.66019,
+    34.31485
+],
+  "geometry": {"coordinates":[73.66019,34.31485],"type":"Point"}
+}

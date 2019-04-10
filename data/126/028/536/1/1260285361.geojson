@@ -1,0 +1,67 @@
+{
+  "id": 1260285361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.05316,35.10722,73.05316,35.10722",
+    "geom:latitude":35.10722,
+    "geom:longitude":73.05316,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sarkhar",
+    "gn:country_code":"PK",
+    "gn:dem":1663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045557,
+    "gn:latitude":35.10722,
+    "gn:longitude":73.05316,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Sarkhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045557
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9559b1ab3ca60a8eb038ef937cf27846",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1260285361,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260285361,
+    "wof:lastmodified":1536709727,
+    "wof:name":"Sarkhar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.05315999999998,
+    35.10722,
+    73.05315999999998,
+    35.10722
+],
+  "geometry": {"coordinates":[73.05315999999998,35.10722],"type":"Point"}
+}

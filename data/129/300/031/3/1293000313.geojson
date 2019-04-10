@@ -1,0 +1,67 @@
+{
+  "id": 1293000313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.10613,28.4858,70.10613,28.4858",
+    "geom:latitude":28.4858,
+    "geom:longitude":70.10613,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Akbarabad",
+    "gn:country_code":"PK",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355027,
+    "gn:latitude":28.4858,
+    "gn:longitude":70.10613,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Akbarabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355027
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c6e80b1afddef64fd316fc36ed54c580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1293000313,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293000313,
+    "wof:lastmodified":1536991552,
+    "wof:name":"Akbarabad",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.10613000000001,
+    28.4858,
+    70.10613000000001,
+    28.4858
+],
+  "geometry": {"coordinates":[70.10613000000001,28.4858],"type":"Point"}
+}

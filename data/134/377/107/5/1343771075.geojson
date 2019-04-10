@@ -1,0 +1,67 @@
+{
+  "id": 1343771075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05835,32.65169,70.05835,32.65169",
+    "geom:latitude":32.65169,
+    "geom:longitude":70.05835,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Zhawar",
+    "gn:country_code":"PK",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1340299,
+    "gn:latitude":32.65169,
+    "gn:longitude":70.05835,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Zhawar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340299
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6835e0a0753caacb590565c16dbf8ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1343771075,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343771075,
+    "wof:lastmodified":1536795779,
+    "wof:name":"Zhawar",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05835,
+    32.65169,
+    70.05835,
+    32.65169
+],
+  "geometry": {"coordinates":[70.05835,32.65169],"type":"Point"}
+}

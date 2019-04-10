@@ -1,0 +1,67 @@
+{
+  "id": 1193015569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.82011,29.43313,70.82011,29.43313",
+    "geom:latitude":29.43313,
+    "geom:longitude":70.82011,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhandwala",
+    "gn:country_code":"PK",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392977,
+    "gn:latitude":29.43313,
+    "gn:longitude":70.82011,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Dhandwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392977
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"91e0b8cf5fece180097fde094ddbc519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1193015569,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193015569,
+    "wof:lastmodified":1536378855,
+    "wof:name":"Dhandwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.82011,
+    29.43313,
+    70.82011,
+    29.43313
+],
+  "geometry": {"coordinates":[70.82011,29.43313],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242783167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.57467,32.80842,73.57467,32.80842",
+    "geom:latitude":32.80842,
+    "geom:longitude":73.57467,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173709,
+    "gn:latitude":32.80842,
+    "gn:longitude":73.57467,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173709
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"01081e1cdb46384f65c0a9cfe0355f2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1242783167,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242783167,
+    "wof:lastmodified":1536767959,
+    "wof:name":"Khurd",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.57467,
+    32.80842,
+    73.57467,
+    32.80842
+],
+  "geometry": {"coordinates":[73.57467,32.80842],"type":"Point"}
+}

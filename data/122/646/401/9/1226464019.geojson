@@ -1,0 +1,81 @@
+{
+  "id": 1226464019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59987,34.50101,73.59987,34.50101",
+    "geom:latitude":34.50101,
+    "geom:longitude":73.59987,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Khabaia",
+    "gn:country_code":"PK",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385420,
+    "gn:latitude":34.50101,
+    "gn:longitude":73.59987,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Khabaia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kubh\u0101ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385420
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a7ee6f269ed59ee18f65155de2d318e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226464019,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226464019,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226464019,
+    "wof:lastmodified":1537680839,
+    "wof:name":"Khabaia",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59987,
+    34.50101,
+    73.59987,
+    34.50101
+],
+  "geometry": {"coordinates":[73.59987,34.50101],"type":"Point"}
+}

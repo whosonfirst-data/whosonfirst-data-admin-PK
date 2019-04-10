@@ -1,0 +1,67 @@
+{
+  "id": 1243172949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.90023,35.19834,72.90023,35.19834",
+    "geom:latitude":35.19834,
+    "geom:longitude":72.90023,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kandogai",
+    "gn:country_code":"PK",
+    "gn:dem":2444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479119,
+    "gn:latitude":35.19834,
+    "gn:longitude":72.90023,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Kandogai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479119
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fa0f7bc64e26037a66c8849bd752b47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1243172949,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243172949,
+    "wof:lastmodified":1536703162,
+    "wof:name":"Kandogai",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.90023000000002,
+    35.19834,
+    72.90023000000002,
+    35.19834
+],
+  "geometry": {"coordinates":[72.90023000000002,35.19834],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310010205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81551,27.78,67.81551,27.78",
+    "geom:latitude":27.78,
+    "geom:longitude":67.81551,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Pholro",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352266,
+    "gn:latitude":27.78,
+    "gn:longitude":67.81551,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Pholro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352266
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6536523ab87c9332e3c9d33616a98196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1310010205,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310010205,
+    "wof:lastmodified":1536635232,
+    "wof:name":"Pholro",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81551,
+    27.78,
+    67.81551,
+    27.78
+],
+  "geometry": {"coordinates":[67.81551,27.78],"type":"Point"}
+}

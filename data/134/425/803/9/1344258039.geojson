@@ -1,0 +1,67 @@
+{
+  "id": 1344258039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.31153,33.90371,73.31153,33.90371",
+    "geom:latitude":33.90371,
+    "geom:longitude":73.31153,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kotli One",
+    "gn:country_code":"PK",
+    "gn:dem":1187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454092,
+    "gn:latitude":33.90371,
+    "gn:longitude":73.31153,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Kotli One",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454092
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e1d1b582d9e872da5313fbf106e95054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1344258039,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344258039,
+    "wof:lastmodified":1537084508,
+    "wof:name":"Kotli One",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.31153,
+    33.90371,
+    73.31153,
+    33.90371
+],
+  "geometry": {"coordinates":[73.31153,33.90371],"type":"Point"}
+}

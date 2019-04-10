@@ -1,0 +1,67 @@
+{
+  "id": 1226166203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39636,32.92259,73.39636,32.92259",
+    "geom:latitude":32.92259,
+    "geom:longitude":73.39636,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pambrala",
+    "gn:country_code":"PK",
+    "gn:dem":283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444287,
+    "gn:latitude":32.92259,
+    "gn:longitude":73.39636,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Pambrala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444287
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2c46b75df9da42602a89ba3f4439d9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1226166203,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226166203,
+    "wof:lastmodified":1537046293,
+    "wof:name":"Pambrala",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39636,
+    32.92259,
+    73.39636,
+    32.92259
+],
+  "geometry": {"coordinates":[73.39636,32.92259],"type":"Point"}
+}

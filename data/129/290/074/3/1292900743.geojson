@@ -1,0 +1,82 @@
+{
+  "id": 1292900743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16933,34.74759,74.16933,34.74759",
+    "geom:latitude":34.74759,
+    "geom:longitude":74.16933,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Barthi",
+    "gn:country_code":"PK",
+    "gn:dem":2662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412415,
+    "gn:latitude":34.74759,
+    "gn:longitude":74.16933,
+    "gn:modification_date":"2001-12-20",
+    "gn:name":"Barthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bharthi",
+        "Barthi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412415
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6782423f2ff0002c2d2551fe187b2060",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1292900743,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1292900743,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1292900743,
+    "wof:lastmodified":1537681293,
+    "wof:name":"Barthi",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16933,
+    34.74759,
+    74.16933,
+    34.74759
+],
+  "geometry": {"coordinates":[74.16933,34.74759],"type":"Point"}
+}

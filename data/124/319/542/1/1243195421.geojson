@@ -1,0 +1,67 @@
+{
+  "id": 1243195421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71445,31.14726,70.71445,31.14726",
+    "geom:latitude":31.14726,
+    "geom:longitude":70.71445,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Daowali",
+    "gn:country_code":"PK",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6378457,
+    "gn:latitude":31.14726,
+    "gn:longitude":70.71445,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Daowali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6378457
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1743477c29ba4af3172624d7af72817f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1243195421,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243195421,
+    "wof:lastmodified":1536670422,
+    "wof:name":"Daowali",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71445,
+    31.14726,
+    70.71445,
+    31.14726
+],
+  "geometry": {"coordinates":[70.71445,31.14726],"type":"Point"}
+}

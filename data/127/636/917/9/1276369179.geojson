@@ -1,0 +1,67 @@
+{
+  "id": 1276369179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08469,31.64195,74.08469,31.64195",
+    "geom:latitude":31.64195,
+    "geom:longitude":74.08469,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mudke",
+    "gn:country_code":"PK",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330551,
+    "gn:latitude":31.64195,
+    "gn:longitude":74.08469,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Mudke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330551
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b8c43b8e03f7df7df36d05a140e68acd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1276369179,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276369179,
+    "wof:lastmodified":1536730926,
+    "wof:name":"Mudke",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08469000000002,
+    31.64195,
+    74.08469000000002,
+    31.64195
+],
+  "geometry": {"coordinates":[74.08469000000002,31.64195],"type":"Point"}
+}

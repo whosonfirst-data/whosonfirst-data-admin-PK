@@ -1,0 +1,64 @@
+{
+  "id": 1209313943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.70765,30.36833,71.70765,30.36833",
+    "geom:latitude":30.36833,
+    "geom:longitude":71.70765,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bukhariabad",
+    "gn:country_code":"PK",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11567740,
+    "gn:latitude":30.36833,
+    "gn:longitude":71.70765,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bukhariabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nai Basti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11567740
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d352c05d10e0762fe8d54886db1d8182",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209313943
+        }
+    ],
+    "wof:id":1209313943,
+    "wof:lastmodified":1537682023,
+    "wof:name":"Bukhariabad",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.70765,
+    30.36833,
+    71.70765,
+    30.36833
+],
+  "geometry": {"coordinates":[71.70765,30.36833],"type":"Point"}
+}

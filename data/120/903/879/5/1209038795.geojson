@@ -1,0 +1,64 @@
+{
+  "id": 1209038795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15774,30.26513,70.15774,30.26513",
+    "geom:latitude":30.26513,
+    "geom:longitude":70.15774,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tarap",
+    "gn:country_code":"PK",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354337,
+    "gn:latitude":30.26513,
+    "gn:longitude":70.15774,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Tarap",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tarip"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354337
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"493eedf487ad44df29d4aec0aaf963f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209038795
+        }
+    ],
+    "wof:id":1209038795,
+    "wof:lastmodified":1537680316,
+    "wof:name":"Tarap",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15774,
+    30.26513,
+    70.15774,
+    30.26513
+],
+  "geometry": {"coordinates":[70.15774,30.26513],"type":"Point"}
+}

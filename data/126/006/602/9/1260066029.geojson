@@ -1,0 +1,78 @@
+{
+  "id": 1260066029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.02377,35.63323,75.02377,35.63323",
+    "geom:latitude":35.63323,
+    "geom:longitude":75.02377,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Stak Chu",
+    "gn:country_code":"PK",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070575,
+    "gn:latitude":35.63323,
+    "gn:longitude":75.02377,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Stak Chu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070575
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"40fd68de0a7bd1e83b193066c017275f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260066029,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1260066029,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1260066029,
+    "wof:lastmodified":1537012488,
+    "wof:name":"Stak Chu",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.02377,
+    35.63323,
+    75.02377,
+    35.63323
+],
+  "geometry": {"coordinates":[75.02377,35.63323],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226541133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19086,35.29909,73.19086,35.29909",
+    "geom:latitude":35.29909,
+    "geom:longitude":73.19086,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chicharh",
+    "gn:country_code":"PK",
+    "gn:dem":896,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999956,
+    "gn:latitude":35.29909,
+    "gn:longitude":73.19086,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Chicharh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999956
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c81ae50b539c7a5b703ae866a1e29e29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226541133,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226541133,
+    "wof:lastmodified":1537003941,
+    "wof:name":"Chicharh",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19086,
+    35.29909,
+    73.19086,
+    35.29909
+],
+  "geometry": {"coordinates":[73.19086,35.29909],"type":"Point"}
+}

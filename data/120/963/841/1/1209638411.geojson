@@ -1,0 +1,64 @@
+{
+  "id": 1209638411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.08103,32.12171,75.08103,32.12171",
+    "geom:latitude":32.12171,
+    "geom:longitude":75.08103,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Faridkelangah",
+    "gn:country_code":"PK",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179362,
+    "gn:latitude":32.12171,
+    "gn:longitude":75.08103,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Faridkelangah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Far\u012bdke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179362
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"624e070edd1973a23d8a7e8f00e05353",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638411
+        }
+    ],
+    "wof:id":1209638411,
+    "wof:lastmodified":1537679779,
+    "wof:name":"Faridkelangah",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.08103,
+    32.12171,
+    75.08103,
+    32.12171
+],
+  "geometry": {"coordinates":[75.08103,32.12171],"type":"Point"}
+}

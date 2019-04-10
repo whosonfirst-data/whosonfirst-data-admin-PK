@@ -1,0 +1,67 @@
+{
+  "id": 1242978559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.70603,27.99538,66.70603,27.99538",
+    "geom:latitude":27.99538,
+    "geom:longitude":66.70603,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shatraki",
+    "gn:country_code":"PK",
+    "gn:dem":1548,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1351812,
+    "gn:latitude":27.99538,
+    "gn:longitude":66.70603,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Shatraki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351812
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31cfa92522ec4f630fc469aad50d42c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1242978559,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242978559,
+    "wof:lastmodified":1536982329,
+    "wof:name":"Shatraki",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.70603,
+    27.99538,
+    66.70603,
+    27.99538
+],
+  "geometry": {"coordinates":[66.70603,27.99538],"type":"Point"}
+}

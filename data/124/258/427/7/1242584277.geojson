@@ -1,0 +1,67 @@
+{
+  "id": 1242584277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.69634,34.60583,72.69634,34.60583",
+    "geom:latitude":34.60583,
+    "geom:longitude":72.69634,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Jumadera",
+    "gn:country_code":"PK",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390871,
+    "gn:latitude":34.60583,
+    "gn:longitude":72.69634,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Jumadera",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390871
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e010af21fc4ecbef3b247dff332b9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1242584277,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242584277,
+    "wof:lastmodified":1543515431,
+    "wof:name":"Jumadera",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.69634,
+    34.60583,
+    72.69634,
+    34.60583
+],
+  "geometry": {"coordinates":[72.69634000000001,34.60583],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209922121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.86512,29.1406,67.86512,29.1406",
+    "geom:latitude":29.1406,
+    "geom:longitude":67.86512,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Khokhar Lahri",
+    "gn:country_code":"PK",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1394856,
+    "gn:latitude":29.1406,
+    "gn:longitude":67.86512,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Khokhar Lahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1394856
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b5f16c6dd1772bfdecca08ef1e91ba16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1209922121,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209922121,
+    "wof:lastmodified":1536396546,
+    "wof:name":"Khokhar Lahri",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.86511999999999,
+    29.1406,
+    67.86511999999999,
+    29.1406
+],
+  "geometry": {"coordinates":[67.86511999999999,29.1406],"type":"Point"}
+}

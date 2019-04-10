@@ -1,0 +1,67 @@
+{
+  "id": 1344059029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09174,30.98085,69.09174,30.98085",
+    "geom:latitude":30.98085,
+    "geom:longitude":69.09174,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kazhbun",
+    "gn:country_code":"PK",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397177,
+    "gn:latitude":30.98085,
+    "gn:longitude":69.09174,
+    "gn:modification_date":"2018-07-04",
+    "gn:name":"Kazhbun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397177
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7969c7375867b47c491085221ef8c944",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1344059029,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344059029,
+    "wof:lastmodified":1536876752,
+    "wof:name":"Kazhbun",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09174,
+    30.98085,
+    69.09174,
+    30.98085
+],
+  "geometry": {"coordinates":[69.09174,30.98085],"type":"Point"}
+}

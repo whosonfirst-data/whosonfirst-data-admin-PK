@@ -1,0 +1,67 @@
+{
+  "id": 1259796401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73868,31.02649,67.73868,31.02649",
+    "geom:latitude":31.02649,
+    "geom:longitude":67.73868,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shinkata",
+    "gn:country_code":"PK",
+    "gn:dem":2241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11094901,
+    "gn:latitude":31.02649,
+    "gn:longitude":67.73868,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Shinkata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11094901
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fc6c76aef436e1a937b491637881757e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1259796401,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259796401,
+    "wof:lastmodified":1536904708,
+    "wof:name":"Shinkata",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73868,
+    31.02649000000001,
+    67.73868,
+    31.02649000000001
+],
+  "geometry": {"coordinates":[67.73868,31.02649000000001],"type":"Point"}
+}

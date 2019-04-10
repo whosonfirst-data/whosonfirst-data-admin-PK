@@ -1,0 +1,70 @@
+{
+  "id": 1310409125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.64655,34.47008,71.64655,34.47008",
+    "geom:latitude":34.47008,
+    "geom:longitude":71.64655,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chinaran",
+    "gn:country_code":"PK",
+    "gn:dem":959,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":1335707,
+    "gn:latitude":34.47008,
+    "gn:longitude":71.64655,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Chinaran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Chinaran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335707
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f0f9851b26bae3e5ccb57b809affd9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1310409125,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310409125,
+    "wof:lastmodified":1537680132,
+    "wof:name":"Chinaran",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.64655,
+    34.47008,
+    71.64655,
+    34.47008
+],
+  "geometry": {"coordinates":[71.64655,34.47008],"type":"Point"}
+}

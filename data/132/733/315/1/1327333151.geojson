@@ -1,0 +1,67 @@
+{
+  "id": 1327333151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.21082,28.19275,70.21082,28.19275",
+    "geom:latitude":28.19275,
+    "geom:longitude":70.21082,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Yusufabad",
+    "gn:country_code":"PK",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022734,
+    "gn:latitude":28.19275,
+    "gn:longitude":70.21082,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Yusufabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022734
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ccd80934f4de4866a48b2291779a5084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1327333151,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327333151,
+    "wof:lastmodified":1536823232,
+    "wof:name":"Yusufabad",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.21082,
+    28.19275,
+    70.21082,
+    28.19275
+],
+  "geometry": {"coordinates":[70.21082,28.19275],"type":"Point"}
+}

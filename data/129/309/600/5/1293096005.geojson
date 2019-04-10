@@ -1,0 +1,81 @@
+{
+  "id": 1293096005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.89764,34.0753,73.89764,34.0753",
+    "geom:latitude":34.0753,
+    "geom:longitude":73.89764,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dobang Piran",
+    "gn:country_code":"PK",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415576,
+    "gn:latitude":34.0753,
+    "gn:longitude":73.89764,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dobang Piran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dobang P\u012br\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415576
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31971fee8a5a76ac95a60ef7fe5572a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293096005,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293096005,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293096005,
+    "wof:lastmodified":1537681365,
+    "wof:name":"Dobang Piran",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.89764,
+    34.0753,
+    73.89764,
+    34.0753
+],
+  "geometry": {"coordinates":[73.89764,34.0753],"type":"Point"}
+}

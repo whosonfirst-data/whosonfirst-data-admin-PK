@@ -1,0 +1,65 @@
+{
+  "id": 1209038821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46218,33.98926,73.46218,33.98926",
+    "geom:latitude":33.98926,
+    "geom:longitude":73.46218,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Namb Badrial",
+    "gn:country_code":"PK",
+    "gn:dem":1327,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169433,
+    "gn:latitude":33.98926,
+    "gn:longitude":73.46218,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Namb Badrial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Numb Budrial",
+        "Namb Badrial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169433
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc9ef4300c42af3af86efd173abbd831",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209038821
+        }
+    ],
+    "wof:id":1209038821,
+    "wof:lastmodified":1537679432,
+    "wof:name":"Namb Badrial",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46218,
+    33.98925999999999,
+    73.46218,
+    33.98925999999999
+],
+  "geometry": {"coordinates":[73.46218,33.98925999999999],"type":"Point"}
+}

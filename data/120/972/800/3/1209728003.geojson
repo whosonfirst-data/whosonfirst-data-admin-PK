@@ -1,0 +1,67 @@
+{
+  "id": 1209728003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.4195,28.3095,67.4195,28.3095",
+    "geom:latitude":28.3095,
+    "geom:longitude":67.4195,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Wali Muhammad",
+    "gn:country_code":"PK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7564443,
+    "gn:latitude":28.3095,
+    "gn:longitude":67.4195,
+    "gn:modification_date":"2010-10-09",
+    "gn:name":"Wali Muhammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7564443
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"409b167f87ae518d4009a4d6c88ec2c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692221,
+            "locality_id":1209728003,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209728003,
+    "wof:lastmodified":1536381716,
+    "wof:name":"Wali Muhammad",
+    "wof:parent_id":1108692221,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.4195,
+    28.3095,
+    67.4195,
+    28.3095
+],
+  "geometry": {"coordinates":[67.4195,28.3095],"type":"Point"}
+}

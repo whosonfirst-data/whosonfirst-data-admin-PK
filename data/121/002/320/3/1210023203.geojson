@@ -1,0 +1,67 @@
+{
+  "id": 1210023203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.18229,33.95914,72.18229,33.95914",
+    "geom:latitude":33.95914,
+    "geom:longitude":72.18229,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dheri",
+    "gn:country_code":"PK",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341132,
+    "gn:latitude":33.95914,
+    "gn:longitude":72.18229,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Dheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341132
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c3620b4bac20e2e0def31b884cbfccd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1210023203,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210023203,
+    "wof:lastmodified":1543515274,
+    "wof:name":"Dheri",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.18229000000002,
+    33.95914,
+    72.18229000000002,
+    33.95914
+],
+  "geometry": {"coordinates":[72.18229000000002,33.95914],"type":"Point"}
+}

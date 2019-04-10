@@ -1,0 +1,67 @@
+{
+  "id": 1360285123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.29798,31.07646,70.29798,31.07646",
+    "geom:latitude":31.07646,
+    "geom:longitude":70.29798,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gazwala",
+    "gn:country_code":"PK",
+    "gn:dem":596,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10432827,
+    "gn:latitude":31.07646,
+    "gn:longitude":70.29798,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Gazwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10432827
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f9baefb3e68c05053a72d7ee3d317f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1360285123,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360285123,
+    "wof:lastmodified":1536657190,
+    "wof:name":"Gazwala",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.29798000000001,
+    31.07646,
+    70.29798000000001,
+    31.07646
+],
+  "geometry": {"coordinates":[70.29798000000001,31.07646],"type":"Point"}
+}

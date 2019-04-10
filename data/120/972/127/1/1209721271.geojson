@@ -1,0 +1,76 @@
+{
+  "id": 1209721271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.05908,30.16048,70.05908,30.16048",
+    "geom:latitude":30.16048,
+    "geom:longitude":70.05908,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guzri Thokh",
+    "gn:country_code":"PK",
+    "gn:dem":1467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354376,
+    "gn:latitude":30.16048,
+    "gn:longitude":70.05908,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Guzri Thokh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Guz\u0101rl Thokh"
+    ],
+    "name:eng_x_variant":[
+        "Guzri Thokh"
+    ],
+    "name:und_x_variant":[
+        "Guz\u0101ri Thokh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354376
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1dde447242dffc120bdfc8bbef07a6c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1209721271,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209721271,
+    "wof:lastmodified":1537680316,
+    "wof:name":"Guzri Thokh",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.05908000000001,
+    30.16048,
+    70.05908000000001,
+    30.16048
+],
+  "geometry": {"coordinates":[70.05908000000001,30.16048],"type":"Point"}
+}

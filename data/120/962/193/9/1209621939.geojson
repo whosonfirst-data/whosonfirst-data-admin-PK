@@ -1,0 +1,67 @@
+{
+  "id": 1209621939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.71129,31.67784,70.71129,31.67784",
+    "geom:latitude":31.67784,
+    "geom:longitude":70.71129,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Babbi",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418979,
+    "gn:latitude":31.67784,
+    "gn:longitude":70.71129,
+    "gn:modification_date":"2017-05-08",
+    "gn:name":"Babbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418979
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f6725fb414fef1b4d543a7810f7acd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1209621939,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209621939,
+    "wof:lastmodified":1543515648,
+    "wof:name":"Babbi",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.71129,
+    31.67784,
+    70.71129,
+    31.67784
+],
+  "geometry": {"coordinates":[70.71129000000001,31.67784],"type":"Point"}
+}

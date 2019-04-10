@@ -1,0 +1,67 @@
+{
+  "id": 1209415841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82797,34.93197,73.82797,34.93197",
+    "geom:latitude":34.93197,
+    "geom:longitude":73.82797,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bans",
+    "gn:country_code":"PK",
+    "gn:dem":2845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988238,
+    "gn:latitude":34.93197,
+    "gn:longitude":73.82797,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bans",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988238
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"337a191590dc6eb554910ebbd372bb2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209415841,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209415841,
+    "wof:lastmodified":1543515609,
+    "wof:name":"Bans",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82797,
+    34.93197,
+    73.82797,
+    34.93197
+],
+  "geometry": {"coordinates":[73.82796999999999,34.93197],"type":"Point"}
+}

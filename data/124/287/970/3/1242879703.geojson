@@ -1,0 +1,67 @@
+{
+  "id": 1242879703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.51354,32.04547,74.51354,32.04547",
+    "geom:latitude":32.04547,
+    "geom:longitude":74.51354,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dharang",
+    "gn:country_code":"PK",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381531,
+    "gn:latitude":32.04547,
+    "gn:longitude":74.51354,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Dharang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cbce7a75d2461c3ab3d8807b85dc0de2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1242879703,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242879703,
+    "wof:lastmodified":1536626671,
+    "wof:name":"Dharang",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.51354,
+    32.04547,
+    74.51354,
+    32.04547
+],
+  "geometry": {"coordinates":[74.51354000000001,32.04547],"type":"Point"}
+}

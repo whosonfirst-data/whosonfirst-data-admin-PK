@@ -1,0 +1,81 @@
+{
+  "id": 1243169305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38595,32.88846,74.38595,32.88846",
+    "geom:latitude":32.88846,
+    "geom:longitude":74.38595,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kamali Chner",
+    "gn:country_code":"PK",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413391,
+    "gn:latitude":32.88846,
+    "gn:longitude":74.38595,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kamali Chner",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kumauli Chhappar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413391
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c25e1bd45af9bb82db390a51c6c21352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243169305,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243169305,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243169305,
+    "wof:lastmodified":1537681314,
+    "wof:name":"Kamali Chner",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38595,
+    32.88845999999999,
+    74.38595,
+    32.88845999999999
+],
+  "geometry": {"coordinates":[74.38594999999999,32.88845999999999],"type":"Point"}
+}

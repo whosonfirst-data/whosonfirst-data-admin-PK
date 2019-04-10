@@ -1,0 +1,67 @@
+{
+  "id": 1326962303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87678,30.97579,70.87678,30.97579",
+    "geom:latitude":30.97579,
+    "geom:longitude":70.87678,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mianwala",
+    "gn:country_code":"PK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354607,
+    "gn:latitude":30.97579,
+    "gn:longitude":70.87678,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mianwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354607
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56df85a90286dd982cbff553e6a75fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1326962303,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326962303,
+    "wof:lastmodified":1536860179,
+    "wof:name":"Mianwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87678000000002,
+    30.97579,
+    70.87678000000002,
+    30.97579
+],
+  "geometry": {"coordinates":[70.87678000000002,30.97579],"type":"Point"}
+}

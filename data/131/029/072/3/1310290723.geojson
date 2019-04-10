@@ -1,0 +1,78 @@
+{
+  "id": 1310290723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.16433,35.34018,76.16433,35.34018",
+    "geom:latitude":35.34018,
+    "geom:longitude":76.16433,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Baltoro",
+    "gn:country_code":"PK",
+    "gn:dem":3834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418407,
+    "gn:latitude":35.34018,
+    "gn:longitude":76.16433,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Baltoro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418407
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e62854dbc38d398ee3043bc256664638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1310290723,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1310290723,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310290723,
+    "wof:lastmodified":1536729662,
+    "wof:name":"Baltoro",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.16433,
+    35.34018,
+    76.16433,
+    35.34018
+],
+  "geometry": {"coordinates":[76.16433000000001,35.34018],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1210039889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.85465,33.04782,72.85465,33.04782",
+    "geom:latitude":33.04782,
+    "geom:longitude":72.85465,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minwal",
+    "gn:country_code":"PK",
+    "gn:dem":473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170389,
+    "gn:latitude":33.04782,
+    "gn:longitude":72.85465,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Minwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Minwal"
+    ],
+    "name:eng_x_variant":[
+        "Manwal"
+    ],
+    "name:und_x_variant":[
+        "Manwal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"28988aa25e81ccdf5a5fce32165c2f63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1210039889,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1210039889,
+    "wof:lastmodified":1537679466,
+    "wof:name":"Minwal",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.85465,
+    33.04782,
+    72.85465,
+    33.04782
+],
+  "geometry": {"coordinates":[72.85465000000001,33.04782],"type":"Point"}
+}

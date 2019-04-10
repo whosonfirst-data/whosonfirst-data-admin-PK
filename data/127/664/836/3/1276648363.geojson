@@ -1,0 +1,90 @@
+{
+  "id": 1276648363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84698,33.20949,73.84698,33.20949",
+    "geom:latitude":33.20949,
+    "geom:longitude":73.84698,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Krarah",
+    "gn:country_code":"PK",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386331,
+    "gn:latitude":33.20949,
+    "gn:longitude":73.84698,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Krarah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ararah",
+        "Krarah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386331
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"03fe314ded2e6bd7cae56250815e7514",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1276648363,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1276648363,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1276648363,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276648363,
+    "wof:lastmodified":1537680858,
+    "wof:name":"Krarah",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84698,
+    33.20949,
+    73.84698,
+    33.20949
+],
+  "geometry": {"coordinates":[73.84698,33.20949],"type":"Point"}
+}

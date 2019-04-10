@@ -1,0 +1,81 @@
+{
+  "id": 1243193851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.09416,33.3241,74.09416,33.3241",
+    "geom:latitude":33.3241,
+    "geom:longitude":74.09416,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ropri",
+    "gn:country_code":"PK",
+    "gn:dem":911,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415150,
+    "gn:latitude":33.3241,
+    "gn:longitude":74.09416,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Ropri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rapri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415150
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c284825ded62cd46a1f8a7c9dc9b6667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243193851,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1243193851,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243193851,
+    "wof:lastmodified":1537681356,
+    "wof:name":"Ropri",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.09416,
+    33.3241,
+    74.09416,
+    33.3241
+],
+  "geometry": {"coordinates":[74.09416,33.3241],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1360084427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.04188,32.13624,75.04188,32.13624",
+    "geom:latitude":32.13624,
+    "geom:longitude":75.04188,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Achalwali",
+    "gn:country_code":"PK",
+    "gn:dem":244,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184995,
+    "gn:latitude":32.13624,
+    "gn:longitude":75.04188,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Achalwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184995
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"811181b406f3cb26e0e08f53275d125f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1360084427,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360084427,
+    "wof:lastmodified":1536947005,
+    "wof:name":"Achalwali",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.04188,
+    32.13624,
+    75.04188,
+    32.13624
+],
+  "geometry": {"coordinates":[75.04188000000001,32.13624],"type":"Point"}
+}

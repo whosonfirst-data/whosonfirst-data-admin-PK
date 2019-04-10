@@ -1,0 +1,67 @@
+{
+  "id": 1310317705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.15558,26.35479,64.15558,26.35479",
+    "geom:latitude":26.35479,
+    "geom:longitude":64.15558,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ahmad Khan Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":740,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097437,
+    "gn:latitude":26.35479,
+    "gn:longitude":64.15558,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Ahmad Khan Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097437
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c90bc0bcb87c41f0769d9307ed04ff94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1310317705,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310317705,
+    "wof:lastmodified":1536690371,
+    "wof:name":"Ahmad Khan Bazar",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.15558,
+    26.35479,
+    64.15558,
+    26.35479
+],
+  "geometry": {"coordinates":[64.15558,26.35479],"type":"Point"}
+}

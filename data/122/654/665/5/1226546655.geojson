@@ -1,0 +1,67 @@
+{
+  "id": 1226546655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.73458,34.79893,71.73458,34.79893",
+    "geom:latitude":34.79893,
+    "geom:longitude":71.73458,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Ghobana",
+    "gn:country_code":"PK",
+    "gn:dem":737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111912,
+    "gn:latitude":34.79893,
+    "gn:longitude":71.73458,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ghobana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111912
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f69c1cc755ee1aab9bc4f310a792093e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1226546655,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226546655,
+    "wof:lastmodified":1536995873,
+    "wof:name":"Ghobana",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.73458000000002,
+    34.79893,
+    71.73458000000002,
+    34.79893
+],
+  "geometry": {"coordinates":[71.73458000000002,34.79893],"type":"Point"}
+}

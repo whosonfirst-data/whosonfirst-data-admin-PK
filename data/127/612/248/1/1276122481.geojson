@@ -1,0 +1,67 @@
+{
+  "id": 1276122481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.7733,26.53238,67.7733,26.53238",
+    "geom:latitude":26.53238,
+    "geom:longitude":67.7733,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Bukra",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1404627,
+    "gn:latitude":26.53238,
+    "gn:longitude":67.7733,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Bukra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1404627
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d19a798c426dbf31c5839de5f4fb09fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692219,
+            "locality_id":1276122481,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276122481,
+    "wof:lastmodified":1537058531,
+    "wof:name":"Bukra",
+    "wof:parent_id":1108692219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.7733,
+    26.53238,
+    67.7733,
+    26.53238
+],
+  "geometry": {"coordinates":[67.77330000000001,26.53238],"type":"Point"}
+}

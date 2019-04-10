@@ -1,0 +1,67 @@
+{
+  "id": 1259684761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4559,34.87183,72.4559,34.87183",
+    "geom:latitude":34.87183,
+    "geom:longitude":72.4559,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kamargai",
+    "gn:country_code":"PK",
+    "gn:dem":1238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1384610,
+    "gn:latitude":34.87183,
+    "gn:longitude":72.4559,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Kamargai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1384610
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aee60e758af0ea63b1223d0fb169b38b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1259684761,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259684761,
+    "wof:lastmodified":1537062384,
+    "wof:name":"Kamargai",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4559,
+    34.87183,
+    72.4559,
+    34.87183
+],
+  "geometry": {"coordinates":[72.4559,34.87183],"type":"Point"}
+}

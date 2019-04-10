@@ -1,0 +1,70 @@
+{
+  "id": 1226145097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.81336,31.03153,67.81336,31.03153",
+    "geom:latitude":31.03153,
+    "geom:longitude":67.81336,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Zangal",
+    "gn:country_code":"PK",
+    "gn:dem":2109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1363968,
+    "gn:latitude":31.03153,
+    "gn:longitude":67.81336,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Zangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zangai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1363968
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6812a579e4472f9fd1c387714b06a066",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1226145097,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226145097,
+    "wof:lastmodified":1537680471,
+    "wof:name":"Zangal",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.81336,
+    31.03153,
+    67.81336,
+    31.03153
+],
+  "geometry": {"coordinates":[67.81336,31.03153],"type":"Point"}
+}

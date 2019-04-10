@@ -1,0 +1,67 @@
+{
+  "id": 1226654969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37777,33.83128,70.37777,33.83128",
+    "geom:latitude":33.83128,
+    "geom:longitude":70.37777,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Samana",
+    "gn:country_code":"PK",
+    "gn:dem":2085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343498,
+    "gn:latitude":33.83128,
+    "gn:longitude":70.37777,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Samana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343498
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc75cd56fb86b1d4ff3e5a2e5eb94375",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1226654969,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226654969,
+    "wof:lastmodified":1536844973,
+    "wof:name":"Samana",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37777,
+    33.83128,
+    70.37777,
+    33.83128
+],
+  "geometry": {"coordinates":[70.37777,33.83128],"type":"Point"}
+}

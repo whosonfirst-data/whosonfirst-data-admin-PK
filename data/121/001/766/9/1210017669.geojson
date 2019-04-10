@@ -1,0 +1,70 @@
+{
+  "id": 1210017669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12879,34.25088,73.12879,34.25088",
+    "geom:latitude":34.25088,
+    "geom:longitude":73.12879,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Barrat",
+    "gn:country_code":"PK",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389986,
+    "gn:latitude":34.25088,
+    "gn:longitude":73.12879,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Barrat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Barat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389986
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"18aef78510091d7e918197ea12107b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1210017669,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017669,
+    "wof:lastmodified":1543515345,
+    "wof:name":"Barrat",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12879000000002,
+    34.25088,
+    73.12879000000002,
+    34.25088
+],
+  "geometry": {"coordinates":[73.12879000000002,34.25088],"type":"Point"}
+}

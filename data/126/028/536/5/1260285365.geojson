@@ -1,0 +1,67 @@
+{
+  "id": 1260285365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.50728,35.07988,72.50728,35.07988",
+    "geom:latitude":35.07988,
+    "geom:longitude":72.50728,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Shahid Sar",
+    "gn:country_code":"PK",
+    "gn:dem":1568,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377466,
+    "gn:latitude":35.07988,
+    "gn:longitude":72.50728,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Shahid Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377466
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"06f1e4cd970dd7ed5546a7a61e027e5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1260285365,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260285365,
+    "wof:lastmodified":1536709724,
+    "wof:name":"Shahid Sar",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.50728000000002,
+    35.07988,
+    72.50728000000002,
+    35.07988
+],
+  "geometry": {"coordinates":[72.50728000000002,35.07988],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310697649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.8307,35.09443,75.8307,35.09443",
+    "geom:latitude":35.09443,
+    "geom:longitude":75.8307,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Maskito",
+    "gn:country_code":"PK",
+    "gn:dem":3443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081043,
+    "gn:latitude":35.09443,
+    "gn:longitude":75.8307,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Maskito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081043
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"304d409169055a498ecee002fcad3959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310697649,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310697649,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310697649,
+    "wof:lastmodified":1536638673,
+    "wof:name":"Maskito",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.8307,
+    35.09443,
+    75.8307,
+    35.09443
+],
+  "geometry": {"coordinates":[75.83069999999999,35.09443],"type":"Point"}
+}

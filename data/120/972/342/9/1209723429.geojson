@@ -1,0 +1,67 @@
+{
+  "id": 1209723429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.77089,26.05913,62.77089,26.05913",
+    "geom:latitude":26.05913,
+    "geom:longitude":62.77089,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Golani",
+    "gn:country_code":"PK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178207,
+    "gn:latitude":26.05913,
+    "gn:longitude":62.77089,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Golani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178207
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97c0377a24384132c4d3f20c7ceb056a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1209723429,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209723429,
+    "wof:lastmodified":1536385335,
+    "wof:name":"Golani",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.77089,
+    26.05913,
+    62.77089,
+    26.05913
+],
+  "geometry": {"coordinates":[62.77089,26.05913],"type":"Point"}
+}

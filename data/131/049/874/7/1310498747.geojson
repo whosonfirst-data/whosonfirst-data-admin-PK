@@ -1,0 +1,78 @@
+{
+  "id": 1310498747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23704,33.0284,74.23704,33.0284",
+    "geom:latitude":33.0284,
+    "geom:longitude":74.23704,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Malni",
+    "gn:country_code":"PK",
+    "gn:dem":856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415440,
+    "gn:latitude":33.0284,
+    "gn:longitude":74.23704,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Malni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415440
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61f0fce70a032015309fcab6c8d745cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310498747,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1310498747,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310498747,
+    "wof:lastmodified":1536927395,
+    "wof:name":"Malni",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23704000000002,
+    33.0284,
+    74.23704000000002,
+    33.0284
+],
+  "geometry": {"coordinates":[74.23704000000002,33.0284],"type":"Point"}
+}

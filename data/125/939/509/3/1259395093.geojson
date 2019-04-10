@@ -1,0 +1,67 @@
+{
+  "id": 1259395093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.33272,26.13165,62.33272,26.13165",
+    "geom:latitude":26.13165,
+    "geom:longitude":62.33272,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Malant",
+    "gn:country_code":"PK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10987587,
+    "gn:latitude":26.13165,
+    "gn:longitude":62.33272,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Malant",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987587
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"99e2dd8948e31556b4c51f1505eb75e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1259395093,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259395093,
+    "wof:lastmodified":1536984735,
+    "wof:name":"Malant",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.33272,
+    26.13165,
+    62.33272,
+    26.13165
+],
+  "geometry": {"coordinates":[62.33272,26.13165],"type":"Point"}
+}

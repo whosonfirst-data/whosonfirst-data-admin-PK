@@ -1,0 +1,67 @@
+{
+  "id": 1326542551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.52243,26.46255,62.52243,26.46255",
+    "geom:latitude":26.46255,
+    "geom:longitude":62.52243,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karuchi Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10987777,
+    "gn:latitude":26.46255,
+    "gn:longitude":62.52243,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Karuchi Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987777
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"196332e01acc3fbecc5eb36b5ecde715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1326542551,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326542551,
+    "wof:lastmodified":1536968809,
+    "wof:name":"Karuchi Bazar",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.52243000000001,
+    26.46255,
+    62.52243000000001,
+    26.46255
+],
+  "geometry": {"coordinates":[62.52243000000001,26.46255],"type":"Point"}
+}

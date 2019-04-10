@@ -1,0 +1,67 @@
+{
+  "id": 1276870489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.61033,27.23267,67.61033,27.23267",
+    "geom:latitude":27.23267,
+    "geom:longitude":67.61033,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Aliwal",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1350517,
+    "gn:latitude":27.23267,
+    "gn:longitude":67.61033,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Aliwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1350517
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cd62df237355d1fb5549a829ae2cc00d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692159,
+            "locality_id":1276870489,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1276870489,
+    "wof:lastmodified":1537051569,
+    "wof:name":"Aliwal",
+    "wof:parent_id":1108692159,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.61033,
+    27.23267,
+    67.61033,
+    27.23267
+],
+  "geometry": {"coordinates":[67.61033,27.23267],"type":"Point"}
+}

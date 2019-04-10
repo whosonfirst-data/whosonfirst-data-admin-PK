@@ -1,0 +1,67 @@
+{
+  "id": 1344256653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.35026,30.73495,73.35026,30.73495",
+    "geom:latitude":30.73495,
+    "geom:longitude":73.35026,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Okara Cantonment",
+    "gn:country_code":"PK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543264,
+    "gn:latitude":30.73495,
+    "gn:longitude":73.35026,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Okara Cantonment",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543264
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6f663017d6b2f72fb1c790e6c8dbd381",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":1344256653,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344256653,
+    "wof:lastmodified":1537086503,
+    "wof:name":"Okara Cantonment",
+    "wof:parent_id":1108692363,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.35025999999998,
+    30.73495,
+    73.35025999999998,
+    30.73495
+],
+  "geometry": {"coordinates":[73.35025999999998,30.73495],"type":"Point"}
+}

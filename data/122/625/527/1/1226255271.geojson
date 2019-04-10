@@ -1,0 +1,67 @@
+{
+  "id": 1226255271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.56919,26.02103,63.56919,26.02103",
+    "geom:latitude":26.02103,
+    "geom:longitude":63.56919,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zik",
+    "gn:country_code":"PK",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201581,
+    "gn:latitude":26.02103,
+    "gn:longitude":63.56919,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Zik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201581
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2149338ec51152ae5b931b9f8487ec78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1226255271,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226255271,
+    "wof:lastmodified":1536920475,
+    "wof:name":"Zik",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.56919,
+    26.02103,
+    63.56919,
+    26.02103
+],
+  "geometry": {"coordinates":[63.56919,26.02103],"type":"Point"}
+}

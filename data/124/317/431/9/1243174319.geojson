@@ -1,0 +1,67 @@
+{
+  "id": 1243174319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.67889,25.46028,64.67889,25.46028",
+    "geom:latitude":25.46028,
+    "geom:longitude":64.67889,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Tolgi",
+    "gn:country_code":"PK",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341661,
+    "gn:latitude":25.46028,
+    "gn:longitude":64.67889,
+    "gn:modification_date":"1998-02-27",
+    "gn:name":"Tolgi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341661
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d7a7d4f50f27944041fbad7de6b122e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692199,
+            "locality_id":1243174319,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243174319,
+    "wof:lastmodified":1536701171,
+    "wof:name":"Tolgi",
+    "wof:parent_id":1108692199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.67889,
+    25.46028,
+    64.67889,
+    25.46028
+],
+  "geometry": {"coordinates":[64.67889,25.46028],"type":"Point"}
+}

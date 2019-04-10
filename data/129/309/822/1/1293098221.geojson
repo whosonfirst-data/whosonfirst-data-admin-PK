@@ -1,0 +1,67 @@
+{
+  "id": 1293098221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76428,32.21487,73.76428,32.21487",
+    "geom:latitude":32.21487,
+    "geom:longitude":73.76428,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ranapur",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449915,
+    "gn:latitude":32.21487,
+    "gn:longitude":73.76428,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ranapur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449915
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ddc85355c881795aa65437cc539a6383",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1293098221,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293098221,
+    "wof:lastmodified":1536850173,
+    "wof:name":"Ranapur",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76428,
+    32.21487,
+    73.76428,
+    32.21487
+],
+  "geometry": {"coordinates":[73.76428,32.21487],"type":"Point"}
+}

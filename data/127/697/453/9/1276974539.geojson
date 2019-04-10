@@ -1,0 +1,78 @@
+{
+  "id": 1276974539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9441,33.52496,73.9441,33.52496",
+    "geom:latitude":33.52496,
+    "geom:longitude":73.9441,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Jaur Jabbar",
+    "gn:country_code":"PK",
+    "gn:dem":962,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10876168,
+    "gn:latitude":33.52496,
+    "gn:longitude":73.9441,
+    "gn:modification_date":"2015-11-10",
+    "gn:name":"Jaur Jabbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10876168
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58380807b4bdae7a66b1c08d0b8eaeb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1276974539,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1276974539,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276974539,
+    "wof:lastmodified":1536914815,
+    "wof:name":"Jaur Jabbar",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9441,
+    33.52496,
+    73.9441,
+    33.52496
+],
+  "geometry": {"coordinates":[73.94410000000001,33.52496],"type":"Point"}
+}

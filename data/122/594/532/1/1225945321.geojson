@@ -1,0 +1,67 @@
+{
+  "id": 1225945321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50714,33.83257,71.50714,33.83257",
+    "geom:latitude":33.83257,
+    "geom:longitude":71.50714,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sur Talao",
+    "gn:country_code":"PK",
+    "gn:dem":477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7070961,
+    "gn:latitude":33.83257,
+    "gn:longitude":71.50714,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Sur Talao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7070961
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3baa56c2150e7ea9949529268424a802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1225945321,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945321,
+    "wof:lastmodified":1543515679,
+    "wof:name":"Sur Talao",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50714,
+    33.83257,
+    71.50714,
+    33.83257
+],
+  "geometry": {"coordinates":[71.50714000000001,33.83257],"type":"Point"}
+}

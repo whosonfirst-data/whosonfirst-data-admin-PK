@@ -1,0 +1,67 @@
+{
+  "id": 1225951017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20499,34.63272,73.20499,34.63272",
+    "geom:latitude":34.63272,
+    "geom:longitude":73.20499,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Bajar",
+    "gn:country_code":"PK",
+    "gn:dem":2243,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389743,
+    "gn:latitude":34.63272,
+    "gn:longitude":73.20499,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bajar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389743
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d43d30ec1a468a9d915eb4094ecbf36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1225951017,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225951017,
+    "wof:lastmodified":1543515607,
+    "wof:name":"Bajar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20499000000002,
+    34.63272,
+    73.20499000000002,
+    34.63272
+],
+  "geometry": {"coordinates":[73.20499000000002,34.63272],"type":"Point"}
+}

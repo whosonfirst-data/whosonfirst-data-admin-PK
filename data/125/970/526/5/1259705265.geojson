@@ -1,0 +1,81 @@
+{
+  "id": 1259705265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.94213,33.94409,73.94213,33.94409",
+    "geom:latitude":33.94409,
+    "geom:longitude":73.94213,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kola",
+    "gn:country_code":"PK",
+    "gn:dem":1913,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386038,
+    "gn:latitude":33.94409,
+    "gn:longitude":73.94213,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Kola",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kula"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386038
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2b36096d530f1cc4089760489179cc09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259705265,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1259705265,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259705265,
+    "wof:lastmodified":1537680851,
+    "wof:name":"Kola",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.94213,
+    33.94409,
+    73.94213,
+    33.94409
+],
+  "geometry": {"coordinates":[73.94213000000001,33.94409],"type":"Point"}
+}

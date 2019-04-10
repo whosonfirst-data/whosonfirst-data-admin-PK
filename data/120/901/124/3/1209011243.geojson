@@ -1,0 +1,70 @@
+{
+  "id": 1209011243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.117,33.79921,73.117,33.79921",
+    "geom:latitude":33.79921,
+    "geom:longitude":73.117,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sangra",
+    "gn:country_code":"PK",
+    "gn:dem":1108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7075937,
+    "gn:latitude":33.79921,
+    "gn:longitude":73.117,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Sangra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sangra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7075937
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd44a10d7d6c295a6217e551eaeb8c10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1209011243,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209011243,
+    "wof:lastmodified":1543515245,
+    "wof:name":"Sangra",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.117,
+    33.79921,
+    73.117,
+    33.79921
+],
+  "geometry": {"coordinates":[73.117,33.79921],"type":"Point"}
+}

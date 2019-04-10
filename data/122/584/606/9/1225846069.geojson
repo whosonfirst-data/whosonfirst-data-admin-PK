@@ -1,0 +1,67 @@
+{
+  "id": 1225846069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.81401,35.56471,71.81401,35.56471",
+    "geom:latitude":35.56471,
+    "geom:longitude":71.81401,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Azad Dam",
+    "gn:country_code":"PK",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11125060,
+    "gn:latitude":35.56471,
+    "gn:longitude":71.81401,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Azad Dam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11125060
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a21a0053eccbe85ff336322e09a7d15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1225846069,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225846069,
+    "wof:lastmodified":1543515481,
+    "wof:name":"Azad Dam",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.81401,
+    35.56471,
+    71.81401,
+    35.56471
+],
+  "geometry": {"coordinates":[71.81401,35.56471],"type":"Point"}
+}

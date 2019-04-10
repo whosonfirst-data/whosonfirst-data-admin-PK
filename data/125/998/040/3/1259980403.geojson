@@ -1,0 +1,67 @@
+{
+  "id": 1259980403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06343,32.17781,71.06343,32.17781",
+    "geom:latitude":32.17781,
+    "geom:longitude":71.06343,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mochiwala",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547239,
+    "gn:latitude":32.17781,
+    "gn:longitude":71.06343,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Mochiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547239
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"51b3f1508bf941944046d4d953085e2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1259980403,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259980403,
+    "wof:lastmodified":1536638545,
+    "wof:name":"Mochiwala",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06343000000003,
+    32.17781,
+    71.06343000000003,
+    32.17781
+],
+  "geometry": {"coordinates":[71.06343000000003,32.17781],"type":"Point"}
+}

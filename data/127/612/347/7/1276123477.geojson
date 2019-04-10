@@ -1,0 +1,67 @@
+{
+  "id": 1276123477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.08495,30.57305,71.08495,30.57305",
+    "geom:latitude":30.57305,
+    "geom:longitude":71.08495,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pakkawala",
+    "gn:country_code":"PK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367027,
+    "gn:latitude":30.57305,
+    "gn:longitude":71.08495,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pakkawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367027
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e51245574a5fa7c06831510e08eb839a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1276123477,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1276123477,
+    "wof:lastmodified":1537057220,
+    "wof:name":"Pakkawala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.08495,
+    30.57305,
+    71.08495,
+    30.57305
+],
+  "geometry": {"coordinates":[71.08495000000001,30.57305],"type":"Point"}
+}

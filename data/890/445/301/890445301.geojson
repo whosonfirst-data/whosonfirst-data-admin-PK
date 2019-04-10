@@ -1,0 +1,66 @@
+{
+  "id": 890445301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84945,30.79716,70.84945,30.79716",
+    "geom:latitude":30.79716,
+    "geom:longitude":70.84945,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:pop":100,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Kh\u0101du"
+    ],
+    "qs:name":"Basti Qaudhia",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354499,
+        "qs:id":555859
+    },
+    "wof:country":"PK",
+    "wof:created":1469052505,
+    "wof:geomhash":"a56d672b9a7ebebf0396970b139a565a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":890445301,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":890445301,
+    "wof:lastmodified":1505343604,
+    "wof:name":"Basti Qaudhia",
+    "wof:parent_id":85675753,
+    "wof:placetype":"locality",
+    "wof:population":100,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84945,
+    30.79716,
+    70.84945,
+    30.79716
+],
+  "geometry": {"coordinates":[70.84945,30.79716],"type":"Point"}
+}

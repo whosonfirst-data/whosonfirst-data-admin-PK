@@ -1,0 +1,67 @@
+{
+  "id": 1209416167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93494,35.01521,72.93494,35.01521",
+    "geom:latitude":35.01521,
+    "geom:longitude":72.93494,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khal",
+    "gn:country_code":"PK",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479297,
+    "gn:latitude":35.01521,
+    "gn:longitude":72.93494,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479297
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31be98921bcf8fbdb0656acecf755d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209416167,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209416167,
+    "wof:lastmodified":1543515622,
+    "wof:name":"Khal",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93494,
+    35.01521,
+    72.93494,
+    35.01521
+],
+  "geometry": {"coordinates":[72.93494,35.01521],"type":"Point"}
+}

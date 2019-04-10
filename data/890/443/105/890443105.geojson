@@ -1,0 +1,65 @@
+{
+  "id": 890443105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41583,36.67835,72.41583,36.67835",
+    "geom:latitude":36.67835,
+    "geom:longitude":72.41583,
+    "gn:country":"PK",
+    "gn:fcode":"LCTY",
+    "gn:pop":5,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Wakhik\u0101n Gumbat",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7024926,
+        "qs:id":653874
+    },
+    "wof:country":"PK",
+    "wof:created":1469052400,
+    "wof:geomhash":"d77933b6bd9ecbc88830d78837225e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":890443105,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":890443105,
+    "wof:lastmodified":1543515442,
+    "wof:name":"Wakhik\u0101n Gumbat",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:population":5,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41583,
+    36.67835,
+    72.41583,
+    36.67835
+],
+  "geometry": {"coordinates":[72.41583,36.67835],"type":"Point"}
+}

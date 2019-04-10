@@ -1,0 +1,67 @@
+{
+  "id": 1310411485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.86409,31.18132,70.86409,31.18132",
+    "geom:latitude":31.18132,
+    "geom:longitude":70.86409,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Qadirwala",
+    "gn:country_code":"PK",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6377064,
+    "gn:latitude":31.18132,
+    "gn:longitude":70.86409,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Qadirwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6377064
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"18ebbd3149eff17632819af2256c212a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1310411485,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310411485,
+    "wof:lastmodified":1537050483,
+    "wof:name":"Qadirwala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.86409,
+    31.18132,
+    70.86409,
+    31.18132
+],
+  "geometry": {"coordinates":[70.86409,31.18132],"type":"Point"}
+}

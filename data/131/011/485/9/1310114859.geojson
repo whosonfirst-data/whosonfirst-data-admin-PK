@@ -1,0 +1,67 @@
+{
+  "id": 1310114859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62825,33.90117,70.62825,33.90117",
+    "geom:latitude":33.90117,
+    "geom:longitude":70.62825,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khado",
+    "gn:country_code":"PK",
+    "gn:dem":2160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110338,
+    "gn:latitude":33.90117,
+    "gn:longitude":70.62825,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Khado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110338
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"95e8311bf6c27d964fd4ea4a4507681d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1310114859,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310114859,
+    "wof:lastmodified":1536982181,
+    "wof:name":"Khado",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62825,
+    33.90117,
+    70.62825,
+    33.90117
+],
+  "geometry": {"coordinates":[70.62824999999999,33.90117],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1327141199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.62667,35.13727,72.62667,35.13727",
+    "geom:latitude":35.13727,
+    "geom:longitude":72.62667,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Cham",
+    "gn:country_code":"PK",
+    "gn:dem":2091,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377543,
+    "gn:latitude":35.13727,
+    "gn:longitude":72.62667,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Cham",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377543
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cab04372a6509a8e67e78deb297674d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1327141199,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327141199,
+    "wof:lastmodified":1536600140,
+    "wof:name":"Cham",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.62666999999998,
+    35.13727,
+    72.62666999999998,
+    35.13727
+],
+  "geometry": {"coordinates":[72.62666999999998,35.13727],"type":"Point"}
+}

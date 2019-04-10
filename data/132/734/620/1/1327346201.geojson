@@ -1,0 +1,67 @@
+{
+  "id": 1327346201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.24041,30.34212,69.24041,30.34212",
+    "geom:latitude":30.34212,
+    "geom:longitude":69.24041,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Fateh",
+    "gn:country_code":"PK",
+    "gn:dem":1173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397392,
+    "gn:latitude":30.34212,
+    "gn:longitude":69.24041,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Fateh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890420091
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397392
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af876e084b43268ac42bcbcfc6d97fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1327346201,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327346201,
+    "wof:lastmodified":1536805074,
+    "wof:name":"Fateh",
+    "wof:parent_id":890420091,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.24041,
+    30.34212,
+    69.24041,
+    30.34212
+],
+  "geometry": {"coordinates":[69.24041,30.34212],"type":"Point"}
+}

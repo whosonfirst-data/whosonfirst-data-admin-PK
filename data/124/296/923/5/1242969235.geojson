@@ -1,0 +1,67 @@
+{
+  "id": 1242969235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.97374,27.66067,68.97374,27.66067",
+    "geom:latitude":27.66067,
+    "geom:longitude":68.97374,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Panwhar",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168398,
+    "gn:latitude":27.66067,
+    "gn:longitude":68.97374,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Panwhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168398
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3dd7fe238d40e39b694d779d92538f6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1242969235,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1242969235,
+    "wof:lastmodified":1536995788,
+    "wof:name":"Panwhar",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.97374,
+    27.66067,
+    68.97374,
+    27.66067
+],
+  "geometry": {"coordinates":[68.97374000000001,27.66067],"type":"Point"}
+}

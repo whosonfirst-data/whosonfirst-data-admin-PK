@@ -1,0 +1,64 @@
+{
+  "id": 1209314281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44325,32.17948,71.44325,32.17948",
+    "geom:latitude":32.17948,
+    "geom:longitude":71.44325,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Hassanwala",
+    "gn:country_code":"PK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405278,
+    "gn:latitude":32.17948,
+    "gn:longitude":71.44325,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Hassanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hasanw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405278
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5f83c4be09e296f42233dee21304f625",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314281
+        }
+    ],
+    "wof:id":1209314281,
+    "wof:lastmodified":1537681174,
+    "wof:name":"Hassanwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44325,
+    32.17948,
+    71.44325,
+    32.17948
+],
+  "geometry": {"coordinates":[71.44325000000001,32.17948],"type":"Point"}
+}

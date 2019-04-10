@@ -1,0 +1,72 @@
+{
+  "id": 1343668585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.45695,34.10708,71.45695,34.10708",
+    "geom:latitude":34.10708,
+    "geom:longitude":71.45695,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sar",
+    "gn:country_code":"PK",
+    "gn:dem":333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165911,
+    "gn:latitude":34.10708,
+    "gn:longitude":71.45695,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Sar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sehra Sang",
+        "Sarsang",
+        "Sar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165911
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"580a11cc8f6985218ca29179c3e06193",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1343668585,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343668585,
+    "wof:lastmodified":1537679305,
+    "wof:name":"Sar",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.45695,
+    34.10708,
+    71.45695,
+    34.10708
+],
+  "geometry": {"coordinates":[71.45695000000001,34.10708],"type":"Point"}
+}

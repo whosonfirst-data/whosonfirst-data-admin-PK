@@ -1,0 +1,67 @@
+{
+  "id": 1259686145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6378,31.82672,69.6378,31.82672",
+    "geom:latitude":31.82672,
+    "geom:longitude":69.6378,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7103440,
+    "gn:latitude":31.82672,
+    "gn:longitude":69.6378,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7103440
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"15c354f5110750754e6e0c985e2208d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1259686145,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259686145,
+    "wof:lastmodified":1537060491,
+    "wof:name":"Kili",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6378,
+    31.82672,
+    69.6378,
+    31.82672
+],
+  "geometry": {"coordinates":[69.6378,31.82672],"type":"Point"}
+}

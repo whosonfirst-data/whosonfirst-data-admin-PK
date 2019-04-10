@@ -1,0 +1,67 @@
+{
+  "id": 1327053401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.222,30.39251,73.222,30.39251",
+    "geom:latitude":30.39251,
+    "geom:longitude":73.222,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shafi Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539659,
+    "gn:latitude":30.39251,
+    "gn:longitude":73.222,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Shafi Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539659
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0d79103a104b01142a5b1f3ee16ef77c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":1327053401,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327053401,
+    "wof:lastmodified":1536730463,
+    "wof:name":"Shafi Khurd",
+    "wof:parent_id":1108692343,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.222,
+    30.39251,
+    73.222,
+    30.39251
+],
+  "geometry": {"coordinates":[73.22199999999999,30.39251],"type":"Point"}
+}

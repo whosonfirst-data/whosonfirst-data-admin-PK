@@ -1,0 +1,82 @@
+{
+  "id": 1309797899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52913,34.2682,73.52913,34.2682",
+    "geom:latitude":34.2682,
+    "geom:longitude":73.52913,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mehlum",
+    "gn:country_code":"PK",
+    "gn:dem":1594,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385903,
+    "gn:latitude":34.2682,
+    "gn:longitude":73.52913,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Mehlum",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Metam",
+        "Melam"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385903
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78c7a8c7dea2762b00bfde832fc1125c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1309797899,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1309797899,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309797899,
+    "wof:lastmodified":1537680849,
+    "wof:name":"Mehlum",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52913000000002,
+    34.2682,
+    73.52913000000002,
+    34.2682
+],
+  "geometry": {"coordinates":[73.52913000000002,34.2682],"type":"Point"}
+}

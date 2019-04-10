@@ -1,0 +1,67 @@
+{
+  "id": 1209713897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.29806,24.52063,69.29806,24.52063",
+    "geom:latitude":24.52063,
+    "geom:longitude":69.29806,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Balhari",
+    "gn:country_code":"PK",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11409882,
+    "gn:latitude":24.52063,
+    "gn:longitude":69.29806,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Balhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11409882
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"06e54b1ffc86ffbdbaa5953f0419ba72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1209713897,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209713897,
+    "wof:lastmodified":1536389456,
+    "wof:name":"Balhari",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.29805999999999,
+    24.52063,
+    69.29805999999999,
+    24.52063
+],
+  "geometry": {"coordinates":[69.29805999999999,24.52063],"type":"Point"}
+}

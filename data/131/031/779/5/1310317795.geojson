@@ -1,0 +1,67 @@
+{
+  "id": 1310317795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.03367,30.42831,67.03367,30.42831",
+    "geom:latitude":30.42831,
+    "geom:longitude":67.03367,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shermabad",
+    "gn:country_code":"PK",
+    "gn:dem":1581,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273756,
+    "gn:latitude":30.42831,
+    "gn:longitude":67.03367,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Shermabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273756
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c9bb7aa43793a37b6a4d6c97142c1f2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1310317795,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310317795,
+    "wof:lastmodified":1536690235,
+    "wof:name":"Shermabad",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.03367,
+    30.42831,
+    67.03367,
+    30.42831
+],
+  "geometry": {"coordinates":[67.03367,30.42831],"type":"Point"}
+}

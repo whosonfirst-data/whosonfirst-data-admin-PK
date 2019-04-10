@@ -1,0 +1,77 @@
+{
+  "id": 1344056523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91657,30.39905,70.91657,30.39905",
+    "geom:latitude":30.39905,
+    "geom:longitude":70.91657,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shaikh Umar",
+    "gn:country_code":"PK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165408,
+    "gn:latitude":30.39905,
+    "gn:longitude":70.91657,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Shaikh Umar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shaikh Umar Mustaqil"
+    ],
+    "name:eng_x_variant":[
+        "Shaikh Umar Mustqil"
+    ],
+    "name:und_x_variant":[
+        "Shaikh Umar Mustqil",
+        "Shaikh Umar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165408
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4d9e3c2c82703a8fe427f86cf020a0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1344056523,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344056523,
+    "wof:lastmodified":1537679288,
+    "wof:name":"Shaikh Umar",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91657,
+    30.39905,
+    70.91657,
+    30.39905
+],
+  "geometry": {"coordinates":[70.91656999999999,30.39905],"type":"Point"}
+}

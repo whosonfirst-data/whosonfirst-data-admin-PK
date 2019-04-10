@@ -1,0 +1,67 @@
+{
+  "id": 1259592323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.26085,32.93271,70.26085,32.93271",
+    "geom:latitude":32.93271,
+    "geom:longitude":70.26085,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Malik Khel",
+    "gn:country_code":"PK",
+    "gn:dem":667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9534504,
+    "gn:latitude":32.93271,
+    "gn:longitude":70.26085,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Malik Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9534504
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7e04777864a23158a4b4c38b28ac7333",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1259592323,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259592323,
+    "wof:lastmodified":1536702250,
+    "wof:name":"Malik Khel",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.26085,
+    32.93271,
+    70.26085,
+    32.93271
+],
+  "geometry": {"coordinates":[70.26085,32.93271],"type":"Point"}
+}

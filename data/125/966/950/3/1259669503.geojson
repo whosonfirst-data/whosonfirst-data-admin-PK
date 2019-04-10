@@ -1,0 +1,78 @@
+{
+  "id": 1259669503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.32305,35.09806,74.32305,35.09806",
+    "geom:latitude":35.09806,
+    "geom:longitude":74.32305,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kinrun Giro",
+    "gn:country_code":"PK",
+    "gn:dem":3822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069631,
+    "gn:latitude":35.09806,
+    "gn:longitude":74.32305,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Kinrun Giro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069631
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6e391e6e30cd6469d55c2245ffa9f1f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259669503,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1259669503,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259669503,
+    "wof:lastmodified":1537084017,
+    "wof:name":"Kinrun Giro",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.32305,
+    35.09806,
+    74.32305,
+    35.09806
+],
+  "geometry": {"coordinates":[74.32304999999999,35.09806],"type":"Point"}
+}

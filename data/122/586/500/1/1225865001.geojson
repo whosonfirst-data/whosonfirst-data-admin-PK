@@ -1,0 +1,78 @@
+{
+  "id": 1225865001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3,36.8143,74.3,36.8143",
+    "geom:latitude":36.8143,
+    "geom:longitude":74.3,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Rasminjerab",
+    "gn:country_code":"PK",
+    "gn:dem":4002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427704,
+    "gn:latitude":36.8143,
+    "gn:longitude":74.3,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Rasminjerab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427704
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cae26a16f20dcb4a0dc2db94655f8e94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1225865001,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1225865001,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1225865001,
+    "wof:lastmodified":1536985171,
+    "wof:name":"Rasminjerab",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3,
+    36.8143,
+    74.3,
+    36.8143
+],
+  "geometry": {"coordinates":[74.3,36.8143],"type":"Point"}
+}

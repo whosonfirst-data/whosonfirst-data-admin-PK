@@ -1,0 +1,67 @@
+{
+  "id": 1226349127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6145,35.48382,73.6145,35.48382",
+    "geom:latitude":35.48382,
+    "geom:longitude":73.6145,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bachoi",
+    "gn:country_code":"PK",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000193,
+    "gn:latitude":35.48382,
+    "gn:longitude":73.6145,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bachoi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e9656f691809c82aaef97635428a4d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226349127,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226349127,
+    "wof:lastmodified":1536785035,
+    "wof:name":"Bachoi",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6145,
+    35.48382,
+    73.6145,
+    35.48382
+],
+  "geometry": {"coordinates":[73.61450000000001,35.48382],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1344253215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.6826,35.26684,76.6826,35.26684",
+    "geom:latitude":35.26684,
+    "geom:longitude":76.6826,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Jaforabad",
+    "gn:country_code":"PK",
+    "gn:dem":2987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11090746,
+    "gn:latitude":35.26684,
+    "gn:longitude":76.6826,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Jaforabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nehun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11090746
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"defd90a044c5d00181c041915da1b38d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1344253215,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1344253215,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1344253215,
+    "wof:lastmodified":1537681996,
+    "wof:name":"Jaforabad",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.6826,
+    35.26684,
+    76.6826,
+    35.26684
+],
+  "geometry": {"coordinates":[76.68259999999999,35.26684],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1243360835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23293,34.72781,74.23293,34.72781",
+    "geom:latitude":34.72781,
+    "geom:longitude":74.23293,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Wanhabdar",
+    "gn:country_code":"PK",
+    "gn:dem":3587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7536217,
+    "gn:latitude":34.72781,
+    "gn:longitude":74.23293,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Wanhabdar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wahabadar",
+        "W\u0101habdar",
+        "W\u0101nhand\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7536217
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3315772a17992c66016079c4727403a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1243360835,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1243360835,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243360835,
+    "wof:lastmodified":1537637403,
+    "wof:name":"Wanhabdar",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23293000000002,
+    34.72781,
+    74.23293000000002,
+    34.72781
+],
+  "geometry": {"coordinates":[74.23293000000002,34.72781],"type":"Point"}
+}

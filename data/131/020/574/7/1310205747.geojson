@@ -1,0 +1,67 @@
+{
+  "id": 1310205747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98282,35.29301,72.98282,35.29301",
+    "geom:latitude":35.29301,
+    "geom:longitude":72.98282,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Mandro",
+    "gn:country_code":"PK",
+    "gn:dem":2985,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11024126,
+    "gn:latitude":35.29301,
+    "gn:longitude":72.98282,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mandro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11024126
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d1e4c7a572b26a2b3418fac28c75480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310205747,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310205747,
+    "wof:lastmodified":1536850801,
+    "wof:name":"Mandro",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98281999999998,
+    35.29300999999999,
+    72.98281999999998,
+    35.29300999999999
+],
+  "geometry": {"coordinates":[72.98281999999998,35.29300999999999],"type":"Point"}
+}

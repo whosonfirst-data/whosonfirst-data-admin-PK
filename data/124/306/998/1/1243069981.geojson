@@ -1,0 +1,67 @@
+{
+  "id": 1243069981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.63314,27.70496,66.63314,27.70496",
+    "geom:latitude":27.70496,
+    "geom:longitude":66.63314,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Azizabad",
+    "gn:country_code":"PK",
+    "gn:dem":1237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234632,
+    "gn:latitude":27.70496,
+    "gn:longitude":66.63314,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Azizabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234632
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d09776b92a41ab9bf9d04b784e2fccea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1243069981,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243069981,
+    "wof:lastmodified":1536850112,
+    "wof:name":"Azizabad",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.63314,
+    27.70496,
+    66.63314,
+    27.70496
+],
+  "geometry": {"coordinates":[66.63314,27.70496],"type":"Point"}
+}

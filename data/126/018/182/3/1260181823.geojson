@@ -1,0 +1,67 @@
+{
+  "id": 1260181823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.0047,30.26327,70.0047,30.26327",
+    "geom:latitude":30.26327,
+    "geom:longitude":70.0047,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sahai Ban",
+    "gn:country_code":"PK",
+    "gn:dem":1230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11339051,
+    "gn:latitude":30.26327,
+    "gn:longitude":70.0047,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Sahai Ban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11339051
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1b4ddf2dbdd5e79ee0666e742ef74ef2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692139,
+            "locality_id":1260181823,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260181823,
+    "wof:lastmodified":1536849161,
+    "wof:name":"Sahai Ban",
+    "wof:parent_id":1108692139,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.0047,
+    30.26327,
+    70.0047,
+    30.26327
+],
+  "geometry": {"coordinates":[70.0047,30.26327],"type":"Point"}
+}

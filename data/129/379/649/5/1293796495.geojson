@@ -1,0 +1,67 @@
+{
+  "id": 1293796495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.94294,30.11906,66.94294,30.11906",
+    "geom:latitude":30.11906,
+    "geom:longitude":66.94294,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Yakhab",
+    "gn:country_code":"PK",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9092229,
+    "gn:latitude":30.11906,
+    "gn:longitude":66.94294,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Yakhab",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890438109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9092229
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c1aa4894db986ee1167f6e53e5acef8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1293796495,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293796495,
+    "wof:lastmodified":1536837584,
+    "wof:name":"Yakhab",
+    "wof:parent_id":890438109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.94294000000001,
+    30.11906,
+    66.94294000000001,
+    30.11906
+],
+  "geometry": {"coordinates":[66.94294000000001,30.11906],"type":"Point"}
+}

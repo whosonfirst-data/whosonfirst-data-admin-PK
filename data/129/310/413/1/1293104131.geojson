@@ -1,0 +1,67 @@
+{
+  "id": 1293104131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.9507,33.36406,72.9507,33.36406",
+    "geom:latitude":33.36406,
+    "geom:longitude":72.9507,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hun",
+    "gn:country_code":"PK",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176786,
+    "gn:latitude":33.36406,
+    "gn:longitude":72.9507,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Hun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176786
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fb21059e3a9fdd91df11fcd475743d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1293104131,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293104131,
+    "wof:lastmodified":1536841650,
+    "wof:name":"Hun",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.9507,
+    33.36405999999999,
+    72.9507,
+    33.36405999999999
+],
+  "geometry": {"coordinates":[72.9507,33.36405999999999],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210016019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15948,31.31067,74.15948,31.31067",
+    "geom:latitude":31.31067,
+    "geom:longitude":74.15948,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mal",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171395,
+    "gn:latitude":31.31067,
+    "gn:longitude":74.15948,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Mal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a208d01dc9e8ba0581a8deac5b12ea5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1210016019,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1210016019,
+    "wof:lastmodified":1536395042,
+    "wof:name":"Mal",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15948,
+    31.31067,
+    74.15948,
+    31.31067
+],
+  "geometry": {"coordinates":[74.15948,31.31067],"type":"Point"}
+}

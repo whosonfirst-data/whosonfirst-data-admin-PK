@@ -1,0 +1,67 @@
+{
+  "id": 1259985255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56667,32.56667,71.56667,32.56667",
+    "geom:latitude":32.56667,
+    "geom:longitude":71.56667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhupsan",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333498,
+    "gn:latitude":32.56667,
+    "gn:longitude":71.56667,
+    "gn:modification_date":"1996-04-15",
+    "gn:name":"Dhupsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333498
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33f8b196094adde5d8e30cc20a70597d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1259985255,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259985255,
+    "wof:lastmodified":1536630990,
+    "wof:name":"Dhupsan",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56667,
+    32.56667,
+    71.56667,
+    32.56667
+],
+  "geometry": {"coordinates":[71.56667,32.56667],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209813659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58044,26.49195,68.58044,26.49195",
+    "geom:latitude":26.49195,
+    "geom:longitude":68.58044,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Chak Six",
+    "gn:country_code":"PK",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1403637,
+    "gn:latitude":26.49195,
+    "gn:longitude":68.58044,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Chak Six",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692371
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1403637
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af6262c302c7c18fe8200d83ae91dc70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692371,
+            "locality_id":1209813659,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209813659,
+    "wof:lastmodified":1536385298,
+    "wof:name":"Chak Six",
+    "wof:parent_id":1108692371,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58044,
+    26.49195,
+    68.58044,
+    26.49195
+],
+  "geometry": {"coordinates":[68.58044,26.49195],"type":"Point"}
+}

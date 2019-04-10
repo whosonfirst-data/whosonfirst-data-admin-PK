@@ -1,0 +1,67 @@
+{
+  "id": 1242977583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32163,34.05717,73.32163,34.05717",
+    "geom:latitude":34.05717,
+    "geom:longitude":73.32163,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tarsul",
+    "gn:country_code":"PK",
+    "gn:dem":1919,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988748,
+    "gn:latitude":34.05717,
+    "gn:longitude":73.32163,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Tarsul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988748
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"573b76554ed005da65a3e7e490634004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1242977583,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242977583,
+    "wof:lastmodified":1536983675,
+    "wof:name":"Tarsul",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32163,
+    34.05717,
+    73.32163,
+    34.05717
+],
+  "geometry": {"coordinates":[73.32163,34.05717],"type":"Point"}
+}

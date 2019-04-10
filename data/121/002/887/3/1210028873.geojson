@@ -1,0 +1,67 @@
+{
+  "id": 1210028873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.0382,31.18927,68.0382,31.18927",
+    "geom:latitude":31.18927,
+    "geom:longitude":68.0382,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Burj Kili",
+    "gn:country_code":"PK",
+    "gn:dem":2245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6384668,
+    "gn:latitude":31.18927,
+    "gn:longitude":68.0382,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Burj Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6384668
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"07bd2fc6b3c204a14eeecd6fae9800da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1210028873,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1210028873,
+    "wof:lastmodified":1536389488,
+    "wof:name":"Burj Kili",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.0382,
+    31.18927,
+    68.0382,
+    31.18927
+],
+  "geometry": {"coordinates":[68.0382,31.18927],"type":"Point"}
+}

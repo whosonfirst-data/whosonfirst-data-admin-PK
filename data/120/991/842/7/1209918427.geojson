@@ -1,0 +1,73 @@
+{
+  "id": 1209918427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.44183,25.26645,68.44183,25.26645",
+    "geom:latitude":25.26645,
+    "geom:longitude":68.44183,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Gundar",
+    "gn:country_code":"PK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177542,
+    "gn:latitude":25.26645,
+    "gn:longitude":68.44183,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Gundar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Gundar"
+    ],
+    "name:und_x_variant":[
+        "Gunder"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177542
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1985577c33b8ad62b87ba739b1f41906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692211,
+            "locality_id":1209918427,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209918427,
+    "wof:lastmodified":1537679719,
+    "wof:name":"Gundar",
+    "wof:parent_id":1108692211,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.44183000000001,
+    25.26645,
+    68.44183000000001,
+    25.26645
+],
+  "geometry": {"coordinates":[68.44183000000001,25.26645],"type":"Point"}
+}

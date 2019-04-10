@@ -1,0 +1,67 @@
+{
+  "id": 1193019373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.29531,33.88302,71.29531,33.88302",
+    "geom:latitude":33.88302,
+    "geom:longitude":71.29531,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Rosa",
+    "gn:country_code":"PK",
+    "gn:dem":823,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1450779,
+    "gn:latitude":33.88302,
+    "gn:longitude":71.29531,
+    "gn:modification_date":"2015-05-06",
+    "gn:name":"Rosa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1450779
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9d50212257e8272548d83b9e949305f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1193019373,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193019373,
+    "wof:lastmodified":1543515438,
+    "wof:name":"Rosa",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.29531,
+    33.88302,
+    71.29531,
+    33.88302
+],
+  "geometry": {"coordinates":[71.29531,33.88302],"type":"Point"}
+}

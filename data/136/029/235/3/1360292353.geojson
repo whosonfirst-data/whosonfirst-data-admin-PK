@@ -1,0 +1,67 @@
+{
+  "id": 1360292353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.36524,34.40294,73.36524,34.40294",
+    "geom:latitude":34.40294,
+    "geom:longitude":73.36524,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Por",
+    "gn:country_code":"PK",
+    "gn:dem":953,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997448,
+    "gn:latitude":34.40294,
+    "gn:longitude":73.36524,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Por",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997448
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7bea27214263ff2d9d3e0eaeaf2d302c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1360292353,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360292353,
+    "wof:lastmodified":1543515264,
+    "wof:name":"Por",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.36524,
+    34.40294,
+    73.36524,
+    34.40294
+],
+  "geometry": {"coordinates":[73.36524,34.40294],"type":"Point"}
+}

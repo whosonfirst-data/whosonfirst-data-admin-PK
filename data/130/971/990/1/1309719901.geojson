@@ -1,0 +1,67 @@
+{
+  "id": 1309719901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.80778,26.16261,64.80778,26.16261",
+    "geom:latitude":26.16261,
+    "geom:longitude":64.80778,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mara",
+    "gn:country_code":"PK",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098614,
+    "gn:latitude":26.16261,
+    "gn:longitude":64.80778,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Mara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098614
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bd8274645634181eea7b6cff60fdcd06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1309719901,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309719901,
+    "wof:lastmodified":1537052623,
+    "wof:name":"Mara",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.80778000000001,
+    26.16261,
+    64.80778000000001,
+    26.16261
+],
+  "geometry": {"coordinates":[64.80778000000001,26.16261],"type":"Point"}
+}

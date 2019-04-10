@@ -1,0 +1,67 @@
+{
+  "id": 1360008853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.01667,31.34694,74.01667,31.34694",
+    "geom:latitude":31.34694,
+    "geom:longitude":74.01667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dalleke",
+    "gn:country_code":"PK",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330641,
+    "gn:latitude":31.34694,
+    "gn:longitude":74.01667,
+    "gn:modification_date":"1999-03-17",
+    "gn:name":"Dalleke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330641
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c8925e2f038778159e9ac1b1bd747dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1360008853,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360008853,
+    "wof:lastmodified":1537053350,
+    "wof:name":"Dalleke",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.01666999999998,
+    31.34694,
+    74.01666999999998,
+    31.34694
+],
+  "geometry": {"coordinates":[74.01666999999998,31.34694],"type":"Point"}
+}

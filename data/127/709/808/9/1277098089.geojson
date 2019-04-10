@@ -1,0 +1,67 @@
+{
+  "id": 1277098089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52698,33.03998,73.52698,33.03998",
+    "geom:latitude":33.03998,
+    "geom:longitude":73.52698,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Ratial",
+    "gn:country_code":"PK",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167037,
+    "gn:latitude":33.03998,
+    "gn:longitude":73.52698,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ratial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167037
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"00040ba1e66d0813ca3c6cb7a7271ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1277098089,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1277098089,
+    "wof:lastmodified":1536745248,
+    "wof:name":"Ratial",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52698000000002,
+    33.03998,
+    73.52698000000002,
+    33.03998
+],
+  "geometry": {"coordinates":[73.52698000000002,33.03998],"type":"Point"}
+}

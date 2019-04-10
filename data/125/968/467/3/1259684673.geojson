@@ -1,0 +1,67 @@
+{
+  "id": 1259684673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15302,35.03539,73.15302,35.03539",
+    "geom:latitude":35.03539,
+    "geom:longitude":73.15302,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Garhar",
+    "gn:country_code":"PK",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045627,
+    "gn:latitude":35.03539,
+    "gn:longitude":73.15302,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Garhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045627
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d68302840fa8789da0baa6d582ba2519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1259684673,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259684673,
+    "wof:lastmodified":1537062509,
+    "wof:name":"Garhar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15302,
+    35.03539,
+    73.15302,
+    35.03539
+],
+  "geometry": {"coordinates":[73.15302,35.03539],"type":"Point"}
+}

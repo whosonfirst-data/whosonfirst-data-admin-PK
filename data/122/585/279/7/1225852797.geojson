@@ -1,0 +1,67 @@
+{
+  "id": 1225852797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.70588,26.69862,65.70588,26.69862",
+    "geom:latitude":26.69862,
+    "geom:longitude":65.70588,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Saidan",
+    "gn:country_code":"PK",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11243335,
+    "gn:latitude":26.69862,
+    "gn:longitude":65.70588,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Saidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11243335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e6d6986ac8801a905cbc25a0e372ad32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1225852797,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1225852797,
+    "wof:lastmodified":1537002683,
+    "wof:name":"Saidan",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.70588000000001,
+    26.69862,
+    65.70588000000001,
+    26.69862
+],
+  "geometry": {"coordinates":[65.70588000000001,26.69862],"type":"Point"}
+}

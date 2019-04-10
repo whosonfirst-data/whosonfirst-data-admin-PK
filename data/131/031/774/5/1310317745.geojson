@@ -1,0 +1,67 @@
+{
+  "id": 1310317745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53651,29.11691,66.53651,29.11691",
+    "geom:latitude":29.11691,
+    "geom:longitude":66.53651,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Ziarat",
+    "gn:country_code":"PK",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162095,
+    "gn:latitude":29.11691,
+    "gn:longitude":66.53651,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ziarat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162095
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e6b57e9b9022af851ce6c53fdc801fa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1310317745,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310317745,
+    "wof:lastmodified":1536690310,
+    "wof:name":"Ziarat",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53650999999999,
+    29.11691,
+    66.53650999999999,
+    29.11691
+],
+  "geometry": {"coordinates":[66.53650999999999,29.11691],"type":"Point"}
+}

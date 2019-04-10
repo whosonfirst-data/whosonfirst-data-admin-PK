@@ -1,0 +1,67 @@
+{
+  "id": 1260292591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.28296,29.08463,69.28296,29.08463",
+    "geom:latitude":29.08463,
+    "geom:longitude":69.28296,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bilaj",
+    "gn:country_code":"PK",
+    "gn:dem":669,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11000105,
+    "gn:latitude":29.08463,
+    "gn:longitude":69.28296,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Bilaj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11000105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e04e3fe4dc9d5d5ac9e280c45871372b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692161,
+            "locality_id":1260292591,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260292591,
+    "wof:lastmodified":1536699899,
+    "wof:name":"Bilaj",
+    "wof:parent_id":1108692161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.28296,
+    29.08463,
+    69.28296,
+    29.08463
+],
+  "geometry": {"coordinates":[69.28296,29.08463],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1326528503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.21286,25.88727,68.21286,25.88727",
+    "geom:latitude":25.88727,
+    "geom:longitude":68.21286,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Waryani",
+    "gn:country_code":"PK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1359109,
+    "gn:latitude":25.88727,
+    "gn:longitude":68.21286,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Waryani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1359109
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc9cc0d3b549f95eb236bd999f70acfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692219,
+            "locality_id":1326528503,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1326528503,
+    "wof:lastmodified":1536988637,
+    "wof:name":"Waryani",
+    "wof:parent_id":1108692219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.21285999999999,
+    25.88727,
+    68.21285999999999,
+    25.88727
+],
+  "geometry": {"coordinates":[68.21285999999999,25.88727],"type":"Point"}
+}

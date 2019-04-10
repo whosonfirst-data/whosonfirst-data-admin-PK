@@ -1,0 +1,69 @@
+{
+  "id": 890431367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.87741,31.90991,70.87741,31.90991",
+    "geom:latitude":31.90991,
+    "geom:longitude":70.87741,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:pop":67439,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Shorkot"
+    ],
+    "qs:name":"Shorko",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164987,
+        "gp:id":12515232,
+        "qs:id":276031
+    },
+    "wof:country":"PK",
+    "wof:created":1469051888,
+    "wof:geomhash":"0901fe5442adc27de67ab9872bc76f40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":890431367,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":890431367,
+    "wof:lastmodified":1543515369,
+    "wof:name":"Shorko",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:population":67439,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.87741,
+    31.90991,
+    70.87741,
+    31.90991
+],
+  "geometry": {"coordinates":[70.87741,31.90991],"type":"Point"}
+}

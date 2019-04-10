@@ -1,0 +1,71 @@
+{
+  "id": 1209529209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69985,32.64264,69.69985,32.64264",
+    "geom:latitude":32.64264,
+    "geom:longitude":69.69985,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Punga Kale",
+    "gn:country_code":"PK",
+    "gn:dem":2147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1107650,
+    "gn:latitude":32.64264,
+    "gn:longitude":69.69985,
+    "gn:modification_date":"2014-12-02",
+    "gn:name":"Punga Kale",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Punga Kili",
+        "Kao Khulla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1107650
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b3f877d3e99871222bcf7ee27a810b44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1209529209,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209529209,
+    "wof:lastmodified":1543515774,
+    "wof:name":"Punga Kale",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69985,
+    32.64264,
+    69.69985,
+    32.64264
+],
+  "geometry": {"coordinates":[69.69985,32.64264],"type":"Point"}
+}

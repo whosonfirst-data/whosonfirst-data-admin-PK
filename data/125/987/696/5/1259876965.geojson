@@ -1,0 +1,78 @@
+{
+  "id": 1259876965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23052,34.82724,74.23052,34.82724",
+    "geom:latitude":34.82724,
+    "geom:longitude":74.23052,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Seri",
+    "gn:country_code":"PK",
+    "gn:dem":2080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8355198,
+    "gn:latitude":34.82724,
+    "gn:longitude":74.23052,
+    "gn:modification_date":"2012-08-05",
+    "gn:name":"Seri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8355198
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"edd544ef17f14cc83894792232986d7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1259876965,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1259876965,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259876965,
+    "wof:lastmodified":1536789062,
+    "wof:name":"Seri",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23052,
+    34.82724,
+    74.23052,
+    34.82724
+],
+  "geometry": {"coordinates":[74.23052,34.82724],"type":"Point"}
+}

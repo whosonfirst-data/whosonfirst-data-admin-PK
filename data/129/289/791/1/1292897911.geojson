@@ -1,0 +1,78 @@
+{
+  "id": 1292897911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.62061,33.87694,73.62061,33.87694",
+    "geom:latitude":33.87694,
+    "geom:longitude":73.62061,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nar",
+    "gn:country_code":"PK",
+    "gn:dem":1162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7097441,
+    "gn:latitude":33.87694,
+    "gn:longitude":73.62061,
+    "gn:modification_date":"2011-05-09",
+    "gn:name":"Nar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7097441
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"871bafbb9f83d8f16621e17e1d6b051c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1292897911,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1292897911,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1292897911,
+    "wof:lastmodified":1536642168,
+    "wof:name":"Nar",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.62061,
+    33.87694,
+    73.62061,
+    33.87694
+],
+  "geometry": {"coordinates":[73.62061,33.87694],"type":"Point"}
+}

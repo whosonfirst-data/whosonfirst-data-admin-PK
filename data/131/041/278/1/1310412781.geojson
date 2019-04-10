@@ -1,0 +1,67 @@
+{
+  "id": 1310412781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.84438,33.79246,72.84438,33.79246",
+    "geom:latitude":33.79246,
+    "geom:longitude":72.84438,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sultanpur",
+    "gn:country_code":"PK",
+    "gn:dem":507,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338294,
+    "gn:latitude":33.79246,
+    "gn:longitude":72.84438,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sultanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338294
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"30d3a7dcc4427a1f66b2b703f2de2145",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1310412781,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310412781,
+    "wof:lastmodified":1537048651,
+    "wof:name":"Sultanpur",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.84438,
+    33.79246,
+    72.84438,
+    33.79246
+],
+  "geometry": {"coordinates":[72.84438,33.79246],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343857847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.84713,30.55642,70.84713,30.55642",
+    "geom:latitude":30.55642,
+    "geom:longitude":70.84713,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhairwala",
+    "gn:country_code":"PK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11178166,
+    "gn:latitude":30.55642,
+    "gn:longitude":70.84713,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Bhairwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11178166
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"36b5bb5730f0498df36f1f7834355649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343857847,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343857847,
+    "wof:lastmodified":1536670355,
+    "wof:name":"Bhairwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.84713,
+    30.55642000000001,
+    70.84713,
+    30.55642000000001
+],
+  "geometry": {"coordinates":[70.84713000000001,30.55642000000001],"type":"Point"}
+}

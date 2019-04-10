@@ -1,0 +1,76 @@
+{
+  "id": 1243477657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78583,30.01573,70.78583,30.01573",
+    "geom:latitude":30.01573,
+    "geom:longitude":70.78583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sakhira Arain",
+    "gn:country_code":"PK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166395,
+    "gn:latitude":30.01573,
+    "gn:longitude":70.78583,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Sakhira Arain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Sakhira Arain"
+    ],
+    "name:eng_x_variant":[
+        "Sakhera Arain"
+    ],
+    "name:und_x_variant":[
+        "Sakhera Arain"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166395
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c19bb4d0e6b3ddf684965b3a8bf55441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1243477657,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243477657,
+    "wof:lastmodified":1537679322,
+    "wof:name":"Sakhira Arain",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78583,
+    30.01573,
+    70.78583,
+    30.01573
+],
+  "geometry": {"coordinates":[70.78583,30.01573],"type":"Point"}
+}

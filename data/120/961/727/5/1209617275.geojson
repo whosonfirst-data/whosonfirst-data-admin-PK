@@ -1,0 +1,61 @@
+{
+  "id": 1209617275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.6345,30.68433,66.6345,30.68433",
+    "geom:latitude":30.68433,
+    "geom:longitude":66.6345,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sulaiman Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1351438,
+    "gn:latitude":30.68433,
+    "gn:longitude":66.6345,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Sulaiman Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351438
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f0e51b7d3f27ed4b18ac4922704d65ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209617275
+        }
+    ],
+    "wof:id":1209617275,
+    "wof:lastmodified":1536281645,
+    "wof:name":"Sulaiman Khel",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.6345,
+    30.68433,
+    66.6345,
+    30.68433
+],
+  "geometry": {"coordinates":[66.6345,30.68433],"type":"Point"}
+}

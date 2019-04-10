@@ -1,0 +1,97 @@
+{
+  "id": 1210013805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.49722,34.79861,74.49722,34.79861",
+    "geom:latitude":34.79861,
+    "geom:longitude":74.49722,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jandar Seri",
+    "gn:country_code":"PK",
+    "gn:dem":2196,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412504,
+    "gn:latitude":34.79861,
+    "gn:longitude":74.49722,
+    "gn:modification_date":"2002-01-16",
+    "gn:name":"Jandar Seri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659,
+        85672137,
+        85632427,
+        1108794095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412504
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"745169f210f5be2c7b1aafda811cb71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1210013805,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1210013805,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108794095,
+            "disputed_id":85632427,
+            "locality_id":1210013805,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108794095,
+            "disputed_id":85632427,
+            "locality_id":1210013805,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1210013805,
+    "wof:lastmodified":1536396004,
+    "wof:name":"Jandar Seri",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.49722,
+    34.79861,
+    74.49722,
+    34.79861
+],
+  "geometry": {"coordinates":[74.49722,34.79861],"type":"Point"}
+}

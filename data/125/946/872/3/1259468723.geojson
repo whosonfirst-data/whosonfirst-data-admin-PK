@@ -1,0 +1,78 @@
+{
+  "id": 1259468723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.01099,35.671,75.01099,35.671",
+    "geom:latitude":35.671,
+    "geom:longitude":75.01099,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Khirza",
+    "gn:country_code":"PK",
+    "gn:dem":2416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070572,
+    "gn:latitude":35.671,
+    "gn:longitude":75.01099,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Khirza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070572
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"48b637a105314eb39f971f4d531c0e7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1259468723,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1259468723,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1259468723,
+    "wof:lastmodified":1536879221,
+    "wof:name":"Khirza",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.01099,
+    35.671,
+    75.01099,
+    35.671
+],
+  "geometry": {"coordinates":[75.01099000000001,35.671],"type":"Point"}
+}

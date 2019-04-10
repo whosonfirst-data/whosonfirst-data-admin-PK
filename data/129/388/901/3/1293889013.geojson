@@ -1,0 +1,67 @@
+{
+  "id": 1293889013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32469,32.23845,73.32469,32.23845",
+    "geom:latitude":32.23845,
+    "geom:longitude":73.32469,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Musa Khurd",
+    "gn:country_code":"PK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169660,
+    "gn:latitude":32.23845,
+    "gn:longitude":73.32469,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Musa Khurd",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169660
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ecc3415850488d39b33416cc8398051e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1293889013,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293889013,
+    "wof:lastmodified":1536705629,
+    "wof:name":"Musa Khurd",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32469,
+    32.23845,
+    73.32469,
+    32.23845
+],
+  "geometry": {"coordinates":[73.32469,32.23845],"type":"Point"}
+}

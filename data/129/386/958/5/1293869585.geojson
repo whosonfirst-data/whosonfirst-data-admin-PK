@@ -1,0 +1,78 @@
+{
+  "id": 1293869585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.83279,35.09071,75.83279,35.09071",
+    "geom:latitude":35.09071,
+    "geom:longitude":75.83279,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Apalwa",
+    "gn:country_code":"PK",
+    "gn:dem":3592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081025,
+    "gn:latitude":35.09071,
+    "gn:longitude":75.83279,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Apalwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081025
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dcd1db27f473d5ddd2e355a84b5a3bac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293869585,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293869585,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293869585,
+    "wof:lastmodified":1536733643,
+    "wof:name":"Apalwa",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.83279,
+    35.09070999999999,
+    75.83279,
+    35.09070999999999
+],
+  "geometry": {"coordinates":[75.83279,35.09070999999999],"type":"Point"}
+}

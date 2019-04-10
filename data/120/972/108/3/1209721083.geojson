@@ -1,0 +1,73 @@
+{
+  "id": 1209721083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01329,32.47164,73.01329,32.47164",
+    "geom:latitude":32.47164,
+    "geom:longitude":73.01329,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Minwais",
+    "gn:country_code":"PK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170432,
+    "gn:latitude":32.47164,
+    "gn:longitude":73.01329,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Minwais",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manwais",
+        "Manwains",
+        "Mi\u0101nwais",
+        "Minwais"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170432
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e94446f8d634a01e63562a37ac08688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1209721083,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209721083,
+    "wof:lastmodified":1537679467,
+    "wof:name":"Minwais",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01329,
+    32.47164,
+    73.01329,
+    32.47164
+],
+  "geometry": {"coordinates":[73.01329,32.47164],"type":"Point"}
+}

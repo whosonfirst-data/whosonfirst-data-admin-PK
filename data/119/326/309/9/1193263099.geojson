@@ -1,0 +1,73 @@
+{
+  "id": 1193263099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99749,33.63709,72.99749,33.63709",
+    "geom:latitude":33.63709,
+    "geom:longitude":72.99749,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bakra",
+    "gn:country_code":"PK",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182334,
+    "gn:latitude":33.63709,
+    "gn:longitude":72.99749,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Bakra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bokra"
+    ],
+    "name:und_x_variant":[
+        "Nai \u0100b\u0101di"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675741,
+        1108692213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182334
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dc105b89f9709b51ecc9aba418d02191",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1193263099,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1193263099,
+    "wof:lastmodified":1537679888,
+    "wof:name":"Bakra",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99749,
+    33.63709,
+    72.99749,
+    33.63709
+],
+  "geometry": {"coordinates":[72.99749,33.63709],"type":"Point"}
+}

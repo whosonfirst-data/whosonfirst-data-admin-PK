@@ -1,0 +1,78 @@
+{
+  "id": 1193130947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.13698,35.11127,76.13698,35.11127",
+    "geom:latitude":35.11127,
+    "geom:longitude":76.13698,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghompot Glacier",
+    "gn:country_code":"PK",
+    "gn:dem":4607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088125,
+    "gn:latitude":35.11127,
+    "gn:longitude":76.13698,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Ghompot Glacier",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088125
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0da4f25790ab5f9eb8f8c7e207512c2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1193130947,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1193130947,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193130947,
+    "wof:lastmodified":1536375832,
+    "wof:name":"Ghompot Glacier",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.13698000000002,
+    35.11127,
+    76.13698000000002,
+    35.11127
+],
+  "geometry": {"coordinates":[76.13698000000002,35.11127],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226055125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.46194,27.63611,63.46194,27.63611",
+    "geom:latitude":27.63611,
+    "geom:longitude":63.46194,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gird",
+    "gn:country_code":"PK",
+    "gn:dem":610,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1462847,
+    "gn:latitude":27.63611,
+    "gn:longitude":63.46194,
+    "gn:modification_date":"2000-03-24",
+    "gn:name":"Gird",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1462847
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f5c37d05a2117eb5be1d620acf6d2c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1226055125,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226055125,
+    "wof:lastmodified":1536711887,
+    "wof:name":"Gird",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.46194000000001,
+    27.63611,
+    63.46194000000001,
+    27.63611
+],
+  "geometry": {"coordinates":[63.46194000000001,27.63611],"type":"Point"}
+}

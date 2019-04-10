@@ -1,0 +1,67 @@
+{
+  "id": 1344257671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.94421,33.74619,72.94421,33.74619",
+    "geom:latitude":33.74619,
+    "geom:longitude":72.94421,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sabra",
+    "gn:country_code":"PK",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338874,
+    "gn:latitude":33.74619,
+    "gn:longitude":72.94421,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Sabra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338874
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10dc3f6b7e13371934dabcfab7e281f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1344257671,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344257671,
+    "wof:lastmodified":1537085033,
+    "wof:name":"Sabra",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.94421,
+    33.74619000000001,
+    72.94421,
+    33.74619000000001
+],
+  "geometry": {"coordinates":[72.94421,33.74619000000001],"type":"Point"}
+}

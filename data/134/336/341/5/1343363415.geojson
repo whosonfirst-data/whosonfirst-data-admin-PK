@@ -1,0 +1,67 @@
+{
+  "id": 1343363415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57339,27.09805,68.57339,27.09805",
+    "geom:latitude":27.09805,
+    "geom:longitude":68.57339,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Khuda Bakhsh",
+    "gn:country_code":"PK",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7343521,
+    "gn:latitude":27.09805,
+    "gn:longitude":68.57339,
+    "gn:modification_date":"2017-06-07",
+    "gn:name":"Khuda Bakhsh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7343521
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"18cd17a6ad31b73a0ff1709199a191fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1343363415,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343363415,
+    "wof:lastmodified":1536885703,
+    "wof:name":"Khuda Bakhsh",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57339,
+    27.09805,
+    68.57339,
+    27.09805
+],
+  "geometry": {"coordinates":[68.57339,27.09805],"type":"Point"}
+}

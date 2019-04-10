@@ -1,0 +1,70 @@
+{
+  "id": 1209721177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.19178,30.15883,72.19178,30.15883",
+    "geom:latitude":30.15883,
+    "geom:longitude":72.19178,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Alipur",
+    "gn:country_code":"PK",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421531,
+    "gn:latitude":30.15883,
+    "gn:longitude":72.19178,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Alipur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Al\u012bpura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83e1c9b1357ee274645027c7cd544482",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1209721177,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209721177,
+    "wof:lastmodified":1537681480,
+    "wof:name":"Alipur",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.19178000000002,
+    30.15883,
+    72.19178000000002,
+    30.15883
+],
+  "geometry": {"coordinates":[72.19178000000002,30.15883],"type":"Point"}
+}

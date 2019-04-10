@@ -1,0 +1,71 @@
+{
+  "id": 1226541131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.37112,34.98036,72.37112,34.98036",
+    "geom:latitude":34.98036,
+    "geom:longitude":72.37112,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khelkhona",
+    "gn:country_code":"PK",
+    "gn:dem":1299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173941,
+    "gn:latitude":34.98036,
+    "gn:longitude":72.37112,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Khelkhona",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khal Kanai",
+        "Khelkhona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173941
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"917eb20aebbfa560297453d5f80b0b80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1226541131,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226541131,
+    "wof:lastmodified":1537679591,
+    "wof:name":"Khelkhona",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.37111999999998,
+    34.98036,
+    72.37111999999998,
+    34.98036
+],
+  "geometry": {"coordinates":[72.37111999999998,34.98036],"type":"Point"}
+}

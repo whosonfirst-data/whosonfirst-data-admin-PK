@@ -1,0 +1,67 @@
+{
+  "id": 1293213041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.85361,27.70425,65.85361,27.70425",
+    "geom:latitude":27.70425,
+    "geom:longitude":65.85361,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Meti",
+    "gn:country_code":"PK",
+    "gn:dem":1403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7580016,
+    "gn:latitude":27.70425,
+    "gn:longitude":65.85361,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Meti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7580016
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f9aff8ed33e59e432b1657ba5461d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1293213041,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293213041,
+    "wof:lastmodified":1536685630,
+    "wof:name":"Meti",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.85361,
+    27.70425,
+    65.85361,
+    27.70425
+],
+  "geometry": {"coordinates":[65.85361,27.70425],"type":"Point"}
+}

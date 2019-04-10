@@ -1,0 +1,83 @@
+{
+  "id": 1343755641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.83867,35.46634,73.83867,35.46634",
+    "geom:latitude":35.46634,
+    "geom:longitude":73.83867,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Maruske",
+    "gn:country_code":"PK",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169678,
+    "gn:latitude":35.46634,
+    "gn:longitude":73.83867,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Maruske",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maruski",
+        "Muruski",
+        "Maruske"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169678
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2440f08351b88327de5c850ead9d7c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343755641,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343755641,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343755641,
+    "wof:lastmodified":1537679440,
+    "wof:name":"Maruske",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.83867,
+    35.46634,
+    73.83867,
+    35.46634
+],
+  "geometry": {"coordinates":[73.83866999999999,35.46634],"type":"Point"}
+}

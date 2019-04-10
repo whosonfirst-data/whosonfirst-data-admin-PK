@@ -1,0 +1,67 @@
+{
+  "id": 1260188107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.47489,28.47688,70.47489,28.47688",
+    "geom:latitude":28.47688,
+    "geom:longitude":70.47489,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mad Hasan",
+    "gn:country_code":"PK",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023389,
+    "gn:latitude":28.47688,
+    "gn:longitude":70.47489,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Mad Hasan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6b2c83f12093711f918e3fe3f15da497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1260188107,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260188107,
+    "wof:lastmodified":1536840561,
+    "wof:name":"Mad Hasan",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.47489,
+    28.47688,
+    70.47489,
+    28.47688
+],
+  "geometry": {"coordinates":[70.47489,28.47688],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310509353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.06806,30.61806,68.06806,30.61806",
+    "geom:latitude":30.61806,
+    "geom:longitude":68.06806,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Kohai",
+    "gn:country_code":"PK",
+    "gn:dem":2036,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365966,
+    "gn:latitude":30.61806,
+    "gn:longitude":68.06806,
+    "gn:modification_date":"2001-09-20",
+    "gn:name":"Kohai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365966
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"139b5910f9d3bf10f825564a0d161fba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1310509353,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310509353,
+    "wof:lastmodified":1536911640,
+    "wof:name":"Kohai",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.06806,
+    30.61806,
+    68.06806,
+    30.61806
+],
+  "geometry": {"coordinates":[68.06806,30.61806],"type":"Point"}
+}

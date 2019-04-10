@@ -1,0 +1,67 @@
+{
+  "id": 1259783051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85277,31.52546,71.85277,31.52546",
+    "geom:latitude":31.52546,
+    "geom:longitude":71.85277,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mahni",
+    "gn:country_code":"PK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171544,
+    "gn:latitude":31.52546,
+    "gn:longitude":71.85277,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Mahni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171544
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3e1b193b0d45cc2f05765f0516ac27b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1259783051,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259783051,
+    "wof:lastmodified":1536924506,
+    "wof:name":"Mahni",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85276999999998,
+    31.52546,
+    71.85276999999998,
+    31.52546
+],
+  "geometry": {"coordinates":[71.85276999999998,31.52546],"type":"Point"}
+}

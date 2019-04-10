@@ -1,0 +1,67 @@
+{
+  "id": 1360286511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.73801,35.08868,72.73801,35.08868",
+    "geom:latitude":35.08868,
+    "geom:longitude":72.73801,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kachar",
+    "gn:country_code":"PK",
+    "gn:dem":2232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478766,
+    "gn:latitude":35.08868,
+    "gn:longitude":72.73801,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Kachar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478766
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a973ce44604248e816ea097c12450b6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1360286511,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360286511,
+    "wof:lastmodified":1543515329,
+    "wof:name":"Kachar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.73801,
+    35.08868,
+    72.73801,
+    35.08868
+],
+  "geometry": {"coordinates":[72.73801,35.08868],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276788211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.76763,34.6423,73.76763,34.6423",
+    "geom:latitude":34.6423,
+    "geom:longitude":73.76763,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bagawan",
+    "gn:country_code":"PK",
+    "gn:dem":2154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10944551,
+    "gn:latitude":34.6423,
+    "gn:longitude":73.76763,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bagawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10944551
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a99f3ad727f809a3a354303a075e996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1276788211,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1276788211,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276788211,
+    "wof:lastmodified":1536666531,
+    "wof:name":"Bagawan",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.76763000000003,
+    34.6423,
+    73.76763000000003,
+    34.6423
+],
+  "geometry": {"coordinates":[73.76763000000003,34.6423],"type":"Point"}
+}

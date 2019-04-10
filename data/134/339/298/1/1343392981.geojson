@@ -1,0 +1,67 @@
+{
+  "id": 1343392981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.27039,31.0767,70.27039,31.0767",
+    "geom:latitude":31.0767,
+    "geom:longitude":70.27039,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sigra",
+    "gn:country_code":"PK",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10038565,
+    "gn:latitude":31.0767,
+    "gn:longitude":70.27039,
+    "gn:modification_date":"2015-04-10",
+    "gn:name":"Sigra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692317
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10038565
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57d21ba80b49990b679969ebc90c580c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692317,
+            "locality_id":1343392981,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343392981,
+    "wof:lastmodified":1536842625,
+    "wof:name":"Sigra",
+    "wof:parent_id":1108692317,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.27039,
+    31.0767,
+    70.27039,
+    31.0767
+],
+  "geometry": {"coordinates":[70.27039000000001,31.0767],"type":"Point"}
+}

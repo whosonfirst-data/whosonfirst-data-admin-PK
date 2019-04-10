@@ -1,0 +1,78 @@
+{
+  "id": 1327131517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.55183,34.48077,73.55183,34.48077",
+    "geom:latitude":34.48077,
+    "geom:longitude":73.55183,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Hariala",
+    "gn:country_code":"PK",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385459,
+    "gn:latitude":34.48077,
+    "gn:longitude":73.55183,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Hariala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385459
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"01460e1ffd537386131164e4f7d1a0cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327131517,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1327131517,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1327131517,
+    "wof:lastmodified":1536615062,
+    "wof:name":"Hariala",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.55183000000002,
+    34.48077,
+    73.55183000000002,
+    34.48077
+],
+  "geometry": {"coordinates":[73.55183000000002,34.48077],"type":"Point"}
+}

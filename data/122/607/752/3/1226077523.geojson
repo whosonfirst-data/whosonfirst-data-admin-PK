@@ -1,0 +1,67 @@
+{
+  "id": 1226077523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.39234,29.52569,71.39234,29.52569",
+    "geom:latitude":29.52569,
+    "geom:longitude":71.39234,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jamwala",
+    "gn:country_code":"PK",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7392422,
+    "gn:latitude":29.52569,
+    "gn:longitude":71.39234,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Jamwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7392422
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7bdb7751147d2d606fe98711404dd83c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1226077523,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226077523,
+    "wof:lastmodified":1536679439,
+    "wof:name":"Jamwala",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.39234,
+    29.52569,
+    71.39234,
+    29.52569
+],
+  "geometry": {"coordinates":[71.39234,29.52569],"type":"Point"}
+}

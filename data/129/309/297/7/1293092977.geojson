@@ -1,0 +1,81 @@
+{
+  "id": 1293092977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.36445,32.86479,74.36445,32.86479",
+    "geom:latitude":32.86479,
+    "geom:longitude":74.36445,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mahalla Liaquatabad",
+    "gn:country_code":"PK",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413375,
+    "gn:latitude":32.86479,
+    "gn:longitude":74.36445,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mahalla Liaquatabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ull\u0101nw\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ee96c96990dd96ac028c4a310900e3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293092977,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293092977,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293092977,
+    "wof:lastmodified":1537681313,
+    "wof:name":"Mahalla Liaquatabad",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.36445,
+    32.86479,
+    74.36445,
+    32.86479
+],
+  "geometry": {"coordinates":[74.36445000000001,32.86479],"type":"Point"}
+}

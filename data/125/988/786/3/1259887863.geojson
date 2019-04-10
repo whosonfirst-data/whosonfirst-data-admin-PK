@@ -1,0 +1,67 @@
+{
+  "id": 1259887863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47328,27.90603,66.47328,27.90603",
+    "geom:latitude":27.90603,
+    "geom:longitude":66.47328,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Khat",
+    "gn:country_code":"PK",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1399955,
+    "gn:latitude":27.90603,
+    "gn:longitude":66.47328,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Khat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1399955
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c40b2300ed59623a53c8ca4c0630fd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1259887863,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259887863,
+    "wof:lastmodified":1536773398,
+    "wof:name":"Khat",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47328,
+    27.90603,
+    66.47328,
+    27.90603
+],
+  "geometry": {"coordinates":[66.47328,27.90603],"type":"Point"}
+}

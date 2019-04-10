@@ -1,0 +1,67 @@
+{
+  "id": 1260290307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76499,28.99247,70.76499,28.99247",
+    "geom:latitude":28.99247,
+    "geom:longitude":70.76499,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kotla Kainsar",
+    "gn:country_code":"PK",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1393314,
+    "gn:latitude":28.99247,
+    "gn:longitude":70.76499,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Kotla Kainsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692357
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1393314
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"00b1d47ce7c89cbdea0b1c32aa0c9f34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1260290307,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260290307,
+    "wof:lastmodified":1536703045,
+    "wof:name":"Kotla Kainsar",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76499,
+    28.99247,
+    70.76499,
+    28.99247
+],
+  "geometry": {"coordinates":[70.76499,28.99247],"type":"Point"}
+}

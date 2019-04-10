@@ -1,0 +1,86 @@
+{
+  "id": 1259505055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.64068,33.75279,73.64068,33.75279",
+    "geom:latitude":33.75279,
+    "geom:longitude":73.64068,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Sain Manga Shah",
+    "gn:country_code":"PK",
+    "gn:dem":756,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986202,
+    "gn:latitude":33.75279,
+    "gn:longitude":73.64068,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Sain Manga Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986202
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cfb9dc22d3f7f47a4c1818462b3b743b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1259505055,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259505055,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1259505055,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259505055,
+    "wof:lastmodified":1536826906,
+    "wof:name":"Sain Manga Shah",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.64068,
+    33.75279,
+    73.64068,
+    33.75279
+],
+  "geometry": {"coordinates":[73.64068,33.75279],"type":"Point"}
+}

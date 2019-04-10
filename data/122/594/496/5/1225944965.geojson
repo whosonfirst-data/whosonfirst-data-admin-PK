@@ -1,0 +1,67 @@
+{
+  "id": 1225944965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03195,33.83118,73.03195,33.83118",
+    "geom:latitude":33.83118,
+    "geom:longitude":73.03195,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bagh",
+    "gn:country_code":"PK",
+    "gn:dem":1201,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11423855,
+    "gn:latitude":33.83118,
+    "gn:longitude":73.03195,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Bagh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11423855
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f2891093904246335162ff592f1db37d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1225944965,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225944965,
+    "wof:lastmodified":1543515665,
+    "wof:name":"Bagh",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03195,
+    33.83118,
+    73.03195,
+    33.83118
+],
+  "geometry": {"coordinates":[73.03194999999999,33.83118],"type":"Point"}
+}

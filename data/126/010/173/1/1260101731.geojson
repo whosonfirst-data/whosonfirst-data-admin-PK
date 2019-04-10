@@ -1,0 +1,81 @@
+{
+  "id": 1260101731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49188,34.39675,73.49188,34.39675",
+    "geom:latitude":34.39675,
+    "geom:longitude":73.49188,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bor Bala",
+    "gn:country_code":"PK",
+    "gn:dem":1161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406740,
+    "gn:latitude":34.39675,
+    "gn:longitude":73.49188,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bor Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Borb\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406740
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0505bdbf867c64f940f32301e27bf0e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260101731,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260101731,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260101731,
+    "wof:lastmodified":1537681202,
+    "wof:name":"Bor Bala",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49188000000002,
+    34.39675,
+    73.49188000000002,
+    34.39675
+],
+  "geometry": {"coordinates":[73.49188000000002,34.39675],"type":"Point"}
+}

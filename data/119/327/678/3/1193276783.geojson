@@ -1,0 +1,67 @@
+{
+  "id": 1193276783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.2614,34.88923,73.2614,34.88923",
+    "geom:latitude":34.88923,
+    "geom:longitude":73.2614,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Sil",
+    "gn:country_code":"PK",
+    "gn:dem":2975,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390444,
+    "gn:latitude":34.88923,
+    "gn:longitude":73.2614,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Sil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390444
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d442bbd89ea5aba59cde7fe74883d7bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1193276783,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193276783,
+    "wof:lastmodified":1543515527,
+    "wof:name":"Sil",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.2614,
+    34.88923,
+    73.2614,
+    34.88923
+],
+  "geometry": {"coordinates":[73.26139999999999,34.88923],"type":"Point"}
+}

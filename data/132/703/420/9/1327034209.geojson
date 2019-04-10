@@ -1,0 +1,67 @@
+{
+  "id": 1327034209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.31158,27.37182,69.31158,27.37182",
+    "geom:latitude":27.37182,
+    "geom:longitude":69.31158,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Irki",
+    "gn:country_code":"PK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1362488,
+    "gn:latitude":27.37182,
+    "gn:longitude":69.31158,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Irki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1362488
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b611e5a83b55970e7231ea18a4c3ade",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1327034209,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1327034209,
+    "wof:lastmodified":1536757917,
+    "wof:name":"Irki",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.31158,
+    27.37182,
+    69.31158,
+    27.37182
+],
+  "geometry": {"coordinates":[69.31158000000001,27.37182],"type":"Point"}
+}

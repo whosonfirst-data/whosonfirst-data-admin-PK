@@ -1,0 +1,81 @@
+{
+  "id": 1309826327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.90015,35.66676,74.90015,35.66676",
+    "geom:latitude":35.66676,
+    "geom:longitude":74.90015,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Balchi",
+    "gn:country_code":"PK",
+    "gn:dem":2871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423567,
+    "gn:latitude":35.66676,
+    "gn:longitude":74.90015,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Balchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Balche"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423567
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b95b3d0fc131b667678ffd8efd63e21f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1309826327,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1309826327,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309826327,
+    "wof:lastmodified":1537681906,
+    "wof:name":"Balchi",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.90015,
+    35.66676,
+    74.90015,
+    35.66676
+],
+  "geometry": {"coordinates":[74.90015,35.66676],"type":"Point"}
+}

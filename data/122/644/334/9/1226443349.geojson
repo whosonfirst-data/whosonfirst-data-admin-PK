@@ -1,0 +1,67 @@
+{
+  "id": 1226443349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65503,33.87271,72.65503,33.87271",
+    "geom:latitude":33.87271,
+    "geom:longitude":72.65503,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jabbar",
+    "gn:country_code":"PK",
+    "gn:dem":444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413654,
+    "gn:latitude":33.87271,
+    "gn:longitude":72.65503,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Jabbar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413654
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1c2d2a70b7005c5966a0bdea59444eb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1226443349,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226443349,
+    "wof:lastmodified":1536648630,
+    "wof:name":"Jabbar",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65503000000002,
+    33.87271,
+    72.65503000000002,
+    33.87271
+],
+  "geometry": {"coordinates":[72.65503000000002,33.87271],"type":"Point"}
+}

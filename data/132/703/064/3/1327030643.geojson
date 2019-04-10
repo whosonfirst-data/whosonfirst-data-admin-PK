@@ -1,0 +1,67 @@
+{
+  "id": 1327030643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.88827,33.67396,71.88827,33.67396",
+    "geom:latitude":33.67396,
+    "geom:longitude":71.88827,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Manduni",
+    "gn:country_code":"PK",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7081058,
+    "gn:latitude":33.67396,
+    "gn:longitude":71.88827,
+    "gn:modification_date":"2015-09-07",
+    "gn:name":"Manduni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7081058
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2383c3fe9f9e3063dd2995b64de57e49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692263,
+            "locality_id":1327030643,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1327030643,
+    "wof:lastmodified":1536763290,
+    "wof:name":"Manduni",
+    "wof:parent_id":1108692263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.88826999999998,
+    33.67396,
+    71.88826999999998,
+    33.67396
+],
+  "geometry": {"coordinates":[71.88826999999998,33.67396],"type":"Point"}
+}

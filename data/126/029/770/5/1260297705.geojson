@@ -1,0 +1,67 @@
+{
+  "id": 1260297705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.75286,31.49083,69.75286,31.49083",
+    "geom:latitude":31.49083,
+    "geom:longitude":69.75286,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shakai",
+    "gn:country_code":"PK",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6307887,
+    "gn:latitude":31.49083,
+    "gn:longitude":69.75286,
+    "gn:modification_date":"2015-07-04",
+    "gn:name":"Shakai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6307887
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33053a9b5a00cacac4882cff5da9f71b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1260297705,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1260297705,
+    "wof:lastmodified":1536692995,
+    "wof:name":"Shakai",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.75286,
+    31.49083,
+    69.75286,
+    31.49083
+],
+  "geometry": {"coordinates":[69.75286,31.49083],"type":"Point"}
+}

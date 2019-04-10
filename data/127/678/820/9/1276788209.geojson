@@ -1,0 +1,78 @@
+{
+  "id": 1276788209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15198,33.96622,74.15198,33.96622",
+    "geom:latitude":33.96622,
+    "geom:longitude":74.15198,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sari",
+    "gn:country_code":"PK",
+    "gn:dem":2774,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414925,
+    "gn:latitude":33.96622,
+    "gn:longitude":74.15198,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Sari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414925
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f9aef8903ddfc100da116d5937102978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276788209,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276788209,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276788209,
+    "wof:lastmodified":1536666534,
+    "wof:name":"Sari",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15198000000002,
+    33.96622,
+    74.15198000000002,
+    33.96622
+],
+  "geometry": {"coordinates":[74.15198000000002,33.96622],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209436503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90924,33.39748,73.90924,33.39748",
+    "geom:latitude":33.39748,
+    "geom:longitude":73.90924,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Khawas",
+    "gn:country_code":"PK",
+    "gn:dem":729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386245,
+    "gn:latitude":33.39748,
+    "gn:longitude":73.90924,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Khawas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khow\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386245
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"99dffe64d18bf5fe64eaf8ff30dd01b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209436503
+        }
+    ],
+    "wof:id":1209436503,
+    "wof:lastmodified":1537680856,
+    "wof:name":"Khawas",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90924,
+    33.39748,
+    73.90924,
+    33.39748
+],
+  "geometry": {"coordinates":[73.90924,33.39748],"type":"Point"}
+}

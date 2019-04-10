@@ -1,0 +1,81 @@
+{
+  "id": 1277098099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73212,34.50878,73.73212,34.50878",
+    "geom:latitude":34.50878,
+    "geom:longitude":73.73212,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pathra",
+    "gn:country_code":"PK",
+    "gn:dem":2772,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385347,
+    "gn:latitude":34.50878,
+    "gn:longitude":73.73212,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pathra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pathri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385347
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c227eb7ee1b87e339d14851385e26a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1277098099,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1277098099,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277098099,
+    "wof:lastmodified":1537680837,
+    "wof:name":"Pathra",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73212,
+    34.50878,
+    73.73212,
+    34.50878
+],
+  "geometry": {"coordinates":[73.73211999999999,34.50878],"type":"Point"}
+}

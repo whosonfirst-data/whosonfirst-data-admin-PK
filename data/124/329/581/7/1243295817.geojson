@@ -1,0 +1,67 @@
+{
+  "id": 1243295817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.83446,30.82783,71.83446,30.82783",
+    "geom:latitude":30.82783,
+    "geom:longitude":71.83446,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Colony Number One",
+    "gn:country_code":"PK",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11365708,
+    "gn:latitude":30.82783,
+    "gn:longitude":71.83446,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Colony Number One",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11365708
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9729001063f6af92350f583807bd5fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1243295817,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243295817,
+    "wof:lastmodified":1537021730,
+    "wof:name":"Colony Number One",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.83445999999998,
+    30.82783,
+    71.83445999999998,
+    30.82783
+],
+  "geometry": {"coordinates":[71.83445999999998,30.82783],"type":"Point"}
+}

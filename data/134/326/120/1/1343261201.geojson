@@ -1,0 +1,67 @@
+{
+  "id": 1343261201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.13497,30.3693,71.13497,30.3693",
+    "geom:latitude":30.3693,
+    "geom:longitude":71.13497,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kuppewala",
+    "gn:country_code":"PK",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368016,
+    "gn:latitude":30.3693,
+    "gn:longitude":71.13497,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kuppewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368016
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6894bc11ace9f8dd1b94759c6123792f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343261201,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343261201,
+    "wof:lastmodified":1537032414,
+    "wof:name":"Kuppewala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.13497,
+    30.3693,
+    71.13497,
+    30.3693
+],
+  "geometry": {"coordinates":[71.13497,30.3693],"type":"Point"}
+}

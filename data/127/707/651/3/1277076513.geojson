@@ -1,0 +1,73 @@
+{
+  "id": 1277076513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.59924,30.3111,66.59924,30.3111",
+    "geom:latitude":30.3111,
+    "geom:longitude":66.59924,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Burj Aziz Khan",
+    "gn:country_code":"PK",
+    "gn:dem":1406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1182067,
+    "gn:latitude":30.3111,
+    "gn:longitude":66.59924,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Burj Aziz Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Barj Aziz Khan",
+        "Buraj Aziz Khan",
+        "Burj Az\u012bz Kh\u0101n",
+        "Burj Aziz Khan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182067
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a9856f1c79ad74c152bce96991f4648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692257,
+            "locality_id":1277076513,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1277076513,
+    "wof:lastmodified":1537679878,
+    "wof:name":"Burj Aziz Khan",
+    "wof:parent_id":1108692257,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.59924000000001,
+    30.3111,
+    66.59924000000001,
+    30.3111
+],
+  "geometry": {"coordinates":[66.59924000000001,30.3111],"type":"Point"}
+}

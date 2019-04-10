@@ -1,0 +1,78 @@
+{
+  "id": 1326622013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.12253,33.30607,74.12253,33.30607",
+    "geom:latitude":33.30607,
+    "geom:longitude":74.12253,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kas",
+    "gn:country_code":"PK",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415146,
+    "gn:latitude":33.30607,
+    "gn:longitude":74.12253,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Kas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415146
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22067cc612284158364473b42c1f3ed4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1326622013,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1326622013,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326622013,
+    "wof:lastmodified":1536853469,
+    "wof:name":"Kas",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.12253,
+    33.30607,
+    74.12253,
+    33.30607
+],
+  "geometry": {"coordinates":[74.12253,33.30607],"type":"Point"}
+}

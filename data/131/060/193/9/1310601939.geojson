@@ -1,0 +1,75 @@
+{
+  "id": 1310601939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.01165,36.02022,72.01165,36.02022",
+    "geom:latitude":36.02022,
+    "geom:longitude":72.01165,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Maroi",
+    "gn:country_code":"PK",
+    "gn:dem":1868,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170789,
+    "gn:latitude":36.02022,
+    "gn:longitude":72.01165,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Maroi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bieni Maroi",
+        "Maroi",
+        "Mar\u0101\u2019\u012b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u064e\u0631\u0627\u0626\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170789
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9180ebe00766831ffd1776788cbda3c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1310601939,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310601939,
+    "wof:lastmodified":1537679480,
+    "wof:name":"Maroi",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.01165,
+    36.02022,
+    72.01165,
+    36.02022
+],
+  "geometry": {"coordinates":[72.01165,36.02022],"type":"Point"}
+}

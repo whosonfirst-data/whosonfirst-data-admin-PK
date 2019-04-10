@@ -1,0 +1,67 @@
+{
+  "id": 1259884299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.49305,27.49949,68.49305,27.49949",
+    "geom:latitude":27.49949,
+    "geom:longitude":68.49305,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jagirani Goth",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11350363,
+    "gn:latitude":27.49949,
+    "gn:longitude":68.49305,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Jagirani Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11350363
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"added54f589197dd2a622e3c4dfae37b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1259884299,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259884299,
+    "wof:lastmodified":1536778438,
+    "wof:name":"Jagirani Goth",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.49305,
+    27.49949,
+    68.49305,
+    27.49949
+],
+  "geometry": {"coordinates":[68.49305,27.49949],"type":"Point"}
+}

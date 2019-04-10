@@ -1,0 +1,67 @@
+{
+  "id": 1209816559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.10246,35.07997,72.10246,35.07997",
+    "geom:latitude":35.07997,
+    "geom:longitude":72.10246,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sankar",
+    "gn:country_code":"PK",
+    "gn:dem":1981,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478111,
+    "gn:latitude":35.07997,
+    "gn:longitude":72.10246,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sankar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478111
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fdfea1aad0f1a4d6ba43087ace6f41db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1209816559,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209816559,
+    "wof:lastmodified":1543515727,
+    "wof:name":"Sankar",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.10246,
+    35.07997,
+    72.10246,
+    35.07997
+],
+  "geometry": {"coordinates":[72.10245999999999,35.07997],"type":"Point"}
+}

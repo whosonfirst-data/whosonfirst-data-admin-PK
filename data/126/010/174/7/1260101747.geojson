@@ -1,0 +1,81 @@
+{
+  "id": 1260101747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.60605,34.46735,73.60605,34.46735",
+    "geom:latitude":34.46735,
+    "geom:longitude":73.60605,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Draik Pattar",
+    "gn:country_code":"PK",
+    "gn:dem":1365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385498,
+    "gn:latitude":34.46735,
+    "gn:longitude":73.60605,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Draik Pattar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Drek Bar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385498
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c8c64fef0dda53a795205c53ca6ef7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260101747,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1260101747,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260101747,
+    "wof:lastmodified":1537680840,
+    "wof:name":"Draik Pattar",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.60605,
+    34.46735,
+    73.60605,
+    34.46735
+],
+  "geometry": {"coordinates":[73.60605,34.46735],"type":"Point"}
+}

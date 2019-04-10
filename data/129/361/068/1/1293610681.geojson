@@ -1,0 +1,78 @@
+{
+  "id": 1293610681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.94109,34.27676,73.94109,34.27676",
+    "geom:latitude":34.27676,
+    "geom:longitude":73.94109,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pathri",
+    "gn:country_code":"PK",
+    "gn:dem":2633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415844,
+    "gn:latitude":34.27676,
+    "gn:longitude":73.94109,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pathri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415844
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe93fad0085790a06b54b9515ef35140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293610681,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1293610681,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293610681,
+    "wof:lastmodified":1536606713,
+    "wof:name":"Pathri",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.94109,
+    34.27676,
+    73.94109,
+    34.27676
+],
+  "geometry": {"coordinates":[73.94109,34.27676],"type":"Point"}
+}

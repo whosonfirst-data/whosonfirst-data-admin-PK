@@ -1,0 +1,71 @@
+{
+  "id": 1242777449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.08349,32.15404,75.08349,32.15404",
+    "geom:latitude":32.15404,
+    "geom:longitude":75.08349,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kutrowal",
+    "gn:country_code":"PK",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1172539,
+    "gn:latitude":32.15404,
+    "gn:longitude":75.08349,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kutrowal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Qatruwal",
+        "Kutrowal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1172539
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa6ae1e822c6b9c5cb7c8f2c5e51475c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1242777449,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242777449,
+    "wof:lastmodified":1537679540,
+    "wof:name":"Kutrowal",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.08349,
+    32.15404,
+    75.08349,
+    32.15404
+],
+  "geometry": {"coordinates":[75.08349,32.15404],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343481325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.42373,35.25619,76.42373,35.25619",
+    "geom:latitude":35.25619,
+    "geom:longitude":76.42373,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Holdi",
+    "gn:country_code":"PK",
+    "gn:dem":2666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418460,
+    "gn:latitude":35.25619,
+    "gn:longitude":76.42373,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Holdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huldi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418460
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"980f1ca74cc8266c2441b5ac8c41d2f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1343481325,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1343481325,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343481325,
+    "wof:lastmodified":1537681900,
+    "wof:name":"Holdi",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.42373,
+    35.25619000000001,
+    76.42373,
+    35.25619000000001
+],
+  "geometry": {"coordinates":[76.42373000000001,35.25619000000001],"type":"Point"}
+}

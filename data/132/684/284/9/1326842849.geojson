@@ -1,0 +1,67 @@
+{
+  "id": 1326842849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.65784,28.96536,61.65784,28.96536",
+    "geom:latitude":28.96536,
+    "geom:longitude":61.65784,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Anwarabad",
+    "gn:country_code":"PK",
+    "gn:dem":824,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11048158,
+    "gn:latitude":28.96536,
+    "gn:longitude":61.65784,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Anwarabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11048158
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bdf92f2e153df9cb61949c053bb2b115",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692147,
+            "locality_id":1326842849,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326842849,
+    "wof:lastmodified":1537031997,
+    "wof:name":"Anwarabad",
+    "wof:parent_id":1108692147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.65784,
+    28.96536,
+    61.65784,
+    28.96536
+],
+  "geometry": {"coordinates":[61.65784,28.96536],"type":"Point"}
+}

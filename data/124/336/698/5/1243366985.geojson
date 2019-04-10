@@ -1,0 +1,67 @@
+{
+  "id": 1243366985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.88419,33.70061,70.88419,33.70061",
+    "geom:latitude":33.70061,
+    "geom:longitude":70.88419,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tsappar",
+    "gn:country_code":"PK",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446420,
+    "gn:latitude":33.70061,
+    "gn:longitude":70.88419,
+    "gn:modification_date":"2015-03-08",
+    "gn:name":"Tsappar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446420
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9ad8baef6bb5be488b3a3ad62382dbed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1243366985,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243366985,
+    "wof:lastmodified":1536920771,
+    "wof:name":"Tsappar",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.88419,
+    33.70061,
+    70.88419,
+    33.70061
+],
+  "geometry": {"coordinates":[70.88419,33.70061],"type":"Point"}
+}

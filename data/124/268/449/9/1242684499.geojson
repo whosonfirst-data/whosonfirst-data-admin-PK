@@ -1,0 +1,67 @@
+{
+  "id": 1242684499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.51701,35.09161,72.51701,35.09161",
+    "geom:latitude":35.09161,
+    "geom:longitude":72.51701,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Ganjai",
+    "gn:country_code":"PK",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377473,
+    "gn:latitude":35.09161,
+    "gn:longitude":72.51701,
+    "gn:modification_date":"2017-07-05",
+    "gn:name":"Ganjai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377473
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb1dc17c29c36850af7ded5d80c4b97f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242684499,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242684499,
+    "wof:lastmodified":1536910105,
+    "wof:name":"Ganjai",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.51701,
+    35.09161,
+    72.51701,
+    35.09161
+],
+  "geometry": {"coordinates":[72.51701,35.09161],"type":"Point"}
+}

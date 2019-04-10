@@ -1,0 +1,67 @@
+{
+  "id": 1193023763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.5632,25.805,64.5632,25.805",
+    "geom:latitude":25.805,
+    "geom:longitude":64.5632,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gandagor",
+    "gn:country_code":"PK",
+    "gn:dem":481,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179044,
+    "gn:latitude":25.805,
+    "gn:longitude":64.5632,
+    "gn:modification_date":"2009-08-12",
+    "gn:name":"Gandagor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179044
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bac73e5b7dedbab7fc528a71edf5edb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1193023763,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193023763,
+    "wof:lastmodified":1536370369,
+    "wof:name":"Gandagor",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.5632,
+    25.805,
+    64.5632,
+    25.805
+],
+  "geometry": {"coordinates":[64.56319999999999,25.805],"type":"Point"}
+}

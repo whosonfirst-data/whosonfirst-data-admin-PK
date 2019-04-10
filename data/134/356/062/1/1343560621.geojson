@@ -1,0 +1,67 @@
+{
+  "id": 1343560621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34153,30.32778,71.34153,30.32778",
+    "geom:latitude":30.32778,
+    "geom:longitude":71.34153,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khanwala",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7390907,
+    "gn:latitude":30.32778,
+    "gn:longitude":71.34153,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7390907
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e91c9890a9dd9e1839d20bc949a7a8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1343560621,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343560621,
+    "wof:lastmodified":1537096022,
+    "wof:name":"Khanwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34153,
+    30.32778,
+    71.34153,
+    30.32778
+],
+  "geometry": {"coordinates":[71.34153000000001,30.32778],"type":"Point"}
+}

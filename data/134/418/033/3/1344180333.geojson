@@ -1,0 +1,67 @@
+{
+  "id": 1344180333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.099,30.62031,72.099,30.62031",
+    "geom:latitude":30.62031,
+    "geom:longitude":72.099,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghauswala",
+    "gn:country_code":"PK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7336639,
+    "gn:latitude":30.62031,
+    "gn:longitude":72.099,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ghauswala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7336639
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3a70189298bab99a159d7adff6402a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692247,
+            "locality_id":1344180333,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344180333,
+    "wof:lastmodified":1536702926,
+    "wof:name":"Ghauswala",
+    "wof:parent_id":1108692247,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.09899999999998,
+    30.62031,
+    72.09899999999998,
+    30.62031
+],
+  "geometry": {"coordinates":[72.09899999999998,30.62031],"type":"Point"}
+}

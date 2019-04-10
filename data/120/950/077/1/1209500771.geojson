@@ -1,0 +1,64 @@
+{
+  "id": 1209500771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.54384,36.01244,74.54384,36.01244",
+    "geom:latitude":36.01244,
+    "geom:longitude":74.54384,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Farphu",
+    "gn:country_code":"PK",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7427896,
+    "gn:latitude":36.01244,
+    "gn:longitude":74.54384,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Farphu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Farphui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7427896
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c5dd08c818a106fe8040f525a882e81",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209500771
+        }
+    ],
+    "wof:id":1209500771,
+    "wof:lastmodified":1537681914,
+    "wof:name":"Farphu",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.54384,
+    36.01244000000001,
+    74.54384,
+    36.01244000000001
+],
+  "geometry": {"coordinates":[74.54384,36.01244000000001],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260093661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.81154,33.88419,70.81154,33.88419",
+    "geom:latitude":33.88419,
+    "geom:longitude":70.81154,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Tangu",
+    "gn:country_code":"PK",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1446644,
+    "gn:latitude":33.88419,
+    "gn:longitude":70.81154,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Tangu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1446644
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c8cab0159ab4326dc142b6b8ab294988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1260093661,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1260093661,
+    "wof:lastmodified":1536972909,
+    "wof:name":"Tangu",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.81154000000002,
+    33.88419,
+    70.81154000000002,
+    33.88419
+],
+  "geometry": {"coordinates":[70.81154000000002,33.88419],"type":"Point"}
+}

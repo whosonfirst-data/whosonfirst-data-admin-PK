@@ -1,0 +1,75 @@
+{
+  "id": 1343763221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12966,34.21146,73.12966,34.21146",
+    "geom:latitude":34.21146,
+    "geom:longitude":73.12966,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sohlan Bala",
+    "gn:country_code":"PK",
+    "gn:dem":1333,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164648,
+    "gn:latitude":34.21146,
+    "gn:longitude":73.12966,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sohlan Bala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Solan Bala",
+        "sohlan utli",
+        "Sohlan Utli",
+        "Sohlan Bala",
+        "Chhetri",
+        "Chhetr"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164648
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"996701c825223a6ae50cf5b0fe7cc64d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1343763221,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343763221,
+    "wof:lastmodified":1537679266,
+    "wof:name":"Sohlan Bala",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12966,
+    34.21146,
+    73.12966,
+    34.21146
+],
+  "geometry": {"coordinates":[73.12966,34.21146],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226742581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.20885,28.0176,68.20885,28.0176",
+    "geom:latitude":28.0176,
+    "geom:longitude":68.20885,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Rasulabad",
+    "gn:country_code":"PK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397553,
+    "gn:latitude":28.0176,
+    "gn:longitude":68.20885,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Rasulabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397553
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77bd66282d39571b65ce7d255d76a898",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1226742581,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226742581,
+    "wof:lastmodified":1536720452,
+    "wof:name":"Rasulabad",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.20885,
+    28.0176,
+    68.20885,
+    28.0176
+],
+  "geometry": {"coordinates":[68.20885,28.0176],"type":"Point"}
+}

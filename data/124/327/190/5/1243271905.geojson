@@ -1,0 +1,67 @@
+{
+  "id": 1243271905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.89302,26.95362,64.89302,26.95362",
+    "geom:latitude":26.95362,
+    "geom:longitude":64.89302,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mir Ibrahim",
+    "gn:country_code":"PK",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11098314,
+    "gn:latitude":26.95362,
+    "gn:longitude":64.89302,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Mir Ibrahim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11098314
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78389c1983ca2c329b77a837f1e44d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692345,
+            "locality_id":1243271905,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243271905,
+    "wof:lastmodified":1537054684,
+    "wof:name":"Mir Ibrahim",
+    "wof:parent_id":1108692345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.89301999999999,
+    26.95362,
+    64.89301999999999,
+    26.95362
+],
+  "geometry": {"coordinates":[64.89301999999999,26.95362],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1225947781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31561,33.6437,70.31561,33.6437",
+    "geom:latitude":33.6437,
+    "geom:longitude":70.31561,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Sakhi Ahmad Shah Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":1105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1344143,
+    "gn:latitude":33.6437,
+    "gn:longitude":70.31561,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Sakhi Ahmad Shah Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Indari",
+        "Ahmad Sh\u0101n Kili",
+        "Jindari",
+        "Ahmad Sh\u0101h Kili",
+        "Sakhi Ahmad Shah Kalle",
+        "Jandari",
+        "Sakhi Ahmad Shah Kila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1344143
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0467690a79229e9a0139aeac007e08d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1225947781,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225947781,
+    "wof:lastmodified":1543515737,
+    "wof:name":"Sakhi Ahmad Shah Kalle",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31560999999999,
+    33.6437,
+    70.31560999999999,
+    33.6437
+],
+  "geometry": {"coordinates":[70.31560999999999,33.6437],"type":"Point"}
+}

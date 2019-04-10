@@ -1,0 +1,67 @@
+{
+  "id": 1259389525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.89538,34.94663,73.89538,34.94663",
+    "geom:latitude":34.94663,
+    "geom:longitude":73.89538,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Wajtar",
+    "gn:country_code":"PK",
+    "gn:dem":3072,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988269,
+    "gn:latitude":34.94663,
+    "gn:longitude":73.89538,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Wajtar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988269
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3a3b031528a5ed530c1c540225a2f72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1259389525,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259389525,
+    "wof:lastmodified":1536992658,
+    "wof:name":"Wajtar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.89538,
+    34.94663,
+    73.89538,
+    34.94663
+],
+  "geometry": {"coordinates":[73.89538,34.94663],"type":"Point"}
+}

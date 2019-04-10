@@ -1,0 +1,67 @@
+{
+  "id": 1209415737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.05237,35.36786,73.05237,35.36786",
+    "geom:latitude":35.36786,
+    "geom:longitude":73.05237,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Charto",
+    "gn:country_code":"PK",
+    "gn:dem":2782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999921,
+    "gn:latitude":35.36786,
+    "gn:longitude":73.05237,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Charto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999921
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d2975a264a79b1643a7133effeb28cbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209415737,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209415737,
+    "wof:lastmodified":1543515610,
+    "wof:name":"Charto",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.05237,
+    35.36786,
+    73.05237,
+    35.36786
+],
+  "geometry": {"coordinates":[73.05237,35.36786],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1310199841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.57916,34.03879,73.57916,34.03879",
+    "geom:latitude":34.03879,
+    "geom:longitude":73.57916,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Dhlkot",
+    "gn:country_code":"PK",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379385,
+    "gn:latitude":34.03879,
+    "gn:longitude":73.57916,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Dhlkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379385
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e18e7b789298270e1abaa6b6d32ffada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1310199841,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1310199841,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310199841,
+    "wof:lastmodified":1536859125,
+    "wof:name":"Dhlkot",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.57916,
+    34.03879000000001,
+    73.57916,
+    34.03879000000001
+],
+  "geometry": {"coordinates":[73.57916,34.03879000000001],"type":"Point"}
+}

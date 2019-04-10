@@ -1,0 +1,67 @@
+{
+  "id": 1225943727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.45799,33.42341,73.45799,33.42341",
+    "geom:latitude":33.42341,
+    "geom:longitude":73.45799,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mahli",
+    "gn:country_code":"PK",
+    "gn:dem":555,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457335,
+    "gn:latitude":33.42341,
+    "gn:longitude":73.45799,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Mahli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"be07fe7b148b89b6d321b6b6b36fac54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1225943727,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225943727,
+    "wof:lastmodified":1536871219,
+    "wof:name":"Mahli",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.45799,
+    33.42341,
+    73.45799,
+    33.42341
+],
+  "geometry": {"coordinates":[73.45799,33.42341],"type":"Point"}
+}

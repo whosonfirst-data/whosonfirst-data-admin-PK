@@ -1,0 +1,78 @@
+{
+  "id": 1343653607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.63563,34.32716,73.63563,34.32716",
+    "geom:latitude":34.32716,
+    "geom:longitude":73.63563,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bajla",
+    "gn:country_code":"PK",
+    "gn:dem":2239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385735,
+    "gn:latitude":34.32716,
+    "gn:longitude":73.63563,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bajla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385735
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fca8b380115135b323a6a14f8f27f217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1343653607,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1343653607,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343653607,
+    "wof:lastmodified":1536964763,
+    "wof:name":"Bajla",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.63563,
+    34.32716,
+    73.63563,
+    34.32716
+],
+  "geometry": {"coordinates":[73.63563000000001,34.32716],"type":"Point"}
+}

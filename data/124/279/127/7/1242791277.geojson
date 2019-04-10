@@ -1,0 +1,70 @@
+{
+  "id": 1242791277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.63991,33.89967,70.63991,33.89967",
+    "geom:latitude":33.89967,
+    "geom:longitude":70.63991,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Baghrai",
+    "gn:country_code":"PK",
+    "gn:dem":2193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110335,
+    "gn:latitude":33.89967,
+    "gn:longitude":70.63991,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Baghrai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bagharai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110335
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"61255a6f1c400a4446e358aa2b1668ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1242791277,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1242791277,
+    "wof:lastmodified":1537679131,
+    "wof:name":"Baghrai",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.63991,
+    33.89967,
+    70.63991,
+    33.89967
+],
+  "geometry": {"coordinates":[70.63991,33.89967],"type":"Point"}
+}

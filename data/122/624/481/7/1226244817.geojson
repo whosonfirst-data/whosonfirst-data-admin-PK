@@ -1,0 +1,67 @@
+{
+  "id": 1226244817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53595,29.13578,66.53595,29.13578",
+    "geom:latitude":29.13578,
+    "geom:longitude":66.53595,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ahmadabad",
+    "gn:country_code":"PK",
+    "gn:dem":1869,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269105,
+    "gn:latitude":29.13578,
+    "gn:longitude":66.53595,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Ahmadabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269105
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5c5762d65be8f1f08186d7fb6302fe2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1226244817,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226244817,
+    "wof:lastmodified":1536935713,
+    "wof:name":"Ahmadabad",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53595,
+    29.13578,
+    66.53595,
+    29.13578
+],
+  "geometry": {"coordinates":[66.53595,29.13578],"type":"Point"}
+}

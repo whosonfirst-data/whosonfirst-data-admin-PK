@@ -1,0 +1,61 @@
+{
+  "id": 1209523197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.54499,31.42849,69.54499,31.42849",
+    "geom:latitude":31.42849,
+    "geom:longitude":69.54499,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kharwandai Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1338195,
+    "gn:latitude":31.42849,
+    "gn:longitude":69.54499,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Kharwandai Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338195
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ef0184f7a148ce4bf94a5a64186f1c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209523197
+        }
+    ],
+    "wof:id":1209523197,
+    "wof:lastmodified":1536284514,
+    "wof:name":"Kharwandai Kili",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.54499,
+    31.428490000000004,
+    69.54499,
+    31.428490000000004
+],
+  "geometry": {"coordinates":[69.54499,31.42849],"type":"Point"}
+}

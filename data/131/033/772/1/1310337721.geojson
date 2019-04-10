@@ -1,0 +1,67 @@
+{
+  "id": 1310337721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.32047,30.51923,70.32047,30.51923",
+    "geom:latitude":30.51923,
+    "geom:longitude":70.32047,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Thikar",
+    "gn:country_code":"PK",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163449,
+    "gn:latitude":30.51923,
+    "gn:longitude":70.32047,
+    "gn:modification_date":"2017-09-04",
+    "gn:name":"Thikar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163449
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5ec5391954811bd2ea905532e2d6ff0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1310337721,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310337721,
+    "wof:lastmodified":1536661575,
+    "wof:name":"Thikar",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.32047,
+    30.51923,
+    70.32047,
+    30.51923
+],
+  "geometry": {"coordinates":[70.32047,30.51923],"type":"Point"}
+}

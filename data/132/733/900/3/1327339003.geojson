@@ -1,0 +1,67 @@
+{
+  "id": 1327339003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.93312,29.59832,71.93312,29.59832",
+    "geom:latitude":29.59832,
+    "geom:longitude":71.93312,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nalewala",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418078,
+    "gn:latitude":29.59832,
+    "gn:longitude":71.93312,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Nalewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418078
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3820fcdad0ab0698f514c6bb072b9f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692287,
+            "locality_id":1327339003,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327339003,
+    "wof:lastmodified":1536814885,
+    "wof:name":"Nalewala",
+    "wof:parent_id":1108692287,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.93312,
+    29.59832,
+    71.93312,
+    29.59832
+],
+  "geometry": {"coordinates":[71.93312,29.59832],"type":"Point"}
+}

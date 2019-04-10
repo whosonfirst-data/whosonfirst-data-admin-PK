@@ -1,0 +1,65 @@
+{
+  "id": 1209314073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.94173,32.77645,73.94173,32.77645",
+    "geom:latitude":32.77645,
+    "geom:longitude":73.94173,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baganwala",
+    "gn:country_code":"PK",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184014,
+    "gn:latitude":32.77645,
+    "gn:longitude":73.94173,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Baganwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Baghanwala",
+        "Baganwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184014
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"53027cb747ed78addd9ce61e296d5097",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314073
+        }
+    ],
+    "wof:id":1209314073,
+    "wof:lastmodified":1537679955,
+    "wof:name":"Baganwala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.94173,
+    32.77645,
+    73.94173,
+    32.77645
+],
+  "geometry": {"coordinates":[73.94173000000001,32.77645],"type":"Point"}
+}

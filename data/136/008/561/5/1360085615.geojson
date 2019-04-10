@@ -1,0 +1,71 @@
+{
+  "id": 1360085615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22643,33.98702,73.22643,33.98702",
+    "geom:latitude":33.98702,
+    "geom:longitude":73.22643,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nara",
+    "gn:country_code":"PK",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169354,
+    "gn:latitude":33.98702,
+    "gn:longitude":73.22643,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Nara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nar",
+        "Nara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169354
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"303d629c7b1fcb150bfc38cf79c0e8a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1360085615,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360085615,
+    "wof:lastmodified":1543515290,
+    "wof:name":"Nara",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22643000000002,
+    33.98702,
+    73.22643000000002,
+    33.98702
+],
+  "geometry": {"coordinates":[73.22643000000002,33.98702],"type":"Point"}
+}

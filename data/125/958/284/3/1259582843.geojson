@@ -1,0 +1,73 @@
+{
+  "id": 1259582843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.10649,32.73665,74.10649,32.73665",
+    "geom:latitude":32.73665,
+    "geom:longitude":74.10649,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"1177651.0",
+    "gn:asciiname":"Dhumma Malka",
+    "gn:country_code":"PK",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179869,
+    "gn:latitude":32.73665,
+    "gn:longitude":74.10649,
+    "gn:modification_date":"2017-02-23",
+    "gn:name":"Dhumma Malka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dhuma Malka",
+        "Dhuman Malka",
+        "Dhumma Malka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179869
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c2e7f8e6cb7670a4937ceee3840994aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1259582843,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259582843,
+    "wof:lastmodified":1537679796,
+    "wof:name":"Dhumma Malka",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.10649000000002,
+    32.73665,
+    74.10649000000002,
+    32.73665
+],
+  "geometry": {"coordinates":[74.10649000000002,32.73665],"type":"Point"}
+}

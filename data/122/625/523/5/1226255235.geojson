@@ -1,0 +1,73 @@
+{
+  "id": 1226255235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.60111,27.86306,63.60111,27.86306",
+    "geom:latitude":27.86306,
+    "geom:longitude":63.60111,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Reg Burida",
+    "gn:cc2":"PK",
+    "gn:country_code":"PK",
+    "gn:dem":535,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166962,
+    "gn:latitude":27.86306,
+    "gn:longitude":63.60111,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Reg Bur\u012bda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rag Bur\u012bda",
+        "R\u012bg Bur\u012bda",
+        "Reg Bur\u012bda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166962
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58573edc3d25cfba85bd0f69e9e8b8b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1226255235,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226255235,
+    "wof:lastmodified":1537679343,
+    "wof:name":"Reg Burida",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.60111,
+    27.86306,
+    63.60111,
+    27.86306
+],
+  "geometry": {"coordinates":[63.60111,27.86306],"type":"Point"}
+}

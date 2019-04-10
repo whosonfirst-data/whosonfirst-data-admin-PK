@@ -1,0 +1,89 @@
+{
+  "id": 1327427695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30348,36.47105,73.30348,36.47105",
+    "geom:latitude":36.47105,
+    "geom:longitude":73.30348,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Drach",
+    "gn:country_code":"PK",
+    "gn:dem":2616,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7450828,
+    "gn:latitude":36.47105,
+    "gn:longitude":73.30348,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Drach",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Draeh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7450828
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3cb2fdbf16d9927ff90dd5fa9bde9a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1327427695,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1327427695,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1327427695,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1327427695,
+    "wof:lastmodified":1537681917,
+    "wof:name":"Drach",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30348000000002,
+    36.47105,
+    73.30348000000002,
+    36.47105
+],
+  "geometry": {"coordinates":[73.30348000000002,36.47105],"type":"Point"}
+}

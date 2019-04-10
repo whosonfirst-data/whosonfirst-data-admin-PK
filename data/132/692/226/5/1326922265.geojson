@@ -1,0 +1,81 @@
+{
+  "id": 1326922265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.47719,34.43376,73.47719,34.43376",
+    "geom:latitude":34.43376,
+    "geom:longitude":73.47719,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Hir Kotli",
+    "gn:country_code":"PK",
+    "gn:dem":1232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406716,
+    "gn:latitude":34.43376,
+    "gn:longitude":73.47719,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Hir Kotli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "H\u012br Kotli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406716
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"749f30af3033536118ea03d215903ce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326922265,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326922265,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326922265,
+    "wof:lastmodified":1537681202,
+    "wof:name":"Hir Kotli",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.47719000000002,
+    34.43376,
+    73.47719000000002,
+    34.43376
+],
+  "geometry": {"coordinates":[73.47719000000002,34.43376],"type":"Point"}
+}

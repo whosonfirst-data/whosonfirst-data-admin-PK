@@ -1,0 +1,67 @@
+{
+  "id": 1209215879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39293,34.40879,73.39293,34.40879",
+    "geom:latitude":34.40879,
+    "geom:longitude":73.39293,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Palani",
+    "gn:country_code":"PK",
+    "gn:dem":976,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997533,
+    "gn:latitude":34.40879,
+    "gn:longitude":73.39293,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Palani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997533
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58806c76175ec901a950f55261573269",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209215879,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215879,
+    "wof:lastmodified":1543515543,
+    "wof:name":"Palani",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39293,
+    34.40879,
+    73.39293,
+    34.40879
+],
+  "geometry": {"coordinates":[73.39293000000001,34.40879],"type":"Point"}
+}

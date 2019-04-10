@@ -1,0 +1,86 @@
+{
+  "id": 1226227819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.57158,36.0902,72.57158,36.0902",
+    "geom:latitude":36.0902,
+    "geom:longitude":72.57158,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shukargah",
+    "gn:country_code":"PK",
+    "gn:dem":3703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1164964,
+    "gn:latitude":36.0902,
+    "gn:longitude":72.57158,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Shukargah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164964
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1b355510548ccec4738bba87c97c107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1226227819,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226227819,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226227819,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226227819,
+    "wof:lastmodified":1536959482,
+    "wof:name":"Shukargah",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.57158000000003,
+    36.0902,
+    72.57158000000003,
+    36.0902
+],
+  "geometry": {"coordinates":[72.57158000000003,36.0902],"type":"Point"}
+}

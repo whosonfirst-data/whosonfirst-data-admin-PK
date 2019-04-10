@@ -1,0 +1,67 @@
+{
+  "id": 1343761837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.24428,31.73442,72.24428,31.73442",
+    "geom:latitude":31.73442,
+    "geom:longitude":72.24428,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Nadhaghar",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169565,
+    "gn:latitude":31.73442,
+    "gn:longitude":72.24428,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Nadhaghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169565
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1bbfa76d81a6896174d86003e43473c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1343761837,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343761837,
+    "wof:lastmodified":1536808616,
+    "wof:name":"Nadhaghar",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.24428,
+    31.73442,
+    72.24428,
+    31.73442
+],
+  "geometry": {"coordinates":[72.24428,31.73442],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209009801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54359,33.85869,73.54359,33.85869",
+    "geom:latitude":33.85869,
+    "geom:longitude":73.54359,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Takhtian ni Santh",
+    "gn:country_code":"PK",
+    "gn:dem":1319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098667,
+    "gn:latitude":33.85869,
+    "gn:longitude":73.54359,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Takhtian ni Santh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098667
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ee95bcefd849e5da7a7274114c1bd45d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209009801
+        }
+    ],
+    "wof:id":1209009801,
+    "wof:lastmodified":1536300484,
+    "wof:name":"Takhtian ni Santh",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54359000000002,
+    33.85869,
+    73.54359000000002,
+    33.85869
+],
+  "geometry": {"coordinates":[73.54359000000002,33.85869],"type":"Point"}
+}

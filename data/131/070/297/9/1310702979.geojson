@@ -1,0 +1,67 @@
+{
+  "id": 1310702979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36525,36.43624,72.36525,36.43624",
+    "geom:latitude":36.43624,
+    "geom:longitude":72.36525,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Paicha",
+    "gn:country_code":"PK",
+    "gn:dem":2663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045383,
+    "gn:latitude":36.43624,
+    "gn:longitude":72.36525,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Paicha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045383
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"804483351e3afd9a715c965f5704a84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1310702979,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310702979,
+    "wof:lastmodified":1536630367,
+    "wof:name":"Paicha",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36525,
+    36.43624000000001,
+    72.36525,
+    36.43624000000001
+],
+  "geometry": {"coordinates":[72.36525,36.43624000000001],"type":"Point"}
+}

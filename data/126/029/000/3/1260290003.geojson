@@ -1,0 +1,67 @@
+{
+  "id": 1260290003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48333,31.89222,74.48333,31.89222",
+    "geom:latitude":31.89222,
+    "geom:longitude":74.48333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jandiwala",
+    "gn:country_code":"PK",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331380,
+    "gn:latitude":31.89222,
+    "gn:longitude":74.48333,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jandiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331380
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5373d9c77989cf9139a8190757333826",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1260290003,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260290003,
+    "wof:lastmodified":1536703451,
+    "wof:name":"Jandiwala",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48333000000002,
+    31.89222,
+    74.48333000000002,
+    31.89222
+],
+  "geometry": {"coordinates":[74.48333000000002,31.89222],"type":"Point"}
+}

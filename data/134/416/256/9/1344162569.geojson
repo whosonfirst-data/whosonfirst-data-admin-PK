@@ -1,0 +1,67 @@
+{
+  "id": 1344162569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.41111,30.62778,72.41111,30.62778",
+    "geom:latitude":30.62778,
+    "geom:longitude":72.41111,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nazarabad",
+    "gn:country_code":"PK",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382898,
+    "gn:latitude":30.62778,
+    "gn:longitude":72.41111,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nazarabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382898
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"274c37f79061ecaf6a4610a3694e50d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1344162569,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1344162569,
+    "wof:lastmodified":1536728595,
+    "wof:name":"Nazarabad",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.41111,
+    30.62778,
+    72.41111,
+    30.62778
+],
+  "geometry": {"coordinates":[72.41110999999999,30.62778],"type":"Point"}
+}

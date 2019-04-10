@@ -1,0 +1,67 @@
+{
+  "id": 1260081347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.54504,35.05389,72.54504,35.05389",
+    "geom:latitude":35.05389,
+    "geom:longitude":72.54504,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kharan",
+    "gn:country_code":"PK",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1478893,
+    "gn:latitude":35.05389,
+    "gn:longitude":72.54504,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kharan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1478893
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67d3a7cdcbc46685b7cba63075a38386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1260081347,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260081347,
+    "wof:lastmodified":1536990267,
+    "wof:name":"Kharan",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.54504,
+    35.05389,
+    72.54504,
+    35.05389
+],
+  "geometry": {"coordinates":[72.54504,35.05389],"type":"Point"}
+}

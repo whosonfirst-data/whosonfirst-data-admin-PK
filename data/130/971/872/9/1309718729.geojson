@@ -1,0 +1,67 @@
+{
+  "id": 1309718729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.00789,34.58378,73.00789,34.58378",
+    "geom:latitude":34.58378,
+    "geom:longitude":73.00789,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gorian",
+    "gn:country_code":"PK",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11420516,
+    "gn:latitude":34.58378,
+    "gn:longitude":73.00789,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gorian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11420516
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7f1fe94a8864a4f11d27071330badabe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1309718729,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309718729,
+    "wof:lastmodified":1537054219,
+    "wof:name":"Gorian",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.00789,
+    34.58378,
+    73.00789,
+    34.58378
+],
+  "geometry": {"coordinates":[73.00789,34.58378],"type":"Point"}
+}

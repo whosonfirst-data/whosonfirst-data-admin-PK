@@ -1,0 +1,71 @@
+{
+  "id": 1209816583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62658,32.97316,70.62658,32.97316",
+    "geom:latitude":32.97316,
+    "geom:longitude":70.62658,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Abezai",
+    "gn:country_code":"PK",
+    "gn:dem":361,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332868,
+    "gn:latitude":32.97316,
+    "gn:longitude":70.62658,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Abezai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Abez\u0101r",
+        "Abezai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332868
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"54262d93d72862f0e36703c71f91b52f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1209816583,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209816583,
+    "wof:lastmodified":1543515729,
+    "wof:name":"Abezai",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62658,
+    32.97316,
+    70.62658,
+    32.97316
+],
+  "geometry": {"coordinates":[70.62658,32.97316],"type":"Point"}
+}

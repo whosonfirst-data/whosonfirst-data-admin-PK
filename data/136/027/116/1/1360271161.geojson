@@ -1,0 +1,78 @@
+{
+  "id": 1360271161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.99221,35.39624,73.99221,35.39624",
+    "geom:latitude":35.39624,
+    "geom:longitude":73.99221,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gich Gah",
+    "gn:country_code":"PK",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020157,
+    "gn:latitude":35.39624,
+    "gn:longitude":73.99221,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gich Gah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020157
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a4ab43630f088b07f5cd683e5413433d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360271161,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1360271161,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360271161,
+    "wof:lastmodified":1536677239,
+    "wof:name":"Gich Gah",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.99221,
+    35.39624,
+    73.99221,
+    35.39624
+],
+  "geometry": {"coordinates":[73.99221,35.39624],"type":"Point"}
+}

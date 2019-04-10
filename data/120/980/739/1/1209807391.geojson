@@ -1,0 +1,81 @@
+{
+  "id": 1209807391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71881,34.58312,73.71881,34.58312",
+    "geom:latitude":34.58312,
+    "geom:longitude":73.71881,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jamgar Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":2764,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385325,
+    "gn:latitude":34.58312,
+    "gn:longitude":73.71881,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Jamgar Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jamgarh Baihk"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385325
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da2d964b123aa8cc37d3de5d6523c29b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1209807391,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1209807391,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209807391,
+    "wof:lastmodified":1537680837,
+    "wof:name":"Jamgar Baihk",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71880999999998,
+    34.58312,
+    73.71880999999998,
+    34.58312
+],
+  "geometry": {"coordinates":[73.71880999999998,34.58312],"type":"Point"}
+}

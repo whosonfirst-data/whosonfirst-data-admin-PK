@@ -1,0 +1,78 @@
+{
+  "id": 1309791629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.69242,36.80308,74.69242,36.80308",
+    "geom:latitude":36.80308,
+    "geom:longitude":74.69242,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ghamu Har Pahari",
+    "gn:country_code":"PK",
+    "gn:dem":4421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037840,
+    "gn:latitude":36.80308,
+    "gn:longitude":74.69242,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Ghamu Har Pahari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037840
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f5c04cffb7c5d547b5e604a2a1c5ad81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1309791629,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1309791629,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309791629,
+    "wof:lastmodified":1536951691,
+    "wof:name":"Ghamu Har Pahari",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.69242,
+    36.80308,
+    74.69242,
+    36.80308
+],
+  "geometry": {"coordinates":[74.69242,36.80308],"type":"Point"}
+}

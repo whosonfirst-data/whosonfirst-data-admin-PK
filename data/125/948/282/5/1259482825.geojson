@@ -1,0 +1,67 @@
+{
+  "id": 1259482825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.28056,32.48194,73.28056,32.48194",
+    "geom:latitude":32.48194,
+    "geom:longitude":73.28056,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thabal",
+    "gn:country_code":"PK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379931,
+    "gn:latitude":32.48194,
+    "gn:longitude":73.28056,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thabal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379931
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"652812c3c247e451ac9ec98c4b5b6314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1259482825,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259482825,
+    "wof:lastmodified":1536858492,
+    "wof:name":"Thabal",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.28056,
+    32.48194,
+    73.28056,
+    32.48194
+],
+  "geometry": {"coordinates":[73.28055999999999,32.48194],"type":"Point"}
+}

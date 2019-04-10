@@ -1,0 +1,67 @@
+{
+  "id": 1276873127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98958,35.07385,72.98958,35.07385",
+    "geom:latitude":35.07385,
+    "geom:longitude":72.98958,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gambir",
+    "gn:country_code":"PK",
+    "gn:dem":1096,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479304,
+    "gn:latitude":35.07385,
+    "gn:longitude":72.98958,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Gambir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479304
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"68ac8e0e5e479f375d04910d85ffcf24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1276873127,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276873127,
+    "wof:lastmodified":1537048147,
+    "wof:name":"Gambir",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98958,
+    35.07385,
+    72.98958,
+    35.07385
+],
+  "geometry": {"coordinates":[72.98958,35.07385],"type":"Point"}
+}

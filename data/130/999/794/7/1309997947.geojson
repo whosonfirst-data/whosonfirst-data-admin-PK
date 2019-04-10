@@ -1,0 +1,78 @@
+{
+  "id": 1309997947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97208,33.81852,73.97208,33.81852",
+    "geom:latitude":33.81852,
+    "geom:longitude":73.97208,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Mangenar",
+    "gn:country_code":"PK",
+    "gn:dem":1176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10956251,
+    "gn:latitude":33.81852,
+    "gn:longitude":73.97208,
+    "gn:modification_date":"2015-12-07",
+    "gn:name":"Mangenar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10956251
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dbd0a8becc9ad10fe2cb3f8d3276608b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1309997947,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1309997947,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309997947,
+    "wof:lastmodified":1536654198,
+    "wof:name":"Mangenar",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97208,
+    33.81852,
+    73.97208,
+    33.81852
+],
+  "geometry": {"coordinates":[73.97208000000001,33.81852],"type":"Point"}
+}

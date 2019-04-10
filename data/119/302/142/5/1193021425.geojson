@@ -1,0 +1,67 @@
+{
+  "id": 1193021425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87656,32.24458,73.87656,32.24458",
+    "geom:latitude":32.24458,
+    "geom:longitude":73.87656,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dera Miskin",
+    "gn:country_code":"PK",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449981,
+    "gn:latitude":32.24458,
+    "gn:longitude":73.87656,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dera Miskin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449981
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c87baef2f9ba42a7de10683db216dea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1193021425,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193021425,
+    "wof:lastmodified":1536372798,
+    "wof:name":"Dera Miskin",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87656,
+    32.24458,
+    73.87656,
+    32.24458
+],
+  "geometry": {"coordinates":[73.87656,32.24458],"type":"Point"}
+}

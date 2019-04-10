@@ -1,0 +1,67 @@
+{
+  "id": 1259877995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23104,28.16182,68.23104,28.16182",
+    "geom:latitude":28.16182,
+    "geom:longitude":68.23104,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Shero",
+    "gn:country_code":"PK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1397683,
+    "gn:latitude":28.16182,
+    "gn:longitude":68.23104,
+    "gn:modification_date":"2001-10-31",
+    "gn:name":"Shero",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1397683
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"27bd054f019721f1e434c6726ba9eb4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1259877995,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259877995,
+    "wof:lastmodified":1536787581,
+    "wof:name":"Shero",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23104000000001,
+    28.16182,
+    68.23104000000001,
+    28.16182
+],
+  "geometry": {"coordinates":[68.23104000000001,28.16182],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243561309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.10909,34.57162,73.10909,34.57162",
+    "geom:latitude":34.57162,
+    "geom:longitude":73.10909,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shahu",
+    "gn:country_code":"PK",
+    "gn:dem":1522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11420558,
+    "gn:latitude":34.57162,
+    "gn:longitude":73.10909,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Shahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11420558
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e4a55bb517ee24ead10624686d8c79c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1243561309,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243561309,
+    "wof:lastmodified":1536638912,
+    "wof:name":"Shahu",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.10909000000002,
+    34.57162,
+    73.10909000000002,
+    34.57162
+],
+  "geometry": {"coordinates":[73.10909000000002,34.57162],"type":"Point"}
+}

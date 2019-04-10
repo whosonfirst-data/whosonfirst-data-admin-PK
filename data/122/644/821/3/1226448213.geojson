@@ -1,0 +1,67 @@
+{
+  "id": 1226448213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.20385,32.2482,75.20385,32.2482",
+    "geom:latitude":32.2482,
+    "geom:longitude":75.20385,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kial",
+    "gn:country_code":"PK",
+    "gn:dem":268,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081740,
+    "gn:latitude":32.2482,
+    "gn:longitude":75.20385,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081740
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0b9be7b1278cc86b2a474a9c8939f3fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226448213,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226448213,
+    "wof:lastmodified":1536641023,
+    "wof:name":"Kial",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.20385,
+    32.2482,
+    75.20385,
+    32.2482
+],
+  "geometry": {"coordinates":[75.20385,32.2482],"type":"Point"}
+}

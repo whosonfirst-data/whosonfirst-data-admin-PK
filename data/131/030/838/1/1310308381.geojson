@@ -1,0 +1,71 @@
+{
+  "id": 1310308381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.53265,33.87369,70.53265,33.87369",
+    "geom:latitude":33.87369,
+    "geom:longitude":70.53265,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kandu",
+    "gn:country_code":"PK",
+    "gn:dem":2382,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174992,
+    "gn:latitude":33.87369,
+    "gn:longitude":70.53265,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanda",
+        "Kandu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174992
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7ff57c7f67e4ea04170de295f62baddf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1310308381,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1310308381,
+    "wof:lastmodified":1537679626,
+    "wof:name":"Kandu",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.53265,
+    33.87369,
+    70.53265,
+    33.87369
+],
+  "geometry": {"coordinates":[70.53265,33.87369],"type":"Point"}
+}

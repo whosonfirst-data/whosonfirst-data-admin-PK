@@ -1,0 +1,67 @@
+{
+  "id": 1242585371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.13103,28.9662,68.13103,28.9662",
+    "geom:latitude":28.9662,
+    "geom:longitude":68.13103,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Nindani",
+    "gn:country_code":"PK",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1168944,
+    "gn:latitude":28.9662,
+    "gn:longitude":68.13103,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Nindani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692285
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168944
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b9bb8b4a8161cb6b9018e08a8e1f0c9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692285,
+            "locality_id":1242585371,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242585371,
+    "wof:lastmodified":1537050252,
+    "wof:name":"Nindani",
+    "wof:parent_id":1108692285,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.13103000000001,
+    28.9662,
+    68.13103000000001,
+    28.9662
+],
+  "geometry": {"coordinates":[68.13103000000001,28.9662],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 1310208353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.69198,33.12898,73.69198,33.12898",
+    "geom:latitude":33.12898,
+    "geom:longitude":73.69198,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Chattar Pari",
+    "gn:country_code":"PK",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11068769,
+    "gn:latitude":33.12898,
+    "gn:longitude":73.69198,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Chattar Pari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11068769
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bfb5a116d7b9af2d38eb5c570faf54b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1310208353,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1310208353,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1310208353,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310208353,
+    "wof:lastmodified":1536847018,
+    "wof:name":"Chattar Pari",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.69198,
+    33.12898,
+    73.69198,
+    33.12898
+],
+  "geometry": {"coordinates":[73.69198,33.12898],"type":"Point"}
+}

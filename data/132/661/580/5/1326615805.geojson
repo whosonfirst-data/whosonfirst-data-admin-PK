@@ -1,0 +1,78 @@
+{
+  "id": 1326615805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.86267,35.48886,73.86267,35.48886",
+    "geom:latitude":35.48886,
+    "geom:longitude":73.86267,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Soniwalkot",
+    "gn:country_code":"PK",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020051,
+    "gn:latitude":35.48886,
+    "gn:longitude":73.86267,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Soniwalkot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020051
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"49712ce44cbdb5a4ea5fc734abc63f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326615805,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326615805,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326615805,
+    "wof:lastmodified":1536862193,
+    "wof:name":"Soniwalkot",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.86267,
+    35.48885999999999,
+    73.86267,
+    35.48885999999999
+],
+  "geometry": {"coordinates":[73.86266999999999,35.48885999999999],"type":"Point"}
+}

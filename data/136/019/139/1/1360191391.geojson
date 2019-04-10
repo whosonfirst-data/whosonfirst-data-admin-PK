@@ -1,0 +1,67 @@
+{
+  "id": 1360191391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.27729,34.20971,73.27729,34.20971",
+    "geom:latitude":34.20971,
+    "geom:longitude":73.27729,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rashian",
+    "gn:country_code":"PK",
+    "gn:dem":1472,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988680,
+    "gn:latitude":34.20971,
+    "gn:longitude":73.27729,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Rashian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988680
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af3a7417383332f7056ecbd10598a48b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1360191391,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360191391,
+    "wof:lastmodified":1543515250,
+    "wof:name":"Rashian",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.27729000000002,
+    34.20971,
+    73.27729000000002,
+    34.20971
+],
+  "geometry": {"coordinates":[73.27729000000002,34.20971],"type":"Point"}
+}

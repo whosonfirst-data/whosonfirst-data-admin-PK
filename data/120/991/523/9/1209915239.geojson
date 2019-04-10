@@ -1,0 +1,67 @@
+{
+  "id": 1209915239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.48361,31.46472,70.48361,31.46472",
+    "geom:latitude":31.46472,
+    "geom:longitude":70.48361,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tar Khan",
+    "gn:country_code":"PK",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1342339,
+    "gn:latitude":31.46472,
+    "gn:longitude":70.48361,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Tar Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1342339
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"699e5b9655a9842e2b44d23ab8720cd4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1209915239,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209915239,
+    "wof:lastmodified":1543515701,
+    "wof:name":"Tar Khan",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.48361,
+    31.46472,
+    70.48361,
+    31.46472
+],
+  "geometry": {"coordinates":[70.48361,31.46472],"type":"Point"}
+}

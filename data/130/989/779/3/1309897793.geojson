@@ -1,0 +1,81 @@
+{
+  "id": 1309897793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.54285,34.56534,73.54285,34.56534",
+    "geom:latitude":34.56534,
+    "geom:longitude":73.54285,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Banda Mahli",
+    "gn:country_code":"PK",
+    "gn:dem":3020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385379,
+    "gn:latitude":34.56534,
+    "gn:longitude":73.54285,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Banda Mahli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385379
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f9bd903e0a3fb72863750be9f56edfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1309897793,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1309897793,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1309897793,
+    "wof:lastmodified":1537680838,
+    "wof:name":"Banda Mahli",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.54285,
+    34.56534,
+    73.54285,
+    34.56534
+],
+  "geometry": {"coordinates":[73.54285,34.56534],"type":"Point"}
+}

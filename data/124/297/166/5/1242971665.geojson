@@ -1,0 +1,67 @@
+{
+  "id": 1242971665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.52021,35.62145,72.52021,35.62145",
+    "geom:latitude":35.62145,
+    "geom:longitude":72.52021,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Maidan Banda",
+    "gn:country_code":"PK",
+    "gn:dem":3050,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11023292,
+    "gn:latitude":35.62145,
+    "gn:longitude":72.52021,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Maidan Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11023292
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"46260effe04df683bd08d2dd536fd03f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1242971665,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1242971665,
+    "wof:lastmodified":1536992241,
+    "wof:name":"Maidan Banda",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.52020999999998,
+    35.62145,
+    72.52020999999998,
+    35.62145
+],
+  "geometry": {"coordinates":[72.52020999999998,35.62145],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1226264185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84994,34.11044,73.84994,34.11044",
+    "geom:latitude":34.11044,
+    "geom:longitude":73.84994,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mud",
+    "gn:country_code":"PK",
+    "gn:dem":2055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415617,
+    "gn:latitude":34.11044,
+    "gn:longitude":73.84994,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415617
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"36237881be392aa8133a3b738d87fe5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226264185,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226264185,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226264185,
+    "wof:lastmodified":1537681365,
+    "wof:name":"Mud",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84994,
+    34.11044,
+    73.84994,
+    34.11044
+],
+  "geometry": {"coordinates":[73.84994,34.11044],"type":"Point"}
+}

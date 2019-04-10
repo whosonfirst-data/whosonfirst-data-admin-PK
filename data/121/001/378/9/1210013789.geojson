@@ -1,0 +1,78 @@
+{
+  "id": 1210013789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.21631,32.91929,74.21631,32.91929",
+    "geom:latitude":32.91929,
+    "geom:longitude":74.21631,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Sehara",
+    "gn:country_code":"PK",
+    "gn:dem":403,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371604,
+    "gn:latitude":32.91929,
+    "gn:longitude":74.21631,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sehara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371604
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"295554b22bd790170579b57b9b0c0b5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1210013789,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1210013789,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1210013789,
+    "wof:lastmodified":1536396011,
+    "wof:name":"Sehara",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.21631,
+    32.91929,
+    74.21631,
+    32.91929
+],
+  "geometry": {"coordinates":[74.21630999999999,32.91929],"type":"Point"}
+}

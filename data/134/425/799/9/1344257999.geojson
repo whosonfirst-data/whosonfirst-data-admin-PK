@@ -1,0 +1,67 @@
+{
+  "id": 1344257999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.01601,34.13584,73.01601,34.13584",
+    "geom:latitude":34.13584,
+    "geom:longitude":73.01601,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Karachh",
+    "gn:country_code":"PK",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416283,
+    "gn:latitude":34.13584,
+    "gn:longitude":73.01601,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Karachh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416283
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea49f22d7d8bb5f7a1ba15905786e7b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1344257999,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344257999,
+    "wof:lastmodified":1537084564,
+    "wof:name":"Karachh",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.01601,
+    34.13584,
+    73.01601,
+    34.13584
+],
+  "geometry": {"coordinates":[73.01600999999999,34.13584],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226135659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.82793,28.04859,69.82793,28.04859",
+    "geom:latitude":28.04859,
+    "geom:longitude":69.82793,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sardar Shar",
+    "gn:country_code":"PK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11020242,
+    "gn:latitude":28.04859,
+    "gn:longitude":69.82793,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Sardar Shar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11020242
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"be8d67645ee720914ae2bee8f831c97b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692191,
+            "locality_id":1226135659,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226135659,
+    "wof:lastmodified":1537089072,
+    "wof:name":"Sardar Shar",
+    "wof:parent_id":1108692191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.82793000000001,
+    28.04859,
+    69.82793000000001,
+    28.04859
+],
+  "geometry": {"coordinates":[69.82793000000001,28.04859],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193039713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05361,33.96354,74.05361,33.96354",
+    "geom:latitude":33.96354,
+    "geom:longitude":74.05361,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nugazi",
+    "gn:country_code":"PK",
+    "gn:dem":2788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11007987,
+    "gn:latitude":33.96354,
+    "gn:longitude":74.05361,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Nugazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11007987
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2cb27f18981a327986e6e419c6e48cfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1193039713,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1193039713,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193039713,
+    "wof:lastmodified":1536377239,
+    "wof:name":"Nugazi",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05360999999998,
+    33.96354,
+    74.05360999999998,
+    33.96354
+],
+  "geometry": {"coordinates":[74.05360999999998,33.96354],"type":"Point"}
+}

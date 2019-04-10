@@ -1,0 +1,67 @@
+{
+  "id": 1327139879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.88147,29.94331,72.88147,29.94331",
+    "geom:latitude":29.94331,
+    "geom:longitude":72.88147,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Watta",
+    "gn:country_code":"PK",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491198,
+    "gn:latitude":29.94331,
+    "gn:longitude":72.88147,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Watta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491198
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c8ec8ab8e0004d590beff3195e2b6df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1327139879,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327139879,
+    "wof:lastmodified":1536602135,
+    "wof:name":"Watta",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.88147,
+    29.94331,
+    72.88147,
+    29.94331
+],
+  "geometry": {"coordinates":[72.88146999999999,29.94331],"type":"Point"}
+}

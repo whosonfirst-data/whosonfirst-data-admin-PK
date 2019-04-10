@@ -1,0 +1,67 @@
+{
+  "id": 1276335327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.62314,34.87021,72.62314,34.87021",
+    "geom:latitude":34.87021,
+    "geom:longitude":72.62314,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kandaro",
+    "gn:country_code":"PK",
+    "gn:dem":1667,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420937,
+    "gn:latitude":34.87021,
+    "gn:longitude":72.62314,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kandaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420937
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"952ee199a6cf3725451c6e09b12bd9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1276335327,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276335327,
+    "wof:lastmodified":1536776425,
+    "wof:name":"Kandaro",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.62314,
+    34.87021,
+    72.62314,
+    34.87021
+],
+  "geometry": {"coordinates":[72.62314000000001,34.87021],"type":"Point"}
+}

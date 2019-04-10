@@ -1,0 +1,64 @@
+{
+  "id": 1209620879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.79601,32.46888,72.79601,32.46888",
+    "geom:latitude":32.46888,
+    "geom:longitude":72.79601,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotla Maidan",
+    "gn:country_code":"PK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173073,
+    "gn:latitude":32.46888,
+    "gn:longitude":72.79601,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Kotla Maidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kotla Said\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173073
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dec2982f4895189a9999fed3bd4a20d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209620879
+        }
+    ],
+    "wof:id":1209620879,
+    "wof:lastmodified":1537679559,
+    "wof:name":"Kotla Maidan",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.79601,
+    32.46888,
+    72.79601,
+    32.46888
+],
+  "geometry": {"coordinates":[72.79601,32.46888],"type":"Point"}
+}

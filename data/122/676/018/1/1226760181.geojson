@@ -1,0 +1,67 @@
+{
+  "id": 1226760181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.0615,28.6968,66.0615,28.6968",
+    "geom:latitude":28.6968,
+    "geom:longitude":66.0615,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Zarachi",
+    "gn:country_code":"PK",
+    "gn:dem":1890,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11227236,
+    "gn:latitude":28.6968,
+    "gn:longitude":66.0615,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Zarachi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11227236
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c81f1667363dde2e19324fd658ed3c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1226760181,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226760181,
+    "wof:lastmodified":1536694922,
+    "wof:name":"Zarachi",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.0615,
+    28.6968,
+    66.0615,
+    28.6968
+],
+  "geometry": {"coordinates":[66.0615,28.6968],"type":"Point"}
+}

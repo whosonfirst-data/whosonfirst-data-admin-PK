@@ -1,0 +1,67 @@
+{
+  "id": 1193014241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.68474,27.85532,67.68474,27.85532",
+    "geom:latitude":27.85532,
+    "geom:longitude":67.68474,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ahmad Nawaz",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1352181,
+    "gn:latitude":27.85532,
+    "gn:longitude":67.68474,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Ahmad Nawaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1352181
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0fbd47e5f02182c74fa005b9bfc943fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1193014241,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193014241,
+    "wof:lastmodified":1536380228,
+    "wof:name":"Ahmad Nawaz",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.68474,
+    27.85532000000001,
+    67.68474,
+    27.85532000000001
+],
+  "geometry": {"coordinates":[67.68474000000001,27.85532000000001],"type":"Point"}
+}

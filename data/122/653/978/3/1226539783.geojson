@@ -1,0 +1,67 @@
+{
+  "id": 1226539783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.10012,32.34217,75.10012,32.34217",
+    "geom:latitude":32.34217,
+    "geom:longitude":75.10012,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chamariyal",
+    "gn:country_code":"PK",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081458,
+    "gn:latitude":32.34217,
+    "gn:longitude":75.10012,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chamariyal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081458
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"108f3fc5a079231bff6d33a2083cab48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226539783,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226539783,
+    "wof:lastmodified":1537005922,
+    "wof:name":"Chamariyal",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.10011999999998,
+    32.34217,
+    75.10011999999998,
+    32.34217
+],
+  "geometry": {"coordinates":[75.10011999999998,32.34217],"type":"Point"}
+}

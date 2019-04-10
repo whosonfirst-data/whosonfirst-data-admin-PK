@@ -1,0 +1,67 @@
+{
+  "id": 1293201401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.71887,35.35119,71.71887,35.35119",
+    "geom:latitude":35.35119,
+    "geom:longitude":71.71887,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Shkai Ser",
+    "gn:country_code":"PK",
+    "gn:dem":2227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124010,
+    "gn:latitude":35.35119,
+    "gn:longitude":71.71887,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Shkai Ser",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124010
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"050681c6d7587aab1d4c445b6353b7e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1293201401,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293201401,
+    "wof:lastmodified":1536702800,
+    "wof:name":"Shkai Ser",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.71887,
+    35.35119,
+    71.71887,
+    35.35119
+],
+  "geometry": {"coordinates":[71.71887,35.35119],"type":"Point"}
+}

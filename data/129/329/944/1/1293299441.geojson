@@ -1,0 +1,67 @@
+{
+  "id": 1293299441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3374,34.82352,73.3374,34.82352",
+    "geom:latitude":34.82352,
+    "geom:longitude":73.3374,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Marir",
+    "gn:country_code":"PK",
+    "gn:dem":3373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390424,
+    "gn:latitude":34.82352,
+    "gn:longitude":73.3374,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Marir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390424
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1011a2946569d62db4e5ed7e81f6f415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1293299441,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293299441,
+    "wof:lastmodified":1537055635,
+    "wof:name":"Marir",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3374,
+    34.82352,
+    73.3374,
+    34.82352
+],
+  "geometry": {"coordinates":[73.3374,34.82352],"type":"Point"}
+}

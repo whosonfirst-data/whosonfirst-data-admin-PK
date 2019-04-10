@@ -1,0 +1,67 @@
+{
+  "id": 1310502671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.42419,34.19378,73.42419,34.19378",
+    "geom:latitude":34.19378,
+    "geom:longitude":73.42419,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Nabga",
+    "gn:country_code":"PK",
+    "gn:dem":2709,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407547,
+    "gn:latitude":34.19378,
+    "gn:longitude":73.42419,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nabga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407547
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ac5f850ca8d4db2a62a375811d1aaad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1310502671,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310502671,
+    "wof:lastmodified":1536921668,
+    "wof:name":"Nabga",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.42419,
+    34.19378,
+    73.42419,
+    34.19378
+],
+  "geometry": {"coordinates":[73.42419,34.19378],"type":"Point"}
+}

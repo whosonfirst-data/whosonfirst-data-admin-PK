@@ -1,0 +1,67 @@
+{
+  "id": 1293002835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.4346,25.57545,63.4346,25.57545",
+    "geom:latitude":25.57545,
+    "geom:longitude":63.4346,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kalro",
+    "gn:country_code":"PK",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":1337082,
+    "gn:latitude":25.57545,
+    "gn:longitude":63.4346,
+    "gn:modification_date":"2016-07-05",
+    "gn:name":"Kalro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1337082
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ef6c0ea487f00fb5b97d34712a79fee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1293002835,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293002835,
+    "wof:lastmodified":1536987883,
+    "wof:name":"Kalro",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.4346,
+    25.57545,
+    63.4346,
+    25.57545
+],
+  "geometry": {"coordinates":[63.4346,25.57545],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344064783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.2768,30.81077,67.2768,30.81077",
+    "geom:latitude":30.81077,
+    "geom:longitude":67.2768,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Qila Viala",
+    "gn:country_code":"PK",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167626,
+    "gn:latitude":30.81077,
+    "gn:longitude":67.2768,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Qila Viala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Qila Viala"
+    ],
+    "name:und_x_variant":[
+        "Kila Viala",
+        "Kala Vi\u0101la",
+        "Qala Vi\u0101l",
+        "Qala Vi\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167626
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1786bb55bdab0159a3c0d6a59d8606cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1344064783,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1344064783,
+    "wof:lastmodified":1537679367,
+    "wof:name":"Qila Viala",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.2768,
+    30.81077,
+    67.2768,
+    30.81077
+],
+  "geometry": {"coordinates":[67.27679999999999,30.81077],"type":"Point"}
+}

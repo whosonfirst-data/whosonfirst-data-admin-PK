@@ -1,0 +1,67 @@
+{
+  "id": 1293001811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.29724,34.41222,73.29724,34.41222",
+    "geom:latitude":34.41222,
+    "geom:longitude":73.29724,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Landa",
+    "gn:country_code":"PK",
+    "gn:dem":1055,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10997454,
+    "gn:latitude":34.41222,
+    "gn:longitude":73.29724,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Landa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10997454
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d289f2c61ed6ee7f5e609c0fe5e2a754",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1293001811,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293001811,
+    "wof:lastmodified":1536989353,
+    "wof:name":"Landa",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.29724,
+    34.41222,
+    73.29724,
+    34.41222
+],
+  "geometry": {"coordinates":[73.29724,34.41222],"type":"Point"}
+}

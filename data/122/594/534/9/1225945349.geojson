@@ -1,0 +1,67 @@
+{
+  "id": 1225945349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93113,34.64538,72.93113,34.64538",
+    "geom:latitude":34.64538,
+    "geom:longitude":72.93113,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Tula",
+    "gn:country_code":"PK",
+    "gn:dem":1788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482602,
+    "gn:latitude":34.64538,
+    "gn:longitude":72.93113,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Tula",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482602
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10f4f75681eea5777ac881cea20e155d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1225945349,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945349,
+    "wof:lastmodified":1543515677,
+    "wof:name":"Tula",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93113000000002,
+    34.64538,
+    72.93113000000002,
+    34.64538
+],
+  "geometry": {"coordinates":[72.93113000000002,34.64538],"type":"Point"}
+}

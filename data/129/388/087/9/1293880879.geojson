@@ -1,0 +1,81 @@
+{
+  "id": 1293880879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73743,33.97096,73.73743,33.97096",
+    "geom:latitude":33.97096,
+    "geom:longitude":73.73743,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Naumanpura",
+    "gn:country_code":"PK",
+    "gn:dem":1097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7098988,
+    "gn:latitude":33.97096,
+    "gn:longitude":73.73743,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Naumanpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nau Pura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7098988
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6b7b9e2ed6c736f7fe590c7838b3be2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293880879,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1293880879,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293880879,
+    "wof:lastmodified":1537681688,
+    "wof:name":"Naumanpura",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73743,
+    33.97096,
+    73.73743,
+    33.97096
+],
+  "geometry": {"coordinates":[73.73743,33.97096],"type":"Point"}
+}

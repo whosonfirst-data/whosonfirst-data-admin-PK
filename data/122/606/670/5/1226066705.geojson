@@ -1,0 +1,89 @@
+{
+  "id": 1226066705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75017,33.6429,73.75017,33.6429",
+    "geom:latitude":33.6429,
+    "geom:longitude":73.75017,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gur Gali Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413742,
+    "gn:latitude":33.6429,
+    "gn:longitude":73.75017,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Gur Gali Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Morban"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413742
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cde64157691729f821b940690e88a0f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1226066705,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226066705,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226066705,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226066705,
+    "wof:lastmodified":1537681320,
+    "wof:name":"Gur Gali Bazar",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75017,
+    33.6429,
+    73.75017,
+    33.6429
+],
+  "geometry": {"coordinates":[73.75017,33.6429],"type":"Point"}
+}

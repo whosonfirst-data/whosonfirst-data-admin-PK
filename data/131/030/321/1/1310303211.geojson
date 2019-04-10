@@ -1,0 +1,67 @@
+{
+  "id": 1310303211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02544,24.56706,69.02544,24.56706",
+    "geom:latitude":24.56706,
+    "geom:longitude":69.02544,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Ghandia",
+    "gn:country_code":"PK",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7497616,
+    "gn:latitude":24.56706,
+    "gn:longitude":69.02544,
+    "gn:modification_date":"2010-08-08",
+    "gn:name":"Ghandia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7497616
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c44134d1f0cc6c52051ffd4a42434bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1310303211,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310303211,
+    "wof:lastmodified":1536711562,
+    "wof:name":"Ghandia",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02544,
+    24.56706,
+    69.02544,
+    24.56706
+],
+  "geometry": {"coordinates":[69.02544,24.56706],"type":"Point"}
+}

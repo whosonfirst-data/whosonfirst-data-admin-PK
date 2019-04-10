@@ -1,0 +1,65 @@
+{
+  "id": 1209420419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.4143,31.9272,72.4143,31.9272",
+    "geom:latitude":31.9272,
+    "geom:longitude":72.4143,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jaisak",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176417,
+    "gn:latitude":31.9272,
+    "gn:longitude":72.4143,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Jaisak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jaisik",
+        "Jaisak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176417
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"91c028f9aabc0b210d8ef0726a9c2054",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209420419
+        }
+    ],
+    "wof:id":1209420419,
+    "wof:lastmodified":1537679680,
+    "wof:name":"Jaisak",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.4143,
+    31.9272,
+    72.4143,
+    31.9272
+],
+  "geometry": {"coordinates":[72.4143,31.9272],"type":"Point"}
+}

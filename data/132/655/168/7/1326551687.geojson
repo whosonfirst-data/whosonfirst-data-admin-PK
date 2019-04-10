@@ -1,0 +1,78 @@
+{
+  "id": 1326551687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.62646,34.534,73.62646,34.534",
+    "geom:latitude":34.534,
+    "geom:longitude":73.62646,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Domel",
+    "gn:country_code":"PK",
+    "gn:dem":2417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385362,
+    "gn:latitude":34.534,
+    "gn:longitude":73.62646,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Domel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385362
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"486f4d7bb4392f33d5470c70d3c1e42a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326551687,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1326551687,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326551687,
+    "wof:lastmodified":1536956062,
+    "wof:name":"Domel",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.62646,
+    34.534,
+    73.62646,
+    34.534
+],
+  "geometry": {"coordinates":[73.62645999999999,34.534],"type":"Point"}
+}

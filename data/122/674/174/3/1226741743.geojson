@@ -1,0 +1,78 @@
+{
+  "id": 1226741743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90356,33.94281,73.90356,33.94281",
+    "geom:latitude":33.94281,
+    "geom:longitude":73.90356,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Dhangi Sharif",
+    "gn:country_code":"PK",
+    "gn:dem":2156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10955976,
+    "gn:latitude":33.94281,
+    "gn:longitude":73.90356,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dhangi Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10955976
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"80aa72dfe4737f4347c1c085c2437ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226741743,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1226741743,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226741743,
+    "wof:lastmodified":1536721662,
+    "wof:name":"Dhangi Sharif",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90356,
+    33.94280999999999,
+    73.90356,
+    33.94280999999999
+],
+  "geometry": {"coordinates":[73.90356,33.94280999999999],"type":"Point"}
+}

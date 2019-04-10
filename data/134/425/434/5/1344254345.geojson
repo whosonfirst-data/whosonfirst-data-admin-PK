@@ -1,0 +1,81 @@
+{
+  "id": 1344254345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61831,34.31682,73.61831,34.31682",
+    "geom:latitude":34.31682,
+    "geom:longitude":73.61831,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Jali Dadaian",
+    "gn:country_code":"PK",
+    "gn:dem":2213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385731,
+    "gn:latitude":34.31682,
+    "gn:longitude":73.61831,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jali Dadaian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jalidri\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385731
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a40ffd4b1dd6f2c789472d6ffc544f50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344254345,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1344254345,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1344254345,
+    "wof:lastmodified":1537680845,
+    "wof:name":"Jali Dadaian",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61831,
+    34.31682,
+    73.61831,
+    34.31682
+],
+  "geometry": {"coordinates":[73.61830999999999,34.31682],"type":"Point"}
+}

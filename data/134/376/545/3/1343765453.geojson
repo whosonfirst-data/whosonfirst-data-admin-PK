@@ -1,0 +1,67 @@
+{
+  "id": 1343765453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.31295,33.736,70.31295,33.736",
+    "geom:latitude":33.736,
+    "geom:longitude":70.31295,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Kot Ghundai",
+    "gn:country_code":"PK",
+    "gn:dem":1224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343841,
+    "gn:latitude":33.736,
+    "gn:longitude":70.31295,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Kot Ghundai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343841
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0204148713071ac5e824362b5b529b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1343765453,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343765453,
+    "wof:lastmodified":1536803633,
+    "wof:name":"Kot Ghundai",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.31295,
+    33.736,
+    70.31295,
+    33.736
+],
+  "geometry": {"coordinates":[70.31295,33.736],"type":"Point"}
+}

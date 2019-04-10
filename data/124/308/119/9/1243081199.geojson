@@ -1,0 +1,76 @@
+{
+  "id": 1243081199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58864,34.37801,71.58864,34.37801",
+    "geom:latitude":34.37801,
+    "geom:longitude":71.58864,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Nawan Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335611,
+    "gn:latitude":34.37801,
+    "gn:longitude":71.58864,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Nawan Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nawe Kalle"
+    ],
+    "name:und_x_variant":[
+        "N\u0101we Kili",
+        "Nawan Kalle",
+        "Laman",
+        "Navai Killi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335611
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a13b2cc1fb7b439cde551cddcb26c71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1243081199,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243081199,
+    "wof:lastmodified":1537680129,
+    "wof:name":"Nawan Kalle",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58864,
+    34.37801,
+    71.58864,
+    34.37801
+],
+  "geometry": {"coordinates":[71.58864,34.37801],"type":"Point"}
+}

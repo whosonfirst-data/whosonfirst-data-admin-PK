@@ -1,0 +1,73 @@
+{
+  "id": 1193016685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83409,32.75021,70.83409,32.75021",
+    "geom:latitude":32.75021,
+    "geom:longitude":70.83409,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Multan Manjiwala",
+    "gn:country_code":"PK",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1346913,
+    "gn:latitude":32.75021,
+    "gn:longitude":70.83409,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Multan Manjiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pur\u0101na Manjiw\u0101la",
+        "Mult\u0101n",
+        "Mult\u0101n Manjiw\u0101la",
+        "Multan Manjiwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1346913
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9917b1e9ba35f14b88313b91745bf819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1193016685,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193016685,
+    "wof:lastmodified":1543515402,
+    "wof:name":"Multan Manjiwala",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83409,
+    32.75021,
+    70.83409,
+    32.75021
+],
+  "geometry": {"coordinates":[70.83409,32.75021],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1260282119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87839,27.3751,67.87839,27.3751",
+    "geom:latitude":27.3751,
+    "geom:longitude":67.87839,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Abra",
+    "gn:country_code":"PK",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11117613,
+    "gn:latitude":27.3751,
+    "gn:longitude":67.87839,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Abra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11117613
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5eb456e63a8c02a7c6aab3d8f8f1f388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1260282119,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260282119,
+    "wof:lastmodified":1536714100,
+    "wof:name":"Abra",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87839,
+    27.3751,
+    67.87839,
+    27.3751
+],
+  "geometry": {"coordinates":[67.87839,27.3751],"type":"Point"}
+}

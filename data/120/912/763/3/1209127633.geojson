@@ -1,0 +1,64 @@
+{
+  "id": 1209127633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.52479,34.45444,73.52479,34.45444",
+    "geom:latitude":34.45444,
+    "geom:longitude":73.52479,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Pir Sacha",
+    "gn:country_code":"PK",
+    "gn:dem":900,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385474,
+    "gn:latitude":34.45444,
+    "gn:longitude":73.52479,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Pir Sacha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Parsaoncha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385474
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0b842b834824dd6a4df56ed3f256a9dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209127633
+        }
+    ],
+    "wof:id":1209127633,
+    "wof:lastmodified":1537680840,
+    "wof:name":"Pir Sacha",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.52479,
+    34.45444000000001,
+    73.52479,
+    34.45444000000001
+],
+  "geometry": {"coordinates":[73.52479,34.45444000000001],"type":"Point"}
+}

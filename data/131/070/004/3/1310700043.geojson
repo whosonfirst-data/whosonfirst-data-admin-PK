@@ -1,0 +1,67 @@
+{
+  "id": 1310700043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.96576,28.30373,68.96576,28.30373",
+    "geom:latitude":28.30373,
+    "geom:longitude":68.96576,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wado Gujrani",
+    "gn:country_code":"PK",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11329471,
+    "gn:latitude":28.30373,
+    "gn:longitude":68.96576,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Wado Gujrani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11329471
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"df2937103cc59ff42da887a669224ecd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692237,
+            "locality_id":1310700043,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310700043,
+    "wof:lastmodified":1536634963,
+    "wof:name":"Wado Gujrani",
+    "wof:parent_id":1108692237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.96576,
+    28.30373,
+    68.96576,
+    28.30373
+],
+  "geometry": {"coordinates":[68.96576,28.30373],"type":"Point"}
+}

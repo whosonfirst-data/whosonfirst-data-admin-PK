@@ -1,0 +1,67 @@
+{
+  "id": 1225843289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.4936,24.27839,69.4936,24.27839",
+    "geom:latitude":24.27839,
+    "geom:longitude":69.4936,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Wingar",
+    "gn:country_code":"PK",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410312,
+    "gn:latitude":24.27839,
+    "gn:longitude":69.4936,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Wingar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410312
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cbaa8629cc4b357d5477dc01b1ef369b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1225843289,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1225843289,
+    "wof:lastmodified":1537016547,
+    "wof:name":"Wingar",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.4936,
+    24.27839,
+    69.4936,
+    24.27839
+],
+  "geometry": {"coordinates":[69.4936,24.27839],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243553009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.56944,28.43611,69.56944,28.43611",
+    "geom:latitude":28.43611,
+    "geom:longitude":69.56944,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Muhammad Jamro",
+    "gn:country_code":"PK",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1401124,
+    "gn:latitude":28.43611,
+    "gn:longitude":69.56944,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Muhammad Jamro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1401124
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"67056ec69e61d1909669fe6c38569000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692237,
+            "locality_id":1243553009,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1243553009,
+    "wof:lastmodified":1536651833,
+    "wof:name":"Muhammad Jamro",
+    "wof:parent_id":1108692237,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.56944,
+    28.43611,
+    69.56944,
+    28.43611
+],
+  "geometry": {"coordinates":[69.56944,28.43611],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1226343219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65028,34.20563,71.65028,34.20563",
+    "geom:latitude":34.20563,
+    "geom:longitude":71.65028,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Nahkai",
+    "gn:country_code":"PK",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169521,
+    "gn:latitude":34.20563,
+    "gn:longitude":71.65028,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Nahkai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Nahkai"
+    ],
+    "name:und_x_variant":[
+        "Nahaqi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169521
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f737c5b7f656d7bd8219b5eaa053f05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1226343219,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226343219,
+    "wof:lastmodified":1537679435,
+    "wof:name":"Nahkai",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65028000000002,
+    34.20563,
+    71.65028000000002,
+    34.20563
+],
+  "geometry": {"coordinates":[71.65028000000002,34.20563],"type":"Point"}
+}

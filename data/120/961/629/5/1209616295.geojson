@@ -1,0 +1,67 @@
+{
+  "id": 1209616295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62149,33.80083,71.62149,33.80083",
+    "geom:latitude":33.80083,
+    "geom:longitude":71.62149,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Aza Khel",
+    "gn:country_code":"PK",
+    "gn:dem":478,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184194,
+    "gn:latitude":33.80083,
+    "gn:longitude":71.62149,
+    "gn:modification_date":"2015-09-06",
+    "gn:name":"Aza Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184194
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1730f8add2ebeca06f60c6c86a6b7524",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":1209616295,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209616295,
+    "wof:lastmodified":1543515751,
+    "wof:name":"Aza Khel",
+    "wof:parent_id":1108692347,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62149000000002,
+    33.80083,
+    71.62149000000002,
+    33.80083
+],
+  "geometry": {"coordinates":[71.62149000000002,33.80083],"type":"Point"}
+}

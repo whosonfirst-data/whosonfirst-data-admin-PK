@@ -1,0 +1,67 @@
+{
+  "id": 1343960099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01882,27.29241,67.01882,27.29241",
+    "geom:latitude":27.29241,
+    "geom:longitude":67.01882,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Parpakki",
+    "gn:country_code":"PK",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11256619,
+    "gn:latitude":27.29241,
+    "gn:longitude":67.01882,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Parpakki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11256619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0380dc7766d0350fdfa694c377748ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1343960099,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343960099,
+    "wof:lastmodified":1537019642,
+    "wof:name":"Parpakki",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01881999999999,
+    27.29241,
+    67.01881999999999,
+    27.29241
+],
+  "geometry": {"coordinates":[67.01881999999999,27.29241],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1260283859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.0453,32.15718,75.0453,32.15718",
+    "geom:latitude":32.15718,
+    "geom:longitude":75.0453,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gurala",
+    "gn:country_code":"PK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177515,
+    "gn:latitude":32.15718,
+    "gn:longitude":75.0453,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Gurala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gorala",
+        "Gurala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177515
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e659ff2149e83717727d49d4391147c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1260283859,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260283859,
+    "wof:lastmodified":1537679718,
+    "wof:name":"Gurala",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.0453,
+    32.15718,
+    75.0453,
+    32.15718
+],
+  "geometry": {"coordinates":[75.0453,32.15718],"type":"Point"}
+}

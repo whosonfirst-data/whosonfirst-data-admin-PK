@@ -1,0 +1,86 @@
+{
+  "id": 1326523835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.02075,36.09327,74.02075,36.09327",
+    "geom:latitude":36.09327,
+    "geom:longitude":74.02075,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Hamochal",
+    "gn:country_code":"PK",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11035097,
+    "gn:latitude":36.09327,
+    "gn:longitude":74.02075,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Hamochal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11035097
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8005a273e0f60e72a69fb1a3486fc5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1326523835,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1326523835,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1326523835,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326523835,
+    "wof:lastmodified":1536995389,
+    "wof:name":"Hamochal",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.02075,
+    36.09327,
+    74.02075,
+    36.09327
+],
+  "geometry": {"coordinates":[74.02075000000001,36.09327],"type":"Point"}
+}

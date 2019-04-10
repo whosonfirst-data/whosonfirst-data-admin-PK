@@ -1,0 +1,78 @@
+{
+  "id": 1293510017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.02475,35.91635,76.02475,35.91635",
+    "geom:latitude":35.91635,
+    "geom:longitude":76.02475,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shinchapbi Biaho",
+    "gn:country_code":"PK",
+    "gn:dem":4407,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418393,
+    "gn:latitude":35.91635,
+    "gn:longitude":76.02475,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Shinchapbi Biaho",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418393
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e4beb4dcf7c5def1cd33c78ef30d121",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293510017,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293510017,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293510017,
+    "wof:lastmodified":1536754642,
+    "wof:name":"Shinchapbi Biaho",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.02475,
+    35.91635,
+    76.02475,
+    35.91635
+],
+  "geometry": {"coordinates":[76.02475,35.91635],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1276325849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93519,33.59834,73.93519,33.59834",
+    "geom:latitude":33.59834,
+    "geom:longitude":73.93519,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Mindal",
+    "gn:country_code":"PK",
+    "gn:dem":714,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413717,
+    "gn:latitude":33.59834,
+    "gn:longitude":73.93519,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Mindal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Banhdor"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413717
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f80ffe87846d30128b1172c1cc3f1fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276325849,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1276325849,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276325849,
+    "wof:lastmodified":1537681320,
+    "wof:name":"Mindal",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93519,
+    33.59834,
+    73.93519,
+    33.59834
+],
+  "geometry": {"coordinates":[73.93519000000001,33.59834],"type":"Point"}
+}

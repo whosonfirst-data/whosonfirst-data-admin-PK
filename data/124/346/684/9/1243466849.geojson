@@ -1,0 +1,67 @@
+{
+  "id": 1243466849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.43461,28.99183,67.43461,28.99183",
+    "geom:latitude":28.99183,
+    "geom:longitude":67.43461,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chamakh",
+    "gn:country_code":"PK",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11273790,
+    "gn:latitude":28.99183,
+    "gn:longitude":67.43461,
+    "gn:modification_date":"2016-10-10",
+    "gn:name":"Chamakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11273790
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"faef8b2704067dd1b3773f6748b9d084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1243466849,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1243466849,
+    "wof:lastmodified":1536776633,
+    "wof:name":"Chamakh",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.43460999999999,
+    28.99183,
+    67.43460999999999,
+    28.99183
+],
+  "geometry": {"coordinates":[67.43460999999999,28.99183],"type":"Point"}
+}

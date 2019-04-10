@@ -1,0 +1,73 @@
+{
+  "id": 1209107227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.62311,34.15982,71.62311,34.15982",
+    "geom:latitude":34.15982,
+    "geom:longitude":71.62311,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tarkha",
+    "gn:country_code":"PK",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163811,
+    "gn:latitude":34.15982,
+    "gn:longitude":71.62311,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Tarkha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Tarkha"
+    ],
+    "name:und_x_variant":[
+        "Tarkho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163811
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"69a90dc91ba63be29b04e5f8a00eab2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1209107227,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209107227,
+    "wof:lastmodified":1543515456,
+    "wof:name":"Tarkha",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.62311,
+    34.15982,
+    71.62311,
+    34.15982
+],
+  "geometry": {"coordinates":[71.62311,34.15982],"type":"Point"}
+}

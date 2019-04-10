@@ -1,0 +1,67 @@
+{
+  "id": 1225852741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.6835,31.12187,69.6835,31.12187",
+    "geom:latitude":31.12187,
+    "geom:longitude":69.6835,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nishpa",
+    "gn:country_code":"PK",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6310802,
+    "gn:latitude":31.12187,
+    "gn:longitude":69.6835,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Nishpa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6310802
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"87bd70c2339e320bed5c8eff779ce6d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1225852741,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1225852741,
+    "wof:lastmodified":1537002766,
+    "wof:name":"Nishpa",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.6835,
+    31.12187,
+    69.6835,
+    31.12187
+],
+  "geometry": {"coordinates":[69.6835,31.12187],"type":"Point"}
+}

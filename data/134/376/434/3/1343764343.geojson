@@ -1,0 +1,67 @@
+{
+  "id": 1343764343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.82166,30.65986,66.82166,30.65986",
+    "geom:latitude":30.65986,
+    "geom:longitude":66.82166,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Mado",
+    "gn:country_code":"PK",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1376079,
+    "gn:latitude":30.65986,
+    "gn:longitude":66.82166,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Mado",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1376079
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"330a54dcaec7ebc257419940f8bd009e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1343764343,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343764343,
+    "wof:lastmodified":1536805185,
+    "wof:name":"Mado",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.82166,
+    30.65986,
+    66.82166,
+    30.65986
+],
+  "geometry": {"coordinates":[66.82165999999999,30.65986],"type":"Point"}
+}

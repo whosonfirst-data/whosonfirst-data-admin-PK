@@ -1,0 +1,73 @@
+{
+  "id": 1360098643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.6261,34.59668,71.6261,34.59668",
+    "geom:latitude":34.59668,
+    "geom:longitude":71.6261,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Tangorai",
+    "gn:country_code":"PK",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111565,
+    "gn:latitude":34.59668,
+    "gn:longitude":71.6261,
+    "gn:modification_date":"2015-10-04",
+    "gn:name":"Tangorai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Warai"
+    ],
+    "name:und_x_variant":[
+        "Tanghara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111565
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9877caf3a218dfd73a53c34fe40d3149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1360098643,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360098643,
+    "wof:lastmodified":1543515358,
+    "wof:name":"Tangorai",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.6261,
+    34.59668,
+    71.6261,
+    34.59668
+],
+  "geometry": {"coordinates":[71.62609999999999,34.59668],"type":"Point"}
+}

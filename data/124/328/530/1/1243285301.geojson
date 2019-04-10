@@ -1,0 +1,81 @@
+{
+  "id": 1243285301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6106,34.28655,73.6106,34.28655",
+    "geom:latitude":34.28655,
+    "geom:longitude":73.6106,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Katha Gujran",
+    "gn:country_code":"PK",
+    "gn:dem":1654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1385867,
+    "gn:latitude":34.28655,
+    "gn:longitude":73.6106,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Katha Gujran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Katha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1385867
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa553f37b088d29f56c4eb2dfa886517",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243285301,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243285301,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243285301,
+    "wof:lastmodified":1537680848,
+    "wof:name":"Katha Gujran",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6106,
+    34.28655,
+    73.6106,
+    34.28655
+],
+  "geometry": {"coordinates":[73.61060000000001,34.28655],"type":"Point"}
+}

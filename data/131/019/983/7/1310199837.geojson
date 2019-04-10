@@ -1,0 +1,78 @@
+{
+  "id": 1310199837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.44765,34.9271,74.44765,34.9271",
+    "geom:latitude":34.9271,
+    "geom:longitude":74.44765,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Arkasi",
+    "gn:country_code":"PK",
+    "gn:dem":2729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412574,
+    "gn:latitude":34.9271,
+    "gn:longitude":74.44765,
+    "gn:modification_date":"2001-12-20",
+    "gn:name":"Arkasi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412574
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"42da1e0fbc5b7278859bfc04b426bf26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1310199837,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1310199837,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1310199837,
+    "wof:lastmodified":1536859130,
+    "wof:name":"Arkasi",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.44765,
+    34.9271,
+    74.44765,
+    34.9271
+],
+  "geometry": {"coordinates":[74.44765,34.9271],"type":"Point"}
+}

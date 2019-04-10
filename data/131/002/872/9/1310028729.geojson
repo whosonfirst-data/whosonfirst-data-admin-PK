@@ -1,0 +1,73 @@
+{
+  "id": 1310028729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97693,31.64778,73.97693,31.64778",
+    "geom:latitude":31.64778,
+    "geom:longitude":73.97693,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Baharianwala",
+    "gn:country_code":"PK",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182200,
+    "gn:latitude":31.64778,
+    "gn:longitude":73.97693,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Baharianwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bahrianwalam",
+        "Bahri\u0101nw\u0101la",
+        "Buhri\u0101nw\u0101la",
+        "Baharianwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182200
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"16e4564e3571fd2688c0571bea6ac31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1310028729,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310028729,
+    "wof:lastmodified":1537679883,
+    "wof:name":"Baharianwala",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97693000000002,
+    31.64778,
+    73.97693000000002,
+    31.64778
+],
+  "geometry": {"coordinates":[73.97693000000002,31.64778],"type":"Point"}
+}

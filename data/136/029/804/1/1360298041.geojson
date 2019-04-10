@@ -1,0 +1,67 @@
+{
+  "id": 1360298041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.31177,27.99701,63.31177,27.99701",
+    "geom:latitude":27.99701,
+    "geom:longitude":63.31177,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sergi",
+    "gn:country_code":"PK",
+    "gn:dem":514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11201041,
+    "gn:latitude":27.99701,
+    "gn:longitude":63.31177,
+    "gn:modification_date":"2016-07-07",
+    "gn:name":"Sergi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11201041
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3ff2d23b2e8d69a560267fe69eff987c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1360298041,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1360298041,
+    "wof:lastmodified":1536637195,
+    "wof:name":"Sergi",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.31177,
+    27.99701,
+    63.31177,
+    27.99701
+],
+  "geometry": {"coordinates":[63.31177,27.99701],"type":"Point"}
+}

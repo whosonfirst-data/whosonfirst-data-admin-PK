@@ -1,0 +1,67 @@
+{
+  "id": 1310311753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06506,35.18431,73.06506,35.18431",
+    "geom:latitude":35.18431,
+    "geom:longitude":73.06506,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Haran",
+    "gn:country_code":"PK",
+    "gn:dem":2705,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045539,
+    "gn:latitude":35.18431,
+    "gn:longitude":73.06506,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Haran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045539
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"373c6584efcbdf59336c2335a5947301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1310311753,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1310311753,
+    "wof:lastmodified":1536699105,
+    "wof:name":"Haran",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06506,
+    35.18431,
+    73.06506,
+    35.18431
+],
+  "geometry": {"coordinates":[73.06506,35.18431],"type":"Point"}
+}

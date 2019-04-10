@@ -1,0 +1,72 @@
+{
+  "id": 1209716293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78328,32.80017,70.78328,32.80017",
+    "geom:latitude":32.80017,
+    "geom:longitude":70.78328,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Purdil Begu Khel",
+    "gn:country_code":"PK",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334473,
+    "gn:latitude":32.80017,
+    "gn:longitude":70.78328,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Purdil Begu Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Langar Maid\u0101d Khel",
+        "S\u0101hibd\u0101d Begu Khel",
+        "S\u0101hibd\u0101d Bego Khel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334473
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fbc62635c7676e6b20b8ba37725f28e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1209716293,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209716293,
+    "wof:lastmodified":1543515708,
+    "wof:name":"Purdil Begu Khel",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78328,
+    32.80017,
+    70.78328,
+    32.80017
+],
+  "geometry": {"coordinates":[70.78328,32.80017],"type":"Point"}
+}

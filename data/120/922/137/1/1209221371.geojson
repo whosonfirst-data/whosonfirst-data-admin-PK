@@ -1,0 +1,73 @@
+{
+  "id": 1209221371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48921,35.99162,71.48921,35.99162",
+    "geom:latitude":35.99162,
+    "geom:longitude":71.48921,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Parabek",
+    "gn:country_code":"PK",
+    "gn:dem":2445,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1373174,
+    "gn:latitude":35.99162,
+    "gn:longitude":71.48921,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Parabek",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:urd_x_preferred":[
+        "P\u0101r\u0101bek"
+    ],
+    "name:urd_x_variant":[
+        "\u067e\u064e\u0627\u0631\u064e\u0627\u0628\u06cc\u06a9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1373174
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2f4e6b968539b81aa9e405a9945f8c0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1209221371,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209221371,
+    "wof:lastmodified":1543515237,
+    "wof:name":"Parabek",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48921,
+    35.99162000000001,
+    71.48921,
+    35.99162000000001
+],
+  "geometry": {"coordinates":[71.48921,35.99162000000001],"type":"Point"}
+}

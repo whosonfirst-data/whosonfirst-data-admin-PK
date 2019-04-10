@@ -1,0 +1,67 @@
+{
+  "id": 1260078479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.30494,24.53651,69.30494,24.53651",
+    "geom:latitude":24.53651,
+    "geom:longitude":69.30494,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Jarbi",
+    "gn:country_code":"PK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11409881,
+    "gn:latitude":24.53651,
+    "gn:longitude":69.30494,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Jarbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11409881
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"024555cbba4c05bc6b491e875624220a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1260078479,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1260078479,
+    "wof:lastmodified":1536994458,
+    "wof:name":"Jarbi",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.30494,
+    24.53651,
+    69.30494,
+    24.53651
+],
+  "geometry": {"coordinates":[69.30494,24.53651],"type":"Point"}
+}

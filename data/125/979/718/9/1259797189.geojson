@@ -1,0 +1,67 @@
+{
+  "id": 1259797189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.15666,33.86044,70.15666,33.86044",
+    "geom:latitude":33.86044,
+    "geom:longitude":70.15666,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Saragulla",
+    "gn:country_code":"PK",
+    "gn:dem":1549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343467,
+    "gn:latitude":33.86044,
+    "gn:longitude":70.15666,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Saragulla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343467
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56c7c2bca707acf8a42dcfa801211a0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1259797189,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1259797189,
+    "wof:lastmodified":1536903530,
+    "wof:name":"Saragulla",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.15666,
+    33.86044,
+    70.15666,
+    33.86044
+],
+  "geometry": {"coordinates":[70.15666,33.86044],"type":"Point"}
+}

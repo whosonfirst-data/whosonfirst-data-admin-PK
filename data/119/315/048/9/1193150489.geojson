@@ -1,0 +1,75 @@
+{
+  "id": 1193150489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58246,34.36077,71.58246,34.36077",
+    "geom:latitude":34.36077,
+    "geom:longitude":71.58246,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Depo Dheri",
+    "gn:country_code":"PK",
+    "gn:dem":465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335589,
+    "gn:latitude":34.36077,
+    "gn:longitude":71.58246,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Depo Dheri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Deo Dheri"
+    ],
+    "name:und_x_variant":[
+        "Deo Dherai",
+        "Depo Dheri",
+        "Dew Derai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335589
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c9a02c41bd130b41b61c141995e28a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1193150489,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193150489,
+    "wof:lastmodified":1543515447,
+    "wof:name":"Depo Dheri",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58246,
+    34.36077,
+    71.58246,
+    34.36077
+],
+  "geometry": {"coordinates":[71.58246,34.36077],"type":"Point"}
+}

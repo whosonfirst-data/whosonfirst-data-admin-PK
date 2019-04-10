@@ -1,0 +1,67 @@
+{
+  "id": 1210021989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.93182,31.95652,73.93182,31.95652",
+    "geom:latitude":31.95652,
+    "geom:longitude":73.93182,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dera Khalifa",
+    "gn:country_code":"PK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11526581,
+    "gn:latitude":31.95652,
+    "gn:longitude":73.93182,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dera Khalifa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11526581
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"872e2d1cb5fd689d58c87e6dea1270a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1210021989,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1210021989,
+    "wof:lastmodified":1536392440,
+    "wof:name":"Dera Khalifa",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.93182,
+    31.95652,
+    73.93182,
+    31.95652
+],
+  "geometry": {"coordinates":[73.93182,31.95652],"type":"Point"}
+}

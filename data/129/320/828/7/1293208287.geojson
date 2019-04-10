@@ -1,0 +1,67 @@
+{
+  "id": 1293208287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83511,29.16565,67.83511,29.16565",
+    "geom:latitude":29.16565,
+    "geom:longitude":67.83511,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Balochani",
+    "gn:country_code":"PK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1394824,
+    "gn:latitude":29.16565,
+    "gn:longitude":67.83511,
+    "gn:modification_date":"2018-06-09",
+    "gn:name":"Balochani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1394824
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0da15893174aa4ae9cec9ad2a5457d58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":1293208287,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293208287,
+    "wof:lastmodified":1536692695,
+    "wof:name":"Balochani",
+    "wof:parent_id":1108692229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83511,
+    29.16565,
+    67.83511,
+    29.16565
+],
+  "geometry": {"coordinates":[67.83511,29.16565],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209524521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.96269,32.98144,69.96269,32.98144",
+    "geom:latitude":32.98144,
+    "geom:longitude":69.96269,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Umarzai",
+    "gn:country_code":"PK",
+    "gn:dem":1007,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1365295,
+    "gn:latitude":32.98144,
+    "gn:longitude":69.96269,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Umarzai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ummar Zai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1365295
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3453119bc67b065aa356def7c933546",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1209524521,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209524521,
+    "wof:lastmodified":1543515687,
+    "wof:name":"Umarzai",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.96269000000001,
+    32.98144,
+    69.96269000000001,
+    32.98144
+],
+  "geometry": {"coordinates":[69.96269000000001,32.98144],"type":"Point"}
+}

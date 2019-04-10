@@ -1,0 +1,67 @@
+{
+  "id": 1276988765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.0387,26.32276,65.0387,26.32276",
+    "geom:latitude":26.32276,
+    "geom:longitude":65.0387,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Faulad",
+    "gn:country_code":"PK",
+    "gn:dem":545,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11234087,
+    "gn:latitude":26.32276,
+    "gn:longitude":65.0387,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Faulad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11234087
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a2896e17a9394a719d9a6560254666e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692121,
+            "locality_id":1276988765,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276988765,
+    "wof:lastmodified":1536894870,
+    "wof:name":"Faulad",
+    "wof:parent_id":1108692121,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.0387,
+    26.32276,
+    65.0387,
+    26.32276
+],
+  "geometry": {"coordinates":[65.03870000000001,26.32276],"type":"Point"}
+}

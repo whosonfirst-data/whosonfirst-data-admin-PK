@@ -1,0 +1,67 @@
+{
+  "id": 1310018343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.4745,28.47806,65.4745,28.47806",
+    "geom:latitude":28.47806,
+    "geom:longitude":65.4745,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Masit",
+    "gn:country_code":"PK",
+    "gn:dem":706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7610227,
+    "gn:latitude":28.47806,
+    "gn:longitude":65.4745,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Masit",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7610227
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f7f7b70cd64fd85908a5b0494db28acc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1310018343,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310018343,
+    "wof:lastmodified":1536622737,
+    "wof:name":"Masit",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.4745,
+    28.47806,
+    65.4745,
+    28.47806
+],
+  "geometry": {"coordinates":[65.47450000000001,28.47806],"type":"Point"}
+}

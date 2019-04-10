@@ -1,0 +1,81 @@
+{
+  "id": 1326827217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.37263,32.87185,74.37263,32.87185",
+    "geom:latitude":32.87185,
+    "geom:longitude":74.37263,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Phagia Number One",
+    "gn:country_code":"PK",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413386,
+    "gn:latitude":32.87185,
+    "gn:longitude":74.37263,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Phagia Number One",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jagguw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413386
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"04fa44661dac02a696986776a831003a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326827217,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326827217,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326827217,
+    "wof:lastmodified":1537681314,
+    "wof:name":"Phagia Number One",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.37263,
+    32.87185,
+    74.37263,
+    32.87185
+],
+  "geometry": {"coordinates":[74.37263,32.87185],"type":"Point"}
+}

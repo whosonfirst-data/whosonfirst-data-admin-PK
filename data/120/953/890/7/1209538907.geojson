@@ -1,0 +1,64 @@
+{
+  "id": 1209538907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49945,30.22761,73.49945,30.22761",
+    "geom:latitude":30.22761,
+    "geom:longitude":73.49945,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Lundipura",
+    "gn:country_code":"PK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539991,
+    "gn:latitude":30.22761,
+    "gn:longitude":73.49945,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Lundipura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Landipur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539991
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"078144fa218476fc9ed663d9aafd9457",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209538907
+        }
+    ],
+    "wof:id":1209538907,
+    "wof:lastmodified":1537682016,
+    "wof:name":"Lundipura",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49945,
+    30.22761,
+    73.49945,
+    30.22761
+],
+  "geometry": {"coordinates":[73.49945,30.22761],"type":"Point"}
+}

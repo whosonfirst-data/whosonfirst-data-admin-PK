@@ -1,0 +1,78 @@
+{
+  "id": 1292997917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23074,32.90658,74.23074,32.90658",
+    "geom:latitude":32.90658,
+    "geom:longitude":74.23074,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Nakkar",
+    "gn:country_code":"PK",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070309,
+    "gn:latitude":32.90658,
+    "gn:longitude":74.23074,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Nakkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070309
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a0815ac8f77d62db4a2bff39ebb4cb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1292997917,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1292997917,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1292997917,
+    "wof:lastmodified":1536995062,
+    "wof:name":"Nakkar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23074,
+    32.90658,
+    74.23074,
+    32.90658
+],
+  "geometry": {"coordinates":[74.23074,32.90658],"type":"Point"}
+}

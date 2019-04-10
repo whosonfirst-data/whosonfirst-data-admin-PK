@@ -1,0 +1,77 @@
+{
+  "id": 890455847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2016-09-19",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.12925,28.62643,68.12925,28.62643",
+    "geom:latitude":28.62643,
+    "geom:longitude":68.12925,
+    "gn:country":"PK",
+    "gn:fcode":"ADM2",
+    "gn:pop":350000,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Nas\u012br\u0101b\u0101d District"
+    ],
+    "name:eng_x_variant":[
+        "Nas\u012br\u0101b\u0101d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0635\u0631 \u0622\u0628\u0627\u062f"
+    ],
+    "qs:name":"Nas\u012br\u0101b\u0101d District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"10",
+    "src:geom":"unknown",
+    "src:population":"geonames",
+    "wd:wordcount":422,
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169249,
+        "qs:id":555311,
+        "wd:id":"Q2315447",
+        "wk:page":"Nasirabad District"
+    },
+    "wof:country":"PK",
+    "wof:created":1469052977,
+    "wof:geomhash":"775cb659dc52d3b946b660033afdb02d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455847,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":890455847,
+    "wof:lastmodified":1527735397,
+    "wof:name":"Nas\u012br\u0101b\u0101d District",
+    "wof:parent_id":85675733,
+    "wof:placetype":"county",
+    "wof:population":350000,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.12925,
+    28.62643,
+    68.12925,
+    28.62643
+],
+  "geometry": {"coordinates":[68.12925,28.62643],"type":"Point"}
+}

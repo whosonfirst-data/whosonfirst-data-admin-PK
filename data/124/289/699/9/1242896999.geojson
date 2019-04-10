@@ -1,0 +1,67 @@
+{
+  "id": 1242896999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1262,31.57865,74.1262,31.57865",
+    "geom:latitude":31.57865,
+    "geom:longitude":74.1262,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abdalia",
+    "gn:country_code":"PK",
+    "gn:dem":202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330529,
+    "gn:latitude":31.57865,
+    "gn:longitude":74.1262,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Abdalia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330529
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9822aaf96645cf75f26f002f7b49fcd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1242896999,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242896999,
+    "wof:lastmodified":1536600375,
+    "wof:name":"Abdalia",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1262,
+    31.57865,
+    74.1262,
+    31.57865
+],
+  "geometry": {"coordinates":[74.1262,31.57865],"type":"Point"}
+}

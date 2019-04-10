@@ -1,0 +1,68 @@
+{
+  "id": 1243090657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.15493,32.60861,73.15493,32.60861",
+    "geom:latitude":32.60861,
+    "geom:longitude":73.15493,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Haranpur",
+    "gn:country_code":"PK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177170,
+    "gn:latitude":32.60861,
+    "gn:longitude":73.15493,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Haranpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177170,
+        "wk:page":"Haranpur"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"abd2b0b1261538c7d7d3af298195633d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1243090657,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243090657,
+    "wof:lastmodified":1537570737,
+    "wof:name":"Haranpur",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.15493000000002,
+    32.60861,
+    73.15493000000002,
+    32.60861
+],
+  "geometry": {"coordinates":[73.15493000000002,32.60861],"type":"Point"}
+}

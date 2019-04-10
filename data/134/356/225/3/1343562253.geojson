@@ -1,0 +1,67 @@
+{
+  "id": 1343562253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.09485,35.49439,73.09485,35.49439",
+    "geom:latitude":35.49439,
+    "geom:longitude":73.09485,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Phamrao",
+    "gn:country_code":"PK",
+    "gn:dem":2534,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999858,
+    "gn:latitude":35.49439,
+    "gn:longitude":73.09485,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Phamrao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999858
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c1e4a318b7e19e961dda315bdb0e372b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1343562253,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343562253,
+    "wof:lastmodified":1537093679,
+    "wof:name":"Phamrao",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.09485,
+    35.49439,
+    73.09485,
+    35.49439
+],
+  "geometry": {"coordinates":[73.09484999999999,35.49439],"type":"Point"}
+}

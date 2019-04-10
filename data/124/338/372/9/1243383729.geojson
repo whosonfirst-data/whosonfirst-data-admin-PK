@@ -1,0 +1,78 @@
+{
+  "id": 1243383729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.40965,35.90531,74.40965,35.90531",
+    "geom:latitude":35.90531,
+    "geom:longitude":74.40965,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Muhammadabad",
+    "gn:country_code":"PK",
+    "gn:dem":1529,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069516,
+    "gn:latitude":35.90531,
+    "gn:longitude":74.40965,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Muhammadabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069516
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d2d9af9d586d709cacf28239037eee95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1243383729,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1243383729,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243383729,
+    "wof:lastmodified":1536895890,
+    "wof:name":"Muhammadabad",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.40965,
+    35.90531,
+    74.40965,
+    35.90531
+],
+  "geometry": {"coordinates":[74.40965,35.90531],"type":"Point"}
+}

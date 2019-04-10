@@ -1,0 +1,67 @@
+{
+  "id": 1293200329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59382,32.33537,73.59382,32.33537",
+    "geom:latitude":32.33537,
+    "geom:longitude":73.59382,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bahri",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1183833,
+    "gn:latitude":32.33537,
+    "gn:longitude":73.59382,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1183833
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6aa6f3fc9c32de251a4c46c91b67b432",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1293200329,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293200329,
+    "wof:lastmodified":1536704345,
+    "wof:name":"Bahri",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59382,
+    32.33537,
+    73.59382,
+    32.33537
+],
+  "geometry": {"coordinates":[73.59381999999999,32.33537],"type":"Point"}
+}

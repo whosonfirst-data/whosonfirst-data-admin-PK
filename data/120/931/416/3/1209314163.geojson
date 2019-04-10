@@ -1,0 +1,64 @@
+{
+  "id": 1209314163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64845,30.3899,70.64845,30.3899",
+    "geom:latitude":30.3899,
+    "geom:longitude":70.64845,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khoso",
+    "gn:country_code":"PK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406111,
+    "gn:latitude":30.3899,
+    "gn:longitude":70.64845,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Khoso",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Musr\u0101ni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406111
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c2de5d4952e4a6c9075fa0fc436ba634",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209314163
+        }
+    ],
+    "wof:id":1209314163,
+    "wof:lastmodified":1537681191,
+    "wof:name":"Khoso",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64845,
+    30.3899,
+    70.64845,
+    30.3899
+],
+  "geometry": {"coordinates":[70.64845,30.3899],"type":"Point"}
+}

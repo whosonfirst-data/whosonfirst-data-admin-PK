@@ -1,0 +1,67 @@
+{
+  "id": 1260189291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61139,32.81583,70.61139,32.81583",
+    "geom:latitude":32.81583,
+    "geom:longitude":70.61139,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kas Jaimal",
+    "gn:country_code":"PK",
+    "gn:dem":323,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332552,
+    "gn:latitude":32.81583,
+    "gn:longitude":70.61139,
+    "gn:modification_date":"2005-04-07",
+    "gn:name":"Kas Jaimal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332552
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"008f2229d55e918a21479dc6a29376ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1260189291,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260189291,
+    "wof:lastmodified":1536838938,
+    "wof:name":"Kas Jaimal",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61139,
+    32.81583,
+    70.61139,
+    32.81583
+],
+  "geometry": {"coordinates":[70.61139,32.81583],"type":"Point"}
+}

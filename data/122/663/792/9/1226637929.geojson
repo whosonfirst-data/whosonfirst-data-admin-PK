@@ -1,0 +1,89 @@
+{
+  "id": 1226637929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.65176,33.78782,73.65176,33.78782",
+    "geom:latitude":33.78782,
+    "geom:longitude":73.65176,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Hil Damna",
+    "gn:country_code":"PK",
+    "gn:dem":1084,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100124,
+    "gn:latitude":33.78782,
+    "gn:longitude":73.65176,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Hil Damna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hil Dhamna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100124
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3834e3438b8b83cf60c1bb583d250626",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1226637929,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226637929,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1226637929,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226637929,
+    "wof:lastmodified":1537681689,
+    "wof:name":"Hil Damna",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.65176,
+    33.78782,
+    73.65176,
+    33.78782
+],
+  "geometry": {"coordinates":[73.65176,33.78782],"type":"Point"}
+}

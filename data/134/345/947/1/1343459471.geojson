@@ -1,0 +1,70 @@
+{
+  "id": 1343459471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.23418,35.41935,72.23418,35.41935",
+    "geom:latitude":35.41935,
+    "geom:longitude":72.23418,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Badran",
+    "gn:country_code":"PK",
+    "gn:dem":2467,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1477816,
+    "gn:latitude":35.41935,
+    "gn:longitude":72.23418,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Badran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Badran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1477816
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05b349ccf0fd35dbe2c76833b3a7c064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1343459471,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343459471,
+    "wof:lastmodified":1537681557,
+    "wof:name":"Badran",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.23418000000002,
+    35.41935,
+    72.23418000000002,
+    35.41935
+],
+  "geometry": {"coordinates":[72.23418000000002,35.41935],"type":"Point"}
+}

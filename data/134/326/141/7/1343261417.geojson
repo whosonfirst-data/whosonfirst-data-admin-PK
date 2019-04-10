@@ -1,0 +1,67 @@
+{
+  "id": 1343261417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26579,30.83399,74.26579,30.83399",
+    "geom:latitude":30.83399,
+    "geom:longitude":74.26579,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sande",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1421423,
+    "gn:latitude":30.83399,
+    "gn:longitude":74.26579,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sande",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692239
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1421423
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a1c3c62c3e879823d8f5db07358500b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1343261417,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343261417,
+    "wof:lastmodified":1537032111,
+    "wof:name":"Sande",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26579,
+    30.83399,
+    74.26579,
+    30.83399
+],
+  "geometry": {"coordinates":[74.26579,30.83399],"type":"Point"}
+}

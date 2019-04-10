@@ -1,0 +1,64 @@
+{
+  "id": 1209108313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.09345,31.10463,68.09345,31.10463",
+    "geom:latitude":31.10463,
+    "geom:longitude":68.09345,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Uch Kuza",
+    "gn:country_code":"PK",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6384621,
+    "gn:latitude":31.10463,
+    "gn:longitude":68.09345,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Uch Kuza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuch Kuza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6384621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"138434aaae33c487e853c578d80588fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209108313
+        }
+    ],
+    "wof:id":1209108313,
+    "wof:lastmodified":1537681596,
+    "wof:name":"Uch Kuza",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.09345,
+    31.10463,
+    68.09345,
+    31.10463
+],
+  "geometry": {"coordinates":[68.09345,31.10463],"type":"Point"}
+}

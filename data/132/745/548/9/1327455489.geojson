@@ -1,0 +1,78 @@
+{
+  "id": 1327455489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.07222,33.58611,74.07222,33.58611",
+    "geom:latitude":33.58611,
+    "geom:longitude":74.07222,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Fanniot",
+    "gn:country_code":"PK",
+    "gn:dem":1231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1430090,
+    "gn:latitude":33.58611,
+    "gn:longitude":74.07222,
+    "gn:modification_date":"2002-08-07",
+    "gn:name":"Fanniot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85672137,
+        85632427,
+        102191569,
+        85632659,
+        1108695703,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1430090
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a56eefba7f9a75a1c5068b391b42420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695703,
+            "disputed_id":85632427,
+            "locality_id":1327455489,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695703,
+            "disputed_id":85632427,
+            "locality_id":1327455489,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1327455489,
+    "wof:lastmodified":1536647100,
+    "wof:name":"Fanniot",
+    "wof:parent_id":1108695703,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.07222,
+    33.58611,
+    74.07222,
+    33.58611
+],
+  "geometry": {"coordinates":[74.07222,33.58611],"type":"Point"}
+}

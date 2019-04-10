@@ -1,0 +1,74 @@
+{
+  "id": 1292906863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.95551,31.6312,69.95551,31.6312",
+    "geom:latitude":31.6312,
+    "geom:longitude":69.95551,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Maidan Wazhe Mina",
+    "gn:country_code":"PK",
+    "gn:dem":2751,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339464,
+    "gn:latitude":31.6312,
+    "gn:longitude":69.95551,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Maidan Wazhe Mina",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Wazhe Mina"
+    ],
+    "name:und_x_variant":[
+        "Wazhe Mina",
+        "Maidan Wazhe Mina"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339464
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a69241d2f33cd854225a062283dfa0a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692175,
+            "locality_id":1292906863,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1292906863,
+    "wof:lastmodified":1537680169,
+    "wof:name":"Maidan Wazhe Mina",
+    "wof:parent_id":1108692175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.95551,
+    31.6312,
+    69.95551,
+    31.6312
+],
+  "geometry": {"coordinates":[69.95551,31.6312],"type":"Point"}
+}

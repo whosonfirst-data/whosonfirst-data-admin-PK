@@ -1,0 +1,67 @@
+{
+  "id": 1209838945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.60278,30.75278,72.60278,30.75278",
+    "geom:latitude":30.75278,
+    "geom:longitude":72.60278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bagguwala",
+    "gn:country_code":"PK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1387150,
+    "gn:latitude":30.75278,
+    "gn:longitude":72.60278,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bagguwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692413
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1387150
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"45872ffbd7375ee5788e9fbd39a3ca6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1209838945,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209838945,
+    "wof:lastmodified":1536393601,
+    "wof:name":"Bagguwala",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.60278000000002,
+    30.75278,
+    72.60278000000002,
+    30.75278
+],
+  "geometry": {"coordinates":[72.60278000000002,30.75278],"type":"Point"}
+}

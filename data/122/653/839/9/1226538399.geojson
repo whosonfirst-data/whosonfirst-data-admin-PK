@@ -1,0 +1,67 @@
+{
+  "id": 1226538399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.09751,26.79313,69.09751,26.79313",
+    "geom:latitude":26.79313,
+    "geom:longitude":69.09751,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Lanbaro",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1369906,
+    "gn:latitude":26.79313,
+    "gn:longitude":69.09751,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Lanbaro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1369906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea05ea475047a63ea13edca5064bfddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1226538399,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226538399,
+    "wof:lastmodified":1537007947,
+    "wof:name":"Lanbaro",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.09751,
+    26.79313,
+    69.09751,
+    26.79313
+],
+  "geometry": {"coordinates":[69.09751,26.79313],"type":"Point"}
+}

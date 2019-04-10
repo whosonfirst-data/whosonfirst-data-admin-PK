@@ -1,0 +1,67 @@
+{
+  "id": 1276990087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00759,32.60274,70.00759,32.60274",
+    "geom:latitude":32.60274,
+    "geom:longitude":70.00759,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Janata",
+    "gn:country_code":"PK",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176224,
+    "gn:latitude":32.60274,
+    "gn:longitude":70.00759,
+    "gn:modification_date":"2014-09-30",
+    "gn:name":"Janata",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176224
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8a05f35a55c9c7f60081b62916d3dc86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692389,
+            "locality_id":1276990087,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1276990087,
+    "wof:lastmodified":1536892995,
+    "wof:name":"Janata",
+    "wof:parent_id":1108692389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00759000000001,
+    32.60274,
+    70.00759000000001,
+    32.60274
+],
+  "geometry": {"coordinates":[70.00759000000001,32.60274],"type":"Point"}
+}

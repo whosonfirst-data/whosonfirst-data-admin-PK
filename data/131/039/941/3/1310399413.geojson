@@ -1,0 +1,81 @@
+{
+  "id": 1310399413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.67164,35.51268,75.67164,35.51268",
+    "geom:latitude":35.51268,
+    "geom:longitude":75.67164,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Faringsbam",
+    "gn:country_code":"PK",
+    "gn:dem":2324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419541,
+    "gn:latitude":35.51268,
+    "gn:longitude":75.67164,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Faringsbam",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Faringsbama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419541
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0ef9d78cd1506736355ecbce1f7f6314",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310399413,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1310399413,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310399413,
+    "wof:lastmodified":1537681901,
+    "wof:name":"Faringsbam",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.67164,
+    35.51268,
+    75.67164,
+    35.51268
+],
+  "geometry": {"coordinates":[75.67164,35.51268],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226755565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.83502,30.70433,67.83502,30.70433",
+    "geom:latitude":30.70433,
+    "geom:longitude":67.83502,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Naghza",
+    "gn:country_code":"PK",
+    "gn:dem":2139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347323,
+    "gn:latitude":30.70433,
+    "gn:longitude":67.83502,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Naghza",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347323
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f9512bc00a3f23d9910119057e8a66c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1226755565,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226755565,
+    "wof:lastmodified":1536701604,
+    "wof:name":"Naghza",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.83502,
+    30.70433,
+    67.83502,
+    30.70433
+],
+  "geometry": {"coordinates":[67.83502,30.70433],"type":"Point"}
+}

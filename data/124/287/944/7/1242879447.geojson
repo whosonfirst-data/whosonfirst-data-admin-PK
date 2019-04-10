@@ -1,0 +1,70 @@
+{
+  "id": 1242879447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.90635,30.50793,70.90635,30.50793",
+    "geom:latitude":30.50793,
+    "geom:longitude":70.90635,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Workshop",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322401,
+    "gn:latitude":30.50793,
+    "gn:longitude":70.90635,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Workshop",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Workshop Colony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322401
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"683f92ea8ea57212c1f2ec89eeb279c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1242879447,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242879447,
+    "wof:lastmodified":1537681742,
+    "wof:name":"Workshop",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.90635,
+    30.50793,
+    70.90635,
+    30.50793
+],
+  "geometry": {"coordinates":[70.90635,30.50793],"type":"Point"}
+}

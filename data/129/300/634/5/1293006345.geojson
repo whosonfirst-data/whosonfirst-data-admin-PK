@@ -1,0 +1,67 @@
+{
+  "id": 1293006345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.54411,29.39429,70.54411,29.39429",
+    "geom:latitude":29.39429,
+    "geom:longitude":70.54411,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Naruwala",
+    "gn:country_code":"PK",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7331689,
+    "gn:latitude":29.39429,
+    "gn:longitude":70.54411,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Naruwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7331689
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c2093d3392ea8df0e8d0572fe3926d98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1293006345,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293006345,
+    "wof:lastmodified":1536982876,
+    "wof:name":"Naruwala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.54411,
+    29.39429,
+    70.54411,
+    29.39429
+],
+  "geometry": {"coordinates":[70.54411,29.39429],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1210017629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98847,34.05184,71.98847,34.05184",
+    "geom:latitude":34.05184,
+    "geom:longitude":71.98847,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pakistan Air Force Colony",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11124378,
+    "gn:latitude":34.05184,
+    "gn:longitude":71.98847,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Pakistan Air Force Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11124378
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"08f04b7697af628f7b7316a914f6e412",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1210017629,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210017629,
+    "wof:lastmodified":1543515342,
+    "wof:name":"Pakistan Air Force Colony",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98846999999998,
+    34.05184000000001,
+    71.98846999999998,
+    34.05184000000001
+],
+  "geometry": {"coordinates":[71.98846999999998,34.05184000000001],"type":"Point"}
+}

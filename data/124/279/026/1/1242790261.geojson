@@ -1,0 +1,67 @@
+{
+  "id": 1242790261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.43431,31.89902,69.43431,31.89902",
+    "geom:latitude":31.89902,
+    "geom:longitude":69.43431,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Raza Khan Kota",
+    "gn:country_code":"PK",
+    "gn:dem":1125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10659218,
+    "gn:latitude":31.89902,
+    "gn:longitude":69.43431,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Raza Khan Kota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10659218
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31856e20a218691e7e7289e3e98dacb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1242790261,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242790261,
+    "wof:lastmodified":1536757378,
+    "wof:name":"Raza Khan Kota",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.43431,
+    31.89902,
+    69.43431,
+    31.89902
+],
+  "geometry": {"coordinates":[69.43431,31.89902],"type":"Point"}
+}

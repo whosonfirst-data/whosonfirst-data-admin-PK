@@ -1,0 +1,89 @@
+{
+  "id": 1343355371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.87774,36.31572,72.87774,36.31572",
+    "geom:latitude":36.31572,
+    "geom:longitude":72.87774,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dunj Shal",
+    "gn:country_code":"PK",
+    "gn:dem":3424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179627,
+    "gn:latitude":36.31572,
+    "gn:longitude":72.87774,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Dunj Shal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donjo Sh\u0101l"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179627
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"20234878deabc2ad3a43f946e0e817e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1343355371,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1343355371,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1343355371,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343355371,
+    "wof:lastmodified":1537679787,
+    "wof:name":"Dunj Shal",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.87774,
+    36.31572,
+    72.87774,
+    36.31572
+],
+  "geometry": {"coordinates":[72.87774,36.31572],"type":"Point"}
+}

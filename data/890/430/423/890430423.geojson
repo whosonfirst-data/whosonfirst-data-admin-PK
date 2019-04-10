@@ -1,0 +1,67 @@
+{
+  "id": 890430423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.8,31.75,73.8,31.75",
+    "geom:latitude":31.75,
+    "geom:longitude":73.8,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:pop":69321,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Chuchar-kana Mandi"
+    ],
+    "qs:name":"Ch\u016bhar K\u0101na",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"8",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180983,
+        "gp:id":2202852,
+        "qs:id":130864
+    },
+    "wof:country":"PK",
+    "wof:created":1469051852,
+    "wof:geomhash":"c955f7acb4fed48cc4cbb6d54a7c3c03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":890430423,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":890430423,
+    "wof:lastmodified":1505343518,
+    "wof:name":"Ch\u016bhar K\u0101na",
+    "wof:parent_id":85675753,
+    "wof:placetype":"locality",
+    "wof:population":69321,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.8,
+    31.75,
+    73.8,
+    31.75
+],
+  "geometry": {"coordinates":[73.8,31.75],"type":"Point"}
+}

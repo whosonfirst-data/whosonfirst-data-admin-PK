@@ -1,0 +1,82 @@
+{
+  "id": 1292997929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.62083,34.84306,74.62083,34.84306",
+    "geom:latitude":34.84306,
+    "geom:longitude":74.62083,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Burjanwala",
+    "gn:country_code":"PK",
+    "gn:dem":2905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412626,
+    "gn:latitude":34.84306,
+    "gn:longitude":74.62083,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Burjanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bur Janwala Baihk",
+        "Burjanwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412626
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2007fa46cc08b365adc673eae9184e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1292997929,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1292997929,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1292997929,
+    "wof:lastmodified":1537681297,
+    "wof:name":"Burjanwala",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.62083,
+    34.84305999999999,
+    74.62083,
+    34.84305999999999
+],
+  "geometry": {"coordinates":[74.62083,34.84305999999999],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343347277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.46778,35.65518,75.46778,35.65518",
+    "geom:latitude":35.65518,
+    "geom:longitude":75.46778,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Moito",
+    "gn:country_code":"PK",
+    "gn:dem":2343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1170066,
+    "gn:latitude":35.65518,
+    "gn:longitude":75.46778,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Moito",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Molto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1170066
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2015b6b03fae125c94cf8e1b23c5c9f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1343347277,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1343347277,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343347277,
+    "wof:lastmodified":1537679454,
+    "wof:name":"Moito",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.46778,
+    35.65518,
+    75.46778,
+    35.65518
+],
+  "geometry": {"coordinates":[75.46778,35.65518],"type":"Point"}
+}

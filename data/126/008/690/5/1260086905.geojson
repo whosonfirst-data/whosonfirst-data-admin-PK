@@ -1,0 +1,67 @@
+{
+  "id": 1260086905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65806,35.1,72.65806,35.1",
+    "geom:latitude":35.1,
+    "geom:longitude":72.65806,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Danda",
+    "gn:country_code":"PK",
+    "gn:dem":3453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1377524,
+    "gn:latitude":35.1,
+    "gn:longitude":72.65806,
+    "gn:modification_date":"2007-05-30",
+    "gn:name":"Danda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377524
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"93c77e131f60a582a1c32319f9b30c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1260086905,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1260086905,
+    "wof:lastmodified":1536982300,
+    "wof:name":"Danda",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65805999999998,
+    35.1,
+    72.65805999999998,
+    35.1
+],
+  "geometry": {"coordinates":[72.65805999999998,35.1],"type":"Point"}
+}

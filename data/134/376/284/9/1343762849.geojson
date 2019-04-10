@@ -1,0 +1,67 @@
+{
+  "id": 1343762849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.83815,31.87013,70.83815,31.87013",
+    "geom:latitude":31.87013,
+    "geom:longitude":70.83815,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bhataniabad",
+    "gn:country_code":"PK",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11546860,
+    "gn:latitude":31.87013,
+    "gn:longitude":70.83815,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Bhataniabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11546860
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"122b09993c9368687a2122bb29654f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":1343762849,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343762849,
+    "wof:lastmodified":1536807232,
+    "wof:name":"Bhataniabad",
+    "wof:parent_id":1108692165,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.83815,
+    31.87013,
+    70.83815,
+    31.87013
+],
+  "geometry": {"coordinates":[70.83815,31.87013],"type":"Point"}
+}

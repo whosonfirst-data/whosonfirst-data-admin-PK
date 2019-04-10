@@ -1,0 +1,70 @@
+{
+  "id": 1226243831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.86653,34.46631,72.86653,34.46631",
+    "geom:latitude":34.46631,
+    "geom:longitude":72.86653,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Gangut",
+    "gn:country_code":"PK",
+    "gn:dem":1195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378792,
+    "gn:latitude":34.46631,
+    "gn:longitude":72.86653,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Gangut",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692415
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378792
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9412949027f29b6a8935060fa45103e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692415,
+            "locality_id":1226243831,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226243831,
+    "wof:lastmodified":1537680698,
+    "wof:name":"Gangut",
+    "wof:parent_id":1108692415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.86653000000003,
+    34.46631,
+    72.86653000000003,
+    34.46631
+],
+  "geometry": {"coordinates":[72.86653000000003,34.46631],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225967327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.1425,31.89205,74.1425,31.89205",
+    "geom:latitude":31.89205,
+    "geom:longitude":74.1425,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Malke",
+    "gn:country_code":"PK",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171292,
+    "gn:latitude":31.89205,
+    "gn:longitude":74.1425,
+    "gn:modification_date":"2017-04-06",
+    "gn:name":"Malke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692195
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171292
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"387b29f40b898a9f1b823d4e33abf435",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1225967327,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1225967327,
+    "wof:lastmodified":1536837148,
+    "wof:name":"Malke",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.1425,
+    31.89205,
+    74.1425,
+    31.89205
+],
+  "geometry": {"coordinates":[74.1425,31.89205],"type":"Point"}
+}

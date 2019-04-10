@@ -1,0 +1,67 @@
+{
+  "id": 1226135555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.6605,27.82788,67.6605,27.82788",
+    "geom:latitude":27.82788,
+    "geom:longitude":67.6605,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Saleh Magsi",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11112649,
+    "gn:latitude":27.82788,
+    "gn:longitude":67.6605,
+    "gn:modification_date":"2016-04-12",
+    "gn:name":"Saleh Magsi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692355
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11112649
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a36bc60f23cab2592063e10921db291d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1226135555,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226135555,
+    "wof:lastmodified":1537089219,
+    "wof:name":"Saleh Magsi",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.6605,
+    27.82788,
+    67.6605,
+    27.82788
+],
+  "geometry": {"coordinates":[67.6605,27.82788],"type":"Point"}
+}

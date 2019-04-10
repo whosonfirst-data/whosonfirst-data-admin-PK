@@ -1,0 +1,67 @@
+{
+  "id": 1326942731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.69468,27.36229,63.69468,27.36229",
+    "geom:latitude":27.36229,
+    "geom:longitude":63.69468,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kaurkukh",
+    "gn:country_code":"PK",
+    "gn:dem":695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10988935,
+    "gn:latitude":27.36229,
+    "gn:longitude":63.69468,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Kaurkukh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10988935
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"670325bb05a9475938e87923ef2fefee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1326942731,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1326942731,
+    "wof:lastmodified":1536889201,
+    "wof:name":"Kaurkukh",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.69468000000001,
+    27.36229,
+    63.69468000000001,
+    27.36229
+],
+  "geometry": {"coordinates":[63.69468000000001,27.36229],"type":"Point"}
+}

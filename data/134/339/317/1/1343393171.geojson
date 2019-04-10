@@ -1,0 +1,67 @@
+{
+  "id": 1343393171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.98345,32.16947,74.98345,32.16947",
+    "geom:latitude":32.16947,
+    "geom:longitude":74.98345,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pilatan",
+    "gn:country_code":"PK",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466398,
+    "gn:latitude":32.16947,
+    "gn:longitude":74.98345,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Pilatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466398
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ac48da802b4c470818591391afef22ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1343393171,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343393171,
+    "wof:lastmodified":1536842357,
+    "wof:name":"Pilatan",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.98345,
+    32.16947,
+    74.98345,
+    32.16947
+],
+  "geometry": {"coordinates":[74.98345,32.16947],"type":"Point"}
+}

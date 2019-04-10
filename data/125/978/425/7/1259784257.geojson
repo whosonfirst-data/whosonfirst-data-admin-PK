@@ -1,0 +1,67 @@
+{
+  "id": 1259784257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.09663,35.43345,73.09663,35.43345",
+    "geom:latitude":35.43345,
+    "geom:longitude":73.09663,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chanj",
+    "gn:country_code":"PK",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10999884,
+    "gn:latitude":35.43345,
+    "gn:longitude":73.09663,
+    "gn:modification_date":"2015-12-08",
+    "gn:name":"Chanj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10999884
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d878684a2fda7bfbfa28ed5ce5daa3f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1259784257,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259784257,
+    "wof:lastmodified":1536922727,
+    "wof:name":"Chanj",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.09663,
+    35.43345,
+    73.09663,
+    35.43345
+],
+  "geometry": {"coordinates":[73.09663,35.43345],"type":"Point"}
+}

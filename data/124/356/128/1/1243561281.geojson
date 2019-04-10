@@ -1,0 +1,67 @@
+{
+  "id": 1243561281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.73333,32.30056,70.73333,32.30056",
+    "geom:latitude":32.30056,
+    "geom:longitude":70.73333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Ahmad Khan",
+    "gn:country_code":"PK",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1341288,
+    "gn:latitude":32.30056,
+    "gn:longitude":70.73333,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Ahmad Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1341288
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d0360e364952884c2c5095f2c84a0e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1243561281,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243561281,
+    "wof:lastmodified":1536638959,
+    "wof:name":"Ahmad Khan",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.73333000000002,
+    32.30056,
+    70.73333000000002,
+    32.30056
+],
+  "geometry": {"coordinates":[70.73333000000002,32.30056],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1193277821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.65696,31.24703,69.65696,31.24703",
+    "geom:latitude":31.24703,
+    "geom:longitude":69.65696,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kashmir Kahul",
+    "gn:country_code":"PK",
+    "gn:dem":1771,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338835,
+    "gn:latitude":31.24703,
+    "gn:longitude":69.65696,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Kashmir Kahul",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kashmir Kili",
+        "Kashmir Kahul"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        890455843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338835
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"455167943565e65936613136b778ef5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890455843,
+            "locality_id":1193277821,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193277821,
+    "wof:lastmodified":1537680160,
+    "wof:name":"Kashmir Kahul",
+    "wof:parent_id":890455843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.65696,
+    31.24703,
+    69.65696,
+    31.24703
+],
+  "geometry": {"coordinates":[69.65696,31.24703],"type":"Point"}
+}

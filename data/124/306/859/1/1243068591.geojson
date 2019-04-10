@@ -1,0 +1,67 @@
+{
+  "id": 1243068591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.90063,34.924,72.90063,34.924",
+    "geom:latitude":34.924,
+    "geom:longitude":72.90063,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Derai",
+    "gn:country_code":"PK",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1378249,
+    "gn:latitude":34.924,
+    "gn:longitude":72.90063,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Derai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1378249
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"abee23595b753368c3c49c9c315313dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1243068591,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243068591,
+    "wof:lastmodified":1536852132,
+    "wof:name":"Derai",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.90063,
+    34.924,
+    72.90063,
+    34.924
+],
+  "geometry": {"coordinates":[72.90063000000001,34.924],"type":"Point"}
+}

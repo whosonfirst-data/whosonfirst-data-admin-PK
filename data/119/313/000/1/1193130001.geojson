@@ -1,0 +1,67 @@
+{
+  "id": 1193130001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.02286,26.28785,70.02286,26.28785",
+    "geom:latitude":26.28785,
+    "geom:longitude":70.02286,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Achrang Tar",
+    "gn:country_code":"PK",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11037890,
+    "gn:latitude":26.28785,
+    "gn:longitude":70.02286,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Achrang Tar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11037890
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"576be6e003a016afbe70ed916bfd7ea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1193130001,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1193130001,
+    "wof:lastmodified":1536376820,
+    "wof:name":"Achrang Tar",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.02286,
+    26.28785,
+    70.02286,
+    26.28785
+],
+  "geometry": {"coordinates":[70.02285999999999,26.28785],"type":"Point"}
+}

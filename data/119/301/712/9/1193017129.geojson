@@ -1,0 +1,67 @@
+{
+  "id": 1193017129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.32857,34.58364,73.32857,34.58364",
+    "geom:latitude":34.58364,
+    "geom:longitude":73.32857,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Dandar",
+    "gn:country_code":"PK",
+    "gn:dem":1834,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406587,
+    "gn:latitude":34.58364,
+    "gn:longitude":73.32857,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Dandar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406587
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d7a1c63a38b7b2031e62bf27f4335ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1193017129,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193017129,
+    "wof:lastmodified":1543515414,
+    "wof:name":"Dandar",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.32857,
+    34.58364,
+    73.32857,
+    34.58364
+],
+  "geometry": {"coordinates":[73.32857,34.58364],"type":"Point"}
+}

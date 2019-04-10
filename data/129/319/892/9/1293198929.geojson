@@ -1,0 +1,67 @@
+{
+  "id": 1293198929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.151,27.90693,69.151,27.90693",
+    "geom:latitude":27.90693,
+    "geom:longitude":69.151,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Korai",
+    "gn:country_code":"PK",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361299,
+    "gn:latitude":27.90693,
+    "gn:longitude":69.151,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Korai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361299
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b2d98fc3a7b1a260673936816e24f5bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1293198929,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1293198929,
+    "wof:lastmodified":1536706362,
+    "wof:name":"Korai",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.15100000000001,
+    27.90693,
+    69.15100000000001,
+    27.90693
+],
+  "geometry": {"coordinates":[69.15100000000001,27.90693],"type":"Point"}
+}

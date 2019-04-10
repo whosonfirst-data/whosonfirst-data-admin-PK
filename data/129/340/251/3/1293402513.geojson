@@ -1,0 +1,67 @@
+{
+  "id": 1293402513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.3685,26.50919,66.3685,26.50919",
+    "geom:latitude":26.50919,
+    "geom:longitude":66.3685,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nimmi",
+    "gn:country_code":"PK",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8305739,
+    "gn:latitude":26.50919,
+    "gn:longitude":66.3685,
+    "gn:modification_date":"2016-09-10",
+    "gn:name":"Nimmi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305739
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"388fe3a3b282ea7442f75a398624d2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1293402513,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293402513,
+    "wof:lastmodified":1536909768,
+    "wof:name":"Nimmi",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.3685,
+    26.50919,
+    66.3685,
+    26.50919
+],
+  "geometry": {"coordinates":[66.3685,26.50919],"type":"Point"}
+}

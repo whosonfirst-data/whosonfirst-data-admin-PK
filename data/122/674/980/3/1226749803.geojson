@@ -1,0 +1,67 @@
+{
+  "id": 1226749803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.74449,28.43482,66.74449,28.43482",
+    "geom:latitude":28.43482,
+    "geom:longitude":66.74449,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nichari",
+    "gn:country_code":"PK",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11229957,
+    "gn:latitude":28.43482,
+    "gn:longitude":66.74449,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Nichari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11229957
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ff776a0354140c39c68aa9c3981208f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1226749803,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226749803,
+    "wof:lastmodified":1536709972,
+    "wof:name":"Nichari",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.74449,
+    28.43482,
+    66.74449,
+    28.43482
+],
+  "geometry": {"coordinates":[66.74449,28.43482],"type":"Point"}
+}

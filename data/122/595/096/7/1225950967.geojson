@@ -1,0 +1,67 @@
+{
+  "id": 1225950967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93042,35.22793,72.93042,35.22793",
+    "geom:latitude":35.22793,
+    "geom:longitude":72.93042,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Khar Banda",
+    "gn:country_code":"PK",
+    "gn:dem":2572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479123,
+    "gn:latitude":35.22793,
+    "gn:longitude":72.93042,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Khar Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479123
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9c7526547b43a83cf2c6cf063a8b15d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1225950967,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225950967,
+    "wof:lastmodified":1543515602,
+    "wof:name":"Khar Banda",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93042,
+    35.22793,
+    72.93042,
+    35.22793
+],
+  "geometry": {"coordinates":[72.93042,35.22793],"type":"Point"}
+}

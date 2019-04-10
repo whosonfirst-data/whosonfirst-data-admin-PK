@@ -1,0 +1,81 @@
+{
+  "id": 1309897797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.34803,32.82868,74.34803,32.82868",
+    "geom:latitude":32.82868,
+    "geom:longitude":74.34803,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rehana",
+    "gn:country_code":"PK",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413364,
+    "gn:latitude":32.82868,
+    "gn:longitude":74.34803,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rehana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u0101h\u0101na"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413364
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2291b19b65229e405ad3e9906cbf4da5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309897797,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1309897797,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1309897797,
+    "wof:lastmodified":1537681313,
+    "wof:name":"Rehana",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.34803000000002,
+    32.82868,
+    74.34803000000002,
+    32.82868
+],
+  "geometry": {"coordinates":[74.34803000000002,32.82868],"type":"Point"}
+}

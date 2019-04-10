@@ -1,0 +1,70 @@
+{
+  "id": 1209719911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.08786,27.74627,69.08786,27.74627",
+    "geom:latitude":27.74627,
+    "geom:longitude":69.08786,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kalo",
+    "gn:country_code":"PK",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361522,
+    "gn:latitude":27.74627,
+    "gn:longitude":69.08786,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Kalo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kola"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361522
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"85ee3283618353071369b726c7a7f061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1209719911,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1209719911,
+    "wof:lastmodified":1537680451,
+    "wof:name":"Kalo",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.08785999999999,
+    27.74627000000001,
+    69.08785999999999,
+    27.74627000000001
+],
+  "geometry": {"coordinates":[69.08785999999999,27.74627000000001],"type":"Point"}
+}

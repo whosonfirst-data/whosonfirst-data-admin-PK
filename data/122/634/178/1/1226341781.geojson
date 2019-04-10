@@ -1,0 +1,87 @@
+{
+  "id": 1226341781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.84162,32.48725,74.84162,32.48725",
+    "geom:latitude":32.48725,
+    "geom:longitude":74.84162,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Budhwal",
+    "gn:country_code":"PK",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465681,
+    "gn:latitude":32.48725,
+    "gn:longitude":74.84162,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Budhwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692381,
+        85672137,
+        85632427,
+        1108695737,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465681
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebfbf17208f83b8fdd63abaed5c7e177",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1226341781,
+            "region_id":85675753
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108695737,
+            "disputed_id":85632427,
+            "locality_id":1226341781,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108695737,
+            "disputed_id":85632427,
+            "locality_id":1226341781,
+            "region_id":85672137
+        }
+    ],
+    "wof:id":1226341781,
+    "wof:lastmodified":1536795440,
+    "wof:name":"Budhwal",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.84161999999998,
+    32.48725,
+    74.84161999999998,
+    32.48725
+],
+  "geometry": {"coordinates":[74.84161999999998,32.48725],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209737081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05863,33.87271,74.05863,33.87271",
+    "geom:latitude":33.87271,
+    "geom:longitude":74.05863,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Salara",
+    "gn:country_code":"PK",
+    "gn:dem":1649,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414839,
+    "gn:latitude":33.87271,
+    "gn:longitude":74.05863,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Salara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414839
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81756d6a593551ea1999ea770ee980c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1209737081,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1209737081,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1209737081,
+    "wof:lastmodified":1536372555,
+    "wof:name":"Salara",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05863000000002,
+    33.87271,
+    74.05863000000002,
+    33.87271
+],
+  "geometry": {"coordinates":[74.05863000000002,33.87271],"type":"Point"}
+}

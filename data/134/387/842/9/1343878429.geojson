@@ -1,0 +1,78 @@
+{
+  "id": 1343878429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.87084,35.50858,74.87084,35.50858",
+    "geom:latitude":35.50858,
+    "geom:longitude":74.87084,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bakraich",
+    "gn:country_code":"PK",
+    "gn:dem":3406,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070119,
+    "gn:latitude":35.50858,
+    "gn:longitude":74.87084,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Bakraich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070119
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"16463aa87aa191d05baee2277202b5e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343878429,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343878429,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343878429,
+    "wof:lastmodified":1536639780,
+    "wof:name":"Bakraich",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.87084,
+    35.50858,
+    74.87084,
+    35.50858
+],
+  "geometry": {"coordinates":[74.87084,35.50858],"type":"Point"}
+}

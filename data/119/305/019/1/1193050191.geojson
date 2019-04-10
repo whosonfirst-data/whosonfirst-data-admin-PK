@@ -1,0 +1,67 @@
+{
+  "id": 1193050191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.43891,32.99091,73.43891,32.99091",
+    "geom:latitude":32.99091,
+    "geom:longitude":73.43891,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chitti",
+    "gn:country_code":"PK",
+    "gn:dem":284,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371195,
+    "gn:latitude":32.99091,
+    "gn:longitude":73.43891,
+    "gn:modification_date":"2001-09-26",
+    "gn:name":"Chitti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371195
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c5f250fefdad8cdd2072cffa623756fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1193050191,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193050191,
+    "wof:lastmodified":1536366678,
+    "wof:name":"Chitti",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.43890999999998,
+    32.99091,
+    73.43890999999998,
+    32.99091
+],
+  "geometry": {"coordinates":[73.43890999999998,32.99091],"type":"Point"}
+}

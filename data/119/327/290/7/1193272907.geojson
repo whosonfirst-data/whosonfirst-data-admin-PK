@@ -1,0 +1,78 @@
+{
+  "id": 1193272907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.916,33.05845,73.916,33.05845",
+    "geom:latitude":33.05845,
+    "geom:longitude":73.916,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Guhra Makka",
+    "gn:country_code":"PK",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386430,
+    "gn:latitude":33.05845,
+    "gn:longitude":73.916,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Guhra Makka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386430
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"100d41851cc3435dc68d34172b014ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193272907,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1193272907,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193272907,
+    "wof:lastmodified":1536368565,
+    "wof:name":"Guhra Makka",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.916,
+    33.05845,
+    73.916,
+    33.05845
+],
+  "geometry": {"coordinates":[73.916,33.05845],"type":"Point"}
+}

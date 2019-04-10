@@ -1,0 +1,64 @@
+{
+  "id": 1209316715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.73328,30.7044,67.73328,30.7044",
+    "geom:latitude":30.7044,
+    "geom:longitude":67.73328,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kili Ghund",
+    "gn:country_code":"PK",
+    "gn:dem":2207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1348031,
+    "gn:latitude":30.7044,
+    "gn:longitude":67.73328,
+    "gn:modification_date":"2016-10-08",
+    "gn:name":"Kili Ghund",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghund"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348031
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"22973c6e087247c2ed2a02743730dde6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209316715
+        }
+    ],
+    "wof:id":1209316715,
+    "wof:lastmodified":1537680279,
+    "wof:name":"Kili Ghund",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.73328000000001,
+    30.7044,
+    67.73328000000001,
+    30.7044
+],
+  "geometry": {"coordinates":[67.73328000000001,30.7044],"type":"Point"}
+}

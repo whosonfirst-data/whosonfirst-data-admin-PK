@@ -1,0 +1,73 @@
+{
+  "id": 1210025465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.0878,34.44446,71.0878,34.44446",
+    "geom:latitude":34.44446,
+    "geom:longitude":71.0878,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Laskar Kalay",
+    "gn:country_code":"PK",
+    "gn:dem":1003,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1451963,
+    "gn:latitude":34.44446,
+    "gn:longitude":71.0878,
+    "gn:modification_date":"2014-08-06",
+    "gn:name":"Laskar Kalay",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laskarkalay",
+        "Laskar Kalay",
+        "Las\u0332h\u0332kar K\u00ealay",
+        "\u0644\u069a\u06a9\u0631 \u06a9\u0644\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692311
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1451963
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e1bf50a24f8d3a9715a1d52aac0d8b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692311,
+            "locality_id":1210025465,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1210025465,
+    "wof:lastmodified":1543515290,
+    "wof:name":"Laskar Kalay",
+    "wof:parent_id":1108692311,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.0878,
+    34.44446,
+    71.0878,
+    34.44446
+],
+  "geometry": {"coordinates":[71.0878,34.44446],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1343956421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.23333,26.4,69.23333,26.4",
+    "geom:latitude":26.4,
+    "geom:longitude":69.23333,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Taroce",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163786,
+    "gn:latitude":26.4,
+    "gn:longitude":69.23333,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Taroce",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163786
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2a023b53b1c4be0324a761c4a36b9037",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1343956421,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343956421,
+    "wof:lastmodified":1537024770,
+    "wof:name":"Taroce",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.23333000000001,
+    26.4,
+    69.23333000000001,
+    26.4
+],
+  "geometry": {"coordinates":[69.23333000000001,26.4],"type":"Point"}
+}

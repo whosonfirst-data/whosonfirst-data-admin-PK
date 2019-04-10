@@ -1,0 +1,67 @@
+{
+  "id": 1243372567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.69026,32.9677,69.69026,32.9677",
+    "geom:latitude":32.9677,
+    "geom:longitude":69.69026,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ismail Khel",
+    "gn:country_code":"PK",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1109193,
+    "gn:latitude":32.9677,
+    "gn:longitude":69.69026,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Ismail Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1109193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0777481d80ede17be3421797c03d9a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1243372567,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1243372567,
+    "wof:lastmodified":1536912432,
+    "wof:name":"Ismail Khel",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.69026,
+    32.9677,
+    69.69026,
+    32.9677
+],
+  "geometry": {"coordinates":[69.69025999999999,32.9677],"type":"Point"}
+}

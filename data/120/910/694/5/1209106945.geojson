@@ -1,0 +1,67 @@
+{
+  "id": 1209106945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.04946,34.11772,73.04946,34.11772",
+    "geom:latitude":34.11772,
+    "geom:longitude":73.04946,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Karlon",
+    "gn:country_code":"PK",
+    "gn:dem":855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11425314,
+    "gn:latitude":34.11772,
+    "gn:longitude":73.04946,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Karlon",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11425314
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c6d3cfe7e93c96a6fafb04d6a7030b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209106945,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209106945,
+    "wof:lastmodified":1543515452,
+    "wof:name":"Karlon",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.04946,
+    34.11772,
+    73.04946,
+    34.11772
+],
+  "geometry": {"coordinates":[73.04946,34.11772],"type":"Point"}
+}

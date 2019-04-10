@@ -1,0 +1,78 @@
+{
+  "id": 1293386107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.27254,35.31139,74.27254,35.31139",
+    "geom:latitude":35.31139,
+    "geom:longitude":74.27254,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Shomrosar",
+    "gn:country_code":"PK",
+    "gn:dem":2392,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069594,
+    "gn:latitude":35.31139,
+    "gn:longitude":74.27254,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Shomrosar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069594
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eaa02e9c2f5826501bd3e1af6b5f074a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293386107,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1293386107,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293386107,
+    "wof:lastmodified":1536933954,
+    "wof:name":"Shomrosar",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.27254,
+    35.31139,
+    74.27254,
+    35.31139
+],
+  "geometry": {"coordinates":[74.27254000000001,35.31139],"type":"Point"}
+}

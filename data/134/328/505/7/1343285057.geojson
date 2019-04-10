@@ -1,0 +1,67 @@
+{
+  "id": 1343285057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60403,29.74966,70.60403,29.74966",
+    "geom:latitude":29.74966,
+    "geom:longitude":70.60403,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mariwala",
+    "gn:country_code":"PK",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1395977,
+    "gn:latitude":29.74966,
+    "gn:longitude":70.60403,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Mariwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692359
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1395977
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8d57df8c2b85b268795ca5d4d900ef4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692359,
+            "locality_id":1343285057,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343285057,
+    "wof:lastmodified":1536998687,
+    "wof:name":"Mariwala",
+    "wof:parent_id":1108692359,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60403000000002,
+    29.74966,
+    70.60403000000002,
+    29.74966
+],
+  "geometry": {"coordinates":[70.60403000000002,29.74966],"type":"Point"}
+}

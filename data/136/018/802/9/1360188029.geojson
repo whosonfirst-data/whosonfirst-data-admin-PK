@@ -1,0 +1,71 @@
+{
+  "id": 1360188029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43113,34.87053,71.43113,34.87053",
+    "geom:latitude":34.87053,
+    "geom:longitude":71.43113,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Shahkor",
+    "gn:country_code":"PK",
+    "gn:dem":1292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353127,
+    "gn:latitude":34.87053,
+    "gn:longitude":71.43113,
+    "gn:modification_date":"2015-10-05",
+    "gn:name":"Shahkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sh\u0101h Karo",
+        "Shakro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353127
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fb85cc8c2a0af18c248f3b7a157103a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1360188029,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1360188029,
+    "wof:lastmodified":1543515355,
+    "wof:name":"Shahkor",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43113000000002,
+    34.87053,
+    71.43113000000002,
+    34.87053
+],
+  "geometry": {"coordinates":[71.43113000000002,34.87053],"type":"Point"}
+}

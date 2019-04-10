@@ -1,0 +1,67 @@
+{
+  "id": 1259880683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.91129,33.58005,71.91129,33.58005",
+    "geom:latitude":33.58005,
+    "geom:longitude":71.91129,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gulabad",
+    "gn:country_code":"PK",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10711607,
+    "gn:latitude":33.58005,
+    "gn:longitude":71.91129,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Gulabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10711607
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f69c1e1d8410698a7211022519bc0b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692263,
+            "locality_id":1259880683,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1259880683,
+    "wof:lastmodified":1536783704,
+    "wof:name":"Gulabad",
+    "wof:parent_id":1108692263,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.91129000000002,
+    33.58005,
+    71.91129000000002,
+    33.58005
+],
+  "geometry": {"coordinates":[71.91129000000002,33.58005],"type":"Point"}
+}

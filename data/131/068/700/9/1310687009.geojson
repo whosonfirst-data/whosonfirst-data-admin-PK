@@ -1,0 +1,78 @@
+{
+  "id": 1310687009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.25539,35.23101,76.25539,35.23101",
+    "geom:latitude":35.23101,
+    "geom:longitude":76.25539,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Lehr",
+    "gn:country_code":"PK",
+    "gn:dem":2484,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11088253,
+    "gn:latitude":35.23101,
+    "gn:longitude":76.25539,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Lehr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11088253
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"37d6addb74f928cc91cc41c7c72f2032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1310687009,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1310687009,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1310687009,
+    "wof:lastmodified":1536655128,
+    "wof:name":"Lehr",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.25539,
+    35.23101,
+    76.25539,
+    35.23101
+],
+  "geometry": {"coordinates":[76.25539000000001,35.23101],"type":"Point"}
+}

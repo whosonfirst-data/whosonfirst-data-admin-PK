@@ -1,0 +1,66 @@
+{
+  "id": 890430659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.85845,30.77339,70.85845,30.77339",
+    "geom:latitude":30.77339,
+    "geom:longitude":70.85845,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:pop":1000,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Basti Aukharwand"
+    ],
+    "qs:name":"Basti Aukharvand",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354487,
+        "qs:id":85013
+    },
+    "wof:country":"PK",
+    "wof:created":1469051861,
+    "wof:geomhash":"2614a7d122d1e617defd63dbe45b0ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":890430659,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":890430659,
+    "wof:lastmodified":1505343519,
+    "wof:name":"Basti Aukharvand",
+    "wof:parent_id":85675753,
+    "wof:placetype":"locality",
+    "wof:population":1000,
+    "wof:population_rank":3,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.85845,
+    30.77339,
+    70.85845,
+    30.77339
+],
+  "geometry": {"coordinates":[70.85845,30.77339],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1209111383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22271,33.3334,72.22271,33.3334",
+    "geom:latitude":33.3334,
+    "geom:longitude":72.22271,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kanet",
+    "gn:country_code":"PK",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174987,
+    "gn:latitude":33.3334,
+    "gn:longitude":72.22271,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Kanet",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanat",
+        "Kanet"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174987
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"01c5c46a7e7ef9ed892140301af97495",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209111383
+        }
+    ],
+    "wof:id":1209111383,
+    "wof:lastmodified":1537679626,
+    "wof:name":"Kanet",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22270999999998,
+    33.3334,
+    72.22270999999998,
+    33.3334
+],
+  "geometry": {"coordinates":[72.22270999999998,33.3334],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310110033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.62222,24.92778,69.62222,24.92778",
+    "geom:latitude":24.92778,
+    "geom:longitude":69.62222,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kondl",
+    "gn:country_code":"PK",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377270,
+    "gn:latitude":24.92778,
+    "gn:longitude":69.62222,
+    "gn:modification_date":"2001-10-03",
+    "gn:name":"Kondl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377270
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ff0bb02e02e1489d0f2d56e8b3294b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692409,
+            "locality_id":1310110033,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1310110033,
+    "wof:lastmodified":1536989070,
+    "wof:name":"Kondl",
+    "wof:parent_id":1108692409,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.62222,
+    24.92778,
+    69.62222,
+    24.92778
+],
+  "geometry": {"coordinates":[69.62222,24.92778],"type":"Point"}
+}

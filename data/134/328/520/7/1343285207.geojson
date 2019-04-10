@@ -1,0 +1,67 @@
+{
+  "id": 1343285207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25116,29.28218,71.25116,29.28218",
+    "geom:latitude":29.28218,
+    "geom:longitude":71.25116,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghanunwala",
+    "gn:country_code":"PK",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391458,
+    "gn:latitude":29.28218,
+    "gn:longitude":71.25116,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Ghanunwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692129
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391458
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aea931a01779b8a457d0b9d9c16e44ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1343285207,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343285207,
+    "wof:lastmodified":1536998471,
+    "wof:name":"Ghanunwala",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25116,
+    29.28218,
+    71.25116,
+    29.28218
+],
+  "geometry": {"coordinates":[71.25116,29.28218],"type":"Point"}
+}

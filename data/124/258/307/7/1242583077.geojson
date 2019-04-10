@@ -1,0 +1,72 @@
+{
+  "id": 1242583077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.78701,32.50625,72.78701,32.50625",
+    "geom:latitude":32.50625,
+    "geom:longitude":72.78701,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kila",
+    "gn:country_code":"PK",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175235,
+    "gn:latitude":32.50625,
+    "gn:longitude":72.78701,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Kila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kalla",
+        "Kallah",
+        "Kila"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175235
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1316c4433d2676d59440af67622385b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1242583077,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242583077,
+    "wof:lastmodified":1537679635,
+    "wof:name":"Kila",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.78701,
+    32.50625,
+    72.78701,
+    32.50625
+],
+  "geometry": {"coordinates":[72.78701,32.50625],"type":"Point"}
+}

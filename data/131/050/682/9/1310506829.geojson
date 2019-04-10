@@ -1,0 +1,67 @@
+{
+  "id": 1310506829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.08088,32.42149,75.08088,32.42149",
+    "geom:latitude":32.42149,
+    "geom:longitude":75.08088,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhir",
+    "gn:country_code":"PK",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081274,
+    "gn:latitude":32.42149,
+    "gn:longitude":75.08088,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Bhir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081274
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"765fcbbf71a3a7d7888871f6da54f9e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1310506829,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310506829,
+    "wof:lastmodified":1536915442,
+    "wof:name":"Bhir",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.08088000000002,
+    32.42149000000001,
+    75.08088000000002,
+    32.42149000000001
+],
+  "geometry": {"coordinates":[75.08088000000002,32.42149000000001],"type":"Point"}
+}

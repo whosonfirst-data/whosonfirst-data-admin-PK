@@ -1,0 +1,67 @@
+{
+  "id": 1259482745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.44664,33.5635,73.44664,33.5635",
+    "geom:latitude":33.5635,
+    "geom:longitude":73.44664,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tarnoch",
+    "gn:country_code":"PK",
+    "gn:dem":719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7082342,
+    "gn:latitude":33.5635,
+    "gn:longitude":73.44664,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Tarnoch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7082342
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e1b1c99e6a68b8ea53367a93e1c390f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1259482745,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259482745,
+    "wof:lastmodified":1536858601,
+    "wof:name":"Tarnoch",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.44664,
+    33.5635,
+    73.44664,
+    33.5635
+],
+  "geometry": {"coordinates":[73.44664,33.5635],"type":"Point"}
+}

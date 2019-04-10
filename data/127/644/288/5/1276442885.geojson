@@ -1,0 +1,71 @@
+{
+  "id": 1276442885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.49697,32.311,70.49697,32.311",
+    "geom:latitude":32.311,
+    "geom:longitude":70.49697,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Tajori",
+    "gn:country_code":"PK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164121,
+    "gn:latitude":32.311,
+    "gn:longitude":70.49697,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Tajori",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tajuri",
+        "Tajori"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692407
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164121
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0d1b50d53536675cdf13628ef743398e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692407,
+            "locality_id":1276442885,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276442885,
+    "wof:lastmodified":1537679253,
+    "wof:name":"Tajori",
+    "wof:parent_id":1108692407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.49696999999998,
+    32.311,
+    70.49696999999998,
+    32.311
+],
+  "geometry": {"coordinates":[70.49696999999998,32.311],"type":"Point"}
+}

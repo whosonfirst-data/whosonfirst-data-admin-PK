@@ -1,0 +1,78 @@
+{
+  "id": 1344249035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.90185,33.11965,73.90185,33.11965",
+    "geom:latitude":33.11965,
+    "geom:longitude":73.90185,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Kasgumma",
+    "gn:country_code":"PK",
+    "gn:dem":293,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11467706,
+    "gn:latitude":33.11965,
+    "gn:longitude":73.90185,
+    "gn:modification_date":"2017-02-07",
+    "gn:name":"Kasgumma",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11467706
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7afcc4ab6d292a8d0efb0f0cf21635c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1344249035,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1344249035,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1344249035,
+    "wof:lastmodified":1536600257,
+    "wof:name":"Kasgumma",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.90185,
+    33.11965,
+    73.90185,
+    33.11965
+],
+  "geometry": {"coordinates":[73.90185,33.11965],"type":"Point"}
+}

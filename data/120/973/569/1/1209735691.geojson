@@ -1,0 +1,83 @@
+{
+  "id": 1209735691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.207,35.25112,76.207,35.25112",
+    "geom:latitude":35.25112,
+    "geom:longitude":76.207,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Doghani",
+    "gn:country_code":"PK",
+    "gn:dem":2473,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179685,
+    "gn:latitude":35.25112,
+    "gn:longitude":76.207,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Doghani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Korku",
+        "Doghni",
+        "Doghani"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179685
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"56cb42e0a40780a5eec9cd3a5802fa21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1209735691,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1209735691,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1209735691,
+    "wof:lastmodified":1537679789,
+    "wof:name":"Doghani",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.207,
+    35.25112,
+    76.207,
+    35.25112
+],
+  "geometry": {"coordinates":[76.20699999999999,35.25112],"type":"Point"}
+}

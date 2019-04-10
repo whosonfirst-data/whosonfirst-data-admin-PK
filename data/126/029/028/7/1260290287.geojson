@@ -1,0 +1,78 @@
+{
+  "id": 1260290287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.57767,33.86057,73.57767,33.86057",
+    "geom:latitude":33.86057,
+    "geom:longitude":73.57767,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jawa",
+    "gn:country_code":"PK",
+    "gn:dem":788,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176001,
+    "gn:latitude":33.86057,
+    "gn:longitude":73.57767,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Jawa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176001
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af8d184b4e0b986f7dc4b26f81ce583a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1260290287,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1260290287,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260290287,
+    "wof:lastmodified":1536703070,
+    "wof:name":"Jawa",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.57767,
+    33.86057,
+    73.57767,
+    33.86057
+],
+  "geometry": {"coordinates":[73.57767,33.86057],"type":"Point"}
+}

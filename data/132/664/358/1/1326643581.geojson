@@ -1,0 +1,70 @@
+{
+  "id": 1326643581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.52448,34.74771,71.52448,34.74771",
+    "geom:latitude":34.74771,
+    "geom:longitude":71.52448,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Pashto",
+    "gn:country_code":"PK",
+    "gn:dem":847,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111404,
+    "gn:latitude":34.74771,
+    "gn:longitude":71.52448,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Pashto",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pishto"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692131
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111404
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2506e2163d9974477116cc2a3fa98c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692131,
+            "locality_id":1326643581,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1326643581,
+    "wof:lastmodified":1537679155,
+    "wof:name":"Pashto",
+    "wof:parent_id":1108692131,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.52448000000003,
+    34.74771,
+    71.52448000000003,
+    34.74771
+],
+  "geometry": {"coordinates":[71.52448000000003,34.74771],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226144085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.30185,34.14214,73.30185,34.14214",
+    "geom:latitude":34.14214,
+    "geom:longitude":73.30185,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Disal",
+    "gn:country_code":"PK",
+    "gn:dem":1425,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407648,
+    "gn:latitude":34.14214,
+    "gn:longitude":73.30185,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Disal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407648
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b9ff8b888a44ca8ace3b8b1465a4600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1226144085,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226144085,
+    "wof:lastmodified":1537077012,
+    "wof:name":"Disal",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.30185,
+    34.14214,
+    73.30185,
+    34.14214
+],
+  "geometry": {"coordinates":[73.30185,34.14214],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209215801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39127,34.33625,73.39127,34.33625",
+    "geom:latitude":34.33625,
+    "geom:longitude":73.39127,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Majaffa",
+    "gn:country_code":"PK",
+    "gn:dem":1192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1406788,
+    "gn:latitude":34.33625,
+    "gn:longitude":73.39127,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Majaffa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Manjaffa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1406788
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"99f5bf9448dcef14fd97be2b109b0dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1209215801,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209215801,
+    "wof:lastmodified":1543515542,
+    "wof:name":"Majaffa",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39126999999998,
+    34.33625,
+    73.39126999999998,
+    34.33625
+],
+  "geometry": {"coordinates":[73.39126999999998,34.33625],"type":"Point"}
+}

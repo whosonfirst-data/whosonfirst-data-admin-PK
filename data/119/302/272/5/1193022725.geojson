@@ -1,0 +1,74 @@
+{
+  "id": 1193022725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.85417,34.48794,71.85417,34.48794",
+    "geom:latitude":34.48794,
+    "geom:longitude":71.85417,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Garhi Usman Khel",
+    "gn:country_code":"PK",
+    "gn:dem":459,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1162877,
+    "gn:latitude":34.48794,
+    "gn:longitude":71.85417,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Garhi Usman Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Usm\u0101ni Khel Garhi"
+    ],
+    "name:und_x_variant":[
+        "Garhi Usmani Khel",
+        "Garhi Usman Khel"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692291
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1162877
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a617cae549e143e5331182a1fcd2fbe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692291,
+            "locality_id":1193022725,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193022725,
+    "wof:lastmodified":1543515387,
+    "wof:name":"Garhi Usman Khel",
+    "wof:parent_id":1108692291,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.85417,
+    34.48794,
+    71.85417,
+    34.48794
+],
+  "geometry": {"coordinates":[71.85417,34.48794],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1225845691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26098,34.0513,73.26098,34.0513",
+    "geom:latitude":34.0513,
+    "geom:longitude":73.26098,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Garhi",
+    "gn:country_code":"PK",
+    "gn:dem":1220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1407822,
+    "gn:latitude":34.0513,
+    "gn:longitude":73.26098,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Garhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1407822
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d4ea4bf2fed117a57e622a201be709af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1225845691,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225845691,
+    "wof:lastmodified":1543515479,
+    "wof:name":"Garhi",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26098,
+    34.0513,
+    73.26098,
+    34.0513
+],
+  "geometry": {"coordinates":[73.26098,34.0513],"type":"Point"}
+}

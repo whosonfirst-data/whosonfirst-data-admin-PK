@@ -1,0 +1,67 @@
+{
+  "id": 1293885799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.12909,28.13371,66.12909,28.13371",
+    "geom:latitude":28.13371,
+    "geom:longitude":66.12909,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Siah",
+    "gn:country_code":"PK",
+    "gn:dem":1613,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11091409,
+    "gn:latitude":28.13371,
+    "gn:longitude":66.12909,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Siah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11091409
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05fefa6cc3500804d964b8ef38cb9f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1293885799,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293885799,
+    "wof:lastmodified":1536710330,
+    "wof:name":"Siah",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.12909,
+    28.13371,
+    66.12909,
+    28.13371
+],
+  "geometry": {"coordinates":[66.12909000000001,28.13371],"type":"Point"}
+}

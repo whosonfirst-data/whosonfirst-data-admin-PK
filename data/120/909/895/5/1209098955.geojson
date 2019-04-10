@@ -1,0 +1,64 @@
+{
+  "id": 1209098955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.13048,27.52802,68.13048,27.52802",
+    "geom:latitude":27.52802,
+    "geom:longitude":68.13048,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Kala Kot",
+    "gn:country_code":"PK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1357517,
+    "gn:latitude":27.52802,
+    "gn:longitude":68.13048,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kala Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kallar Kot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1357517
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4ed717fcbeade8555a843d0c5c500e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209098955
+        }
+    ],
+    "wof:id":1209098955,
+    "wof:lastmodified":1537680367,
+    "wof:name":"Kala Kot",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.13048,
+    27.52802,
+    68.13048,
+    27.52802
+],
+  "geometry": {"coordinates":[68.13048000000001,27.52802],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1242669503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7604,34.62553,73.7604,34.62553",
+    "geom:latitude":34.62553,
+    "geom:longitude":73.7604,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Batgran",
+    "gn:country_code":"PK",
+    "gn:dem":2251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416086,
+    "gn:latitude":34.62553,
+    "gn:longitude":73.7604,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Batgran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Batgir\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416086
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"784cd4191de2ef8b713a679fd56273c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1242669503,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1242669503,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1242669503,
+    "wof:lastmodified":1537681374,
+    "wof:name":"Batgran",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7604,
+    34.62553,
+    73.7604,
+    34.62553
+],
+  "geometry": {"coordinates":[73.7604,34.62553],"type":"Point"}
+}

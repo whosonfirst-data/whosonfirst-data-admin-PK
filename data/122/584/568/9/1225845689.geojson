@@ -1,0 +1,67 @@
+{
+  "id": 1225845689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.47245,34.6479,72.47245,34.6479",
+    "geom:latitude":34.6479,
+    "geom:longitude":72.47245,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Tanta Banda",
+    "gn:country_code":"PK",
+    "gn:dem":1101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377844,
+    "gn:latitude":34.6479,
+    "gn:longitude":72.47245,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Tanta Banda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377844
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f5636092db9325e91ec155767bc29d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1225845689,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225845689,
+    "wof:lastmodified":1543515476,
+    "wof:name":"Tanta Banda",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.47245,
+    34.6479,
+    72.47245,
+    34.6479
+],
+  "geometry": {"coordinates":[72.47244999999999,34.6479],"type":"Point"}
+}

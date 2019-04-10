@@ -1,0 +1,64 @@
+{
+  "id": 1209235975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.80109,34.53483,73.80109,34.53483",
+    "geom:latitude":34.53483,
+    "geom:longitude":73.80109,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Gali",
+    "gn:country_code":"PK",
+    "gn:dem":2770,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415983,
+    "gn:latitude":34.53483,
+    "gn:longitude":73.80109,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Gali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415983
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9bfd5d5f9009e97ac47fcd8e1bbe3d07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209235975
+        }
+    ],
+    "wof:id":1209235975,
+    "wof:lastmodified":1537681372,
+    "wof:name":"Gali",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.80109,
+    34.53483,
+    73.80109,
+    34.53483
+],
+  "geometry": {"coordinates":[73.80109,34.53483],"type":"Point"}
+}

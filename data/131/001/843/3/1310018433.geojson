@@ -1,0 +1,72 @@
+{
+  "id": 1310018433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.80709,31.40152,67.80709,31.40152",
+    "geom:latitude":31.40152,
+    "geom:longitude":67.80709,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Ghazluna",
+    "gn:country_code":"PK",
+    "gn:dem":2249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1178511,
+    "gn:latitude":31.40152,
+    "gn:longitude":67.80709,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Ghazluna",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Gkhazluna",
+        "Ghazloona",
+        "Ghazluna"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692259
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178511
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fef8f19ea83de25d06b1a603c90350de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692259,
+            "locality_id":1310018433,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310018433,
+    "wof:lastmodified":1537679750,
+    "wof:name":"Ghazluna",
+    "wof:parent_id":1108692259,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.80709,
+    31.40152,
+    67.80709,
+    31.40152
+],
+  "geometry": {"coordinates":[67.80709,31.40152],"type":"Point"}
+}

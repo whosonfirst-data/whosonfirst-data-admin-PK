@@ -1,0 +1,74 @@
+{
+  "id": 1209822161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.03235,34.66156,72.03235,34.66156",
+    "geom:latitude":34.66156,
+    "geom:longitude":72.03235,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chakdarra",
+    "gn:country_code":"PK",
+    "gn:dem":712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181838,
+    "gn:latitude":34.66156,
+    "gn:longitude":72.03235,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Chakdarra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chakdara"
+    ],
+    "name:und_x_variant":[
+        "Chakdarra Fort"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181838,
+        "wk:page":"Chakdara"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b502054527c40cff6570f41349a4daf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1209822161,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209822161,
+    "wof:lastmodified":1543515637,
+    "wof:name":"Chakdarra",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.03235,
+    34.66155999999999,
+    72.03235,
+    34.66155999999999
+],
+  "geometry": {"coordinates":[72.03234999999999,34.66155999999999],"type":"Point"}
+}

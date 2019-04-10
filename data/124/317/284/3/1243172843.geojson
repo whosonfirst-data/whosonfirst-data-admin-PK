@@ -1,0 +1,67 @@
+{
+  "id": 1243172843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46046,35.24372,73.46046,35.24372",
+    "geom:latitude":35.24372,
+    "geom:longitude":73.46046,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Pushkari",
+    "gn:country_code":"PK",
+    "gn:dem":3853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167681,
+    "gn:latitude":35.24372,
+    "gn:longitude":73.46046,
+    "gn:modification_date":"2011-07-09",
+    "gn:name":"Pushkari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167681
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e60f753e2f80f7fbae985559704d4ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1243172843,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243172843,
+    "wof:lastmodified":1536703317,
+    "wof:name":"Pushkari",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46046,
+    35.24372,
+    73.46046,
+    35.24372
+],
+  "geometry": {"coordinates":[73.46046,35.24372],"type":"Point"}
+}

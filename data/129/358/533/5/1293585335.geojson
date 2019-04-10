@@ -1,0 +1,78 @@
+{
+  "id": 1293585335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.35361,35.60719,75.35361,35.60719",
+    "geom:latitude":35.60719,
+    "geom:longitude":75.35361,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Yongnialo",
+    "gn:country_code":"PK",
+    "gn:dem":2564,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070831,
+    "gn:latitude":35.60719,
+    "gn:longitude":75.35361,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Yongnialo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070831
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5926a0c14476e9d0e0af661ca5c471b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293585335,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1293585335,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1293585335,
+    "wof:lastmodified":1536645563,
+    "wof:name":"Yongnialo",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.35361,
+    35.60719,
+    75.35361,
+    35.60719
+],
+  "geometry": {"coordinates":[75.35361,35.60719],"type":"Point"}
+}

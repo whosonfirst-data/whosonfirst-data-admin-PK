@@ -1,0 +1,71 @@
+{
+  "id": 1260290279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.37176,30.75532,70.37176,30.75532",
+    "geom:latitude":30.75532,
+    "geom:longitude":70.37176,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kharra",
+    "gn:country_code":"PK",
+    "gn:dem":593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1174005,
+    "gn:latitude":30.75532,
+    "gn:longitude":70.37176,
+    "gn:modification_date":"2018-03-06",
+    "gn:name":"Kharra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khara Buzdar",
+        "Kharra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1174005
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"38f9adb0aae084c57c6c5191adc78c39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1260290279,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1260290279,
+    "wof:lastmodified":1537679593,
+    "wof:name":"Kharra",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.37176,
+    30.75532,
+    70.37176,
+    30.75532
+],
+  "geometry": {"coordinates":[70.37175999999999,30.75532],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209216821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.0805,26.26699,64.0805,26.26699",
+    "geom:latitude":26.26699,
+    "geom:longitude":64.0805,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Mustafabad Bazar",
+    "gn:country_code":"PK",
+    "gn:dem":645,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11097379,
+    "gn:latitude":26.26699,
+    "gn:longitude":64.0805,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Mustafabad Bazar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11097379
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9eaed2994bf65bd9c3f4c5edb8f9b956",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209216821
+        }
+    ],
+    "wof:id":1209216821,
+    "wof:lastmodified":1536294103,
+    "wof:name":"Mustafabad Bazar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.0805,
+    26.266990000000003,
+    64.0805,
+    26.266990000000003
+],
+  "geometry": {"coordinates":[64.0805,26.26699],"type":"Point"}
+}

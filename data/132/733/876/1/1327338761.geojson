@@ -1,0 +1,67 @@
+{
+  "id": 1327338761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36369,33.32844,72.36369,33.32844",
+    "geom:latitude":33.32844,
+    "geom:longitude":72.36369,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nakka",
+    "gn:country_code":"PK",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11413714,
+    "gn:latitude":33.32844,
+    "gn:longitude":72.36369,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Nakka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11413714
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ceefbc716b94de1e6ff9c468fd327e6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1327338761,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327338761,
+    "wof:lastmodified":1536815219,
+    "wof:name":"Nakka",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36369,
+    33.32844,
+    72.36369,
+    33.32844
+],
+  "geometry": {"coordinates":[72.36369000000001,33.32844],"type":"Point"}
+}

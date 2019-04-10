@@ -1,0 +1,70 @@
+{
+  "id": 1310210593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6462,32.40344,73.6462,32.40344",
+    "geom:latitude":32.40344,
+    "geom:longitude":73.6462,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghanian",
+    "gn:country_code":"PK",
+    "gn:dem":212,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178634,
+    "gn:latitude":32.40344,
+    "gn:longitude":73.6462,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ghanian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghania"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692293
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178634
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5e5552464114eec8f67b214fec1004c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1310210593,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310210593,
+    "wof:lastmodified":1537679754,
+    "wof:name":"Ghanian",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6462,
+    32.40344,
+    73.6462,
+    32.40344
+],
+  "geometry": {"coordinates":[73.64619999999999,32.40344],"type":"Point"}
+}

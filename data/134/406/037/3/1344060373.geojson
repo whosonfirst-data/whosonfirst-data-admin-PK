@@ -1,0 +1,70 @@
+{
+  "id": 1344060373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.77736,34.78724,71.77736,34.78724",
+    "geom:latitude":34.78724,
+    "geom:longitude":71.77736,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Landakur",
+    "gn:country_code":"PK",
+    "gn:dem":718,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111259,
+    "gn:latitude":34.78724,
+    "gn:longitude":71.77736,
+    "gn:modification_date":"2014-08-05",
+    "gn:name":"Landakur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Landakur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692289
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111259
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"14221c59329b6cff98a0ac9a845787b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692289,
+            "locality_id":1344060373,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344060373,
+    "wof:lastmodified":1537679153,
+    "wof:name":"Landakur",
+    "wof:parent_id":1108692289,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.77736,
+    34.78724,
+    71.77736,
+    34.78724
+],
+  "geometry": {"coordinates":[71.77736,34.78724],"type":"Point"}
+}

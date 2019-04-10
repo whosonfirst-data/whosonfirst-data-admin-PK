@@ -1,0 +1,81 @@
+{
+  "id": 1243283935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.72454,35.53391,73.72454,35.53391",
+    "geom:latitude":35.53391,
+    "geom:longitude":73.72454,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Dudishal",
+    "gn:country_code":"PK",
+    "gn:dem":1008,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179531,
+    "gn:latitude":35.53391,
+    "gn:longitude":73.72454,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Dudishal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chold\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179531
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9ad5e0a7cca2d7d0440a98feb09e63e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243283935,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1243283935,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243283935,
+    "wof:lastmodified":1537679784,
+    "wof:name":"Dudishal",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.72454,
+    35.53391,
+    73.72454,
+    35.53391
+],
+  "geometry": {"coordinates":[73.72454,35.53391],"type":"Point"}
+}

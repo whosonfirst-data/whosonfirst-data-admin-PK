@@ -1,0 +1,67 @@
+{
+  "id": 1276120105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.33066,30.26684,68.33066,30.26684",
+    "geom:latitude":30.26684,
+    "geom:longitude":68.33066,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Pasra",
+    "gn:country_code":"PK",
+    "gn:dem":1587,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7388200,
+    "gn:latitude":30.26684,
+    "gn:longitude":68.33066,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Pasra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7388200
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"de0d7054d5ba226a00137872dff24e14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692427,
+            "locality_id":1276120105,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276120105,
+    "wof:lastmodified":1537061562,
+    "wof:name":"Pasra",
+    "wof:parent_id":1108692427,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.33066,
+    30.26684,
+    68.33066,
+    30.26684
+],
+  "geometry": {"coordinates":[68.33065999999999,30.26684],"type":"Point"}
+}

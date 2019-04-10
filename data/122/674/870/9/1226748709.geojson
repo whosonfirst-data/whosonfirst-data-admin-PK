@@ -1,0 +1,67 @@
+{
+  "id": 1226748709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.42528,34.739,72.42528,34.739",
+    "geom:latitude":34.739,
+    "geom:longitude":72.42528,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Kokarai",
+    "gn:country_code":"PK",
+    "gn:dem":1104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1377782,
+    "gn:latitude":34.739,
+    "gn:longitude":72.42528,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Kokarai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1377782
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e702a11a3e97090b3289813e30b1b3d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1226748709,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226748709,
+    "wof:lastmodified":1536711559,
+    "wof:name":"Kokarai",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.42528,
+    34.739,
+    72.42528,
+    34.739
+],
+  "geometry": {"coordinates":[72.42528,34.739],"type":"Point"}
+}

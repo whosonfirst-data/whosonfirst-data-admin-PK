@@ -1,0 +1,70 @@
+{
+  "id": 1209011281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98157,34.90053,71.98157,34.90053",
+    "geom:latitude":34.90053,
+    "geom:longitude":71.98157,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Bar Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":899,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1111018,
+    "gn:latitude":34.90053,
+    "gn:longitude":71.98157,
+    "gn:modification_date":"2015-07-02",
+    "gn:name":"Bar Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Bar Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1111018
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba21cc2174a512c1448fab8ffd436cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1209011281,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209011281,
+    "wof:lastmodified":1543515248,
+    "wof:name":"Bar Kalle",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98156999999998,
+    34.90053,
+    71.98156999999998,
+    34.90053
+],
+  "geometry": {"coordinates":[71.98156999999998,34.90053],"type":"Point"}
+}

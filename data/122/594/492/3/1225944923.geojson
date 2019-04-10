@@ -1,0 +1,67 @@
+{
+  "id": 1225944923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.14135,33.90785,72.14135,33.90785",
+    "geom:latitude":33.90785,
+    "geom:longitude":72.14135,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Dargai",
+    "gn:country_code":"PK",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180540,
+    "gn:latitude":33.90785,
+    "gn:longitude":72.14135,
+    "gn:modification_date":"2017-12-06",
+    "gn:name":"Dargai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180540
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d2dc8f536db8defb7f899f54334afe96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692335,
+            "locality_id":1225944923,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225944923,
+    "wof:lastmodified":1543515665,
+    "wof:name":"Dargai",
+    "wof:parent_id":1108692335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.14135,
+    33.90785,
+    72.14135,
+    33.90785
+],
+  "geometry": {"coordinates":[72.14135,33.90785],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1226142413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.9159,29.96742,71.9159,29.96742",
+    "geom:latitude":29.96742,
+    "geom:longitude":71.9159,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sandeh",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1418411,
+    "gn:latitude":29.96742,
+    "gn:longitude":71.9159,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Sandeh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1418411
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e13b59f01e45f7b4b152b936aa09df29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1226142413,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226142413,
+    "wof:lastmodified":1537079393,
+    "wof:name":"Sandeh",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.9159,
+    29.96742,
+    71.9159,
+    29.96742
+],
+  "geometry": {"coordinates":[71.91589999999999,29.96742],"type":"Point"}
+}

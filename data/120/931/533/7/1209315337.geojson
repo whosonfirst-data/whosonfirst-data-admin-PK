@@ -1,0 +1,67 @@
+{
+  "id": 1209315337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.92346,34.69915,72.92346,34.69915",
+    "geom:latitude":34.69915,
+    "geom:longitude":72.92346,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Jangorai",
+    "gn:country_code":"PK",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482574,
+    "gn:latitude":34.69915,
+    "gn:longitude":72.92346,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Jangorai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482574
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ba39f0714b5cef3459a0f6fcefeede80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1209315337,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315337,
+    "wof:lastmodified":1543515549,
+    "wof:name":"Jangorai",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.92345999999998,
+    34.69915,
+    72.92345999999998,
+    34.69915
+],
+  "geometry": {"coordinates":[72.92345999999998,34.69915],"type":"Point"}
+}

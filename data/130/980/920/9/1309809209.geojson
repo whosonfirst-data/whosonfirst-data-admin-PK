@@ -1,0 +1,67 @@
+{
+  "id": 1309809209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16386,32.228,73.16386,32.228",
+    "geom:latitude":32.228,
+    "geom:longitude":73.16386,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jholpur",
+    "gn:country_code":"PK",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175760,
+    "gn:latitude":32.228,
+    "gn:longitude":73.16386,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Jholpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692367
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175760
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c14d7ccf6729f965fdf34f8d3d493fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":1309809209,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1309809209,
+    "wof:lastmodified":1536926786,
+    "wof:name":"Jholpur",
+    "wof:parent_id":1108692367,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16386,
+    32.228,
+    73.16386,
+    32.228
+],
+  "geometry": {"coordinates":[73.16386,32.228],"type":"Point"}
+}

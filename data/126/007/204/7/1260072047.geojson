@@ -1,0 +1,78 @@
+{
+  "id": 1260072047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.60278,34.80139,74.60278,34.80139",
+    "geom:latitude":34.80139,
+    "geom:longitude":74.60278,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Daki Baihk",
+    "gn:country_code":"PK",
+    "gn:dem":2927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412615,
+    "gn:latitude":34.80139,
+    "gn:longitude":74.60278,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Daki Baihk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412615
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2b1da8a80caf0e86befe6e14bd005366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1260072047,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1260072047,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1260072047,
+    "wof:lastmodified":1537003777,
+    "wof:name":"Daki Baihk",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.60278000000002,
+    34.80139,
+    74.60278000000002,
+    34.80139
+],
+  "geometry": {"coordinates":[74.60278000000002,34.80139],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209922057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.87118,29.49565,67.87118,29.49565",
+    "geom:latitude":29.49565,
+    "geom:longitude":67.87118,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bostan",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182302,
+    "gn:latitude":29.49565,
+    "gn:longitude":67.87118,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bostan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692383
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182302
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"00ff13e8a1a61be8ea60ec1a1fd159ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692383,
+            "locality_id":1209922057,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209922057,
+    "wof:lastmodified":1536396575,
+    "wof:name":"Bostan",
+    "wof:parent_id":1108692383,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.87118000000001,
+    29.49565,
+    67.87118000000001,
+    29.49565
+],
+  "geometry": {"coordinates":[67.87118000000001,29.49565],"type":"Point"}
+}

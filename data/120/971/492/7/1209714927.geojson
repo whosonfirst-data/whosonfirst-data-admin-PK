@@ -1,0 +1,67 @@
+{
+  "id": 1209714927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.29576,31.5744,72.29576,31.5744",
+    "geom:latitude":31.5744,
+    "geom:longitude":72.29576,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ghazjabad",
+    "gn:country_code":"PK",
+    "gn:dem":161,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329372,
+    "gn:latitude":31.5744,
+    "gn:longitude":72.29576,
+    "gn:modification_date":"2010-08-06",
+    "gn:name":"Ghazjabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329372
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cccb574a1d728dd4ba444ae5eb6cc5e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1209714927,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209714927,
+    "wof:lastmodified":1536389009,
+    "wof:name":"Ghazjabad",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.29576,
+    31.5744,
+    72.29576,
+    31.5744
+],
+  "geometry": {"coordinates":[72.29576,31.5744],"type":"Point"}
+}

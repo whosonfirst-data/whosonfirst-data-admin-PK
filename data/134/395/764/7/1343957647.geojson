@@ -1,0 +1,67 @@
+{
+  "id": 1343957647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91746,30.87529,70.91746,30.87529",
+    "geom:latitude":30.87529,
+    "geom:longitude":70.91746,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ramsar",
+    "gn:country_code":"PK",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354547,
+    "gn:latitude":30.87529,
+    "gn:longitude":70.91746,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Ramsar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354547
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1470965d15cef618a07960c49679033f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1343957647,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343957647,
+    "wof:lastmodified":1537023060,
+    "wof:name":"Ramsar",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91745999999998,
+    30.87529,
+    70.91745999999998,
+    30.87529
+],
+  "geometry": {"coordinates":[70.91745999999998,30.87529],"type":"Point"}
+}

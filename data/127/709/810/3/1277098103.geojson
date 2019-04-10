@@ -1,0 +1,86 @@
+{
+  "id": 1277098103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73351,33.68605,73.73351,33.68605",
+    "geom:latitude":33.68605,
+    "geom:longitude":73.73351,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Anjalkor",
+    "gn:country_code":"PK",
+    "gn:dem":1194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100342,
+    "gn:latitude":33.68605,
+    "gn:longitude":73.73351,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Anjalkor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100342
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"086ef9bf380f5f40633df6378bf18bea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1277098103,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1277098103,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1277098103,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1277098103,
+    "wof:lastmodified":1536745228,
+    "wof:name":"Anjalkor",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73351,
+    33.68605,
+    73.73351,
+    33.68605
+],
+  "geometry": {"coordinates":[73.73351,33.68605],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193271805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.97438,35.05309,75.97438,35.05309",
+    "geom:latitude":35.05309,
+    "geom:longitude":75.97438,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Nithumal",
+    "gn:country_code":"PK",
+    "gn:dem":2650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11080993,
+    "gn:latitude":35.05309,
+    "gn:longitude":75.97438,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Nithumal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11080993
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c0c1dae3e1bd221ca3140c612210a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1193271805,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1193271805,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1193271805,
+    "wof:lastmodified":1536369812,
+    "wof:name":"Nithumal",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.97438000000002,
+    35.05309,
+    75.97438000000002,
+    35.05309
+],
+  "geometry": {"coordinates":[75.97438000000002,35.05309],"type":"Point"}
+}

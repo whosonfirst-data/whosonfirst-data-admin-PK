@@ -1,0 +1,67 @@
+{
+  "id": 1343359865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65809,32.65681,70.65809,32.65681",
+    "geom:latitude":32.65681,
+    "geom:longitude":70.65809,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Muhammad Sharif",
+    "gn:country_code":"PK",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10501389,
+    "gn:latitude":32.65681,
+    "gn:longitude":70.65809,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Muhammad Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10501389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d86113a4c31b765fc0562f3d9031c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1343359865,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343359865,
+    "wof:lastmodified":1536891018,
+    "wof:name":"Muhammad Sharif",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65809,
+    32.65681,
+    70.65809,
+    32.65681
+],
+  "geometry": {"coordinates":[70.65809,32.65681],"type":"Point"}
+}

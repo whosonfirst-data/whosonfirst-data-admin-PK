@@ -1,0 +1,86 @@
+{
+  "id": 1293107835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.69809,33.3705,73.69809,33.3705",
+    "geom:latitude":33.3705,
+    "geom:longitude":73.69809,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Karara Saiyidan",
+    "gn:country_code":"PK",
+    "gn:dem":433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100997,
+    "gn:latitude":33.3705,
+    "gn:longitude":73.69809,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Karara Saiyidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692309,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100997
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c2c25713d03b75809555847f899e75a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "locality_id":1293107835,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293107835,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692309,
+            "disputed_id":1159339497,
+            "locality_id":1293107835,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293107835,
+    "wof:lastmodified":1536836271,
+    "wof:name":"Karara Saiyidan",
+    "wof:parent_id":1108692309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.69809000000002,
+    33.3705,
+    73.69809000000002,
+    33.3705
+],
+  "geometry": {"coordinates":[73.69809000000002,33.3705],"type":"Point"}
+}

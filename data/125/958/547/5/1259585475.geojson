@@ -1,0 +1,67 @@
+{
+  "id": 1259585475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.36603,26.06756,66.36603,26.06756",
+    "geom:latitude":26.06756,
+    "geom:longitude":66.36603,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Morjang",
+    "gn:country_code":"PK",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1108775,
+    "gn:latitude":26.06756,
+    "gn:longitude":66.36603,
+    "gn:modification_date":"2016-09-08",
+    "gn:name":"Morjang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692281
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1108775
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0c29e5e131c8ff443afc7420e7e3bd6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1259585475,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259585475,
+    "wof:lastmodified":1536712262,
+    "wof:name":"Morjang",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.36603000000001,
+    26.06756,
+    66.36603000000001,
+    26.06756
+],
+  "geometry": {"coordinates":[66.36603000000001,26.06756],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293293903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.55523,33.34891,70.55523,33.34891",
+    "geom:latitude":33.34891,
+    "geom:longitude":70.55523,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dapa",
+    "gn:country_code":"PK",
+    "gn:dem":733,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110191,
+    "gn:latitude":33.34891,
+    "gn:longitude":70.55523,
+    "gn:modification_date":"2015-08-06",
+    "gn:name":"Dapa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110191
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"95e097698751d9859c59cb90921dc8f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692203,
+            "locality_id":1293293903,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293293903,
+    "wof:lastmodified":1537063295,
+    "wof:name":"Dapa",
+    "wof:parent_id":1108692203,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.55523000000002,
+    33.34891,
+    70.55523000000002,
+    33.34891
+],
+  "geometry": {"coordinates":[70.55523000000002,33.34891],"type":"Point"}
+}

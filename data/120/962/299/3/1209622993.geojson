@@ -1,0 +1,66 @@
+{
+  "id": 1209622993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.53432,25.78597,62.53432,25.78597",
+    "geom:latitude":25.78597,
+    "geom:longitude":62.53432,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Chotta Bil",
+    "gn:country_code":"PK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1336690,
+    "gn:latitude":25.78597,
+    "gn:longitude":62.53432,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Chotta Bil",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bal",
+        "Bhal",
+        "Chotta Bil"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1336690
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4873e03927bd0811cd98455e512a7232",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209622993
+        }
+    ],
+    "wof:id":1209622993,
+    "wof:lastmodified":1537680142,
+    "wof:name":"Chotta Bil",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.53432,
+    25.78597,
+    62.53432,
+    25.78597
+],
+  "geometry": {"coordinates":[62.53432,25.78597],"type":"Point"}
+}

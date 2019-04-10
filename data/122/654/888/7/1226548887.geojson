@@ -1,0 +1,67 @@
+{
+  "id": 1226548887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62505,33.66327,70.62505,33.66327",
+    "geom:latitude":33.66327,
+    "geom:longitude":70.62505,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Jamal Mela",
+    "gn:country_code":"PK",
+    "gn:dem":1871,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110441,
+    "gn:latitude":33.66327,
+    "gn:longitude":70.62505,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Jamal Mela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110441
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"aa75914811ade126a5b9b203d623fb71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692341,
+            "locality_id":1226548887,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1226548887,
+    "wof:lastmodified":1536992595,
+    "wof:name":"Jamal Mela",
+    "wof:parent_id":1108692341,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62505,
+    33.66327,
+    70.62505,
+    33.66327
+],
+  "geometry": {"coordinates":[70.62505,33.66327],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1276331393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.68728,33.94799,73.68728,33.94799",
+    "geom:latitude":33.94799,
+    "geom:longitude":73.68728,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Pumnuthi",
+    "gn:country_code":"PK",
+    "gn:dem":924,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7096944,
+    "gn:latitude":33.94799,
+    "gn:longitude":73.68728,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Pumnuthi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692125,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7096944
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1802d3deed9474c8fc164977eb7b4008",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276331393,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692125,
+            "disputed_id":1159339497,
+            "locality_id":1276331393,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1276331393,
+    "wof:lastmodified":1536781646,
+    "wof:name":"Pumnuthi",
+    "wof:parent_id":1108692125,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.68728,
+    33.94799,
+    73.68728,
+    33.94799
+],
+  "geometry": {"coordinates":[73.68728,33.94799],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1242690377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.88207,31.63097,69.88207,31.63097",
+    "geom:latitude":31.63097,
+    "geom:longitude":69.88207,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Warghar",
+    "gn:country_code":"PK",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10032976,
+    "gn:latitude":31.63097,
+    "gn:longitude":69.88207,
+    "gn:modification_date":"2015-03-09",
+    "gn:name":"Warghar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10032976
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebcfce78b4597ddd5ab36388577c8cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1242690377,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242690377,
+    "wof:lastmodified":1536901368,
+    "wof:name":"Warghar",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.88207,
+    31.63097,
+    69.88207,
+    31.63097
+],
+  "geometry": {"coordinates":[69.88207,31.63097],"type":"Point"}
+}

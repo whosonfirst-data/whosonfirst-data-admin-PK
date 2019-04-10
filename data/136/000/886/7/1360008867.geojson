@@ -1,0 +1,67 @@
+{
+  "id": 1360008867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.14449,31.54841,71.14449,31.54841",
+    "geom:latitude":31.54841,
+    "geom:longitude":71.14449,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Shahwala",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366418,
+    "gn:latitude":31.54841,
+    "gn:longitude":71.14449,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Shahwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366418
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f194a79e6827d21876c314be3805d603",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":1360008867,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1360008867,
+    "wof:lastmodified":1537053333,
+    "wof:name":"Shahwala",
+    "wof:parent_id":1108692143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.14449,
+    31.54841,
+    71.14449,
+    31.54841
+],
+  "geometry": {"coordinates":[71.14449,31.54841],"type":"Point"}
+}

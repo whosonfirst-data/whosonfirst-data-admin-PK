@@ -1,0 +1,67 @@
+{
+  "id": 1243370379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13428,34.19241,73.13428,34.19241",
+    "geom:latitude":34.19241,
+    "geom:longitude":73.13428,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Mubarak",
+    "gn:country_code":"PK",
+    "gn:dem":1316,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416256,
+    "gn:latitude":34.19241,
+    "gn:longitude":73.13428,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mubarak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416256
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8682ff891bed85724049c78a93eddcc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1243370379,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1243370379,
+    "wof:lastmodified":1536915697,
+    "wof:name":"Mubarak",
+    "wof:parent_id":1108692115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13428,
+    34.19241,
+    73.13428,
+    34.19241
+],
+  "geometry": {"coordinates":[73.13428,34.19241],"type":"Point"}
+}

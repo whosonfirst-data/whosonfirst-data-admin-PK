@@ -1,0 +1,89 @@
+{
+  "id": 1326951653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.71164,33.70709,73.71164,33.70709",
+    "geom:latitude":33.70709,
+    "geom:longitude":73.71164,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Namb Peprian",
+    "gn:country_code":"PK",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100337,
+    "gn:latitude":33.70709,
+    "gn:longitude":73.71164,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Namb Peprian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Namb Pepri\u0101r"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100337
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b5dc75468cd7e159d0ff0d9193665cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1326951653,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1326951653,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1326951653,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1326951653,
+    "wof:lastmodified":1537681691,
+    "wof:name":"Namb Peprian",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.71164,
+    33.70709,
+    73.71164,
+    33.70709
+],
+  "geometry": {"coordinates":[73.71164,33.70709],"type":"Point"}
+}

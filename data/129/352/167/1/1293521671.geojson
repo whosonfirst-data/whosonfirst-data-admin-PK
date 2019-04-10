@@ -1,0 +1,67 @@
+{
+  "id": 1293521671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96878,32.93677,73.96878,32.93677",
+    "geom:latitude":32.93677,
+    "geom:longitude":73.96878,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Linda",
+    "gn:country_code":"PK",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069089,
+    "gn:latitude":32.93677,
+    "gn:longitude":73.96878,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Linda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069089
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09ad171a34ef0812c68d787fc6e55d3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1293521671,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293521671,
+    "wof:lastmodified":1536737747,
+    "wof:name":"Linda",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96878000000002,
+    32.93677,
+    73.96878000000002,
+    32.93677
+],
+  "geometry": {"coordinates":[73.96878000000002,32.93677],"type":"Point"}
+}

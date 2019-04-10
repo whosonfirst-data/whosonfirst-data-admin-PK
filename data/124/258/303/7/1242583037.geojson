@@ -1,0 +1,67 @@
+{
+  "id": 1242583037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.67565,32.38815,72.67565,32.38815",
+    "geom:latitude":32.38815,
+    "geom:longitude":72.67565,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pachani",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168669,
+    "gn:latitude":32.38815,
+    "gn:longitude":72.67565,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Pachani",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168669
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"adfd2357879deb724e6f4c580e5feea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1242583037,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242583037,
+    "wof:lastmodified":1537053453,
+    "wof:name":"Pachani",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.67565,
+    32.38815,
+    72.67565,
+    32.38815
+],
+  "geometry": {"coordinates":[72.67565,32.38815],"type":"Point"}
+}

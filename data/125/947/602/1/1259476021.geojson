@@ -1,0 +1,71 @@
+{
+  "id": 1259476021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.45582,25.78921,69.45582,25.78921",
+    "geom:latitude":25.78921,
+    "geom:longitude":69.45582,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Hathungo",
+    "gn:country_code":"PK",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177010,
+    "gn:latitude":25.78921,
+    "gn:longitude":69.45582,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Hathungo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hatingo",
+        "Hathungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177010
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"991b37a06a285cb7553777dbe3ce37f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1259476021,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1259476021,
+    "wof:lastmodified":1537679700,
+    "wof:name":"Hathungo",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.45581999999999,
+    25.78921,
+    69.45581999999999,
+    25.78921
+],
+  "geometry": {"coordinates":[69.45581999999999,25.78921],"type":"Point"}
+}

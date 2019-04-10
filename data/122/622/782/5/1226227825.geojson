@@ -1,0 +1,86 @@
+{
+  "id": 1226227825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99841,36.18095,72.99841,36.18095",
+    "geom:latitude":36.18095,
+    "geom:longitude":72.99841,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Shamran",
+    "gn:country_code":"PK",
+    "gn:dem":2627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165336,
+    "gn:latitude":36.18095,
+    "gn:longitude":72.99841,
+    "gn:modification_date":"2016-01-07",
+    "gn:name":"Shamran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165336
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9c76b693ad236a22af887f43f765893f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1226227825,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226227825,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1226227825,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1226227825,
+    "wof:lastmodified":1536959473,
+    "wof:name":"Shamran",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99840999999998,
+    36.18095,
+    72.99840999999998,
+    36.18095
+],
+  "geometry": {"coordinates":[72.99840999999998,36.18095],"type":"Point"}
+}

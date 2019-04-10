@@ -1,0 +1,97 @@
+{
+  "id": 1360005929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82044,36.53589,73.82044,36.53589",
+    "geom:latitude":36.53589,
+    "geom:longitude":73.82044,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Ishkuman",
+    "gn:country_code":"PK",
+    "gn:dem":2428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176627,
+    "gn:latitude":36.53589,
+    "gn:longitude":73.82044,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Ishkuman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ashkaman",
+        "Ashkum\u0101n",
+        "Ishkuman"
+    ],
+    "name:urd_x_preferred":[
+        "Ishkom\u0101n"
+    ],
+    "name:urd_x_variant":[
+        "\u0625\u0634\u0652\u06a9\u0648\u0645\u064e\u0627\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692187,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176627
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83be8e43fa9f5e672f681d7357e967ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "locality_id":1360005929,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1360005929,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692187,
+            "disputed_id":1159339495,
+            "locality_id":1360005929,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1360005929,
+    "wof:lastmodified":1537679688,
+    "wof:name":"Ishkuman",
+    "wof:parent_id":1108692187,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82044,
+    36.53589,
+    73.82044,
+    36.53589
+],
+  "geometry": {"coordinates":[73.82044,36.53589],"type":"Point"}
+}

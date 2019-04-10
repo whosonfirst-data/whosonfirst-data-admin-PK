@@ -1,0 +1,67 @@
+{
+  "id": 1226647193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.63088,34.39081,72.63088,34.39081",
+    "geom:latitude":34.39081,
+    "geom:longitude":72.63088,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Miana",
+    "gn:country_code":"PK",
+    "gn:dem":940,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1420585,
+    "gn:latitude":34.39081,
+    "gn:longitude":72.63088,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Miana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692145
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1420585
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"453e4eb473d5e9d13e3b37ec0c8a6072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692145,
+            "locality_id":1226647193,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226647193,
+    "wof:lastmodified":1536856105,
+    "wof:name":"Miana",
+    "wof:parent_id":1108692145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.63088,
+    34.39080999999999,
+    72.63088,
+    34.39080999999999
+],
+  "geometry": {"coordinates":[72.63088,34.39080999999999],"type":"Point"}
+}

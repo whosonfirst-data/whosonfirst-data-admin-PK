@@ -1,0 +1,67 @@
+{
+  "id": 1242784631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66869,33.91483,72.66869,33.91483",
+    "geom:latitude":33.91483,
+    "geom:longitude":72.66869,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bhada",
+    "gn:country_code":"PK",
+    "gn:dem":672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339540,
+    "gn:latitude":33.91483,
+    "gn:longitude":72.66869,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bhada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339540
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d5547702c52e969cfe5f303897432cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1242784631,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1242784631,
+    "wof:lastmodified":1543515550,
+    "wof:name":"Bhada",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66869,
+    33.91483,
+    72.66869,
+    33.91483
+],
+  "geometry": {"coordinates":[72.66869,33.91483],"type":"Point"}
+}

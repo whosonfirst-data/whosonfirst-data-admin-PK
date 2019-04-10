@@ -1,0 +1,67 @@
+{
+  "id": 1327231127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.05036,30.17209,71.05036,30.17209",
+    "geom:latitude":30.17209,
+    "geom:longitude":71.05036,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Adamwala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1368236,
+    "gn:latitude":30.17209,
+    "gn:longitude":71.05036,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Adamwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1368236
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb81a64ad6aaca502637a573ffe6b493",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1327231127,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327231127,
+    "wof:lastmodified":1536971062,
+    "wof:name":"Adamwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.05036,
+    30.17209,
+    71.05036,
+    30.17209
+],
+  "geometry": {"coordinates":[71.05036,30.17209],"type":"Point"}
+}

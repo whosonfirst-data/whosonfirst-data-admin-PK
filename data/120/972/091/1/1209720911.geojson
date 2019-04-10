@@ -1,0 +1,67 @@
+{
+  "id": 1209720911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.24948,32.38412,75.24948,32.38412",
+    "geom:latitude":32.38412,
+    "geom:longitude":75.24948,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ningal",
+    "gn:country_code":"PK",
+    "gn:dem":301,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081320,
+    "gn:latitude":32.38412,
+    "gn:longitude":75.24948,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Ningal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Kolkata",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081320
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d0460a83556f0572b529841ac61d11a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1209720911,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209720911,
+    "wof:lastmodified":1536386418,
+    "wof:name":"Ningal",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.24948,
+    32.38412,
+    75.24948,
+    32.38412
+],
+  "geometry": {"coordinates":[75.24948000000001,32.38412],"type":"Point"}
+}

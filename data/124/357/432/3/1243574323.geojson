@@ -1,0 +1,78 @@
+{
+  "id": 1243574323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.59533,35.68976,74.59533,35.68976",
+    "geom:latitude":35.68976,
+    "geom:longitude":74.59533,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Manot",
+    "gn:country_code":"PK",
+    "gn:dem":1601,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7423586,
+    "gn:latitude":35.68976,
+    "gn:longitude":74.59533,
+    "gn:modification_date":"2016-02-07",
+    "gn:name":"Manot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7423586
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7d08bd4f52c29a3e33505165a8bdbc7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1243574323,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1243574323,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1243574323,
+    "wof:lastmodified":1536619198,
+    "wof:name":"Manot",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.59533,
+    35.68976,
+    74.59533,
+    35.68976
+],
+  "geometry": {"coordinates":[74.59533,35.68976],"type":"Point"}
+}

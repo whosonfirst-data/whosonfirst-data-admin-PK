@@ -1,0 +1,78 @@
+{
+  "id": 1276973391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.40648,35.27954,75.40648,35.27954",
+    "geom:latitude":35.27954,
+    "geom:longitude":75.40648,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Darosam Brok",
+    "gn:country_code":"PK",
+    "gn:dem":3755,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070884,
+    "gn:latitude":35.27954,
+    "gn:longitude":75.40648,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Darosam Brok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070884
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"678866e47a6d665ed8e2ccb06aabec71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276973391,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1276973391,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276973391,
+    "wof:lastmodified":1536916448,
+    "wof:name":"Darosam Brok",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.40648,
+    35.27954000000001,
+    75.40648,
+    35.27954000000001
+],
+  "geometry": {"coordinates":[75.40648,35.27954000000001],"type":"Point"}
+}

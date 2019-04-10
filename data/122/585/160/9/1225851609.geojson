@@ -1,0 +1,67 @@
+{
+  "id": 1225851609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69344,35.77493,71.69344,35.77493",
+    "geom:latitude":35.77493,
+    "geom:longitude":71.69344,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Rumbur",
+    "gn:country_code":"PK",
+    "gn:dem":1931,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11123703,
+    "gn:latitude":35.77493,
+    "gn:longitude":71.69344,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Rumbur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11123703
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"af266906cba6d0b6975f51c132e5e29d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1225851609,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225851609,
+    "wof:lastmodified":1543515491,
+    "wof:name":"Rumbur",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69344,
+    35.77493,
+    71.69344,
+    35.77493
+],
+  "geometry": {"coordinates":[71.69344,35.77493],"type":"Point"}
+}

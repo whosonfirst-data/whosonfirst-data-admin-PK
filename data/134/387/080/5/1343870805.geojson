@@ -1,0 +1,67 @@
+{
+  "id": 1343870805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8527,30.11391,67.8527,30.11391",
+    "geom:latitude":30.11391,
+    "geom:longitude":67.8527,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Khundai",
+    "gn:country_code":"PK",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11327407,
+    "gn:latitude":30.11391,
+    "gn:longitude":67.8527,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Khundai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692209
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11327407
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4421ac8c73f446dd5400338065be9e1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692209,
+            "locality_id":1343870805,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1343870805,
+    "wof:lastmodified":1536651447,
+    "wof:name":"Khundai",
+    "wof:parent_id":1108692209,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8527,
+    30.11391,
+    67.8527,
+    30.11391
+],
+  "geometry": {"coordinates":[67.8527,30.11391],"type":"Point"}
+}

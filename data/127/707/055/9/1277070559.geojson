@@ -1,0 +1,78 @@
+{
+  "id": 1277070559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.34104,35.46816,75.34104,35.46816",
+    "geom:latitude":35.46816,
+    "geom:longitude":75.34104,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gul Chu",
+    "gn:country_code":"PK",
+    "gn:dem":2491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070856,
+    "gn:latitude":35.46816,
+    "gn:longitude":75.34104,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Gul Chu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070856
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3fb2133856c9183f67a57e8c94fab078",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1277070559,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1277070559,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1277070559,
+    "wof:lastmodified":1536785669,
+    "wof:name":"Gul Chu",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.34104,
+    35.46816,
+    75.34104,
+    35.46816
+],
+  "geometry": {"coordinates":[75.34104000000001,35.46816],"type":"Point"}
+}

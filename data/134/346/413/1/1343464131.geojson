@@ -1,0 +1,67 @@
+{
+  "id": 1343464131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.01364,32.26663,75.01364,32.26663",
+    "geom:latitude":32.26663,
+    "geom:longitude":75.01364,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kohliyar",
+    "gn:country_code":"PK",
+    "gn:dem":261,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081389,
+    "gn:latitude":32.26663,
+    "gn:longitude":75.01364,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kohliyar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081389
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a9af14d9b93274356292fa4fc8f6e3bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1343464131,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343464131,
+    "wof:lastmodified":1536740616,
+    "wof:name":"Kohliyar",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.01364000000002,
+    32.26663,
+    75.01364000000002,
+    32.26663
+],
+  "geometry": {"coordinates":[75.01364000000002,32.26663],"type":"Point"}
+}

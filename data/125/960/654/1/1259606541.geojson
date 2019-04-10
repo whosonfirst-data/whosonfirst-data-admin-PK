@@ -1,0 +1,70 @@
+{
+  "id": 1259606541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.75,30.26728,70.75,30.26728",
+    "geom:latitude":30.26728,
+    "geom:longitude":70.75,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Pakki",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168562,
+    "gn:latitude":30.26728,
+    "gn:longitude":70.75,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Pakki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pakki"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168562
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ea76c5c6c69e262dd146fcd7d0bb43c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1259606541,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259606541,
+    "wof:lastmodified":1537679400,
+    "wof:name":"Pakki",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.75,
+    30.26728,
+    70.75,
+    30.26728
+],
+  "geometry": {"coordinates":[70.75,30.26728],"type":"Point"}
+}

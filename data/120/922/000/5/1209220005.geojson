@@ -1,0 +1,64 @@
+{
+  "id": 1209220005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.68669,30.29753,70.68669,30.29753",
+    "geom:latitude":30.29753,
+    "geom:longitude":70.68669,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khu Rarhewala",
+    "gn:country_code":"PK",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405977,
+    "gn:latitude":30.29753,
+    "gn:longitude":70.68669,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Khu Rarhewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "R\u0101rew\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405977
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd0abc6be7706877133f26ccad8c0bd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209220005
+        }
+    ],
+    "wof:id":1209220005,
+    "wof:lastmodified":1537681185,
+    "wof:name":"Khu Rarhewala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.68669,
+    30.29753,
+    70.68669,
+    30.29753
+],
+  "geometry": {"coordinates":[70.68669,30.29753],"type":"Point"}
+}

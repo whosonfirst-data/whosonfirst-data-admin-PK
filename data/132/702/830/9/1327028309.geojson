@@ -1,0 +1,67 @@
+{
+  "id": 1327028309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.47062,27.01899,68.47062,27.01899",
+    "geom:latitude":27.01899,
+    "geom:longitude":68.47062,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sialabad",
+    "gn:country_code":"PK",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7370762,
+    "gn:latitude":27.01899,
+    "gn:longitude":68.47062,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Sialabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7370762
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe7483006a748f74f2bb764f08f1e46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692245,
+            "locality_id":1327028309,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1327028309,
+    "wof:lastmodified":1536766798,
+    "wof:name":"Sialabad",
+    "wof:parent_id":1108692245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.47062,
+    27.01899,
+    68.47062,
+    27.01899
+],
+  "geometry": {"coordinates":[68.47062,27.01899],"type":"Point"}
+}

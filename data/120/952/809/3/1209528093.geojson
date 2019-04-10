@@ -1,0 +1,66 @@
+{
+  "id": 1209528093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.80316,26.49551,62.80316,26.49551",
+    "geom:latitude":26.49551,
+    "geom:longitude":62.80316,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Seri Mumich",
+    "gn:country_code":"PK",
+    "gn:dem":942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1169810,
+    "gn:latitude":26.49551,
+    "gn:longitude":62.80316,
+    "gn:modification_date":"2015-12-05",
+    "gn:name":"Seri Mumich",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Momich",
+        "Mumich",
+        "Seri Mumich"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1169810
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9320161ec8827043c95f19e936fd3166",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209528093
+        }
+    ],
+    "wof:id":1209528093,
+    "wof:lastmodified":1537679444,
+    "wof:name":"Seri Mumich",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.80316,
+    26.49551,
+    62.80316,
+    26.49551
+],
+  "geometry": {"coordinates":[62.80316,26.49551],"type":"Point"}
+}

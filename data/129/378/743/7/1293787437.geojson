@@ -1,0 +1,67 @@
+{
+  "id": 1293787437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58596,33.7165,70.58596,33.7165",
+    "geom:latitude":33.7165,
+    "geom:longitude":70.58596,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Takhtai",
+    "gn:country_code":"PK",
+    "gn:dem":2081,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110581,
+    "gn:latitude":33.7165,
+    "gn:longitude":70.58596,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Takhtai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110581
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c985d262c6e3ed0c91ff57fbe8173e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1293787437,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1293787437,
+    "wof:lastmodified":1536850575,
+    "wof:name":"Takhtai",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58596,
+    33.7165,
+    70.58596,
+    33.7165
+],
+  "geometry": {"coordinates":[70.58596,33.7165],"type":"Point"}
+}

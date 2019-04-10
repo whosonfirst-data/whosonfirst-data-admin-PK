@@ -1,0 +1,67 @@
+{
+  "id": 1276335313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.64824,34.68522,72.64824,34.68522",
+    "geom:latitude":34.68522,
+    "geom:longitude":72.64824,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Aklar",
+    "gn:country_code":"PK",
+    "gn:dem":1180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390726,
+    "gn:latitude":34.68522,
+    "gn:longitude":72.64824,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Aklar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390726
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fba5a5f6377e766c9f933d9e40bae1dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692373,
+            "locality_id":1276335313,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1276335313,
+    "wof:lastmodified":1536776444,
+    "wof:name":"Aklar",
+    "wof:parent_id":1108692373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.64824,
+    34.68522,
+    72.64824,
+    34.68522
+],
+  "geometry": {"coordinates":[72.64824,34.68522],"type":"Point"}
+}

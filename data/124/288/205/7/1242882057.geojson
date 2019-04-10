@@ -1,0 +1,67 @@
+{
+  "id": 1242882057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.18112,28.38271,66.18112,28.38271",
+    "geom:latitude":28.38271,
+    "geom:longitude":66.18112,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Tegak",
+    "gn:country_code":"PK",
+    "gn:dem":1676,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163708,
+    "gn:latitude":28.38271,
+    "gn:longitude":66.18112,
+    "gn:modification_date":"2016-03-10",
+    "gn:name":"Tegak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163708
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"34ebdd0ac0ee521d49ea30b979bf5415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1242882057,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1242882057,
+    "wof:lastmodified":1536623101,
+    "wof:name":"Tegak",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.18111999999999,
+    28.38271,
+    66.18111999999999,
+    28.38271
+],
+  "geometry": {"coordinates":[66.18111999999999,28.38271],"type":"Point"}
+}

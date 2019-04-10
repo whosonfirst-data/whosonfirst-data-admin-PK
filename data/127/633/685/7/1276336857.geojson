@@ -1,0 +1,67 @@
+{
+  "id": 1276336857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.16217,28.56172,65.16217,28.56172",
+    "geom:latitude":28.56172,
+    "geom:longitude":65.16217,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bedian",
+    "gn:country_code":"PK",
+    "gn:dem":692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10996905,
+    "gn:latitude":28.56172,
+    "gn:longitude":65.16217,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Bedian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10996905
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a4ab56ad12fe02d4ac8ef5f0cf3d386e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692249,
+            "locality_id":1276336857,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1276336857,
+    "wof:lastmodified":1536774453,
+    "wof:name":"Bedian",
+    "wof:parent_id":1108692249,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.16216999999999,
+    28.56172,
+    65.16216999999999,
+    28.56172
+],
+  "geometry": {"coordinates":[65.16216999999999,28.56172],"type":"Point"}
+}

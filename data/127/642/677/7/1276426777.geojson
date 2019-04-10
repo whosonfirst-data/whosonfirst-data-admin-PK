@@ -1,0 +1,81 @@
+{
+  "id": 1276426777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.69701,35.1425,76.69701,35.1425",
+    "geom:latitude":35.1425,
+    "geom:longitude":76.69701,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Gompa Khan",
+    "gn:country_code":"PK",
+    "gn:dem":3156,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7418519,
+    "gn:latitude":35.1425,
+    "gn:longitude":76.69701,
+    "gn:modification_date":"2016-03-11",
+    "gn:name":"Gompa Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "G\u00f6mpa Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7418519
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"819caf456e9fe80cc755e74ca74bf120",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1276426777,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1276426777,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276426777,
+    "wof:lastmodified":1537681900,
+    "wof:name":"Gompa Khan",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.69700999999998,
+    35.1425,
+    76.69700999999998,
+    35.1425
+],
+  "geometry": {"coordinates":[76.69700999999998,35.1425],"type":"Point"}
+}

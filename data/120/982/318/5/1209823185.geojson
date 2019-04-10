@@ -1,0 +1,67 @@
+{
+  "id": 1209823185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.7917,28.532,66.7917,28.532",
+    "geom:latitude":28.532,
+    "geom:longitude":66.7917,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Talawan",
+    "gn:country_code":"PK",
+    "gn:dem":1528,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164050,
+    "gn:latitude":28.532,
+    "gn:longitude":66.7917,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Talawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164050
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"956b5272b98f361ba2223ebe749cc57f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1209823185,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1209823185,
+    "wof:lastmodified":1536376536,
+    "wof:name":"Talawan",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.7917,
+    28.532,
+    66.7917,
+    28.532
+],
+  "geometry": {"coordinates":[66.79170000000001,28.532],"type":"Point"}
+}

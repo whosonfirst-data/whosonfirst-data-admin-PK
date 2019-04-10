@@ -1,0 +1,67 @@
+{
+  "id": 1193139501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.51139,30.98444,67.51139,30.98444",
+    "geom:latitude":30.98444,
+    "geom:longitude":67.51139,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Surai",
+    "gn:country_code":"PK",
+    "gn:dem":2378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1347752,
+    "gn:latitude":30.98444,
+    "gn:longitude":67.51139,
+    "gn:modification_date":"2005-03-08",
+    "gn:name":"Surai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347752
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"156eb4225a0e4fcdf5a9120791340c76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1193139501,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1193139501,
+    "wof:lastmodified":1536367030,
+    "wof:name":"Surai",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.51139,
+    30.98444000000001,
+    67.51139,
+    30.98444000000001
+],
+  "geometry": {"coordinates":[67.51139000000001,30.98444000000001],"type":"Point"}
+}

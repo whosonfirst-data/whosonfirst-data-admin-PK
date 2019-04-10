@@ -1,0 +1,67 @@
+{
+  "id": 1226041149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.84222,24.88556,67.84222,24.88556",
+    "geom:latitude":24.88556,
+    "geom:longitude":67.84222,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sindhar",
+    "gn:country_code":"PK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1344506,
+    "gn:latitude":24.88556,
+    "gn:longitude":67.84222,
+    "gn:modification_date":"1998-05-13",
+    "gn:name":"Sindhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1344506
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"349e3aabf510fbe1be43f22b13cda8d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692411,
+            "locality_id":1226041149,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226041149,
+    "wof:lastmodified":1536732065,
+    "wof:name":"Sindhar",
+    "wof:parent_id":1108692411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.84222,
+    24.88556,
+    67.84222,
+    24.88556
+],
+  "geometry": {"coordinates":[67.84222,24.88556],"type":"Point"}
+}

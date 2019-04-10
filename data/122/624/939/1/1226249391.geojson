@@ -1,0 +1,67 @@
+{
+  "id": 1226249391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.76268,32.78991,70.76268,32.78991",
+    "geom:latitude":32.78991,
+    "geom:longitude":70.76268,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sultan Mahmud",
+    "gn:country_code":"PK",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334457,
+    "gn:latitude":32.78991,
+    "gn:longitude":70.76268,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Sultan Mahmud",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334457
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a4b580281891c445482de2e534681f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1226249391,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226249391,
+    "wof:lastmodified":1536929037,
+    "wof:name":"Sultan Mahmud",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.76268,
+    32.78991,
+    70.76268,
+    32.78991
+],
+  "geometry": {"coordinates":[70.76268,32.78991],"type":"Point"}
+}

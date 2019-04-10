@@ -1,0 +1,73 @@
+{
+  "id": 1327265821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.3764,31.5239,74.3764,31.5239",
+    "geom:latitude":31.5239,
+    "geom:longitude":74.3764,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cantonment",
+    "gn:country_code":"PK",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1347925,
+    "gn:latitude":31.5239,
+    "gn:longitude":74.3764,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Cantonment",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Lahore Cantonment"
+    ],
+    "name:eng_x_variant":[
+        "Cantonment"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692273
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1347925
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"87848cbfec7ffd56928bd109166a9d20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1327265821,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1327265821,
+    "wof:lastmodified":1537680278,
+    "wof:name":"Cantonment",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.3764,
+    31.5239,
+    74.3764,
+    31.5239
+],
+  "geometry": {"coordinates":[74.3764,31.5239],"type":"Point"}
+}

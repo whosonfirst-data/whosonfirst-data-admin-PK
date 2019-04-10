@@ -1,0 +1,78 @@
+{
+  "id": 1259871545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.59522,33.6462,73.59522,33.6462",
+    "geom:latitude":33.6462,
+    "geom:longitude":73.59522,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Chhatrora",
+    "gn:country_code":"PK",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7100383,
+    "gn:latitude":33.6462,
+    "gn:longitude":73.59522,
+    "gn:modification_date":"2016-01-08",
+    "gn:name":"Chhatrora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7100383
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d04f53d029adb7765d9fa53189331c33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1259871545,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1259871545,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1259871545,
+    "wof:lastmodified":1536796643,
+    "wof:name":"Chhatrora",
+    "wof:parent_id":1108692269,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.59522,
+    33.6462,
+    73.59522,
+    33.6462
+],
+  "geometry": {"coordinates":[73.59522,33.6462],"type":"Point"}
+}

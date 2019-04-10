@@ -1,0 +1,67 @@
+{
+  "id": 1226077241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.3396,32.68951,73.3396,32.68951",
+    "geom:latitude":32.68951,
+    "geom:longitude":73.3396,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mirzaabad",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11444383,
+    "gn:latitude":32.68951,
+    "gn:longitude":73.3396,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mirzaabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692227
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11444383
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4a48bc0d8d67fb729b4250392368f780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1226077241,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226077241,
+    "wof:lastmodified":1536679832,
+    "wof:name":"Mirzaabad",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.3396,
+    32.68951,
+    73.3396,
+    32.68951
+],
+  "geometry": {"coordinates":[73.3396,32.68951],"type":"Point"}
+}

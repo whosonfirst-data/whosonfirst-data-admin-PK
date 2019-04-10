@@ -1,0 +1,67 @@
+{
+  "id": 1193150459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60676,33.60923,70.60676,33.60923",
+    "geom:latitude":33.60923,
+    "geom:longitude":70.60676,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Khaurai",
+    "gn:country_code":"PK",
+    "gn:dem":1726,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110448,
+    "gn:latitude":33.60923,
+    "gn:longitude":70.60676,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Khaurai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110448
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1e6a5dcacd4da4eec8c0ed54a5dff654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1193150459,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193150459,
+    "wof:lastmodified":1543515446,
+    "wof:name":"Khaurai",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60676,
+    33.60923,
+    70.60676,
+    33.60923
+],
+  "geometry": {"coordinates":[70.60675999999999,33.60923],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209420583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.33895,31.83238,71.33895,31.83238",
+    "geom:latitude":31.83238,
+    "geom:longitude":71.33895,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jhabana Kachcha",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1367428,
+    "gn:latitude":31.83238,
+    "gn:longitude":71.33895,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Jhabana Kachcha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhabana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1367428
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"78172d61567ee2153194ac5281a2a541",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209420583
+        }
+    ],
+    "wof:id":1209420583,
+    "wof:lastmodified":1537680524,
+    "wof:name":"Jhabana Kachcha",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.33895,
+    31.83238,
+    71.33895,
+    31.83238
+],
+  "geometry": {"coordinates":[71.33895,31.83238],"type":"Point"}
+}

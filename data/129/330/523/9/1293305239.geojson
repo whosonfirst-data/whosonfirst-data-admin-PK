@@ -1,0 +1,67 @@
+{
+  "id": 1293305239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.50657,29.15746,66.50657,29.15746",
+    "geom:latitude":29.15746,
+    "geom:longitude":66.50657,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kollu",
+    "gn:country_code":"PK",
+    "gn:dem":1832,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11269104,
+    "gn:latitude":29.15746,
+    "gn:longitude":66.50657,
+    "gn:modification_date":"2016-10-09",
+    "gn:name":"Kollu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692231
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11269104
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb04e1e2dfba7668648f4ab45eeaabea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":1293305239,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1293305239,
+    "wof:lastmodified":1537047685,
+    "wof:name":"Kollu",
+    "wof:parent_id":1108692231,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.50657,
+    29.15746,
+    66.50657,
+    29.15746
+],
+  "geometry": {"coordinates":[66.50657,29.15746],"type":"Point"}
+}

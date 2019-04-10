@@ -1,0 +1,64 @@
+{
+  "id": 1209519727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.03997,24.5344,68.03997,24.5344",
+    "geom:latitude":24.5344,
+    "geom:longitude":68.03997,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Punu Sand",
+    "gn:country_code":"PK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7371380,
+    "gn:latitude":24.5344,
+    "gn:longitude":68.03997,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Punu Sand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Punu Sand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7371380
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5c1ccd50e7e1c4ccd02d79783e1ba969",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209519727
+        }
+    ],
+    "wof:id":1209519727,
+    "wof:lastmodified":1537681823,
+    "wof:name":"Punu Sand",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.03997,
+    24.5344,
+    68.03997,
+    24.5344
+],
+  "geometry": {"coordinates":[68.03997,24.5344],"type":"Point"}
+}

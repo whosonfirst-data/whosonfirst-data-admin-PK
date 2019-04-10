@@ -1,0 +1,61 @@
+{
+  "id": 1209638733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03589,31.58092,71.03589,31.58092",
+    "geom:latitude":31.58092,
+    "geom:longitude":71.03589,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Battewala",
+    "gn:country_code":"PK",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366495,
+    "gn:latitude":31.58092,
+    "gn:longitude":71.03589,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Battewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366495
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"72d2b7c06396a6e4e6ac5be1e5dfe067",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638733
+        }
+    ],
+    "wof:id":1209638733,
+    "wof:lastmodified":1536280953,
+    "wof:name":"Battewala",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03589000000002,
+    31.580920000000006,
+    71.03589000000002,
+    31.580920000000006
+],
+  "geometry": {"coordinates":[71.03589000000002,31.58092000000001],"type":"Point"}
+}

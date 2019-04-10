@@ -1,0 +1,78 @@
+{
+  "id": 1210013777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.59028,34.78194,74.59028,34.78194",
+    "geom:latitude":34.78194,
+    "geom:longitude":74.59028,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Marnat",
+    "gn:country_code":"PK",
+    "gn:dem":2386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412598,
+    "gn:latitude":34.78194,
+    "gn:longitude":74.59028,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Marnat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692331,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412598
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97d054a48d6b6824c5952b3144460a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1210013777,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692331,
+            "disputed_id":1159339497,
+            "locality_id":1210013777,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1210013777,
+    "wof:lastmodified":1536396017,
+    "wof:name":"Marnat",
+    "wof:parent_id":1108692331,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.59028,
+    34.78194000000001,
+    74.59028,
+    34.78194000000001
+],
+  "geometry": {"coordinates":[74.59028000000001,34.78194000000001],"type":"Point"}
+}

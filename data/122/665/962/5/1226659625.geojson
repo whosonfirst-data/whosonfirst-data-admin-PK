@@ -1,0 +1,67 @@
+{
+  "id": 1226659625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.00929,31.49205,70.00929,31.49205",
+    "geom:latitude":31.49205,
+    "geom:longitude":70.00929,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Koi Walwast",
+    "gn:country_code":"PK",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":10035169,
+    "gn:latitude":31.49205,
+    "gn:longitude":70.00929,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Koi Walwast",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10035169
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a94168fff391a4c188627ab3ec9aaec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1226659625,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226659625,
+    "wof:lastmodified":1536838359,
+    "wof:name":"Koi Walwast",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.00929000000001,
+    31.49205,
+    70.00929000000001,
+    31.49205
+],
+  "geometry": {"coordinates":[70.00929000000001,31.49205],"type":"Point"}
+}

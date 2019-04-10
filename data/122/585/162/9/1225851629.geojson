@@ -1,0 +1,67 @@
+{
+  "id": 1225851629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.98726,35.34425,71.98726,35.34425",
+    "geom:latitude":35.34425,
+    "geom:longitude":71.98726,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kalle Khwar",
+    "gn:country_code":"PK",
+    "gn:dem":2234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11138003,
+    "gn:latitude":35.34425,
+    "gn:longitude":71.98726,
+    "gn:modification_date":"2016-05-10",
+    "gn:name":"Kalle Khwar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11138003
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dfc0bb394f94632e910b5b7f808a58ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":1225851629,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225851629,
+    "wof:lastmodified":1543515494,
+    "wof:name":"Kalle Khwar",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.98725999999998,
+    35.34425,
+    71.98725999999998,
+    35.34425
+],
+  "geometry": {"coordinates":[71.98725999999998,35.34425],"type":"Point"}
+}

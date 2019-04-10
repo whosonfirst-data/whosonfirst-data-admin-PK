@@ -1,0 +1,67 @@
+{
+  "id": 1343859431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.15049,34.20462,72.15049,34.20462",
+    "geom:latitude":34.20462,
+    "geom:longitude":72.15049,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Batgram",
+    "gn:country_code":"PK",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11410451,
+    "gn:latitude":34.20462,
+    "gn:longitude":72.15049,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Batgram",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11410451
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4bf00e6bbfa2eac3424df568d021ba0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692299,
+            "locality_id":1343859431,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343859431,
+    "wof:lastmodified":1536668111,
+    "wof:name":"Batgram",
+    "wof:parent_id":1108692299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.15049,
+    34.20462,
+    72.15049,
+    34.20462
+],
+  "geometry": {"coordinates":[72.15049,34.20462],"type":"Point"}
+}

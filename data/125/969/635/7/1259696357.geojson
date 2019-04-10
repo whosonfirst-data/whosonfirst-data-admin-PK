@@ -1,0 +1,67 @@
+{
+  "id": 1259696357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.97957,27.96157,62.97957,27.96157",
+    "geom:latitude":27.96157,
+    "geom:longitude":62.97957,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gwachik",
+    "gn:country_code":"PK",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10986275,
+    "gn:latitude":27.96157,
+    "gn:longitude":62.97957,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Gwachik",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10986275
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cabe6daceec05cf3fe9aec21406c5a42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692425,
+            "locality_id":1259696357,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259696357,
+    "wof:lastmodified":1537046488,
+    "wof:name":"Gwachik",
+    "wof:parent_id":1108692425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.97957,
+    27.96157,
+    62.97957,
+    27.96157
+],
+  "geometry": {"coordinates":[62.97957,27.96157],"type":"Point"}
+}

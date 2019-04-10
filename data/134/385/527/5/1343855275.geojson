@@ -1,0 +1,78 @@
+{
+  "id": 1343855275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.21775,32.98266,74.21775,32.98266",
+    "geom:latitude":32.98266,
+    "geom:longitude":74.21775,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Lahuta",
+    "gn:country_code":"PK",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11070367,
+    "gn:latitude":32.98266,
+    "gn:longitude":74.21775,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Lahuta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11070367
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"95110c09dca12c3b1803624a98211f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343855275,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1343855275,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1343855275,
+    "wof:lastmodified":1536674092,
+    "wof:name":"Lahuta",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.21775,
+    32.98266,
+    74.21775,
+    32.98266
+],
+  "geometry": {"coordinates":[74.21775,32.98266],"type":"Point"}
+}

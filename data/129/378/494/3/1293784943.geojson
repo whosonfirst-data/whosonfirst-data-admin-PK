@@ -1,0 +1,67 @@
+{
+  "id": 1293784943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.96893,33.82372,72.96893,33.82372",
+    "geom:latitude":33.82372,
+    "geom:longitude":72.96893,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kharala",
+    "gn:country_code":"PK",
+    "gn:dem":614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338271,
+    "gn:latitude":33.82372,
+    "gn:longitude":72.96893,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kharala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338271
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"21b8135b732b32414b622ee343f6d9a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1293784943,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293784943,
+    "wof:lastmodified":1536854150,
+    "wof:name":"Kharala",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.96893,
+    33.82372,
+    72.96893,
+    33.82372
+],
+  "geometry": {"coordinates":[72.96893,33.82372],"type":"Point"}
+}

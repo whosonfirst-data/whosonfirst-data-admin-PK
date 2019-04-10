@@ -1,0 +1,98 @@
+{
+  "id": 421166607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.32719,36.25398,74.32719,36.25398",
+    "geom:latitude":36.25398,
+    "geom:longitude":74.32719,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Chalt fort"
+    ],
+    "qs:gn_country":"PK",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":1181620,
+    "qs:gn_pop":0,
+    "qs:name":"Chalt",
+    "qs:name_adm0":"Pakistan",
+    "qs:name_adm1":"Northern Areas",
+    "qs:photos":66,
+    "qs:photos_1k":13,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":66,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":267955,
+    "qs:woe_adm0":23424922,
+    "qs:woe_id":2210854,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692193,
+        85675745,
+        1159339495,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181620,
+        "gp:id":2210854,
+        "qs:id":267955
+    },
+    "wof:country":"PK",
+    "wof:created":1459008696,
+    "wof:geomhash":"dee1bef009710fd6e64e27f40d85fe47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "locality_id":421166607,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":421166607,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":421166607,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":421166607,
+    "wof:lastmodified":1533678728,
+    "wof:name":"Chalt",
+    "wof:parent_id":1108692193,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.32719,
+    36.25398,
+    74.32719,
+    36.25398
+],
+  "geometry": {"coordinates":[74.32719,36.25398],"type":"Point"}
+}

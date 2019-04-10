@@ -1,0 +1,75 @@
+{
+  "id": 1209011219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65572,34.19803,71.65572,34.19803",
+    "geom:latitude":34.19803,
+    "geom:longitude":71.65572,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sukar",
+    "gn:country_code":"PK",
+    "gn:dem":321,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181146,
+    "gn:latitude":34.19803,
+    "gn:longitude":71.65572,
+    "gn:modification_date":"2015-07-03",
+    "gn:name":"Sukar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chikkar"
+    ],
+    "name:und_x_variant":[
+        "Chakar",
+        "Chitta",
+        "Sukar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692151
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181146
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a062d924e87f941318127d2cf2f551f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1209011219,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209011219,
+    "wof:lastmodified":1543515244,
+    "wof:name":"Sukar",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65572,
+    34.19803,
+    71.65572,
+    34.19803
+],
+  "geometry": {"coordinates":[71.65572,34.19803],"type":"Point"}
+}

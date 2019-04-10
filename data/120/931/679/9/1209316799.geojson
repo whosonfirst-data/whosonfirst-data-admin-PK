@@ -1,0 +1,65 @@
+{
+  "id": 1209316799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.53688,27.40432,66.53688,27.40432",
+    "geom:latitude":27.40432,
+    "geom:longitude":66.53688,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gharo",
+    "gn:country_code":"PK",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1351907,
+    "gn:latitude":27.40432,
+    "gn:longitude":66.53688,
+    "gn:modification_date":"2016-09-09",
+    "gn:name":"Gharo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ghoro",
+        "Gharo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1351907
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"225618c10f74a67361407caa6d009c17",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209316799
+        }
+    ],
+    "wof:id":1209316799,
+    "wof:lastmodified":1537680291,
+    "wof:name":"Gharo",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.53688000000001,
+    27.40432,
+    66.53688000000001,
+    27.40432
+],
+  "geometry": {"coordinates":[66.53688000000001,27.40432],"type":"Point"}
+}

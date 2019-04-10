@@ -1,0 +1,67 @@
+{
+  "id": 1326735727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.60608,32.80679,71.60608,32.80679",
+    "geom:latitude":32.80679,
+    "geom:longitude":71.60608,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Ghundi",
+    "gn:country_code":"PK",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405367,
+    "gn:latitude":32.80679,
+    "gn:longitude":71.60608,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Ghundi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692305
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405367
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"09b4e5d0a6ec159df61e3563414303a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1326735727,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1326735727,
+    "wof:lastmodified":1536690775,
+    "wof:name":"Ghundi",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.60608,
+    32.80679,
+    71.60608,
+    32.80679
+],
+  "geometry": {"coordinates":[71.60608000000001,32.80679],"type":"Point"}
+}

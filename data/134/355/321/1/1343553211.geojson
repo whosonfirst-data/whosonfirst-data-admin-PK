@@ -1,0 +1,86 @@
+{
+  "id": 1343553211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87252,33.70462,73.87252,33.70462",
+    "geom:latitude":33.70462,
+    "geom:longitude":73.87252,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Bisari",
+    "gn:country_code":"PK",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413796,
+    "gn:latitude":33.70462,
+    "gn:longitude":73.87252,
+    "gn:modification_date":"2015-11-08",
+    "gn:name":"Bisari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85672137,
+        1108692391,
+        85675735,
+        1159339497,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413796
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2d144fee53c080370e3a0b2a68911522",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "locality_id":1343553211,
+            "region_id":85672137
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1343553211,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692391,
+            "disputed_id":1159339497,
+            "locality_id":1343553211,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1343553211,
+    "wof:lastmodified":1536609750,
+    "wof:name":"Bisari",
+    "wof:parent_id":1108692391,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87252,
+    33.70462,
+    73.87252,
+    33.70462
+],
+  "geometry": {"coordinates":[73.87251999999999,33.70462],"type":"Point"}
+}

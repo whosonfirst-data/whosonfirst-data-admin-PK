@@ -1,0 +1,67 @@
+{
+  "id": 1343675337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07443,33.8446,71.07443,33.8446",
+    "geom:latitude":33.8446,
+    "geom:longitude":71.07443,
+    "gn:admin1_code":"1",
+    "gn:asciiname":"Ghalanai",
+    "gn:country_code":"PK",
+    "gn:dem":1651,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1374111,
+    "gn:latitude":33.8446,
+    "gn:longitude":71.07443,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ghalanai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        1108692255
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1374111
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ac86e932a601e9ffe430fcc412f7fd18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692255,
+            "locality_id":1343675337,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1343675337,
+    "wof:lastmodified":1536934295,
+    "wof:name":"Ghalanai",
+    "wof:parent_id":1108692255,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07443,
+    33.8446,
+    71.07443,
+    33.8446
+],
+  "geometry": {"coordinates":[71.07443000000001,33.8446],"type":"Point"}
+}

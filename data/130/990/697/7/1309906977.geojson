@@ -1,0 +1,67 @@
+{
+  "id": 1309906977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.50701,35.52991,73.50701,35.52991",
+    "geom:latitude":35.52991,
+    "geom:longitude":73.50701,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sazin",
+    "gn:country_code":"PK",
+    "gn:dem":952,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165818,
+    "gn:latitude":35.52991,
+    "gn:longitude":73.50701,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sazin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165818
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"614e8da814a921e4c08d93bb01315d05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1309906977,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1309906977,
+    "wof:lastmodified":1536785742,
+    "wof:name":"Sazin",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.50701,
+    35.52991,
+    73.50701,
+    35.52991
+],
+  "geometry": {"coordinates":[73.50700999999999,35.52991],"type":"Point"}
+}

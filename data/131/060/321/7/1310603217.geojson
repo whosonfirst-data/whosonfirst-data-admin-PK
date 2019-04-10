@@ -1,0 +1,67 @@
+{
+  "id": 1310603217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.85399,29.88286,66.85399,29.88286",
+    "geom:latitude":29.88286,
+    "geom:longitude":66.85399,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Azim Khan",
+    "gn:country_code":"PK",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7107990,
+    "gn:latitude":29.88286,
+    "gn:longitude":66.85399,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Azim Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107990
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"775e1ed898febb6d77eb4746cd9b93ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692301,
+            "locality_id":1310603217,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1310603217,
+    "wof:lastmodified":1536776554,
+    "wof:name":"Azim Khan",
+    "wof:parent_id":1108692301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.85399,
+    29.88286,
+    66.85399,
+    29.88286
+],
+  "geometry": {"coordinates":[66.85399,29.88286],"type":"Point"}
+}

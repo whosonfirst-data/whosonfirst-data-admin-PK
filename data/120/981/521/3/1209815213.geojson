@@ -1,0 +1,67 @@
+{
+  "id": 1209815213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.1554,31.29919,72.1554,31.29919",
+    "geom:latitude":31.29919,
+    "geom:longitude":72.1554,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chela",
+    "gn:country_code":"PK",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11466019,
+    "gn:latitude":31.29919,
+    "gn:longitude":72.1554,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Chela",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11466019
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dff73815e0b0d92ff518b3eeea4c2c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1209815213,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209815213,
+    "wof:lastmodified":1536384546,
+    "wof:name":"Chela",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.1554,
+    31.29919000000001,
+    72.1554,
+    31.29919000000001
+],
+  "geometry": {"coordinates":[72.1554,31.29919000000001],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1326621995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.15577,32.89637,74.15577,32.89637",
+    "geom:latitude":32.89637,
+    "geom:longitude":74.15577,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kadala",
+    "gn:country_code":"PK",
+    "gn:dem":365,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371621,
+    "gn:latitude":32.89637,
+    "gn:longitude":74.15577,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kadala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371621
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"71e0ab029e7ccd0c6528d46f1df294b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326621995,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1326621995,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1326621995,
+    "wof:lastmodified":1536853497,
+    "wof:name":"Kadala",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.15576999999998,
+    32.89637,
+    74.15576999999998,
+    32.89637
+],
+  "geometry": {"coordinates":[74.15576999999998,32.89637],"type":"Point"}
+}

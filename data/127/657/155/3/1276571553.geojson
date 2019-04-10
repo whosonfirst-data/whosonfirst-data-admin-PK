@@ -1,0 +1,78 @@
+{
+  "id": 1276571553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"76.109,35.33255,76.109,35.33255",
+    "geom:latitude":35.33255,
+    "geom:longitude":76.109,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Bara Bransa",
+    "gn:country_code":"PK",
+    "gn:dem":3640,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11087813,
+    "gn:latitude":35.33255,
+    "gn:longitude":76.109,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Bara Bransa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692185,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11087813
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4284702fae5cec3a7496af0a8e2dc48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1276571553,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692185,
+            "disputed_id":1159339495,
+            "locality_id":1276571553,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1276571553,
+    "wof:lastmodified":1536957073,
+    "wof:name":"Bara Bransa",
+    "wof:parent_id":1108692185,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    76.109,
+    35.33255,
+    76.109,
+    35.33255
+],
+  "geometry": {"coordinates":[76.10899999999999,35.33255],"type":"Point"}
+}

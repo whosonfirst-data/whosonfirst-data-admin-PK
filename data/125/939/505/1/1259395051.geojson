@@ -1,0 +1,67 @@
+{
+  "id": 1259395051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.54218,30.59442,67.54218,30.59442",
+    "geom:latitude":30.59442,
+    "geom:longitude":67.54218,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Salawat",
+    "gn:country_code":"PK",
+    "gn:dem":2466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1348119,
+    "gn:latitude":30.59442,
+    "gn:longitude":67.54218,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Salawat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1348119
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb370980af4461341489a5161396d4ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1259395051,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1259395051,
+    "wof:lastmodified":1536984794,
+    "wof:name":"Salawat",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.54218,
+    30.59442,
+    67.54218,
+    30.59442
+],
+  "geometry": {"coordinates":[67.54218,30.59442],"type":"Point"}
+}

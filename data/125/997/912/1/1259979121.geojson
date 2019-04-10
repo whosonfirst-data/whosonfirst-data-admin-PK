@@ -1,0 +1,72 @@
+{
+  "id": 1259979121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.89095,31.09305,70.89095,31.09305",
+    "geom:latitude":31.09305,
+    "geom:longitude":70.89095,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Wahid Bakhsh Khokhar",
+    "gn:country_code":"PK",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419255,
+    "gn:latitude":31.09305,
+    "gn:longitude":70.89095,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Basti Wahid Bakhsh Khokhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Basti Khokhar",
+        "Basti W\u0101h\u012bd Bakhsh Khokha",
+        "Basti Wahid Bakhsh Khokhar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419255
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec2627ec53d6453cb70ae5dee8229935",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1259979121,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259979121,
+    "wof:lastmodified":1537681442,
+    "wof:name":"Basti Wahid Bakhsh Khokhar",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.89095,
+    31.09305,
+    70.89095,
+    31.09305
+],
+  "geometry": {"coordinates":[70.89095,31.09305],"type":"Point"}
+}

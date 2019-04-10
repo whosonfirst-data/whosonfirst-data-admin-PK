@@ -1,0 +1,67 @@
+{
+  "id": 1243477401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.03021,30.18259,71.03021,30.18259",
+    "geom:latitude":30.18259,
+    "geom:longitude":71.03021,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jallowala",
+    "gn:country_code":"PK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7341499,
+    "gn:latitude":30.18259,
+    "gn:longitude":71.03021,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jallowala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692321
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7341499
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c3bed996614b026caada7ed2e97af7a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1243477401,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1243477401,
+    "wof:lastmodified":1536761122,
+    "wof:name":"Jallowala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.03021,
+    30.18259,
+    71.03021,
+    30.18259
+],
+  "geometry": {"coordinates":[71.03021,30.18259],"type":"Point"}
+}

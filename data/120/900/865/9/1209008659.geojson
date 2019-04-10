@@ -1,0 +1,64 @@
+{
+  "id": 1209008659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.94179,25.40771,68.94179,25.40771",
+    "geom:latitude":25.40771,
+    "geom:longitude":68.94179,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Pir Muhammad Fahim",
+    "gn:country_code":"PK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1360217,
+    "gn:latitude":25.40771,
+    "gn:longitude":68.94179,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Pir Muhammad Fahim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u012br Muhammad H\u0101shim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1360217
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"602efa41de2ebf4724d00c17a9e2b296",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209008659
+        }
+    ],
+    "wof:id":1209008659,
+    "wof:lastmodified":1537680425,
+    "wof:name":"Pir Muhammad Fahim",
+    "wof:parent_id":85632659,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.94179,
+    25.40771,
+    68.94179,
+    25.40771
+],
+  "geometry": {"coordinates":[68.94179,25.40771],"type":"Point"}
+}

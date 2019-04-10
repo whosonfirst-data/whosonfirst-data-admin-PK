@@ -1,0 +1,67 @@
+{
+  "id": 1309908091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"62.10833,26.02546,62.10833,26.02546",
+    "geom:latitude":26.02546,
+    "geom:longitude":62.10833,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Bansar",
+    "gn:country_code":"PK",
+    "gn:dem":357,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10987228,
+    "gn:latitude":26.02546,
+    "gn:longitude":62.10833,
+    "gn:modification_date":"2018-01-12",
+    "gn:name":"Bansar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10987228
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9923a84c00e001e290ffd190a1bbd91d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":1309908091,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1309908091,
+    "wof:lastmodified":1536784124,
+    "wof:name":"Bansar",
+    "wof:parent_id":1108692241,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    62.10833,
+    26.02546,
+    62.10833,
+    26.02546
+],
+  "geometry": {"coordinates":[62.10833,26.02546],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1344258071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.95896,34.677,72.95896,34.677",
+    "geom:latitude":34.677,
+    "geom:longitude":72.95896,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chilar",
+    "gn:country_code":"PK",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1482626,
+    "gn:latitude":34.677,
+    "gn:longitude":72.95896,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Chilar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1482626
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0b5b4e16a24ff73b3294bda2656b040b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1344258071,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344258071,
+    "wof:lastmodified":1537084464,
+    "wof:name":"Chilar",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.95896,
+    34.677,
+    72.95896,
+    34.677
+],
+  "geometry": {"coordinates":[72.95896,34.677],"type":"Point"}
+}

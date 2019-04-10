@@ -1,0 +1,78 @@
+{
+  "id": 1210013781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6482,34.14925,73.6482,34.14925",
+    "geom:latitude":34.14925,
+    "geom:longitude":73.6482,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Lassa Jabra",
+    "gn:country_code":"PK",
+    "gn:dem":1851,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379216,
+    "gn:latitude":34.14925,
+    "gn:longitude":73.6482,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Lassa Jabra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379216
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"30785bcbf12aef36300ce596c117f566",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1210013781,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1210013781,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1210013781,
+    "wof:lastmodified":1536396015,
+    "wof:name":"Lassa Jabra",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6482,
+    34.14925,
+    73.6482,
+    34.14925
+],
+  "geometry": {"coordinates":[73.6482,34.14925],"type":"Point"}
+}

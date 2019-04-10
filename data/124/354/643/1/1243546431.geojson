@@ -1,0 +1,81 @@
+{
+  "id": 1243546431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.92997,34.20834,73.92997,34.20834",
+    "geom:latitude":34.20834,
+    "geom:longitude":73.92997,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Rinja",
+    "gn:country_code":"PK",
+    "gn:dem":2167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415751,
+    "gn:latitude":34.20834,
+    "gn:longitude":73.92997,
+    "gn:modification_date":"2015-12-06",
+    "gn:name":"Rinja",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "R\u012bnja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415751
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0e02a918032285d31ab4ffdd3c81bf30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243546431,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1243546431,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1243546431,
+    "wof:lastmodified":1537681369,
+    "wof:name":"Rinja",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.92997,
+    34.20834,
+    73.92997,
+    34.20834
+],
+  "geometry": {"coordinates":[73.92997,34.20834],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1293686285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.6284,30.99441,73.6284,30.99441",
+    "geom:latitude":30.99441,
+    "geom:longitude":73.6284,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kamman",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416852,
+    "gn:latitude":30.99441,
+    "gn:longitude":73.6284,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kamman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692339
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416852
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f43ffa085ccacd2ebd7f725664714366",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":1293686285,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1293686285,
+    "wof:lastmodified":1536997011,
+    "wof:name":"Kamman",
+    "wof:parent_id":1108692339,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.6284,
+    30.99441,
+    73.6284,
+    30.99441
+],
+  "geometry": {"coordinates":[73.6284,30.99441],"type":"Point"}
+}

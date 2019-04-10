@@ -1,0 +1,67 @@
+{
+  "id": 1225945059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14701,34.84274,73.14701,34.84274",
+    "geom:latitude":34.84274,
+    "geom:longitude":73.14701,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sosal",
+    "gn:country_code":"PK",
+    "gn:dem":2414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11418443,
+    "gn:latitude":34.84274,
+    "gn:longitude":73.14701,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Sosal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692141
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11418443
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"84e6949ec1c58129903c0bb2cacf5cee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692141,
+            "locality_id":1225945059,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1225945059,
+    "wof:lastmodified":1543515667,
+    "wof:name":"Sosal",
+    "wof:parent_id":1108692141,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14701,
+    34.84274,
+    73.14701,
+    34.84274
+],
+  "geometry": {"coordinates":[73.14700999999999,34.84274],"type":"Point"}
+}

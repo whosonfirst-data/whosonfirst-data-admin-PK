@@ -1,0 +1,67 @@
+{
+  "id": 1327433667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.86904,27.71123,66.86904,27.71123",
+    "geom:latitude":27.71123,
+    "geom:longitude":66.86904,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Anjiri",
+    "gn:country_code":"PK",
+    "gn:dem":1122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110336,
+    "gn:latitude":27.71123,
+    "gn:longitude":66.86904,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Anjiri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110336
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"696d9ee13ddd3a4eeb6a7ac440986842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692253,
+            "locality_id":1327433667,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1327433667,
+    "wof:lastmodified":1536678966,
+    "wof:name":"Anjiri",
+    "wof:parent_id":1108692253,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.86904,
+    27.71123,
+    66.86904,
+    27.71123
+],
+  "geometry": {"coordinates":[66.86904,27.71123],"type":"Point"}
+}

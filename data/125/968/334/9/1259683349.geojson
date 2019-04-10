@@ -1,0 +1,67 @@
+{
+  "id": 1259683349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.45862,30.13665,73.45862,30.13665",
+    "geom:latitude":30.13665,
+    "geom:longitude":73.45862,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ismailpur",
+    "gn:country_code":"PK",
+    "gn:dem":162,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539785,
+    "gn:latitude":30.13665,
+    "gn:longitude":73.45862,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Ismailpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692127
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539785
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9840e05c6df97fa69e4c70eed4669b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1259683349,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259683349,
+    "wof:lastmodified":1537064369,
+    "wof:name":"Ismailpur",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.45862,
+    30.13665,
+    73.45862,
+    30.13665
+],
+  "geometry": {"coordinates":[73.45862,30.13665],"type":"Point"}
+}

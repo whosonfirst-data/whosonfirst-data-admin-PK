@@ -1,0 +1,67 @@
+{
+  "id": 1343857819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97019,32.81268,72.97019,32.81268",
+    "geom:latitude":32.81268,
+    "geom:longitude":72.97019,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jaswal",
+    "gn:country_code":"PK",
+    "gn:dem":540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1176056,
+    "gn:latitude":32.81268,
+    "gn:longitude":72.97019,
+    "gn:modification_date":"2018-04-06",
+    "gn:name":"Jaswal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1176056
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6ff7be7753fcbee22d4871b4085f33d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692149,
+            "locality_id":1343857819,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1343857819,
+    "wof:lastmodified":1536670395,
+    "wof:name":"Jaswal",
+    "wof:parent_id":1108692149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97019,
+    32.81268,
+    72.97019,
+    32.81268
+],
+  "geometry": {"coordinates":[72.97019,32.81268],"type":"Point"}
+}

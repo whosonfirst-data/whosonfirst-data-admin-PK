@@ -1,0 +1,78 @@
+{
+  "id": 1242572501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.92338,33.07291,73.92338,33.07291",
+    "geom:latitude":33.07291,
+    "geom:longitude":73.92338,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Burhada",
+    "gn:country_code":"PK",
+    "gn:dem":337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386427,
+    "gn:latitude":33.07291,
+    "gn:longitude":73.92338,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Burhada",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386427
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ec691611aa32a134277bfd0c2bf6cfc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242572501,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1242572501,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1242572501,
+    "wof:lastmodified":1537068057,
+    "wof:name":"Burhada",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.92338000000002,
+    33.07291,
+    73.92338000000002,
+    33.07291
+],
+  "geometry": {"coordinates":[73.92338000000002,33.07291],"type":"Point"}
+}

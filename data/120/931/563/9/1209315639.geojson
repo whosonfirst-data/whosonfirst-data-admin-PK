@@ -1,0 +1,67 @@
+{
+  "id": 1209315639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1978,35.04869,73.1978,35.04869",
+    "geom:latitude":35.04869,
+    "geom:longitude":73.1978,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Gadar",
+    "gn:country_code":"PK",
+    "gn:dem":1697,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11045640,
+    "gn:latitude":35.04869,
+    "gn:longitude":73.1978,
+    "gn:modification_date":"2016-01-09",
+    "gn:name":"Gadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11045640
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e06fd715f2579b942e89833f879b154a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1209315639,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1209315639,
+    "wof:lastmodified":1543515564,
+    "wof:name":"Gadar",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1978,
+    35.04869,
+    73.1978,
+    35.04869
+],
+  "geometry": {"coordinates":[73.1978,35.04869],"type":"Point"}
+}

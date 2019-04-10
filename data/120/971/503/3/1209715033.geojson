@@ -1,0 +1,67 @@
+{
+  "id": 1209715033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.49111,33.92655,73.49111,33.92655",
+    "geom:latitude":33.92655,
+    "geom:longitude":73.49111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Band",
+    "gn:country_code":"PK",
+    "gn:dem":1150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180158,
+    "gn:latitude":33.92655,
+    "gn:longitude":73.49111,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Band",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180158
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f9c019f25c69b337a450b699a03bd977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1209715033,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1209715033,
+    "wof:lastmodified":1536388965,
+    "wof:name":"Band",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.49110999999998,
+    33.92655,
+    73.49110999999998,
+    33.92655
+],
+  "geometry": {"coordinates":[73.49110999999998,33.92655],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1310405501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36811,33.61206,72.36811,33.61206",
+    "geom:latitude":33.61206,
+    "geom:longitude":72.36811,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhatiot",
+    "gn:country_code":"PK",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182706,
+    "gn:latitude":33.61206,
+    "gn:longitude":72.36811,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bhatiot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182706
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10ce0006f3ea4b1e4bb58df888a158fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1310405501,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1310405501,
+    "wof:lastmodified":1537058730,
+    "wof:name":"Bhatiot",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36811,
+    33.61206,
+    72.36811,
+    33.61206
+],
+  "geometry": {"coordinates":[72.36811,33.61206],"type":"Point"}
+}

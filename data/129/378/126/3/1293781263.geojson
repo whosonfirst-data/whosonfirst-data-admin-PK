@@ -1,0 +1,78 @@
+{
+  "id": 1293781263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.88615,33.90006,73.88615,33.90006",
+    "geom:latitude":33.90006,
+    "geom:longitude":73.88615,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Ghori Mar Dhok",
+    "gn:country_code":"PK",
+    "gn:dem":2393,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1386074,
+    "gn:latitude":33.90006,
+    "gn:longitude":73.88615,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Ghori Mar Dhok",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1386074
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"975c4a032bd93da076dfcf05d4ac68de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293781263,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1293781263,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1293781263,
+    "wof:lastmodified":1536859313,
+    "wof:name":"Ghori Mar Dhok",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.88615,
+    33.90006,
+    73.88615,
+    33.90006
+],
+  "geometry": {"coordinates":[73.88615,33.90006],"type":"Point"}
+}

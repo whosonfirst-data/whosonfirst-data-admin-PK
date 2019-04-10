@@ -1,0 +1,67 @@
+{
+  "id": 1259482547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9553,32.82122,73.9553,32.82122",
+    "geom:latitude":32.82122,
+    "geom:longitude":73.9553,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhagwal",
+    "gn:country_code":"PK",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182851,
+    "gn:latitude":32.82122,
+    "gn:longitude":73.9553,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Bhagwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182851
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3fc0ef8e99c76a126774cdb324afc663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1259482547,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259482547,
+    "wof:lastmodified":1536858874,
+    "wof:name":"Bhagwal",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9553,
+    32.82122,
+    73.9553,
+    32.82122
+],
+  "geometry": {"coordinates":[73.95529999999999,32.82122],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226066693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.91833,34.25374,73.91833,34.25374",
+    "geom:latitude":34.25374,
+    "geom:longitude":73.91833,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Kojian",
+    "gn:country_code":"PK",
+    "gn:dem":3249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1415822,
+    "gn:latitude":34.25374,
+    "gn:longitude":73.91833,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kojian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692319,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1415822
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9dafe05e88d87201a56203bdc18b2687",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226066693,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692319,
+            "disputed_id":1159339497,
+            "locality_id":1226066693,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1226066693,
+    "wof:lastmodified":1536695250,
+    "wof:name":"Kojian",
+    "wof:parent_id":1108692319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.91833000000003,
+    34.25374,
+    73.91833000000003,
+    34.25374
+],
+  "geometry": {"coordinates":[73.91833000000003,34.25374],"type":"Point"}
+}

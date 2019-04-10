@@ -1,0 +1,67 @@
+{
+  "id": 1293201471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.76939,34.04524,72.76939,34.04524",
+    "geom:latitude":34.04524,
+    "geom:longitude":72.76939,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Baghuno",
+    "gn:country_code":"PK",
+    "gn:dem":971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11421248,
+    "gn:latitude":34.04524,
+    "gn:longitude":72.76939,
+    "gn:modification_date":"2017-01-07",
+    "gn:name":"Baghuno",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11421248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab6366815c36b3cec545fc9294a5efb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1293201471,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1293201471,
+    "wof:lastmodified":1536702700,
+    "wof:name":"Baghuno",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.76939,
+    34.04524,
+    72.76939,
+    34.04524
+],
+  "geometry": {"coordinates":[72.76939,34.04524],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193134507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.02065,33.8264,74.02065,33.8264",
+    "geom:latitude":33.8264,
+    "geom:longitude":74.02065,
+    "gn:admin1_code":"6",
+    "gn:asciiname":"Tehanwala Dhana",
+    "gn:country_code":"PK",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414852,
+    "gn:latitude":33.8264,
+    "gn:longitude":74.02065,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tehanwala Dhana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414852
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"904ac3db3ea7836a0634bc177298b3fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1193134507,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1193134507,
+            "region_id":85675735
+        }
+    ],
+    "wof:id":1193134507,
+    "wof:lastmodified":1536372221,
+    "wof:name":"Tehanwala Dhana",
+    "wof:parent_id":1108692353,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.02065,
+    33.8264,
+    74.02065,
+    33.8264
+],
+  "geometry": {"coordinates":[74.02065,33.8264],"type":"Point"}
+}

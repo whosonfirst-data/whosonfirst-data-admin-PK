@@ -1,0 +1,76 @@
+{
+  "id": 1226454917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.75946,31.52197,69.75946,31.52197",
+    "geom:latitude":31.52197,
+    "geom:longitude":69.75946,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Shna Kazha Kili",
+    "gn:country_code":"PK",
+    "gn:dem":1914,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1339303,
+    "gn:latitude":31.52197,
+    "gn:longitude":69.75946,
+    "gn:modification_date":"2015-02-07",
+    "gn:name":"Shna Kazha Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shna Kazha Kili"
+    ],
+    "name:eng_x_variant":[
+        "Shha Kazha Kili"
+    ],
+    "name:und_x_variant":[
+        "Shha Kazha Kili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675733,
+        1108692375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1339303
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2d45f8c433d007c84ea4118c68daf3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692375,
+            "locality_id":1226454917,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1226454917,
+    "wof:lastmodified":1537680166,
+    "wof:name":"Shna Kazha Kili",
+    "wof:parent_id":1108692375,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.75946,
+    31.52197,
+    69.75946,
+    31.52197
+],
+  "geometry": {"coordinates":[69.75946,31.52197],"type":"Point"}
+}

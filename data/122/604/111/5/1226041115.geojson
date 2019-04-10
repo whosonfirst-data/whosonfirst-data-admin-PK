@@ -1,0 +1,67 @@
+{
+  "id": 1226041115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.19722,27.72778,69.19722,27.72778",
+    "geom:latitude":27.72778,
+    "geom:longitude":69.19722,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Khambir",
+    "gn:country_code":"PK",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":1361488,
+    "gn:latitude":27.72778,
+    "gn:longitude":69.19722,
+    "gn:modification_date":"2001-05-11",
+    "gn:name":"Khamb\u012br",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692191
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361488
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fd67152bc6fc737eab4035c06a164ba2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692191,
+            "locality_id":1226041115,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1226041115,
+    "wof:lastmodified":1536732110,
+    "wof:name":"Khambir",
+    "wof:parent_id":1108692191,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.19722,
+    27.72778,
+    69.19722,
+    27.72778
+],
+  "geometry": {"coordinates":[69.19722,27.72778],"type":"Point"}
+}

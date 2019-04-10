@@ -1,0 +1,67 @@
+{
+  "id": 1193017061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.26547,34.97,72.26547,34.97",
+    "geom:latitude":34.97,
+    "geom:longitude":72.26547,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Talkar",
+    "gn:country_code":"PK",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164031,
+    "gn:latitude":34.97,
+    "gn:longitude":72.26547,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Talkar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164031
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3ed5e2e36746b011ef05dfedf10febc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":1193017061,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193017061,
+    "wof:lastmodified":1543515409,
+    "wof:name":"Talkar",
+    "wof:parent_id":1108692399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.26547,
+    34.97,
+    72.26547,
+    34.97
+],
+  "geometry": {"coordinates":[72.26546999999999,34.97],"type":"Point"}
+}

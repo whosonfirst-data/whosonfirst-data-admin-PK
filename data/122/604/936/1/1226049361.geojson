@@ -1,0 +1,67 @@
+{
+  "id": 1226049361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97162,35.15248,72.97162,35.15248",
+    "geom:latitude":35.15248,
+    "geom:longitude":72.97162,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chilari",
+    "gn:country_code":"PK",
+    "gn:dem":1462,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1479187,
+    "gn:latitude":35.15248,
+    "gn:longitude":72.97162,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Chilari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1479187
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a3a233fd5570a568c4685daa4e3632ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1226049361,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1226049361,
+    "wof:lastmodified":1536720243,
+    "wof:name":"Chilari",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97162,
+    35.15248,
+    72.97162,
+    35.15248
+],
+  "geometry": {"coordinates":[72.97162,35.15248],"type":"Point"}
+}

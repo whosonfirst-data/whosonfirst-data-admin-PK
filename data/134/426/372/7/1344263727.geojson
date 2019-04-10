@@ -1,0 +1,67 @@
+{
+  "id": 1344263727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.39904,35.48666,73.39904,35.48666",
+    "geom:latitude":35.48666,
+    "geom:longitude":73.39904,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Chakara",
+    "gn:country_code":"PK",
+    "gn:dem":1234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11022597,
+    "gn:latitude":35.48666,
+    "gn:longitude":73.39904,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chakara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11022597
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"eb45f1d64c04c75e8b4f494d987be964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692265,
+            "locality_id":1344263727,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1344263727,
+    "wof:lastmodified":1537076265,
+    "wof:name":"Chakara",
+    "wof:parent_id":1108692265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.39904,
+    35.48666,
+    73.39904,
+    35.48666
+],
+  "geometry": {"coordinates":[73.39904,35.48666],"type":"Point"}
+}

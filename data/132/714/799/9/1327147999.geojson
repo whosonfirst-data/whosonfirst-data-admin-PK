@@ -1,0 +1,67 @@
+{
+  "id": 1327147999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.36241,33.19447,70.36241,33.19447",
+    "geom:latitude":33.19447,
+    "geom:longitude":70.36241,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Fateh Khel",
+    "gn:country_code":"PK",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1345228,
+    "gn:latitude":33.19447,
+    "gn:longitude":70.36241,
+    "gn:modification_date":"2014-10-02",
+    "gn:name":"Fateh Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675749,
+        890422345
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1345228
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"acd86730f58789d97edac61e80399a1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890422345,
+            "locality_id":1327147999,
+            "region_id":85675749
+        }
+    ],
+    "wof:id":1327147999,
+    "wof:lastmodified":1537088194,
+    "wof:name":"Fateh Khel",
+    "wof:parent_id":890422345,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.36241,
+    33.19447,
+    70.36241,
+    33.19447
+],
+  "geometry": {"coordinates":[70.36241,33.19447],"type":"Point"}
+}

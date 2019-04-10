@@ -1,0 +1,67 @@
+{
+  "id": 1343950943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.14567,27.33912,69.14567,27.33912",
+    "geom:latitude":27.33912,
+    "geom:longitude":69.14567,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Ghob",
+    "gn:country_code":"PK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361596,
+    "gn:latitude":27.33912,
+    "gn:longitude":69.14567,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Ghob",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675757,
+        1108692395
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361596
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2aece9a82fe1bc40ca6547b2910793bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1343950943,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1343950943,
+    "wof:lastmodified":1537032383,
+    "wof:name":"Ghob",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.14567,
+    27.33912,
+    69.14567,
+    27.33912
+],
+  "geometry": {"coordinates":[69.14567,27.33912],"type":"Point"}
+}

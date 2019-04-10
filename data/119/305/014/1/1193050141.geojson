@@ -1,0 +1,70 @@
+{
+  "id": 1193050141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.58349,30.93119,70.58349,30.93119",
+    "geom:latitude":30.93119,
+    "geom:longitude":70.58349,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khorka",
+    "gn:country_code":"PK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419363,
+    "gn:latitude":30.93119,
+    "gn:longitude":70.58349,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Khorka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Khorke"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419363
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ce0e867cf961e1f8a0e785da8a86ebe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1193050141,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1193050141,
+    "wof:lastmodified":1537681445,
+    "wof:name":"Khorka",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.58349,
+    30.93119,
+    70.58349,
+    30.93119
+],
+  "geometry": {"coordinates":[70.58349,30.93119],"type":"Point"}
+}

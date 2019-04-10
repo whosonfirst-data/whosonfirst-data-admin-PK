@@ -1,0 +1,67 @@
+{
+  "id": 1226265977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.03042,32.18313,75.03042,32.18313",
+    "geom:latitude":32.18313,
+    "geom:longitude":75.03042,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aldlakh",
+    "gn:country_code":"PK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081748,
+    "gn:latitude":32.18313,
+    "gn:longitude":75.03042,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Aldlakh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081748
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"161475c5ab870c380f1b4bcc7c7dbf59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1226265977,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1226265977,
+    "wof:lastmodified":1536904663,
+    "wof:name":"Aldlakh",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.03041999999998,
+    32.18313,
+    75.03041999999998,
+    32.18313
+],
+  "geometry": {"coordinates":[75.03041999999998,32.18313],"type":"Point"}
+}

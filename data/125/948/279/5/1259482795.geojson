@@ -1,0 +1,67 @@
+{
+  "id": 1259482795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.12858,32.46597,72.12858,32.46597",
+    "geom:latitude":32.46597,
+    "geom:longitude":72.12858,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kawadh",
+    "gn:country_code":"PK",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1370755,
+    "gn:latitude":32.46597,
+    "gn:longitude":72.12858,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Kawadh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692251
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1370755
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7eef4ed5fa90bb45365c95a30ea841b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1259482795,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1259482795,
+    "wof:lastmodified":1536858532,
+    "wof:name":"Kawadh",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.12858,
+    32.46597,
+    72.12858,
+    32.46597
+],
+  "geometry": {"coordinates":[72.12858,32.46597],"type":"Point"}
+}

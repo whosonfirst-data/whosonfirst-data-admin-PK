@@ -1,0 +1,67 @@
+{
+  "id": 1343459479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.77164,35.39092,71.77164,35.39092",
+    "geom:latitude":35.39092,
+    "geom:longitude":71.77164,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bezogah",
+    "gn:country_code":"PK",
+    "gn:dem":2079,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11137975,
+    "gn:latitude":35.39092,
+    "gn:longitude":71.77164,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Bezogah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675763,
+        1108692157
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11137975
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f66dd4486eaf35775ebc4b0c5b58a0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692157,
+            "locality_id":1343459479,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1343459479,
+    "wof:lastmodified":1536747375,
+    "wof:name":"Bezogah",
+    "wof:parent_id":1108692157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.77164,
+    35.39092,
+    71.77164,
+    35.39092
+],
+  "geometry": {"coordinates":[71.77164,35.39092],"type":"Point"}
+}

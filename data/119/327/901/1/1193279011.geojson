@@ -1,0 +1,70 @@
+{
+  "id": 1193279011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.7213,33.57905,70.7213,33.57905",
+    "geom:latitude":33.57905,
+    "geom:longitude":70.7213,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Garde",
+    "gn:country_code":"PK",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1110398,
+    "gn:latitude":33.57905,
+    "gn:longitude":70.7213,
+    "gn:modification_date":"2015-02-05",
+    "gn:name":"Garde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gardai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360701001,
+        1108692271
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1110398
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c0706fb06661de8a495a039df420515d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692271,
+            "locality_id":1193279011,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1193279011,
+    "wof:lastmodified":1543515566,
+    "wof:name":"Garde",
+    "wof:parent_id":1108692271,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.7213,
+    33.57905,
+    70.7213,
+    33.57905
+],
+  "geometry": {"coordinates":[70.7213,33.57905],"type":"Point"}
+}

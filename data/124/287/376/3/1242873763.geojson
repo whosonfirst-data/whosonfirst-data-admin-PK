@@ -1,0 +1,67 @@
+{
+  "id": 1242873763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73244,32.63537,73.73244,32.63537",
+    "geom:latitude":32.63537,
+    "geom:longitude":73.73244,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Malakpura",
+    "gn:country_code":"PK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449398,
+    "gn:latitude":32.63537,
+    "gn:longitude":73.73244,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Malakpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        85675753,
+        1108692197
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449398
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"79dbd31c87ad6bd8dfef7c687b3fbe1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1242873763,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1242873763,
+    "wof:lastmodified":1536635877,
+    "wof:name":"Malakpura",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73244,
+    32.63537,
+    73.73244,
+    32.63537
+],
+  "geometry": {"coordinates":[73.73244,32.63537],"type":"Point"}
+}
