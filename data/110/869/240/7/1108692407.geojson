@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157643,
-    "geom:area_square_m":1648645845.623943,
+    "geom:area_square_m":1648645845.623953,
     "geom:bbox":"70.0777622316,31.9777056535,70.7083646454,32.5087233552",
     "geom:latitude":32.245268,
     "geom:longitude":70.391477,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Tank District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Tank"
+    ],
     "lbl:latitude":32.245328,
     "lbl:longitude":70.41297,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -29,13 +38,17 @@
         "\u5766\u514b\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Tank District"
+        "Tank"
     ],
     "name:eng_x_variant":[
         "Tank District",
-        "Dera Ismail Khan"
+        "Dera Ismail Khan",
+        "Tank"
     ],
     "name:fre_x_preferred":[
+        "Tank"
+    ],
+    "name:fre_x_variant":[
         "district de Tank"
     ],
     "name:hin_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692407,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047526,
     "wof:name":"Tank",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

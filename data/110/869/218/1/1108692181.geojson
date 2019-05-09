@@ -10,6 +10,12 @@
     "geom:latitude":33.737231,
     "geom:longitude":71.715817,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Peshawar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.743957,
     "lbl:longitude":71.739534,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -25,9 +31,13 @@
     "mps:longitude":71.739534,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Peshawar"
+    ],
     "name:eng_x_variant":[
         "Tribal Area Adj Peshawar Distt",
-        "F.A.T.A."
+        "F.A.T.A.",
+        "FR Peshawar"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":1108692181,
-    "wof:lastmodified":1543515225,
-    "wof:name":"FR Peshawar",
+    "wof:lastmodified":1555047520,
+    "wof:name":"Peshawar",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

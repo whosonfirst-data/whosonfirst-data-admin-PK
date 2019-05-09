@@ -10,6 +10,15 @@
     "geom:latitude":29.956818,
     "geom:longitude":69.623811,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Barkhan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Barkhan"
+    ],
     "lbl:latitude":29.883997,
     "lbl:longitude":69.631489,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Barkhan"
     ],
     "name:eng_x_preferred":[
-        "Barkhan District"
+        "Barkhan"
     ],
     "name:eng_x_variant":[
         "Barkhan District",
-        "Zhob"
+        "Zhob",
+        "Barkhan"
     ],
     "name:fre_x_preferred":[
+        "Barkhan"
+    ],
+    "name:fre_x_variant":[
         "district de Barkhan"
     ],
     "name:ger_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692139,
-    "wof:lastmodified":1536615241,
+    "wof:lastmodified":1555047518,
     "wof:name":"Barkhan",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

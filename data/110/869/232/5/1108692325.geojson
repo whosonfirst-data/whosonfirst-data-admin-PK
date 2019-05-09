@@ -10,6 +10,15 @@
     "geom:latitude":32.20906,
     "geom:longitude":74.996196,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Narowal District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Narowal"
+    ],
     "lbl:latitude":32.236149,
     "lbl:longitude":75.028791,
     "meso:admin_1":"Punjab",
@@ -32,13 +41,17 @@
         "Narowal District"
     ],
     "name:eng_x_preferred":[
-        "Narowal District"
+        "Narowal"
     ],
     "name:eng_x_variant":[
         "Narowal District",
-        "Gujranwala"
+        "Gujranwala",
+        "Narowal"
     ],
     "name:fre_x_preferred":[
+        "Narowal"
+    ],
+    "name:fre_x_variant":[
         "district de Narowal"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692325,
-    "wof:lastmodified":1536615246,
+    "wof:lastmodified":1555047524,
     "wof:name":"Narowal",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

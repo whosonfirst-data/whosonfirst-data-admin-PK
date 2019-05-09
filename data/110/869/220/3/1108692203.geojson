@@ -10,6 +10,15 @@
     "geom:latitude":33.427422,
     "geom:longitude":70.839946,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Hangu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kohat"
+    ],
     "lbl:latitude":33.435033,
     "lbl:longitude":70.845426,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,17 @@
         "\u79d1\u54c8\u7279\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Kohat District"
+        "Hangu"
     ],
     "name:eng_x_variant":[
         "Hangu District",
-        "Kohat"
+        "Kohat",
+        "Hangu"
     ],
     "name:fre_x_preferred":[
+        "Kohat"
+    ],
+    "name:fre_x_variant":[
         "district de Kohat"
     ],
     "name:hin_x_preferred":[
@@ -92,7 +105,7 @@
         }
     ],
     "wof:id":1108692203,
-    "wof:lastmodified":1543515226,
+    "wof:lastmodified":1555047520,
     "wof:name":"Hangu",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

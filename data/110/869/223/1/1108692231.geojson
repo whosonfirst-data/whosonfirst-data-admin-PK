@@ -10,6 +10,15 @@
     "geom:latitude":28.894294,
     "geom:longitude":66.582684,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kalat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kalat"
+    ],
     "lbl:latitude":28.93679,
     "lbl:longitude":66.458334,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,16 @@
         "Kalat District"
     ],
     "name:eng_x_preferred":[
-        "Kalat District"
+        "Kalat"
     ],
     "name:eng_x_variant":[
         "Kalat District",
         "Kalat"
     ],
     "name:fre_x_preferred":[
+        "Kalat"
+    ],
+    "name:fre_x_variant":[
         "district de Kalat"
     ],
     "name:ger_x_preferred":[
@@ -98,7 +110,7 @@
         }
     ],
     "wof:id":1108692231,
-    "wof:lastmodified":1536615243,
+    "wof:lastmodified":1555047521,
     "wof:name":"Kalat",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

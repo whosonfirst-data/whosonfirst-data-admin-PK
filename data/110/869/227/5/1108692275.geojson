@@ -10,6 +10,15 @@
     "geom:latitude":32.600077,
     "geom:longitude":70.83065,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Lakki Marwat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Lakki Marwat"
+    ],
     "lbl:latitude":32.585521,
     "lbl:longitude":70.838562,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -29,13 +38,17 @@
         "\u62c9\u57fa\u739b\u74e6\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Lakki Marwat District"
+        "Lakki Marwat"
     ],
     "name:eng_x_variant":[
         "Lakki Marwat District",
-        "Bannu"
+        "Bannu",
+        "Lakki Marwat"
     ],
     "name:fre_x_preferred":[
+        "Lakki Marwat"
+    ],
+    "name:fre_x_variant":[
         "district de Lakki Marwat"
     ],
     "name:ger_x_preferred":[
@@ -98,7 +111,7 @@
         }
     ],
     "wof:id":1108692275,
-    "wof:lastmodified":1543515228,
+    "wof:lastmodified":1555047523,
     "wof:name":"Lakki Marwat",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

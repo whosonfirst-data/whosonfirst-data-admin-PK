@@ -10,6 +10,15 @@
     "geom:latitude":30.964463,
     "geom:longitude":68.322495,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Killa Saifullah District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Killa Saifullah"
+    ],
     "lbl:latitude":30.931283,
     "lbl:longitude":68.307949,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Killa Saifullah District"
     ],
     "name:eng_x_preferred":[
-        "Killa Saifullah District"
+        "Killa Saifullah"
     ],
     "name:eng_x_variant":[
         "Killa Saifullah District",
-        "Zhob"
+        "Zhob",
+        "Killa Saifullah"
     ],
     "name:fre_x_preferred":[
+        "Killa Saifullah"
+    ],
+    "name:fre_x_variant":[
         "district de Killa Saifullah"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692259,
-    "wof:lastmodified":1536615244,
+    "wof:lastmodified":1555047522,
     "wof:name":"Killa Saifullah",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

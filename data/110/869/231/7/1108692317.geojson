@@ -10,6 +10,15 @@
     "geom:latitude":30.86959,
     "geom:longitude":69.918375,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Musakhel District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Musakhel"
+    ],
     "lbl:latitude":30.871448,
     "lbl:longitude":69.924752,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Musakhel District"
     ],
     "name:eng_x_preferred":[
-        "Musakhel District"
+        "Musakhel"
     ],
     "name:eng_x_variant":[
         "Musakhel District",
-        "Zhob"
+        "Zhob",
+        "Musakhel"
     ],
     "name:fre_x_preferred":[
+        "Musakhel"
+    ],
+    "name:fre_x_variant":[
         "district de Musakhel"
     ],
     "name:ger_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692317,
-    "wof:lastmodified":1536615246,
+    "wof:lastmodified":1555047523,
     "wof:name":"Musakhel",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.141133,
-    "geom:area_square_m":1575603227.222712,
+    "geom:area_square_m":1575603227.222717,
     "geom:bbox":"68.5774122534,25.2070572378,68.9988268002,25.7616067261",
     "geom:latitude":25.464219,
     "geom:longitude":68.782391,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Tando Allah Yar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Hyderabad"
+    ],
     "lbl:latitude":25.432954,
     "lbl:longitude":68.765336,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Hyderabad District"
     ],
     "name:eng_x_preferred":[
-        "Hyderabad District"
+        "Tando Allah Yar"
     ],
     "name:eng_x_variant":[
         "Hyderabad District",
-        "Hyderabad"
+        "Hyderabad",
+        "Tando Allah Yar"
     ],
     "name:fre_x_preferred":[
+        "Hyderabad"
+    ],
+    "name:fre_x_variant":[
         "district d'Hyderabad"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692401,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047526,
     "wof:name":"Tando Allah Yar",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

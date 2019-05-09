@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.582911,
-    "geom:area_square_m":17478654808.174507,
+    "geom:area_square_m":17478654808.173611,
     "geom:bbox":"63.0782657355,26.1469755139,65.3395379062,27.2905214494",
     "geom:latitude":26.746542,
     "geom:longitude":64.15582,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Panjgur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Panjgur"
+    ],
     "lbl:latitude":26.651873,
     "lbl:longitude":64.154811,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Panjgur District"
     ],
     "name:eng_x_preferred":[
-        "Panjgur District"
+        "Panjgur"
     ],
     "name:eng_x_variant":[
         "Panjgur District",
-        "Makran"
+        "Makran",
+        "Panjgur"
     ],
     "name:fre_x_preferred":[
+        "Panjgur"
+    ],
+    "name:fre_x_variant":[
         "district de Panjgur"
     ],
     "name:ger_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692345,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047524,
     "wof:name":"Panjgur",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

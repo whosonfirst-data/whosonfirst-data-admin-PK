@@ -10,6 +10,15 @@
     "geom:latitude":27.465818,
     "geom:longitude":66.645386,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Khuzdar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Khuzdar"
+    ],
     "lbl:latitude":27.49821,
     "lbl:longitude":66.556155,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Khuzdar District"
     ],
     "name:eng_x_preferred":[
-        "Khuzdar District"
+        "Khuzdar"
     ],
     "name:eng_x_variant":[
         "Khuzdar District",
-        "Kalat"
+        "Kalat",
+        "Khuzdar"
     ],
     "name:fre_x_preferred":[
+        "Khuzdar"
+    ],
+    "name:fre_x_variant":[
         "district de Khuzdar"
     ],
     "name:ger_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692253,
-    "wof:lastmodified":1536615244,
+    "wof:lastmodified":1555047522,
     "wof:name":"Khuzdar",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

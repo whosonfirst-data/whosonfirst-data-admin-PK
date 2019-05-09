@@ -10,6 +10,15 @@
     "geom:latitude":24.783275,
     "geom:longitude":70.184054,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Tharparkar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Tharparkar"
+    ],
     "lbl:latitude":24.768786,
     "lbl:longitude":70.184026,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Tharparkar District"
     ],
     "name:eng_x_preferred":[
-        "Tharparkar District"
+        "Tharparkar"
     ],
     "name:eng_x_variant":[
         "Tharparkar District",
-        "Mirpur Khas"
+        "Mirpur Khas",
+        "Tharparkar"
     ],
     "name:fre_x_preferred":[
+        "Tharparkar"
+    ],
+    "name:fre_x_variant":[
         "district de Tharparkar"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692409,
-    "wof:lastmodified":1536615248,
+    "wof:lastmodified":1555047526,
     "wof:name":"Tharparkar",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

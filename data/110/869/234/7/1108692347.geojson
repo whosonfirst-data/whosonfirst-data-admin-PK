@@ -10,6 +10,15 @@
     "geom:latitude":33.972483,
     "geom:longitude":71.568948,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Peshawar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Peshawar"
+    ],
     "lbl:latitude":33.977269,
     "lbl:longitude":71.572861,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,16 @@
         "\u767d\u6c99\u74e6\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Peshawar District"
+        "Peshawar"
     ],
     "name:eng_x_variant":[
         "Peshawar District",
         "Peshawar"
     ],
     "name:fre_x_preferred":[
+        "Peshawar"
+    ],
+    "name:fre_x_variant":[
         "district de Peshawar"
     ],
     "name:jpn_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108692347,
-    "wof:lastmodified":1543515229,
+    "wof:lastmodified":1555047524,
     "wof:name":"Peshawar",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

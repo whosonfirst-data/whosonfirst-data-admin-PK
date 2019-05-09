@@ -10,6 +10,15 @@
     "geom:latitude":27.820233,
     "geom:longitude":69.643451,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Ghotki District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Ghotki"
+    ],
     "lbl:latitude":27.833104,
     "lbl:longitude":69.635845,
     "meso:admin_1":"Sindh",
@@ -32,13 +41,17 @@
         "Ghotki District"
     ],
     "name:eng_x_preferred":[
-        "Ghotki District"
+        "Ghotki"
     ],
     "name:eng_x_variant":[
         "Ghotki District",
-        "Sukkur"
+        "Sukkur",
+        "Ghotki"
     ],
     "name:fre_x_preferred":[
+        "Ghotki"
+    ],
+    "name:fre_x_variant":[
         "district de Ghotki"
     ],
     "name:ita_x_preferred":[
@@ -83,7 +96,7 @@
         }
     ],
     "wof:id":1108692191,
-    "wof:lastmodified":1536615242,
+    "wof:lastmodified":1555047520,
     "wof:name":"Ghotki",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

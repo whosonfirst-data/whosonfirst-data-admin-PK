@@ -10,6 +10,12 @@
     "geom:latitude":31.577082,
     "geom:longitude":70.149503,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Dera Ismail Khan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.610295,
     "lbl:longitude":70.126593,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -25,9 +31,13 @@
     "mps:longitude":70.126593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Dera Ismail Khan"
+    ],
     "name:eng_x_variant":[
         "Tribal Area Adj D.I.Khan Distt",
-        "F.A.T.A."
+        "F.A.T.A.",
+        "FR Dera Ismail Khan"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":1108692175,
-    "wof:lastmodified":1543515225,
-    "wof:name":"FR Dera Ismail Khan",
+    "wof:lastmodified":1555047520,
+    "wof:name":"Dera Ismail Khan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

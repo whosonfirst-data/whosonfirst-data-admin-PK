@@ -10,6 +10,12 @@
     "geom:latitude":25.074963,
     "geom:longitude":67.200156,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Karachi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":24.984695,
     "lbl:longitude":67.238928,
     "meso:admin_1":"Sindh",
@@ -25,9 +31,13 @@
     "mps:longitude":67.238928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Karachi"
+    ],
     "name:eng_x_variant":[
         "Karachi West District",
-        "Karachi"
+        "Karachi",
+        "Karachi City"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":1108692233,
-    "wof:lastmodified":1536615243,
-    "wof:name":"Karachi City",
+    "wof:lastmodified":1555047521,
+    "wof:name":"Karachi",
     "wof:parent_id":85675757,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

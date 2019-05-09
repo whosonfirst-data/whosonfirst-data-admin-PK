@@ -10,6 +10,15 @@
     "geom:latitude":34.314076,
     "geom:longitude":72.101393,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Mardan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Mardan"
+    ],
     "lbl:latitude":34.311565,
     "lbl:longitude":72.070604,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -29,13 +38,16 @@
         "\u9a6c\u5c14\u4e39\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Mardan District"
+        "Mardan"
     ],
     "name:eng_x_variant":[
         "Mardan District",
         "Mardan"
     ],
     "name:fre_x_preferred":[
+        "Mardan"
+    ],
+    "name:fre_x_variant":[
         "district de Mardan"
     ],
     "name:jpn_x_preferred":[
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":1108692299,
-    "wof:lastmodified":1543515228,
+    "wof:lastmodified":1555047523,
     "wof:name":"Mardan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

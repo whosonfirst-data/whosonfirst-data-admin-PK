@@ -10,6 +10,15 @@
     "geom:latitude":24.72578,
     "geom:longitude":67.733695,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Thatta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Thatta"
+    ],
     "lbl:latitude":24.617001,
     "lbl:longitude":67.727604,
     "meso:admin_1":"Sindh",
@@ -32,13 +41,17 @@
         "Thatta"
     ],
     "name:eng_x_preferred":[
-        "Thatta District"
+        "Thatta"
     ],
     "name:eng_x_variant":[
         "Thatta District",
-        "Hyderabad"
+        "Hyderabad",
+        "Thatta"
     ],
     "name:fre_x_preferred":[
+        "Thatta"
+    ],
+    "name:fre_x_variant":[
         "district de Thatta"
     ],
     "name:ita_x_preferred":[
@@ -83,7 +96,7 @@
         }
     ],
     "wof:id":1108692411,
-    "wof:lastmodified":1536615248,
+    "wof:lastmodified":1555047526,
     "wof:name":"Thatta",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

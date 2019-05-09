@@ -10,6 +10,12 @@
     "geom:latitude":31.460256,
     "geom:longitude":74.357056,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Lahore District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":31.455916,
     "lbl:longitude":74.351981,
     "meso:admin_1":"Punjab",
@@ -35,7 +41,7 @@
         "Lahore District"
     ],
     "name:eng_x_preferred":[
-        "Lahore District"
+        "Lahore"
     ],
     "name:eng_x_variant":[
         "Lahore District",
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1108692273,
-    "wof:lastmodified":1536615245,
+    "wof:lastmodified":1555047523,
     "wof:name":"Lahore",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

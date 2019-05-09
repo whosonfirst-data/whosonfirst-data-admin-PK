@@ -10,6 +10,15 @@
     "geom:latitude":33.457486,
     "geom:longitude":71.537403,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kohat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kohat"
+    ],
     "lbl:latitude":33.472182,
     "lbl:longitude":71.424341,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,16 @@
         "\u79d1\u54c8\u7279\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Kohat District"
+        "Kohat"
     ],
     "name:eng_x_variant":[
         "Kohat District",
         "Kohat"
     ],
     "name:fre_x_preferred":[
+        "Kohat"
+    ],
+    "name:fre_x_variant":[
         "district de Kohat"
     ],
     "name:hin_x_preferred":[
@@ -92,7 +104,7 @@
         }
     ],
     "wof:id":1108692263,
-    "wof:lastmodified":1543515227,
+    "wof:lastmodified":1555047522,
     "wof:name":"Kohat",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

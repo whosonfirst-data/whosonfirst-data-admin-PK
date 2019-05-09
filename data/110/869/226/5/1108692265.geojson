@@ -10,6 +10,15 @@
     "geom:latitude":35.329575,
     "geom:longitude":73.229935,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kohistan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District du Kohistan"
+    ],
     "lbl:latitude":35.28462,
     "lbl:longitude":73.17858,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,17 @@
         "\u79d1\u4f0a\u65af\u5766\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Kohistan District"
+        "Kohistan"
     ],
     "name:eng_x_variant":[
         "Kohistan District",
-        "Hazara"
+        "Hazara",
+        "Kohistan"
     ],
     "name:fre_x_preferred":[
+        "Kohistan"
+    ],
+    "name:fre_x_variant":[
         "district du Kohistan"
     ],
     "name:ger_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692265,
-    "wof:lastmodified":1543515227,
+    "wof:lastmodified":1555047522,
     "wof:name":"Kohistan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

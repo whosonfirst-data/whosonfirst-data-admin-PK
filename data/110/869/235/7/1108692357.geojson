@@ -10,6 +10,15 @@
     "geom:latitude":28.416212,
     "geom:longitude":70.528556,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Rahim Yar Khan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Bahawalpur"
+    ],
     "lbl:latitude":28.430609,
     "lbl:longitude":70.55693,
     "meso:admin_1":"Punjab",
@@ -32,16 +41,20 @@
         "Bahawalpur District"
     ],
     "name:eng_x_preferred":[
-        "Bahawalpur District"
+        "Rahim Yar Khan"
     ],
     "name:eng_x_variant":[
         "Rahim Yar Khan District",
-        "Bahawalpur"
+        "Bahawalpur",
+        "Rahim Yar Khan"
     ],
     "name:fin_x_preferred":[
         "Bahawalpurin piirikunta"
     ],
     "name:fre_x_preferred":[
+        "Bahawalpur"
+    ],
+    "name:fre_x_variant":[
         "district de Bahawalpur"
     ],
     "name:hin_x_preferred":[
@@ -104,7 +117,7 @@
         }
     ],
     "wof:id":1108692357,
-    "wof:lastmodified":1536615247,
+    "wof:lastmodified":1555047524,
     "wof:name":"Rahim Yar Khan",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

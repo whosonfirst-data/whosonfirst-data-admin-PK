@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":700000,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Loralai District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Loralai"
+    ],
     "lbl:latitude":30.293959,
     "lbl:longitude":69.057589,
     "meso:admin_1":"Balochistan",
@@ -38,13 +47,17 @@
         "Loralai District"
     ],
     "name:eng_x_preferred":[
-        "Loralai District"
+        "Loralai"
     ],
     "name:eng_x_variant":[
         "Loralai District",
-        "Zhob"
+        "Zhob",
+        "Loralai"
     ],
     "name:fre_x_preferred":[
+        "Loralai"
+    ],
+    "name:fre_x_variant":[
         "district de Loralai"
     ],
     "name:ger_x_preferred":[
@@ -107,7 +120,7 @@
         }
     ],
     "wof:id":890420091,
-    "wof:lastmodified":1536617371,
+    "wof:lastmodified":1555047517,
     "wof:name":"Loralai",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

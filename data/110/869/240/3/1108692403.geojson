@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.137788,
-    "geom:area_square_m":1544067506.416283,
+    "geom:area_square_m":1544067506.416321,
     "geom:bbox":"68.2547980146,24.7570137645,68.7534404354,25.2906540096",
     "geom:latitude":25.006075,
     "geom:longitude":68.478868,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Tando Muhammad Khan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Hyderabad"
+    ],
     "lbl:latitude":25.013713,
     "lbl:longitude":68.441099,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Hyderabad District"
     ],
     "name:eng_x_preferred":[
-        "Hyderabad District"
+        "Tando Muhammad Khan"
     ],
     "name:eng_x_variant":[
         "Hyderabad District",
-        "Hyderabad"
+        "Hyderabad",
+        "Tando Muhammad Khan"
     ],
     "name:fre_x_preferred":[
+        "Hyderabad"
+    ],
+    "name:fre_x_variant":[
         "district d'Hyderabad"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692403,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047526,
     "wof:name":"Tando Muhammad Khan",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

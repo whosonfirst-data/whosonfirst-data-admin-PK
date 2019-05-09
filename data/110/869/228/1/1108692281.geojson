@@ -10,6 +10,15 @@
     "geom:latitude":25.798091,
     "geom:longitude":66.643821,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Las Bela District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Lasbela"
+    ],
     "lbl:latitude":25.810346,
     "lbl:longitude":66.660399,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Lasbela District"
     ],
     "name:eng_x_preferred":[
-        "Lasbela District"
+        "Las Bela"
     ],
     "name:eng_x_variant":[
         "Lasbela District",
-        "Kalat"
+        "Kalat",
+        "Las Bela"
     ],
     "name:fre_x_preferred":[
+        "Lasbela"
+    ],
+    "name:fre_x_variant":[
         "district de Lasbela"
     ],
     "name:ger_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692281,
-    "wof:lastmodified":1536615245,
+    "wof:lastmodified":1555047523,
     "wof:name":"Las Bela",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

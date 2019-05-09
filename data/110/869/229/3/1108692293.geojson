@@ -10,6 +10,15 @@
     "geom:latitude":32.435656,
     "geom:longitude":73.452933,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Mandi Bahauddin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Mandi Bahauddin"
+    ],
     "lbl:latitude":32.455408,
     "lbl:longitude":73.424217,
     "meso:admin_1":"Punjab",
@@ -32,13 +41,17 @@
         "Mandi Bahauddin District"
     ],
     "name:eng_x_preferred":[
-        "Mandi Bahauddin District"
+        "Mandi Bahauddin"
     ],
     "name:eng_x_variant":[
         "Mandi Bahauddin District",
-        "Gujranwala"
+        "Gujranwala",
+        "Mandi Bahauddin"
     ],
     "name:fre_x_preferred":[
+        "Mandi Bahauddin"
+    ],
+    "name:fre_x_variant":[
         "district de Mandi Bahauddin"
     ],
     "name:hin_x_preferred":[
@@ -92,7 +105,7 @@
         }
     ],
     "wof:id":1108692293,
-    "wof:lastmodified":1536615245,
+    "wof:lastmodified":1555047523,
     "wof:name":"Mandi Bahauddin",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

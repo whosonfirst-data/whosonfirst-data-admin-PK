@@ -10,6 +10,15 @@
     "geom:latitude":26.86855,
     "geom:longitude":67.501857,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Dadu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Dadu"
+    ],
     "lbl:latitude":26.868127,
     "lbl:longitude":67.494839,
     "meso:admin_1":"Sindh",
@@ -32,13 +41,17 @@
         "Dadu District"
     ],
     "name:eng_x_preferred":[
-        "Dadu District"
+        "Dadu"
     ],
     "name:eng_x_variant":[
         "Dadu District",
-        "Hyderabad"
+        "Hyderabad",
+        "Dadu"
     ],
     "name:fre_x_preferred":[
+        "Dadu"
+    ],
+    "name:fre_x_variant":[
         "district de Dadu"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692159,
-    "wof:lastmodified":1536615242,
+    "wof:lastmodified":1555047519,
     "wof:name":"Dadu",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

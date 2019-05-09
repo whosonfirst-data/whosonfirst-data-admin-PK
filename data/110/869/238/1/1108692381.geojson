@@ -10,6 +10,15 @@
     "geom:latitude":32.412039,
     "geom:longitude":74.540415,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Sialkot District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sialkot"
+    ],
     "lbl:latitude":32.410461,
     "lbl:longitude":74.483955,
     "meso:admin_1":"Punjab",
@@ -35,13 +44,17 @@
         "Sialkot District"
     ],
     "name:eng_x_preferred":[
-        "Sialkot District"
+        "Sialkot"
     ],
     "name:eng_x_variant":[
         "Sialkot District",
-        "Gujranwala"
+        "Gujranwala",
+        "Sialkot"
     ],
     "name:fre_x_preferred":[
+        "Sialkot"
+    ],
+    "name:fre_x_variant":[
         "district de Sialkot"
     ],
     "name:hin_x_preferred":[
@@ -98,7 +111,7 @@
         }
     ],
     "wof:id":1108692381,
-    "wof:lastmodified":1536615247,
+    "wof:lastmodified":1555047525,
     "wof:name":"Sialkot",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

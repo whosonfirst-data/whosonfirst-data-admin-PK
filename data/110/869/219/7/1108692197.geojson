@@ -10,6 +10,15 @@
     "geom:latitude":32.722868,
     "geom:longitude":73.995302,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Gujrat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Gujrat"
+    ],
     "lbl:latitude":32.70856,
     "lbl:longitude":73.965638,
     "meso:admin_1":"Punjab",
@@ -35,13 +44,17 @@
         "Gujrat District"
     ],
     "name:eng_x_preferred":[
-        "Gujrat District"
+        "Gujrat"
     ],
     "name:eng_x_variant":[
         "Gujrat District",
-        "Gujranwala"
+        "Gujranwala",
+        "Gujrat"
     ],
     "name:fre_x_preferred":[
+        "Gujrat"
+    ],
+    "name:fre_x_variant":[
         "district de Gujrat"
     ],
     "name:hin_x_preferred":[
@@ -116,7 +129,7 @@
         }
     ],
     "wof:id":1108692197,
-    "wof:lastmodified":1536615242,
+    "wof:lastmodified":1555047520,
     "wof:name":"Gujrat",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

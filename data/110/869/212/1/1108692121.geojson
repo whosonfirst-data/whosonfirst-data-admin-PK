@@ -10,6 +10,15 @@
     "geom:latitude":26.200519,
     "geom:longitude":65.387691,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Awaran District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Awaran"
+    ],
     "lbl:latitude":26.213349,
     "lbl:longitude":65.459785,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Awaran"
     ],
     "name:eng_x_preferred":[
-        "Awaran District"
+        "Awaran"
     ],
     "name:eng_x_variant":[
         "Awaran District",
-        "Kalat"
+        "Kalat",
+        "Awaran"
     ],
     "name:fre_x_preferred":[
+        "Awaran"
+    ],
+    "name:fre_x_variant":[
         "district d'Awaran"
     ],
     "name:ger_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692121,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1555047518,
     "wof:name":"Awaran",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

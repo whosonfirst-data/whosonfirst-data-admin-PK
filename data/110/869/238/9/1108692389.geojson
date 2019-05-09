@@ -10,6 +10,12 @@
     "geom:latitude":32.316075,
     "geom:longitude":69.750993,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "South Waziristan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.393384,
     "lbl:longitude":69.790916,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -25,9 +31,13 @@
     "mps:longitude":69.790916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "South Waziristan"
+    ],
     "name:eng_x_variant":[
         "South Waziristan Agency",
-        "F.A.T.A."
+        "F.A.T.A.",
+        "South Waziristan Agency"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":1108692389,
-    "wof:lastmodified":1543515230,
-    "wof:name":"South Waziristan Agency",
+    "wof:lastmodified":1555047525,
+    "wof:name":"South Waziristan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

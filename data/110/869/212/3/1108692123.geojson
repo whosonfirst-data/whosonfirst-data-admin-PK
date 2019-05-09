@@ -10,6 +10,15 @@
     "geom:latitude":24.728916,
     "geom:longitude":68.844326,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Badin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Badin"
+    ],
     "lbl:latitude":24.696813,
     "lbl:longitude":68.933699,
     "meso:admin_1":"Sindh",
@@ -32,13 +41,17 @@
         "Badin District"
     ],
     "name:eng_x_preferred":[
-        "Badin District"
+        "Badin"
     ],
     "name:eng_x_variant":[
         "Badin District",
-        "Hyderabad"
+        "Hyderabad",
+        "Badin"
     ],
     "name:fre_x_preferred":[
+        "Badin"
+    ],
+    "name:fre_x_variant":[
         "district de Badin"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692123,
-    "wof:lastmodified":1536615240,
+    "wof:lastmodified":1555047518,
     "wof:name":"Badin",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

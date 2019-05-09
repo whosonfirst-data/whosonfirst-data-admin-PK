@@ -13,6 +13,15 @@
     "gn:fcode":"ADM2",
     "gn:pop":850000,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Quetta District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Quetta"
+    ],
     "lbl:latitude":30.210013,
     "lbl:longitude":66.906856,
     "meso:admin_1":"Balochistan",
@@ -38,13 +47,16 @@
         "Quetta District"
     ],
     "name:eng_x_preferred":[
-        "Quetta District"
+        "Quetta"
     ],
     "name:eng_x_variant":[
         "Quetta District",
         "Quetta"
     ],
     "name:fre_x_preferred":[
+        "Quetta"
+    ],
+    "name:fre_x_variant":[
         "district de Quetta"
     ],
     "name:geo_x_preferred":[
@@ -113,7 +125,7 @@
         }
     ],
     "wof:id":890438109,
-    "wof:lastmodified":1536617383,
+    "wof:lastmodified":1555047517,
     "wof:name":"Quetta",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

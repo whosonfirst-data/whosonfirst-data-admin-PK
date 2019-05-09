@@ -10,6 +10,15 @@
     "geom:latitude":33.653332,
     "geom:longitude":71.597979,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kohat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kohat"
+    ],
     "lbl:latitude":33.623,
     "lbl:longitude":71.635013,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -32,13 +41,17 @@
         "\u79d1\u54c8\u7279\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Kohat District"
+        "Kohat"
     ],
     "name:eng_x_variant":[
         "Kohat District",
-        "Kohat"
+        "Kohat",
+        "FR Kohat"
     ],
     "name:fre_x_preferred":[
+        "Kohat"
+    ],
+    "name:fre_x_variant":[
         "district de Kohat"
     ],
     "name:hin_x_preferred":[
@@ -92,8 +105,8 @@
         }
     ],
     "wof:id":1108692177,
-    "wof:lastmodified":1543515225,
-    "wof:name":"FR Kohat",
+    "wof:lastmodified":1555047520,
+    "wof:name":"Kohat",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

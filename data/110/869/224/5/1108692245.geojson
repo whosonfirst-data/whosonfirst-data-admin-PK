@@ -10,6 +10,15 @@
     "geom:latitude":26.828504,
     "geom:longitude":69.079583,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Khairpur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Khairpur"
+    ],
     "lbl:latitude":26.811168,
     "lbl:longitude":69.094597,
     "meso:admin_1":"Sindh",
@@ -32,13 +41,17 @@
         "Khairpur District"
     ],
     "name:eng_x_preferred":[
-        "Khairpur District"
+        "Khairpur"
     ],
     "name:eng_x_variant":[
         "Khairpur District",
-        "Sukkur"
+        "Sukkur",
+        "Khairpur"
     ],
     "name:fre_x_preferred":[
+        "Khairpur"
+    ],
+    "name:fre_x_variant":[
         "district de Khairpur"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692245,
-    "wof:lastmodified":1536615244,
+    "wof:lastmodified":1555047521,
     "wof:name":"Khairpur",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

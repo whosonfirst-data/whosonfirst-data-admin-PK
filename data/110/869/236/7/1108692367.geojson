@@ -10,6 +10,15 @@
     "geom:latitude":32.098492,
     "geom:longitude":72.744025,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Sargodha District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sargodha"
+    ],
     "lbl:latitude":32.10935,
     "lbl:longitude":72.691244,
     "meso:admin_1":"Punjab",
@@ -32,13 +41,16 @@
         "Sargodha District"
     ],
     "name:eng_x_preferred":[
-        "Sargodha District"
+        "Sargodha"
     ],
     "name:eng_x_variant":[
         "Sargodha District",
         "Sargodha"
     ],
     "name:fre_x_preferred":[
+        "Sargodha"
+    ],
+    "name:fre_x_variant":[
         "district de Sargodha"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108692367,
-    "wof:lastmodified":1536615247,
+    "wof:lastmodified":1555047525,
     "wof:name":"Sargodha",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

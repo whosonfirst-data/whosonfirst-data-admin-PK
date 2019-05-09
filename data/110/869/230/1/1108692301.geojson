@@ -10,6 +10,15 @@
     "geom:latitude":29.779861,
     "geom:longitude":66.828837,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Mastung District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Mastung"
+    ],
     "lbl:latitude":29.790007,
     "lbl:longitude":66.838486,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Mastung District"
     ],
     "name:eng_x_preferred":[
-        "Mastung District"
+        "Mastung"
     ],
     "name:eng_x_variant":[
         "Mastung District",
-        "Kalat"
+        "Kalat",
+        "Mastung"
     ],
     "name:fre_x_preferred":[
+        "Mastung"
+    ],
+    "name:fre_x_variant":[
         "district de Mastung"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692301,
-    "wof:lastmodified":1536615245,
+    "wof:lastmodified":1555047523,
     "wof:name":"Mastung",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

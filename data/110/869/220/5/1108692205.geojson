@@ -10,6 +10,15 @@
     "geom:latitude":34.007087,
     "geom:longitude":72.895685,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Haripur District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Haripur"
+    ],
     "lbl:latitude":34.000684,
     "lbl:longitude":72.900801,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -35,13 +44,17 @@
         "\u54c8\u5229\u666e\u5c14\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Haripur District"
+        "Haripur"
     ],
     "name:eng_x_variant":[
         "Haripur District",
-        "Hazara"
+        "Hazara",
+        "Haripur"
     ],
     "name:fre_x_preferred":[
+        "Haripur"
+    ],
+    "name:fre_x_variant":[
         "district d'Haripur"
     ],
     "name:hin_x_preferred":[
@@ -101,7 +114,7 @@
         }
     ],
     "wof:id":1108692205,
-    "wof:lastmodified":1543515226,
+    "wof:lastmodified":1555047520,
     "wof:name":"Haripur",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":32.029622,
     "geom:longitude":73.510433,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Hafizabad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Hafizabad"
+    ],
     "lbl:latitude":32.054564,
     "lbl:longitude":73.543533,
     "meso:admin_1":"Punjab",
@@ -32,13 +41,17 @@
         "Hafizabad District"
     ],
     "name:eng_x_preferred":[
-        "Hafizabad District"
+        "Hafizabad"
     ],
     "name:eng_x_variant":[
         "Hafizabad District",
-        "Gujranwala"
+        "Gujranwala",
+        "Hafizabad"
     ],
     "name:fre_x_preferred":[
+        "Hafizabad"
+    ],
+    "name:fre_x_variant":[
         "district d'Hafizabad"
     ],
     "name:ita_x_preferred":[
@@ -98,7 +111,7 @@
         }
     ],
     "wof:id":1108692201,
-    "wof:lastmodified":1536615243,
+    "wof:lastmodified":1555047520,
     "wof:name":"Hafizabad",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

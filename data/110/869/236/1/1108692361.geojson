@@ -10,6 +10,15 @@
     "geom:latitude":33.458881,
     "geom:longitude":73.200382,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Rawalpindi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Rawalpindi"
+    ],
     "lbl:latitude":33.30496,
     "lbl:longitude":73.192714,
     "meso:admin_1":"Punjab",
@@ -35,13 +44,16 @@
         "Rawalpindi District"
     ],
     "name:eng_x_preferred":[
-        "Rawalpindi District"
+        "Rawalpindi"
     ],
     "name:eng_x_variant":[
         "Rawalpindi District",
         "Rawalpindi"
     ],
     "name:fre_x_preferred":[
+        "Rawalpindi"
+    ],
+    "name:fre_x_variant":[
         "district de Rawalpindi"
     ],
     "name:ger_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":1108692361,
-    "wof:lastmodified":1536615247,
+    "wof:lastmodified":1555047525,
     "wof:name":"Rawalpindi",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

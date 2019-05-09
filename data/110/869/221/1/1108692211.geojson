@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088924,
-    "geom:area_square_m":993744120.854378,
+    "geom:area_square_m":993744120.854458,
     "geom:bbox":"68.2966879446,25.156117869,68.6391738511,25.5711906502",
     "geom:latitude":25.343071,
     "geom:longitude":68.459597,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Hyderabad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Hyderabad"
+    ],
     "lbl:latitude":25.341354,
     "lbl:longitude":68.459555,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,16 @@
         "Hyderabad District"
     ],
     "name:eng_x_preferred":[
-        "Hyderabad District"
+        "Hyderabad"
     ],
     "name:eng_x_variant":[
         "Hyderabad District",
         "Hyderabad"
     ],
     "name:fre_x_preferred":[
+        "Hyderabad"
+    ],
+    "name:fre_x_variant":[
         "district d'Hyderabad"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +101,7 @@
         }
     ],
     "wof:id":1108692211,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047521,
     "wof:name":"Hyderabad",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

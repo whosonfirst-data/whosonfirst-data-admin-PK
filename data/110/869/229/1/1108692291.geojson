@@ -10,6 +10,15 @@
     "geom:latitude":34.538892,
     "geom:longitude":71.893434,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Malakand PA District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Malakand"
+    ],
     "lbl:latitude":34.517706,
     "lbl:longitude":71.848503,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,17 @@
         "\u9a6c\u62c9\u574e\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Malakand District"
+        "Malakand PA"
     ],
     "name:eng_x_variant":[
         "Malakand Protected Area",
-        "Malakand"
+        "Malakand",
+        "Malakand PA"
     ],
     "name:fre_x_preferred":[
+        "Malakand"
+    ],
+    "name:fre_x_variant":[
         "district de Malakand"
     ],
     "name:hin_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692291,
-    "wof:lastmodified":1543515228,
+    "wof:lastmodified":1555047523,
     "wof:name":"Malakand PA",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

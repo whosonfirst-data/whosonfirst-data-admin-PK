@@ -10,6 +10,15 @@
     "geom:latitude":28.406409,
     "geom:longitude":67.524555,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Jhal Magsi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jhal Magsi"
+    ],
     "lbl:latitude":28.48689,
     "lbl:longitude":67.524535,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Jhal Magsi District"
     ],
     "name:eng_x_preferred":[
-        "Jhal Magsi District"
+        "Jhal Magsi"
     ],
     "name:eng_x_variant":[
         "Jhal Magsi District",
-        "Nasirabad"
+        "Nasirabad",
+        "Jhal Magsi"
     ],
     "name:fre_x_preferred":[
+        "Jhal Magsi"
+    ],
+    "name:fre_x_variant":[
         "district de Jhal Magsi"
     ],
     "name:ger_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692221,
-    "wof:lastmodified":1536615243,
+    "wof:lastmodified":1555047521,
     "wof:name":"Jhal Magsi",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.136524,
-    "geom:area_square_m":1520427599.491189,
+    "geom:area_square_m":1520427599.491239,
     "geom:bbox":"68.2271352224,25.4386054105,68.6795575428,26.0938927907",
     "geom:latitude":25.756381,
     "geom:longitude":68.454825,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Matiari District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Hyderabad"
+    ],
     "lbl:latitude":25.749386,
     "lbl:longitude":68.454821,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Hyderabad District"
     ],
     "name:eng_x_preferred":[
-        "Hyderabad District"
+        "Matiari"
     ],
     "name:eng_x_variant":[
         "Hyderabad District",
-        "Hyderabad"
+        "Hyderabad",
+        "Matiari"
     ],
     "name:fre_x_preferred":[
+        "Hyderabad"
+    ],
+    "name:fre_x_variant":[
         "district d'Hyderabad"
     ],
     "name:ita_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692303,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047523,
     "wof:name":"Matiari",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

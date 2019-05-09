@@ -10,6 +10,15 @@
     "geom:latitude":27.745835,
     "geom:longitude":64.346998,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Washuk District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kharan"
+    ],
     "lbl:latitude":27.902633,
     "lbl:longitude":64.34691,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Kharan District"
     ],
     "name:eng_x_preferred":[
-        "Kharan District"
+        "Washuk"
     ],
     "name:eng_x_variant":[
         "Kharan District",
-        "Kalat"
+        "Kalat",
+        "Washuk"
     ],
     "name:fre_x_preferred":[
+        "Kharan"
+    ],
+    "name:fre_x_variant":[
         "district de Kharan"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692425,
-    "wof:lastmodified":1536615248,
+    "wof:lastmodified":1555047526,
     "wof:name":"Washuk",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

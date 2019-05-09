@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.16796,
-    "geom:area_square_m":1719593969.057371,
+    "geom:area_square_m":1719593969.057438,
     "geom:bbox":"72.9813023446,33.8098373914,73.5106487033,34.3721222148",
     "geom:latitude":34.108382,
     "geom:longitude":73.270422,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Abbottabad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Abbottabad"
+    ],
     "lbl:latitude":34.096773,
     "lbl:longitude":73.288441,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,17 @@
         "\u963f\u4f2f\u5854\u5df4\u5fb7\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Abbottabad District"
+        "Abbottabad"
     ],
     "name:eng_x_variant":[
         "Abbottabad District",
-        "Hazara"
+        "Hazara",
+        "Abbottabad"
     ],
     "name:fre_x_preferred":[
+        "Abbottabad"
+    ],
+    "name:fre_x_variant":[
         "district d'Abbottabad"
     ],
     "name:ger_x_preferred":[
@@ -104,7 +117,7 @@
         }
     ],
     "wof:id":1108692115,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047518,
     "wof:name":"Abbottabad",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

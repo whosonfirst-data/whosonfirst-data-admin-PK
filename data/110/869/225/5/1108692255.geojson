@@ -10,6 +10,12 @@
     "geom:latitude":33.956312,
     "geom:longitude":71.063439,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Khyber District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.990993,
     "lbl:longitude":71.206003,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -25,9 +31,13 @@
     "mps:longitude":71.206003,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Khyber"
+    ],
     "name:eng_x_variant":[
         "Khyber Agency",
-        "F.A.T.A."
+        "F.A.T.A.",
+        "Khyber Agency"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":1108692255,
-    "wof:lastmodified":1543515226,
-    "wof:name":"Khyber Agency",
+    "wof:lastmodified":1555047522,
+    "wof:name":"Khyber",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

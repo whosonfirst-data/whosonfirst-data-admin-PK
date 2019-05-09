@@ -10,6 +10,15 @@
     "geom:latitude":27.527193,
     "geom:longitude":68.191135,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Larkana District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Larkana"
+    ],
     "lbl:latitude":27.435303,
     "lbl:longitude":68.148895,
     "meso:admin_1":"Sindh",
@@ -38,13 +47,16 @@
         "Larkano"
     ],
     "name:eng_x_preferred":[
-        "Larkana District"
+        "Larkana"
     ],
     "name:eng_x_variant":[
         "Larkana District",
         "Larkana"
     ],
     "name:fre_x_preferred":[
+        "Larkana"
+    ],
+    "name:fre_x_variant":[
         "district de Larkana"
     ],
     "name:ita_x_preferred":[
@@ -95,7 +107,7 @@
         }
     ],
     "wof:id":1108692277,
-    "wof:lastmodified":1536615245,
+    "wof:lastmodified":1555047523,
     "wof:name":"Larkana",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

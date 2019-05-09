@@ -10,6 +10,15 @@
     "geom:latitude":25.398001,
     "geom:longitude":63.133387,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Gwadar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Gwadar"
+    ],
     "lbl:latitude":25.40868,
     "lbl:longitude":62.749613,
     "meso:admin_1":"Balochistan",
@@ -38,13 +47,17 @@
         "Gwadar District"
     ],
     "name:eng_x_preferred":[
-        "Gwadar District"
+        "Gwadar"
     ],
     "name:eng_x_variant":[
         "Gwadar District",
-        "Makran"
+        "Makran",
+        "Gwadar"
     ],
     "name:fre_x_preferred":[
+        "Gwadar"
+    ],
+    "name:fre_x_variant":[
         "district de Gwadar"
     ],
     "name:ger_x_preferred":[
@@ -66,6 +79,9 @@
         "\u0413\u0432\u0430\u0434\u0430\u0440"
     ],
     "name:spa_x_preferred":[
+        "Gwadar"
+    ],
+    "name:spa_x_variant":[
         "Distrito de Gwadar"
     ],
     "name:swe_x_preferred":[
@@ -98,7 +114,7 @@
         }
     ],
     "wof:id":1108692199,
-    "wof:lastmodified":1536615242,
+    "wof:lastmodified":1555047520,
     "wof:name":"Gwadar",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

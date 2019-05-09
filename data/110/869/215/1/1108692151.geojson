@@ -10,6 +10,15 @@
     "geom:latitude":34.242262,
     "geom:longitude":71.71822,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Charsadda District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Peshawar"
+    ],
     "lbl:latitude":34.247834,
     "lbl:longitude":71.7022,
     "meso:admin_1":"Khyber Pakhtunkhwa",
@@ -32,13 +41,17 @@
         "\u767d\u6c99\u74e6\u53bf"
     ],
     "name:eng_x_preferred":[
-        "Peshawar District"
+        "Charsadda"
     ],
     "name:eng_x_variant":[
         "Charsadda District",
-        "Peshawar"
+        "Peshawar",
+        "Charsadda"
     ],
     "name:fre_x_preferred":[
+        "Peshawar"
+    ],
+    "name:fre_x_variant":[
         "district de Peshawar"
     ],
     "name:jpn_x_preferred":[
@@ -95,7 +108,7 @@
         }
     ],
     "wof:id":1108692151,
-    "wof:lastmodified":1543515223,
+    "wof:lastmodified":1555047519,
     "wof:name":"Charsadda",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

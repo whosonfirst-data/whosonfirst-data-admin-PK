@@ -10,6 +10,15 @@
     "geom:latitude":29.938068,
     "geom:longitude":71.407437,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Multan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Multan"
+    ],
     "lbl:latitude":29.987714,
     "lbl:longitude":71.413762,
     "meso:admin_1":"Punjab",
@@ -35,13 +44,16 @@
         "Multan District"
     ],
     "name:eng_x_preferred":[
-        "Multan District"
+        "Multan"
     ],
     "name:eng_x_variant":[
         "Multan District",
         "Multan"
     ],
     "name:fre_x_preferred":[
+        "Multan"
+    ],
+    "name:fre_x_variant":[
         "district de Multan"
     ],
     "name:hin_x_preferred":[
@@ -101,7 +113,7 @@
         }
     ],
     "wof:id":1108692313,
-    "wof:lastmodified":1536615246,
+    "wof:lastmodified":1555047523,
     "wof:name":"Multan",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

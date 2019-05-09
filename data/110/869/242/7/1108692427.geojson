@@ -10,6 +10,15 @@
     "geom:latitude":30.389926,
     "geom:longitude":67.88415,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Ziarat District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Loralai"
+    ],
     "lbl:latitude":30.410324,
     "lbl:longitude":68.067938,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Loralai District"
     ],
     "name:eng_x_preferred":[
-        "Loralai District"
+        "Ziarat"
     ],
     "name:eng_x_variant":[
         "Loralai District",
-        "Zhob"
+        "Zhob",
+        "Ziarat"
     ],
     "name:fre_x_preferred":[
+        "Loralai"
+    ],
+    "name:fre_x_variant":[
         "district de Loralai"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692427,
-    "wof:lastmodified":1536615248,
+    "wof:lastmodified":1555047526,
     "wof:name":"Ziarat",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.242496,
-    "geom:area_square_m":2640480591.840742,
+    "geom:area_square_m":2640480591.840694,
     "geom:bbox":"68.9022561704,27.9785619223,69.8423609543,28.5136764087",
     "geom:latitude":28.285111,
     "geom:longitude":69.254644,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kashmore District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jacobabad"
+    ],
     "lbl:latitude":28.280241,
     "lbl:longitude":69.222545,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Jacobabad District"
     ],
     "name:eng_x_preferred":[
-        "Jacobabad District"
+        "Kashmore"
     ],
     "name:eng_x_variant":[
         "Jacobabad District",
-        "Larkana"
+        "Larkana",
+        "Kashmore"
     ],
     "name:fre_x_preferred":[
+        "Jacobabad"
+    ],
+    "name:fre_x_variant":[
         "district de Jacobabad"
     ],
     "name:heb_x_preferred":[
@@ -92,7 +105,7 @@
         }
     ],
     "wof:id":1108692237,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047521,
     "wof:name":"Kashmore",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":26.882469,
     "geom:longitude":68.123783,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Naushahro Feroze District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Naushahro Feroze"
+    ],
     "lbl:latitude":26.837768,
     "lbl:longitude":68.117606,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Naushahro Feroze District"
     ],
     "name:eng_x_preferred":[
-        "Naushahro Feroze District"
+        "Naushahro Feroze"
     ],
     "name:eng_x_variant":[
         "Naushahro Feroze District",
-        "Sukkur"
+        "Sukkur",
+        "Naushahro Feroze"
     ],
     "name:fre_x_preferred":[
+        "Naushahro Feroze"
+    ],
+    "name:fre_x_variant":[
         "district de Naushahro Feroze"
     ],
     "name:ita_x_preferred":[
@@ -86,7 +99,7 @@
         }
     ],
     "wof:id":1108692329,
-    "wof:lastmodified":1536615246,
+    "wof:lastmodified":1555047524,
     "wof:name":"Naushahro Feroze",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.25854,
-    "geom:area_square_m":2817151201.234156,
+    "geom:area_square_m":2817151201.234076,
     "geom:bbox":"67.9009979774,27.9267972194,68.9288213835,28.4726125984",
     "geom:latitude":28.210411,
     "geom:longitude":68.486576,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Jacobabad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Jacobabad"
+    ],
     "lbl:latitude":28.297175,
     "lbl:longitude":68.607222,
     "meso:admin_1":"Sindh",
@@ -35,13 +44,17 @@
         "Jacobabad District"
     ],
     "name:eng_x_preferred":[
-        "Jacobabad District"
+        "Jacobabad"
     ],
     "name:eng_x_variant":[
         "Jacobabad District",
-        "Larkana"
+        "Larkana",
+        "Jacobabad"
     ],
     "name:fre_x_preferred":[
+        "Jacobabad"
+    ],
+    "name:fre_x_variant":[
         "district de Jacobabad"
     ],
     "name:heb_x_preferred":[
@@ -92,7 +105,7 @@
         }
     ],
     "wof:id":1108692215,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047521,
     "wof:name":"Jacobabad",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":28.615166,
     "geom:longitude":65.465666,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kharan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kharan"
+    ],
     "lbl:latitude":28.60439,
     "lbl:longitude":65.476477,
     "meso:admin_1":"Balochistan",
@@ -32,13 +41,17 @@
         "Kharan District"
     ],
     "name:eng_x_preferred":[
-        "Kharan District"
+        "Kharan"
     ],
     "name:eng_x_variant":[
         "Kharan District",
-        "Kalat"
+        "Kalat",
+        "Kharan"
     ],
     "name:fre_x_preferred":[
+        "Kharan"
+    ],
+    "name:fre_x_variant":[
         "district de Kharan"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692249,
-    "wof:lastmodified":1536615244,
+    "wof:lastmodified":1555047522,
     "wof:name":"Kharan",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

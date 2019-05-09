@@ -10,6 +10,15 @@
     "geom:latitude":30.807272,
     "geom:longitude":67.253156,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Pishin District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Pishin"
+    ],
     "lbl:latitude":30.775208,
     "lbl:longitude":67.245359,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Pishin District"
     ],
     "name:eng_x_preferred":[
-        "Pishin District"
+        "Pishin"
     ],
     "name:eng_x_variant":[
         "Pishin District",
-        "Quetta"
+        "Quetta",
+        "Pishin"
     ],
     "name:fre_x_preferred":[
+        "Pishin"
+    ],
+    "name:fre_x_variant":[
         "district de Pishin"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692349,
-    "wof:lastmodified":1536615246,
+    "wof:lastmodified":1555047524,
     "wof:name":"Pishin",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

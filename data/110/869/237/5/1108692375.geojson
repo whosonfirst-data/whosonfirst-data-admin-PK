@@ -10,6 +10,15 @@
     "geom:latitude":31.647284,
     "geom:longitude":69.771665,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Sheerani District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Zhob"
+    ],
     "lbl:latitude":31.659048,
     "lbl:longitude":69.744546,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Zhob District"
     ],
     "name:eng_x_preferred":[
-        "Zhob District"
+        "Sheerani"
     ],
     "name:eng_x_variant":[
         "Zhob District",
-        "Zhob"
+        "Zhob",
+        "Sheerani"
     ],
     "name:fre_x_preferred":[
+        "Zhob"
+    ],
+    "name:fre_x_variant":[
         "district de Zhob"
     ],
     "name:ger_x_preferred":[
@@ -92,7 +105,7 @@
         }
     ],
     "wof:id":1108692375,
-    "wof:lastmodified":1536615247,
+    "wof:lastmodified":1555047525,
     "wof:name":"Sheerani",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

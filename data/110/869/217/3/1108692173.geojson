@@ -10,6 +10,12 @@
     "geom:latitude":33.072909,
     "geom:longitude":70.571128,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Bannu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":33.140414,
     "lbl:longitude":70.596752,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -25,9 +31,13 @@
     "mps:longitude":70.596752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bannu"
+    ],
     "name:eng_x_variant":[
         "Tribal Area Adj Bannu District",
-        "F.A.T.A."
+        "F.A.T.A.",
+        "FR Bannu"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -52,8 +62,8 @@
         }
     ],
     "wof:id":1108692173,
-    "wof:lastmodified":1543515224,
-    "wof:name":"FR Bannu",
+    "wof:lastmodified":1555047520,
+    "wof:name":"Bannu",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-pk",

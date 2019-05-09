@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:pop":429841,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "North Waziristan District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":32.913191,
     "lbl:longitude":70.023722,
     "meso:admin_1":"Federally Administered Tribal Areas",
@@ -28,9 +34,13 @@
     "mps:longitude":70.023722,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Waziristan"
+    ],
     "name:eng_x_variant":[
         "North Waziristan Agency",
-        "F.A.T.A."
+        "F.A.T.A.",
+        "North Waziristan Agency"
     ],
     "name:unk_x_variant":[
         "Wana"
@@ -68,8 +78,8 @@
         }
     ],
     "wof:id":890422345,
-    "wof:lastmodified":1543515232,
-    "wof:name":"North Waziristan Agency",
+    "wof:lastmodified":1555047517,
+    "wof:name":"North Waziristan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
     "wof:population":429841,

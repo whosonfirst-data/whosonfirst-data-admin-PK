@@ -10,6 +10,15 @@
     "geom:latitude":29.593075,
     "geom:longitude":68.85613,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Kohlu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Kohlu"
+    ],
     "lbl:latitude":29.560719,
     "lbl:longitude":68.803609,
     "meso:admin_1":"Balochistan",
@@ -35,13 +44,17 @@
         "Kohlu District"
     ],
     "name:eng_x_preferred":[
-        "Kohlu District"
+        "Kohlu"
     ],
     "name:eng_x_variant":[
         "Kohlu District",
-        "Sibi"
+        "Sibi",
+        "Kohlu"
     ],
     "name:fre_x_preferred":[
+        "Kohlu"
+    ],
+    "name:fre_x_variant":[
         "district de Kohlu"
     ],
     "name:ger_x_preferred":[
@@ -89,7 +102,7 @@
         }
     ],
     "wof:id":1108692267,
-    "wof:lastmodified":1536615244,
+    "wof:lastmodified":1555047522,
     "wof:name":"Kohlu",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

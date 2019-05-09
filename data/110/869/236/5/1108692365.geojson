@@ -5,11 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.968366,
-    "geom:area_square_m":10766496332.895927,
+    "geom:area_square_m":10766496332.896263,
     "geom:bbox":"68.4004375285,25.4812037952,70.2179694933,26.4653815062",
     "geom:latitude":25.952325,
     "geom:longitude":69.282933,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Sanghar District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Sanghar"
+    ],
     "lbl:latitude":25.891954,
     "lbl:longitude":69.37263,
     "meso:admin_1":"Sindh",
@@ -32,13 +41,17 @@
         "Sanghar District"
     ],
     "name:eng_x_preferred":[
-        "Sanghar District"
+        "Sanghar"
     ],
     "name:eng_x_variant":[
         "Sanghar District",
-        "Mirpur Khas"
+        "Mirpur Khas",
+        "Sanghar"
     ],
     "name:fre_x_preferred":[
+        "Sanghar"
+    ],
+    "name:fre_x_variant":[
         "district de Sanghar"
     ],
     "name:ita_x_preferred":[
@@ -83,7 +96,7 @@
         }
     ],
     "wof:id":1108692365,
-    "wof:lastmodified":1553816455,
+    "wof:lastmodified":1555047525,
     "wof:name":"Sanghar",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

@@ -10,6 +10,15 @@
     "geom:latitude":31.241348,
     "geom:longitude":73.152456,
     "iso:country":"PK",
+    "label:eng_x_preferred_longname":[
+        "Faisalabad District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
+    "label:fre_x_preferred_longname":[
+        "District de Faisalabad"
+    ],
     "lbl:latitude":31.290546,
     "lbl:longitude":73.145244,
     "meso:admin_1":"Punjab",
@@ -35,13 +44,16 @@
         "Faisalabad District"
     ],
     "name:eng_x_preferred":[
-        "Faisalabad District"
+        "Faisalabad"
     ],
     "name:eng_x_variant":[
         "Faisalabad District",
         "Faisalabad"
     ],
     "name:fre_x_preferred":[
+        "Faisalabad"
+    ],
+    "name:fre_x_variant":[
         "district de Faisalabad"
     ],
     "name:hin_x_preferred":[
@@ -107,7 +119,7 @@
         }
     ],
     "wof:id":1108692169,
-    "wof:lastmodified":1536615242,
+    "wof:lastmodified":1555047520,
     "wof:name":"Faisalabad",
     "wof:parent_id":85675753,
     "wof:placetype":"county",
