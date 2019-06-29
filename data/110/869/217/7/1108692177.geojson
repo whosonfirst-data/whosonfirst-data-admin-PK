@@ -37,9 +37,6 @@
     "name:cat_x_preferred":[
         "Districte de Kohat"
     ],
-    "name:chi_x_preferred":[
-        "\u79d1\u54c8\u7279\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Kohat"
     ],
@@ -48,7 +45,7 @@
         "Kohat",
         "FR Kohat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kohat"
     ],
     "name:fre_x_variant":[
@@ -81,6 +78,9 @@
     "name:urd_x_preferred":[
         "\u06a9\u0648\u06c1\u0627\u0679"
     ],
+    "name:zho_x_preferred":[
+        "\u79d1\u54c8\u7279\u53bf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1108692177,
-    "wof:lastmodified":1555047520,
+    "wof:lastmodified":1561789710,
     "wof:name":"Kohat",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

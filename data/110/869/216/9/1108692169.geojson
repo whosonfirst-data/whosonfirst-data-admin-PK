@@ -37,12 +37,6 @@
     "name:cat_x_preferred":[
         "Districte de Faisalabad"
     ],
-    "name:chi_x_preferred":[
-        "\u8d39\u8428\u62c9\u5df4\u5fb7\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Faisalabad District"
-    ],
     "name:eng_x_preferred":[
         "Faisalabad"
     ],
@@ -50,7 +44,7 @@
         "Faisalabad District",
         "Faisalabad"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Faisalabad"
     ],
     "name:fre_x_variant":[
@@ -67,6 +61,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d2b\u0d48\u0d38\u0d7d\u0d2c\u0d3e\u0d26\u0d4d"
+    ],
+    "name:nld_x_preferred":[
+        "Faisalabad District"
     ],
     "name:ori_x_preferred":[
         "\u0b2b\u0b48\u0b38\u0b32\u0b3e\u0b2c\u0b3e\u0b26 \u0b1c\u0b3f\u0b32\u0b4d\u0b32\u0b3e"
@@ -95,6 +92,9 @@
     "name:vie_x_preferred":[
         "Faisalabad"
     ],
+    "name:zho_x_preferred":[
+        "\u8d39\u8428\u62c9\u5df4\u5fb7\u53bf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -119,7 +119,7 @@
         }
     ],
     "wof:id":1108692169,
-    "wof:lastmodified":1555047520,
+    "wof:lastmodified":1561789706,
     "wof:name":"Faisalabad",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

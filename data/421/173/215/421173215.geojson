@@ -20,14 +20,8 @@
     "name:ara_x_preferred":[
         "\u0643\u0648\u064a\u062a\u0647"
     ],
-    "name:arm_x_preferred":[
-        "\u053f\u057e\u0565\u057f\u057f\u0561"
-    ],
     "name:aze_x_preferred":[
         "Kvetta"
-    ],
-    "name:baq_x_preferred":[
-        "Quetta"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041a\u0432\u0435\u0442\u0430"
@@ -47,26 +41,23 @@
     "name:ces_x_preferred":[
         "Kv\u00e9ta"
     ],
-    "name:chi_x_preferred":[
-        "\u594e\u9054"
-    ],
-    "name:cze_x_preferred":[
-        "Kv\u00e9ta"
-    ],
     "name:dan_x_preferred":[
         "Quetta"
     ],
     "name:deu_x_preferred":[
         "Quetta"
     ],
-    "name:dut_x_preferred":[
-        "Quetta"
+    "name:ell_x_preferred":[
+        "\u039a\u03ad\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Quetta"
     ],
     "name:epo_x_preferred":[
         "Kveta"
+    ],
+    "name:eus_x_preferred":[
+        "Quetta"
     ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u06cc\u062a\u0647"
@@ -76,18 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "Quetta"
-    ],
-    "name:fre_x_preferred":[
-        "Quetta"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d5\u10d4\u10e2\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Quetta"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03ad\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab5\u0ac7\u0a9f\u0abe"
@@ -100,6 +79,9 @@
     ],
     "name:hun_x_preferred":[
         "Kvetta"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u057e\u0565\u057f\u057f\u0561"
     ],
     "name:ind_x_preferred":[
         "Quetta"
@@ -134,13 +116,13 @@
     "name:mal_x_preferred":[
         "\u0d15\u0d4d\u0d35\u0d46\u0d31\u0d4d\u0d31"
     ],
-    "name:mao_x_preferred":[
-        "Quetta"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u094d\u0935\u0947\u091f\u094d\u091f\u093e"
     ],
-    "name:may_x_preferred":[
+    "name:mri_x_preferred":[
+        "Quetta"
+    ],
+    "name:msa_x_preferred":[
         "Quetta"
     ],
     "name:nds_x_preferred":[
@@ -160,9 +142,6 @@
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a4b\u0a07\u0a1f\u0a3e"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u0648\u06cc\u062a\u0647"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0648\u0626\u0679\u06c1"
@@ -374,7 +353,7 @@
         }
     ],
     "wof:id":421173215,
-    "wof:lastmodified":1527716259,
+    "wof:lastmodified":1561790001,
     "wof:name":"Quetta",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

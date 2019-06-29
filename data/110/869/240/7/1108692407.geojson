@@ -34,9 +34,6 @@
     "mps:longitude":70.41297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u5766\u514b\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Tank"
     ],
@@ -45,7 +42,7 @@
         "Dera Ismail Khan",
         "Tank"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Tank"
     ],
     "name:fre_x_variant":[
@@ -75,6 +72,9 @@
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0679\u0627\u0646\u06a9"
     ],
+    "name:zho_x_preferred":[
+        "\u5766\u514b\u53bf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108692407,
-    "wof:lastmodified":1555047526,
+    "wof:lastmodified":1561789718,
     "wof:name":"Tank",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

@@ -16,9 +16,6 @@
     "name:afr_x_preferred":[
         "Karatsji"
     ],
-    "name:alb_x_preferred":[
-        "Karachi"
-    ],
     "name:amh_x_preferred":[
         "\u12a8\u122b\u127a"
     ],
@@ -27,9 +24,6 @@
     ],
     "name:arg_x_preferred":[
         "Karachi"
-    ],
-    "name:arm_x_preferred":[
-        "\u053f\u0561\u0580\u0561\u0579\u056b"
     ],
     "name:arz_x_preferred":[
         "\u0643\u0627\u0631\u0627\u062a\u0634\u0649"
@@ -49,9 +43,6 @@
     "name:bak_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
     ],
-    "name:baq_x_preferred":[
-        "Karatxi"
-    ],
     "name:bar_x_preferred":[
         "Karatschi"
     ],
@@ -60,6 +51,9 @@
     ],
     "name:ben_x_preferred":[
         "\u0995\u09b0\u09be\u099a\u09c0"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f40\u0f0b\u0f62\u0f0b\u0f46\u0f72"
     ],
     "name:bos_x_preferred":[
         "Kara\u010di"
@@ -70,20 +64,17 @@
     "name:bul_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
     ],
-    "name:bur_x_preferred":[
-        "\u1000\u101b\u102c\u1001\u103b\u102d\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
     ],
     "name:cat_x_preferred":[
         "Karachi"
     ],
+    "name:ces_x_preferred":[
+        "Kar\u00e1\u010d\u00ed"
+    ],
     "name:che_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
-    ],
-    "name:chi_x_preferred":[
-        "\u5361\u62c9\u5947"
     ],
     "name:ckb_x_preferred":[
         "\u06a9\u06d5\u0631\u0627\u0686\u06cc"
@@ -94,17 +85,20 @@
     "name:cos_x_preferred":[
         "Karachi"
     ],
-    "name:cze_x_preferred":[
-        "Kar\u00e1\u010d\u00ed"
+    "name:cym_x_preferred":[
+        "Karachi"
     ],
     "name:dan_x_preferred":[
         "Karachi"
     ],
+    "name:deu_x_preferred":[
+        "Karatschi"
+    ],
     "name:div_x_preferred":[
         "\u0786\u07a6\u0783\u07a7\u0797\u07a9"
     ],
-    "name:dut_x_preferred":[
-        "Karachi"
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03c1\u03ac\u03c4\u03c3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Karachi"
@@ -115,23 +109,23 @@
     "name:est_x_preferred":[
         "Karachi"
     ],
+    "name:eus_x_preferred":[
+        "Karatxi"
+    ],
     "name:ext_x_preferred":[
         "Karachi"
     ],
     "name:fao_x_preferred":[
         "Karachi"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u0686\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Karachi"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Karachi"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d9\u10d0\u10e0\u10d0\u10e9\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Karatschi"
     ],
     "name:gla_x_preferred":[
         "Karachi"
@@ -144,9 +138,6 @@
     ],
     "name:gom_x_preferred":[
         "Karachi"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b1\u03c1\u03ac\u03c4\u03c3\u03b9"
     ],
     "name:gsw_x_preferred":[
         "Karatschi"
@@ -172,8 +163,8 @@
     "name:hun_x_preferred":[
         "Karacsi"
     ],
-    "name:ice_x_preferred":[
-        "Karachi"
+    "name:hye_x_preferred":[
+        "\u053f\u0561\u0580\u0561\u0579\u056b"
     ],
     "name:ido_x_preferred":[
         "Karachi"
@@ -188,6 +179,9 @@
         "Karachi"
     ],
     "name:ind_x_preferred":[
+        "Karachi"
+    ],
+    "name:isl_x_preferred":[
         "Karachi"
     ],
     "name:ita_x_preferred":[
@@ -207,6 +201,9 @@
     ],
     "name:kas_x_preferred":[
         "\u06a9\u064e\u0631\u0672\u0686\u06cc"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d9\u10d0\u10e0\u10d0\u10e9\u10d8"
     ],
     "name:kaz_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
@@ -238,29 +235,32 @@
     "name:lmo_x_preferred":[
         "Karachi"
     ],
-    "name:mac_x_preferred":[
-        "\u041a\u0430\u0440\u0430\u0447\u0438"
-    ],
     "name:mai_x_preferred":[
         "\u0915\u0930\u093e\u091a\u0940"
     ],
     "name:mal_x_preferred":[
         "\u0d15\u0d31\u0d3e\u0d1a\u0d4d\u0d1a\u0d3f"
     ],
-    "name:mao_x_preferred":[
-        "Karachi"
-    ],
     "name:mar_x_preferred":[
         "\u0915\u0930\u093e\u091a\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Karachi"
     ],
     "name:mhr_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
     ],
+    "name:mkd_x_preferred":[
+        "\u041a\u0430\u0440\u0430\u0447\u0438"
+    ],
     "name:mon_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
+    ],
+    "name:mri_x_preferred":[
+        "Karachi"
+    ],
+    "name:msa_x_preferred":[
+        "Karachi"
+    ],
+    "name:mya_x_preferred":[
+        "\u1000\u101b\u102c\u1001\u103b\u102d\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u06a9\u0631\u0627\u0686\u06cc"
@@ -270,6 +270,9 @@
     ],
     "name:new_x_preferred":[
         "\u0915\u0930\u093e\u091a\u0940"
+    ],
+    "name:nld_x_preferred":[
+        "Karachi"
     ],
     "name:nno_x_preferred":[
         "Karachi"
@@ -292,9 +295,6 @@
     "name:pan_x_preferred":[
         "\u0a15\u0a30\u0a3e\u0a1a\u0a40"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0627\u0686\u06cc"
-    ],
     "name:pms_x_preferred":[
         "Karachi"
     ],
@@ -313,11 +313,11 @@
     "name:que_x_preferred":[
         "Karachi"
     ],
+    "name:ron_x_preferred":[
+        "Karachi"
+    ],
     "name:rue_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0456"
-    ],
-    "name:rum_x_preferred":[
-        "Karachi"
     ],
     "name:rus_x_preferred":[
         "\u041a\u0430\u0440\u0430\u0447\u0438"
@@ -340,7 +340,7 @@
     "name:sin_x_preferred":[
         "\u0d9a\u0dbb\u0da0\u0dca\u0da0\u0dd2\u0dba"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Kar\u00e1\u010di"
     ],
     "name:slv_x_preferred":[
@@ -356,6 +356,9 @@
         "Karaaji"
     ],
     "name:spa_x_preferred":[
+        "Karachi"
+    ],
+    "name:sqi_x_preferred":[
         "Karachi"
     ],
     "name:srp_x_preferred":[
@@ -385,9 +388,6 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e23\u0e32\u0e08\u0e35"
     ],
-    "name:tib_x_preferred":[
-        "\u0f40\u0f0b\u0f62\u0f0b\u0f46\u0f72"
-    ],
     "name:tuk_x_preferred":[
         "Kara\u00e7i"
     ],
@@ -415,9 +415,6 @@
     "name:war_x_preferred":[
         "Karachi"
     ],
-    "name:wel_x_preferred":[
-        "Karachi"
-    ],
     "name:wuu_x_preferred":[
         "\u5361\u62c9\u5947"
     ],
@@ -428,6 +425,9 @@
         "Karachi"
     ],
     "name:yue_x_preferred":[
+        "\u5361\u62c9\u5947"
+    ],
+    "name:zho_x_preferred":[
         "\u5361\u62c9\u5947"
     ],
     "qs:gn_country":null,
@@ -473,7 +473,7 @@
         }
     ],
     "wof:id":421191101,
-    "wof:lastmodified":1527716382,
+    "wof:lastmodified":1561790003,
     "wof:name":"Karachi",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",
