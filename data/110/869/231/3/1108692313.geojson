@@ -37,12 +37,6 @@
     "name:cat_x_preferred":[
         "Districte de Multan"
     ],
-    "name:chi_x_preferred":[
-        "\u6728\u5c14\u5766\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Multan District"
-    ],
     "name:eng_x_preferred":[
         "Multan"
     ],
@@ -50,7 +44,7 @@
         "Multan District",
         "Multan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Multan"
     ],
     "name:fre_x_variant":[
@@ -67,6 +61,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d2e\u0d41\u0d7d\u0d24\u0d3e\u0d7b \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:nld_x_preferred":[
+        "Multan District"
     ],
     "name:nob_x_preferred":[
         "Multandistriktet"
@@ -88,6 +85,9 @@
     ],
     "name:vie_x_preferred":[
         "Multan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u5c14\u5766\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -113,7 +113,7 @@
         }
     ],
     "wof:id":1108692313,
-    "wof:lastmodified":1555047523,
+    "wof:lastmodified":1561789722,
     "wof:name":"Multan",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

@@ -37,11 +37,8 @@
     "name:cat_x_preferred":[
         "Districte de Sukkur"
     ],
-    "name:chi_x_preferred":[
-        "\u82cf\u5e93\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Sukkur District"
+    "name:deu_x_preferred":[
+        "Sukkur Distrikt"
     ],
     "name:eng_x_preferred":[
         "Sukkur"
@@ -50,14 +47,11 @@
         "Sukkur District",
         "Sukkur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sukkur"
     ],
     "name:fre_x_variant":[
         "district de Sukkur"
-    ],
-    "name:ger_x_preferred":[
-        "Sukkur Distrikt"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0915\u094d\u0916\u0930 \u091c\u093c\u093f\u0932\u093e"
@@ -67,6 +61,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b5\u30c3\u30ab\u30eb\u5730\u533a"
+    ],
+    "name:nld_x_preferred":[
+        "Sukkur District"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u06a9\u06be\u0631"
@@ -82,6 +79,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u06a9\u06be\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u82cf\u5e93\u5c14\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":1108692395,
-    "wof:lastmodified":1555047525,
+    "wof:lastmodified":1561789723,
     "wof:name":"Sukkur",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

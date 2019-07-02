@@ -37,11 +37,8 @@
     "name:bar_x_preferred":[
         "Khuzdar Distrikt"
     ],
-    "name:chi_x_preferred":[
-        "\u80e1\u5179\u8fbe\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Khuzdar District"
+    "name:deu_x_preferred":[
+        "Khuzdar Distrikt"
     ],
     "name:eng_x_preferred":[
         "Khuzdar"
@@ -51,14 +48,14 @@
         "Kalat",
         "Khuzdar"
     ],
-    "name:fre_x_preferred":[
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062e\u0636\u062f\u0627\u0631"
+    ],
+    "name:fra_x_preferred":[
         "Khuzdar"
     ],
     "name:fre_x_variant":[
         "district de Khuzdar"
-    ],
-    "name:ger_x_preferred":[
-        "Khuzdar Distrikt"
     ],
     "name:hin_x_preferred":[
         "\u0916\u093c\u0941\u091c\u093c\u0926\u093e\u0930 \u091c\u093c\u093f\u0932\u093e"
@@ -66,8 +63,8 @@
     "name:ita_x_preferred":[
         "Distretto di Khuzdar"
     ],
-    "name:per_x_preferred":[
-        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062e\u0636\u062f\u0627\u0631"
+    "name:nld_x_preferred":[
+        "Khuzdar District"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062e\u0636\u062f\u0627\u0631"
@@ -83,6 +80,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u062e\u0636\u062f\u0627\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u80e1\u5179\u8fbe\u5c14\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108692253,
-    "wof:lastmodified":1555047522,
+    "wof:lastmodified":1561789720,
     "wof:name":"Khuzdar",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

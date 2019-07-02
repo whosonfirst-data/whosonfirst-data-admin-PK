@@ -40,9 +40,6 @@
     "name:cat_x_preferred":[
         "Districte d'Haripur"
     ],
-    "name:chi_x_preferred":[
-        "\u54c8\u5229\u666e\u5c14\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Haripur"
     ],
@@ -51,7 +48,7 @@
         "Hazara",
         "Haripur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Haripur"
     ],
     "name:fre_x_variant":[
@@ -90,6 +87,9 @@
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u06c1\u0631\u06cc \u067e\u0648\u0631"
     ],
+    "name:zho_x_preferred":[
+        "\u54c8\u5229\u666e\u5c14\u53bf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -114,7 +114,7 @@
         }
     ],
     "wof:id":1108692205,
-    "wof:lastmodified":1555047520,
+    "wof:lastmodified":1561789708,
     "wof:name":"Haripur",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

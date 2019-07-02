@@ -34,9 +34,6 @@
     "mps:longitude":72.070604,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9a6c\u5c14\u4e39\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Mardan"
     ],
@@ -44,7 +41,7 @@
         "Mardan District",
         "Mardan"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Mardan"
     ],
     "name:fre_x_variant":[
@@ -74,6 +71,9 @@
     "name:urd_x_preferred":[
         "\u0645\u0631\u062f\u0627\u0646"
     ],
+    "name:zho_x_preferred":[
+        "\u9a6c\u5c14\u4e39\u53bf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -98,7 +98,7 @@
         }
     ],
     "wof:id":1108692299,
-    "wof:lastmodified":1555047523,
+    "wof:lastmodified":1561789707,
     "wof:name":"Mardan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

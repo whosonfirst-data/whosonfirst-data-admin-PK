@@ -37,11 +37,8 @@
     "name:cat_x_preferred":[
         "Districte de Sibi"
     ],
-    "name:chi_x_preferred":[
-        "\u9521\u6bd4\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Sibi District"
+    "name:deu_x_preferred":[
+        "Sibi Distrikt"
     ],
     "name:eng_x_preferred":[
         "Harnai"
@@ -51,20 +48,20 @@
         "Sibi",
         "Harnai"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Sibi"
     ],
     "name:fre_x_variant":[
         "district de Sibi"
-    ],
-    "name:ger_x_preferred":[
-        "Sibi Distrikt"
     ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u092c\u093f \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
         "Distretto di Sibi"
+    ],
+    "name:nld_x_preferred":[
+        "Sibi District"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u0628\u06cc"
@@ -80,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0633\u0628\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u9521\u6bd4\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1108692209,
-    "wof:lastmodified":1555047521,
+    "wof:lastmodified":1561789708,
     "wof:name":"Harnai",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

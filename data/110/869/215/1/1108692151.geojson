@@ -37,9 +37,6 @@
     "name:cat_x_preferred":[
         "Districte de Peshawar"
     ],
-    "name:chi_x_preferred":[
-        "\u767d\u6c99\u74e6\u53bf"
-    ],
     "name:eng_x_preferred":[
         "Charsadda"
     ],
@@ -48,7 +45,7 @@
         "Peshawar",
         "Charsadda"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Peshawar"
     ],
     "name:fre_x_variant":[
@@ -84,6 +81,9 @@
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0634\u0627\u0648\u0631"
     ],
+    "name:zho_x_preferred":[
+        "\u767d\u6c99\u74e6\u53bf"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -108,7 +108,7 @@
         }
     ],
     "wof:id":1108692151,
-    "wof:lastmodified":1555047519,
+    "wof:lastmodified":1561789715,
     "wof:name":"Charsadda",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

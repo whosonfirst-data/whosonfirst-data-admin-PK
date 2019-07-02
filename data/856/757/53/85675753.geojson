@@ -7,7 +7,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"1970-07-01",
     "geom:area":19.223144,
-    "geom:area_square_m":204054041411.896393,
+    "geom:area_square_m":204054041411.903259,
     "geom:bbox":"69.33099328,27.7014627073,75.3590482991,34.02278148",
     "geom:latitude":30.821965,
     "geom:longitude":72.134147,
@@ -33,9 +33,6 @@
     "name:aze_x_preferred":[
         "P\u0259ncab"
     ],
-    "name:baq_x_preferred":[
-        "Punjab"
-    ],
     "name:bel_x_preferred":[
         "\u041f\u0435\u043d\u0434\u0436\u0430\u0431"
     ],
@@ -48,16 +45,19 @@
     "name:cat_x_preferred":[
         "Panjab"
     ],
-    "name:chi_x_preferred":[
-        "\u65c1\u906e\u666e\u7701"
+    "name:ces_x_preferred":[
+        "Pa\u0148d\u017e\u00e1b"
     ],
     "name:ckb_x_preferred":[
         "\u067e\u06d5\u0646\u062c\u0627\u0628\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
     ],
-    "name:cze_x_preferred":[
-        "Pa\u0148d\u017e\u00e1b"
+    "name:cym_x_preferred":[
+        "Punjab"
     ],
     "name:dan_x_preferred":[
+        "Punjab"
+    ],
+    "name:deu_x_preferred":[
         "Punjab"
     ],
     "name:diq_x_preferred":[
@@ -66,8 +66,8 @@
     "name:div_x_preferred":[
         "\u0795\u07a6\u0782\u07b0\u0796\u07a7\u0784\u07aa"
     ],
-    "name:dut_x_preferred":[
-        "Punjab"
+    "name:ell_x_preferred":[
+        "\u03a0\u03b1\u03bd\u03c4\u03b6\u03ac\u03bc\u03c0"
     ],
     "name:eng_x_preferred":[
         "Punjab"
@@ -78,23 +78,20 @@
     "name:est_x_preferred":[
         "Pand\u017eab"
     ],
+    "name:eus_x_preferred":[
+        "Punjab"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u062c\u0627\u0628"
+    ],
     "name:fin_x_preferred":[
         "Punjab"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Pendjab"
-    ],
-    "name:geo_x_preferred":[
-        "\u10de\u10d4\u10dc\u10ef\u10d0\u10d1\u10d8"
-    ],
-    "name:ger_x_preferred":[
-        "Punjab"
     ],
     "name:glg_x_preferred":[
         "Punjab"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a0\u03b1\u03bd\u03c4\u03b6\u03ac\u03bc\u03c0"
     ],
     "name:gsw_x_preferred":[
         "Punjab"
@@ -132,6 +129,9 @@
     "name:kas_x_preferred":[
         "\u067e\u0646\u062c\u0627\u0628"
     ],
+    "name:kat_x_preferred":[
+        "\u10de\u10d4\u10dc\u10ef\u10d0\u10d1\u10d8"
+    ],
     "name:kor_x_preferred":[
         "\ud380\uc790\ube0c"
     ],
@@ -147,17 +147,20 @@
     "name:mar_x_preferred":[
         "\u092a\u0902\u091c\u093e\u092c"
     ],
-    "name:may_x_preferred":[
-        "Punjab"
-    ],
     "name:mon_x_preferred":[
         "\u041f\u0430\u043d\u0436\u0430\u0431"
+    ],
+    "name:msa_x_preferred":[
+        "Punjab"
     ],
     "name:nep_x_preferred":[
         "\u092a\u0902\u091c\u093e\u092c"
     ],
     "name:new_x_preferred":[
         "\u092a\u091e\u094d\u091c\u093e\u092c \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
+    ],
+    "name:nld_x_preferred":[
+        "Punjab"
     ],
     "name:nno_x_preferred":[
         "Panjab i Pakistan"
@@ -171,9 +174,6 @@
     "name:pan_x_preferred":[
         "\u0a2a\u0a70\u0a1c\u0a3e\u0a2c"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0646\u062c\u0627\u0628"
-    ],
     "name:pnb_x_preferred":[
         "\u067e\u0646\u062c\u0627\u0628"
     ],
@@ -186,7 +186,7 @@
     "name:pus_x_preferred":[
         "\u067e\u0646\u062c\u0627\u0628"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Punjab"
     ],
     "name:rus_x_preferred":[
@@ -246,14 +246,14 @@
     "name:war_x_preferred":[
         "Punjab"
     ],
-    "name:wel_x_preferred":[
-        "Punjab"
-    ],
     "name:yue_x_preferred":[
         "\u983b\u6e23\u5225\u7701"
     ],
     "name:zho_x_preferred":[
         "\u65c1\u906e\u666e"
+    ],
+    "name:zho_x_variant":[
+        "\u65c1\u906e\u666e\u7701"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"PAK",
@@ -378,7 +378,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1553814811,
+    "wof:lastmodified":1561788942,
     "wof:name":"Punjab",
     "wof:parent_id":85632659,
     "wof:placetype":"region",

@@ -79,9 +79,6 @@
     "name:che_x_preferred":[
         "\u0422\u0430\u043d\u043a"
     ],
-    "name:chi_x_preferred":[
-        "\u5766\u514b\u5e02"
-    ],
     "name:chv_x_preferred":[
         "\u0422\u0430\u043d\u043a"
     ],
@@ -97,11 +94,11 @@
     "name:deu_x_preferred":[
         "Panzer"
     ],
-    "name:dut_x_preferred":[
-        "Tank"
-    ],
     "name:ell_x_preferred":[
         "\u0386\u03c1\u03bc\u03b1 \u03bc\u03ac\u03c7\u03b7\u03c2"
+    ],
+    "name:ell_x_variant":[
+        "\u03a4\u03b1\u03bd\u03ba"
     ],
     "name:eng_x_preferred":[
         "Tank"
@@ -124,7 +121,7 @@
     "name:fra_x_preferred":[
         "Char de combat"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Tank"
     ],
     "name:fry_x_preferred":[
@@ -138,9 +135,6 @@
     ],
     "name:glg_x_preferred":[
         "Carro de combate"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03bd\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0a9f\u0ac7\u0aa8\u0acd\u0a95"
@@ -223,9 +217,6 @@
     "name:mar_x_preferred":[
         "\u0930\u0923\u0917\u093e\u0921\u093e"
     ],
-    "name:may_x_preferred":[
-        "Tank"
-    ],
     "name:mhr_x_preferred":[
         "\u0422\u0430\u043d\u043a"
     ],
@@ -237,6 +228,9 @@
     ],
     "name:msa_x_preferred":[
         "Kereta kebal"
+    ],
+    "name:msa_x_variant":[
+        "Tank"
     ],
     "name:mya_x_preferred":[
         "\u1010\u1004\u1037\u103a\u1000\u102c\u1038\u1019\u103b\u102c\u1038"
@@ -374,7 +368,7 @@
         "\u5766\u514b"
     ],
     "name:zho_x_variant":[
-        "\u5766\u514b"
+        "\u5766\u514b\u5e02"
     ],
     "name:zho_yue_x_preferred":[
         "\u5766\u514b\u8eca"
@@ -426,7 +420,7 @@
         }
     ],
     "wof:id":421200373,
-    "wof:lastmodified":1543515470,
+    "wof:lastmodified":1561790006,
     "wof:name":"Tank",
     "wof:parent_id":1108692407,
     "wof:placetype":"locality",

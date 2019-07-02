@@ -34,11 +34,8 @@
     "mps:longitude":64.154811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u65c1\u5409\u53e4\u5c14\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Panjgur District"
+    "name:deu_x_preferred":[
+        "Panjgur Distrikt"
     ],
     "name:eng_x_preferred":[
         "Panjgur"
@@ -48,17 +45,17 @@
         "Makran",
         "Panjgur"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Panjgur"
     ],
     "name:fre_x_variant":[
         "district de Panjgur"
     ],
-    "name:ger_x_preferred":[
-        "Panjgur Distrikt"
-    ],
     "name:ita_x_preferred":[
         "Distretto di Panjgur"
+    ],
+    "name:nld_x_preferred":[
+        "Panjgur District"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0646\u062c\u06af\u0648\u0631"
@@ -74,6 +71,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0646\u062c\u06af\u0648\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u65c1\u5409\u53e4\u5c14\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -99,7 +99,7 @@
         }
     ],
     "wof:id":1108692345,
-    "wof:lastmodified":1555047524,
+    "wof:lastmodified":1561789713,
     "wof:name":"Panjgur",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

@@ -37,11 +37,8 @@
     "name:cat_x_preferred":[
         "Districte de Zhob"
     ],
-    "name:chi_x_preferred":[
-        "\u4f50\u5e03\u53bf"
-    ],
-    "name:dut_x_preferred":[
-        "Zhob District"
+    "name:deu_x_preferred":[
+        "Zhob Distrikt"
     ],
     "name:eng_x_preferred":[
         "Sheerani"
@@ -51,20 +48,20 @@
         "Zhob",
         "Sheerani"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Zhob"
     ],
     "name:fre_x_variant":[
         "district de Zhob"
-    ],
-    "name:ger_x_preferred":[
-        "Zhob Distrikt"
     ],
     "name:hin_x_preferred":[
         "\u091d\u094b\u092c \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
         "Distretto di Zhob"
+    ],
+    "name:nld_x_preferred":[
+        "Zhob District"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0698\u0648\u0628"
@@ -80,6 +77,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u0698\u0648\u0628"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f50\u5e03\u53bf"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -105,7 +105,7 @@
         }
     ],
     "wof:id":1108692375,
-    "wof:lastmodified":1555047525,
+    "wof:lastmodified":1561789723,
     "wof:name":"Sheerani",
     "wof:parent_id":85675733,
     "wof:placetype":"county",
