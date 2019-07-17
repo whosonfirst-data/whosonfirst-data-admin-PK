@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.67475,32.37528,74.67475,32.37528",
     "geom:latitude":32.37528,
     "geom:longitude":74.67475,
@@ -12,14 +13,32 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u0997 \u09ae\u09b2\u09b9\u09be\u09b0"
+    ],
+    "name:eng_x_preferred":[
+        "Malhar"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0932\u094d\u0939\u093e\u0930 \u0930\u093e\u0917"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d7d\u0d39\u0d3e\u0d7c"
+    ],
+    "name:new_x_preferred":[
+        "\u092e\u0932\u094d\u0932\u093e\u0930 \u0930\u093e\u0917"
     ],
     "name:pan_x_preferred":[
         "\u0a30\u0a3e\u0a17 \u0a2e\u0a32\u0a3e\u0a30"
     ],
+    "name:pnb_x_preferred":[
+        "\u0631\u0627\u06af \u0645\u0644\u06c1\u0627\u0631"
+    ],
     "name:san_x_preferred":[
         "\u092e\u0932\u094d\u0939\u093e\u0930"
+    ],
+    "name:san_x_variant":[
+        "\u092e\u0932\u094d\u0939\u093e\u0930\u0924\u093e\u0932:"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -65,7 +84,7 @@
         }
     ],
     "wof:id":421203207,
-    "wof:lastmodified":1527716199,
+    "wof:lastmodified":1563353842,
     "wof:name":"Malhar",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

@@ -25,7 +25,13 @@
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b9\u09be\u09a8\u09be\u0993\u09af\u09bc\u09be\u0997\u09be"
     ],
+    "name:ceb_x_preferred":[
+        "Bah\u0101walnagar"
+    ],
     "name:dan_x_preferred":[
+        "Bahawalnagar"
+    ],
+    "name:deu_x_preferred":[
         "Bahawalnagar"
     ],
     "name:ell_x_preferred":[
@@ -34,11 +40,17 @@
     "name:eng_x_preferred":[
         "Bahawalpur"
     ],
+    "name:eng_x_variant":[
+        "Bahawalnagar"
+    ],
     "name:epo_x_preferred":[
         "Baha\u016dalnagar"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0647\u0627\u0648\u0644\u0646\u06af\u0631\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0647\u0627\u0648\u0644\u0646\u06af\u0631"
     ],
     "name:fin_x_preferred":[
         "Bahawalnagar"
@@ -79,11 +91,17 @@
     "name:lit_x_preferred":[
         "Bahavalnagaras"
     ],
+    "name:mai_x_preferred":[
+        "\u092c\u0939\u093e\u0935\u0932\u0928\u0917\u0930"
+    ],
     "name:mar_x_preferred":[
         "\u092c\u0939\u093e\u0935\u0932\u0928\u0917\u0930"
     ],
     "name:msa_x_preferred":[
         "Bahawalnagar"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0939\u093e\u0935\u0932\u0928\u0917\u0930"
     ],
     "name:nld_x_preferred":[
         "Bahawalnagar"
@@ -97,8 +115,14 @@
     "name:pol_x_preferred":[
         "Bahawalpur"
     ],
+    "name:pol_x_variant":[
+        "Bahawalnagar"
+    ],
     "name:por_x_preferred":[
         "Bahawalpur"
+    ],
+    "name:por_x_variant":[
+        "Bahawalnagar"
     ],
     "name:pus_x_preferred":[
         "\u0628\u0647\u0627\u0648\u0644\u0646\u06af\u0631"
@@ -109,14 +133,23 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dc4\u0dc0\u0dbd\u0dca\u0db1\u0d9c\u0dbb\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u0628\u06be\u0627\u0648\u0644 \u0646\u06af\u0631"
+    ],
     "name:spa_x_preferred":[
         "Bahawalpur"
+    ],
+    "name:spa_x_variant":[
+        "Bahawalnagar"
     ],
     "name:srp_x_preferred":[
         "\u0411\u0430\u0445\u0430\u0432\u0430\u043b\u043d\u0430\u0433\u0430\u0440"
     ],
     "name:swe_x_preferred":[
         "Bahawalpur"
+    ],
+    "name:swe_x_variant":[
+        "Bahawalnagar"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bb9\u0bb5\u0bbe\u0bb2\u0bcd\u0ba8\u0b95\u0bb0\u0bcd"
@@ -139,11 +172,17 @@
     "name:urd_x_preferred":[
         "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631"
     ],
+    "name:urd_x_variant":[
+        "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631"
+    ],
     "name:vie_x_preferred":[
         "Bahawalnagar"
     ],
     "name:war_x_preferred":[
         "Bahawalnagar"
+    ],
+    "name:zho_x_preferred":[
+        "\u5df4\u54c8\u74e6\u723e\u90a3\u52a0"
     ],
     "qs_pg:aaroncc":"PK",
     "qs_pg:gn_country":"PK",
@@ -184,7 +223,7 @@
         }
     ],
     "wof:id":1125820229,
-    "wof:lastmodified":1561790013,
+    "wof:lastmodified":1563353990,
     "wof:name":"Bah\u0101walnagar",
     "wof:parent_id":1108692127,
     "wof:placetype":"locality",

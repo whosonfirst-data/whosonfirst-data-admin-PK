@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":12530156.114122,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.3458,31.561094,74.3458,31.561094",
     "geom:latitude":31.561094,
     "geom:longitude":74.3458,
@@ -26,8 +26,14 @@
     "name:eng_x_preferred":[
         "Qila Gujar Singh"
     ],
+    "name:nld_x_preferred":[
+        "Qila Gujar Singh"
+    ],
     "name:unk_x_variant":[
         "Qila Gujar Singh"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u0644\u0639\u06c1 \u06af\u062c\u0631 \u0633\u0646\u06af\u06be"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_id":0,
@@ -59,10 +65,10 @@
     "src:lbl:centroid":"yerbashapes",
     "wd:wordcount":119,
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692273,
-        85675753
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936070,
+    "wof:lastmodified":1563341532,
     "wof:name":"Qila Gujar Singh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

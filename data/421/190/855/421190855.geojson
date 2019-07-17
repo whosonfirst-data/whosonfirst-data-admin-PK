@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.2957,31.6254,74.2957,31.6254",
     "geom:latitude":31.6254,
     "geom:longitude":74.2957,
@@ -14,6 +15,9 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Railway Colony"
+    ],
+    "name:eng_x_variant":[
+        "City Railway Colony"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLX",
@@ -36,10 +40,10 @@
     "src:geom":"quattroshapes",
     "wd:wordcount":58,
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692273,
-        85675753
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":421190855,
-    "wof:lastmodified":1531858652,
+    "wof:lastmodified":1563353892,
     "wof:name":"Railway Colony",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

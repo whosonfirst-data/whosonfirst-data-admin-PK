@@ -34,16 +34,27 @@
     "mps:longitude":68.607222,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u099c\u09cd\u09af\u09be\u0995\u09cb\u09ac\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Jacobabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Jacob\u0101b\u0101d District"
+    ],
+    "name:deu_x_preferred":[
+        "Jacobabad"
     ],
     "name:eng_x_preferred":[
         "Jacobabad"
     ],
     "name:eng_x_variant":[
         "Jacobabad District",
-        "Larkana",
-        "Jacobabad"
+        "Larkana"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062c\u06cc\u06a9\u0628\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:fra_x_preferred":[
         "Jacobabad"
@@ -60,8 +71,14 @@
     "name:ita_x_preferred":[
         "distretto di Jacobabad"
     ],
+    "name:mal_x_preferred":[
+        "\u0d1c\u0d47\u0d15\u0d4d\u0d15\u0d2c\u0d4d\u200d\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
     "name:nld_x_preferred":[
         "Jacobabad District"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a48\u0a15\u0a2c\u0a3e\u0a2c\u0a3e\u0a26 \u0a1c\u0a3c\u0a3f\u0a32\u0a4d\u0a39\u0a3e"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u062c\u06cc\u06a9\u0628 \u0622\u0628\u0627\u062f"
@@ -105,7 +122,7 @@
         }
     ],
     "wof:id":1108692215,
-    "wof:lastmodified":1561789709,
+    "wof:lastmodified":1563350714,
     "wof:name":"Jacobabad",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

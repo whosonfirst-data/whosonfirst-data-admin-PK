@@ -37,19 +37,36 @@
     "name:bel_x_preferred":[
         "\u0425\u0430\u0440\u044b\u043f\u0443\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09b0\u09bf\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte d'Haripur"
+    ],
+    "name:cat_x_variant":[
+        "districte d'Haripur"
+    ],
+    "name:ceb_x_preferred":[
+        "Har\u012bpur District"
+    ],
+    "name:deu_x_preferred":[
+        "Haripur"
     ],
     "name:eng_x_preferred":[
         "Haripur"
     ],
     "name:eng_x_variant":[
         "Haripur District",
-        "Hazara",
-        "Haripur"
+        "Hazara"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u0647\u0631\u06cc\u200c\u067e\u0648\u0631"
     ],
     "name:fra_x_preferred":[
         "Haripur"
+    ],
+    "name:fra_x_variant":[
+        "district d'Haripur"
     ],
     "name:fre_x_variant":[
         "district d'Haripur"
@@ -59,6 +76,12 @@
     ],
     "name:jpn_x_preferred":[
         "\u30cf\u30ea\u30d7\u30fc\u30eb\u5730\u533a"
+    ],
+    "name:mai_x_preferred":[
+        "\u0939\u0930\u093f\u092a\u0941\u0930 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d30\u0d3f\u0d2a\u0d42\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u06c1\u0631\u06cc\u067e\u0648\u0631"
@@ -74,6 +97,9 @@
     ],
     "name:snd_x_preferred":[
         "\u0647\u0631\u064a \u067e\u0648\u0631 \u0636\u0644\u0639\u0648"
+    ],
+    "name:swe_x_preferred":[
+        "Haripur"
     ],
     "name:tam_x_preferred":[
         "\u0bb9\u0bb0\u0bbf\u0baa\u0bc2\u0bb0\u0bcd \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
@@ -114,7 +140,7 @@
         }
     ],
     "wof:id":1108692205,
-    "wof:lastmodified":1561789708,
+    "wof:lastmodified":1563350709,
     "wof:name":"Haripur",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

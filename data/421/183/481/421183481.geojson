@@ -31,6 +31,9 @@
     "name:div_x_preferred":[
         "\u0783\u07aa\u0790\u07b0\u078c\u07aa\u0789\u07b0"
     ],
+    "name:eng_x_preferred":[
+        "Rostam"
+    ],
     "name:eus_x_preferred":[
         "Rostam"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05e8\u05d5\u05e1\u05d8\u05dd"
+    ],
+    "name:heb_x_variant":[
+        "\u05e8\u05d5\u05e1\u05ea\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u0930\u0941\u0938\u094d\u0924\u092e"
@@ -58,7 +64,16 @@
     "name:mzn_x_preferred":[
         "\u0631\u0633\u062a\u0645"
     ],
+    "name:nld_x_preferred":[
+        "Rostam"
+    ],
+    "name:nob_x_preferred":[
+        "Rostam"
+    ],
     "name:nor_x_preferred":[
+        "Rostam"
+    ],
+    "name:oci_x_preferred":[
         "Rostam"
     ],
     "name:rus_x_preferred":[
@@ -66,6 +81,9 @@
     ],
     "name:spa_x_preferred":[
         "Rostam"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0441\u0442\u0430\u043c"
     ],
     "name:swe_x_preferred":[
         "Rostam"
@@ -90,6 +108,12 @@
     ],
     "name:uzb_x_preferred":[
         "Rustam"
+    ],
+    "name:vie_x_preferred":[
+        "Rostam"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u65af\u5854\u59c6"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -136,7 +160,7 @@
         }
     ],
     "wof:id":421183481,
-    "wof:lastmodified":1527717696,
+    "wof:lastmodified":1563353929,
     "wof:name":"Rustam",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

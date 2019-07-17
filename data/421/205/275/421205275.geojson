@@ -25,6 +25,9 @@
     "name:epo_x_preferred":[
         "Moro"
     ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0648"
+    ],
     "name:fin_x_preferred":[
         "Moro"
     ],
@@ -67,7 +70,13 @@
     "name:rus_x_preferred":[
         "\u041c\u043e\u0440\u043e"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u0648\u0631\u0648"
+    ],
     "name:spa_x_preferred":[
+        "Moro"
+    ],
+    "name:swe_x_preferred":[
         "Moro"
     ],
     "name:ukr_x_preferred":[
@@ -75,6 +84,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0648\u0631\u0648\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0648\u0631\u0648"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421205275,
-    "wof:lastmodified":1561789999,
+    "wof:lastmodified":1563353845,
     "wof:name":"Moro",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

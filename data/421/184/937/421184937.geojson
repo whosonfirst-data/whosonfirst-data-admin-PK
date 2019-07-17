@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.0084,24.8755,67.0084,24.8755",
     "geom:latitude":24.8755,
     "geom:longitude":67.0084,
@@ -17,6 +18,9 @@
     ],
     "name:eng_x_variant":[
         "Usmanabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u062b\u0645\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLX",
@@ -38,10 +42,10 @@
     "qs:woe_id":2210092,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421184937,
-    "wof:lastmodified":1531858546,
+    "wof:lastmodified":1563353917,
     "wof:name":"Usm\u00e5n\u00e5b\u00e5d",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

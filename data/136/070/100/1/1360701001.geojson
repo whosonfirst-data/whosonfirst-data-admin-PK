@@ -29,17 +29,29 @@
     "name:ara_x_preferred":[
         "\u062e\u06cc\u0628\u0631 \u0628\u062e\u062a\u0648\u0646\u062e\u0648\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u062e\u064a\u0628\u0631 \u0628\u062e\u062a\u0648\u0646\u062e\u0648\u0627"
+    ],
+    "name:azb_x_preferred":[
+        "\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627"
+    ],
     "name:bel_x_preferred":[
         "\u0425\u0430\u0439\u0431\u0435\u0440-\u041f\u0430\u0445\u0442\u0443\u043d\u0445\u0432\u0430"
     ],
     "name:ben_x_preferred":[
         "\u0996\u09be\u0987\u09ac\u09be\u09b0 \u09aa\u09be\u0996\u09a4\u09c1\u09a8\u0996\u09be\u0993\u09af\u09bc\u09be"
     ],
+    "name:bho_x_preferred":[
+        "\u0916\u0948\u092c\u0930 \u092a\u0916\u094d\u0924\u0942\u0928\u0916\u094d\u0935\u093e"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0435\u0432\u0435\u0440\u043e\u0437\u0430\u043f\u0430\u0434\u043d\u0430 \u043f\u043e\u0433\u0440\u0430\u043d\u0438\u0447\u043d\u0430 \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f"
     ],
     "name:cat_x_historical":[
         "Prov\u00edncia de la Frontera del Nord-oest"
+    ],
+    "name:ceb_x_preferred":[
+        "Khyber Pakhtunkhwa Province"
     ],
     "name:ces_x_preferred":[
         "Chajbar Pa\u0161t\u00fanchw\u00e1"
@@ -66,7 +78,6 @@
         "Khyber Pakhtunkhwa"
     ],
     "name:eng_x_variant":[
-        "Khyber Pakhtunkhwa",
         "Khyber-Pakhtunkhwa"
     ],
     "name:epo_x_preferred":[
@@ -93,6 +104,9 @@
     "name:hif_x_historical":[
         "North-West Frontier Province"
     ],
+    "name:hif_x_preferred":[
+        "North-West Frontier Province"
+    ],
     "name:hin_x_preferred":[
         "\u0916\u093c\u0948\u092c\u0930-\u092a\u0916\u093c\u094d\u0924\u0942\u0928\u0916\u093c\u094d\u0935\u093e"
     ],
@@ -117,6 +131,12 @@
     "name:kor_x_preferred":[
         "\uce74\uc774\ubca0\ub974\ud30c\ud06c\ud230\ud06c\uc640 \uc8fc"
     ],
+    "name:kor_x_variant":[
+        "\uce74\uc774\ubca0\ub974\ud30c\ud06c\ud230\ud06c\uc640\uc8fc"
+    ],
+    "name:lav_x_preferred":[
+        "Haibara Paht\u016bnhva"
+    ],
     "name:lit_x_preferred":[
         "Chaiber Pachtunchva"
     ],
@@ -132,14 +152,26 @@
     "name:msa_x_preferred":[
         "Khyber Pakhtunkhwa"
     ],
+    "name:nan_x_preferred":[
+        "Khyber Pakhtunkhwa"
+    ],
+    "name:nep_x_preferred":[
+        "\u0916\u0948\u092c\u0930 \u092a\u0916\u094d\u0924\u0941\u0928\u0916\u094d\u0935\u093e"
+    ],
     "name:nld_x_preferred":[
         "Khyber-Pakhtunkhwa"
     ],
     "name:nno_x_historical":[
         "Nordvestlege Grenseprovins"
     ],
+    "name:nno_x_preferred":[
+        "Khyber Pakhtunkhwa"
+    ],
     "name:nob_x_historical":[
         "Nordvestlige Grenseprovins"
+    ],
+    "name:nob_x_preferred":[
+        "Khyber Pakhtunkhwa"
     ],
     "name:nor_x_historical":[
         "Nordvestlige Grenseprovins"
@@ -171,11 +203,17 @@
     "name:spa_x_preferred":[
         "Jaiber Pastunju\u00e1"
     ],
+    "name:spa_x_variant":[
+        "Khyber Pakhtunkhwa"
+    ],
     "name:srp_x_preferred":[
         "\u0425\u0430\u0458\u0431\u0435\u0440-\u041f\u0430\u0445\u0442\u0443\u043d\u0432\u0430"
     ],
     "name:swe_x_historical":[
         "Nordv\u00e4stra gr\u00e4nsprovinsen"
+    ],
+    "name:swe_x_preferred":[
+        "Khyber Pukhtunkhwa"
     ],
     "name:tam_x_preferred":[
         "\u0bb5\u0b9f\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0b8e\u0bb2\u0bcd\u0bb2\u0bc8\u0baa\u0bcd\u0baa\u0bc1\u0bb1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
@@ -199,7 +237,8 @@
         "\u062e\u06cc\u0628\u0631\u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627\u202c"
     ],
     "name:urd_x_variant":[
-        "\u0633\u0631\u062d\u062f\u06cc \u0635\u0648\u0628\u06c1\u0633\u0646\u068c"
+        "\u0633\u0631\u062d\u062f\u06cc \u0635\u0648\u0628\u06c1\u0633\u0646\u068c",
+        "\u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627"
     ],
     "name:uzb_x_preferred":[
         "Shimoliy-g\u02bbarbiy chegara viloyati"
@@ -212,6 +251,9 @@
     ],
     "name:war_x_preferred":[
         "Khyber Pakhtunkhwa"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10ee\u10d0\u10d8\u10d1\u10d4\u10e0-\u10de\u10d0\u10ee\u10e2\u10e3\u10dc\u10ee\u10d5\u10d0"
     ],
     "name:yue_x_preferred":[
         "\u897f\u5317\u908a\u5883\u7701"
@@ -340,7 +382,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1561789888,
+    "wof:lastmodified":1563352488,
     "wof:name":"Khyber Pakhtunkhwa",
     "wof:parent_id":85632659,
     "wof:placetype":"region",

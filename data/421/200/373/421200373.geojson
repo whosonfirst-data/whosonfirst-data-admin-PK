@@ -25,6 +25,9 @@
     "name:ara_x_preferred":[
         "\u062f\u0628\u0627\u0628\u0629"
     ],
+    "name:ara_x_variant":[
+        "\u062a\u0627\u0646\u0643"
+    ],
     "name:arg_x_preferred":[
         "Tanque"
     ],
@@ -73,6 +76,9 @@
     "name:cdo_x_preferred":[
         "T\u0101ng-k\u00e1ik"
     ],
+    "name:ceb_x_preferred":[
+        "T\u0101nk District"
+    ],
     "name:ces_x_preferred":[
         "Tank"
     ],
@@ -90,6 +96,9 @@
     ],
     "name:dan_x_preferred":[
         "Kampvogn"
+    ],
+    "name:dan_x_variant":[
+        "Tank"
     ],
     "name:deu_x_preferred":[
         "Panzer"
@@ -117,6 +126,9 @@
     ],
     "name:fin_x_preferred":[
         "Panssarivaunu"
+    ],
+    "name:fin_x_variant":[
+        "Tank"
     ],
     "name:fra_x_preferred":[
         "Char de combat"
@@ -151,6 +163,9 @@
     "name:hin_x_preferred":[
         "\u091f\u0948\u0902\u0915"
     ],
+    "name:hin_x_variant":[
+        "\u091f\u093e\u0902\u0915 \u091c\u093c\u093f\u0932\u093e"
+    ],
     "name:hrv_x_preferred":[
         "Tenk"
     ],
@@ -175,11 +190,17 @@
     "name:ita_x_preferred":[
         "Carro armato"
     ],
+    "name:ita_x_variant":[
+        "Tank"
+    ],
     "name:jav_x_preferred":[
         "Tank"
     ],
     "name:jpn_x_preferred":[
         "\u6226\u8eca"
+    ],
+    "name:jpn_x_variant":[
+        "\u30bf\u30f3\u30af"
     ],
     "name:kan_x_preferred":[
         "\u0c9f\u0ccd\u0caf\u0cbe\u0c82\u0c95\u0ccd"
@@ -189,6 +210,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc804\ucc28"
+    ],
+    "name:kor_x_variant":[
+        "\ud0f1\ud06c"
     ],
     "name:kur_x_preferred":[
         "Tank"
@@ -201,6 +225,9 @@
     ],
     "name:lav_x_preferred":[
         "Tanks"
+    ],
+    "name:lav_x_variant":[
+        "Tanka"
     ],
     "name:lez_x_preferred":[
         "\u0422\u0430\u043d\u043a"
@@ -216,6 +243,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0930\u0923\u0917\u093e\u0921\u093e"
+    ],
+    "name:mar_x_variant":[
+        "\u091f\u093e\u0915\u0940"
     ],
     "name:mhr_x_preferred":[
         "\u0422\u0430\u043d\u043a"
@@ -268,11 +298,20 @@
     "name:pol_x_preferred":[
         "Czo\u0142g"
     ],
+    "name:pol_x_variant":[
+        "Tank"
+    ],
     "name:por_x_preferred":[
         "Carro de combate"
     ],
+    "name:por_x_variant":[
+        "Tank"
+    ],
     "name:pus_x_preferred":[
         "\u0634\u0648\u0628\u0644\u0647"
+    ],
+    "name:pus_x_variant":[
+        "\u067c\u0627\u06a9"
     ],
     "name:que_x_preferred":[
         "Tanki"
@@ -304,6 +343,9 @@
     "name:spa_x_preferred":[
         "Carro de combate"
     ],
+    "name:spa_x_variant":[
+        "Tank"
+    ],
     "name:sqi_x_preferred":[
         "Tanku"
     ],
@@ -316,11 +358,17 @@
     "name:swe_x_preferred":[
         "Stridsvagn"
     ],
+    "name:swe_x_variant":[
+        "Tank"
+    ],
     "name:szl_x_preferred":[
         "Tank"
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc0\u0bb0\u0b99\u0bcd\u0b95\u0bbf \u0bb5\u0ba3\u0bcd\u0b9f\u0bbf"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9f\u0b99\u0bcd"
     ],
     "name:tat_x_preferred":[
         "\u0422\u0430\u043d\u043a"
@@ -337,6 +385,9 @@
     "name:tha_x_preferred":[
         "\u0e23\u0e16\u0e16\u0e31\u0e07"
     ],
+    "name:tha_x_variant":[
+        "\u0e41\u0e17\u0e4a\u0e07\u0e04\u0e4c"
+    ],
     "name:tur_x_preferred":[
         "Tank"
     ],
@@ -346,11 +397,17 @@
     "name:urd_x_preferred":[
         "\u062f\u0628\u0627\u0628\u06c1"
     ],
+    "name:urd_x_variant":[
+        "\u0679\u0627\u0646\u06a9"
+    ],
     "name:uzb_x_preferred":[
         "Tank"
     ],
     "name:vie_x_preferred":[
         "Xe t\u0103ng"
+    ],
+    "name:vie_x_variant":[
+        "Tank"
     ],
     "name:war_x_preferred":[
         "Tangke"
@@ -420,7 +477,7 @@
         }
     ],
     "wof:id":421200373,
-    "wof:lastmodified":1561790006,
+    "wof:lastmodified":1563353914,
     "wof:name":"Tank",
     "wof:parent_id":1108692407,
     "wof:placetype":"locality",
