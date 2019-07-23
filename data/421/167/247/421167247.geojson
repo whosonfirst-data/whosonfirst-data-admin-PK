@@ -13,8 +13,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Kamoke"
+    ],
+    "name:eng_x_preferred":[
+        "Kamoke"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0627\u0645\u0648\u0646\u06a9\u06cc\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u06a9\u0627\u0645\u0648\u0646\u06a9\u06cc"
     ],
     "name:fra_x_preferred":[
         "Kamoke"
@@ -24,6 +33,9 @@
     ],
     "name:ita_x_preferred":[
         "Kamoke"
+    ],
+    "name:nld_x_preferred":[
+        "K\u0101moke"
     ],
     "name:pnb_x_preferred":[
         "\u06a9\u0627\u0645\u0648\u0646\u06a9\u06cc"
@@ -43,8 +55,20 @@
     "name:srp_x_preferred":[
         "\u041a\u0430\u043c\u043e\u043a\u0435"
     ],
+    "name:swe_x_preferred":[
+        "Kamoke"
+    ],
     "name:unk_x_variant":[
         "K\u0101moki"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0645\u0648\u0646\u06a9\u06d2\u202c\u200e"
+    ],
+    "name:vie_x_preferred":[
+        "K\u0101moke"
+    ],
+    "name:war_x_preferred":[
+        "Kamoke"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -92,7 +116,7 @@
         }
     ],
     "wof:id":421167247,
-    "wof:lastmodified":1527716159,
+    "wof:lastmodified":1563353820,
     "wof:name":"Kamoke",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

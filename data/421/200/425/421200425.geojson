@@ -17,6 +17,9 @@
     "name:ara_x_preferred":[
         "\u0628\u0627\u0647\u0627\u0648\u0627\u0644\u0628\u0648\u0631"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0647\u0627\u0648\u0644\u067e\u0648\u0631"
+    ],
     "name:bel_x_preferred":[
         "\u0411\u0430\u0445\u0430\u0432\u0430\u043b\u043f\u0443\u0440"
     ],
@@ -25,6 +28,9 @@
     ],
     "name:cat_x_preferred":[
         "Bahawalpur"
+    ],
+    "name:ceb_x_preferred":[
+        "Bah\u0101walpur"
     ],
     "name:dan_x_preferred":[
         "Bahawalpur"
@@ -38,11 +44,17 @@
     "name:eng_x_preferred":[
         "Bah\u0101walpur"
     ],
+    "name:eng_x_variant":[
+        "Bahawalpur"
+    ],
     "name:epo_x_preferred":[
         "Bahavalpur"
     ],
     "name:fas_x_preferred":[
         "\u0628\u0647\u0627\u0648\u0644\u067e\u0648\u0631\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0628\u0647\u0627\u0648\u0644\u067e\u0648\u0631"
     ],
     "name:fin_x_preferred":[
         "Bahawalpur"
@@ -77,6 +89,9 @@
     "name:jpn_x_preferred":[
         "\u30d0\u30cf\u30fc\u30ef\u30eb\u30d7\u30eb"
     ],
+    "name:jpn_x_variant":[
+        "\u30d0\u30cf\u30fc\u30ef\u30eb\u30d7\u30fc\u30eb"
+    ],
     "name:kal_x_preferred":[
         "Bahawalpur"
     ],
@@ -100,6 +115,9 @@
     ],
     "name:msa_x_preferred":[
         "Bahawalpur"
+    ],
+    "name:nep_x_preferred":[
+        "\u092c\u0939\u093e\u0935\u0932\u092a\u0941\u0930"
     ],
     "name:nld_x_preferred":[
         "Bahawalpur"
@@ -164,6 +182,9 @@
     "name:tur_x_preferred":[
         "Bahavalpur"
     ],
+    "name:tur_x_variant":[
+        "Bahawalpur"
+    ],
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0445\u0430\u0432\u0430\u043b\u043f\u0443\u0440"
     ],
@@ -178,6 +199,9 @@
     ],
     "name:war_x_preferred":[
         "Bahawalpur"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d1\u10d0\u10f0\u10d0\u10d5\u10d0\u10da\u10de\u10e3\u10e0\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u5df4\u54c8\u74e6\u5c14\u5e03\u5c14"
@@ -320,7 +344,7 @@
         }
     ],
     "wof:id":421200425,
-    "wof:lastmodified":1561790005,
+    "wof:lastmodified":1563353907,
     "wof:name":"Bahawalpur",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

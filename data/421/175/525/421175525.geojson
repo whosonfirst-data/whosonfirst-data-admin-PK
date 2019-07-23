@@ -17,11 +17,17 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0627\u0644\u0643\u0648\u062a"
     ],
+    "name:ast_x_preferred":[
+        "Sialkot"
+    ],
     "name:azb_x_preferred":[
         "\u0633\u06cc\u0627\u0644\u06a9\u0648\u062a"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0421\u0456\u044f\u043b\u043a\u043e\u0442"
+    ],
+    "name:bel_x_variant":[
+        "\u0421\u0456\u044f\u043b\u043a\u043e\u0442"
     ],
     "name:ben_x_preferred":[
         "\u09b6\u09bf\u09af\u09bc\u09be\u09b2\u0995\u09cb\u099f"
@@ -30,6 +36,9 @@
         "\u0421\u0438\u044f\u043b\u043a\u043e\u0442"
     ],
     "name:cat_x_preferred":[
+        "Sialkot"
+    ],
+    "name:ceb_x_preferred":[
         "Sialkot"
     ],
     "name:dan_x_preferred":[
@@ -49,6 +58,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0627\u0644\u06a9\u0648\u062a\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
+    ],
+    "name:fas_x_variant":[
+        "\u0633\u06cc\u0627\u0644\u06a9\u0648\u062a"
     ],
     "name:fin_x_preferred":[
         "Sialkot"
@@ -76,6 +88,9 @@
     ],
     "name:jpn_x_preferred":[
         "\u30b7\u30a2\u30fc\u30eb\u30b3\u30fc\u30c8"
+    ],
+    "name:jpn_x_variant":[
+        "\u30b9\u30a3\u30a2\u30fc\u30eb\u30b3\u30fc\u30c8"
     ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cbf\u0caf\u0cbe\u0cb2\u0ccd\u0c95\u0ccb\u0c9f\u0ccd"
@@ -323,7 +338,7 @@
         }
     ],
     "wof:id":421175525,
-    "wof:lastmodified":1561790002,
+    "wof:lastmodified":1563353878,
     "wof:name":"Sialkot",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

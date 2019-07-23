@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":49495631.217087,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.31006,31.513865,74.31006,31.513865",
     "geom:latitude":31.513865,
     "geom:longitude":74.31006,
@@ -34,12 +34,18 @@
     "name:eng_x_variant":[
         "Ichhara"
     ],
+    "name:nld_x_preferred":[
+        "Ichhra"
+    ],
     "name:unk_x_variant":[
         "Ichhra",
         "Ichhara"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0627\u0631\u06a9\u0644\u06cc \u0628\u0627\u0632\u0627\u0631"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0686\u06be\u0631\u06c1"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_fcode":"PPL",
@@ -121,7 +127,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379406,
+    "wof:lastmodified":1563341531,
     "wof:name":"Ichhra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

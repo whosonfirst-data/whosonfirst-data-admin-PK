@@ -34,15 +34,23 @@
     "mps:longitude":73.145244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09ab\u09af\u09bc\u09b8\u09b2\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Faisalabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Faisal\u0101b\u0101d District"
+    ],
+    "name:deu_x_preferred":[
+        "Faisalabad"
     ],
     "name:eng_x_preferred":[
         "Faisalabad"
     ],
     "name:eng_x_variant":[
-        "Faisalabad District",
-        "Faisalabad"
+        "Faisalabad District"
     ],
     "name:fra_x_preferred":[
         "Faisalabad"
@@ -59,8 +67,14 @@
     "name:jpn_x_preferred":[
         "\u30d5\u30a1\u30a4\u30b5\u30e9\u30fc\u30d0\u30fc\u30c9\u770c"
     ],
+    "name:mai_x_preferred":[
+        "\u092b\u0948\u0938\u0932\u093e\u092c\u093e\u0926 \u091c\u093f\u0932\u093e"
+    ],
     "name:mal_x_preferred":[
         "\u0d2b\u0d48\u0d38\u0d7d\u0d2c\u0d3e\u0d26\u0d4d"
+    ],
+    "name:mal_x_variant":[
+        "\u0d2b\u0d48\u0d38\u0d32\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nld_x_preferred":[
         "Faisalabad District"
@@ -119,7 +133,7 @@
         }
     ],
     "wof:id":1108692169,
-    "wof:lastmodified":1561789706,
+    "wof:lastmodified":1563350695,
     "wof:name":"Faisalabad",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

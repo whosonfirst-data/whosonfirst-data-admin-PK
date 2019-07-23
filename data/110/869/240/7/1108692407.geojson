@@ -34,13 +34,24 @@
     "mps:longitude":70.41297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u099f\u09cd\u09af\u09be\u0999\u09cd\u0995 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:deu_x_preferred":[
+        "Tank"
+    ],
     "name:eng_x_preferred":[
         "Tank"
     ],
     "name:eng_x_variant":[
         "Tank District",
-        "Dera Ismail Khan",
-        "Tank"
+        "Dera Ismail Khan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062a\u0627\u0646\u06a9"
+    ],
+    "name:fin_x_preferred":[
+        "Tankin piirikunta"
     ],
     "name:fra_x_preferred":[
         "Tank"
@@ -50,6 +61,12 @@
     ],
     "name:hin_x_preferred":[
         "\u091f\u093e\u0902\u0915 \u091c\u093c\u093f\u0932\u093e"
+    ],
+    "name:mai_x_preferred":[
+        "\u091f\u093e\u0919\u094d\u0915 \u091c\u093f\u0932\u093e"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d1f\u0d3e\u0d19\u0d4d\u0d15\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u0679\u0627\u0646\u06a9"
@@ -99,7 +116,7 @@
         }
     ],
     "wof:id":1108692407,
-    "wof:lastmodified":1561789718,
+    "wof:lastmodified":1563350746,
     "wof:name":"Tank",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

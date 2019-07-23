@@ -34,19 +34,36 @@
     "mps:longitude":73.543533,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09b9\u09be\u09ab\u09bf\u099c\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
+    ],
+    "name:ceb_x_preferred":[
+        "H\u0101fiz\u0101b\u0101d District"
+    ],
+    "name:deu_x_preferred":[
+        "Hafizabad"
+    ],
     "name:eng_x_preferred":[
         "Hafizabad"
     ],
     "name:eng_x_variant":[
         "Hafizabad District",
-        "Gujranwala",
-        "Hafizabad"
+        "Gujranwala"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u062d\u0627\u0641\u0638\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:fra_x_preferred":[
         "Hafizabad"
     ],
+    "name:fra_x_variant":[
+        "district d'Hafizabad"
+    ],
     "name:fre_x_variant":[
         "district d'Hafizabad"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u092b\u093c\u0940\u091c\u093c\u093e\u092c\u093e\u0926 \u091c\u093f\u0932\u093e"
     ],
     "name:ita_x_preferred":[
         "Distretto di Hafizabad"
@@ -56,6 +73,9 @@
     ],
     "name:mal_x_preferred":[
         "\u0d39\u0d2b\u0d40\u0d38\u0d3e \u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
+    ],
+    "name:mal_x_variant":[
+        "\u0d39\u0d3e\u0d2b\u0d3f\u0d38\u0d3e\u0d2c\u0d3e\u0d26\u0d4d \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:nld_x_preferred":[
         "Hafizabad District"
@@ -111,7 +131,7 @@
         }
     ],
     "wof:id":1108692201,
-    "wof:lastmodified":1561789708,
+    "wof:lastmodified":1563350708,
     "wof:name":"Hafizabad",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

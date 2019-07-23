@@ -25,11 +25,20 @@
     "name:eng_x_preferred":[
         "Umerkot"
     ],
+    "name:fas_x_preferred":[
+        "\u0639\u0645\u0631\u06a9\u0648\u062a"
+    ],
     "name:fra_x_preferred":[
         "Umarkot"
     ],
+    "name:guj_x_preferred":[
+        "\u0a89\u0aae\u0ab0\u0a95\u0acb\u0a9f"
+    ],
     "name:hin_x_preferred":[
         "\u0905\u092e\u0930\u0915\u094b\u091f"
+    ],
+    "name:hin_x_variant":[
+        "\u0909\u092e\u0930\u0915\u094b\u091f"
     ],
     "name:jpn_x_preferred":[
         "\u30a6\u30de\u30eb\u30b3\u30fc\u30c8"
@@ -51,6 +60,9 @@
     ],
     "name:snd_x_preferred":[
         "\u0639\u0645\u0631\u06aa\u0648\u067d"
+    ],
+    "name:swe_x_preferred":[
+        "Umerkot"
     ],
     "name:tam_x_preferred":[
         "\u0b89\u0bae\u0bb0\u0bcd\u0b95\u0bcb\u0b9f\u0bcd"
@@ -106,7 +118,7 @@
         }
     ],
     "wof:id":421203949,
-    "wof:lastmodified":1561789998,
+    "wof:lastmodified":1563353841,
     "wof:name":"Umarkot",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

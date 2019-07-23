@@ -32,14 +32,23 @@
     "name:arz_x_preferred":[
         "\u0627\u0633\u0644\u0627\u0645 \u0627\u0628\u0627\u062f"
     ],
+    "name:asm_x_preferred":[
+        "\u0987\u099b\u09b2\u09be\u09ae\u09be\u09ac\u09be\u09a6"
+    ],
     "name:ast_x_preferred":[
         "Islamabad"
+    ],
+    "name:azb_x_preferred":[
+        "\u0627\u06cc\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
     "name:aze_x_preferred":[
         "\u0130slamabad"
     ],
     "name:bak_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434"
+    ],
+    "name:bcl_x_preferred":[
+        "Islamabad"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0406\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434"
@@ -63,6 +72,12 @@
         "\u0418\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434"
     ],
     "name:cat_x_preferred":[
+        "Islamabad"
+    ],
+    "name:cdo_x_preferred":[
+        "Islamabad"
+    ],
+    "name:ceb_x_preferred":[
         "Islamabad"
     ],
     "name:ces_x_preferred":[
@@ -89,6 +104,9 @@
     "name:div_x_preferred":[
         "\u0787\u07a8\u0790\u07b0\u078d\u07a7\u0789\u07b0\u0787\u07a7\u0784\u07a7\u078b\u07aa"
     ],
+    "name:dty_x_preferred":[
+        "\u0907\u0938\u094d\u0932\u093e\u092e\u093e\u092c\u093e\u0926"
+    ],
     "name:ell_x_preferred":[
         "\u0399\u03c3\u03bb\u03b1\u03bc\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
@@ -100,6 +118,9 @@
     ],
     "name:est_x_preferred":[
         "Islamabad"
+    ],
+    "name:est_x_variant":[
+        "Isl\u0101m\u0101b\u0101d"
     ],
     "name:eus_x_preferred":[
         "Islamabad"
@@ -134,7 +155,13 @@
     "name:guj_x_preferred":[
         "\u0a87\u0ab8\u0acd\u0ab2\u0abe\u0aae\u0abe\u0aac\u0abe\u0aa6"
     ],
+    "name:hak_x_preferred":[
+        "Islamabad"
+    ],
     "name:hat_x_preferred":[
+        "Islamabad"
+    ],
+    "name:hau_x_preferred":[
         "Islamabad"
     ],
     "name:hbs_x_preferred":[
@@ -242,6 +269,9 @@
     "name:lrc_x_preferred":[
         "\u0626\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
+    "name:lrc_x_variant":[
+        "\u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
+    ],
     "name:ltz_x_preferred":[
         "Islamabad"
     ],
@@ -264,6 +294,9 @@
         "Islamabad"
     ],
     "name:msa_x_preferred":[
+        "Islamabad"
+    ],
+    "name:mwl_x_preferred":[
         "Islamabad"
     ],
     "name:mya_x_preferred":[
@@ -303,6 +336,9 @@
         "Islamabad"
     ],
     "name:oci_x_preferred":[
+        "Islamabad"
+    ],
+    "name:olo_x_preferred":[
         "Islamabad"
     ],
     "name:ori_x_preferred":[
@@ -377,6 +413,9 @@
     "name:sqi_x_preferred":[
         "Islamabadi"
     ],
+    "name:srd_x_preferred":[
+        "Islamabad"
+    ],
     "name:srp_x_preferred":[
         "\u0418\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434"
     ],
@@ -406,6 +445,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e2d\u0e34\u0e2a\u0e25\u0e32\u0e21\u0e32\u0e1a\u0e31\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e2d\u0e34\u0e2a\u0e25\u0e32\u0e21\u0e32\u0e1a\u0e32\u0e14"
     ],
     "name:tuk_x_preferred":[
         "Yslamabat"
@@ -439,6 +481,9 @@
     ],
     "name:war_x_preferred":[
         "Islamabad"
+    ],
+    "name:wuu_x_preferred":[
+        "\u4f0a\u65af\u5170\u5821"
     ],
     "name:xmf_x_preferred":[
         "\u10d8\u10e1\u10da\u10d0\u10db\u10d0\u10d1\u10d0\u10d3\u10d8"
@@ -606,7 +651,7 @@
         }
     ],
     "wof:id":421168811,
-    "wof:lastmodified":1561789992,
+    "wof:lastmodified":1563353783,
     "wof:name":"Islamabad",
     "wof:parent_id":85675741,
     "wof:placetype":"locality",

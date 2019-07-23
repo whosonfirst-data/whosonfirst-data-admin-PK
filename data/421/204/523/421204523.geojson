@@ -29,6 +29,12 @@
     "name:cat_x_preferred":[
         "Sukkur"
     ],
+    "name:ceb_x_preferred":[
+        "Sukkur"
+    ],
+    "name:ces_x_preferred":[
+        "Sukkur"
+    ],
     "name:dan_x_preferred":[
         "Sukkur"
     ],
@@ -44,6 +50,9 @@
     "name:fas_x_preferred":[
         "\u0633\u06a9\u0631\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
     ],
+    "name:fas_x_variant":[
+        "\u0633\u06a9\u0631"
+    ],
     "name:fin_x_preferred":[
         "Sukkur"
     ],
@@ -52,6 +61,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac1\u0a95\u0acd\u0a95\u0ac1\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d5\u05e7\u05d5\u05e8"
     ],
     "name:hin_x_preferred":[
         "\u0938\u0916\u094d\u0916\u0930"
@@ -86,6 +98,9 @@
     "name:msa_x_preferred":[
         "Sukkur"
     ],
+    "name:nep_x_preferred":[
+        "\u0938\u0916\u094d\u0916\u0930"
+    ],
     "name:nld_x_preferred":[
         "Sukkur"
     ],
@@ -106,6 +121,9 @@
     ],
     "name:por_x_preferred":[
         "Sukkur"
+    ],
+    "name:pus_x_preferred":[
+        "\u0633\u06a9\u0647\u0631"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0443\u043a\u043a\u0443\u0440"
@@ -130,6 +148,9 @@
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c15\u0c4d\u0c15\u0c30\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Sukkur"
     ],
     "name:tha_x_preferred":[
         "\u0e0b\u0e31\u0e04\u0e40\u0e01\u0e2d\u0e23\u0e4c"
@@ -293,7 +314,7 @@
         }
     ],
     "wof:id":421204523,
-    "wof:lastmodified":1561789998,
+    "wof:lastmodified":1563353838,
     "wof:name":"Sukkur",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

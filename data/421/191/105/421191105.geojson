@@ -23,11 +23,17 @@
     "name:arz_x_preferred":[
         "\u0628\u064a\u0634\u0627\u0648\u0631"
     ],
+    "name:arz_x_variant":[
+        "\u067e\u064a\u0634\u0627\u0648\u0631"
+    ],
     "name:aze_x_preferred":[
         "Pi\u015f\u0259v\u0259r"
     ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u041f\u0435\u0448\u0430\u0432\u0430\u0440"
+    ],
+    "name:bel_x_variant":[
+        "\u041f\u0435\u0448\u0430\u0432\u0430\u0440"
     ],
     "name:ben_x_preferred":[
         "\u09aa\u09c7\u09b6\u09be\u0993\u09af\u09bc\u09be\u09b0"
@@ -36,6 +42,9 @@
         "\u041f\u0435\u0448\u0430\u0432\u0430\u0440"
     ],
     "name:cat_x_preferred":[
+        "Peshawar"
+    ],
+    "name:ceb_x_preferred":[
         "Peshawar"
     ],
     "name:ces_x_preferred":[
@@ -61,6 +70,9 @@
     ],
     "name:epo_x_preferred":[
         "Pe\u015davaro"
+    ],
+    "name:est_x_preferred":[
+        "Peshawar"
     ],
     "name:eus_x_preferred":[
         "Peshawar"
@@ -88,6 +100,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u0936\u093e\u0935\u0930"
+    ],
+    "name:hrv_x_preferred":[
+        "Pe\u0161avar"
     ],
     "name:hun_x_preferred":[
         "Pesavar"
@@ -149,6 +164,9 @@
     "name:nds_x_preferred":[
         "Peschawar"
     ],
+    "name:nep_x_preferred":[
+        "\u092a\u0947\u0936\u093e\u0935\u0930"
+    ],
     "name:nld_x_preferred":[
         "Pesjawar"
     ],
@@ -163,6 +181,9 @@
     ],
     "name:ori_x_preferred":[
         "\u0b2a\u0b47\u0b36\u0b3e\u0b2c\u0b30"
+    ],
+    "name:oss_x_preferred":[
+        "\u041f\u0435\u0448\u0430\u0432\u0430\u0440"
     ],
     "name:pan_x_preferred":[
         "\u0a2a\u0a47\u0a38\u0a3c\u0a3e\u0a35\u0a30"
@@ -200,6 +221,9 @@
     "name:slv_x_preferred":[
         "Pe\u0161avar"
     ],
+    "name:snd_x_preferred":[
+        "\u067e\u0634\u0627\u0648\u0631"
+    ],
     "name:spa_x_preferred":[
         "Peshawar"
     ],
@@ -214,6 +238,12 @@
     ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc6\u0b9a\u0bbe\u0bb5\u0bb0\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0baa\u0bc6\u0bb7\u0bbe\u0bb5\u0bb0\u0bcd"
+    ],
+    "name:tat_x_preferred":[
+        "\u041f\u0438\u0448\u0430\u0432\u04d9\u0440"
     ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c46\u0c37\u0c3e\u0c35\u0c30\u0c4d"
@@ -403,7 +433,7 @@
         }
     ],
     "wof:id":421191105,
-    "wof:lastmodified":1561790003,
+    "wof:lastmodified":1563353884,
     "wof:name":"Peshawar",
     "wof:parent_id":1108692347,
     "wof:placetype":"locality",

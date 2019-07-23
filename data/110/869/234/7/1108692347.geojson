@@ -34,15 +34,26 @@
     "mps:longitude":71.572861,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u09b6\u09be\u0993\u09af\u09bc\u09be\u09b0 \u099c\u09c7\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Districte de Peshawar"
+    ],
+    "name:ceb_x_preferred":[
+        "Pesh\u0101war District"
+    ],
+    "name:deu_x_preferred":[
+        "Peshawar"
     ],
     "name:eng_x_preferred":[
         "Peshawar"
     ],
     "name:eng_x_variant":[
-        "Peshawar District",
-        "Peshawar"
+        "Peshawar District"
+    ],
+    "name:fas_x_preferred":[
+        "\u0646\u0627\u062d\u06cc\u0647 \u067e\u06cc\u0634\u0627\u0648\u0631"
     ],
     "name:fra_x_preferred":[
         "Peshawar"
@@ -50,8 +61,14 @@
     "name:fre_x_variant":[
         "district de Peshawar"
     ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0936\u093e\u0935\u0930 \u091c\u093f\u0932\u093e"
+    ],
     "name:jpn_x_preferred":[
         "\u30da\u30b7\u30e3\u30ef\u30fc\u30eb\u5730\u533a"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d46\u0d37\u0d35\u0d3e\u0d7c \u0d1c\u0d3f\u0d32\u0d4d\u0d32"
     ],
     "name:pnb_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0634\u0627\u0648\u0631"
@@ -74,8 +91,14 @@
     "name:swe_x_preferred":[
         "Peshawar"
     ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c46\u0c37\u0c3e\u0c35\u0c30\u0c4d \u0c1c\u0c3f\u0c32\u0c4d\u0c32\u0c3e"
+    ],
     "name:tgk_x_preferred":[
         "\u043d\u043e\u04b3\u0438\u044f\u0438 \u041f\u0435\u0448\u043e\u0432\u0430\u0440"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u0448\u0430\u0432\u0430\u0440"
     ],
     "name:urd_x_preferred":[
         "\u0636\u0644\u0639 \u067e\u0634\u0627\u0648\u0631"
@@ -107,7 +130,7 @@
         }
     ],
     "wof:id":1108692347,
-    "wof:lastmodified":1561789712,
+    "wof:lastmodified":1563350730,
     "wof:name":"Peshawar",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",
