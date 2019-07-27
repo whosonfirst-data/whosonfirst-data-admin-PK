@@ -25,6 +25,21 @@
     "iso:country":"PK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Harun"
+    ],
+    "name:deu_x_preferred":[
+        "Harun"
+    ],
+    "name:fra_x_preferred":[
+        "Haroun"
+    ],
+    "name:kur_x_preferred":[
+        "Har\u00fbn"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0631\u0648\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +49,7 @@
         "gn:id":11234091
     },
     "wof:country":"PK",
-    "wof:geomhash":"239aaae10d3db160a7754c27ea1b9178",
+    "wof:geomhash":"ee34063dede3d9c3513a075accaa4861",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209118553,
-    "wof:lastmodified":1536297177,
+    "wof:lastmodified":1564192681,
     "wof:name":"Harun",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +68,9 @@
 },
   "bbox": [
     65.02013000000001,
-    26.291490000000003,
+    26.29149,
     65.02013000000001,
-    26.291490000000003
+    26.29149
 ],
   "geometry": {"coordinates":[65.02013000000001,26.29149],"type":"Point"}
 }

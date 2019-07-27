@@ -25,6 +25,9 @@
     "iso:country":"PK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Garhi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +37,7 @@
         "gn:id":1178889
     },
     "wof:country":"PK",
-    "wof:geomhash":"aba900cab90005c224d40a767747f465",
+    "wof:geomhash":"ab9b167d93ad76227cb648fcb12cb3a4",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209337793,
-    "wof:lastmodified":1536290161,
+    "wof:lastmodified":1564192601,
     "wof:name":"Garhi",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     72.199,
-    33.480290000000004,
+    33.48029,
     72.199,
-    33.480290000000004
+    33.48029
 ],
   "geometry": {"coordinates":[72.199,33.48029],"type":"Point"}
 }

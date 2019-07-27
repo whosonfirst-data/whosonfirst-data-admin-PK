@@ -25,6 +25,9 @@
     "iso:country":"PK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:pus_x_preferred":[
+        "\u062a\u0631\u0647 \u06a9\u064a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +37,7 @@
         "gn:id":1453613
     },
     "wof:country":"PK",
-    "wof:geomhash":"82af21b3c3b375f87b0f7f681ad5c38b",
+    "wof:geomhash":"fe06f8b4a353e07dc93cb19ef6b493cb",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +45,7 @@
         }
     ],
     "wof:id":1209316771,
-    "wof:lastmodified":1536290836,
+    "wof:lastmodified":1564191133,
     "wof:name":"Tarakai",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +56,9 @@
 },
   "bbox": [
     69.55383,
-    31.595990000000004,
+    31.59599,
     69.55383,
-    31.595990000000004
+    31.59599
 ],
   "geometry": {"coordinates":[69.55383,31.59599],"type":"Point"}
 }

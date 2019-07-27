@@ -25,6 +25,21 @@
     "iso:country":"PK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Takai"
+    ],
+    "name:fra_x_preferred":[
+        "Takai"
+    ],
+    "name:hau_x_preferred":[
+        "Takai"
+    ],
+    "name:ita_x_preferred":[
+        "Takai"
+    ],
+    "name:spa_x_preferred":[
+        "Takai"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +49,7 @@
         "gn:id":11268204
     },
     "wof:country":"PK",
-    "wof:geomhash":"50eb76adc523059670ee828313edd46b",
+    "wof:geomhash":"b8da10e54ad658cda620b42c6d74fa99",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +57,7 @@
         }
     ],
     "wof:id":1209517583,
-    "wof:lastmodified":1536284683,
+    "wof:lastmodified":1564192533,
     "wof:name":"Takai",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +68,9 @@
 },
   "bbox": [
     69.90172,
-    31.143390000000004,
+    31.14339,
     69.90172,
-    31.143390000000004
+    31.14339
 ],
   "geometry": {"coordinates":[69.90172,31.14339],"type":"Point"}
 }
