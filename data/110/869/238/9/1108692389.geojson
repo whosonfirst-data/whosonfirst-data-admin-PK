@@ -31,6 +31,15 @@
     "mps:longitude":69.790916,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ben_x_preferred":[
+        "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u0993\u09af\u09bc\u09be\u099c\u09bf\u09b0\u09bf\u09b8\u09cd\u09a4\u09be\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Waziristan Meridional"
+    ],
+    "name:ces_x_preferred":[
+        "Ji\u017en\u00ed Vaz\u00edrist\u00e1n"
+    ],
     "name:eng_x_preferred":[
         "South Waziristan"
     ],
@@ -38,6 +47,51 @@
         "South Waziristan Agency",
         "F.A.T.A.",
         "South Waziristan Agency"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0632\u06cc\u0631\u0633\u062a\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Waziristan du Sud"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7\u10d8 \u10d5\u10d0\u10d6\u10d8\u10e0\u10d8\u10e1\u10e2\u10d0\u10dc\u10d8"
+    ],
+    "name:nld_x_preferred":[
+        "Zuid-Waziristan"
+    ],
+    "name:nor_x_preferred":[
+        "S\u00f8r-Waziristan"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0636\u0644\u0639 \u0648\u0627\u0646\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Po\u0142udniowy Waziristan"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u0436\u043d\u044b\u0439 \u0412\u0430\u0437\u0438\u0440\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:snd_x_preferred":[
+        "\u068f\u06a9\u06bb \u0648\u0632\u064a\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:spa_x_preferred":[
+        "Wazirist\u00e1n del Sur"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bc6\u0bb1\u0bcd\u0b95\u0bc1 \u0bb5\u0b9a\u0bc0\u0bb0\u0bbf\u0bb8\u0bcd\u0ba4\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "G\u00fcney Veziristan"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0456\u0432\u0434\u0435\u043d\u043d\u0438\u0439 \u0412\u0430\u0437\u0438\u0440\u0438\u0441\u0442\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0636\u0644\u0639 \u062c\u0646\u0648\u0628\u06cc \u0648\u0632\u06cc\u0631\u0633\u062a\u0627\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u74e6\u6d4e\u91cc\u65af\u5766\u7279\u533a"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -62,7 +116,7 @@
         }
     ],
     "wof:id":1108692389,
-    "wof:lastmodified":1555047525,
+    "wof:lastmodified":1564194763,
     "wof:name":"South Waziristan",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

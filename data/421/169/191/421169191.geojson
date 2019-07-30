@@ -5,6 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.4039,31.6047,74.4039,31.6047",
     "geom:latitude":31.6047,
     "geom:longitude":74.4039,
@@ -14,6 +15,12 @@
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Isl\u0101m\u0101b\u0101d"
+    ],
+    "name:pol_x_preferred":[
+        "Grudzianka"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0490\u0440\u0443\u0434\u0437\u044f\u043d\u043a\u0430"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLX",
@@ -35,10 +42,10 @@
     "qs:woe_id":55957162,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692273,
-        85675753
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":421169191,
-    "wof:lastmodified":1531858304,
+    "wof:lastmodified":1564197810,
     "wof:name":"Islamabad",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

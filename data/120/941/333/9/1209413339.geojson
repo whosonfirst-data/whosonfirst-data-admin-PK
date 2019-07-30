@@ -25,6 +25,15 @@
     "iso:country":"PK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Paran"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05df"
+    ],
+    "name:swe_x_preferred":[
+        "Paran"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +43,7 @@
         "gn:id":1369678
     },
     "wof:country":"PK",
-    "wof:geomhash":"ebe2ca0db647586d322e3cd353be5f58",
+    "wof:geomhash":"ae9fa559af2a148bad2b8a7634febd53",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209413339,
-    "wof:lastmodified":1536287767,
+    "wof:lastmodified":1564191721,
     "wof:name":"Paran",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     68.91111,
-    26.519440000000003,
+    26.51944,
     68.91111,
-    26.519440000000003
+    26.51944
 ],
   "geometry": {"coordinates":[68.91110999999999,26.51944],"type":"Point"}
 }

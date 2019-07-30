@@ -25,6 +25,15 @@
     "iso:country":"PK",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Akhtar\u0101b\u0101d"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u062e\u062a\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Akhtar\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +43,7 @@
         "gn:id":11544965
     },
     "wof:country":"PK",
-    "wof:geomhash":"0639912022b3d4b4efa26eb05632cbd7",
+    "wof:geomhash":"540e8196641447c2305795a84ed90747",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +51,7 @@
         }
     ],
     "wof:id":1209620555,
-    "wof:lastmodified":1536281533,
+    "wof:lastmodified":1564191372,
     "wof:name":"Akhtarabad",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +62,9 @@
 },
   "bbox": [
     73.7585,
-    30.462190000000003,
+    30.46219,
     73.7585,
-    30.462190000000003
+    30.46219
 ],
   "geometry": {"coordinates":[73.7585,30.46219],"type":"Point"}
 }
