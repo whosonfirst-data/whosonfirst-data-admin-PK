@@ -10,8 +10,12 @@
     "geom:latitude":28.00604,
     "geom:longitude":69.31608,
     "iso:country":"PK",
+    "lbl:bbox":"69.29608,27.98604,69.33608,28.02604",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ghotki"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Ghotki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gotki"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":1178456,
         "gp:id":2210967,
-        "qs:id":190592,
+        "qs_pg:id":190592,
         "wd:id":"Q2592625",
         "wk:page":"Ghotki"
     },
@@ -101,7 +105,7 @@
         }
     ],
     "wof:id":421199193,
-    "wof:lastmodified":1563353898,
+    "wof:lastmodified":1566591784,
     "wof:name":"Ghotki",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

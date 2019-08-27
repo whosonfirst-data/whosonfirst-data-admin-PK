@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":31.110484,
     "lbl:longitude":72.384598,
+    "lbl:min_zoom":8.0,
     "mps:latitude":31.110484,
     "mps:longitude":72.384598,
     "mz:hierarchy_label":1,
@@ -279,7 +280,7 @@
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u0434\u0436\u0430\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "West Punjab"
     ],
     "name:urd_x_preferred":[
@@ -379,9 +380,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-02",
+    "src:population_date":"1998-03-02",
     "statoids:area_km":"205,344",
     "statoids:area_mi":"79,284",
     "statoids:as_of_date":"1998-03-02",
@@ -409,7 +410,7 @@
         "hasc:id":"PK.PB",
         "iso:id":"PK-PB",
         "nyt:id":"71010102219428544521",
-        "qs:id":1168712,
+        "qs_pg:id":1168712,
         "unlc:id":"PK-PB",
         "wd:id":"Q4478",
         "wk:page":"Punjab, Pakistan"
@@ -432,7 +433,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1565733115,
+    "wof:lastmodified":1566584921,
     "wof:name":"Punjab",
     "wof:parent_id":85632659,
     "wof:placetype":"region",

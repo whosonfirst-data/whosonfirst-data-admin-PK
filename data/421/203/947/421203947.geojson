@@ -10,6 +10,9 @@
     "geom:latitude":31.11556,
     "geom:longitude":74.44667,
     "iso:country":"PK",
+    "lbl:bbox":"74.42667,31.09556,74.46667,31.13556",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -101,7 +104,7 @@
     "name:tha_x_preferred":[
         "\u0e01\u0e32\u0e0b\u0e39\u0e23\u0e4c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kans\u016br"
     ],
     "name:urd_x_preferred":[
@@ -247,7 +250,7 @@
     "wof:concordances":{
         "gn:id":1174625,
         "gp:id":2211104,
-        "qs:id":235527,
+        "qs_pg:id":235527,
         "wd:id":"Q989283",
         "wk:page":"Kasur"
     },
@@ -263,7 +266,7 @@
         }
     ],
     "wof:id":421203947,
-    "wof:lastmodified":1563353840,
+    "wof:lastmodified":1566591774,
     "wof:name":"Kasur",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

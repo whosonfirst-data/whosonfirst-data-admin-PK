@@ -10,8 +10,12 @@
     "geom:latitude":26.45834,
     "geom:longitude":68.31915,
     "iso:country":"PK",
+    "lbl:bbox":"68.29915,26.43834,68.33915,26.47834",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Daur"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1180374,
         "gp:id":2210900,
-        "qs:id":1307191,
+        "qs_pg:id":1307191,
         "wd:id":"Q5228088"
     },
     "wof:country":"PK",
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421184833,
-    "wof:lastmodified":1563353919,
+    "wof:lastmodified":1566591787,
     "wof:name":"Daur",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

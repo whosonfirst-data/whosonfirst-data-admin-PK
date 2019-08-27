@@ -11,8 +11,10 @@
     "geom:longitude":71.541185,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"71.536185,34.00227,71.546185,34.01227",
     "lbl:latitude":34.00727,
     "lbl:longitude":71.541185,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.007134,
     "mps:longitude":71.542606,
     "mz:hierarchy_label":0,
@@ -34,10 +36,7 @@
         "Nauthehaan",
         "Nauthehan"
     ],
-    "name:und_x_preferred":[
-        "Nautheh\u00e5n"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nautheh\u00e5n"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -65,17 +64,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1360701001,
         102191569,
         85632659,
-        1108692347,
-        1360701001
+        1108692347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2204745,
-        "qs:id":1130142
+        "qs_pg:id":1130142
     },
     "wof:country":"PK",
     "wof:geomhash":"aa9f2c2736c3bf1f764bb741b8eec0a1",
@@ -93,7 +92,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1543515827,
+    "wof:lastmodified":1566584915,
     "wof:name":"Nautheh\u00e5n",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

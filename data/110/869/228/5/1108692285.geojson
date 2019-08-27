@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":28.956258,
     "lbl:longitude":68.048672,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"LehriBalochistan",
     "meso:gadm_admin":"Nasirabad",
@@ -31,6 +33,7 @@
     "mps:longitude":68.048672,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Lehri"
     ],
@@ -39,7 +42,7 @@
         "Nasirabad"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1108692285,
-    "wof:lastmodified":1555047523,
+    "wof:lastmodified":1566590157,
     "wof:name":"Lehri",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

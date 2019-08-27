@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.4469,32.89157,73.4869,32.93157",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1183474
     },
     "wof:country":"PK",
-    "wof:geomhash":"7fd5338f4f842ca51c6e8ada252904e8",
+    "wof:geomhash":"0c30afd4df73defc5299c3a9df9d901d",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209337835,
-    "wof:lastmodified":1536290160,
+    "wof:lastmodified":1566589005,
     "wof:name":"Bangial",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.4669,
-    32.911570000000005,
+    32.91157,
     73.4669,
-    32.911570000000005
+    32.91157
 ],
   "geometry": {"coordinates":[73.4669,32.91157],"type":"Point"}
 }

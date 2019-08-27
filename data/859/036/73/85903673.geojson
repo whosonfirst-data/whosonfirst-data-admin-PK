@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":511381.419058,
+    "geom:area_square_m":0.0,
     "geom:bbox":"66.997529,24.848602,66.997529,24.848602",
     "geom:latitude":24.848602,
     "geom:longitude":66.997529,
     "iso:country":"PK",
+    "lbl:bbox":"66.992529,24.843602,67.002529,24.853602",
     "lbl:latitude":24.848602,
     "lbl:longitude":66.997529,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.849058,
     "mps:longitude":66.996948,
     "mz:hierarchy_label":0,
@@ -27,10 +29,7 @@
         "Gaanji",
         "Ganji"
     ],
-    "name:und_x_preferred":[
-        "G\u00e5nji"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "G\u00e5nji"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -60,12 +59,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -87,7 +86,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936062,
+    "wof:lastmodified":1566584915,
     "wof:name":"G\u00e5nji",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

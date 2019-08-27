@@ -10,8 +10,12 @@
     "geom:latitude":30.45016,
     "geom:longitude":73.69888,
     "iso:country":"PK",
+    "lbl:bbox":"73.67888,30.43016,73.71888,30.47016",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:deu_x_preferred":[
         "Haveli"
@@ -52,7 +56,7 @@
     "name:sqi_x_preferred":[
         "Haveli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haveli Lakha"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1176997,
         "gp:id":2211014,
-        "qs:id":1307237,
+        "qs_pg:id":1307237,
         "wd:id":"Q7882520"
     },
     "wof:country":"PK",
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421184847,
-    "wof:lastmodified":1563353921,
+    "wof:lastmodified":1566591788,
     "wof:name":"Haveli",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

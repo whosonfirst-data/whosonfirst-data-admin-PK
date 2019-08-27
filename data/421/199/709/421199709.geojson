@@ -10,8 +10,12 @@
     "geom:latitude":29.23562,
     "geom:longitude":71.04989,
     "iso:country":"PK",
+    "lbl:bbox":"71.02989,29.21562,71.06989,29.25562",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Uch"
@@ -61,7 +65,7 @@
     "name:snd_x_preferred":[
         "\u0627\u0686"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uch Sharif Municipality"
     ],
     "name:urd_x_preferred":[
@@ -95,7 +99,7 @@
     "wof:concordances":{
         "gn:id":1163016,
         "gp:id":2211546,
-        "qs:id":1221929,
+        "qs_pg:id":1221929,
         "wd:id":"Q532244",
         "wk:page":"Uch"
     },
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":421199709,
-    "wof:lastmodified":1563353898,
+    "wof:lastmodified":1566591784,
     "wof:name":"Uch",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":24.984695,
     "lbl:longitude":67.238928,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sindh",
     "meso:diss_me":"Karachi CitySindh",
     "meso:gadm_admin":"Karachi",
@@ -31,6 +33,7 @@
     "mps:longitude":67.238928,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Karatsji"
     ],
@@ -478,7 +481,7 @@
         "\u5361\u62c9\u5947"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -500,7 +503,7 @@
         }
     ],
     "wof:id":1108692233,
-    "wof:lastmodified":1564194755,
+    "wof:lastmodified":1566590164,
     "wof:name":"Karachi",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

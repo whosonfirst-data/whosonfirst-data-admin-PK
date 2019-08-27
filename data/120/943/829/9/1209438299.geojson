@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.94055,29.89087,70.98055,29.93087",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1183205
     },
     "wof:country":"PK",
-    "wof:geomhash":"99eaf70f0d6e019502225349e14aaff5",
+    "wof:geomhash":"66d7a6dfd36c7d0d0a01426fbf0ef0a3",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209438299,
-    "wof:lastmodified":1536287035,
+    "wof:lastmodified":1566589256,
     "wof:name":"Basti Arbi",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.96055,
-    29.910870000000006,
+    29.91087000000001,
     70.96055,
-    29.910870000000006
+    29.91087000000001
 ],
   "geometry": {"coordinates":[70.96055,29.91087000000001],"type":"Point"}
 }

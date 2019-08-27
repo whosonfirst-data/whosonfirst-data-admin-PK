@@ -10,8 +10,12 @@
     "geom:latitude":35.42255,
     "geom:longitude":75.73909,
     "iso:country":"PK",
+    "lbl:bbox":"75.71909,35.40255,75.75909,35.44255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Shigar"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1165119,
         "gp:id":29214543,
-        "qs:id":424433,
+        "qs_pg:id":424433,
         "wd:id":"Q7496305",
         "wk:page":"Shigar"
     },
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":421180217,
-    "wof:lastmodified":1563353852,
+    "wof:lastmodified":1566591776,
     "wof:name":"Shigar",
     "wof:parent_id":1108692133,
     "wof:placetype":"locality",

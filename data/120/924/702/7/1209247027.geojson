@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"72.37134,31.77664,72.41134,31.81664",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11460248
     },
     "wof:country":"PK",
-    "wof:geomhash":"d63696aa0d8e186763c16792871a963c",
+    "wof:geomhash":"bbb3e82e979b6bbf99fb3222aff07676",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209247027,
-    "wof:lastmodified":1536293129,
+    "wof:lastmodified":1566588562,
     "wof:name":"Naushehra",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     72.39134,
-    31.796640000000004,
+    31.79664,
     72.39134,
-    31.796640000000004
+    31.79664
 ],
   "geometry": {"coordinates":[72.39134,31.79664],"type":"Point"}
 }

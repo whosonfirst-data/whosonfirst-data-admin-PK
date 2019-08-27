@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"69.74797,25.35812,69.78797,25.39812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11603813
     },
     "wof:country":"PK",
-    "wof:geomhash":"2e76e2d243b539743f1f7eff6a1bc900",
+    "wof:geomhash":"e04a6e019602bc52c0fc77bd57ab10b3",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209218811,
-    "wof:lastmodified":1536294036,
+    "wof:lastmodified":1566589170,
     "wof:name":"Goth Sohrab Mangrio",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     69.76796999999999,
-    25.378120000000006,
+    25.37812000000001,
     69.76796999999999,
-    25.378120000000006
+    25.37812000000001
 ],
   "geometry": {"coordinates":[69.76796999999999,25.37812000000001],"type":"Point"}
 }

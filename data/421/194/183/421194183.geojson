@@ -10,8 +10,12 @@
     "geom:latitude":32.32426,
     "geom:longitude":74.34974,
     "iso:country":"PK",
+    "lbl:bbox":"74.32974,32.30426,74.36974,32.34426",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Daska"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Daska"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Daska Kal\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -94,7 +98,7 @@
     "wof:concordances":{
         "gn:id":1180436,
         "gp:id":2210895,
-        "qs:id":1030040,
+        "qs_pg:id":1030040,
         "wd:id":"Q2374990",
         "wk:page":"Daska"
     },
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421194183,
-    "wof:lastmodified":1563353802,
+    "wof:lastmodified":1566591768,
     "wof:name":"Daska",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

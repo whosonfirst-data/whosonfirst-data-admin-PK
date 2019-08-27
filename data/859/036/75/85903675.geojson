@@ -5,13 +5,15 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3920722.68348,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.029694,24.89726,67.029694,24.89726",
     "geom:latitude":24.89726,
     "geom:longitude":67.029694,
     "iso:country":"PK",
+    "lbl:bbox":"67.024694,24.89226,67.034694,24.90226",
     "lbl:latitude":24.89726,
     "lbl:longitude":67.029694,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.903892,
     "mps:longitude":67.030312,
     "mz:hierarchy_label":0,
@@ -30,10 +32,7 @@
         "Goth Thaara",
         "Goth Thara"
     ],
-    "name:und_x_preferred":[
-        "Goth Th\u00e5ra"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Goth Th\u00e5ra"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -63,12 +62,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,7 +89,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936062,
+    "wof:lastmodified":1566584915,
     "wof:name":"Goth Th\u00e5ra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

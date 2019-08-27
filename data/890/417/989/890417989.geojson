@@ -11,10 +11,14 @@
     "geom:longitude":73.2122,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":35000,
+    "gn:population":35000,
     "iso:country":"PK",
+    "lbl:bbox":"73.1922,32.53492,73.2322,32.57492",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:deu_x_preferred":[
         "Malakwal"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":6457378,
         "gp:id":2211205,
-        "qs:id":625699,
+        "qs_pg:id":625699,
         "wd:id":"Q446394",
         "wk:page":"Malakwal"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890417989,
-    "wof:lastmodified":1563353965,
+    "wof:lastmodified":1566591799,
     "wof:name":"Malakwal City",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

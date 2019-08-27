@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.24223,26.52169,68.28223,26.56169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11366279
     },
     "wof:country":"PK",
-    "wof:geomhash":"17eaa423aa73a6968eb33e8608e18654",
+    "wof:geomhash":"fd8e406fb080005edaab6997f86c88d1",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209008519,
-    "wof:lastmodified":1536300524,
+    "wof:lastmodified":1566588117,
     "wof:name":"Goth Haji Idris Burro",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.26223,
-    26.541690000000006,
+    26.54169000000001,
     68.26223,
-    26.541690000000006
+    26.54169000000001
 ],
   "geometry": {"coordinates":[68.26223,26.54169000000001],"type":"Point"}
 }

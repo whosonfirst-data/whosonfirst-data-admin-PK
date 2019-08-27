@@ -10,8 +10,12 @@
     "geom:latitude":31.38656,
     "geom:longitude":71.44067,
     "iso:country":"PK",
+    "lbl:bbox":"71.42067,31.36656,71.46067,31.40656",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041c\u0430\u043d\u043a\u0435\u0440\u0430"
@@ -37,7 +41,7 @@
     "name:por_x_preferred":[
         "Mankera"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mankora"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1170974,
         "gp:id":2211220,
-        "qs:id":130741,
+        "qs_pg:id":130741,
         "wd:id":"Q3695856",
         "wk:page":"Mankera"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421178573,
-    "wof:lastmodified":1563353935,
+    "wof:lastmodified":1566591791,
     "wof:name":"Mankera",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

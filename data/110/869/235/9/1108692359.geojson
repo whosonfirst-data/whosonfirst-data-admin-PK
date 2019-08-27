@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":29.306572,
     "lbl:longitude":70.159624,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:diss_me":"RajanpurPunjab",
     "meso:gadm_admin":"Dera Ghazi Khan",
@@ -31,6 +33,7 @@
     "mps:longitude":70.159624,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ceb_x_preferred":[
         "R\u0101janpur"
     ],
@@ -69,7 +72,7 @@
         "\u0631\u0627\u062c\u0646 \u067e\u0648\u0631"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1108692359,
-    "wof:lastmodified":1564194745,
+    "wof:lastmodified":1566590157,
     "wof:name":"Rajanpur",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

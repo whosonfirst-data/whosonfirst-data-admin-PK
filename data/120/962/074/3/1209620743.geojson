@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.46393,33.56689,73.50393,33.60689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7082467
     },
     "wof:country":"PK",
-    "wof:geomhash":"c6b43defe25e1800dc20508792a310d3",
+    "wof:geomhash":"c3bc03991a16f6d3b6c38641b7aed360",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209620743,
-    "wof:lastmodified":1536281526,
+    "wof:lastmodified":1566588277,
     "wof:name":"Hanesar",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.48393,
-    33.586890000000004,
+    33.58689,
     73.48393,
-    33.586890000000004
+    33.58689
 ],
   "geometry": {"coordinates":[73.48393,33.58689],"type":"Point"}
 }

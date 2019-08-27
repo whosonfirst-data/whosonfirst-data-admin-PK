@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":31.659048,
     "lbl:longitude":69.744546,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"SheeraniBalochistan",
     "meso:gadm_admin":"Zhob",
@@ -34,6 +36,7 @@
     "mps:longitude":69.744546,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099d\u09ac \u099c\u09c7\u09b2\u09be"
     ],
@@ -96,7 +99,7 @@
         "\u4f50\u5e03\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108692375,
-    "wof:lastmodified":1563350768,
+    "wof:lastmodified":1566590173,
     "wof:name":"Sheerani",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

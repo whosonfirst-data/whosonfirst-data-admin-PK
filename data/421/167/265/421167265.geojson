@@ -10,8 +10,12 @@
     "geom:latitude":30.83388,
     "geom:longitude":71.90529,
     "iso:country":"PK",
+    "lbl:bbox":"71.88529,30.81388,71.92529,30.85388",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Garh Maharaja"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1178841,
         "gp:id":2210954,
-        "qs:id":130840,
+        "qs_pg:id":130840,
         "wd:id":"Q5523222"
     },
     "wof:country":"PK",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421167265,
-    "wof:lastmodified":1563353823,
+    "wof:lastmodified":1566591771,
     "wof:name":"Garh Maharaja",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

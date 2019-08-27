@@ -10,8 +10,12 @@
     "geom:latitude":29.54051,
     "geom:longitude":71.63357,
     "iso:country":"PK",
+    "lbl:bbox":"71.61357,29.52051,71.65357,29.56051",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Lodhr\u0101n"
@@ -55,9 +59,6 @@
     "name:swe_x_preferred":[
         "Lodhran"
     ],
-    "name:unk_x_variant":[
-        "Lodhr\u0101n"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u062d\u0635\u06cc\u0644 \u0644\u0648\u062f\u06be\u0631\u0627\u06ba"
     ],
@@ -93,7 +94,7 @@
     "wof:concordances":{
         "gn:id":1171965,
         "gp:id":2211194,
-        "qs:id":1307308,
+        "qs_pg:id":1307308,
         "wd:id":"Q1249783",
         "wk:page":"Lodhran Tehsil"
     },
@@ -109,7 +110,7 @@
         }
     ],
     "wof:id":421169273,
-    "wof:lastmodified":1563353826,
+    "wof:lastmodified":1566591772,
     "wof:name":"Lodhran",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

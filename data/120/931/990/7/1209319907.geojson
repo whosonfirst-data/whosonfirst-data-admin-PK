@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.09046,30.02432,71.13046,30.06432",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7341907
     },
     "wof:country":"PK",
-    "wof:geomhash":"a49d7b9c5dbce4582dae80f964131e64",
+    "wof:geomhash":"02aa6284930e70c410cd0a5a5a02abba",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209319907,
-    "wof:lastmodified":1536290731,
+    "wof:lastmodified":1566588046,
     "wof:name":"Pilplanwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.11046,
-    30.044320000000006,
+    30.04432000000001,
     71.11046,
-    30.044320000000006
+    30.04432000000001
 ],
   "geometry": {"coordinates":[71.11046,30.04432000000001],"type":"Point"}
 }

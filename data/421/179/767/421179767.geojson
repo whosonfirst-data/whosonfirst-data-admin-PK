@@ -10,8 +10,12 @@
     "geom:latitude":32.10384,
     "geom:longitude":70.97235,
     "iso:country":"PK",
+    "lbl:bbox":"70.95235,32.08384,70.99235,32.12384",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09aa\u09be\u09b9\u09be\u09a1\u09bc\u09aa\u09c1\u09b0"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Paharpur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pah\u0101rpur"
     ],
     "qs:gn_country":"PK",
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1168633,
         "gp:id":2211317,
-        "qs:id":462094
+        "qs_pg:id":462094
     },
     "wof:country":"PK",
     "wof:created":1459009232,
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":421179767,
-    "wof:lastmodified":1564197826,
+    "wof:lastmodified":1566591790,
     "wof:name":"Paharpur",
     "wof:parent_id":1108692165,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.92973,
     "geom:longitude":72.41583,
     "iso:country":"PK",
+    "lbl:bbox":"72.39583,32.90973,72.43583,32.94973",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Talagang"
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1164069,
         "gp:id":2211498,
-        "qs:id":1029863,
+        "qs_pg:id":1029863,
         "wd:id":"Q3246249"
     },
     "wof:country":"PK",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421180093,
-    "wof:lastmodified":1563353857,
+    "wof:lastmodified":1566591777,
     "wof:name":"Talagang",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

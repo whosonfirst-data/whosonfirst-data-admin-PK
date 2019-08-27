@@ -10,8 +10,12 @@
     "geom:latitude":29.38464,
     "geom:longitude":70.91157,
     "iso:country":"PK",
+    "lbl:bbox":"70.89157,29.36464,70.93157,29.40464",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Alipur"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1184655,
         "gp:id":2190291,
-        "qs:id":190552
+        "qs_pg:id":190552
     },
     "wof:country":"PK",
     "wof:created":1459009980,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421199179,
-    "wof:lastmodified":1564197822,
+    "wof:lastmodified":1566591785,
     "wof:name":"Alipur",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

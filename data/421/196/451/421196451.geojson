@@ -10,8 +10,12 @@
     "geom:latitude":32.26232,
     "geom:longitude":75.16682,
     "iso:country":"PK",
+    "lbl:bbox":"75.14682,32.24232,75.18682,32.28232",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Shakargarh"
@@ -29,9 +33,6 @@
         "\u0634\u06a9\u0631\u06af\u0691\u06be"
     ],
     "name:spa_x_preferred":[
-        "Shakargarh"
-    ],
-    "name:unk_x_variant":[
         "Shakargarh"
     ],
     "name:urd_x_preferred":[
@@ -69,7 +70,7 @@
     "wof:concordances":{
         "gn:id":1165388,
         "gp:id":2208069,
-        "qs:id":1307124,
+        "qs_pg:id":1307124,
         "wd:id":"Q3251369"
     },
     "wof:country":"PK",
@@ -84,7 +85,7 @@
         }
     ],
     "wof:id":421196451,
-    "wof:lastmodified":1563353882,
+    "wof:lastmodified":1566591781,
     "wof:name":"Shakargarr",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

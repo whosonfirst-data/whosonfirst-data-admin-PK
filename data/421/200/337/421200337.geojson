@@ -10,8 +10,12 @@
     "geom:latitude":29.02252,
     "geom:longitude":66.5916,
     "iso:country":"PK",
+    "lbl:bbox":"66.5716,29.00252,66.6116,29.04252",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0642\u0644\u0627\u062a"
@@ -73,7 +77,7 @@
     "name:tur_x_preferred":[
         "Kalat"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khelat"
     ],
     "name:urd_x_preferred":[
@@ -111,7 +115,7 @@
     "wof:concordances":{
         "gn:id":1175296,
         "gp:id":2211080,
-        "qs:id":1300315,
+        "qs_pg:id":1300315,
         "wd:id":"Q2581527"
     },
     "wof:country":"PK",
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":421200337,
-    "wof:lastmodified":1563353904,
+    "wof:lastmodified":1566591785,
     "wof:name":"Kelat",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

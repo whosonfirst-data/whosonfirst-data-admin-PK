@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":2077662.111847,
+    "geom:area_square_m":0.0,
     "geom:bbox":"66.994629,24.852796,66.994629,24.852796",
     "geom:latitude":24.852796,
     "geom:longitude":66.994629,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"66.989629,24.847796,66.999629,24.857796",
     "lbl:latitude":24.852796,
     "lbl:longitude":66.994629,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.85869,
     "mps:longitude":66.994287,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Karachi City Centre"
-    ],
-    "name:unk_x_variant":[
         "Karachi City Centre"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -56,17 +55,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726262,
-        "qs:id":1085683
+        "qs_pg:id":1085683
     },
     "wof:country":"PK",
     "wof:geomhash":"ed1da7f9f32147d0a906871af6f00b62",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936602,
+    "wof:lastmodified":1566584917,
     "wof:name":"Karachi City Centre",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

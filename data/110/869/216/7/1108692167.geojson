@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.336828,
     "lbl:longitude":74.289594,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gilgit-Baltistan",
     "meso:diss_me":"DiamirGilgit-Baltistan",
     "meso:gadm_admin":"Northern Areas",
@@ -31,6 +33,7 @@
     "mps:longitude":74.289594,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Diamir"
     ],
@@ -41,7 +44,7 @@
         "Northern Areas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         1159339495,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1108692167,
-    "wof:lastmodified":1564194733,
+    "wof:lastmodified":1566590148,
     "wof:name":"Diamir",
     "wof:parent_id":85675745,
     "wof:placetype":"county",

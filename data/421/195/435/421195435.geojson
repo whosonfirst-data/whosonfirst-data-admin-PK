@@ -10,6 +10,9 @@
     "geom:latitude":32.98541,
     "geom:longitude":70.6027,
     "iso:country":"PK",
+    "lbl:bbox":"70.5827,32.96541,70.6227,33.00541",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -259,7 +262,7 @@
     "wof:concordances":{
         "gn:id":1183460,
         "gp:id":2210807,
-        "qs:id":273876,
+        "qs_pg:id":273876,
         "wd:id":"Q806916",
         "wk:page":"Bannu (City)"
     },
@@ -276,7 +279,7 @@
         }
     ],
     "wof:id":421195435,
-    "wof:lastmodified":1563353797,
+    "wof:lastmodified":1566591767,
     "wof:name":"Bannu",
     "wof:parent_id":1108692137,
     "wof:placetype":"locality",

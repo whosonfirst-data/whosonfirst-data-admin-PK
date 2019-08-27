@@ -10,8 +10,12 @@
     "geom:latitude":28.02271,
     "geom:longitude":69.54886,
     "iso:country":"PK",
+    "lbl:bbox":"69.52886,28.00271,69.56886,28.04271",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Mirpur Mathelo"
@@ -31,7 +35,7 @@
     "name:swe_x_preferred":[
         "Mirpur Mathelo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "M\u012brpur"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1170294,
         "gp:id":56122421,
-        "qs:id":79045,
+        "qs_pg:id":79045,
         "wd:id":"Q3306408",
         "wk:page":"Mirpur Mathelo"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421193711,
-    "wof:lastmodified":1563353808,
+    "wof:lastmodified":1566591769,
     "wof:name":"Mirpur Mathelo",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

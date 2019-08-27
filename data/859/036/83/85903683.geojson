@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":47762940.914637,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.075653,33.664796,73.075653,33.664796",
     "geom:latitude":33.664796,
     "geom:longitude":73.075653,
     "gn:latitude":33.63333,
     "gn:longitude":73.05,
     "iso:country":"PK",
+    "lbl:bbox":"73.070653,33.659796,73.080653,33.669796",
     "lbl:latitude":33.664796,
     "lbl:longitude":73.075653,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.666994,
     "mps:longitude":73.070528,
     "mz:hierarchy_label":0,
@@ -29,10 +31,7 @@
         "Imaam Baara",
         "Imam Bara"
     ],
-    "name:und_x_preferred":[
-        "Im\u00e5m B\u00e5ra"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Im\u00e5m B\u00e5ra"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -62,18 +61,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692361,
-        85675753
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1176698,
         "gp:id":2197930,
-        "qs:id":894047
+        "qs_pg:id":894047
     },
     "wof:country":"PK",
     "wof:geomhash":"f9937f68d0dd1650a641410df420b71b",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936064,
+    "wof:lastmodified":1566584916,
     "wof:name":"Im\u00e5m B\u00e5ra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

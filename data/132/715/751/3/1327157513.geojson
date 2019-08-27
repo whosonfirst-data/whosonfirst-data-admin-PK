@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.15342,33.0283,73.19342,33.0683",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ast_x_preferred":[
         "Nara"
     ],
@@ -127,8 +131,7 @@
     "name:und_x_variant":[
         "Nara Chautri\u0101n",
         "Nara Chontarian",
-        "Nara Chaudhri\u0101n",
-        "Nara"
+        "Nara Chaudhri\u0101n"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -153,7 +156,7 @@
         }
     ],
     "wof:id":1327157513,
-    "wof:lastmodified":1564182413,
+    "wof:lastmodified":1566582004,
     "wof:name":"Nara",
     "wof:parent_id":1108692149,
     "wof:placetype":"locality",

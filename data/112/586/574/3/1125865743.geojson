@@ -9,17 +9,20 @@
     "geom:bbox":"71.91673,29.62382,71.91673,29.62382",
     "geom:latitude":29.62382,
     "geom:longitude":71.91673,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":69743,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
     "gn:population":69743,
     "iso:country":"PK",
+    "lbl:bbox":"71.89673,29.60382,71.93673,29.64382",
     "lbl:latitude":29.62382,
     "lbl:longitude":71.91673,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kharor"
     ],
     "qs_pg:aaroncc":"PK",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":130797,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125865743,
-    "wof:lastmodified":1509396972,
+    "wof:lastmodified":1566591804,
     "wof:name":"Kohror Pakka",
     "wof:parent_id":1108692287,
     "wof:placetype":"locality",

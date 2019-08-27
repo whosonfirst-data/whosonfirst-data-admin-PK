@@ -10,8 +10,12 @@
     "geom:latitude":33.24024,
     "geom:longitude":72.26609,
     "iso:country":"PK",
+    "lbl:bbox":"72.24609,33.22024,72.28609,33.26024",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Pindigheb"
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1168015,
         "gp:id":2211351,
-        "qs:id":1307355,
+        "qs_pg:id":1307355,
         "wd:id":"Q3694562"
     },
     "wof:country":"PK",
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421200443,
-    "wof:lastmodified":1563353910,
+    "wof:lastmodified":1566591786,
     "wof:name":"Pindi Gheb",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

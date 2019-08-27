@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.21324,29.88354,73.25324,29.92354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11086389
     },
     "wof:country":"PK",
-    "wof:geomhash":"9f6f7515c5f8b86dc2e5f0f1be8c7765",
+    "wof:geomhash":"d0308d4adf49e537874b8ceb9d92e560",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209129299,
-    "wof:lastmodified":1536296856,
+    "wof:lastmodified":1566588548,
     "wof:name":"Dhani Bagh Sakheranwali",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.23324000000002,
-    29.903540000000003,
+    29.90354,
     73.23324000000002,
-    29.903540000000003
+    29.90354
 ],
   "geometry": {"coordinates":[73.23324000000002,29.90354],"type":"Point"}
 }

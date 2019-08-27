@@ -10,8 +10,12 @@
     "geom:latitude":26.13839,
     "geom:longitude":68.27361,
     "iso:country":"PK",
+    "lbl:bbox":"68.25361,26.11839,68.29361,26.15839",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0421\u0430\u043a\u0440\u0430\u043d\u0434"
@@ -37,7 +41,7 @@
     "name:snd_x_preferred":[
         "\u0633\u06aa\u0631\u0646\u068a"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sakrano"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1166381,
         "gp:id":2211411,
-        "qs:id":1307380,
+        "qs_pg:id":1307380,
         "wd:id":"Q3696284",
         "wk:page":"Sakrand"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421200447,
-    "wof:lastmodified":1563353905,
+    "wof:lastmodified":1566591785,
     "wof:name":"Sakrand",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

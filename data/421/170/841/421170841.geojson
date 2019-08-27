@@ -10,8 +10,12 @@
     "geom:latitude":31.5317,
     "geom:longitude":74.3495,
     "iso:country":"PK",
+    "lbl:bbox":"74.3295,31.5117,74.3695,31.5517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Gulberg"
@@ -19,7 +23,7 @@
     "name:eng_x_variant":[
         "Main Gulberg"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Main Gulbarg"
     ],
     "name:urd_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:concordances":{
         "gn:id":1177624,
         "gp:id":2197142,
-        "qs:id":266925
+        "qs_pg:id":266925
     },
     "wof:country":"PK",
     "wof:created":1459008870,
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421170841,
-    "wof:lastmodified":1527716469,
+    "wof:lastmodified":1566591788,
     "wof:name":"Gulberg",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

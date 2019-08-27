@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":32.245328,
     "lbl:longitude":70.41297,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Khyber Pakhtunkhwa",
     "meso:diss_me":"TankKhyber Pakhtunkhwa",
     "meso:gadm_admin":"Dera Ismail Khan",
@@ -34,6 +36,7 @@
     "mps:longitude":70.41297,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099f\u09cd\u09af\u09be\u0999\u09cd\u0995 \u099c\u09c7\u09b2\u09be"
     ],
@@ -93,7 +96,7 @@
         "\u5766\u514b\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108692407,
-    "wof:lastmodified":1563350746,
+    "wof:lastmodified":1566590165,
     "wof:name":"Tank",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":29.14309,
     "geom:longitude":71.25976,
     "iso:country":"PK",
+    "lbl:bbox":"71.23976,29.12309,71.27976,29.16309",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u0631\u0642 \u0623\u062d\u0645\u062f\u0628\u0648\u0631"
@@ -67,7 +71,7 @@
     "name:swe_x_preferred":[
         "Ahmadpur East"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ahmadpur"
     ],
     "name:urd_x_preferred":[
@@ -103,7 +107,7 @@
     "wof:concordances":{
         "gn:id":1184845,
         "gp:id":2210779,
-        "qs:id":190588,
+        "qs_pg:id":190588,
         "wd:id":"Q1250201",
         "wk:page":"Ahmadpur East"
     },
@@ -119,7 +123,7 @@
         }
     ],
     "wof:id":421169881,
-    "wof:lastmodified":1563353827,
+    "wof:lastmodified":1566591772,
     "wof:name":"Ahmadpur East",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

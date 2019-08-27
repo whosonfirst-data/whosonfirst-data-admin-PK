@@ -10,8 +10,10 @@
     "geom:latitude":24.86161,
     "geom:longitude":67.026418,
     "iso:country":"PK",
+    "lbl:bbox":"67.021418,24.85661,67.031418,24.86661",
     "lbl:latitude":24.86161,
     "lbl:longitude":67.026418,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.862984,
     "mps:longitude":67.028387,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:swe_x_preferred":[
         "Sadr"
     ],
-    "name:unk_x_variant":[
-        "Sadr"
-    ],
     "name:urd_x_preferred":[
         "\u0635\u062f\u0631"
     ],
@@ -89,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675757,
         102191569,
@@ -116,7 +115,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564186170,
+    "wof:lastmodified":1566584917,
     "wof:name":"Sadr",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

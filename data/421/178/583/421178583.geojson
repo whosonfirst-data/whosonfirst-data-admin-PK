@@ -10,8 +10,12 @@
     "geom:latitude":25.82847,
     "geom:longitude":69.37719,
     "iso:country":"PK",
+    "lbl:bbox":"69.35719,25.80847,69.39719,25.84847",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Khipro"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1173889,
         "gp:id":2211130,
-        "qs:id":130768,
+        "qs_pg:id":130768,
         "wd:id":"Q13641386"
     },
     "wof:country":"PK",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":421178583,
-    "wof:lastmodified":1563353940,
+    "wof:lastmodified":1566591791,
     "wof:name":"Khipro",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

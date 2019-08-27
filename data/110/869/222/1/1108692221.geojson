@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.48689,
     "lbl:longitude":67.524535,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"Jhal MagsiBalochistan",
     "meso:gadm_admin":"Nasirabad",
@@ -34,6 +36,7 @@
     "mps:longitude":67.524535,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u099d\u09be\u09b2 \u09ae\u09be\u0997\u09b8\u09bf \u099c\u09c7\u09b2\u09be"
     ],
@@ -93,7 +96,7 @@
         "\u8d3e\u5c14\u9a6c\u683c\u5e0c\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108692221,
-    "wof:lastmodified":1563350751,
+    "wof:lastmodified":1566590167,
     "wof:name":"Jhal Magsi",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

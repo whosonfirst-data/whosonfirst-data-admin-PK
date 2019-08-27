@@ -10,8 +10,12 @@
     "geom:latitude":35.84623,
     "geom:longitude":71.7858,
     "iso:country":"PK",
+    "lbl:bbox":"71.7658,35.82623,71.8058,35.86623",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0634\u064a\u062a\u0631\u0627\u0644"
@@ -191,7 +195,7 @@
     "wof:concordances":{
         "gn:id":1181065,
         "gp:id":2210872,
-        "qs:id":317870,
+        "qs_pg:id":317870,
         "wd:id":"Q12126543",
         "wk:page":"Chitral"
     },
@@ -208,7 +212,7 @@
         }
     ],
     "wof:id":421174195,
-    "wof:lastmodified":1563353848,
+    "wof:lastmodified":1566591776,
     "wof:name":"Chitral",
     "wof:parent_id":1108692157,
     "wof:placetype":"locality",

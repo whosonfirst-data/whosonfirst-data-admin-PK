@@ -10,8 +10,12 @@
     "geom:latitude":30.76629,
     "geom:longitude":74.12311,
     "iso:country":"PK",
+    "lbl:bbox":"74.10311,30.74629,74.14311,30.78629",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kanganpur"
@@ -29,9 +33,6 @@
         "Kanganpur"
     ],
     "name:por_x_preferred":[
-        "Kanganpur"
-    ],
-    "name:unk_x_variant":[
         "Kanganpur"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1174984,
         "gp:id":29060896,
-        "qs:id":276072,
+        "qs_pg:id":276072,
         "wd:id":"Q6362466",
         "wk:page":"Kanganpur"
     },
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":421177987,
-    "wof:lastmodified":1563353927,
+    "wof:lastmodified":1566591789,
     "wof:name":"Kangar",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

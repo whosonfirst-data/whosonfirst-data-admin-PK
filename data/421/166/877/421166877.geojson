@@ -10,8 +10,12 @@
     "geom:latitude":30.55083,
     "geom:longitude":73.39083,
     "iso:country":"PK",
+    "lbl:bbox":"73.37083,30.53083,73.41083,30.57083",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u0647\u0627\u0641\u0627\u0644\u0646\u062c\u0631"
@@ -139,9 +143,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0445\u0430\u0432\u0430\u043b\u043d\u0430\u0433\u0430\u0440"
     ],
-    "name:unk_x_variant":[
-        "Bah\u0101walnagar"
-    ],
     "name:urd_x_preferred":[
         "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631"
     ],
@@ -184,7 +185,7 @@
     "wof:concordances":{
         "gn:id":1332083,
         "gp:id":2210799,
-        "qs:id":1307164,
+        "qs_pg:id":1307164,
         "wd:id":"Q1249932"
     },
     "wof:country":"PK",
@@ -199,7 +200,7 @@
         }
     ],
     "wof:id":421166877,
-    "wof:lastmodified":1563353791,
+    "wof:lastmodified":1566591766,
     "wof:name":"Bahawalnagar",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

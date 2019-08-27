@@ -10,6 +10,9 @@
     "geom:latitude":31.54972,
     "geom:longitude":74.34361,
     "iso:country":"PK",
+    "lbl:bbox":"74.32361,31.52972,74.36361,31.56972",
+    "lbl:max_zoom":12.0,
+    "lbl:min_zoom":5.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":4.0,
@@ -335,7 +338,7 @@
     "name:ukr_x_preferred":[
         "\u041b\u0430\u0445\u043e\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "L\u0101haur"
     ],
     "name:urd_x_preferred":[
@@ -497,7 +500,7 @@
         "gn:id":1172451,
         "gp:id":2211177,
         "loc:id":"n79079619",
-        "qs:id":241175,
+        "qs_pg:id":241175,
         "wd:id":"Q11739",
         "wk:page":"Lahore"
     },
@@ -513,7 +516,7 @@
         }
     ],
     "wof:id":421204525,
-    "wof:lastmodified":1563353837,
+    "wof:lastmodified":1566591774,
     "wof:name":"Lahore",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

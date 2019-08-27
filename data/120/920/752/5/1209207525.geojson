@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.09969,27.43749,68.13969,27.47749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11576658
     },
     "wof:country":"PK",
-    "wof:geomhash":"db27e2b53ef89deaa73d3d2cc1ac08fc",
+    "wof:geomhash":"00ddcf9599b39c385782a1d6e7fc24e8",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209207525,
-    "wof:lastmodified":1536294404,
+    "wof:lastmodified":1566589075,
     "wof:name":"Goth Issani",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.11969,
-    27.457490000000004,
+    27.45749,
     68.11969,
-    27.457490000000004
+    27.45749
 ],
   "geometry": {"coordinates":[68.11969000000001,27.45749],"type":"Point"}
 }

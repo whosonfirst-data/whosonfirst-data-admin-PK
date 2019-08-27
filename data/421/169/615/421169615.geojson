@@ -10,8 +10,12 @@
     "geom:latitude":36.31899,
     "geom:longitude":74.66427,
     "iso:country":"PK",
+    "lbl:bbox":"74.64427,36.29899,74.68427,36.33899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0643\u0631\u064a\u0645 \u0622\u0628\u0627\u062f"
@@ -55,7 +59,7 @@
     "name:spa_x_preferred":[
         "Karimabad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hunza"
     ],
     "name:urd_x_preferred":[
@@ -99,7 +103,7 @@
     "wof:concordances":{
         "gn:id":1183614,
         "gp:id":2210803,
-        "qs:id":222765,
+        "qs_pg:id":222765,
         "wd:id":"Q607186",
         "wk:page":"Karimabad, Pakistan"
     },
@@ -132,7 +136,7 @@
         }
     ],
     "wof:id":421169615,
-    "wof:lastmodified":1563353830,
+    "wof:lastmodified":1566591773,
     "wof:name":"Baltit",
     "wof:parent_id":1108692193,
     "wof:placetype":"locality",

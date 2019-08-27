@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.95083,29.49944,70.99083,29.53944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1392884
     },
     "wof:country":"PK",
-    "wof:geomhash":"451c01a4bde9b636a9cef7157847958b",
+    "wof:geomhash":"2c634cf70cac6b3f177407c7c3942f0f",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209539129,
-    "wof:lastmodified":1536284041,
+    "wof:lastmodified":1566588151,
     "wof:name":"Quraishiwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.97083,
-    29.519440000000003,
+    29.51944,
     70.97083,
-    29.519440000000003
+    29.51944
 ],
   "geometry": {"coordinates":[70.97083000000001,29.51944],"type":"Point"}
 }

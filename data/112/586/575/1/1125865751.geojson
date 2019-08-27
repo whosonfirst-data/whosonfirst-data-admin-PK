@@ -9,15 +9,18 @@
     "geom:bbox":"68.42273,25.81308,68.42273,25.81308",
     "geom:latitude":25.81308,
     "geom:longitude":68.42273,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":47915,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
     "gn:population":47915,
     "iso:country":"PK",
+    "lbl:bbox":"68.40273,25.79308,68.44273,25.83308",
     "lbl:latitude":25.81308,
     "lbl:longitude":68.42273,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:ara_x_preferred":[
         "\u0647\u0627\u0644\u0627"
@@ -52,7 +55,7 @@
     "name:spa_x_preferred":[
         "Hala"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Halu"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +76,7 @@
     "qs_pg:qs_id":130822,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1125865751,
-    "wof:lastmodified":1563353981,
+    "wof:lastmodified":1566591804,
     "wof:name":"H\u0101la",
     "wof:parent_id":1108692303,
     "wof:placetype":"locality",

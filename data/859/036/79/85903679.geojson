@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3418574.2828,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.316953,31.566897,74.316953,31.566897",
     "geom:latitude":31.566897,
     "geom:longitude":74.316953,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"74.311953,31.561897,74.321953,31.571897",
     "lbl:latitude":31.566897,
     "lbl:longitude":74.316953,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.562969,
     "mps:longitude":74.316903,
     "mz:hierarchy_label":0,
@@ -28,10 +30,7 @@
         "Gwaal Mandi",
         "Gwal Mandi"
     ],
-    "name:und_x_preferred":[
-        "Gw\u00e5l Mandi"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gw\u00e5l Mandi"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -60,17 +59,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692273,
-        85675753
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2197276,
-        "qs:id":1130102
+        "qs_pg:id":1130102
     },
     "wof:country":"PK",
     "wof:geomhash":"9270427d26c2baba7b4e3a26ac96aa6e",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936063,
+    "wof:lastmodified":1566584916,
     "wof:name":"Gw\u00e5l Mandi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

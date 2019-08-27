@@ -9,25 +9,25 @@
     "geom:bbox":"74.3276,31.5764,74.3276,31.5764",
     "geom:latitude":31.5764,
     "geom:longitude":74.3276,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PK",
+    "gn:fcode":"PPLX",
     "gn:latitude":31.5764,
     "gn:longitude":74.3276,
+    "gn:population":0,
     "iso:country":"PK",
+    "lbl:bbox":"74.3226,31.5714,74.3326,31.5814",
     "lbl:latitude":31.5764,
     "lbl:longitude":74.3276,
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
         "Ramgali"
     ],
     "name:eng_x_variant":[
         "R\u0101mgali"
-    ],
-    "name:unk_x_variant":[
-        "Ramgali"
     ],
     "qs_pg:aaroncc":"PK",
     "qs_pg:gn_country":"PK",
@@ -50,7 +50,7 @@
     "qs_pg:woe_adm0":23424922,
     "qs_pg:woe_id":2206402,
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "woe:adm0_id":23424922,
     "woe:name_adm0":"Pakistan",
     "woe:name_adm1":"Punjab",
@@ -65,7 +65,6 @@
     "wof:concordances":{
         "gn:id":1167247,
         "gp:id":2206402,
-        "qs:id":1117331,
         "qs_pg:id":1117331
     },
     "wof:country":"PK",
@@ -82,7 +81,7 @@
         }
     ],
     "wof:id":1126105271,
-    "wof:lastmodified":1534379407,
+    "wof:lastmodified":1566591803,
     "wof:name":"Ramgali",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

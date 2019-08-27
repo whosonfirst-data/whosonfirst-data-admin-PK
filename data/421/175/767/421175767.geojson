@@ -10,6 +10,9 @@
     "geom:latitude":30.05614,
     "geom:longitude":70.63477,
     "iso:country":"PK",
+    "lbl:bbox":"70.61477,30.03614,70.65477,30.07614",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -137,7 +140,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0430 \u0413\u0430\u0437\u0456 \u0425\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Deri-Ghazi Khan"
     ],
     "name:urd_x_preferred":[
@@ -276,7 +279,7 @@
     "wof:concordances":{
         "gn:id":1180289,
         "gp:id":2210903,
-        "qs:id":1030031,
+        "qs_pg:id":1030031,
         "wd:id":"Q999076",
         "wk:page":"Dera Ghazi Khan"
     },
@@ -292,7 +295,7 @@
         }
     ],
     "wof:id":421175767,
-    "wof:lastmodified":1563353873,
+    "wof:lastmodified":1566591780,
     "wof:name":"Dera Ghazi Khan",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

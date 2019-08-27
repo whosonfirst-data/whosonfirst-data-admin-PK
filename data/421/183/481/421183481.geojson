@@ -10,8 +10,12 @@
     "geom:latitude":27.96897,
     "geom:longitude":68.80481,
     "iso:country":"PK",
+    "lbl:bbox":"68.78481,27.94897,68.82481,27.98897",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0631\u0633\u062a\u0645"
@@ -100,7 +104,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0441\u0442\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Rustom"
     ],
     "name:urd_x_preferred":[
@@ -145,7 +149,7 @@
     "wof:concordances":{
         "gn:id":1166720,
         "gp:id":2211398,
-        "qs:id":1029891,
+        "qs_pg:id":1029891,
         "wd:id":"Q60062"
     },
     "wof:country":"PK",
@@ -160,7 +164,7 @@
         }
     ],
     "wof:id":421183481,
-    "wof:lastmodified":1563353929,
+    "wof:lastmodified":1566591789,
     "wof:name":"Rustam",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

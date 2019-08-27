@@ -10,8 +10,12 @@
     "geom:latitude":26.15497,
     "geom:longitude":68.65093,
     "iso:country":"PK",
+    "lbl:bbox":"68.63093,26.13497,68.67093,26.17497",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sh\u0101hpur Ch\u0101kar"
@@ -28,7 +32,7 @@
     "name:snd_x_preferred":[
         "\u0634\u0627\u06be\u067e\u0648\u0631\u0686\u0627\u06aa\u0631"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u0101hpur Chaka"
     ],
     "qs:gn_country":"PK",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1165507,
         "gp:id":2211445,
-        "qs:id":1307390,
+        "qs_pg:id":1307390,
         "wd:id":"Q7461859",
         "wk:page":"Shahpur Chakar"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421169279,
-    "wof:lastmodified":1563353829,
+    "wof:lastmodified":1566591773,
     "wof:name":"Shahpur Chakar",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"72.16198,33.49026,72.20198,33.53026",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1167971
     },
     "wof:country":"PK",
-    "wof:geomhash":"2920d65db4675f9ae54727a25e278b18",
+    "wof:geomhash":"b1e845d98c78ff0e924449f2cc98de5b",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209614789,
-    "wof:lastmodified":1536281725,
+    "wof:lastmodified":1566588774,
     "wof:name":"Pind Sultani",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     72.18198000000002,
-    33.510259999999995,
+    33.51026,
     72.18198000000002,
-    33.510259999999995
+    33.51026
 ],
   "geometry": {"coordinates":[72.18198000000002,33.51026],"type":"Point"}
 }

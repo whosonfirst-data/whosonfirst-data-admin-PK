@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.612954,
     "lbl:longitude":67.704083,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sindh",
     "meso:diss_me":"Qambar ShahdadkotSindh",
     "meso:gadm_admin":"Larkana",
@@ -34,6 +36,7 @@
     "mps:longitude":67.704083,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u0430\u0440\u043a\u0430\u043d\u0430"
     ],
@@ -102,7 +105,7 @@
         "\u62c9\u5c14\u5361\u7eb3\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1108692355,
-    "wof:lastmodified":1563350725,
+    "wof:lastmodified":1566590157,
     "wof:name":"Qambar Shahdadkot",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

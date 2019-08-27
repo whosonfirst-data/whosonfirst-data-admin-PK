@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.66573,30.54824,70.70573,30.58824",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1419438
     },
     "wof:country":"PK",
-    "wof:geomhash":"338dae86b19bccdb9de4048d102469fd",
+    "wof:geomhash":"8ea9e5ab69a7c66e89bf54157d8caac4",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209220075,
-    "wof:lastmodified":1536293993,
+    "wof:lastmodified":1566588716,
     "wof:name":"Jhok Mujawarwali",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.68573,
-    30.568240000000007,
+    30.56824000000001,
     70.68573,
-    30.568240000000007
+    30.56824000000001
 ],
   "geometry": {"coordinates":[70.68573000000001,30.56824000000001],"type":"Point"}
 }

@@ -11,10 +11,14 @@
     "geom:longitude":74.6786,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":2005,
+    "gn:population":2005,
     "iso:country":"PK",
+    "lbl:bbox":"74.6586,36.2963,74.6986,36.3363",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u064a\u0633\u0627\u0644"
     ],
@@ -152,7 +156,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7427939,
-        "qs:id":686715,
+        "qs_pg:id":686715,
         "wk:page":"Barisal"
     },
     "wof:country":"PK",
@@ -184,7 +188,7 @@
         }
     ],
     "wof:id":890453047,
-    "wof:lastmodified":1564197836,
+    "wof:lastmodified":1566591799,
     "wof:name":"Barish\u0101l",
     "wof:parent_id":1108692193,
     "wof:placetype":"locality",

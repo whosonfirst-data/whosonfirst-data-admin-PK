@@ -10,8 +10,12 @@
     "geom:latitude":33.0,
     "geom:longitude":74.31944,
     "iso:country":"PK",
+    "lbl:bbox":"74.29944,32.98,74.33944,33.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -45,7 +49,7 @@
     "wof:concordances":{
         "gn:id":1415471,
         "gp:id":29197782,
-        "qs:id":55791
+        "qs_pg:id":55791
     },
     "wof:country":"PK",
     "wof:created":1459009697,
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421191569,
-    "wof:lastmodified":1533678758,
+    "wof:lastmodified":1566591781,
     "wof:name":"Sedhar",
     "wof:parent_id":1108692167,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.79944,32.24111,73.83944,32.28111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1386530
     },
     "wof:country":"PK",
-    "wof:geomhash":"daeb165750af7466e536f880ed626441",
+    "wof:geomhash":"2be9900ac58d53192d8d84b4b65f187f",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209337707,
-    "wof:lastmodified":1536290164,
+    "wof:lastmodified":1566589005,
     "wof:name":"Maukot",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.81944,
-    32.261109999999995,
+    32.26111,
     73.81944,
-    32.261109999999995
+    32.26111
 ],
   "geometry": {"coordinates":[73.81944,32.26111],"type":"Point"}
 }

@@ -11,10 +11,14 @@
     "geom:longitude":72.86667,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":122199,
+    "gn:population":122199,
     "iso:country":"PK",
+    "lbl:bbox":"72.84667,29.78,72.88667,29.82",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:ara_x_preferred":[
         "\u0634\u0634\u062a\u064a\u0627\u0646 \u0634\u0631\u064a\u0641"
     ],
@@ -54,7 +58,7 @@
     "name:swe_x_preferred":[
         "Chishtian"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chistian"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1181073,
         "gp:id":2194018,
-        "qs:id":1030051,
+        "qs_pg:id":1030051,
         "wd:id":"Q1250229"
     },
     "wof:country":"PK",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890443595,
-    "wof:lastmodified":1563353966,
+    "wof:lastmodified":1566591799,
     "wof:name":"Chishti\u0101n Mandi",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

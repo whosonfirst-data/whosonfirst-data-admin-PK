@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.04354,29.96182,73.08354,30.00182",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11086099
     },
     "wof:country":"PK",
-    "wof:geomhash":"cd4ef5e4d97885f62267f141be1b41e6",
+    "wof:geomhash":"5280af1e9a1b0e1e2be9dfdd4290b0e5",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209538807,
-    "wof:lastmodified":1536284052,
+    "wof:lastmodified":1566588144,
     "wof:name":"Chholianwali",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.06354,
-    29.981820000000006,
+    29.98182000000001,
     73.06354,
-    29.981820000000006
+    29.98182000000001
 ],
   "geometry": {"coordinates":[73.06354,29.98182000000001],"type":"Point"}
 }

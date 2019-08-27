@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"67.99332,27.86974,68.03332,27.90974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11571973
     },
     "wof:country":"PK",
-    "wof:geomhash":"48ca518ae732068ad37f97a71020a96f",
+    "wof:geomhash":"9102da1e06cb8affa421201085a699d4",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209507935,
-    "wof:lastmodified":1536284974,
+    "wof:lastmodified":1566588756,
     "wof:name":"Id Muhammad Brahui",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.01332,
-    27.889740000000003,
+    27.88974,
     68.01332,
-    27.889740000000003
+    27.88974
 ],
   "geometry": {"coordinates":[68.01331999999999,27.88974],"type":"Point"}
 }

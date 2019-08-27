@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":33.847688,
     "lbl:longitude":73.800556,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.847688,
     "mps:longitude":73.800556,
     "mz:hierarchy_label":1,
@@ -246,7 +247,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0437\u0430\u0434 \u041a\u0430\u0448\u043c\u0456\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Azad State of Jammu and Kashmir"
     ],
     "name:urd_x_preferred":[
@@ -339,9 +340,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-02",
+    "src:population_date":"1998-03-02",
     "statoids:area_km":"11,639",
     "statoids:area_mi":"4,494",
     "statoids:as_of_date":"1998-03-02",
@@ -371,7 +372,7 @@
         "gp:id":2346500,
         "hasc:id":"PK.JK",
         "iso:id":"PK-JK",
-        "qs:id":423866,
+        "qs_pg:id":423866,
         "unlc:id":"PK-JK",
         "wd:id":"Q200130",
         "wk:page":"Azad Kashmir"
@@ -406,7 +407,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1565733114,
+    "wof:lastmodified":1566584919,
     "wof:name":"Azad Kashmir",
     "wof:parent_id":1159339497,
     "wof:placetype":"region",

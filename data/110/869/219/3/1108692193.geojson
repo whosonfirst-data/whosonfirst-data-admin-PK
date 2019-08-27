@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.49308,
     "lbl:longitude":74.796989,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gilgit-Baltistan",
     "meso:diss_me":"GilgitGilgit-Baltistan",
     "meso:gadm_admin":"Northern Areas",
@@ -31,6 +33,7 @@
     "mps:longitude":74.796989,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u063a\u0644\u063a\u062a"
     ],
@@ -155,7 +158,7 @@
         "\u5409\u5c14\u5409\u7279"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         1159339495,
@@ -187,7 +190,7 @@
         }
     ],
     "wof:id":1108692193,
-    "wof:lastmodified":1564194742,
+    "wof:lastmodified":1566590155,
     "wof:name":"Gilgit",
     "wof:parent_id":85675745,
     "wof:placetype":"county",

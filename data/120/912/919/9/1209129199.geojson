@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.34852,31.41339,71.38852,31.45339",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1367595
     },
     "wof:country":"PK",
-    "wof:geomhash":"ece71b4df359d252336ae80cd18dfef9",
+    "wof:geomhash":"912ec97cc380ba08d8bb8d469bdc7278",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209129199,
-    "wof:lastmodified":1536296859,
+    "wof:lastmodified":1566588550,
     "wof:name":"Faujiwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.36851999999998,
-    31.433390000000006,
+    31.43339000000001,
     71.36851999999998,
-    31.433390000000006
+    31.43339000000001
 ],
   "geometry": {"coordinates":[71.36851999999998,31.43339000000001],"type":"Point"}
 }

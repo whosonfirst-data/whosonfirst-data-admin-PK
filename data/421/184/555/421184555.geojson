@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"72.55289,29.80744,72.55289,29.80744",
     "geom:latitude":29.80744,
     "geom:longitude":72.55289,
     "iso:country":"PK",
+    "lbl:bbox":"72.53289,29.78744,72.57289,29.82744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":1333605,
         "gp:id":2205279,
-        "qs:id":1001534
+        "qs_pg:id":1001534
     },
     "wof:country":"PK",
     "wof:created":1459009414,
-    "wof:geomhash":"f57a10ea88c104562846ef55f8ab7eed",
+    "wof:geomhash":"497819eb49c569678f0c7f3fe426a4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421184555,
-    "wof:lastmodified":1466635859,
+    "wof:lastmodified":1566591787,
     "wof:name":"Pallah",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

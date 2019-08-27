@@ -5,18 +5,20 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":63322082.927042,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.378676,31.54308,74.378676,31.54308",
     "geom:latitude":31.54308,
     "geom:longitude":74.378676,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
     "gn:latitude":31.5468,
     "gn:longitude":74.3806,
+    "gn:population":0,
     "iso:country":"PK",
+    "lbl:bbox":"74.373676,31.53808,74.383676,31.54808",
     "lbl:latitude":31.54308,
     "lbl:longitude":74.378676,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.53951,
     "mps:longitude":74.377423,
     "mz:hierarchy_label":0,
@@ -35,10 +37,7 @@
         "Sadr Baazaar",
         "Sadr Bazar"
     ],
-    "name:und_x_preferred":[
-        "Sadr B\u00e5z\u00e5r"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sadr B\u00e5z\u00e5r",
         "Sadr B\u0101z\u0101r Colony"
     ],
@@ -89,7 +88,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675753,
         102191569,
@@ -100,7 +99,6 @@
     "wof:concordances":{
         "gn:id":1166629,
         "gp:id":2206909,
-        "qs:id":222764,
         "qs_pg:id":222764
     },
     "wof:country":"PK",
@@ -119,7 +117,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1534379407,
+    "wof:lastmodified":1566584917,
     "wof:name":"Sadr B\u00e5z\u00e5r",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

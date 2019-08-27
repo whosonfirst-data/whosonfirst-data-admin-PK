@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.01481,33.68566,73.05481,33.72566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1183305
     },
     "wof:country":"PK",
-    "wof:geomhash":"a4beca477d99e4ff21cdf8689bc464c1",
+    "wof:geomhash":"0d86b77e6508bb1b41d3ec3552bd295f",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209310721,
-    "wof:lastmodified":1536291038,
+    "wof:lastmodified":1566588094,
     "wof:name":"Bar Khanzada",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.03481,
-    33.705659999999995,
+    33.70565999999999,
     73.03481,
-    33.705659999999995
+    33.70565999999999
 ],
   "geometry": {"coordinates":[73.03480999999999,33.70565999999999],"type":"Point"}
 }

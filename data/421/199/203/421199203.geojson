@@ -10,8 +10,12 @@
     "geom:latitude":29.5448,
     "geom:longitude":67.8764,
     "iso:country":"PK",
+    "lbl:bbox":"67.8564,29.5248,67.8964,29.5648",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0633\u064a\u0628\u064a"
@@ -124,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u0431\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ibis"
     ],
     "name:urd_x_preferred":[
@@ -166,7 +170,7 @@
     "wof:concordances":{
         "gn:id":1164896,
         "gp:id":2211469,
-        "qs:id":190617,
+        "qs_pg:id":190617,
         "wd:id":"Q2364754",
         "wk:page":"Sibi"
     },
@@ -182,7 +186,7 @@
         }
     ],
     "wof:id":421199203,
-    "wof:lastmodified":1563353899,
+    "wof:lastmodified":1566591784,
     "wof:name":"Sibi",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

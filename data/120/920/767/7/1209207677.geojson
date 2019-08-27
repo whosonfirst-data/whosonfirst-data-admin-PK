@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"69.28323,24.79487,69.32323,24.83487",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11602546
     },
     "wof:country":"PK",
-    "wof:geomhash":"494abfba4324d3445f72cf0ad2e3461e",
+    "wof:geomhash":"6fc21427e16fc90bf04662a7bb417371",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209207677,
-    "wof:lastmodified":1536294398,
+    "wof:lastmodified":1566589081,
     "wof:name":"Goth Ehsan Ali Chandio",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     69.30323,
-    24.814870000000006,
+    24.81487000000001,
     69.30323,
-    24.814870000000006
+    24.81487000000001
 ],
   "geometry": {"coordinates":[69.30323,24.81487000000001],"type":"Point"}
 }

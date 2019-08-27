@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1617151.047928,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.03155,24.852291,67.03155,24.852291",
     "geom:latitude":24.852291,
     "geom:longitude":67.03155,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"67.02655,24.847291,67.03655,24.857291",
     "lbl:latitude":24.852291,
     "lbl:longitude":67.03155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.852929,
     "mps:longitude":67.034482,
     "mz:hierarchy_label":0,
@@ -31,9 +33,6 @@
         "Bizerta Lines",
         "Napier Barracks",
         "Zizerta Lines"
-    ],
-    "name:unk_x_variant":[
-        "Farooq-i-Azam Lines"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_id":0,
@@ -61,17 +60,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2195614,
-        "qs:id":1130099
+        "qs_pg:id":1130099
     },
     "wof:country":"PK",
     "wof:geomhash":"d663257c0861c77e1af825dc0c6e2c24",
@@ -89,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936061,
+    "wof:lastmodified":1566584916,
     "wof:name":"Farooq-i-Azam Lines",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

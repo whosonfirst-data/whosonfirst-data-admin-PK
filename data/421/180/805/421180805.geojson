@@ -10,8 +10,12 @@
     "geom:latitude":33.42444,
     "geom:longitude":70.73639,
     "iso:country":"PK",
+    "lbl:bbox":"70.71639,33.40444,70.75639,33.44444",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Doaba"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1179724,
         "gp:id":2195321,
-        "qs:id":461588,
+        "qs_pg:id":461588,
         "wd:id":"Q10267747"
     },
     "wof:country":"PK",
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":421180805,
-    "wof:lastmodified":1563353853,
+    "wof:lastmodified":1566591777,
     "wof:name":"Doaba",
     "wof:parent_id":1108692203,
     "wof:placetype":"locality",

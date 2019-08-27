@@ -10,8 +10,12 @@
     "geom:latitude":31.01667,
     "geom:longitude":73.85,
     "iso:country":"PK",
+    "lbl:bbox":"73.83,30.99667,73.87,31.03667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u043e\u043a\u0438"
@@ -46,7 +50,7 @@
     "name:spa_x_preferred":[
         "Pattoki"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mandi Pattoki"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1168226,
         "gp:id":2211342,
-        "qs:id":1307358,
+        "qs_pg:id":1307358,
         "wd:id":"Q2592708",
         "wk:page":"Pattoki"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421193257,
-    "wof:lastmodified":1563353803,
+    "wof:lastmodified":1566591768,
     "wof:name":"Pattoki",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

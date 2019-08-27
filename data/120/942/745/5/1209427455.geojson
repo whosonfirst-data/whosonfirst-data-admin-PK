@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.17482,31.03809,68.21482,31.07809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":6384582
     },
     "wof:country":"PK",
-    "wof:geomhash":"7ab569f2471be2e4482e6a7dcbec8333",
+    "wof:geomhash":"b41e2cfbe44ad596c3cfccc2f2f51649",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209427455,
-    "wof:lastmodified":1536287337,
+    "wof:lastmodified":1566589154,
     "wof:name":"Sagai Kili",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.19481999999999,
-    31.058090000000004,
+    31.05809,
     68.19481999999999,
-    31.058090000000004
+    31.05809
 ],
   "geometry": {"coordinates":[68.19481999999999,31.05809],"type":"Point"}
 }

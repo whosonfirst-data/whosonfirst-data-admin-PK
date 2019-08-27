@@ -10,8 +10,12 @@
     "geom:latitude":33.11738,
     "geom:longitude":71.0949,
     "iso:country":"PK",
+    "lbl:bbox":"71.0749,33.09738,71.1149,33.13738",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Karak"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Karak"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kharak"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1174074,
         "gp:id":2199594,
-        "qs:id":1307048,
+        "qs_pg:id":1307048,
         "wd:id":"Q2579936",
         "wk:page":"Karak, Pakistan"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":421200431,
-    "wof:lastmodified":1563353908,
+    "wof:lastmodified":1566591785,
     "wof:name":"Karak",
     "wof:parent_id":1108692235,
     "wof:placetype":"locality",

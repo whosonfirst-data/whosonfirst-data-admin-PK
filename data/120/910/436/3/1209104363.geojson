@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.0377,27.90457,68.0777,27.94457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11571969
     },
     "wof:country":"PK",
-    "wof:geomhash":"7d6bcf15743b40d2938fda954c497d7b",
+    "wof:geomhash":"c4c88b7d0c9aeb1ee2fd0a8c54521dbd",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209104363,
-    "wof:lastmodified":1536297625,
+    "wof:lastmodified":1566589226,
     "wof:name":"Goth Gulbahar Khan Laghari",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.0577,
-    27.924570000000006,
+    27.92457000000001,
     68.0577,
-    27.924570000000006
+    27.92457000000001
 ],
   "geometry": {"coordinates":[68.0577,27.92457000000001],"type":"Point"}
 }

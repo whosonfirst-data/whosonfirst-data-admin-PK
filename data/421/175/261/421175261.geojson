@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.327458,33.873586,73.327458,33.873586",
     "geom:latitude":33.873586,
     "geom:longitude":73.327458,
     "iso:country":"PK",
+    "lbl:bbox":"73.307458,33.853586,73.347458,33.893586",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723184,
-        "qs:id":946462
+        "qs_pg:id":946462
     },
     "wof:country":"PK",
     "wof:created":1459009061,
-    "wof:geomhash":"5259e30cc4e5ae13caa811f6ddedc27e",
+    "wof:geomhash":"dd1098b19c748d5a72367664cb70346e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421175261,
-    "wof:lastmodified":1466635841,
+    "wof:lastmodified":1566591780,
     "wof:name":"Samli Sanatorium",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

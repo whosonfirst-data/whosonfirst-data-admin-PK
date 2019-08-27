@@ -10,8 +10,12 @@
     "geom:latitude":34.00361,
     "geom:longitude":72.12611,
     "iso:country":"PK",
+    "lbl:bbox":"72.10611,33.98361,72.14611,34.02361",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0623\u0643\u0648\u0631\u0629 \u062e\u0637\u0627\u0643"
@@ -46,7 +50,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043a\u043e\u0440\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Akora Kh\u0101ttak"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1184752,
         "gp:id":2190173,
-        "qs:id":190553,
+        "qs_pg:id":190553,
         "wd:id":"Q2475251",
         "wk:page":"Akora Khattak"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":421199183,
-    "wof:lastmodified":1563353903,
+    "wof:lastmodified":1566591785,
     "wof:name":"Akora",
     "wof:parent_id":1108692335,
     "wof:placetype":"locality",

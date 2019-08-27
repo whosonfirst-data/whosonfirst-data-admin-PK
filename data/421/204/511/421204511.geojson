@@ -10,8 +10,12 @@
     "geom:latitude":33.89281,
     "geom:longitude":72.24074,
     "iso:country":"PK",
+    "lbl:bbox":"72.22074,33.87281,72.26074,33.91281",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Little Attock"
@@ -28,7 +32,7 @@
     "name:pnb_x_preferred":[
         "\u0627\u0679\u06a9 \u062e\u0631\u062f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Attock"
     ],
     "name:urd_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:concordances":{
         "gn:id":1184247,
         "gp:id":2190697,
-        "qs:id":241169,
+        "qs_pg:id":241169,
         "wd:id":"Q379034",
         "wk:page":"Attock Khurd"
     },
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":421204511,
-    "wof:lastmodified":1563353834,
+    "wof:lastmodified":1566591773,
     "wof:name":"Attock Khurd",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

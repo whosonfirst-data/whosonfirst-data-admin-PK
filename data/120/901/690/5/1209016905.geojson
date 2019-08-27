@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"64.5421,28.93517,64.5821,28.97517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11070243
     },
     "wof:country":"PK",
-    "wof:geomhash":"2f7f0ed6c64c19a414355a7db49b43b3",
+    "wof:geomhash":"561b5c0511507fb72ce1ff0d2e644203",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209016905,
-    "wof:lastmodified":1536300268,
+    "wof:lastmodified":1566588311,
     "wof:name":"Atif Sinirani",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     64.5621,
-    28.955170000000006,
+    28.95517000000001,
     64.5621,
-    28.955170000000006
+    28.95517000000001
 ],
   "geometry": {"coordinates":[64.5621,28.95517000000001],"type":"Point"}
 }

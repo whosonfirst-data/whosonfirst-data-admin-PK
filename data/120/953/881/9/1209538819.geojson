@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.89819,29.44424,70.93819,29.48424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7388720
     },
     "wof:country":"PK",
-    "wof:geomhash":"0052c874ce053083001da9111e3dd2f9",
+    "wof:geomhash":"1c614b16e9eb4d63a37d16c225cf0f48",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209538819,
-    "wof:lastmodified":1536284051,
+    "wof:lastmodified":1566588146,
     "wof:name":"Basti Jalwali",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.91819,
-    29.464240000000004,
+    29.46424,
     70.91819,
-    29.464240000000004
+    29.46424
 ],
   "geometry": {"coordinates":[70.91819,29.46424],"type":"Point"}
 }

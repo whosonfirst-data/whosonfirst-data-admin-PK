@@ -10,8 +10,12 @@
     "geom:latitude":24.73183,
     "geom:longitude":69.79811,
     "iso:country":"PK",
+    "lbl:bbox":"69.77811,24.71183,69.81811,24.75183",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mithi"
@@ -46,7 +50,7 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bbf\u0ba4\u0bcd\u0ba4\u0bbf"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mitti"
     ],
     "name:urd_x_preferred":[
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1170219,
         "gp:id":2211258,
-        "qs:id":1029942,
+        "qs_pg:id":1029942,
         "wd:id":"Q3246442",
         "wk:page":"Mithi"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421168553,
-    "wof:lastmodified":1563353786,
+    "wof:lastmodified":1566591765,
     "wof:name":"Mithi",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

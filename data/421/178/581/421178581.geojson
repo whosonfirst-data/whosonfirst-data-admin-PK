@@ -10,8 +10,12 @@
     "geom:latitude":29.89615,
     "geom:longitude":69.25199,
     "iso:country":"PK",
+    "lbl:bbox":"69.23199,29.87615,69.27199,29.91615",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kohlu"
@@ -82,7 +86,7 @@
     "wof:concordances":{
         "gn:id":1173464,
         "gp:id":2211151,
-        "qs:id":130765,
+        "qs_pg:id":130765,
         "wd:id":"Q2633568",
         "wk:page":"Kohlu"
     },
@@ -98,7 +102,7 @@
         }
     ],
     "wof:id":421178581,
-    "wof:lastmodified":1563353934,
+    "wof:lastmodified":1566591790,
     "wof:name":"Kohlu",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

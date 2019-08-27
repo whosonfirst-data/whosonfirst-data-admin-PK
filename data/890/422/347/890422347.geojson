@@ -11,10 +11,14 @@
     "geom:longitude":75.63334,
     "gn:country":"PK",
     "gn:fcode":"PPLA2",
-    "gn:pop":2100,
+    "gn:population":2100,
     "iso:country":"PK",
+    "lbl:bbox":"75.61334,35.26851,75.65334,35.30851",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0633\u0643\u0631\u062f\u0648"
     ],
@@ -129,7 +133,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u043a\u0430\u0440\u0434\u0443"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shardu"
     ],
     "name:urd_x_preferred":[
@@ -160,7 +164,7 @@
     "wof:concordances":{
         "gn:id":1164709,
         "gp:id":2208594,
-        "qs:id":555300,
+        "qs_pg:id":555300,
         "wd:id":"Q976955",
         "wk:page":"Skardu"
     },
@@ -193,7 +197,7 @@
         }
     ],
     "wof:id":890422347,
-    "wof:lastmodified":1563353950,
+    "wof:lastmodified":1566591793,
     "wof:name":"Sk\u0101rdu",
     "wof:parent_id":1108692133,
     "wof:placetype":"locality",

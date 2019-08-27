@@ -10,8 +10,12 @@
     "geom:latitude":34.43782,
     "geom:longitude":73.21937,
     "iso:country":"PK",
+    "lbl:bbox":"73.19937,34.41782,73.23937,34.45782",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Baffa"
@@ -59,7 +63,7 @@
     "wof:concordances":{
         "gn:id":1184020,
         "gp:id":2190925,
-        "qs:id":784399,
+        "qs_pg:id":784399,
         "wd:id":"Q4079737",
         "wk:page":"Baffa"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421174353,
-    "wof:lastmodified":1563353848,
+    "wof:lastmodified":1566591776,
     "wof:name":"Baffa",
     "wof:parent_id":1108692295,
     "wof:placetype":"locality",

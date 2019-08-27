@@ -10,8 +10,12 @@
     "geom:latitude":32.46162,
     "geom:longitude":74.18234,
     "iso:country":"PK",
+    "lbl:bbox":"74.16234,32.44162,74.20234,32.48162",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Sodhra"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Sodhra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sohdra Town"
     ],
     "name:urd_x_preferred":[
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1164679,
         "gp:id":2208622,
-        "qs:id":461999,
+        "qs_pg:id":461999,
         "wd:id":"Q7553268"
     },
     "wof:country":"PK",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421180707,
-    "wof:lastmodified":1563353851,
+    "wof:lastmodified":1566591776,
     "wof:name":"Sodhra",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

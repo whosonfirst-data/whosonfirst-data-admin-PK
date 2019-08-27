@@ -10,8 +10,12 @@
     "geom:latitude":34.30056,
     "geom:longitude":71.65361,
     "iso:country":"PK",
+    "lbl:bbox":"71.63361,34.28056,71.67361,34.32056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Tangi"
@@ -68,7 +72,7 @@
     "wof:concordances":{
         "gn:id":1163927,
         "gp:id":2211513,
-        "qs:id":1029847,
+        "qs_pg:id":1029847,
         "wd:id":"Q10378074",
         "wk:page":"Tangi, Pakistan"
     },
@@ -85,7 +89,7 @@
         }
     ],
     "wof:id":421185577,
-    "wof:lastmodified":1563353948,
+    "wof:lastmodified":1566591793,
     "wof:name":"Tangi",
     "wof:parent_id":1108692151,
     "wof:placetype":"locality",

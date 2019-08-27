@@ -11,7 +11,7 @@
     "geom:longitude":66.765845,
     "gn:country":"PK",
     "gn:fcode":"ADM2",
-    "gn:pop":850000,
+    "gn:population":850000,
     "iso:country":"PK",
     "label:eng_x_preferred_longname":[
         "Quetta District"
@@ -24,6 +24,8 @@
     ],
     "lbl:latitude":30.210013,
     "lbl:longitude":66.906856,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"QuettaBalochistan",
     "meso:gadm_admin":"Quetta",
@@ -37,6 +39,7 @@
     "mps:longitude":66.906856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09c7\u099f\u09be \u099c\u09c7\u09b2\u09be"
     ],
@@ -120,7 +123,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":586,
     "wof:belongsto":[
@@ -132,7 +135,7 @@
     "wof:concordances":{
         "gn:id":1167527,
         "hasc:id":"PK.BA.QE",
-        "qs:id":84306,
+        "qs_pg:id":84306,
         "wd:id":"Q2315549",
         "wk:page":"Quetta District"
     },
@@ -148,7 +151,7 @@
         }
     ],
     "wof:id":890438109,
-    "wof:lastmodified":1563353963,
+    "wof:lastmodified":1566591799,
     "wof:name":"Quetta",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

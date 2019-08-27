@@ -10,8 +10,12 @@
     "geom:latitude":28.24396,
     "geom:longitude":69.18235,
     "iso:country":"PK",
+    "lbl:bbox":"69.16235,28.22396,69.20235,28.26396",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kandhkot"
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1175021,
         "gp:id":2211089,
-        "qs:id":276074,
+        "qs_pg:id":276074,
         "wd:id":"Q3695624"
     },
     "wof:country":"PK",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421197197,
-    "wof:lastmodified":1563353894,
+    "wof:lastmodified":1566591783,
     "wof:name":"Kandhkot",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":32.2898,
     "geom:longitude":72.2813,
     "iso:country":"PK",
+    "lbl:bbox":"72.2613,32.2698,72.3013,32.3098",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Jauharabad"
@@ -31,7 +35,7 @@
     "name:spa_x_preferred":[
         "Jauharabad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Jauhar\u0101b\u0101d"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1176022,
         "gp:id":2211048,
-        "qs:id":1307247,
+        "qs_pg:id":1307247,
         "wd:id":"Q3075413",
         "wk:page":"Jauharabad"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421168463,
-    "wof:lastmodified":1563353785,
+    "wof:lastmodified":1566591765,
     "wof:name":"Joharabad",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

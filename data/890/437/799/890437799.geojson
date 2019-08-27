@@ -11,10 +11,14 @@
     "geom:longitude":73.30255,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":69374,
+    "gn:population":69374,
     "iso:country":"PK",
+    "lbl:bbox":"73.28255,33.23579,73.32255,33.27579",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:ben_x_preferred":[
         "\u0997\u09c1\u099c\u09be\u09b0 \u0996\u09be\u09a8"
     ],
@@ -54,7 +58,7 @@
     "name:szl_x_preferred":[
         "Gud\u017car Khan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gujar Kh\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -77,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1177682,
         "gp:id":2210976,
-        "qs:id":130833,
+        "qs_pg:id":130833,
         "wd:id":"Q3049021"
     },
     "wof:country":"PK",
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":890437799,
-    "wof:lastmodified":1563353956,
+    "wof:lastmodified":1566591796,
     "wof:name":"G\u016bjar Kh\u0101n",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"74.46389,32.33234,74.50389,32.37234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1380509
     },
     "wof:country":"PK",
-    "wof:geomhash":"242aace5cf0d8a8402d6dd1f8c309d3b",
+    "wof:geomhash":"9324b479bdea4eaac9b67d721aed0968",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209247017,
-    "wof:lastmodified":1536293130,
+    "wof:lastmodified":1566588553,
     "wof:name":"Targari",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     74.48389,
-    32.352340000000005,
+    32.35234000000001,
     74.48389,
-    32.352340000000005
+    32.35234000000001
 ],
   "geometry": {"coordinates":[74.48389,32.35234000000001],"type":"Point"}
 }

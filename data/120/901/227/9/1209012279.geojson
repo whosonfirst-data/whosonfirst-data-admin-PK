@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"65.5535,28.84739,65.5935,28.88739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11230149
     },
     "wof:country":"PK",
-    "wof:geomhash":"94de5a8e80f28f7b3cf92c2cafeac7ec",
+    "wof:geomhash":"8b70d4a420e0f4961cb3af72eb87cada",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209012279,
-    "wof:lastmodified":1536300407,
+    "wof:lastmodified":1566588294,
     "wof:name":"Ghulam Muhammad Muhammad Hasni",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     65.5735,
-    28.867390000000004,
+    28.86739,
     65.5735,
-    28.867390000000004
+    28.86739
 ],
   "geometry": {"coordinates":[65.5735,28.86739],"type":"Point"}
 }

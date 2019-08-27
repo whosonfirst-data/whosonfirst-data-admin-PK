@@ -10,6 +10,9 @@
     "geom:latitude":32.5101,
     "geom:longitude":74.54313,
     "iso:country":"PK",
+    "lbl:bbox":"74.52313,32.4901,74.56313,32.5301",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -322,7 +325,7 @@
     "wof:concordances":{
         "gn:id":1164909,
         "gp:id":2211467,
-        "qs:id":493381,
+        "qs_pg:id":493381,
         "wd:id":"Q643883",
         "wk:page":"Sialkot"
     },
@@ -338,7 +341,7 @@
         }
     ],
     "wof:id":421175525,
-    "wof:lastmodified":1563353878,
+    "wof:lastmodified":1566591780,
     "wof:name":"Sialkot",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

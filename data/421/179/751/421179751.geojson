@@ -10,8 +10,12 @@
     "geom:latitude":29.46631,
     "geom:longitude":73.03403,
     "iso:country":"PK",
+    "lbl:bbox":"73.01403,29.44631,73.05403,29.48631",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Faq\u012brw\u0101li"
@@ -31,7 +35,7 @@
     "name:por_x_preferred":[
         "Faqirwali"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Faq\u012brw\u0101la"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1179377,
         "gp:id":2195585,
-        "qs:id":461573,
+        "qs_pg:id":461573,
         "wd:id":"Q5434470",
         "wk:page":"Faqirwali"
     },
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":421179751,
-    "wof:lastmodified":1563353931,
+    "wof:lastmodified":1566591790,
     "wof:name":"Faqirwali",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

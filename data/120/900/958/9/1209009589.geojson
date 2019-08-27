@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.91834,30.56307,71.95834,30.60307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11571221
     },
     "wof:country":"PK",
-    "wof:geomhash":"3ef907396979614c59b611724a90e0ac",
+    "wof:geomhash":"9c8c3235b1595dd29b130139365609ed",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209009589,
-    "wof:lastmodified":1536300491,
+    "wof:lastmodified":1566588129,
     "wof:name":"Gulshonabad",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.93834,
-    30.583070000000006,
+    30.58307000000001,
     71.93834,
-    30.583070000000006
+    30.58307000000001
 ],
   "geometry": {"coordinates":[71.93834,30.58307000000001],"type":"Point"}
 }

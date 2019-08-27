@@ -10,8 +10,12 @@
     "geom:latitude":34.2139,
     "geom:longitude":71.55523,
     "iso:country":"PK",
+    "lbl:bbox":"71.53523,34.1939,71.57523,34.2339",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Shabqadar"
@@ -43,7 +47,7 @@
     "name:swe_x_preferred":[
         "Shabqadar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shabkadar"
     ],
     "qs:gn_country":"PK",
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1165744,
         "gp:id":2211431,
-        "qs:id":130682,
+        "qs_pg:id":130682,
         "wd:id":"Q4519132"
     },
     "wof:country":"PK",
@@ -95,7 +99,7 @@
         }
     ],
     "wof:id":421178567,
-    "wof:lastmodified":1563353933,
+    "wof:lastmodified":1566591790,
     "wof:name":"Shabqadar",
     "wof:parent_id":1108692151,
     "wof:placetype":"locality",

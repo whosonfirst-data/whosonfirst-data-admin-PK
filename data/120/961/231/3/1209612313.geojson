@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.52512,33.29334,73.56512,33.33334",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11047598
     },
     "wof:country":"PK",
-    "wof:geomhash":"bda1d5967b113ea578bc3c7f9eb5428d",
+    "wof:geomhash":"86dcb2f079aa2106bcbb5489092e6467",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209612313,
-    "wof:lastmodified":1536281807,
+    "wof:lastmodified":1566588808,
     "wof:name":"Kohi Lao",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.54512,
-    33.313340000000004,
+    33.31334,
     73.54512,
-    33.313340000000004
+    33.31334
 ],
   "geometry": {"coordinates":[73.54512,33.31334],"type":"Point"}
 }

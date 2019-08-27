@@ -10,8 +10,12 @@
     "geom:latitude":31.8025,
     "geom:longitude":74.26167,
     "iso:country":"PK",
+    "lbl:bbox":"74.24167,31.7825,74.28167,31.8225",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u0648\u0631\u064a\u062f\u0643\u064a"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Muridke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mur\u012bdke"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1169692,
         "gp:id":2204230,
-        "qs:id":461878,
+        "qs_pg:id":461878,
         "wd:id":"Q2978509",
         "wk:page":"Muridke"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421197859,
-    "wof:lastmodified":1563353893,
+    "wof:lastmodified":1566591783,
     "wof:name":"Muridke",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

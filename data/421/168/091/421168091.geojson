@@ -10,8 +10,12 @@
     "geom:latitude":30.70484,
     "geom:longitude":70.65051,
     "iso:country":"PK",
+    "lbl:bbox":"70.63051,30.68484,70.67051,30.72484",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Taunsa"
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":1163724,
         "gp:id":2211519,
-        "qs:id":1029844,
+        "qs_pg:id":1029844,
         "wd:id":"Q3243471",
         "wk:page":"Taunsa Sharif"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":421168091,
-    "wof:lastmodified":1563353785,
+    "wof:lastmodified":1566591765,
     "wof:name":"Taunsa",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

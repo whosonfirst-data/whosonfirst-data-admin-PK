@@ -10,8 +10,12 @@
     "geom:latitude":32.29667,
     "geom:longitude":72.3525,
     "iso:country":"PK",
+    "lbl:bbox":"72.3325,32.27667,72.3725,32.31667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Khushab"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Khushab"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khushah"
     ],
     "name:urd_x_preferred":[
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1173687,
         "gp:id":2211139,
-        "qs:id":190595,
+        "qs_pg:id":190595,
         "wd:id":"Q1249939",
         "wk:page":"Khushab"
     },
@@ -113,7 +117,7 @@
         }
     ],
     "wof:id":421199197,
-    "wof:lastmodified":1563353901,
+    "wof:lastmodified":1566591784,
     "wof:name":"Khushab",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"74.1972,32.26657,74.2372,32.30657",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1413088
     },
     "wof:country":"PK",
-    "wof:geomhash":"e14f04d7fbfbea471697e561b470b98b",
+    "wof:geomhash":"b060bc86db31ae0dcabc5a82918c8c7e",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209514829,
-    "wof:lastmodified":1536284767,
+    "wof:lastmodified":1566588936,
     "wof:name":"Thatta Dad",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     74.2172,
-    32.286570000000005,
+    32.28657,
     74.2172,
-    32.286570000000005
+    32.28657
 ],
   "geometry": {"coordinates":[74.21720000000001,32.28657],"type":"Point"}
 }

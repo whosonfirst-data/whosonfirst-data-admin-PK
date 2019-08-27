@@ -10,8 +10,12 @@
     "geom:latitude":31.55,
     "geom:longitude":73.83333,
     "iso:country":"PK",
+    "lbl:bbox":"73.81333,31.53,73.85333,31.57",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Warburton"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1162572,
         "gp:id":2210361,
-        "qs:id":462049,
+        "qs_pg:id":462049,
         "wd:id":"Q7968864",
         "wk:page":"Warburton, Punjab, Pakistan"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":421167859,
-    "wof:lastmodified":1563353813,
+    "wof:lastmodified":1566591770,
     "wof:name":"Warburton",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

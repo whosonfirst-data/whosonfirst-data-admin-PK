@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":3163566.52061,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.015837,24.849187,67.015837,24.849187",
     "geom:latitude":24.849187,
     "geom:longitude":67.015837,
     "gn:latitude":24.8602,
     "gn:longitude":67.0363,
     "iso:country":"PK",
+    "lbl:bbox":"67.010837,24.844187,67.020837,24.854187",
     "lbl:latitude":24.849187,
     "lbl:longitude":67.015837,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.850109,
     "mps:longitude":67.018521,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Sadr"
-    ],
-    "name:unk_x_variant":[
-        "Saddar"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_fcode":"PPLX",
@@ -61,19 +60,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":283,
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1166635,
         "gp:id":22726238,
-        "qs:id":212396,
+        "qs_pg:id":212396,
         "wd:id":"Q7397661",
         "wk:page":"Saddar"
     },
@@ -93,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936596,
+    "wof:lastmodified":1566584918,
     "wof:name":"Saddar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

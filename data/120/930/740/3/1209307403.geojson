@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.87738,25.96472,68.91738,26.00472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1359736
     },
     "wof:country":"PK",
-    "wof:geomhash":"aacdeb04f9776b7b09d7924f6d5f0bc4",
+    "wof:geomhash":"1deb3f2f2485ab051085b928e81ad2b9",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209307403,
-    "wof:lastmodified":1536291147,
+    "wof:lastmodified":1566588324,
     "wof:name":"Goth Ghundan",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.89738,
-    25.984720000000006,
+    25.98472000000001,
     68.89738,
-    25.984720000000006
+    25.98472000000001
 ],
   "geometry": {"coordinates":[68.89738,25.98472000000001],"type":"Point"}
 }

@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":13087142.139483,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.041839,33.598388,73.041839,33.598388",
     "geom:latitude":33.598388,
     "geom:longitude":73.041839,
     "gn:latitude":33.76458,
     "gn:longitude":72.37336,
     "iso:country":"PK",
+    "lbl:bbox":"73.036839,33.593388,73.046839,33.603388",
     "lbl:latitude":33.598388,
     "lbl:longitude":73.041839,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.597975,
     "mps:longitude":73.046727,
     "mz:hierarchy_label":0,
@@ -35,10 +37,7 @@
         "Sadr Baazaar",
         "Sadr Bazar"
     ],
-    "name:und_x_preferred":[
-        "Sadr B\u00e5z\u00e5r"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sadr B\u00e5z\u00e5r"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -69,18 +68,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692361,
-        85675753
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1340635,
         "gp:id":2206908,
-        "qs:id":44589
+        "qs_pg:id":44589
     },
     "wof:country":"PK",
     "wof:geomhash":"4ce946bab6db867bf6e9c860df568068",
@@ -98,7 +97,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936073,
+    "wof:lastmodified":1566584916,
     "wof:name":"Sadr B\u00e5z\u00e5r",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

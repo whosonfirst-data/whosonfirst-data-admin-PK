@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":35.332339,
     "lbl:longitude":76.404452,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gilgit-Baltistan",
     "meso:diss_me":"GhancheGilgit-Baltistan",
     "meso:gadm_admin":"Northern Areas",
@@ -31,6 +33,7 @@
     "mps:longitude":76.404452,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ghanche"
     ],
@@ -38,7 +41,7 @@
         "Northern Areas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         1159339495,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108692185,
-    "wof:lastmodified":1555047520,
+    "wof:lastmodified":1566590151,
     "wof:name":"Ghanche",
     "wof:parent_id":85675745,
     "wof:placetype":"county",

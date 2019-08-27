@@ -11,10 +11,14 @@
     "geom:longitude":67.73366,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":30286,
+    "gn:population":30286,
     "iso:country":"PK",
+    "lbl:bbox":"67.71366,27.07359,67.75366,27.11359",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:ben_x_preferred":[
         "\u09a6\u09be\u09a6\u09c1 \u099c\u09c7\u09b2\u09be"
     ],
@@ -51,7 +55,7 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0ba4\u0bc1 \u0bae\u0bbe\u0bb5\u0b9f\u0bcd\u0b9f\u0bae\u0bcd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Khairpur Nathoshah"
     ],
     "name:urd_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:concordances":{
         "gn:id":1174344,
         "gp:id":2211434,
-        "qs:id":130776,
+        "qs_pg:id":130776,
         "wd:id":"Q1082679",
         "wk:page":"Dadu District"
     },
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890441755,
-    "wof:lastmodified":1563353951,
+    "wof:lastmodified":1566591794,
     "wof:name":"Khairpur Nathan Sh\u0101h",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

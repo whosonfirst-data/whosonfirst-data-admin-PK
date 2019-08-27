@@ -11,8 +11,11 @@
     "geom:longitude":73.1,
     "gn:country":"PK",
     "gn:fcode":"PPLA2",
-    "gn:pop":235695,
+    "gn:population":235695,
     "iso:country":"PK",
+    "lbl:bbox":"73.08,30.64667,73.12,30.68667",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":7.0,
@@ -172,7 +175,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u043e\u043d\u0442\u0433\u043e\u043c\u0435\u0440\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "S\u0101h\u012bw\u0101l"
     ],
     "name:urd_x_preferred":[
@@ -298,7 +301,7 @@
     "wof:concordances":{
         "gn:id":1166548,
         "gp:id":2211404,
-        "qs:id":1029878,
+        "qs_pg:id":1029878,
         "wd:id":"Q223831",
         "wk:page":"Montgomery"
     },
@@ -314,7 +317,7 @@
         }
     ],
     "wof:id":890443583,
-    "wof:lastmodified":1563353971,
+    "wof:lastmodified":1566591800,
     "wof:name":"Montgomery",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

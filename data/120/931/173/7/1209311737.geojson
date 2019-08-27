@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.7572,33.88127,73.7972,33.92127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":10955671
     },
     "wof:country":"PK",
-    "wof:geomhash":"b1c4e81ec30135463203fd36b08c2219",
+    "wof:geomhash":"c8eace8e0c6f8e8ddbd105e940c4d70c",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209311737,
-    "wof:lastmodified":1536291004,
+    "wof:lastmodified":1566588073,
     "wof:name":"Dehri Topi",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.7772,
-    33.901270000000004,
+    33.90127,
     73.7772,
-    33.901270000000004
+    33.90127
 ],
   "geometry": {"coordinates":[73.77719999999999,33.90127],"type":"Point"}
 }

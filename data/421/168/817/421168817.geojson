@@ -10,6 +10,9 @@
     "geom:latitude":35.91868,
     "geom:longitude":74.31245,
     "iso:country":"PK",
+    "lbl:bbox":"74.29245,35.89868,74.33245,35.93868",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -146,7 +149,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0456\u043b\u0433\u0456\u0442"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gilghit"
     ],
     "name:urd_x_preferred":[
@@ -290,7 +293,7 @@
     "wof:concordances":{
         "gn:id":1178338,
         "gp:id":2210970,
-        "qs:id":1117339,
+        "qs_pg:id":1117339,
         "wd:id":"Q609024",
         "wk:page":"Gilgit"
     },
@@ -323,7 +326,7 @@
         }
     ],
     "wof:id":421168817,
-    "wof:lastmodified":1563353784,
+    "wof:lastmodified":1566591764,
     "wof:name":"Gilgit",
     "wof:parent_id":1108692193,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":27.37427,
     "geom:longitude":68.09673,
     "iso:country":"PK",
+    "lbl:bbox":"68.07673,27.35427,68.11673,27.39427",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bul_x_preferred":[
         "\u0414\u043e\u043a\u0440\u0438"
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1179660,
         "gp:id":2195382,
-        "qs:id":190554,
+        "qs_pg:id":190554,
         "wd:id":"Q3249928",
         "wk:page":"Dokri"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421199185,
-    "wof:lastmodified":1563353904,
+    "wof:lastmodified":1566591785,
     "wof:name":"Dokri",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"74.99136,32.14221,75.03136,32.18221",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1169377
     },
     "wof:country":"PK",
-    "wof:geomhash":"74299b6bf342b3f2b6a70c3ba2685ca6",
+    "wof:geomhash":"889a7ba7f9dc4860e9f1cdb5a2812aa5",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209038725,
-    "wof:lastmodified":1536299614,
+    "wof:lastmodified":1566588877,
     "wof:name":"Nangli",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     75.01136,
-    32.162209999999995,
+    32.16220999999999,
     75.01136,
-    32.162209999999995
+    32.16220999999999
 ],
   "geometry": {"coordinates":[75.01136,32.16220999999999],"type":"Point"}
 }

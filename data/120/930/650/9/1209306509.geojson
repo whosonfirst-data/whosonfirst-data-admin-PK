@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.87833,34.66814,73.91833,34.70814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":10944592
     },
     "wof:country":"PK",
-    "wof:geomhash":"4cf704032a125e0208d122c6e4753719",
+    "wof:geomhash":"30ecb2e7b185e15f54707f9d6092537c",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209306509,
-    "wof:lastmodified":1536291177,
+    "wof:lastmodified":1566588324,
     "wof:name":"Kilwan",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.89833,
-    34.688140000000004,
+    34.68814,
     73.89833,
-    34.688140000000004
+    34.68814
 ],
   "geometry": {"coordinates":[73.89833,34.68814],"type":"Point"}
 }

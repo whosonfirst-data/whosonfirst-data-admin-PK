@@ -5,12 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.3,31.55028,74.3,31.55028",
     "geom:latitude":31.55028,
     "geom:longitude":74.3,
     "iso:country":"PK",
+    "lbl:bbox":"74.295,31.54528,74.305,31.55528",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLX",
@@ -32,16 +36,16 @@
     "qs:woe_id":2206298,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692273,
-        85675753
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1167360,
         "gp:id":2206298,
-        "qs:id":59343
+        "qs_pg:id":59343
     },
     "wof:country":"PK",
     "wof:created":1459010147,
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":421203341,
-    "wof:lastmodified":1531858824,
+    "wof:lastmodified":1566591774,
     "wof:name":"R\u00e5jgarh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

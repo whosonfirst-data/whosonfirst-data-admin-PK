@@ -10,8 +10,12 @@
     "geom:latitude":36.47276,
     "geom:longitude":74.89443,
     "iso:country":"PK",
+    "lbl:bbox":"74.87443,36.45276,74.91443,36.49276",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Passu"
@@ -23,9 +27,6 @@
         "\u30d1\u30b9\u30fc"
     ],
     "name:nld_x_preferred":[
-        "Passu"
-    ],
-    "name:unk_x_variant":[
         "Passu"
     ],
     "name:urd_x_preferred":[
@@ -64,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1168302,
         "gp:id":2211339,
-        "qs:id":229327,
+        "qs_pg:id":229327,
         "wd:id":"Q7142866",
         "wk:page":"Passu"
     },
@@ -97,7 +98,7 @@
         }
     ],
     "wof:id":421203147,
-    "wof:lastmodified":1563353842,
+    "wof:lastmodified":1566591775,
     "wof:name":"Pasu",
     "wof:parent_id":1108692193,
     "wof:placetype":"locality",

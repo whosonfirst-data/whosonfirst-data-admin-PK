@@ -10,8 +10,10 @@
     "geom:latitude":33.609745,
     "geom:longitude":73.095741,
     "iso:country":"PK",
+    "lbl:bbox":"73.090741,33.604745,73.100741,33.614745",
     "lbl:latitude":33.609745,
     "lbl:longitude":73.095741,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.611181,
     "mps:longitude":73.102245,
     "mz:hierarchy_label":0,
@@ -33,9 +35,6 @@
         "Jhanda Chachi"
     ],
     "name:nld_x_preferred":[
-        "Jhanda"
-    ],
-    "name:unk_x_variant":[
         "Jhanda"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -65,7 +64,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":64,
     "wof:belongsto":[
         85675753,
@@ -94,7 +93,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563341532,
+    "wof:lastmodified":1566584916,
     "wof:name":"Jhanda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

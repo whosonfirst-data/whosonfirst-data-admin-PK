@@ -10,8 +10,12 @@
     "geom:latitude":25.28147,
     "geom:longitude":69.39654,
     "iso:country":"PK",
+    "lbl:bbox":"69.37654,25.26147,69.41654,25.30147",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Samaro"
@@ -28,7 +32,7 @@
     "name:snd_x_preferred":[
         "\u0633\u0627\u0645\u0627\u0631\u0648"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Samara"
     ],
     "qs:gn_country":"PK",
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1166275,
         "gp:id":2211412,
-        "qs:id":1307379,
+        "qs_pg:id":1307379,
         "wd:id":"Q7408863"
     },
     "wof:country":"PK",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421184857,
-    "wof:lastmodified":1563353919,
+    "wof:lastmodified":1566591787,
     "wof:name":"Samaro",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

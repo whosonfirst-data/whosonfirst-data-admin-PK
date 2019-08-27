@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.651873,
     "lbl:longitude":64.154811,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"PanjgurBalochistan",
     "meso:gadm_admin":"Makran",
@@ -34,6 +36,7 @@
     "mps:longitude":64.154811,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u09be\u099e\u09cd\u099c\u0997\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -93,7 +96,7 @@
         "\u65c1\u5409\u53e4\u5c14\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":1108692345,
-    "wof:lastmodified":1563350731,
+    "wof:lastmodified":1566590159,
     "wof:name":"Panjgur",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":31779123.364623,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.065038,24.849017,67.065038,24.849017",
     "geom:latitude":24.849017,
     "geom:longitude":67.065038,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"67.060038,24.844017,67.070038,24.854017",
     "lbl:latitude":24.849017,
     "lbl:longitude":67.065038,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.841929,
     "mps:longitude":67.065395,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Defence Housing Colony"
-    ],
-    "name:unk_x_variant":[
         "Defence Housing Colony"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -56,7 +55,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         85675757,
         102191569,
@@ -66,11 +65,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726241,
-        "qs:id":985263
+        "qs_pg:id":985263
     },
     "wof:concordances_alt":{
         "gp:id":22726242,
-        "qs:id":985264
+        "qs_pg:id":985264
     },
     "wof:country":"PK",
     "wof:geomhash":"c1fd4cdee4523ca015ee00fa171eaadd",
@@ -88,7 +87,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379407,
+    "wof:lastmodified":1566584918,
     "wof:name":"Defence Housing Colony",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.12423,30.27364,73.16423,30.31364",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11539557
     },
     "wof:country":"PK",
-    "wof:geomhash":"b7f604eb527ebc289e56b0dac08ced18",
+    "wof:geomhash":"54621fef8578c85566ce7194f7adb5d3",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209437987,
-    "wof:lastmodified":1536287045,
+    "wof:lastmodified":1566589254,
     "wof:name":"Kot Chaudhary Ghulam Din",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.14423000000002,
-    30.293640000000003,
+    30.29364,
     73.14423000000002,
-    30.293640000000003
+    30.29364
 ],
   "geometry": {"coordinates":[73.14423000000002,30.29364],"type":"Point"}
 }

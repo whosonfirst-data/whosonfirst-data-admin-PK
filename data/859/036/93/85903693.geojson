@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9370362.153405,
+    "geom:area_square_m":0.0,
     "geom:bbox":"74.331889,31.549718,74.331889,31.549718",
     "geom:latitude":31.549718,
     "geom:longitude":74.331889,
     "gn:latitude":31.5574,
     "gn:longitude":74.3143,
     "iso:country":"PK",
+    "lbl:bbox":"74.326889,31.544718,74.336889,31.554718",
     "lbl:latitude":31.549718,
     "lbl:longitude":74.331889,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.54668,
     "mps:longitude":74.329333,
     "mz:hierarchy_label":0,
@@ -30,9 +32,6 @@
     ],
     "name:eng_x_variant":[
         "Mazang"
-    ],
-    "name:unk_x_variant":[
-        "Mozang"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_fcode":"PPLX",
@@ -61,18 +60,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692273,
-        85675753
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1170000,
         "gp:id":2203895,
-        "qs:id":235525
+        "qs_pg:id":235525
     },
     "wof:country":"PK",
     "wof:geomhash":"36e9f0bbfedb1955271f5fe17640a1de",
@@ -90,7 +89,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936068,
+    "wof:lastmodified":1566584914,
     "wof:name":"Mozang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

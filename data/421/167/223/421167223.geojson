@@ -10,8 +10,12 @@
     "geom:latitude":27.85685,
     "geom:longitude":69.11156,
     "iso:country":"PK",
+    "lbl:bbox":"69.09156,27.83685,69.13156,27.87685",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "P\u0101no \u0100qil"
@@ -33,9 +37,6 @@
     ],
     "name:spa_x_preferred":[
         "Pano Aqil"
-    ],
-    "name:unk_x_variant":[
-        "P\u0101no \u0100qil"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0646\u0648\u0639\u0627\u0642\u0644"
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1168412,
         "gp:id":2211331,
-        "qs:id":130720,
+        "qs_pg:id":130720,
         "wd:id":"Q7131436",
         "wk:page":"Pano Akil"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421167223,
-    "wof:lastmodified":1563353820,
+    "wof:lastmodified":1566591771,
     "wof:name":"Pano Akil",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",
