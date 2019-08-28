@@ -10,8 +10,12 @@
     "geom:latitude":33.53108,
     "geom:longitude":71.05934,
     "iso:country":"PK",
+    "lbl:bbox":"71.03934,33.51108,71.07934,33.55108",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0646\u0643\u0648"
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1177203,
         "gp:id":2211005,
-        "qs:id":130821,
+        "qs_pg:id":130821,
         "wd:id":"Q1575544",
         "wk:page":"Hangu, Pakistan"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421167263,
-    "wof:lastmodified":1563353825,
+    "wof:lastmodified":1566591772,
     "wof:name":"Hangu",
     "wof:parent_id":1108692203,
     "wof:placetype":"locality",

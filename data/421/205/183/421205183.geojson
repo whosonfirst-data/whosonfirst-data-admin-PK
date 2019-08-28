@@ -10,8 +10,12 @@
     "geom:latitude":31.5709,
     "geom:longitude":73.48531,
     "iso:country":"PK",
+    "lbl:bbox":"73.46531,31.5509,73.50531,31.5909",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Shahkot"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Shahkot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u0101h kot"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1165569,
         "gp:id":2207830,
-        "qs:id":257545,
+        "qs_pg:id":257545,
         "wd:id":"Q3243491",
         "wk:page":"Shahkot, Pakistan"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421205183,
-    "wof:lastmodified":1563353846,
+    "wof:lastmodified":1566591775,
     "wof:name":"Shah Kot",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

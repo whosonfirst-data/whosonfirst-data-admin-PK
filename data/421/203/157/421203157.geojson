@@ -10,6 +10,9 @@
     "geom:latitude":31.71306,
     "geom:longitude":73.97833,
     "iso:country":"PK",
+    "lbl:bbox":"73.95833,31.69306,73.99833,31.73306",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -143,7 +146,7 @@
     "name:ukr_x_preferred":[
         "\u0428\u0435\u043a\u0445\u0443\u043f\u0443\u043f\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qila Sheikhupura"
     ],
     "name:urd_x_preferred":[
@@ -286,7 +289,7 @@
     "wof:concordances":{
         "gn:id":1165221,
         "gp:id":2211456,
-        "qs:id":229332,
+        "qs_pg:id":229332,
         "wd:id":"Q972756",
         "wk:page":"Sheikhupura"
     },
@@ -302,7 +305,7 @@
         }
     ],
     "wof:id":421203157,
-    "wof:lastmodified":1563353839,
+    "wof:lastmodified":1566591774,
     "wof:name":"Shekhupura",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

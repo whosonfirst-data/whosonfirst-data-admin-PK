@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":32.46145,
     "lbl:longitude":70.248127,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federally Administered Tribal Areas",
     "meso:diss_me":"FR TankFederally Administered Tribal Areas",
     "meso:gadm_admin":"F.A.T.A.",
@@ -31,6 +33,7 @@
     "mps:longitude":70.248127,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Tenk"
     ],
@@ -334,7 +337,7 @@
         "\u05d8\u05d0\u05e0\u05e7"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -356,7 +359,7 @@
         }
     ],
     "wof:id":1108692183,
-    "wof:lastmodified":1564194740,
+    "wof:lastmodified":1566590151,
     "wof:name":"Tank",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

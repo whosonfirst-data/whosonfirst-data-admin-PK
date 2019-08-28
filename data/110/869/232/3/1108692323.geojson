@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":31.385856,
     "lbl:longitude":73.830305,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:diss_me":"Nankana SahibPunjab",
     "meso:gadm_admin":"Lahore",
@@ -31,6 +33,7 @@
     "mps:longitude":73.830305,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0646\u0627\u0646\u0643\u0627\u0646\u0627 \u0635\u0627\u062d\u0628"
     ],
@@ -90,7 +93,7 @@
         "\u0646\u0646\u06a9\u0627\u0646\u06c1 \u0635\u0627\u062d\u0628"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108692323,
-    "wof:lastmodified":1564194746,
+    "wof:lastmodified":1566590158,
     "wof:name":"Nankana Sahib",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

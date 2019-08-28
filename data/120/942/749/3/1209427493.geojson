@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"66.57021,28.60774,66.61021,28.64774",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7067870
     },
     "wof:country":"PK",
-    "wof:geomhash":"7438dbbc0590277e1cd46aba3f332dfa",
+    "wof:geomhash":"f03db39fee7217142b0e23dac1e099a7",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209427493,
-    "wof:lastmodified":1536287335,
+    "wof:lastmodified":1566589133,
     "wof:name":"Dhum",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     66.59021,
-    28.627740000000006,
+    28.62774000000001,
     66.59021,
-    28.627740000000006
+    28.62774000000001
 ],
   "geometry": {"coordinates":[66.59021,28.62774000000001],"type":"Point"}
 }

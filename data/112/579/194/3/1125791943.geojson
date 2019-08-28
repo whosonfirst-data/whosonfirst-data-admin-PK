@@ -9,17 +9,20 @@
     "geom:bbox":"73.13889,29.61333,73.13889,29.61333",
     "geom:latitude":29.61333,
     "geom:longitude":73.13889,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":72432,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
     "gn:population":72432,
     "iso:country":"PK",
+    "lbl:bbox":"73.11889,29.59333,73.15889,29.63333",
     "lbl:latitude":29.61333,
     "lbl:longitude":73.13889,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Badruw\u0101la Mandi"
     ],
     "qs_pg:aaroncc":"PK",
@@ -34,7 +37,7 @@
     "qs_pg:qs_id":130819,
     "qs_pg:qs_pg_placetype":"locality",
     "src:geom":"qs_pg",
-    "src:lbl:centroid":"qs_pg",
+    "src:lbl_centroid":"qs_pg",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1125791943,
-    "wof:lastmodified":1509392402,
+    "wof:lastmodified":1566591807,
     "wof:name":"Haru Zbad",
     "wof:parent_id":1108692127,
     "wof:placetype":"locality",

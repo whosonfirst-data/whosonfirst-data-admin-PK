@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"65.54972,29.50749,65.58972,29.54749",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11070463
     },
     "wof:country":"PK",
-    "wof:geomhash":"ad05a4d72a9fa77b24ed6aed24c7f1ff",
+    "wof:geomhash":"1662a81f72bdb1ddd081975f12692621",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209417169,
-    "wof:lastmodified":1536287649,
+    "wof:lastmodified":1566588527,
     "wof:name":"Kili Sangin",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     65.56971999999999,
-    29.527490000000004,
+    29.52749,
     65.56971999999999,
-    29.527490000000004
+    29.52749
 ],
   "geometry": {"coordinates":[65.56971999999999,29.52749],"type":"Point"}
 }

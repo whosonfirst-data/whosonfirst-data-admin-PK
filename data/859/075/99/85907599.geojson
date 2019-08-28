@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":23934572.983815,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.090851,24.92314,67.090851,24.92314",
     "geom:latitude":24.92314,
     "geom:longitude":67.090851,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"67.085851,24.91814,67.095851,24.92814",
     "lbl:latitude":24.92314,
     "lbl:longitude":67.090851,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.933766,
     "mps:longitude":67.100912,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Goth-khadgi-lemun-khan"
-    ],
-    "name:unk_x_variant":[
         "Goth-khadgi-lemun-khan"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -56,17 +55,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726268,
-        "qs:id":366872
+        "qs_pg:id":366872
     },
     "wof:country":"PK",
     "wof:geomhash":"a2050f4c257513b2bba932b4dc299931",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936604,
+    "wof:lastmodified":1566584918,
     "wof:name":"Goth-khadgi-lemun-khan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,6 +10,9 @@
     "geom:latitude":31.83269,
     "geom:longitude":70.9024,
     "iso:country":"PK",
+    "lbl:bbox":"70.8824,31.81269,70.9224,31.85269",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -139,9 +142,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0414\u0435\u0440\u0430-\u0406\u0441\u043c\u0430\u0457\u043b-\u0425\u0430\u043d"
-    ],
-    "name:unk_x_variant":[
-        "Dera Ism\u0101\u012bl Kh\u0101n"
     ],
     "name:urd_x_preferred":[
         "\u0688\u06cc\u0631\u06c1 \u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u062e\u0627\u0646"
@@ -275,7 +275,7 @@
     "wof:concordances":{
         "gn:id":1180281,
         "gp:id":2210904,
-        "qs:id":208959,
+        "qs_pg:id":208959,
         "wd:id":"Q1249888",
         "wk:page":"Dera Ismail Khan"
     },
@@ -292,7 +292,7 @@
         }
     ],
     "wof:id":421200367,
-    "wof:lastmodified":1563353910,
+    "wof:lastmodified":1566591786,
     "wof:name":"Dera Ismail Khan",
     "wof:parent_id":1108692165,
     "wof:placetype":"locality",

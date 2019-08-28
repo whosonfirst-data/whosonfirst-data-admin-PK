@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":27.652247,
     "lbl:longitude":65.154787,
+    "lbl:min_zoom":8.0,
     "mps:latitude":27.652247,
     "mps:longitude":65.154787,
     "mz:hierarchy_label":1,
@@ -255,7 +256,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u043b\u0443\u0434\u0436\u0438\u0441\u0442\u0430\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baluchist\u0101n"
     ],
     "name:urd_x_preferred":[
@@ -361,9 +362,9 @@
     "qs:type":"Province",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-02",
+    "src:population_date":"1998-03-02",
     "statoids:area_km":"347,190",
     "statoids:area_mi":"134,051",
     "statoids:as_of_date":"1998-03-02",
@@ -392,7 +393,7 @@
         "hasc:id":"PK.BA",
         "iso:id":"PK-BA",
         "nyt:id":"19835038768305085181",
-        "qs:id":423863,
+        "qs_pg:id":423863,
         "unlc:id":"PK-BA",
         "wd:id":"Q163239",
         "wk:page":"Balochistan, Pakistan"
@@ -415,7 +416,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1565733114,
+    "wof:lastmodified":1566584920,
     "wof:name":"Balochistan",
     "wof:parent_id":85632659,
     "wof:placetype":"region",

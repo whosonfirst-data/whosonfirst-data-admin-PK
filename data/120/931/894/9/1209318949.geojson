@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.63,26.09667,68.67,26.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1169846
     },
     "wof:country":"PK",
-    "wof:geomhash":"9c1d00edc264b4f8abc96211a8fe01d2",
+    "wof:geomhash":"b9f3682c0ffdbcffb252903488b92048",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209318949,
-    "wof:lastmodified":1536290765,
+    "wof:lastmodified":1566588069,
     "wof:name":"Mulla Alam",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.65,
-    26.116670000000006,
+    26.11667000000001,
     68.65,
-    26.116670000000006
+    26.11667000000001
 ],
   "geometry": {"coordinates":[68.65000000000001,26.11667000000001],"type":"Point"}
 }

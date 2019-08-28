@@ -10,8 +10,12 @@
     "geom:latitude":30.16667,
     "geom:longitude":72.65,
     "iso:country":"PK",
+    "lbl:bbox":"72.63,30.14667,72.67,30.18667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ac\u09c1\u09b0\u09c7\u0993\u09af\u09bc\u09be\u09b2\u09be"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":1182092,
         "gp:id":2211215,
-        "qs:id":130870,
+        "qs_pg:id":130870,
         "wd:id":"Q1250083"
     },
     "wof:country":"PK",
@@ -112,7 +116,7 @@
         }
     ],
     "wof:id":421167287,
-    "wof:lastmodified":1563353809,
+    "wof:lastmodified":1566591769,
     "wof:name":"Burewala",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

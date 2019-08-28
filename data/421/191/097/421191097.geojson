@@ -10,8 +10,12 @@
     "geom:latitude":25.815036,
     "geom:longitude":68.422431,
     "iso:country":"PK",
+    "lbl:bbox":"68.402431,25.795036,68.442431,25.835036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0647\u0644\u0648"
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2211001,
-        "qs:id":1130195
+        "qs_pg:id":1130195
     },
     "wof:country":"PK",
     "wof:created":1459009679,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421191097,
-    "wof:lastmodified":1564197818,
+    "wof:lastmodified":1566591782,
     "wof:name":"Halu",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

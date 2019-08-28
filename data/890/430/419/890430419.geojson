@@ -11,10 +11,14 @@
     "geom:longitude":67.65135,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":15090,
+    "gn:population":15090,
     "iso:country":"PK",
+    "lbl:bbox":"67.63135,29.45527,67.67135,29.49527",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "D\u0101dhar"
     ],
@@ -60,9 +64,6 @@
     "name:swe_x_preferred":[
         "Dhadar"
     ],
-    "name:unk_x_variant":[
-        "Dhadar"
-    ],
     "name:urd_x_preferred":[
         "\u062f\u06be\u0627\u062f\u0631"
     ],
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1180825,
         "gp:id":2210881,
-        "qs:id":130861,
+        "qs_pg:id":130861,
         "wd:id":"Q254504"
     },
     "wof:country":"PK",
@@ -95,7 +96,7 @@
         }
     ],
     "wof:id":890430419,
-    "wof:lastmodified":1563353955,
+    "wof:lastmodified":1566591795,
     "wof:name":"D\u0101dhar",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

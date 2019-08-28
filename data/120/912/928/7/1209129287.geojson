@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.69528,30.36194,73.73528,30.40194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1417047
     },
     "wof:country":"PK",
-    "wof:geomhash":"142c8173c777aec6416774895bbb37d3",
+    "wof:geomhash":"0511f6507dded3221ab6641f89be3c6a",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209129287,
-    "wof:lastmodified":1536296856,
+    "wof:lastmodified":1566588552,
     "wof:name":"Nur Shah",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.71528,
-    30.381940000000004,
+    30.38194,
     73.71528,
-    30.381940000000004
+    30.38194
 ],
   "geometry": {"coordinates":[73.71528000000001,30.38194],"type":"Point"}
 }

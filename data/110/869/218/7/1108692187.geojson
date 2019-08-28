@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":36.324397,
     "lbl:longitude":73.41366,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Gilgit-Baltistan",
     "meso:diss_me":"GhizerGilgit-Baltistan",
     "meso:gadm_admin":"Northern Areas",
@@ -31,6 +33,7 @@
     "mps:longitude":73.41366,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ghizer"
     ],
@@ -38,7 +41,7 @@
         "Northern Areas"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         1159339495,
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1108692187,
-    "wof:lastmodified":1555047520,
+    "wof:lastmodified":1566590151,
     "wof:name":"Ghizer",
     "wof:parent_id":85675745,
     "wof:placetype":"county",

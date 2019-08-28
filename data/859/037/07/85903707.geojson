@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":5371091.871455,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.058895,33.614696,73.058895,33.614696",
     "geom:latitude":33.614696,
     "geom:longitude":73.058895,
     "gn:latitude":33.6078,
     "gn:longitude":73.0453,
     "iso:country":"PK",
+    "lbl:bbox":"73.053895,33.609696,73.063895,33.619696",
     "lbl:latitude":33.614696,
     "lbl:longitude":73.058895,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.61781,
     "mps:longitude":73.060366,
     "mz:hierarchy_label":0,
@@ -36,11 +38,7 @@
         "Ratta Amraal",
         "Ratta Amral"
     ],
-    "name:und_x_preferred":[
-        "Ratta Amr\u00e5l"
-    ],
-    "name:unk_x_variant":[
-        "Ratta",
+    "name:und_x_variant":[
         "Ratta Amr\u00e5l"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -71,18 +69,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692361,
-        85675753
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1167025,
         "gp:id":2206589,
-        "qs:id":894048
+        "qs_pg:id":894048
     },
     "wof:country":"PK",
     "wof:geomhash":"bd04fb47fbbaa0ea830b41c393a60e8d",
@@ -100,7 +98,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936072,
+    "wof:lastmodified":1566584916,
     "wof:name":"Ratta Amr\u00e5l",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

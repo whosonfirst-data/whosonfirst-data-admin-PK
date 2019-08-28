@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.08806,30.00469,73.12806,30.04469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1167841
     },
     "wof:country":"PK",
-    "wof:geomhash":"a0462d588d9ebe8656939ef1b87ec00f",
+    "wof:geomhash":"22cf9b3967eda767b469f273c4944094",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209638407,
-    "wof:lastmodified":1536280965,
+    "wof:lastmodified":1566588348,
     "wof:name":"Pir Sikandar",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.10806,
-    30.024690000000003,
+    30.02469,
     73.10806,
-    30.024690000000003
+    30.02469
 ],
   "geometry": {"coordinates":[73.10805999999999,30.02469],"type":"Point"}
 }

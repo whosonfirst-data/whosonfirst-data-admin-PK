@@ -10,8 +10,12 @@
     "geom:latitude":29.12122,
     "geom:longitude":71.74459,
     "iso:country":"PK",
+    "lbl:bbox":"71.72459,29.10122,71.76459,29.14122",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Yazman"
@@ -64,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1162316,
         "gp:id":2211564,
-        "qs:id":1093321,
+        "qs_pg:id":1093321,
         "wd:id":"Q8050625",
         "wk:page":"Yazman"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":421176981,
-    "wof:lastmodified":1563353945,
+    "wof:lastmodified":1566591792,
     "wof:name":"Yazman",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

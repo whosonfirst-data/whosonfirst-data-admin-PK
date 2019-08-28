@@ -10,8 +10,12 @@
     "geom:latitude":29.74931,
     "geom:longitude":73.24324,
     "iso:country":"PK",
+    "lbl:bbox":"73.22324,29.72931,73.26324,29.76931",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Dunga Bunga"
@@ -34,7 +38,7 @@
     "name:por_x_preferred":[
         "Dunga Bunga"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "D\u016bnga B\u016bnga"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1179463,
         "gp:id":2210931,
-        "qs:id":130848,
+        "qs_pg:id":130848,
         "wd:id":"Q1985683",
         "wk:page":"Dunga Bunga"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421167271,
-    "wof:lastmodified":1563353820,
+    "wof:lastmodified":1566591771,
     "wof:name":"Dunga Bunga",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

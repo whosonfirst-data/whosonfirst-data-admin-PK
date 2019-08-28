@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.95736,30.00309,70.99736,30.04309",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11178612
     },
     "wof:country":"PK",
-    "wof:geomhash":"b7994a5dc03fbff2edff8a06f9aa3632",
+    "wof:geomhash":"b58d274e7985b0db747c5c556bade2fa",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209220055,
-    "wof:lastmodified":1536293994,
+    "wof:lastmodified":1566588741,
     "wof:name":"Qambarwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.97736,
-    30.023090000000003,
+    30.02309,
     70.97736,
-    30.023090000000003
+    30.02309
 ],
   "geometry": {"coordinates":[70.97736,30.02309],"type":"Point"}
 }

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":26.811168,
     "lbl:longitude":69.094597,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sindh",
     "meso:diss_me":"KhairpurSindh",
     "meso:gadm_admin":"Sukkur",
@@ -34,6 +36,7 @@
     "mps:longitude":69.094597,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0996\u09af\u09bc\u09c7\u09b0\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -90,7 +93,7 @@
         "\u51ef\u5c14\u5e03\u5c14\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -113,7 +116,7 @@
         }
     ],
     "wof:id":1108692245,
-    "wof:lastmodified":1563350744,
+    "wof:lastmodified":1566590165,
     "wof:name":"Khairpur",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

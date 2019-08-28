@@ -10,6 +10,9 @@
     "geom:latitude":25.39242,
     "geom:longitude":68.37366,
     "iso:country":"PK",
+    "lbl:bbox":"68.35366,25.37242,68.39366,25.41242",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -203,7 +206,7 @@
     "name:ukr_x_variant":[
         "\u0413\u0430\u0439\u0434\u0430\u0440\u0430\u0431\u0430\u0434"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haidarabad"
     ],
     "name:urd_x_preferred":[
@@ -355,7 +358,7 @@
     "wof:concordances":{
         "gn:id":1176734,
         "gp:id":2211024,
-        "qs:id":241179,
+        "qs_pg:id":241179,
         "wd:id":"Q1640079",
         "wk:page":"Hyderabad, Sindh"
     },
@@ -371,7 +374,7 @@
         }
     ],
     "wof:id":421168813,
-    "wof:lastmodified":1563353787,
+    "wof:lastmodified":1566591765,
     "wof:name":"Hyderabad",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

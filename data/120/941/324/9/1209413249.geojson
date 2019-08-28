@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"67.97448,26.85004,68.01448,26.89004",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11118069
     },
     "wof:country":"PK",
-    "wof:geomhash":"5967cd389777bfc49966c63d64c5fff0",
+    "wof:geomhash":"b3c84a68c2ffe9b8277f6d9b78c6a744",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209413249,
-    "wof:lastmodified":1536287770,
+    "wof:lastmodified":1566588485,
     "wof:name":"Goth Chazi Mashori",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     67.99448000000001,
-    26.870040000000003,
+    26.87004,
     67.99448000000001,
-    26.870040000000003
+    26.87004
 ],
   "geometry": {"coordinates":[67.99448000000001,26.87004],"type":"Point"}
 }

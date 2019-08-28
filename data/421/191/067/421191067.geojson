@@ -10,8 +10,12 @@
     "geom:latitude":33.433017,
     "geom:longitude":73.630542,
     "iso:country":"PK",
+    "lbl:bbox":"73.610542,33.413017,73.650542,33.453017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -44,7 +48,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2191363,
-        "qs:id":1130083
+        "qs_pg:id":1130083
     },
     "wof:country":"PK",
     "wof:created":1459009678,
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421191067,
-    "wof:lastmodified":1533678757,
+    "wof:lastmodified":1566591782,
     "wof:name":"Benahal Pattan",
     "wof:parent_id":1108692309,
     "wof:placetype":"locality",

@@ -10,8 +10,12 @@
     "geom:latitude":30.52708,
     "geom:longitude":72.24011,
     "iso:country":"PK",
+    "lbl:bbox":"72.22011,30.50708,72.26011,30.54708",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Tulamba"
@@ -31,7 +35,7 @@
     "name:pol_x_preferred":[
         "Tulamba"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tolamba"
     ],
     "name:urd_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1164064,
         "gp:id":2211499,
-        "qs:id":1029862,
+        "qs_pg:id":1029862,
         "wd:id":"Q7851908"
     },
     "wof:country":"PK",
@@ -82,7 +86,7 @@
         }
     ],
     "wof:id":421194173,
-    "wof:lastmodified":1563353799,
+    "wof:lastmodified":1566591768,
     "wof:name":"Talamba",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

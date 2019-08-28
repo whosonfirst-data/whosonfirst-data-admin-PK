@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"65.00495,26.28032,65.04495,26.32032",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11234090
     },
     "wof:country":"PK",
-    "wof:geomhash":"82090a6f4785ae5afe6ca601d16d8d15",
+    "wof:geomhash":"6ee34c2435b3dcf4de2bdd077a471475",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209417149,
-    "wof:lastmodified":1536287649,
+    "wof:lastmodified":1566588484,
     "wof:name":"Huda Bakhsh",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     65.02495,
-    26.300320000000006,
+    26.30032000000001,
     65.02495,
-    26.300320000000006
+    26.30032000000001
 ],
   "geometry": {"coordinates":[65.02495,26.30032000000001],"type":"Point"}
 }

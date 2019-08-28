@@ -11,10 +11,14 @@
     "geom:longitude":74.13687,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":12117,
+    "gn:population":12117,
     "iso:country":"PK",
+    "lbl:bbox":"74.11687,32.38623,74.15687,32.42623",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Dhaunkal"
     ],
@@ -27,7 +31,7 @@
     "name:nld_x_preferred":[
         "Dhaunkal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dhaonkal"
     ],
     "name:urd_x_preferred":[
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1180071,
-        "qs:id":130857,
+        "qs_pg:id":130857,
         "wd:id":"Q5269450",
         "wk:page":"Dhaunkal"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890430415,
-    "wof:lastmodified":1563353953,
+    "wof:lastmodified":1566591795,
     "wof:name":"Dhaunkal",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

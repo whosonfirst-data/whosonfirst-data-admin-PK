@@ -10,8 +10,12 @@
     "geom:latitude":25.366,
     "geom:longitude":68.31216,
     "iso:country":"PK",
+    "lbl:bbox":"68.29216,25.346,68.33216,25.386",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Kotri"
@@ -49,7 +53,7 @@
     "name:swe_x_preferred":[
         "Kotri"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Koti"
     ],
     "name:urd_x_preferred":[
@@ -88,7 +92,7 @@
     "wof:concordances":{
         "gn:id":1172904,
         "gp:id":2211165,
-        "qs:id":912630,
+        "qs_pg:id":912630,
         "wd:id":"Q2657702",
         "wk:page":"Kotri"
     },
@@ -104,7 +108,7 @@
         }
     ],
     "wof:id":421201119,
-    "wof:lastmodified":1563353917,
+    "wof:lastmodified":1566591787,
     "wof:name":"Kotri",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

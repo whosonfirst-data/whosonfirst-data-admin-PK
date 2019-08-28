@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":9231876.675154,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.02586,24.885458,67.02586,24.885458",
     "geom:latitude":24.885458,
     "geom:longitude":67.02586,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"67.02086,24.880458,67.03086,24.890458",
     "lbl:latitude":24.885458,
     "lbl:longitude":67.02586,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.883259,
     "mps:longitude":67.021667,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Lorens-road"
-    ],
-    "name:unk_x_variant":[
         "Lorens-road"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -56,17 +55,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726252,
-        "qs:id":238891
+        "qs_pg:id":238891
     },
     "wof:country":"PK",
     "wof:geomhash":"7c8ee895169757adadbfa23f2231d1ac",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936600,
+    "wof:lastmodified":1566584917,
     "wof:name":"Lorens-road",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":32.27917,
     "geom:longitude":71.55389,
     "iso:country":"PK",
+    "lbl:bbox":"71.53389,32.25917,71.57389,32.29917",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09b0\u09cd\u09a8\u09cb\u09b2\u09bf"
@@ -22,7 +26,7 @@
     "name:fas_x_preferred":[
         "\u0647\u0631\u0646\u0648\u0644\u06cc"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Haranoli"
     ],
     "name:urd_x_preferred":[
@@ -58,7 +62,7 @@
     "wof:concordances":{
         "gn:id":1177089,
         "gp:id":2197588,
-        "qs:id":461624,
+        "qs_pg:id":461624,
         "wd:id":"Q15982927"
     },
     "wof:country":"PK",
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":421180807,
-    "wof:lastmodified":1563353855,
+    "wof:lastmodified":1566591777,
     "wof:name":"Harnoli",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

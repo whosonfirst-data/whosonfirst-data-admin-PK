@@ -10,8 +10,12 @@
     "geom:latitude":31.82414,
     "geom:longitude":72.79971,
     "iso:country":"PK",
+    "lbl:bbox":"72.77971,31.80414,72.81971,31.84414",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "L\u0101li\u0101n"
@@ -33,9 +37,6 @@
     ],
     "name:por_x_preferred":[
         "Lalian"
-    ],
-    "name:unk_x_variant":[
-        "L\u0101li\u0101n"
     ],
     "name:urd_x_preferred":[
         "\u0644\u0627\u0644\u06cc\u0627\u0646"
@@ -70,7 +71,7 @@
     "wof:concordances":{
         "gn:id":1172295,
         "gp:id":2211185,
-        "qs:id":130750,
+        "qs_pg:id":130750,
         "wd:id":"Q3298223",
         "wk:page":"Lalian"
     },
@@ -86,7 +87,7 @@
         }
     ],
     "wof:id":421167241,
-    "wof:lastmodified":1563353819,
+    "wof:lastmodified":1566591771,
     "wof:name":"Lalian",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

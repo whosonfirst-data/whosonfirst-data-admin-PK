@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":30.775208,
     "lbl:longitude":67.245359,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"PishinBalochistan",
     "meso:gadm_admin":"Quetta",
@@ -34,6 +36,7 @@
     "mps:longitude":67.245359,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u09b6\u09bf\u09a8 \u099c\u09c7\u09b2\u09be"
     ],
@@ -96,7 +99,7 @@
         "\u76ae\u8f9b\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":1108692349,
-    "wof:lastmodified":1563350728,
+    "wof:lastmodified":1566590159,
     "wof:name":"Pishin",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

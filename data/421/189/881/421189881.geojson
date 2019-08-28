@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.1082,33.74613,73.1082,33.74613",
     "geom:latitude":33.74613,
     "geom:longitude":73.1082,
     "iso:country":"PK",
+    "lbl:bbox":"73.0882,33.72613,73.1282,33.76613",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "N\u016brpur Sh\u0101h\u0101n"
@@ -17,7 +23,7 @@
     "name:eng_x_variant":[
         "N\u016brbur Sh\u0101h\u0101n"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nurpur Shahan"
     ],
     "qs:gn_country":"PK",
@@ -48,7 +54,7 @@
     "wof:concordances":{
         "gn:id":1168764,
         "gp:id":2205095,
-        "qs:id":1117330
+        "qs_pg:id":1117330
     },
     "wof:country":"PK",
     "wof:created":1459009639,
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":421189881,
-    "wof:lastmodified":1501217006,
+    "wof:lastmodified":1566591778,
     "wof:name":"Noorpur Shahan",
     "wof:parent_id":85675741,
     "wof:placetype":"locality",

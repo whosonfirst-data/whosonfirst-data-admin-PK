@@ -10,6 +10,9 @@
     "geom:latitude":30.199,
     "geom:longitude":67.00971,
     "iso:country":"PK",
+    "lbl:bbox":"66.98971,30.179,67.02971,30.219",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.6,
@@ -209,7 +212,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0432\u0435\u0442\u0442\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sh\u0101lkot"
     ],
     "name:urd_x_preferred":[
@@ -352,7 +355,7 @@
     "wof:concordances":{
         "gn:id":1167528,
         "gp:id":2211369,
-        "qs:id":493370,
+        "qs_pg:id":493370,
         "wd:id":"Q185458",
         "wk:page":"Quetta"
     },
@@ -368,7 +371,7 @@
         }
     ],
     "wof:id":421173215,
-    "wof:lastmodified":1563353862,
+    "wof:lastmodified":1566591778,
     "wof:name":"Quetta",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

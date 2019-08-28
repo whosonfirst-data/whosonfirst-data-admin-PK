@@ -5,14 +5,16 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":1397492.30842,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.031792,24.844582,67.031792,24.844582",
     "geom:latitude":24.844582,
     "geom:longitude":67.031792,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"67.026792,24.839582,67.036792,24.849582",
     "lbl:latitude":24.844582,
     "lbl:longitude":67.031792,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.84197,
     "mps:longitude":67.033626,
     "mz:hierarchy_label":0,
@@ -25,9 +27,6 @@
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
-        "Frir-hall"
-    ],
-    "name:unk_x_variant":[
         "Frir-hall"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -56,17 +55,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726264,
-        "qs:id":14564
+        "qs_pg:id":14564
     },
     "wof:country":"PK",
     "wof:geomhash":"db976ae87be598905935e3d4393476c9",
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936603,
+    "wof:lastmodified":1566584918,
     "wof:name":"Frir-hall",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

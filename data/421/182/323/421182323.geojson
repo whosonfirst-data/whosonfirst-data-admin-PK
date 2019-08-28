@@ -10,8 +10,12 @@
     "geom:latitude":24.7961,
     "geom:longitude":66.97464,
     "iso:country":"PK",
+    "lbl:bbox":"66.95464,24.7761,66.99464,24.8161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Manora"
@@ -19,7 +23,7 @@
     "name:eng_x_variant":[
         "Manora Cantonment"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Karachi Manora"
     ],
     "name:urd_x_preferred":[
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1170963,
         "gp:id":2203011,
-        "qs:id":900091,
+        "qs_pg:id":900091,
         "wd:id":"Q6751408",
         "wk:page":"Manora Cantonment"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421182323,
-    "wof:lastmodified":1563353940,
+    "wof:lastmodified":1566591791,
     "wof:name":"Manora",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

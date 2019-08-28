@@ -10,8 +10,12 @@
     "geom:latitude":30.74179,
     "geom:longitude":73.82358,
     "iso:country":"PK",
+    "lbl:bbox":"73.80358,30.72179,73.84358,30.76179",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Hujra"
@@ -37,7 +41,7 @@
     "name:spa_x_preferred":[
         "Hujra"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hujra Sh\u0101h Muqim"
     ],
     "name:urd_x_preferred":[
@@ -72,7 +76,7 @@
     "wof:concordances":{
         "gn:id":1176800,
         "gp:id":2211022,
-        "qs:id":1307233,
+        "qs_pg:id":1307233,
         "wd:id":"Q3776565",
         "wk:page":"Hujra Shah Muqeem"
     },
@@ -88,7 +92,7 @@
         }
     ],
     "wof:id":421184843,
-    "wof:lastmodified":1563353918,
+    "wof:lastmodified":1566591787,
     "wof:name":"Hujra",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

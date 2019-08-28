@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":4811959.249522,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.004796,24.846594,67.004796,24.846594",
     "geom:latitude":24.846594,
     "geom:longitude":67.004796,
     "gn:latitude":24.8528,
     "gn:longitude":67.0106,
     "iso:country":"PK",
+    "lbl:bbox":"66.999796,24.841594,67.009796,24.851594",
     "lbl:latitude":24.846594,
     "lbl:longitude":67.004796,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.836429,
     "mps:longitude":67.011237,
     "mz:hierarchy_label":0,
@@ -72,10 +74,6 @@
     "name:spa_x_preferred":[
         "Arambag"
     ],
-    "name:unk_x_variant":[
-        "Rambaugh",
-        "Arambagh"
-    ],
     "name:urd_x_preferred":[
         "\u0622\u0631\u0627\u0645 \u0628\u0627\u063a"
     ],
@@ -115,19 +113,19 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1135,
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1184412,
         "gp:id":2190543,
-        "qs:id":1117329
+        "qs_pg:id":1117329
     },
     "wof:country":"PK",
     "wof:geomhash":"eec01dc2fa247dec1eb66f2375b49a32",
@@ -145,7 +143,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1531936056,
+    "wof:lastmodified":1566584914,
     "wof:name":"Arambagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

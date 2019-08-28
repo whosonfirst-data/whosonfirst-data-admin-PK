@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.3885,33.70539,73.4285,33.74539",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11441716
     },
     "wof:country":"PK",
-    "wof:geomhash":"9dcc7c526b46f4f2d17fcb1097b81c8b",
+    "wof:geomhash":"99f65b3095effaf4d50e16d5bf7eff3f",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209620839,
-    "wof:lastmodified":1536281523,
+    "wof:lastmodified":1566588257,
     "wof:name":"Anderlan",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.4085,
-    33.725390000000004,
+    33.72539,
     73.4085,
-    33.725390000000004
+    33.72539
 ],
   "geometry": {"coordinates":[73.4085,33.72539],"type":"Point"}
 }

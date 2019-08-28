@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.60083,29.67444,71.64083,29.71444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1380937
     },
     "wof:country":"PK",
-    "wof:geomhash":"b3e53c86f988911963c5032e3b4c686c",
+    "wof:geomhash":"dd253acabab56792d7131d1e32db4f3a",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209246881,
-    "wof:lastmodified":1536293134,
+    "wof:lastmodified":1566588557,
     "wof:name":"Chak Forty-Three M",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.62083,
-    29.694440000000004,
+    29.69444,
     71.62083,
-    29.694440000000004
+    29.69444
 ],
   "geometry": {"coordinates":[71.62083,29.69444],"type":"Point"}
 }

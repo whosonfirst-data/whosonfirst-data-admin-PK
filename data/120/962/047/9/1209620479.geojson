@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"74.73669,31.97702,74.77669,32.01702",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11523271
     },
     "wof:country":"PK",
-    "wof:geomhash":"a728cd1c33e7eee8b70615972fc62729",
+    "wof:geomhash":"0f6476a0b90301cb86ffcac25d272357",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209620479,
-    "wof:lastmodified":1536281535,
+    "wof:lastmodified":1566588261,
     "wof:name":"Narang Chana",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     74.75669,
-    31.997020000000006,
+    31.99702000000001,
     74.75669,
-    31.997020000000006
+    31.99702000000001
 ],
   "geometry": {"coordinates":[74.75669000000001,31.99702000000001],"type":"Point"}
 }

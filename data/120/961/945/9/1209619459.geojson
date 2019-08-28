@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"67.1609,27.18054,67.2009,27.22054",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11256774
     },
     "wof:country":"PK",
-    "wof:geomhash":"28190f100c4e4d6b9405bc1f58500de5",
+    "wof:geomhash":"8d9a74e6b815dc4795c76b4a67f66fa9",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209619459,
-    "wof:lastmodified":1536281571,
+    "wof:lastmodified":1566588820,
     "wof:name":"Goth Muhammad Yusuf Rustamani",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     67.1809,
-    27.200540000000004,
+    27.20054,
     67.1809,
-    27.200540000000004
+    27.20054
 ],
   "geometry": {"coordinates":[67.18089999999999,27.20054],"type":"Point"}
 }

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.818207,
     "lbl:longitude":71.709902,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:diss_me":"BahawalpurPunjab",
     "meso:gadm_admin":"Bahawalpur",
@@ -34,6 +36,7 @@
     "mps:longitude":71.709902,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b9\u09be\u0993\u09af\u09bc\u09be\u09b2\u09aa\u09c1\u09b0 \u099c\u09c7\u09b2\u09be"
     ],
@@ -110,7 +113,7 @@
         "\u5df4\u54c8\u74e6\u5c14\u5e03\u5c14\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1108692129,
-    "wof:lastmodified":1563350734,
+    "wof:lastmodified":1566590161,
     "wof:name":"Bahawalpur",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

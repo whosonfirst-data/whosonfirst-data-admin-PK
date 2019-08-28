@@ -10,8 +10,10 @@
     "geom:latitude":33.993928,
     "geom:longitude":71.519348,
     "iso:country":"PK",
+    "lbl:bbox":"71.514348,33.988928,71.524348,33.998928",
     "lbl:latitude":33.993928,
     "lbl:longitude":71.519348,
+    "lbl:max_zoom":18.0,
     "mps:latitude":33.993473,
     "mps:longitude":71.519138,
     "mz:hierarchy_label":0,
@@ -28,9 +30,6 @@
     ],
     "name:eng_x_variant":[
         "Abdara"
-    ],
-    "name:unk_x_variant":[
-        "Abdarra"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_id":0,
@@ -57,12 +56,12 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1360701001,
         102191569,
         85632659,
-        1108692347,
-        1360701001
+        1108692347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -84,7 +83,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1543515827,
+    "wof:lastmodified":1566584915,
     "wof:name":"Abdarra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

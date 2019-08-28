@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.20259,29.83259,71.24259,29.87259",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11371543
     },
     "wof:country":"PK",
-    "wof:geomhash":"5adcb2d9882d4f0ff4cb02ebf7ebd350",
+    "wof:geomhash":"db335e7381acd07edc0bceb0c462d5bc",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209414417,
-    "wof:lastmodified":1536287735,
+    "wof:lastmodified":1566588474,
     "wof:name":"Sewrewala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.22259,
-    29.852590000000006,
+    29.85259000000001,
     71.22259,
-    29.852590000000006
+    29.85259000000001
 ],
   "geometry": {"coordinates":[71.22259,29.85259000000001],"type":"Point"}
 }

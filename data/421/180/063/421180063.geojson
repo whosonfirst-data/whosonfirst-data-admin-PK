@@ -10,8 +10,12 @@
     "geom:latitude":32.93313,
     "geom:longitude":73.72637,
     "iso:country":"PK",
+    "lbl:bbox":"73.70637,32.91313,73.74637,32.95313",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Jhelum"
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":1175864,
         "gp:id":2211057,
-        "qs:id":583795,
+        "qs_pg:id":583795,
         "wd:id":"Q786725",
         "wk:page":"Jhelum"
     },
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":421180063,
-    "wof:lastmodified":1563353853,
+    "wof:lastmodified":1566591776,
     "wof:name":"Jhelum",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

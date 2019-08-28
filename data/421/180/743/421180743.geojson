@@ -10,8 +10,12 @@
     "geom:latitude":33.83428,
     "geom:longitude":73.29671,
     "iso:country":"PK",
+    "lbl:bbox":"73.27671,33.81428,73.31671,33.85428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:hbs_x_preferred":[
         "TRET"
@@ -19,7 +23,7 @@
     "name:srp_x_preferred":[
         "TRET"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taret"
     ],
     "qs:gn_country":"PK",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1163124,
         "gp:id":2209870,
-        "qs:id":451593
+        "qs_pg:id":451593
     },
     "wof:country":"PK",
     "wof:created":1459009269,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421180743,
-    "wof:lastmodified":1527716242,
+    "wof:lastmodified":1566591777,
     "wof:name":"Tret",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

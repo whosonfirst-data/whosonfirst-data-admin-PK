@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.468097,
     "lbl:longitude":73.225854,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Khyber Pakhtunkhwa",
     "meso:diss_me":"MansehraKhyber Pakhtunkhwa",
     "meso:gadm_admin":"Hazara",
@@ -31,6 +33,7 @@
     "mps:longitude":73.225854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0627\u0646\u0633\u064a\u0631\u0627"
     ],
@@ -78,7 +81,7 @@
         "\u0645\u0627\u0646\u0633\u06c1\u0631\u06c1"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1108692295,
-    "wof:lastmodified":1564194735,
+    "wof:lastmodified":1566590149,
     "wof:name":"Mansehra",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":24.38953,
     "geom:longitude":67.99234,
     "iso:country":"PK",
+    "lbl:bbox":"67.97234,24.36953,68.01234,24.40953",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1108161,
         "gp:id":2194103,
-        "qs:id":1307016
+        "qs_pg:id":1307016
     },
     "wof:country":"PK",
     "wof:created":1459008848,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421170323,
-    "wof:lastmodified":1505340599,
+    "wof:lastmodified":1566591788,
     "wof:name":"Chuhar Jamali",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

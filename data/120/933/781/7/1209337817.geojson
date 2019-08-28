@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"69.5817,28.31654,69.6217,28.35654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11179234
     },
     "wof:country":"PK",
-    "wof:geomhash":"b41f6e30c1613000a370e61b858a9508",
+    "wof:geomhash":"c08ad597f36f33893bb5287b22b9c1ec",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209337817,
-    "wof:lastmodified":1536290160,
+    "wof:lastmodified":1566589015,
     "wof:name":"Goth Khuda Bakhsh Machhi",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     69.6017,
-    28.336540000000007,
+    28.33654000000001,
     69.6017,
-    28.336540000000007
+    28.33654000000001
 ],
   "geometry": {"coordinates":[69.60169999999999,28.33654000000001],"type":"Point"}
 }

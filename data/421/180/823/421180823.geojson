@@ -10,8 +10,12 @@
     "geom:latitude":34.18799,
     "geom:longitude":71.76286,
     "iso:country":"PK",
+    "lbl:bbox":"71.74286,34.16799,71.78286,34.20799",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Hashtnagar"
@@ -40,7 +44,7 @@
     "name:tgk_x_preferred":[
         "\u04b2\u0430\u0448\u0442\u043d\u0430\u0433\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Uttmanzai"
     ],
     "qs:gn_country":"PK",
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1162855,
         "gp:id":2210108,
-        "qs:id":462046,
+        "qs_pg:id":462046,
         "wd:id":"Q3824746",
         "wk:page":"Hashtnagar"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":421180823,
-    "wof:lastmodified":1563353855,
+    "wof:lastmodified":1566591777,
     "wof:name":"Uttamanza",
     "wof:parent_id":1108692151,
     "wof:placetype":"locality",

@@ -12,6 +12,8 @@
     "iso:country":"PK",
     "lbl:latitude":33.72148,
     "lbl:longitude":73.04329,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":7.0,
     "mz:hierarchy_label":1,
     "mz:is_approximate":1,
     "mz:is_current":1,
@@ -461,9 +463,6 @@
     "name:ukr_x_preferred":[
         "\u0406\u0441\u043b\u0430\u043c\u0430\u0431\u0430\u0434"
     ],
-    "name:unk_x_variant":[
-        "Isl\u0101m\u0101b\u0101d"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
@@ -632,7 +631,7 @@
         "gn:id":1176615,
         "gp:id":2211027,
         "loc:id":"n80162448",
-        "qs:id":241178,
+        "qs_pg:id":241178,
         "wd:id":"Q1362",
         "wk:page":"Islamabad"
     },
@@ -651,7 +650,7 @@
         }
     ],
     "wof:id":421168811,
-    "wof:lastmodified":1563353783,
+    "wof:lastmodified":1566591764,
     "wof:name":"Islamabad",
     "wof:parent_id":85675741,
     "wof:placetype":"locality",

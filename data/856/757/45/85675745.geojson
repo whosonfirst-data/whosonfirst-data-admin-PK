@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":35.982838,
     "lbl:longitude":74.920822,
+    "lbl:min_zoom":8.0,
     "mps:latitude":35.982838,
     "mps:longitude":74.920822,
     "mz:hierarchy_label":1,
@@ -316,9 +317,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-02",
+    "src:population_date":"1998-03-02",
     "statoids:area_km":"72,520",
     "statoids:area_mi":"28,000",
     "statoids:as_of_date":"1998-03-02",
@@ -344,7 +345,7 @@
         "gp:id":2346501,
         "hasc:id":"PK.NA",
         "iso:id":"PK-GB",
-        "qs:id":423868,
+        "qs_pg:id":423868,
         "wd:id":"Q200697",
         "wk:page":"Gilgit-Baltistan"
     },
@@ -373,7 +374,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1565733115,
+    "wof:lastmodified":1566584920,
     "wof:name":"Gilgit-Baltistan",
     "wof:parent_id":1159339495,
     "wof:placetype":"region",

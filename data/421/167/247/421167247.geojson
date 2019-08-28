@@ -10,8 +10,12 @@
     "geom:latitude":31.97444,
     "geom:longitude":74.22444,
     "iso:country":"PK",
+    "lbl:bbox":"74.20444,31.95444,74.24444,31.99444",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kamoke"
@@ -58,7 +62,7 @@
     "name:swe_x_preferred":[
         "Kamoke"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "K\u0101moki"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":1175088,
         "gp:id":2211086,
-        "qs:id":130790,
+        "qs_pg:id":130790,
         "wd:id":"Q1260929",
         "wk:page":"K\u0101moke"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":421167247,
-    "wof:lastmodified":1563353820,
+    "wof:lastmodified":1566591771,
     "wof:name":"Kamoke",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

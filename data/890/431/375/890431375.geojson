@@ -11,10 +11,14 @@
     "geom:longitude":68.00103,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":77481,
+    "gn:population":77481,
     "iso:country":"PK",
+    "lbl:bbox":"67.98103,27.56676,68.02103,27.60676",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":8.0,
     "name:ceb_x_preferred":[
         "Kambar"
     ],
@@ -33,7 +37,7 @@
     "name:swe_x_preferred":[
         "Kambar"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Qambar"
     ],
     "qs:name":"Kambar",
@@ -51,7 +55,7 @@
     "wof:concordances":{
         "gn:id":1167622,
         "gp:id":2211362,
-        "qs:id":276042,
+        "qs_pg:id":276042,
         "wd:id":"Q1290196",
         "wk:page":"Kambar"
     },
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":890431375,
-    "wof:lastmodified":1563353962,
+    "wof:lastmodified":1566591798,
     "wof:name":"Kambar",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

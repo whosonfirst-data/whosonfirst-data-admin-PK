@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"68.51272,25.78417,68.55272,25.82417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11372272
     },
     "wof:country":"PK",
-    "wof:geomhash":"962e0700d9209670677875c590d89c00",
+    "wof:geomhash":"61ef4965187765f1dc098ff178e63c2a",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209507847,
-    "wof:lastmodified":1536284977,
+    "wof:lastmodified":1566588755,
     "wof:name":"Goth Ahmad Khan Shahani",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     68.53272,
-    25.804170000000006,
+    25.80417000000001,
     68.53272,
-    25.804170000000006
+    25.80417000000001
 ],
   "geometry": {"coordinates":[68.53272,25.80417000000001],"type":"Point"}
 }

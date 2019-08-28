@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"66.25446,27.16554,66.29446,27.20554",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7370513
     },
     "wof:country":"PK",
-    "wof:geomhash":"1b72298953cb9f395f7b460d19592ee3",
+    "wof:geomhash":"92d55c068ed6a8c07f0c6d7f804742da",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209113945,
-    "wof:lastmodified":1536297316,
+    "wof:lastmodified":1566589053,
     "wof:name":"Kili Sadullah",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     66.27445999999999,
-    27.185540000000003,
+    27.18554,
     66.27445999999999,
-    27.185540000000003
+    27.18554
 ],
   "geometry": {"coordinates":[66.27445999999999,27.18554],"type":"Point"}
 }

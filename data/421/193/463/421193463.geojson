@@ -10,8 +10,12 @@
     "geom:latitude":32.96691,
     "geom:longitude":73.5787,
     "iso:country":"PK",
+    "lbl:bbox":"73.5587,32.94691,73.5987,32.98691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u062d\u0635\u0646 \u0631\u0648\u0647\u062a\u0627\u0633"
@@ -94,7 +98,7 @@
     "name:ukr_x_preferred":[
         "\u0420\u043e\u0445\u0442\u0430\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Roht\u0101s"
     ],
     "name:urd_x_preferred":[
@@ -134,7 +138,7 @@
     "wof:concordances":{
         "gn:id":1166822,
         "gp:id":2206737,
-        "qs:id":900339,
+        "qs_pg:id":900339,
         "wd:id":"Q155188",
         "wk:page":"Rohtas Fort"
     },
@@ -150,7 +154,7 @@
         }
     ],
     "wof:id":421193463,
-    "wof:lastmodified":1563353804,
+    "wof:lastmodified":1566591768,
     "wof:name":"Rakh Rohtas",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

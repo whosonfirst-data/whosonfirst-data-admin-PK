@@ -10,8 +10,12 @@
     "geom:latitude":34.06186,
     "geom:longitude":71.99166,
     "iso:country":"PK",
+    "lbl:bbox":"71.97166,34.04186,72.01166,34.08186",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ris\u0101lpur"
@@ -49,7 +53,7 @@
     "name:spa_x_preferred":[
         "Risalpur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Risalpur Cantonment"
     ],
     "name:urd_x_preferred":[
@@ -86,7 +90,7 @@
     "wof:concordances":{
         "gn:id":1448637,
         "gp:id":2211392,
-        "qs:id":901838,
+        "qs_pg:id":901838,
         "wd:id":"Q1740709",
         "wk:page":"Risalpur"
     },
@@ -103,7 +107,7 @@
         }
     ],
     "wof:id":421174867,
-    "wof:lastmodified":1563353849,
+    "wof:lastmodified":1566591776,
     "wof:name":"Risalpur",
     "wof:parent_id":1108692335,
     "wof:placetype":"locality",

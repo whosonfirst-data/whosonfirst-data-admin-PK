@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.43209,33.89771,73.43209,33.89771",
     "geom:latitude":33.89771,
     "geom:longitude":73.43209,
     "iso:country":"PK",
+    "lbl:bbox":"73.41209,33.87771,73.45209,33.91771",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Lower Topa"
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1171843,
         "gp:id":2202214,
-        "qs:id":269022
+        "qs_pg:id":269022
     },
     "wof:country":"PK",
     "wof:created":1459008699,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421166675,
-    "wof:lastmodified":1501217008,
+    "wof:lastmodified":1566591765,
     "wof:name":"Lower Topa",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

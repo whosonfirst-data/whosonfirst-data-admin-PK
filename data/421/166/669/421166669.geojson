@@ -10,8 +10,12 @@
     "geom:latitude":34.554,
     "geom:longitude":73.34921,
     "iso:country":"PK",
+    "lbl:bbox":"73.32921,34.534,73.36921,34.574",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ac\u09be\u09b2\u09be\u0995\u09cb\u099f"
@@ -46,7 +50,7 @@
     "name:tam_x_preferred":[
         "\u0baa\u0bbe\u0bb2\u0b95\u0bcb\u0b9f\u0bcd"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "B\u0101l\u0101kot"
     ],
     "name:urd_x_preferred":[
@@ -85,7 +89,7 @@
     "wof:concordances":{
         "gn:id":1183692,
         "gp:id":2191246,
-        "qs:id":269020,
+        "qs_pg:id":269020,
         "wd:id":"Q3428696",
         "wk:page":"Balakot"
     },
@@ -102,7 +106,7 @@
         }
     ],
     "wof:id":421166669,
-    "wof:lastmodified":1563353790,
+    "wof:lastmodified":1566591765,
     "wof:name":"Balakot",
     "wof:parent_id":1108692295,
     "wof:placetype":"locality",

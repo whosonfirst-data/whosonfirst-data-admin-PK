@@ -11,10 +11,14 @@
     "geom:longitude":73.60259,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":16361,
+    "gn:population":16361,
     "iso:country":"PK",
+    "lbl:bbox":"73.58259,31.95718,73.62259,31.99718",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:ben_x_preferred":[
         "\u09b9\u09be\u09ab\u09bf\u099c\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
     ],
@@ -66,7 +70,7 @@
     "name:swe_x_preferred":[
         "Hafizabad"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mandi Kaleke"
     ],
     "name:urd_x_preferred":[
@@ -89,7 +93,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1175283,
-        "qs:id":130795,
+        "qs_pg:id":130795,
         "wd:id":"Q2281213",
         "wk:page":"Hafizabad District"
     },
@@ -105,7 +109,7 @@
         }
     ],
     "wof:id":890433631,
-    "wof:lastmodified":1563353977,
+    "wof:lastmodified":1566591802,
     "wof:name":"K\u0101leke Mandi",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

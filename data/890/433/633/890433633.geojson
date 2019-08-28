@@ -11,10 +11,14 @@
     "geom:longitude":73.38676,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":22551,
+    "gn:population":22551,
     "iso:country":"PK",
+    "lbl:bbox":"73.36676,33.5713,73.40676,33.6113",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "name:ara_x_preferred":[
         "\u0643\u0627\u0647\u0648\u062a\u0627"
     ],
@@ -123,9 +127,6 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0445\u0443\u0442\u0430"
     ],
-    "name:unk_x_variant":[
-        "Kahuta"
-    ],
     "name:urd_x_preferred":[
         "\u06a9\u06c1\u0648\u0679\u06c1"
     ],
@@ -148,7 +149,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1175436,
-        "qs:id":130796,
+        "qs_pg:id":130796,
         "wd:id":"Q988103"
     },
     "wof:country":"PK",
@@ -163,7 +164,7 @@
         }
     ],
     "wof:id":890433633,
-    "wof:lastmodified":1563353975,
+    "wof:lastmodified":1566591802,
     "wof:name":"Kah\u016bta",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

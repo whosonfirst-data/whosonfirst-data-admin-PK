@@ -11,10 +11,14 @@
     "geom:longitude":68.81201,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":12746,
+    "gn:population":12746,
     "iso:country":"PK",
+    "lbl:bbox":"68.79201,25.27313,68.83201,25.31313",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
         "Chambar"
     ],
@@ -30,7 +34,7 @@
     "name:snd_x_preferred":[
         "\u0686\u0645\u0628\u0699"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chakkar"
     ],
     "qs:name":"Chambar",
@@ -47,7 +51,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1181600,
-        "qs:id":130869,
+        "qs_pg:id":130869,
         "wd:id":"Q5069499",
         "wk:page":"Chambar"
     },
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":890433641,
-    "wof:lastmodified":1563353976,
+    "wof:lastmodified":1566591802,
     "wof:name":"Chambar",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

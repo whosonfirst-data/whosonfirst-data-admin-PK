@@ -10,8 +10,12 @@
     "geom:latitude":27.38091,
     "geom:longitude":67.91678,
     "iso:country":"PK",
+    "lbl:bbox":"67.89678,27.36091,67.93678,27.40091",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nasirabad"
@@ -55,7 +59,7 @@
     "wof:concordances":{
         "gn:id":1169254,
         "gp:id":2211288,
-        "qs:id":1307336
+        "qs_pg:id":1307336
     },
     "wof:country":"PK",
     "wof:created":1459009813,
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":421194603,
-    "wof:lastmodified":1564197805,
+    "wof:lastmodified":1566591767,
     "wof:name":"Nasirabad",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

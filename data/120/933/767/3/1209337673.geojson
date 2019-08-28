@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.54859,32.20836,71.58859,32.24836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1405684
     },
     "wof:country":"PK",
-    "wof:geomhash":"05b34504e9d2c853b5d9aac460cbe00c",
+    "wof:geomhash":"e5456d918cb51c3e26aaa5017b0c3cf9",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209337673,
-    "wof:lastmodified":1536290166,
+    "wof:lastmodified":1566589007,
     "wof:name":"Jamunwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.56859,
-    32.228359999999995,
+    32.22836,
     71.56859,
-    32.228359999999995
+    32.22836
 ],
   "geometry": {"coordinates":[71.56859,32.22836],"type":"Point"}
 }

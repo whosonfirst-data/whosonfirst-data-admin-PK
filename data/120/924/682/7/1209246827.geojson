@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.77554,30.55829,73.81554,30.59829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1417877
     },
     "wof:country":"PK",
-    "wof:geomhash":"09bb0baa1385ec132ce3ed649adbd01d",
+    "wof:geomhash":"102250cbb09d7eab20b521bd3ce50e0e",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209246827,
-    "wof:lastmodified":1536293136,
+    "wof:lastmodified":1566588564,
     "wof:name":"Taplani",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.79554,
-    30.578290000000006,
+    30.57829000000001,
     73.79554,
-    30.578290000000006
+    30.57829000000001
 ],
   "geometry": {"coordinates":[73.79554,30.57829000000001],"type":"Point"}
 }

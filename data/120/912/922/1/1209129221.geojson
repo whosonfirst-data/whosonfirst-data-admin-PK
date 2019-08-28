@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.42448,29.61419,70.46448,29.65419",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7325109
     },
     "wof:country":"PK",
-    "wof:geomhash":"10e744fc1045720eac4d1db8b662a0ea",
+    "wof:geomhash":"f0940d9667ea8c8eaa9003cd286515cc",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209129221,
-    "wof:lastmodified":1536296858,
+    "wof:lastmodified":1566588538,
     "wof:name":"Basti Bohar",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.44448,
-    29.634190000000004,
+    29.63419,
     70.44448,
-    29.634190000000004
+    29.63419
 ],
   "geometry": {"coordinates":[70.44448,29.63419],"type":"Point"}
 }

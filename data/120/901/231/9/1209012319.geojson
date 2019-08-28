@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"66.54644,26.33897,66.58644,26.37897",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11253636
     },
     "wof:country":"PK",
-    "wof:geomhash":"22112eb324ea4cdaaad1b00c664cd5c1",
+    "wof:geomhash":"ae4e97c46eb9a8a0aa003492e3112c99",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209012319,
-    "wof:lastmodified":1536300406,
+    "wof:lastmodified":1566588309,
     "wof:name":"Mulla Ramzan",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     66.56644,
-    26.358970000000006,
+    26.35897000000001,
     66.56644,
-    26.358970000000006
+    26.35897000000001
 ],
   "geometry": {"coordinates":[66.56644,26.35897000000001],"type":"Point"}
 }

@@ -10,8 +10,12 @@
     "geom:latitude":24.48102,
     "geom:longitude":68.9859,
     "iso:country":"PK",
+    "lbl:bbox":"68.9659,24.46102,69.0059,24.50102",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -42,7 +46,7 @@
     "wof:concordances":{
         "gn:id":1175506,
         "gp:id":2211069,
-        "qs:id":1307258
+        "qs_pg:id":1307258
     },
     "wof:country":"PK",
     "wof:created":1459009424,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421184849,
-    "wof:lastmodified":1505340690,
+    "wof:lastmodified":1566591788,
     "wof:name":"Kadhan",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

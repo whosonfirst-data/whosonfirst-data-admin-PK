@@ -10,8 +10,12 @@
     "geom:latitude":36.30703,
     "geom:longitude":74.61545,
     "iso:country":"PK",
+    "lbl:bbox":"74.59545,36.28703,74.63545,36.32703",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:azb_x_preferred":[
         "\u0639\u0644\u06cc\u200c\u0622\u0628\u0627\u062f"
@@ -79,7 +83,7 @@
     "wof:concordances":{
         "gn:id":1184701,
         "gp:id":2190274,
-        "qs:id":479413
+        "qs_pg:id":479413
     },
     "wof:country":"PK",
     "wof:created":1459009201,
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421179019,
-    "wof:lastmodified":1564197826,
+    "wof:lastmodified":1566591790,
     "wof:name":"Aliabad",
     "wof:parent_id":1108692193,
     "wof:placetype":"locality",

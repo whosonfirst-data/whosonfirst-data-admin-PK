@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.49712,32.84324,73.53712,32.88324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1371369
     },
     "wof:country":"PK",
-    "wof:geomhash":"241fc90146027a836e665277c50cfa6f",
+    "wof:geomhash":"1f2d7007d4a035cfd4a364dd668d4902",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209246823,
-    "wof:lastmodified":1536293136,
+    "wof:lastmodified":1566588564,
     "wof:name":"Dera Watli",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.51711999999998,
-    32.863240000000005,
+    32.86324,
     73.51711999999998,
-    32.863240000000005
+    32.86324
 ],
   "geometry": {"coordinates":[73.51711999999998,32.86324],"type":"Point"}
 }

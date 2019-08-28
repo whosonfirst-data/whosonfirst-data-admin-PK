@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":27.435303,
     "lbl:longitude":68.148895,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Sindh",
     "meso:diss_me":"LarkanaSindh",
     "meso:gadm_admin":"Larkana",
@@ -34,6 +36,7 @@
     "mps:longitude":68.148895,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bel_x_preferred":[
         "\u041b\u0430\u0440\u043a\u0430\u043d\u0430"
     ],
@@ -101,7 +104,7 @@
         "\u62c9\u5c14\u5361\u7eb3\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -124,7 +127,7 @@
         }
     ],
     "wof:id":1108692277,
-    "wof:lastmodified":1563350701,
+    "wof:lastmodified":1566590150,
     "wof:name":"Larkana",
     "wof:parent_id":85675757,
     "wof:placetype":"county",

@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":31.290546,
     "lbl:longitude":73.145244,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:diss_me":"FaisalabadPunjab",
     "meso:gadm_admin":"Faisalabad",
@@ -34,6 +36,7 @@
     "mps:longitude":73.145244,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09ab\u09af\u09bc\u09b8\u09b2\u09be\u09ac\u09be\u09a6 \u099c\u09c7\u09b2\u09be"
     ],
@@ -110,7 +113,7 @@
         "\u8d39\u8428\u62c9\u5df4\u5fb7\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -133,7 +136,7 @@
         }
     ],
     "wof:id":1108692169,
-    "wof:lastmodified":1563350695,
+    "wof:lastmodified":1566590148,
     "wof:name":"Faisalabad",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

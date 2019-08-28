@@ -10,6 +10,9 @@
     "geom:latitude":31.34111,
     "geom:longitude":69.44806,
     "iso:country":"PK",
+    "lbl:bbox":"69.42806,31.32111,69.46806,31.36111",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -128,7 +131,7 @@
     "name:ukr_x_preferred":[
         "\u0416\u043e\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Apozai"
     ],
     "name:urd_x_preferred":[
@@ -262,7 +265,7 @@
     "wof:concordances":{
         "gn:id":1162105,
         "gp:id":2211569,
-        "qs:id":130636,
+        "qs_pg:id":130636,
         "wd:id":"Q2665223",
         "wk:page":"Zhob"
     },
@@ -278,7 +281,7 @@
         }
     ],
     "wof:id":421167203,
-    "wof:lastmodified":1563353815,
+    "wof:lastmodified":1566591770,
     "wof:name":"Zhob",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

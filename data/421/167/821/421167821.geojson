@@ -10,8 +10,12 @@
     "geom:latitude":27.44808,
     "geom:longitude":67.79776,
     "iso:country":"PK",
+    "lbl:bbox":"67.77776,27.42808,67.81776,27.46808",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:hin_x_preferred":[
         "\u0935\u093e\u0930\u093e\u0939"
@@ -48,7 +52,7 @@
     "wof:concordances":{
         "gn:id":1162589,
         "gp:id":2211559,
-        "qs:id":462106
+        "qs_pg:id":462106
     },
     "wof:country":"PK",
     "wof:created":1459008744,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":421167821,
-    "wof:lastmodified":1564197807,
+    "wof:lastmodified":1566591770,
     "wof:name":"Warah",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

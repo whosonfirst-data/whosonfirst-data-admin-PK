@@ -11,11 +11,15 @@
     "geom:longitude":70.85845,
     "gn:country":"PK",
     "gn:fcode":"PPL",
-    "gn:pop":1000,
+    "gn:population":1000,
     "iso:country":"PK",
+    "lbl:bbox":"70.83845,30.75339,70.87845,30.79339",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":11.0,
+    "name:und_x_variant":[
         "Basti Aukharwand"
     ],
     "qs:name":"Basti Aukharvand",
@@ -31,7 +35,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1354487,
-        "qs:id":85013
+        "qs_pg:id":85013
     },
     "wof:country":"PK",
     "wof:created":1469051861,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":890430659,
-    "wof:lastmodified":1505343519,
+    "wof:lastmodified":1566591795,
     "wof:name":"Basti Aukharvand",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

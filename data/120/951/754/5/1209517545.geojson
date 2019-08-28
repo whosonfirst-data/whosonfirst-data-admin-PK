@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"66.13289,29.33784,66.17289,29.37784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11087963
     },
     "wof:country":"PK",
-    "wof:geomhash":"dc2a046a690c930c88e23612f6a1cb6c",
+    "wof:geomhash":"329d4ec7266ffdc65570ce34fd88e2be",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209517545,
-    "wof:lastmodified":1536284684,
+    "wof:lastmodified":1566588932,
     "wof:name":"Kili Khair Bakhsh",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     66.15289,
-    29.357840000000003,
+    29.35784,
     66.15289,
-    29.357840000000003
+    29.35784
 ],
   "geometry": {"coordinates":[66.15289,29.35784],"type":"Point"}
 }

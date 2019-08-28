@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.73139,31.99111,73.77139,32.03111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1386605
     },
     "wof:country":"PK",
-    "wof:geomhash":"e5f71d52897ccbf78d9669516a1a4e13",
+    "wof:geomhash":"d03fa2344cb2b1a4682dc1bc998c6905",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209337783,
-    "wof:lastmodified":1536290161,
+    "wof:lastmodified":1566589001,
     "wof:name":"Ghania",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.75139,
-    32.011109999999995,
+    32.01111,
     73.75139,
-    32.011109999999995
+    32.01111
 ],
   "geometry": {"coordinates":[73.75139,32.01111],"type":"Point"}
 }

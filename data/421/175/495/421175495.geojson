@@ -10,8 +10,12 @@
     "geom:latitude":32.97568,
     "geom:longitude":74.07926,
     "iso:country":"PK",
+    "lbl:bbox":"74.05926,32.95568,74.09926,32.99568",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ben_x_preferred":[
         "\u09ad\u09bf\u09ae\u09cd\u09ac\u09be\u09b0"
@@ -36,9 +40,6 @@
     ],
     "name:pnb_x_preferred":[
         "\u0628\u0647\u0645\u0628\u0631"
-    ],
-    "name:unk_x_variant":[
-        "Bhimber"
     ],
     "name:urd_x_preferred":[
         "\u0628\u06be\u0645\u0628\u0631"
@@ -80,7 +81,7 @@
     "wof:concordances":{
         "gn:id":1182637,
         "gp:id":2210830,
-        "qs:id":970610,
+        "qs_pg:id":970610,
         "wd:id":"Q3631249",
         "wk:page":"Bhimber"
     },
@@ -113,7 +114,7 @@
         }
     ],
     "wof:id":421175495,
-    "wof:lastmodified":1563353876,
+    "wof:lastmodified":1566591780,
     "wof:name":"Bhimbar",
     "wof:parent_id":1108692167,
     "wof:placetype":"locality",

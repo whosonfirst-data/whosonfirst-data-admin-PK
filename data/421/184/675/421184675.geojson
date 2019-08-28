@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"67.1888,24.9151,67.1888,24.9151",
     "geom:latitude":24.9151,
     "geom:longitude":67.1888,
     "iso:country":"PK",
+    "lbl:bbox":"67.1688,24.8951,67.2088,24.9351",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Kar\u0101chi Lines"
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1174867,
         "gp:id":2199592,
-        "qs:id":1002955
+        "qs_pg:id":1002955
     },
     "wof:country":"PK",
     "wof:created":1459009418,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421184675,
-    "wof:lastmodified":1501217011,
+    "wof:lastmodified":1566591787,
     "wof:name":"Karachi Lines",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"67.57921,30.57714,67.61921,30.61714",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11279180
     },
     "wof:country":"PK",
-    "wof:geomhash":"15e5a5c440d275cfd1aed4758a994059",
+    "wof:geomhash":"bd79761c0f7d22009429e9470b551ab1",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209316789,
-    "wof:lastmodified":1536290835,
+    "wof:lastmodified":1566588091,
     "wof:name":"Jabarabad",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     67.59921,
-    30.597140000000003,
+    30.59714,
     67.59921,
-    30.597140000000003
+    30.59714
 ],
   "geometry": {"coordinates":[67.59921,30.59714],"type":"Point"}
 }

@@ -10,6 +10,9 @@
     "geom:latitude":34.20195,
     "geom:longitude":72.05254,
     "iso:country":"PK",
+    "lbl:bbox":"72.03254,34.18195,72.07254,34.22195",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -277,7 +280,7 @@
     "wof:concordances":{
         "gn:id":1170880,
         "gp:id":2211223,
-        "qs:id":130757,
+        "qs_pg:id":130757,
         "wd:id":"Q993859",
         "wk:page":"Mardan"
     },
@@ -294,7 +297,7 @@
         }
     ],
     "wof:id":421178591,
-    "wof:lastmodified":1563353937,
+    "wof:lastmodified":1566591791,
     "wof:name":"Mardan",
     "wof:parent_id":1108692299,
     "wof:placetype":"locality",

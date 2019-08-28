@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":34.807407,
     "lbl:longitude":71.457232,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Federally Administered Tribal Areas",
     "meso:diss_me":"Bajaur AgencyFederally Administered Tribal Areas",
     "meso:gadm_admin":"F.A.T.A.",
@@ -31,6 +33,7 @@
     "mps:longitude":71.457232,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Bajaur"
     ],
@@ -40,7 +43,7 @@
         "Bajaur Agency"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1108692131,
-    "wof:lastmodified":1555047518,
+    "wof:lastmodified":1566590169,
     "wof:name":"Bajaur",
     "wof:parent_id":1360701001,
     "wof:placetype":"county",

@@ -10,8 +10,12 @@
     "geom:latitude":24.88333,
     "geom:longitude":68.81667,
     "iso:country":"PK",
+    "lbl:bbox":"68.79667,24.86333,68.83667,24.90333",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Talh\u0101r"
@@ -30,9 +34,6 @@
     ],
     "name:snd_x_preferred":[
         "\u062a\u0644\u06be\u0627\u0631"
-    ],
-    "name:unk_x_variant":[
-        "Talh\u0101r"
     ],
     "name:urd_x_preferred":[
         "\u062a\u0644\u06c1\u0627\u0631"
@@ -67,7 +68,7 @@
     "wof:concordances":{
         "gn:id":1164045,
         "gp:id":2211500,
-        "qs:id":1029861,
+        "qs_pg:id":1029861,
         "wd:id":"Q7491871",
         "wk:page":"Talhar"
     },
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":421175761,
-    "wof:lastmodified":1563353875,
+    "wof:lastmodified":1566591780,
     "wof:name":"Talhar",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

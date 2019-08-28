@@ -10,8 +10,12 @@
     "geom:latitude":34.01056,
     "geom:longitude":71.79889,
     "iso:country":"PK",
+    "lbl:bbox":"71.77889,33.99056,71.81889,34.03056",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Pabbi"
@@ -71,7 +75,7 @@
     "wof:concordances":{
         "gn:id":1168680,
         "gp:id":2211315,
-        "qs:id":1152928,
+        "qs_pg:id":1152928,
         "wd:id":"Q3045006"
     },
     "wof:country":"PK",
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":421191713,
-    "wof:lastmodified":1563353885,
+    "wof:lastmodified":1566591782,
     "wof:name":"Pabbi",
     "wof:parent_id":1108692335,
     "wof:placetype":"locality",

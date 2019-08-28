@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"70.81467,29.01124,70.85467,29.05124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":7393412
     },
     "wof:country":"PK",
-    "wof:geomhash":"c9bf24674185ad589fc56baa163a6947",
+    "wof:geomhash":"b2333a9f1b63698b0141ad25cba60207",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209614669,
-    "wof:lastmodified":1536281729,
+    "wof:lastmodified":1566588815,
     "wof:name":"Ghelluan di Basti",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     70.83466999999997,
-    29.031240000000004,
+    29.03124,
     70.83466999999997,
-    29.031240000000004
+    29.03124
 ],
   "geometry": {"coordinates":[70.83466999999997,29.03124],"type":"Point"}
 }

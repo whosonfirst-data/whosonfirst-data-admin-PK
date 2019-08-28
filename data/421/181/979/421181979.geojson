@@ -10,8 +10,12 @@
     "geom:latitude":34.066596,
     "geom:longitude":72.752237,
     "iso:country":"PK",
+    "lbl:bbox":"72.732237,34.046596,72.772237,34.086596",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723087,
-        "qs:id":533584
+        "qs_pg:id":533584
     },
     "wof:country":"PK",
     "wof:created":1459009314,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421181979,
-    "wof:lastmodified":1543515446,
+    "wof:lastmodified":1566591779,
     "wof:name":"Gudwalian",
     "wof:parent_id":1108692205,
     "wof:placetype":"locality",

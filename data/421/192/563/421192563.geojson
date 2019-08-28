@@ -10,8 +10,12 @@
     "geom:latitude":32.73834,
     "geom:longitude":72.92526,
     "iso:country":"PK",
+    "lbl:bbox":"72.90526,32.71834,72.94526,32.75834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Dulmial"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Dulmial"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Doalmial"
     ],
     "name:urd_x_preferred":[
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":1179491,
         "gp:id":2195497,
-        "qs:id":1168412,
+        "qs_pg:id":1168412,
         "wd:id":"Q5313465",
         "wk:page":"Dulmial"
     },
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421192563,
-    "wof:lastmodified":1563353794,
+    "wof:lastmodified":1566591766,
     "wof:name":"Dulmian",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

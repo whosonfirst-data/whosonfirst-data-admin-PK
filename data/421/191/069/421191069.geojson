@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.13266,33.696396,73.13266,33.696396",
     "geom:latitude":33.696396,
     "geom:longitude":73.13266,
     "iso:country":"PK",
+    "lbl:bbox":"73.11266,33.676396,73.15266,33.716396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2192179,
-        "qs:id":1130091
+        "qs_pg:id":1130091
     },
     "wof:country":"PK",
     "wof:created":1459009678,
-    "wof:geomhash":"d18df31a8e476e7d3dbd98dcf57c5e90",
+    "wof:geomhash":"cd33dbb394a67cdb79a063e16b494464",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421191069,
-    "wof:lastmodified":1466635872,
+    "wof:lastmodified":1566591782,
     "wof:name":"Bara Kau",
     "wof:parent_id":85675741,
     "wof:placetype":"locality",

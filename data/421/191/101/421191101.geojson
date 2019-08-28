@@ -10,8 +10,12 @@
     "geom:latitude":24.865645,
     "geom:longitude":67.01523,
     "iso:country":"PK",
+    "lbl:bbox":"66.99523,24.845645,67.03523,24.885645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Karatsji"
@@ -503,7 +507,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2211096,
-        "qs:id":1130200,
+        "qs_pg:id":1130200,
         "wd:id":"Q8660"
     },
     "wof:country":"PK",
@@ -518,7 +522,7 @@
         }
     ],
     "wof:id":421191101,
-    "wof:lastmodified":1563353888,
+    "wof:lastmodified":1566591782,
     "wof:name":"Karachi",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

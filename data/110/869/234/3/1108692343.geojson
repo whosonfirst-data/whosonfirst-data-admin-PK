@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":30.295926,
     "lbl:longitude":73.219908,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Punjab",
     "meso:diss_me":"PakpattanPunjab",
     "meso:gadm_admin":"Multan",
@@ -31,6 +33,7 @@
     "mps:longitude":73.219908,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0628\u0627\u0643\u0628\u062a\u0627\u0646"
     ],
@@ -90,7 +93,7 @@
         "Pakpattan"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":1108692343,
-    "wof:lastmodified":1564194748,
+    "wof:lastmodified":1566590159,
     "wof:name":"Pakpattan",
     "wof:parent_id":85675753,
     "wof:placetype":"county",

@@ -9,14 +9,16 @@
     "geom:bbox":"71.577922,34.013652,71.577922,34.013652",
     "geom:latitude":34.013652,
     "geom:longitude":71.577922,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"PK",
+    "gn:fcode":"PPLX",
     "gn:latitude":33.99455,
     "gn:longitude":71.56313,
+    "gn:population":0,
     "iso:country":"PK",
+    "lbl:bbox":"71.572922,34.008652,71.582922,34.018652",
     "lbl:latitude":34.013652,
     "lbl:longitude":71.577922,
+    "lbl:max_zoom":18.0,
     "mps:latitude":34.013254,
     "mps:longitude":71.577625,
     "mz:hierarchy_label":0,
@@ -40,11 +42,7 @@
         "Bhaana Maari",
         "Bhana Mari"
     ],
-    "name:und_x_preferred":[
-        "Bh\u00e5na M\u00e5ri"
-    ],
-    "name:unk_x_variant":[
-        "Hanna Mari",
+    "name:und_x_variant":[
         "Bh\u00e5na M\u00e5ri"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -94,18 +92,17 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        1360701001,
         102191569,
         85632659,
-        1108692347,
-        1360701001
+        1108692347
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1182774,
         "gp:id":2192152,
-        "qs:id":1221776,
         "qs_pg:id":1221776
     },
     "wof:country":"PK",
@@ -124,7 +121,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1543515826,
+    "wof:lastmodified":1566584916,
     "wof:name":"Bh\u00e5na M\u00e5ri",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

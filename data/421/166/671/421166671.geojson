@@ -10,8 +10,12 @@
     "geom:latitude":34.92995,
     "geom:longitude":72.87908,
     "iso:country":"PK",
+    "lbl:bbox":"72.85908,34.90995,72.89908,34.94995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0628\u064a\u0634\u0627\u0645"
@@ -109,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0448\u0430\u043c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Bisham"
     ],
     "name:urd_x_preferred":[
@@ -147,7 +151,7 @@
     "wof:concordances":{
         "gn:id":1182934,
         "gp:id":2191999,
-        "qs:id":269021,
+        "qs_pg:id":269021,
         "wd:id":"Q3307940",
         "wk:page":"Besham"
     },
@@ -164,7 +168,7 @@
         }
     ],
     "wof:id":421166671,
-    "wof:lastmodified":1563353792,
+    "wof:lastmodified":1566591766,
     "wof:name":"Besham Qala",
     "wof:parent_id":1108692265,
     "wof:placetype":"locality",

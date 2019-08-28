@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.60275,31.75414,73.64275,31.79414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1388998
     },
     "wof:country":"PK",
-    "wof:geomhash":"ae84db6e57babd5c4c705f407dec95f4",
+    "wof:geomhash":"493aa741b680ed44de93d6fe87f001e5",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209514843,
-    "wof:lastmodified":1536284766,
+    "wof:lastmodified":1566588941,
     "wof:name":"Natha Singhwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.62275,
-    31.774140000000006,
+    31.77414000000001,
     73.62275,
-    31.774140000000006
+    31.77414000000001
 ],
   "geometry": {"coordinates":[73.62275,31.77414000000001],"type":"Point"}
 }

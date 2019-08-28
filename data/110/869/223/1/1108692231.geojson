@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":28.93679,
     "lbl:longitude":66.458334,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Balochistan",
     "meso:diss_me":"KalatBalochistan",
     "meso:gadm_admin":"Kalat",
@@ -34,6 +36,7 @@
     "mps:longitude":66.458334,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u0995\u09be\u09b2\u09be\u09a4 \u099c\u09c7\u09b2\u09be"
     ],
@@ -104,7 +107,7 @@
         "\u5580\u62c9\u7279\u53bf"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -127,7 +130,7 @@
         }
     ],
     "wof:id":1108692231,
-    "wof:lastmodified":1563350739,
+    "wof:lastmodified":1566590163,
     "wof:name":"Kalat",
     "wof:parent_id":85675733,
     "wof:placetype":"county",

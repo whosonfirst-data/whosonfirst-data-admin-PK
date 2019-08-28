@@ -11,8 +11,11 @@
     "geom:longitude":71.47528,
     "gn:country":"PK",
     "gn:fcode":"PPLA2",
-    "gn:pop":1437230,
+    "gn:population":1437230,
     "iso:country":"PK",
+    "lbl:bbox":"71.45528,30.17556,71.49528,30.21556",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":5.0,
@@ -333,7 +336,7 @@
     "wof:concordances":{
         "gn:id":1169825,
         "gp:id":2211269,
-        "qs:id":1029935,
+        "qs_pg:id":1029935,
         "wd:id":"Q185453",
         "wk:page":"Multan"
     },
@@ -349,7 +352,7 @@
         }
     ],
     "wof:id":890443585,
-    "wof:lastmodified":1563353970,
+    "wof:lastmodified":1566591800,
     "wof:name":"Mult\u0101n",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

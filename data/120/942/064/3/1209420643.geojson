@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"71.2145,30.04719,71.2545,30.08719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1368403
     },
     "wof:country":"PK",
-    "wof:geomhash":"6fb9102a074315c1919717d407217d70",
+    "wof:geomhash":"e916cad9a8ea8b18be3f632bc16d42d0",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209420643,
-    "wof:lastmodified":1536287542,
+    "wof:lastmodified":1566589129,
     "wof:name":"Jhok Dargah Jamwala",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     71.2345,
-    30.067190000000004,
+    30.06719,
     71.2345,
-    30.067190000000004
+    30.06719
 ],
   "geometry": {"coordinates":[71.2345,30.06719],"type":"Point"}
 }

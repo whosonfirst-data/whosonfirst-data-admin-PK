@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"69.82629,26.19734,69.86629,26.23734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":11029799
     },
     "wof:country":"PK",
-    "wof:geomhash":"ff33c2b6521d780fbf045c4ebf5ae6fe",
+    "wof:geomhash":"618f9f717759ef726d06dce013bd2ace",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209104481,
-    "wof:lastmodified":1536297621,
+    "wof:lastmodified":1566589221,
     "wof:name":"Muhammadahu Tar",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     69.84629,
-    26.217340000000004,
+    26.21734,
     69.84629,
-    26.217340000000004
+    26.21734
 ],
   "geometry": {"coordinates":[69.84629,26.21734],"type":"Point"}
 }

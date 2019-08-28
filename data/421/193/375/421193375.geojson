@@ -10,8 +10,12 @@
     "geom:latitude":31.4475,
     "geom:longitude":73.69722,
     "iso:country":"PK",
+    "lbl:bbox":"73.67722,31.4275,73.71722,31.4675",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0646\u0627\u0646\u0643\u0627\u0646\u0627 \u0635\u0627\u062d\u0628"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043d\u043a\u0430\u043d\u0430-\u0421\u0430\u0445\u0456\u0431"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nankana Municipality"
     ],
     "name:urd_x_preferred":[
@@ -169,7 +173,7 @@
     "wof:concordances":{
         "gn:id":1169372,
         "gp:id":2204506,
-        "qs:id":1318192,
+        "qs_pg:id":1318192,
         "wd:id":"Q2353077",
         "wk:page":"Nankana Sahib"
     },
@@ -185,7 +189,7 @@
         }
     ],
     "wof:id":421193375,
-    "wof:lastmodified":1563353807,
+    "wof:lastmodified":1566591769,
     "wof:name":"Nanakana Sahib",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

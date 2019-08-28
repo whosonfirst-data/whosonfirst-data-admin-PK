@@ -10,8 +10,12 @@
     "geom:latitude":32.34726,
     "geom:longitude":74.9292,
     "iso:country":"PK",
+    "lbl:bbox":"74.9092,32.32726,74.9492,32.36726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Harbanspura"
@@ -25,7 +29,7 @@
     "name:nld_x_preferred":[
         "Harbanspura"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Harbanspur"
     ],
     "name:urd_x_preferred":[
@@ -60,7 +64,7 @@
     "wof:concordances":{
         "gn:id":7465501,
         "gp:id":2197526,
-        "qs:id":59330,
+        "qs_pg:id":59330,
         "wd:id":"Q5654336"
     },
     "wof:country":"PK",
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":421194923,
-    "wof:lastmodified":1563353799,
+    "wof:lastmodified":1566591768,
     "wof:name":"Harbanspura",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

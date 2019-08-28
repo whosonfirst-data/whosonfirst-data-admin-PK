@@ -10,8 +10,12 @@
     "geom:latitude":24.87307,
     "geom:longitude":66.91302,
     "iso:country":"PK",
+    "lbl:bbox":"66.89302,24.85307,66.93302,24.89307",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "M\u0101ur\u012bpur"
@@ -21,7 +25,7 @@
         "Mauripur",
         "Maripur"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maurypur"
     ],
     "qs:gn_country":"PK",
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":1170626,
         "gp:id":2211233,
-        "qs:id":984032,
+        "qs_pg:id":984032,
         "wd:id":"Q6765535"
     },
     "wof:country":"PK",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421183799,
-    "wof:lastmodified":1563353928,
+    "wof:lastmodified":1566591789,
     "wof:name":"Mauripur",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

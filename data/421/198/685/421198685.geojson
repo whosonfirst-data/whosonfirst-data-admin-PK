@@ -10,8 +10,12 @@
     "geom:latitude":25.59609,
     "geom:longitude":68.44666,
     "iso:country":"PK",
+    "lbl:bbox":"68.42666,25.57609,68.46666,25.61609",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Mati\u0101ri"
@@ -76,7 +80,7 @@
     "wof:concordances":{
         "gn:id":1170677,
         "gp:id":2211231,
-        "qs:id":184784,
+        "qs_pg:id":184784,
         "wd:id":"Q112453",
         "wk:page":"Matiari"
     },
@@ -92,7 +96,7 @@
         }
     ],
     "wof:id":421198685,
-    "wof:lastmodified":1563353879,
+    "wof:lastmodified":1566591781,
     "wof:name":"Matari",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

@@ -24,6 +24,7 @@
     ],
     "lbl:latitude":33.675345,
     "lbl:longitude":73.167008,
+    "lbl:min_zoom":8.0,
     "mps:latitude":33.675345,
     "mps:longitude":73.167008,
     "mz:hierarchy_label":1,
@@ -127,7 +128,7 @@
     "name:ukr_x_preferred":[
         "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u0430 \u0441\u0442\u043e\u043b\u0438\u0447\u043d\u0430 \u0442\u0435\u0440\u0438\u0442\u043e\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Federal Capital Area"
     ],
     "name:urd_x_preferred":[
@@ -213,9 +214,9 @@
     "qs:type":"Capital Territory",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"1998-03-02",
+    "src:population_date":"1998-03-02",
     "statoids:area_km":"906",
     "statoids:area_mi":"350",
     "statoids:as_of_date":"1998-03-02",
@@ -241,7 +242,7 @@
         "gp:id":20070149,
         "hasc:id":"PK.IS",
         "iso:id":"PK-IS",
-        "qs:id":219911,
+        "qs_pg:id":219911,
         "unlc:id":"PK-IS",
         "wd:id":"Q848613",
         "wk:page":"Islamabad Capital Territory"
@@ -267,7 +268,7 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1565733115,
+    "wof:lastmodified":1566584921,
     "wof:name":"Islamabad",
     "wof:parent_id":85632659,
     "wof:placetype":"region",

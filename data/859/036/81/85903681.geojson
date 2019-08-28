@@ -9,14 +9,16 @@
     "geom:bbox":"74.31006,31.513865,74.31006,31.513865",
     "geom:latitude":31.513865,
     "geom:longitude":74.31006,
-    "gn:gn_country":"PK",
-    "gn:gn_fcode":"PPL",
-    "gn:gn_pop":0,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
     "gn:latitude":31.5334,
     "gn:longitude":74.3143,
+    "gn:population":0,
     "iso:country":"PK",
+    "lbl:bbox":"74.30506,31.508865,74.31506,31.518865",
     "lbl:latitude":31.513865,
     "lbl:longitude":74.31006,
+    "lbl:max_zoom":18.0,
     "mps:latitude":31.510873,
     "mps:longitude":74.289578,
     "mz:hierarchy_label":0,
@@ -36,10 +38,6 @@
     ],
     "name:nld_x_preferred":[
         "Ichhra"
-    ],
-    "name:unk_x_variant":[
-        "Ichhra",
-        "Ichhara"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0646\u0627\u0631\u06a9\u0644\u06cc \u0628\u0627\u0632\u0627\u0631"
@@ -94,7 +92,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":111,
     "wof:belongsto":[
         85675753,
@@ -106,7 +104,6 @@
     "wof:concordances":{
         "gn:id":1176716,
         "gp:id":2197908,
-        "qs:id":1083714,
         "qs_pg:id":1083714,
         "wd:id":"Q15227801",
         "wk:page":"Ichhra"
@@ -127,7 +124,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563341531,
+    "wof:lastmodified":1566584915,
     "wof:name":"Ichhra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -10,8 +10,12 @@
     "geom:latitude":28.16524,
     "geom:longitude":69.7289,
     "iso:country":"PK",
+    "lbl:bbox":"69.7089,28.14524,69.7489,28.18524",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Ubauro"
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":1163021,
         "gp:id":2211545,
-        "qs:id":1307423,
+        "qs_pg:id":1307423,
         "wd:id":"Q7876431"
     },
     "wof:country":"PK",
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":421200449,
-    "wof:lastmodified":1563353906,
+    "wof:lastmodified":1566591785,
     "wof:name":"Ubauro",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

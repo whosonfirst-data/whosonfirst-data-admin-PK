@@ -10,6 +10,9 @@
     "geom:latitude":31.27154,
     "geom:longitude":72.32842,
     "iso:country":"PK",
+    "lbl:bbox":"72.30842,31.25154,72.34842,31.29154",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.1,
@@ -110,7 +113,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u0436\u0430\u043d\u0433-\u0421\u0430\u0434\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Maghi\u0101na"
     ],
     "name:urd_x_preferred":[
@@ -241,7 +244,7 @@
     "wof:concordances":{
         "gn:id":1175892,
         "gp:id":2198674,
-        "qs:id":461690,
+        "qs_pg:id":461690,
         "wd:id":"Q6190853",
         "wk:page":"Jhang Sadar"
     },
@@ -257,7 +260,7 @@
         }
     ],
     "wof:id":421180809,
-    "wof:lastmodified":1563353856,
+    "wof:lastmodified":1566591777,
     "wof:name":"Jhang Sadr",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

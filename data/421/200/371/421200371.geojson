@@ -10,8 +10,12 @@
     "geom:latitude":32.47455,
     "geom:longitude":74.35209,
     "iso:country":"PK",
+    "lbl:bbox":"74.33209,32.45455,74.37209,32.49455",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Sambrial Tehsil"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Sambrial"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Sambri\u0101l"
     ],
     "name:urd_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:concordances":{
         "gn:id":1166265,
         "gp:id":2207271,
-        "qs:id":208960,
+        "qs_pg:id":208960,
         "wd:id":"Q3246527",
         "wk:page":"Sambrial"
     },
@@ -89,7 +93,7 @@
         }
     ],
     "wof:id":421200371,
-    "wof:lastmodified":1563353908,
+    "wof:lastmodified":1566591785,
     "wof:name":"Sambrial",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

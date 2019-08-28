@@ -5,15 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:area_square_m":11559126.74717,
+    "geom:area_square_m":0.0,
     "geom:bbox":"66.990283,24.842369,66.990283,24.842369",
     "geom:latitude":24.842369,
     "geom:longitude":66.990283,
     "gn:latitude":24.85,
     "gn:longitude":66.98333,
     "iso:country":"PK",
+    "lbl:bbox":"66.985283,24.837369,66.995283,24.847369",
     "lbl:latitude":24.842369,
     "lbl:longitude":66.990283,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.845439,
     "mps:longitude":66.977196,
     "mz:hierarchy_label":0,
@@ -29,10 +31,7 @@
         "Nawaaabaad",
         "Nawaabad"
     ],
-    "name:und_x_preferred":[
-        "Nawa\u00e5b\u00e5d"
-    ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nawa\u00e5b\u00e5d"
     ],
     "qs:gn_adm0_cc":"PK",
@@ -62,18 +61,18 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1169126,
         "gp:id":2204753,
-        "qs:id":1168430
+        "qs_pg:id":1168430
     },
     "wof:country":"PK",
     "wof:geomhash":"cf60e77c29ff26b8171b969945085e36",
@@ -91,7 +90,7 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1531936070,
+    "wof:lastmodified":1566584917,
     "wof:name":"Nawa\u00e5b\u00e5d",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

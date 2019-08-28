@@ -5,13 +5,19 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"68.83731,27.64971,68.83731,27.64971",
     "geom:latitude":27.64971,
     "geom:longitude":68.83731,
     "iso:country":"PK",
+    "lbl:bbox":"68.81731,27.62971,68.85731,27.66971",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Baberloi"
     ],
     "qs:gn_country":"PK",
@@ -42,7 +48,7 @@
     "wof:concordances":{
         "gn:id":1184155,
         "gp:id":2190803,
-        "qs:id":266923
+        "qs_pg:id":266923
     },
     "wof:country":"PK",
     "wof:created":1459008826,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":421169833,
-    "wof:lastmodified":1501217017,
+    "wof:lastmodified":1566591772,
     "wof:name":"Babarloi",
     "wof:parent_id":85675757,
     "wof:placetype":"locality",

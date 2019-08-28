@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"73.39289,31.94959,73.43289,31.98959",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":1174643
     },
     "wof:country":"PK",
-    "wof:geomhash":"dd7bf727aae275460811b58b1fb39b8e",
+    "wof:geomhash":"38bcd712723523005e2d0a8fda41d144",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209314029,
-    "wof:lastmodified":1536290928,
+    "wof:lastmodified":1566588101,
     "wof:name":"Kasise",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     73.41289,
-    31.969590000000004,
+    31.96959,
     73.41289,
-    31.969590000000004
+    31.96959
 ],
   "geometry": {"coordinates":[73.41289,31.96959],"type":"Point"}
 }

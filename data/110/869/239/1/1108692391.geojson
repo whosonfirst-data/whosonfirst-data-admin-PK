@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":33.709756,
     "lbl:longitude":73.72124,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Azad Kashmir",
     "meso:diss_me":"SudhnotiAzad Kashmir",
     "meso:gadm_admin":"Azad Kashmir",
@@ -31,6 +33,7 @@
     "mps:longitude":73.72124,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Sudhnoti"
     ],
@@ -38,7 +41,7 @@
         "Azad Kashmir"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":1108692391,
-    "wof:lastmodified":1555047525,
+    "wof:lastmodified":1566590172,
     "wof:name":"Sudhnoti",
     "wof:parent_id":-1,
     "wof:placetype":"county",

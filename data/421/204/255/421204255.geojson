@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"73.478888,33.857777,73.478888,33.857777",
     "geom:latitude":33.857777,
     "geom:longitude":73.478888,
     "iso:country":"PK",
+    "lbl:bbox":"73.458888,33.837777,73.498888,33.877777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22723194,
-        "qs:id":1187437
+        "qs_pg:id":1187437
     },
     "wof:country":"PK",
     "wof:created":1459010178,
-    "wof:geomhash":"f0c95be55fdcb568d64048eed280a907",
+    "wof:geomhash":"4e2939260140bfc1fe984e614dcc22fc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421204255,
-    "wof:lastmodified":1466635898,
+    "wof:lastmodified":1566591774,
     "wof:name":"Mohra Sayyedan",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",

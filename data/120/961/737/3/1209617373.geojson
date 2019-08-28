@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"69.63918,31.34939,69.67918,31.38939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -34,7 +38,7 @@
         "gn:id":6310854
     },
     "wof:country":"PK",
-    "wof:geomhash":"8e884e3e28d46a0a8f057375f73eee37",
+    "wof:geomhash":"a91336b575b00194a7c46002d3bf7ff8",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209617373,
-    "wof:lastmodified":1536281641,
+    "wof:lastmodified":1566588768,
     "wof:name":"Saddiq Kili",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     69.65918,
-    31.369390000000006,
+    31.36939000000001,
     69.65918,
-    31.369390000000006
+    31.36939000000001
 ],
   "geometry": {"coordinates":[69.65918000000001,31.36939000000001],"type":"Point"}
 }

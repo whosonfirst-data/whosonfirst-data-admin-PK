@@ -10,8 +10,12 @@
     "geom:latitude":29.03069,
     "geom:longitude":69.15099,
     "iso:country":"PK",
+    "lbl:bbox":"69.13099,29.01069,69.17099,29.05069",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Dera Bugti"
@@ -34,7 +38,7 @@
     "name:swe_x_preferred":[
         "Dera Bugti"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dera Bagti"
     ],
     "name:urd_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:concordances":{
         "gn:id":1180295,
         "gp:id":2210902,
-        "qs:id":1030036,
+        "qs_pg:id":1030036,
         "wd:id":"Q2989478",
         "wk:page":"Dera Bugti"
     },
@@ -86,7 +90,7 @@
         }
     ],
     "wof:id":421194181,
-    "wof:lastmodified":1563353800,
+    "wof:lastmodified":1566591768,
     "wof:name":"Dera Bugti",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",

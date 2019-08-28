@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "lbl:bbox":"72.58315,36.66471,72.62315,36.70471",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rua"
     ],
@@ -48,8 +52,7 @@
     ],
     "name:und_x_variant":[
         "Ruah",
-        "Ruakh",
-        "Rua"
+        "Ruakh"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1343762981,
-    "wof:lastmodified":1564184799,
+    "wof:lastmodified":1566583953,
     "wof:name":"Rua",
     "wof:parent_id":1108692157,
     "wof:placetype":"locality",

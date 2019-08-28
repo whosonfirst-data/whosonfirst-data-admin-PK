@@ -10,8 +10,12 @@
     "geom:latitude":34.10167,
     "geom:longitude":71.14667,
     "iso:country":"PK",
+    "lbl:bbox":"71.12667,34.08167,71.16667,34.12167",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0644\u0646\u062f\u064a \u0643\u0648\u062a\u0627\u0644"
@@ -55,7 +59,7 @@
     "name:swe_x_preferred":[
         "Landi Kotal"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Landlandi Kotal"
     ],
     "name:urd_x_preferred":[
@@ -91,7 +95,7 @@
     "wof:concordances":{
         "gn:id":1172208,
         "gp:id":2211186,
-        "qs:id":130749,
+        "qs_pg:id":130749,
         "wd:id":"Q1803018",
         "wk:page":"Landi Kotal"
     },
@@ -108,7 +112,7 @@
         }
     ],
     "wof:id":421167239,
-    "wof:lastmodified":1563353823,
+    "wof:lastmodified":1566591772,
     "wof:name":"Landi Kotal",
     "wof:parent_id":1108692255,
     "wof:placetype":"locality",
