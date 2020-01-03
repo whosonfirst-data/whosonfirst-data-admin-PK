@@ -509,7 +509,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -528,15 +529,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692233,
             "locality_id":421191101,
             "region_id":85675757
         }
     ],
     "wof:id":421191101,
-    "wof:lastmodified":1578081705,
+    "wof:lastmodified":1578086871,
     "wof:megacity":1,
     "wof:name":"Karachi",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692233,
     "wof:placetype":"locality",
     "wof:population":11624219,
     "wof:population_rank":14,

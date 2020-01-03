@@ -42,10 +42,11 @@
     "qs:woe_id":2197913,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
-        85675757,
         102191569,
         85632659,
-        1108692233
+        421191101,
+        1108692233,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +62,15 @@
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692233,
-            "locality_id":-1,
+            "locality_id":421191101,
             "neighbourhood_id":421186133,
             "region_id":85675757
         }
     ],
     "wof:id":421186133,
-    "wof:lastmodified":1566591779,
+    "wof:lastmodified":1578086871,
     "wof:name":"\u012adu Lines",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

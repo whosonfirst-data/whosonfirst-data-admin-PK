@@ -63,10 +63,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85675757,
         102191569,
         85632659,
-        1108692233
+        421191101,
+        1108692233,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,7 +82,7 @@
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692233,
-            "locality_id":-1,
+            "locality_id":421191101,
             "neighbourhood_id":85903701,
             "region_id":85675757
         }
@@ -90,9 +91,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1566584917,
+    "wof:lastmodified":1578086869,
     "wof:name":"Nawa\u00e5b\u00e5d",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
