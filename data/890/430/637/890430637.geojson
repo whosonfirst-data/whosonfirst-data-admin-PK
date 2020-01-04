@@ -39,7 +39,11 @@
     "wd:longitude":"67.216666666",
     "wd:wordcount":434,
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +57,18 @@
     "wof:geomhash":"8f117881f514a8100a0b2b2b0420ef43",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "neighbourhood_id":890430637
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":890430637,
+            "region_id":85675757
         }
     ],
     "wof:id":890430637,
-    "wof:lastmodified":1566591795,
+    "wof:lastmodified":1578086868,
     "wof:name":"Malir Cantonment",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:population":300000,
     "wof:population_rank":10,
