@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.72603,33.03534,73.72603,33.03534",
+    "geom:bbox":"73.72603000000002,33.03534000000001,73.72603000000002,33.03534000000001",
     "geom:latitude":33.03534,
     "geom:longitude":73.72603,
     "gn:admin1_code":"6.0",
@@ -27,8 +27,14 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Jakkar"
+    ],
+    "name:eng_x_variant":[
+        "Chakker"
+    ],
     "name:und_x_variant":[
         "Jakkar"
     ],
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753,
-        1108692227
+        1108692227,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,8 +61,8 @@
         }
     ],
     "wof:id":1209807371,
-    "wof:lastmodified":1566589107,
-    "wof:name":"Chakker",
+    "wof:lastmodified":1618609350,
+    "wof:name":"Jakkar",
     "wof:parent_id":1108692227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
