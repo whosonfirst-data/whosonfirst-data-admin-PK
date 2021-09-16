@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.9947222222,31.365,72.9947222222,31.365",
+    "geom:bbox":"72.994722,31.365,72.994722,31.365",
     "geom:latitude":31.365,
     "geom:longitude":72.994722,
     "iso:country":"PK",
@@ -18,6 +18,10 @@
     ],
     "name:ben_x_preferred":[
         "\u09ab\u09af\u09bc\u09b8\u09be\u09b2\u09be\u09ac\u09be\u09a6 \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:eng_x_variant":[
+        "LYP",
+        "OPFA"
     ],
     "name:fas_x_preferred":[
         "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0641\u06cc\u0635\u0644\u200c\u0622\u0628\u0627\u062f"
@@ -74,7 +78,7 @@
         "wd:id":"Q31580"
     },
     "wof:country":"PK",
-    "wof:geomhash":"5e3326a8137d29a4b40c3e63dd413b54",
+    "wof:geomhash":"1d662b3e503c3498c34bbac22b6405da",
     "wof:hierarchy":[
         {
             "campus_id":102535597,
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":102535597,
-    "wof:lastmodified":1566583283,
+    "wof:lastmodified":1631751105,
     "wof:name":"Faisalabad Airport",
     "wof:parent_id":85675753,
     "wof:placetype":"campus",
@@ -95,10 +99,10 @@
     ]
 },
   "bbox": [
-    72.994722222222,
+    72.994722,
     31.365,
-    72.994722222222,
+    72.994722,
     31.365
 ],
-  "geometry": {"coordinates":[72.99472222222199,31.365],"type":"Point"}
+  "geometry": {"coordinates":[72.994722,31.365],"type":"Point"}
 }
