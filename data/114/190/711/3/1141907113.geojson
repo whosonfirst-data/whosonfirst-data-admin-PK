@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"62.3285880115,25.1389681183,62.3285880115,25.1389681183",
+    "geom:bbox":"62.328588,25.138968,62.328588,25.138968",
     "geom:latitude":25.138968,
     "geom:longitude":62.328588,
     "iso:country":"PK",
@@ -68,6 +68,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0926\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Gwadar"
     ],
     "name:ind_x_preferred":[
         "Gwadar"
@@ -276,7 +279,7 @@
     },
     "wof:country":"PK",
     "wof:created":1499130683,
-    "wof:geomhash":"c440102773e2d4ce28c5e41bf968d114",
+    "wof:geomhash":"200966455bdb25d9915864f016540037",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -287,7 +290,7 @@
         }
     ],
     "wof:id":1141907113,
-    "wof:lastmodified":1566595229,
+    "wof:lastmodified":1636502066,
     "wof:name":"Gwadar",
     "wof:parent_id":1108692199,
     "wof:placetype":"locality",
@@ -297,10 +300,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    62.32858801152997,
-    25.13896811828101,
-    62.32858801152997,
-    25.13896811828101
+    62.328588,
+    25.138968,
+    62.328588,
+    25.138968
 ],
-  "geometry": {"coordinates":[62.32858801152997,25.13896811828101],"type":"Point"}
+  "geometry": {"coordinates":[62.328588,25.138968],"type":"Point"}
 }

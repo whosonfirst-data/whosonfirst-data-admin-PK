@@ -53,6 +53,12 @@
     "name:deu_x_preferred":[
         "Hisar"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d9\u05e1\u05d0\u05e8"
+    ],
+    "name:hun_x_preferred":[
+        "Hisar"
+    ],
     "name:new_x_preferred":[
         "\u0939\u093f\u0938\u093e\u0930"
     ],
@@ -86,7 +92,7 @@
         "gn:id":1176855
     },
     "wof:country":"PK",
-    "wof:geomhash":"3c6e52936acd0cfc78b31db6e8b180ba",
+    "wof:geomhash":"e21b21b31d767b4943922e426a10fcfa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1259396123,
-    "wof:lastmodified":1566593299,
+    "wof:lastmodified":1636502049,
     "wof:name":"Hisar",
     "wof:parent_id":1108692341,
     "wof:placetype":"locality",
@@ -107,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.03945999999998,
+    71.03946,
     33.783,
-    71.03945999999998,
+    71.03946,
     33.783
 ],
-  "geometry": {"coordinates":[71.03945999999998,33.783],"type":"Point"}
+  "geometry": {"coordinates":[71.03946000000001,33.783],"type":"Point"}
 }

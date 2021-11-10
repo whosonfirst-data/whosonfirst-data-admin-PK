@@ -56,7 +56,13 @@
     "name:glg_x_preferred":[
         "Abra"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d1\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Abra"
+    ],
+    "name:hun_x_preferred":[
         "Abra"
     ],
     "name:hye_x_preferred":[
@@ -104,7 +110,7 @@
         "gn:id":7371984
     },
     "wof:country":"PK",
-    "wof:geomhash":"0cf7ea51668dbfb1fb6ac523982db7f1",
+    "wof:geomhash":"ca550fc250bcbbdd9b2017de29c2d806",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,7 +121,7 @@
         }
     ],
     "wof:id":1276665421,
-    "wof:lastmodified":1566587256,
+    "wof:lastmodified":1636501986,
     "wof:name":"Abra",
     "wof:parent_id":1108692327,
     "wof:placetype":"locality",
@@ -125,10 +131,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.22698000000001,
+    68.22698,
     28.45946,
-    68.22698000000001,
+    68.22698,
     28.45946
 ],
-  "geometry": {"coordinates":[68.22698000000001,28.45946],"type":"Point"}
+  "geometry": {"coordinates":[68.22698,28.45946],"type":"Point"}
 }

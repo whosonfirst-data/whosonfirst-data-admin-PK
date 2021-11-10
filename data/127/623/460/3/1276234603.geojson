@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Ghaziabad"
     ],
+    "name:ell_x_preferred":[
+        "\u0393\u03ba\u03b1\u03b6\u03b9\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
     "name:eng_x_preferred":[
         "Gh\u0101z\u012b B\u0101ba"
     ],
@@ -65,7 +68,7 @@
         "gn:id":1178534
     },
     "wof:country":"PK",
-    "wof:geomhash":"1990725760572d72672e00c924549383",
+    "wof:geomhash":"ff1a0708b715e09c1d9ec6f5624e017e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1276234603,
-    "wof:lastmodified":1566587556,
+    "wof:lastmodified":1636501989,
     "wof:name":"Ghaziabad",
     "wof:parent_id":1108692291,
     "wof:placetype":"locality",
@@ -86,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.09510999999998,
+    72.09511,
     34.49219,
-    72.09510999999998,
+    72.09511,
     34.49219
 ],
-  "geometry": {"coordinates":[72.09510999999998,34.49219],"type":"Point"}
+  "geometry": {"coordinates":[72.09511000000001,34.49219],"type":"Point"}
 }

@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Matam"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d8\u05d0\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Matam"
+    ],
     "name:nld_x_preferred":[
         "Matam"
     ],
@@ -62,7 +68,7 @@
         "gn:id":1171520
     },
     "wof:country":"PK",
-    "wof:geomhash":"43ba75992ad77a4455498cc49e564d23",
+    "wof:geomhash":"ba54be62ebd8e3bf17d9b03bcc9f1ff9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,7 +79,7 @@
         }
     ],
     "wof:id":1277079751,
-    "wof:lastmodified":1566586693,
+    "wof:lastmodified":1636501982,
     "wof:name":"Matam",
     "wof:parent_id":1108692377,
     "wof:placetype":"locality",
@@ -83,10 +89,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.14603000000002,
+    74.14603,
     31.48488,
-    74.14603000000002,
+    74.14603,
     31.48488
 ],
-  "geometry": {"coordinates":[74.14603000000002,31.48488],"type":"Point"}
+  "geometry": {"coordinates":[74.14603,31.48488],"type":"Point"}
 }

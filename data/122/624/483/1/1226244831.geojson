@@ -56,8 +56,14 @@
     "name:fra_x_preferred":[
         "Faizabad"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05d9\u05d6\u05d1\u05d0\u05d3"
+    ],
     "name:hin_x_preferred":[
         "\u092b\u093c\u0948\u091c\u093c\u093e\u092c\u093e\u0926"
+    ],
+    "name:hun_x_preferred":[
+        "Faizabad"
     ],
     "name:ita_x_preferred":[
         "Faizabad"
@@ -146,7 +152,7 @@
         "gn:id":11244088
     },
     "wof:country":"PK",
-    "wof:geomhash":"026b1ca740ca3bb96ba9e0499240fc2d",
+    "wof:geomhash":"13aff0a94b14d69076ad39a2d98420e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -157,7 +163,7 @@
         }
     ],
     "wof:id":1226244831,
-    "wof:lastmodified":1566594780,
+    "wof:lastmodified":1636502062,
     "wof:name":"Faizabad",
     "wof:parent_id":1108692253,
     "wof:placetype":"locality",
@@ -167,10 +173,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.21880999999999,
+    66.21881,
     27.72254,
-    66.21880999999999,
+    66.21881,
     27.72254
 ],
-  "geometry": {"coordinates":[66.21880999999999,27.72254],"type":"Point"}
+  "geometry": {"coordinates":[66.21881,27.72254],"type":"Point"}
 }

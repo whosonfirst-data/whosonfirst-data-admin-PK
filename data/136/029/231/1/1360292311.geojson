@@ -59,8 +59,14 @@
     "name:fra_x_preferred":[
         "Kangar"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e0\u05d2\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0915\u0902\u0917\u093e\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Kangar"
     ],
     "name:ind_x_preferred":[
         "Kangar"
@@ -134,7 +140,7 @@
         "gn:id":7077350
     },
     "wof:country":"PK",
-    "wof:geomhash":"3aff55a3422ca5abc8c20882fa49c195",
+    "wof:geomhash":"cf8d1d9c8f9a936cd6ef6736485c0662",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -145,7 +151,7 @@
         }
     ],
     "wof:id":1360292311,
-    "wof:lastmodified":1566591295,
+    "wof:lastmodified":1636502030,
     "wof:name":"Kangar",
     "wof:parent_id":1108692115,
     "wof:placetype":"locality",
@@ -156,9 +162,9 @@
 },
   "bbox": [
     73.28193,
-    33.92254000000001,
+    33.92254,
     73.28193,
-    33.92254000000001
+    33.92254
 ],
-  "geometry": {"coordinates":[73.28193,33.92254000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.28193,33.92254],"type":"Point"}
 }

@@ -44,7 +44,16 @@
     "name:deu_x_preferred":[
         "Sud"
     ],
+    "name:fas_x_preferred":[
+        "\u062c\u0646\u0648\u0628"
+    ],
     "name:fra_x_preferred":[
+        "Sud"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05e8\u05d5\u05dd"
+    ],
+    "name:hun_x_preferred":[
         "Sud"
     ],
     "name:nld_x_preferred":[
@@ -74,7 +83,7 @@
         "gn:id":1164451
     },
     "wof:country":"PK",
-    "wof:geomhash":"206a61a8bdf80bb50a8b63be394089e0",
+    "wof:geomhash":"38f82202177868ef87c91a16bad28e0d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +94,7 @@
         }
     ],
     "wof:id":1326930063,
-    "wof:lastmodified":1566581744,
+    "wof:lastmodified":1636501949,
     "wof:name":"Sud",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.95539000000002,
+    72.95539,
     33.39367,
-    72.95539000000002,
+    72.95539,
     33.39367
 ],
-  "geometry": {"coordinates":[72.95539000000002,33.39367],"type":"Point"}
+  "geometry": {"coordinates":[72.95538999999999,33.39367],"type":"Point"}
 }

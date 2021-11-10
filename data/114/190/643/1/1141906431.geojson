@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.2951818429,28.4202407013,70.2951818429,28.4202407013",
+    "geom:bbox":"70.295182,28.420241,70.295182,28.420241",
     "geom:latitude":28.420241,
     "geom:longitude":70.295182,
     "iso:country":"PK",
@@ -51,8 +51,14 @@
     "name:guj_x_preferred":[
         "\u0ab0\u0ab9\u0ac0\u0aae \u0aaf\u0abe\u0ab0 \u0a96\u0abe\u0aa8"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d7\u05d9\u05dd \u05d9\u05d0\u05e8 \u05d7\u05d0\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0930\u0939\u0940\u092e \u092f\u093e\u0930 \u0916\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Rahim Yar Khan"
     ],
     "name:ind_x_preferred":[
         "Rahim Yar Khan"
@@ -255,7 +261,7 @@
     },
     "wof:country":"PK",
     "wof:created":1499130587,
-    "wof:geomhash":"cc0bfe74d1f0c57160f69c53279e7b30",
+    "wof:geomhash":"814fb175762cfa85c5218b35ca8f61d5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -266,7 +272,7 @@
         }
     ],
     "wof:id":1141906431,
-    "wof:lastmodified":1566595228,
+    "wof:lastmodified":1636502065,
     "wof:name":"Rahim Yar Khan",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
@@ -276,10 +282,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.29518184294199,
-    28.42024070130202,
-    70.29518184294199,
-    28.42024070130202
+    70.295182,
+    28.420241,
+    70.295182,
+    28.420241
 ],
-  "geometry": {"coordinates":[70.29518184294199,28.42024070130202],"type":"Point"}
+  "geometry": {"coordinates":[70.295182,28.420241],"type":"Point"}
 }

@@ -32,6 +32,12 @@
     "name:afr_x_preferred":[
         "Mitla"
     ],
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u062a\u0644\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09a4\u09b2\u09be"
+    ],
     "name:cat_x_preferred":[
         "Mitla"
     ],
@@ -41,10 +47,25 @@
     "name:deu_x_preferred":[
         "Mitla"
     ],
+    "name:ell_x_preferred":[
+        "\u039c\u03af\u03c4\u03bb\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u062a\u0644\u0627"
+    ],
     "name:fra_x_preferred":[
         "Mitla"
     ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05dc\u05d8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u0924\u094d\u0932\u093e"
+    ],
     "name:hun_x_preferred":[
+        "Mitla"
+    ],
+    "name:ind_x_preferred":[
         "Mitla"
     ],
     "name:ita_x_preferred":[
@@ -55,6 +76,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10db\u10d8\u10e2\u10da\u10d0"
+    ],
+    "name:kor_x_preferred":[
+        "\ubbf8\ud2c0\ub77c"
     ],
     "name:nld_x_preferred":[
         "Mitla"
@@ -80,6 +104,15 @@
     "name:tur_x_preferred":[
         "Mitla"
     ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u0442\u043b\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u062a\u0644\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Mitla"
+    ],
     "name:xmf_x_preferred":[
         "\u10db\u10d8\u10e2\u10da\u10d0"
     ],
@@ -92,7 +125,7 @@
         "gn:id":1361265
     },
     "wof:country":"PK",
-    "wof:geomhash":"d34aa38e323675fd566bdedba6365109",
+    "wof:geomhash":"d341e90e80f545a37380b5f75e35f34a",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -100,7 +133,7 @@
         }
     ],
     "wof:id":1209207673,
-    "wof:lastmodified":1566589081,
+    "wof:lastmodified":1636502002,
     "wof:name":"Mitla",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -110,10 +143,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.14414000000001,
+    69.14414,
     27.76997,
-    69.14414000000001,
+    69.14414,
     27.76997
 ],
-  "geometry": {"coordinates":[69.14414000000001,27.76997],"type":"Point"}
+  "geometry": {"coordinates":[69.14413999999999,27.76997],"type":"Point"}
 }

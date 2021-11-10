@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u062a\u0634\u0627\u0631\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u099a\u09be\u09b0\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Chara"
     ],
@@ -38,13 +44,25 @@
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03c1\u03ac"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0631\u0627"
+    ],
     "name:fin_x_preferred":[
         "Chara"
     ],
     "name:fra_x_preferred":[
         "Chara"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u093e\u0930\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Chara"
+    ],
+    "name:ind_x_preferred":[
         "Chara"
     ],
     "name:ita_x_preferred":[
@@ -52,6 +70,9 @@
     ],
     "name:jpn_x_preferred":[
         "Chara"
+    ],
+    "name:por_x_preferred":[
+        "Tchara"
     ],
     "name:rus_x_preferred":[
         "\u0427\u0430\u0440\u0430"
@@ -65,8 +86,17 @@
     "name:swe_x_preferred":[
         "Chara"
     ],
+    "name:tur_x_preferred":[
+        "Chara"
+    ],
     "name:ukr_x_preferred":[
         "\u0427\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Chara"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -77,7 +107,7 @@
         "gn:id":7371312
     },
     "wof:country":"PK",
-    "wof:geomhash":"4abb56cae79d35e243f95372e0975f11",
+    "wof:geomhash":"fa822d7f1cb1850bed44420fad2d8b39",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -85,7 +115,7 @@
         }
     ],
     "wof:id":1209008695,
-    "wof:lastmodified":1566588118,
+    "wof:lastmodified":1636501992,
     "wof:name":"Chara",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -95,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.06215999999999,
+    68.06216,
     24.31824,
-    68.06215999999999,
+    68.06216,
     24.31824
 ],
-  "geometry": {"coordinates":[68.06215999999999,24.31824],"type":"Point"}
+  "geometry": {"coordinates":[68.06216000000001,24.31824],"type":"Point"}
 }

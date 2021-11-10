@@ -35,6 +35,15 @@
     "name:eng_x_preferred":[
         "Gujrat"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d5\u05d2'\u05e8\u05d0\u05d8"
+    ],
+    "name:hun_x_preferred":[
+        "Gujrat"
+    ],
+    "name:spa_x_preferred":[
+        "Gujrat"
+    ],
     "name:swe_x_preferred":[
         "Gujrat"
     ],
@@ -53,7 +62,7 @@
         "gn:id":1177653
     },
     "wof:country":"PK",
-    "wof:geomhash":"80ecfbf432e02f7aee85a507cc9a4ece",
+    "wof:geomhash":"717b2a27bae1a4419c52547e43c4f27a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +73,7 @@
         }
     ],
     "wof:id":1209616357,
-    "wof:lastmodified":1566588785,
+    "wof:lastmodified":1636501998,
     "wof:name":"Gujrat",
     "wof:parent_id":1108692299,
     "wof:placetype":"locality",
@@ -74,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.16178000000002,
+    72.16178,
     34.28695,
-    72.16178000000002,
+    72.16178,
     34.28695
 ],
-  "geometry": {"coordinates":[72.16178000000002,34.28695],"type":"Point"}
+  "geometry": {"coordinates":[72.16177999999999,34.28695],"type":"Point"}
 }

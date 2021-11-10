@@ -38,8 +38,14 @@
     "name:fas_x_preferred":[
         "\u0633\u0627\u063a\u0631"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d2\u05d0\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093e\u0917\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Sagar"
     ],
     "name:nld_x_preferred":[
         "Sagar"
@@ -68,7 +74,7 @@
         "gn:id":1386491
     },
     "wof:country":"PK",
-    "wof:geomhash":"2eb25d5e018cbb553378eb0a1c7f32cb",
+    "wof:geomhash":"cb26e38bd77f422a78e7b6a591fbe5af",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":1260101749,
-    "wof:lastmodified":1566590121,
+    "wof:lastmodified":1636502013,
     "wof:name":"Sagar",
     "wof:parent_id":1108692309,
     "wof:placetype":"locality",
@@ -105,10 +111,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.81326999999997,
+    73.81327,
     33.01773,
-    73.81326999999997,
+    73.81327,
     33.01773
 ],
-  "geometry": {"coordinates":[73.81326999999997,33.01773],"type":"Point"}
+  "geometry": {"coordinates":[73.81327,33.01773],"type":"Point"}
 }

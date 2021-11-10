@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "Jhang"
     ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b6\u03b1\u03bd\u03b3\u03ba"
+    ],
     "name:eus_x_preferred":[
         "Jhang"
     ],
@@ -56,6 +59,9 @@
     "name:fra_x_preferred":[
         "Jhang"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d0\u05e0\u05d2"
+    ],
     "name:hin_x_preferred":[
         "\u091d\u0902\u0917"
     ],
@@ -64,6 +70,9 @@
     ],
     "name:ita_x_preferred":[
         "Jhang"
+    ],
+    "name:kor_x_preferred":[
+        "\uc7a5"
     ],
     "name:lit_x_preferred":[
         "D\u017ehangas"
@@ -98,6 +107,9 @@
     "name:swe_x_preferred":[
         "Jhang"
     ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0436\u0430\u043d\u0433"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u06be\u0646\u06af"
     ],
@@ -122,7 +134,7 @@
         "gn:id":11424924
     },
     "wof:country":"PK",
-    "wof:geomhash":"286819a33324375faec101019e7d5444",
+    "wof:geomhash":"3e3706428de7f663c891d9fc8a54a5cf",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +145,7 @@
         }
     ],
     "wof:id":1259879195,
-    "wof:lastmodified":1566593941,
+    "wof:lastmodified":1636502055,
     "wof:name":"Jhang",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",
@@ -143,10 +155,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.22034000000002,
+    73.22034,
     33.33786,
-    73.22034000000002,
+    73.22034,
     33.33786
 ],
-  "geometry": {"coordinates":[73.22034000000002,33.33786],"type":"Point"}
+  "geometry": {"coordinates":[73.22033999999999,33.33786],"type":"Point"}
 }

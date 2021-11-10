@@ -35,10 +35,19 @@
     "name:deu_x_preferred":[
         "Wau"
     ],
+    "name:ell_x_preferred":[
+        "\u0392\u03ac\u03bf\u03c5"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648"
+    ],
     "name:fin_x_preferred":[
         "Wau"
     ],
     "name:fra_x_preferred":[
+        "Wau"
+    ],
+    "name:hun_x_preferred":[
         "Wau"
     ],
     "name:nld_x_preferred":[
@@ -66,7 +75,7 @@
         "gn:id":1109192
     },
     "wof:country":"PK",
-    "wof:geomhash":"7d96106739dcba2856bdebde833e1e44",
+    "wof:geomhash":"c754200143cb4e58abf3c444ebfc67e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,7 +86,7 @@
         }
     ],
     "wof:id":1343564483,
-    "wof:lastmodified":1566584314,
+    "wof:lastmodified":1636501964,
     "wof:name":"Wau",
     "wof:parent_id":890422345,
     "wof:placetype":"locality",
@@ -87,10 +96,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.69698000000001,
+    69.69698,
     32.97583,
-    69.69698000000001,
+    69.69698,
     32.97583
 ],
-  "geometry": {"coordinates":[69.69698000000001,32.97583],"type":"Point"}
+  "geometry": {"coordinates":[69.69698,32.97583],"type":"Point"}
 }

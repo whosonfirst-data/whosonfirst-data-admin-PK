@@ -41,6 +41,12 @@
     "name:fra_x_preferred":[
         "Bumba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Bumba"
+    ],
     "name:ind_x_preferred":[
         "Bumba"
     ],
@@ -68,7 +74,7 @@
         "gn:id":11140579
     },
     "wof:country":"PK",
-    "wof:geomhash":"26837d0ffedcfc1baa7cea3452114787",
+    "wof:geomhash":"e7f617abefe307063c37080a1fa91a83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1310524469,
-    "wof:lastmodified":1566590495,
+    "wof:lastmodified":1636502021,
     "wof:name":"Bumba",
     "wof:parent_id":1108692305,
     "wof:placetype":"locality",
@@ -89,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.70643000000003,
+    71.70643,
     32.92117,
-    71.70643000000003,
+    71.70643,
     32.92117
 ],
-  "geometry": {"coordinates":[71.70643000000003,32.92117],"type":"Point"}
+  "geometry": {"coordinates":[71.70643,32.92117],"type":"Point"}
 }

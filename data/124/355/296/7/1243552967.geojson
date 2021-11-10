@@ -35,6 +35,9 @@
     "name:bel_x_preferred":[
         "\u041f\u0443\u043d\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c1\u09a8\u09cb"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0443\u043d\u043e"
     ],
@@ -65,7 +68,16 @@
     "name:fra_x_preferred":[
         "Puno"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05e0\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0941\u0928\u094b"
+    ],
     "name:hrv_x_preferred":[
+        "Puno"
+    ],
+    "name:hun_x_preferred":[
         "Puno"
     ],
     "name:hye_x_preferred":[
@@ -155,7 +167,7 @@
         "gn:id":7096629
     },
     "wof:country":"PK",
-    "wof:geomhash":"637155ae14d52efc78be1859e9809c07",
+    "wof:geomhash":"a20191ff441242d3995ba2f131cd608a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -166,7 +178,7 @@
         }
     ],
     "wof:id":1243552967,
-    "wof:lastmodified":1566592125,
+    "wof:lastmodified":1636502041,
     "wof:name":"Puno",
     "wof:parent_id":1108692233,
     "wof:placetype":"locality",
@@ -176,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.38904000000001,
+    67.38904,
     25.40249,
-    67.38904000000001,
+    67.38904,
     25.40249
 ],
-  "geometry": {"coordinates":[67.38904000000001,25.40249],"type":"Point"}
+  "geometry": {"coordinates":[67.38903999999999,25.40249],"type":"Point"}
 }

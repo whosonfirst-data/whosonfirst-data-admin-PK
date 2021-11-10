@@ -44,6 +44,12 @@
     "name:fra_x_preferred":[
         "Karas"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05e8\u05d0\u05e1"
+    ],
+    "name:hun_x_preferred":[
+        "Karas"
+    ],
     "name:ind_x_preferred":[
         "Karas"
     ],
@@ -89,7 +95,7 @@
         "gn:id":11024048
     },
     "wof:country":"PK",
-    "wof:geomhash":"7a93f36eb69ebe233d77e4f7b92e04f1",
+    "wof:geomhash":"40f629543900a5ed469052dcf26b1481",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":1343365725,
-    "wof:lastmodified":1566583310,
+    "wof:lastmodified":1636501958,
     "wof:name":"Karas",
     "wof:parent_id":1108692265,
     "wof:placetype":"locality",
@@ -111,9 +117,9 @@
 },
   "bbox": [
     72.95081,
-    35.48029000000001,
+    35.48029,
     72.95081,
-    35.48029000000001
+    35.48029
 ],
-  "geometry": {"coordinates":[72.95081,35.48029000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.95081,35.48029],"type":"Point"}
 }

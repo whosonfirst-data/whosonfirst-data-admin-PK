@@ -111,7 +111,22 @@
         "Dan"
     ],
     "name:ukr_x_preferred":[
+        "\u0414\u0435\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u0414\u0430\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06cc\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00f4ng Dan"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u4e39\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9054\u6069\u6cb3"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -122,7 +137,7 @@
         "gn:id":7369986
     },
     "wof:country":"PK",
-    "wof:geomhash":"3354d1b097703cf39105e21f81275a2f",
+    "wof:geomhash":"fc28f44a5be57425e0553868885276c4",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -130,7 +145,7 @@
         }
     ],
     "wof:id":1209517525,
-    "wof:lastmodified":1566588928,
+    "wof:lastmodified":1636502000,
     "wof:name":"Dan",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -140,10 +155,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.40633000000001,
+    66.40633,
     27.42045,
-    66.40633000000001,
+    66.40633,
     27.42045
 ],
-  "geometry": {"coordinates":[66.40633000000001,27.42045],"type":"Point"}
+  "geometry": {"coordinates":[66.40633,27.42045],"type":"Point"}
 }

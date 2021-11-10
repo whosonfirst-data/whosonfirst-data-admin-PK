@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u042e\u0440\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u099c\u09c1\u09b0\u09be"
+    ],
     "name:bre_x_preferred":[
         "Jura"
     ],
@@ -174,6 +177,9 @@
         "\u042e\u0440\u0430"
     ],
     "name:vie_x_preferred":[
+        "D\u00e3y Jura"
+    ],
+    "name:vie_x_variant":[
         "Jura"
     ],
     "src:geom":"geonames",
@@ -190,7 +196,7 @@
         "gn:id":1415950
     },
     "wof:country":"PK",
-    "wof:geomhash":"e029b6a3a0ee3beb54e9f4c170fb822f",
+    "wof:geomhash":"cb6b4369046e52ee569cb5d1717f3df5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +216,7 @@
         }
     ],
     "wof:id":1209837073,
-    "wof:lastmodified":1566588421,
+    "wof:lastmodified":1636501995,
     "wof:name":"Jura",
     "wof:parent_id":1108692331,
     "wof:placetype":"locality",
@@ -220,10 +226,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.83098000000003,
+    73.83098,
     34.48839,
-    73.83098000000003,
+    73.83098,
     34.48839
 ],
-  "geometry": {"coordinates":[73.83098000000003,34.48839],"type":"Point"}
+  "geometry": {"coordinates":[73.83098,34.48839],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.1008267811,33.8991827586,70.1008267811,33.8991827586",
+    "geom:bbox":"70.100827,33.899183,70.100827,33.899183",
     "geom:latitude":33.899183,
     "geom:longitude":70.100827,
     "iso:country":"PK",
@@ -54,8 +54,14 @@
     "name:guj_x_preferred":[
         "\u0aaa\u0ab0\u0abe\u0a9a\u0abf\u0aa8\u0abe\u0ab0"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e8\u05e6'\u05d9\u05e0\u05e8"
+    ],
     "name:hin_x_preferred":[
         "\u092a\u0930\u093e\u091a\u093f\u0928\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Parachinar"
     ],
     "name:ind_x_preferred":[
         "Parachinar"
@@ -249,7 +255,7 @@
     },
     "wof:country":"PK",
     "wof:created":1499130587,
-    "wof:geomhash":"19b93abf60e08413c25a94a39453f242",
+    "wof:geomhash":"743b202b0210ba5465525b6500d2e66b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -260,7 +266,7 @@
         }
     ],
     "wof:id":1141906429,
-    "wof:lastmodified":1566595229,
+    "wof:lastmodified":1636502066,
     "wof:name":"Parachinar",
     "wof:parent_id":1108692271,
     "wof:placetype":"locality",
@@ -270,10 +276,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.10082678109245,
-    33.89918275861555,
-    70.10082678109245,
-    33.89918275861555
+    70.100827,
+    33.899183,
+    70.100827,
+    33.899183
 ],
-  "geometry": {"coordinates":[70.10082678109245,33.89918275861555],"type":"Point"}
+  "geometry": {"coordinates":[70.100827,33.899183],"type":"Point"}
 }

@@ -59,7 +59,13 @@
     "name:fra_x_preferred":[
         "Para"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d0\u05e8\u05d4"
+    ],
     "name:hrv_x_preferred":[
+        "Para"
+    ],
+    "name:hun_x_preferred":[
         "Para"
     ],
     "name:ind_x_preferred":[
@@ -137,7 +143,7 @@
         "gn:id":1407554
     },
     "wof:country":"PK",
-    "wof:geomhash":"6023e004450bda2c5e71d7eac8252fc7",
+    "wof:geomhash":"2c5d0207d2c437d94135741675a79562",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1243355487,
-    "wof:lastmodified":1566592594,
+    "wof:lastmodified":1636502045,
     "wof:name":"Para",
     "wof:parent_id":1108692115,
     "wof:placetype":"locality",
@@ -158,10 +164,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.49533000000002,
+    73.49533,
     34.18354,
-    73.49533000000002,
+    73.49533,
     34.18354
 ],
-  "geometry": {"coordinates":[73.49533000000002,34.18354],"type":"Point"}
+  "geometry": {"coordinates":[73.49533,34.18354],"type":"Point"}
 }

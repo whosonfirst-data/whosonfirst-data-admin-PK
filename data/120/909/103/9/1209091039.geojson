@@ -57,7 +57,13 @@
         "Nara"
     ],
     "name:heb_x_preferred":[
+        "\u05e0\u05e8\u05d4"
+    ],
+    "name:heb_x_variant":[
         "\u05e0\u05d0\u05e8\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u0928\u093e\u0930\u093e"
     ],
     "name:hrv_x_preferred":[
         "Nara"
@@ -128,6 +134,15 @@
     "name:tur_x_preferred":[
         "Nara"
     ],
+    "name:ukr_x_preferred":[
+        "\u041d\u0430\u0440\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -137,7 +152,7 @@
         "gn:id":7088131
     },
     "wof:country":"PK",
-    "wof:geomhash":"45e3bcad923fa525e2991e5e57af203c",
+    "wof:geomhash":"52b77d78d21bdb7d4c326f8e4f4e884b",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -145,7 +160,7 @@
         }
     ],
     "wof:id":1209091039,
-    "wof:lastmodified":1566588022,
+    "wof:lastmodified":1636501992,
     "wof:name":"Nara",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -155,10 +170,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.25643000000002,
+    73.25643,
     33.72797,
-    73.25643000000002,
+    73.25643,
     33.72797
 ],
-  "geometry": {"coordinates":[73.25643000000002,33.72797],"type":"Point"}
+  "geometry": {"coordinates":[73.25642999999999,33.72797],"type":"Point"}
 }

@@ -41,6 +41,9 @@
     "name:bel_x_preferred":[
         "\u041a\u0443\u0440"
     ],
+    "name:ben_x_preferred":[
+        "\u099b\u09c1\u09b0"
+    ],
     "name:bos_x_preferred":[
         "Chur"
     ],
@@ -103,6 +106,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05db\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u091a\u0942\u0930"
     ],
     "name:hrv_x_preferred":[
         "Chur"
@@ -218,6 +224,9 @@
     "name:vec_x_preferred":[
         "Coira"
     ],
+    "name:vie_x_preferred":[
+        "Chur"
+    ],
     "name:vol_x_preferred":[
         "Chur"
     ],
@@ -236,7 +245,7 @@
         "gn:id":1406482
     },
     "wof:country":"PK",
-    "wof:geomhash":"2786c24143f631bdaddec911950ea353",
+    "wof:geomhash":"8a776bf4ad97af490bc655faaa5aadf0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -247,7 +256,7 @@
         }
     ],
     "wof:id":1310607887,
-    "wof:lastmodified":1566591051,
+    "wof:lastmodified":1636502027,
     "wof:name":"Chur",
     "wof:parent_id":1108692295,
     "wof:placetype":"locality",
@@ -257,10 +266,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.33086999999998,
+    73.33087,
     34.68585,
-    73.33086999999998,
+    73.33087,
     34.68585
 ],
-  "geometry": {"coordinates":[73.33086999999998,34.68585],"type":"Point"}
+  "geometry": {"coordinates":[73.33087,34.68585],"type":"Point"}
 }

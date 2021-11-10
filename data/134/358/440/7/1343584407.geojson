@@ -29,8 +29,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ell_x_preferred":[
+        "\u03a3\u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d0\u05d3\u05d9\u05e7\u05d0\u05d1\u05d0\u05d3"
+    ],
+    "name:hun_x_preferred":[
+        "Sadiqabad"
+    ],
+    "name:ind_x_preferred":[
+        "Sadiqabad"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30c7\u30a3\u30ab\u30d0\u30fc\u30c9"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\ub514\uce74\ubc14\ub4dc"
+    ],
+    "name:tur_x_preferred":[
+        "Sadiqabad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0430\u0434\u0456\u043a\u0430\u0431\u0430\u0434"
+    ],
     "name:und_x_variant":[
         "Kh\u0101liq\u0101b\u0101d"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u8428\u8fea\u52a0\u5df4\u5fb7"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u85a9\u8fea\u5361\u5df4\u5fb7"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +74,7 @@
         "gn:id":1383020
     },
     "wof:country":"PK",
-    "wof:geomhash":"63b6d228dd7e9fb01b0e4756fe987255",
+    "wof:geomhash":"ef3d607d2825e256014306a2c2a28cc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +85,7 @@
         }
     ],
     "wof:id":1343584407,
-    "wof:lastmodified":1566584382,
+    "wof:lastmodified":1636501965,
     "wof:name":"Sadiqabad",
     "wof:parent_id":1108692421,
     "wof:placetype":"locality",
@@ -65,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.24708000000003,
+    72.24708,
     29.85571,
-    72.24708000000003,
+    72.24708,
     29.85571
 ],
-  "geometry": {"coordinates":[72.24708000000003,29.85571],"type":"Point"}
+  "geometry": {"coordinates":[72.24708,29.85571],"type":"Point"}
 }
