@@ -4,25 +4,33 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000018,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.87139,30.78105,70.87139,30.78105",
-    "geom:latitude":30.78105,
-    "geom:longitude":70.87139,
+    "geom:bbox":"70.871898,30.774424,70.877103,30.779152",
+    "geom:latitude":30.777007,
+    "geom:longitude":70.874383,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":100,
     "iso:country":"PK",
-    "lbl:bbox":"70.85139,30.76105,70.89139,30.80105",
+    "lbl:latitude":30.777115,
+    "lbl:longitude":70.874333,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:name":"Taragar w\u0101la",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"1",
+    "reversegeo:latitude":30.777115,
+    "reversegeo:longitude":70.874333,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -36,7 +44,7 @@
     },
     "wof:country":"PK",
     "wof:created":1469051861,
-    "wof:geomhash":"71268ef0e9456b7d2e3caa034f1a9588",
+    "wof:geomhash":"85d0ba8a520d08e4c9ef1e66dd91f15b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +54,7 @@
         }
     ],
     "wof:id":890430661,
-    "wof:lastmodified":1566591795,
+    "wof:lastmodified":1659384868,
     "wof:name":"Taragar w\u0101la",
     "wof:parent_id":85675753,
     "wof:placetype":"locality",
@@ -58,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.87139,
-    30.78105,
-    70.87139,
-    30.78105
+    70.871898,
+    30.774424,
+    70.877103,
+    30.779152
 ],
-  "geometry": {"coordinates":[70.87139000000001,30.78105],"type":"Point"}
+  "geometry": {"coordinates":[[[70.871898,30.779017],[70.872829,30.779065],[70.873975,30.779112],[70.874644,30.779152],[70.87540799999999,30.779017],[70.875981,30.77873],[70.87614000000001,30.778571],[70.87615599999999,30.778109],[70.876801,30.778117],[70.876841,30.777624],[70.87688799999999,30.777226],[70.877095,30.777218],[70.877064,30.77682],[70.877072,30.776661],[70.87710300000001,30.776462],[70.87696,30.776095],[70.876881,30.77592],[70.876172,30.77592],[70.876164,30.775371],[70.875225,30.775411],[70.875185,30.774774],[70.874644,30.774798],[70.873728,30.774798],[70.873704,30.774472],[70.873346,30.774424],[70.87306,30.77444],[70.87281299999999,30.77444],[70.872089,30.778101],[70.871898,30.779017]]],"type":"Polygon"}
 }

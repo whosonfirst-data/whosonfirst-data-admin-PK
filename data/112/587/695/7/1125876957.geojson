@@ -4,22 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.86853,30.78769,70.86853,30.78769",
-    "geom:latitude":30.78769,
-    "geom:longitude":70.86853,
+    "geom:bbox":"70.867531,30.786794,70.869892,30.787896",
+    "geom:latitude":30.787329,
+    "geom:longitude":70.868625,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":2000,
     "iso:country":"PK",
-    "lbl:bbox":"70.84853,30.76769,70.88853,30.80769",
-    "lbl:latitude":30.78769,
-    "lbl:longitude":70.86853,
+    "lbl:latitude":30.787332,
+    "lbl:longitude":70.868625,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "qs_pg:aaroncc":"PK",
@@ -33,8 +32,13 @@
     "qs_pg:pop_sr":3,
     "qs_pg:qs_id":161031,
     "qs_pg:qs_pg_placetype":"locality",
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":30.787332,
+    "reversegeo:longitude":70.868625,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -49,7 +53,7 @@
     },
     "wof:country":"PK",
     "wof:created":1497294589,
-    "wof:geomhash":"f5bbe68bced0de1c4d08001edd812d18",
+    "wof:geomhash":"97cbb4478bf190595c683a626bd9b54d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1125876957,
-    "wof:lastmodified":1566591804,
+    "wof:lastmodified":1659384868,
     "wof:name":"Basti Dosa",
     "wof:parent_id":1108692283,
     "wof:placetype":"locality",
@@ -72,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.86853,
-    30.78769,
-    70.86853,
-    30.78769
+    70.867531,
+    30.786794,
+    70.869892,
+    30.787896
 ],
-  "geometry": {"coordinates":[70.86853000000001,30.78769],"type":"Point"}
+  "geometry": {"coordinates":[[[70.867531,30.787817],[70.86939,30.787896],[70.86951000000001,30.787494],[70.869812,30.787474],[70.869876,30.787315],[70.86989199999999,30.787236],[70.869832,30.787168],[70.869529,30.78714],[70.869609,30.786794],[70.868662,30.786798],[70.868049,30.78683],[70.86763500000001,30.786822],[70.867591,30.787291],[70.867531,30.787817]]],"type":"Polygon"}
 }

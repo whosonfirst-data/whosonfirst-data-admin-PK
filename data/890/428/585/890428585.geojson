@@ -4,25 +4,33 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000005,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.87089,33.54106,70.87089,33.54106",
-    "geom:latitude":33.54106,
-    "geom:longitude":70.87089,
+    "geom:bbox":"70.868332,33.53966,70.871811,33.541861",
+    "geom:latitude":33.540762,
+    "geom:longitude":70.870278,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":200,
     "iso:country":"PK",
-    "lbl:bbox":"70.85089,33.52106,70.89089,33.56106",
+    "lbl:latitude":33.540769,
+    "lbl:longitude":70.870485,
     "lbl:max_zoom":17.0,
     "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "qs:name":"Shaheed Abad",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"1",
+    "reversegeo:latitude":33.540769,
+    "reversegeo:longitude":70.870485,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -38,7 +46,7 @@
     },
     "wof:country":"PK",
     "wof:created":1469051759,
-    "wof:geomhash":"fcbc7c4f6222f053b7eef15685f6026d",
+    "wof:geomhash":"1206d907fb08e5531bfdc541b5681531",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -49,7 +57,7 @@
         }
     ],
     "wof:id":890428585,
-    "wof:lastmodified":1566591799,
+    "wof:lastmodified":1659384889,
     "wof:name":"Shaheed Abad",
     "wof:parent_id":1108692203,
     "wof:placetype":"locality",
@@ -61,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.87089,
-    33.54106,
-    70.87089,
-    33.54106
+    70.868332,
+    33.53966,
+    70.871811,
+    33.541861
 ],
-  "geometry": {"coordinates":[70.87089,33.54106],"type":"Point"}
+  "geometry": {"coordinates":[[[70.868332,33.541061],[70.868683,33.541558],[70.868826,33.541522],[70.869021,33.541451],[70.869168,33.541335],[70.8693,33.541224],[70.86959400000001,33.54122],[70.869781,33.541331],[70.869861,33.541506],[70.87093900000001,33.541861],[70.871138,33.541861],[70.871656,33.541678],[70.87164,33.54157],[70.871604,33.541367],[70.871672,33.540898],[70.87173900000001,33.540404],[70.87181099999999,33.53991],[70.87102299999999,33.539926],[70.870609,33.539819],[70.870195,33.539847],[70.869889,33.539835],[70.869562,33.53966],[70.86928399999999,33.53997],[70.868332,33.541061]]],"type":"Polygon"}
 }

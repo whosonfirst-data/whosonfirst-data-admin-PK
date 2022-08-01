@@ -4,20 +4,21 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"71.96656,34.25195,71.96656,34.25195",
-    "geom:latitude":34.25195,
-    "geom:longitude":71.96656,
+    "geom:bbox":"71.964279,34.250005,71.96897,34.253815",
+    "geom:latitude":34.251807,
+    "geom:longitude":71.966455,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":1100,
     "iso:country":"PK",
-    "lbl:bbox":"71.94656,34.23195,71.98656,34.27195",
+    "lbl:latitude":34.251858,
+    "lbl:longitude":71.966491,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
     "name:eng_x_preferred":[
         "Nooriabad"
@@ -29,6 +30,13 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"3",
+    "reversegeo:latitude":34.251858,
+    "reversegeo:longitude":71.966491,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -43,7 +51,7 @@
     },
     "wof:country":"PK",
     "wof:created":1469051992,
-    "wof:geomhash":"bf86e61657ec33ae74f13731f22ddff7",
+    "wof:geomhash":"5c28b6cff7c114f9aa06a94149e9ed40",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,7 +62,7 @@
         }
     ],
     "wof:id":890433731,
-    "wof:lastmodified":1566591801,
+    "wof:lastmodified":1659384892,
     "wof:name":"Noor\u0101b\u0101d",
     "wof:parent_id":1108692299,
     "wof:placetype":"locality",
@@ -66,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.96656,
-    34.25195,
-    71.96656,
-    34.25195
+    71.964279,
+    34.250005,
+    71.96897,
+    34.253815
 ],
-  "geometry": {"coordinates":[71.96656,34.25195],"type":"Point"}
+  "geometry": {"coordinates":[[[71.96549899999999,34.253704],[71.96574099999999,34.253815],[71.96897,34.251512],[71.968807,34.251075],[71.968735,34.250723],[71.96862400000001,34.250246],[71.967117,34.25054],[71.96701899999999,34.250005],[71.96576,34.250527],[71.96578599999999,34.250912],[71.96488600000001,34.25101],[71.964893,34.251244],[71.964305,34.251355],[71.96438999999999,34.251747],[71.964279,34.252817],[71.96549899999999,34.253704]]],"type":"Polygon"}
 }
