@@ -52,10 +52,10 @@
     "woe:name_adm1":"Punjab",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692361
+        1108692361,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +77,15 @@
         }
     ],
     "wof:id":1126088835,
-    "wof:lastmodified":1659398977,
+    "wof:lastmodified":1659478468,
     "wof:name":"Im\u00e5m B\u00e5ra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85903683
+    ],
     "wof:tags":[]
 },
   "bbox": [

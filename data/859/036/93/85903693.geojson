@@ -2,7 +2,7 @@
   "id": 85903693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -19,7 +19,7 @@
     "mps:latitude":31.54668,
     "mps:longitude":74.329333,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -62,10 +62,10 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692273
+        1108692273,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,12 +92,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351427,
+    "wof:lastmodified":1659478493,
     "wof:name":"Mozang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1126104189
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

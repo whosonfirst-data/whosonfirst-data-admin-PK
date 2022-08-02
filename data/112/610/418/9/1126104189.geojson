@@ -52,10 +52,10 @@
     "woe:name_adm1":"Punjab",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692273
+        1108692273,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,13 +77,15 @@
         }
     ],
     "wof:id":1126104189,
-    "wof:lastmodified":1659398935,
+    "wof:lastmodified":1659478476,
     "wof:name":"Mozang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        85903693
+    ],
     "wof:tags":[]
 },
   "bbox": [
