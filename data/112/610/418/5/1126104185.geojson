@@ -4,23 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000016,
     "geom:area_square_m":0.0,
-    "geom:bbox":"67.0,24.85,67.0,24.85",
-    "geom:latitude":24.85,
-    "geom:longitude":67.0,
+    "geom:bbox":"66.999458,24.854819,67.004423,24.860749",
+    "geom:latitude":24.857166,
+    "geom:longitude":67.00152,
     "gn:country":"PK",
     "gn:fcode":"PPLX",
     "gn:latitude":24.85,
     "gn:longitude":67.0,
     "gn:population":0,
     "iso:country":"PK",
-    "lbl:bbox":"66.995,24.845,67.005,24.855",
-    "lbl:latitude":24.85,
-    "lbl:longitude":67.0,
+    "lbl:latitude":24.856884,
+    "lbl:longitude":67.001483,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -46,18 +45,23 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424922,
     "qs_pg:woe_id":2198974,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":24.856884,
+    "reversegeo:longitude":67.001483,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424922,
     "woe:name_adm0":"Pakistan",
     "woe:name_adm1":"Sindh",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
         421191101,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -67,7 +71,7 @@
     },
     "wof:country":"PK",
     "wof:created":1497316634,
-    "wof:geomhash":"2d4df6eb273f126db982cb49d22f6ba9",
+    "wof:geomhash":"7541dc8780832d5efb76832dc78d924d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1126104185,
-    "wof:lastmodified":1578086870,
+    "wof:lastmodified":1659398940,
     "wof:name":"Juna Market",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
@@ -91,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.0,
-    24.85,
-    67.0,
-    24.85
+    66.999458,
+    24.854819,
+    67.004423,
+    24.860749
 ],
-  "geometry": {"coordinates":[67.0,24.85],"type":"Point"}
+  "geometry": {"coordinates":[[[67.004423,24.855442],[67.00412900000001,24.855386],[67.003517,24.855263],[67.00299,24.855194],[67.002617,24.85512],[67.002315,24.855104],[67.002109,24.855106],[67.00175299999999,24.855162],[67.00139900000001,24.855145],[67.00108,24.855067],[67.000778,24.855007],[67.000389,24.854979],[67.000156,24.854984],[67.000038,24.854896],[66.999943,24.854819],[66.999869,24.854977],[66.999814,24.855245],[66.999666,24.855726],[66.999458,24.856494],[66.999503,24.85659],[66.999826,24.857653],[67.000159,24.859262],[67.000213,24.859395],[67.000298,24.859604],[67.00085300000001,24.860344],[67.001125,24.860749],[67.00159600000001,24.860025],[67.002576,24.858388],[67.002809,24.858013],[67.003288,24.857242],[67.004379,24.855513],[67.004423,24.855442]]],"type":"Polygon"}
 }

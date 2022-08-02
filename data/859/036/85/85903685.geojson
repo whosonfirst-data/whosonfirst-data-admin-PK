@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000035,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.095741,33.609745,73.095741,33.609745",
-    "geom:latitude":33.609745,
-    "geom:longitude":73.095741,
+    "geom:bbox":"73.067232,33.588397,73.078964,33.594553",
+    "geom:latitude":33.591707,
+    "geom:longitude":73.073834,
     "iso:country":"PK",
-    "lbl:bbox":"73.090741,33.604745,73.100741,33.614745",
-    "lbl:latitude":33.609745,
-    "lbl:longitude":73.095741,
+    "lbl:latitude":33.591993,
+    "lbl:longitude":73.074412,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.611181,
     "mps:longitude":73.102245,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -60,11 +59,14 @@
     "qs:woe_lau":0,
     "qs:woe_local":2211387,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":33.591993,
+    "reversegeo:longitude":73.074412,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":64,
     "wof:belongsto":[
         85675753,
@@ -81,7 +83,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8acaf5438edaf7a100dc76277e72a055",
+    "wof:geomhash":"50970f2c159d194a3b42242e7771a277",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,7 +98,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351427,
+    "wof:lastmodified":1659398979,
     "wof:name":"Jhanda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -106,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.095741,
-    33.609745,
-    73.095741,
-    33.609745
+    73.067232,
+    33.588397,
+    73.078964,
+    33.594553
 ],
-  "geometry": {"coordinates":[73.095741,33.609745],"type":"Point"}
+  "geometry": {"coordinates":[[[73.068365,33.591806],[73.068155,33.592076],[73.06777,33.59258],[73.067393,33.593279],[73.067232,33.594],[73.06784,33.594056],[73.068386,33.593769],[73.06847,33.593405],[73.06889,33.593013],[73.069548,33.592873],[73.070331,33.593027],[73.072374,33.593741],[73.073578,33.594217],[73.074231,33.594423],[73.074641,33.594553],[73.07520100000001,33.594455],[73.07571900000001,33.594189],[73.07625,33.593531],[73.077048,33.592664],[73.078461,33.591012],[73.078964,33.590443],[73.07888699999999,33.590381],[73.07670400000001,33.589122],[73.07584,33.588397],[73.075327,33.588592],[73.074837,33.58869],[73.07370400000001,33.589445],[73.071702,33.590663],[73.07062500000001,33.59125],[73.069562,33.591642],[73.068918,33.591796],[73.068365,33.591806]]],"type":"Polygon"}
 }

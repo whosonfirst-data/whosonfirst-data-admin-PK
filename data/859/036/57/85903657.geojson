@@ -4,17 +4,16 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000037,
     "geom:area_square_m":0.0,
-    "geom:bbox":"67.004796,24.846594,67.004796,24.846594",
-    "geom:latitude":24.846594,
-    "geom:longitude":67.004796,
+    "geom:bbox":"67.00939,24.850017,67.015852,24.859697",
+    "geom:latitude":24.853883,
+    "geom:longitude":67.012978,
     "gn:latitude":24.8528,
     "gn:longitude":67.0106,
     "iso:country":"PK",
-    "lbl:bbox":"66.999796,24.841594,67.009796,24.851594",
-    "lbl:latitude":24.846594,
-    "lbl:longitude":67.004796,
+    "lbl:latitude":24.852888,
+    "lbl:longitude":67.01304,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.836429,
     "mps:longitude":67.011237,
@@ -109,11 +108,14 @@
     "qs:woe_lau":0,
     "qs:woe_local":2211096,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.852888,
+    "reversegeo:longitude":67.01304,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":1135,
     "wof:belongsto":[
         85675757,
@@ -132,7 +134,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"eec01dc2fa247dec1eb66f2375b49a32",
+    "wof:geomhash":"b20de504e80aeb9917b477e326cdd41e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -147,7 +149,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351426,
+    "wof:lastmodified":1659398940,
     "wof:name":"Arambagh",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
@@ -157,10 +159,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.004796,
-    24.846594,
-    67.004796,
-    24.846594
+    67.00939,
+    24.850017,
+    67.015852,
+    24.859697
 ],
-  "geometry": {"coordinates":[67.004796,24.846594],"type":"Point"}
+  "geometry": {"coordinates":[[[67.00939,24.853733],[67.012079,24.855088],[67.011019,24.856863],[67.01482900000001,24.85911],[67.015852,24.859697],[67.01553199999999,24.85911],[67.015134,24.858425],[67.014959,24.857769],[67.01506000000001,24.856632],[67.015384,24.853839],[67.01553199999999,24.852785],[67.015541,24.852147],[67.01570700000001,24.850557],[67.01418,24.850414],[67.012259,24.850234],[67.010063,24.850017],[67.010114,24.851105],[67.009922,24.852215],[67.009452,24.853625],[67.00939,24.853733]]],"type":"Polygon"}
 }

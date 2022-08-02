@@ -4,25 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000011,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.088108,33.621887,73.088108,33.621887",
-    "geom:latitude":33.621887,
-    "geom:longitude":73.088108,
+    "geom:bbox":"73.05534,33.612943,73.059795,33.616614",
+    "geom:latitude":33.614533,
+    "geom:longitude":73.057207,
     "gn:country":"PK",
     "gn:fcode":"PPLX",
     "gn:latitude":33.61667,
     "gn:longitude":73.06667,
     "gn:population":0,
     "iso:country":"PK",
-    "lbl:bbox":"73.083108,33.616887,73.093108,33.626887",
-    "lbl:latitude":33.621887,
-    "lbl:longitude":73.088108,
+    "lbl:latitude":33.614306,
+    "lbl:longitude":73.057164,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.635047,
     "mps:longitude":73.095696,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -241,11 +240,14 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424922,
     "qs_pg:woe_id":2194169,
-    "src:geom":"mz",
+    "reversegeo:latitude":33.614306,
+    "reversegeo:longitude":73.057164,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":2719,
     "wof:belongsto":[
         85675753,
@@ -266,7 +268,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"ee59b470dedd1fb2a78f4e5b5a87f409",
+    "wof:geomhash":"f2563e892971cd7e8c53b1091db28120",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -281,7 +283,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351427,
+    "wof:lastmodified":1659398976,
     "wof:name":"Committee",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -293,10 +295,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.088108,
-    33.621887,
-    73.088108,
-    33.621887
+    73.05534,
+    33.612943,
+    73.059795,
+    33.616614
 ],
-  "geometry": {"coordinates":[73.08810800000001,33.621887],"type":"Point"}
+  "geometry": {"coordinates":[[[73.057401,33.616614],[73.057458,33.616294],[73.057486,33.615497],[73.057996,33.615427],[73.05838799999999,33.615322],[73.058955,33.614965],[73.059298,33.614699],[73.059445,33.614307],[73.05956399999999,33.613832],[73.05971,33.613538],[73.05979499999999,33.613437],[73.058542,33.613202],[73.057339,33.613076],[73.055869,33.61309],[73.05534,33.612943],[73.055593,33.615364],[73.055691,33.616469],[73.056562,33.61649],[73.057143,33.616546],[73.057401,33.616614]]],"type":"Polygon"}
 }

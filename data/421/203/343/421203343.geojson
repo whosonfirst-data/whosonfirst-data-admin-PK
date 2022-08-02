@@ -4,16 +4,17 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000024,
     "geom:area_square_m":0.0,
-    "geom:bbox":"67.033,24.8725,67.033,24.8725",
-    "geom:latitude":24.8725,
-    "geom:longitude":67.033,
+    "geom:bbox":"67.028555,24.869511,67.035856,24.875435",
+    "geom:latitude":24.872451,
+    "geom:longitude":67.031971,
     "iso:country":"PK",
-    "lbl:bbox":"67.028,24.8675,67.038,24.8775",
+    "lbl:latitude":24.872221,
+    "lbl:longitude":67.031916,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
@@ -37,13 +38,19 @@
     "qs:qs_id":59345,
     "qs:woe_adm0":23424922,
     "qs:woe_id":2205423,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.872221,
+    "reversegeo:longitude":67.031916,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
         421191101,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,7 +60,7 @@
     },
     "wof:country":"PK",
     "wof:created":1459010148,
-    "wof:geomhash":"1e6386870af89b8145a7f9bd87b03f78",
+    "wof:geomhash":"826ed5cc183b39af8ae1dcf262cb615d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":421203343,
-    "wof:lastmodified":1578086871,
+    "wof:lastmodified":1659398941,
     "wof:name":"P\u00e5rsi Colony",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
@@ -75,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.033,
-    24.8725,
-    67.033,
-    24.8725
+    67.028555,
+    24.869511,
+    67.035856,
+    24.875435
 ],
-  "geometry": {"coordinates":[67.033,24.8725],"type":"Point"}
+  "geometry": {"coordinates":[[[67.035856,24.872636],[67.035613,24.872258],[67.035298,24.871764],[67.035003,24.871511],[67.034566,24.871246],[67.03360600000001,24.870596],[67.033435,24.870485],[67.032054,24.869586],[67.031927,24.869511],[67.03023899999999,24.870817],[67.029071,24.871743],[67.028555,24.872206],[67.028908,24.873257],[67.02905,24.873679],[67.029208,24.873984],[67.02977799999999,24.874351],[67.030249,24.874626],[67.03155099999999,24.875435],[67.031691,24.875226],[67.032059,24.874731],[67.03288999999999,24.874047],[67.033385,24.873595],[67.03399,24.874168],[67.034374,24.873874],[67.034953,24.873337],[67.035721,24.872727],[67.035856,24.872636]]],"type":"Polygon"}
 }
