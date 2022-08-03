@@ -1,0 +1,79 @@
+{
+  "id": 1780038593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97161,30.96335,70.97161,30.96335",
+    "geom:latitude":30.96335,
+    "geom:longitude":70.97161,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sukhewala",
+    "gn:country_code":"PK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354631,
+    "gn:latitude":30.96335,
+    "gn:longitude":70.97161,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Sukhewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.95161,30.94335,70.99161,30.98335",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sukhiw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1225844465,
+        1108692283,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354631
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d5844e459973360b37784a1a35f117c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1225844465,
+            "neighbourhood_id":1780038593,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038593,
+    "wof:lastmodified":1659484743,
+    "wof:name":"Sukhewala",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225844465
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97161,
+    30.96335,
+    70.97161,
+    30.96335
+],
+  "geometry": {"coordinates":[70.97161,30.96335],"type":"Point"}
+}

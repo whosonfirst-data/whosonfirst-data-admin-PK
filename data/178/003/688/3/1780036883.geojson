@@ -1,0 +1,76 @@
+{
+  "id": 1780036883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16339,33.63296,73.16339,33.63296",
+    "geom:latitude":33.63296,
+    "geom:longitude":73.16339,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Gurha Sardar",
+    "gn:country_code":"PK",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177482,
+    "gn:latitude":33.63296,
+    "gn:longitude":73.16339,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Gurha Sardar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.14339,33.61296,73.18339,33.65296",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293873581,
+        1108692213,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177482
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b45c5c5541198423cc35cded2a129894",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1293873581,
+            "neighbourhood_id":1780036883,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780036883,
+    "wof:lastmodified":1659484749,
+    "wof:name":"Gurha Sardar",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293873581
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16339,
+    33.63296,
+    73.16339,
+    33.63296
+],
+  "geometry": {"coordinates":[73.16339000000001,33.63296],"type":"Point"}
+}

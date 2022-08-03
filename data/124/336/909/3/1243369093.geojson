@@ -2,7 +2,7 @@
   "id": 1243369093,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Amar"
@@ -44,7 +44,7 @@
         "gn:id":1412868
     },
     "wof:country":"PK",
-    "wof:geomhash":"4469d89842a3c9f61c4e1c65d9afbaf6",
+    "wof:geomhash":"57fed85ea9d8452bd72a61362546ca6c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +55,22 @@
         }
     ],
     "wof:id":1243369093,
-    "wof:lastmodified":1566591886,
+    "wof:lastmodified":1659484803,
     "wof:name":"Amar Colony",
     "wof:parent_id":1108692197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037907
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.05660999999998,
+    74.05661,
     32.58693,
-    74.05660999999998,
+    74.05661,
     32.58693
 ],
-  "geometry": {"coordinates":[74.05660999999998,32.58693],"type":"Point"}
+  "geometry": {"coordinates":[74.05661000000001,32.58693],"type":"Point"}
 }

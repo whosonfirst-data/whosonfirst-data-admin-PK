@@ -1,0 +1,76 @@
+{
+  "id": 1780038269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49861,30.21667,71.49861,30.21667",
+    "geom:latitude":30.21667,
+    "geom:longitude":71.49861,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bishan Daswala",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409695,
+    "gn:latitude":30.21667,
+    "gn:longitude":71.49861,
+    "gn:modification_date":"2001-12-13",
+    "gn:name":"Bishan D\u0101sw\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.47861,30.19667,71.51861,30.23667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259788843,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409695
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33779e7b2b773af4cefa0dba05a2d125",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1259788843,
+            "neighbourhood_id":1780038269,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038269,
+    "wof:lastmodified":1659484789,
+    "wof:name":"Bishan Daswala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259788843
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49861,
+    30.21667,
+    71.49861,
+    30.21667
+],
+  "geometry": {"coordinates":[71.49861,30.21667],"type":"Point"}
+}

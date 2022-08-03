@@ -1,0 +1,79 @@
+{
+  "id": 1780037593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57293,30.38476,68.57293,30.38476",
+    "geom:latitude":30.38476,
+    "geom:longitude":68.57293,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Rodlin",
+    "gn:country_code":"PK",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353309,
+    "gn:latitude":30.38476,
+    "gn:longitude":68.57293,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Rodlin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.55293,30.36476,68.59293,30.40476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Rodl\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310407817,
+        890420091,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353309
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"432c07c719f48c23cd2c83579fb92d6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1310407817,
+            "neighbourhood_id":1780037593,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037593,
+    "wof:lastmodified":1659484782,
+    "wof:name":"Rodlin",
+    "wof:parent_id":890420091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310407817
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57293,
+    30.38476,
+    68.57293,
+    30.38476
+],
+  "geometry": {"coordinates":[68.57293,30.38476],"type":"Point"}
+}

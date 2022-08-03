@@ -1,0 +1,76 @@
+{
+  "id": 1780036447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.30363,31.2794,72.30363,31.2794",
+    "geom:latitude":31.2794,
+    "geom:longitude":72.30363,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mahalla Bhabrana",
+    "gn:country_code":"PK",
+    "gn:dem":154,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11464215,
+    "gn:latitude":31.2794,
+    "gn:longitude":72.30363,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mahalla Bhabrana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.28363,31.2594,72.32363,31.2994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343493295,
+        1108692223,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11464215
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3c3e188b2c94c192c3acfdae9d617203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1343493295,
+            "neighbourhood_id":1780036447,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036447,
+    "wof:lastmodified":1659484783,
+    "wof:name":"Mahalla Bhabrana",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343493295
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.30363,
+    31.2794,
+    72.30363,
+    31.2794
+],
+  "geometry": {"coordinates":[72.30363,31.2794],"type":"Point"}
+}

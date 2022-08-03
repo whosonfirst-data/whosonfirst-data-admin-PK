@@ -1,0 +1,88 @@
+{
+  "id": 1780038111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.93775,33.99177,72.93775,33.99177",
+    "geom:latitude":33.99177,
+    "geom:longitude":72.93775,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Pandak",
+    "gn:country_code":"PK",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1338661,
+    "gn:latitude":33.99177,
+    "gn:longitude":72.93775,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Pandak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.91775,33.97177,72.95775,34.01177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Pandak"
+    ],
+    "name:ind_x_preferred":[
+        "Pandak"
+    ],
+    "name:nld_x_preferred":[
+        "Pandak"
+    ],
+    "name:swe_x_preferred":[
+        "Pandak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243455545,
+        1108692205,
+        85675763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1338661
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fe9751e843521e7687b2bd7605e3359a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692205,
+            "locality_id":1243455545,
+            "neighbourhood_id":1780038111,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1780038111,
+    "wof:lastmodified":1659484748,
+    "wof:name":"Pandak",
+    "wof:parent_id":1108692205,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243455545
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93775,
+    33.99177,
+    72.93775,
+    33.99177
+],
+  "geometry": {"coordinates":[72.93774999999999,33.99177],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1780036457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78947,32.81207,70.78947,32.81207",
+    "geom:latitude":32.81207,
+    "geom:longitude":70.78947,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Nar Abu Samand",
+    "gn:country_code":"PK",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334476,
+    "gn:latitude":32.81207,
+    "gn:longitude":70.78947,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Nar Abu Samand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.76947,32.79207,70.80947,32.83207",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0646\u0631\u0627\u0628\u0648\u0633\u0645\u062f \u0628\u06cc\u06af\u0648\u062e\u06cc\u0644"
+    ],
+    "name:und_x_variant":[
+        "Abu Samand Begu Khel",
+        "Nar Abu Samand"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0631 \u0627\u0628\u0648 \u0633\u0645\u062f \u0628\u06cc\u06af\u0648 \u062e\u06cc\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343958749,
+        1108692275,
+        85675763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334476,
+        "wk:page":"Nar_Abu_Samand_Begu_Khel"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a8bacce411790bae3d2bdf121f98a6a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1343958749,
+            "neighbourhood_id":1780036457,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1780036457,
+    "wof:lastmodified":1659484814,
+    "wof:name":"Nar Abu Samand",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343958749
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78947,
+    32.81207,
+    70.78947,
+    32.81207
+],
+  "geometry": {"coordinates":[70.78946999999999,32.81207],"type":"Point"}
+}

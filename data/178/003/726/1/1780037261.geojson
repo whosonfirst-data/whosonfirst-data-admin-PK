@@ -1,0 +1,79 @@
+{
+  "id": 1780037261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43904,30.23742,71.43904,30.23742",
+    "geom:latitude":30.23742,
+    "geom:longitude":71.43904,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Thattiwala",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465394,
+    "gn:latitude":30.23742,
+    "gn:longitude":71.43904,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thattiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.41904,30.21742,71.45904,30.25742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Thathi Senjial"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209715215,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465394
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c4e4e4cd541514c6014c1968aece0409",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1209715215,
+            "neighbourhood_id":1780037261,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037261,
+    "wof:lastmodified":1659484776,
+    "wof:name":"Thattiwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209715215
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43904,
+    30.23742,
+    71.43904,
+    30.23742
+],
+  "geometry": {"coordinates":[71.43904000000001,30.23742],"type":"Point"}
+}

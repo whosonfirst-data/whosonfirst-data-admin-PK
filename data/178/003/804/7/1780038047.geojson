@@ -1,0 +1,76 @@
+{
+  "id": 1780038047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56753,32.58991,71.56753,32.58991",
+    "geom:latitude":32.58991,
+    "geom:longitude":71.56753,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Arrianwali Wandhi",
+    "gn:country_code":"PK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322018,
+    "gn:latitude":32.58991,
+    "gn:longitude":71.56753,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Arrianwali Wandhi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.54753,32.56991,71.58753,32.60991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243577297,
+        1108692305,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322018
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b38525d90084ad9f98e3cee209701634",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1243577297,
+            "neighbourhood_id":1780038047,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038047,
+    "wof:lastmodified":1659484807,
+    "wof:name":"Arrianwali Wandhi",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243577297
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56753,
+    32.58991,
+    71.56753,
+    32.58991
+],
+  "geometry": {"coordinates":[71.56753,32.58991],"type":"Point"}
+}

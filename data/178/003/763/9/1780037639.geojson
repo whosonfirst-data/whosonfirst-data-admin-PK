@@ -1,0 +1,76 @@
+{
+  "id": 1780037639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51736,30.23426,71.51736,30.23426",
+    "geom:latitude":30.23426,
+    "geom:longitude":71.51736,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhorewala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1356742,
+    "gn:latitude":30.23426,
+    "gn:longitude":71.51736,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhorewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.49736,30.21426,71.53736,30.25426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310428605,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1356742
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2e460d8792733cda85f483404e1d9c28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1310428605,
+            "neighbourhood_id":1780037639,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037639,
+    "wof:lastmodified":1659484798,
+    "wof:name":"Dhorewala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310428605
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51736,
+    30.23426,
+    71.51736,
+    30.23426
+],
+  "geometry": {"coordinates":[71.51736,30.23426],"type":"Point"}
+}

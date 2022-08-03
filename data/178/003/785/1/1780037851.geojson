@@ -1,0 +1,76 @@
+{
+  "id": 1780037851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41332,30.19681,71.41332,30.19681",
+    "geom:latitude":30.19681,
+    "geom:longitude":71.41332,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chuh Yusufwala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348876,
+    "gn:latitude":30.19681,
+    "gn:longitude":71.41332,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chuh Yusufwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.39332,30.17681,71.43332,30.21681",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1309744045,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348876
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"10711ff672891d0d7058cf4d3447f616",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1309744045,
+            "neighbourhood_id":1780037851,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037851,
+    "wof:lastmodified":1659484771,
+    "wof:name":"Chuh Yusufwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309744045
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41332,
+    30.19681,
+    71.41332,
+    30.19681
+],
+  "geometry": {"coordinates":[71.41332,30.19681],"type":"Point"}
+}

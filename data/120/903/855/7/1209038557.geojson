@@ -2,7 +2,7 @@
   "id": 1209038557,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -38,7 +38,7 @@
         "gn:id":1379748
     },
     "wof:country":"PK",
-    "wof:geomhash":"6c60f7d5222fc6d80e3ec63133d1468e",
+    "wof:geomhash":"163d7694f21ccf389f6acee97ceced56",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -46,20 +46,22 @@
         }
     ],
     "wof:id":1209038557,
-    "wof:lastmodified":1566588891,
+    "wof:lastmodified":1659484743,
     "wof:name":"Kotli Shaikhan",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037301
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.20463000000002,
+    73.20463,
     32.55593,
-    73.20463000000002,
+    73.20463,
     32.55593
 ],
-  "geometry": {"coordinates":[73.20463000000002,32.55593],"type":"Point"}
+  "geometry": {"coordinates":[73.20462999999999,32.55593],"type":"Point"}
 }

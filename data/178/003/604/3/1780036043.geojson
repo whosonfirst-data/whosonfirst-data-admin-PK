@@ -1,0 +1,80 @@
+{
+  "id": 1780036043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.54295,30.1699,71.54295,30.1699",
+    "geom:latitude":30.1699,
+    "geom:longitude":71.54295,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Amirwala",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1356804,
+    "gn:latitude":30.1699,
+    "gn:longitude":71.54295,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Amirwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.52295,30.1499,71.56295,30.1899",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Amirw\u0101la",
+        "Basti Amirwali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1326729905,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1356804
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"65da50e3bbb4efd01e3800a7dbf1772f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1326729905,
+            "neighbourhood_id":1780036043,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036043,
+    "wof:lastmodified":1659484758,
+    "wof:name":"Amirwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326729905
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.54295,
+    30.1699,
+    71.54295,
+    30.1699
+],
+  "geometry": {"coordinates":[71.54295,30.1699],"type":"Point"}
+}

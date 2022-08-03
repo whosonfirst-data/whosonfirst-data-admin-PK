@@ -1,0 +1,79 @@
+{
+  "id": 1780037223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.1419,28.29647,70.1419,28.29647",
+    "geom:latitude":28.29647,
+    "geom:longitude":70.1419,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rashid Colony",
+    "gn:country_code":"PK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355240,
+    "gn:latitude":28.29647,
+    "gn:longitude":70.1419,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Rashid Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.1219,28.27647,70.1619,28.31647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Rashid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209838957,
+        1108692357,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355240
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a226a4a49c814bde031963692577cae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1209838957,
+            "neighbourhood_id":1780037223,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037223,
+    "wof:lastmodified":1659484793,
+    "wof:name":"Rashid Colony",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209838957
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.1419,
+    28.29647,
+    70.1419,
+    28.29647
+],
+  "geometry": {"coordinates":[70.14190000000001,28.29647],"type":"Point"}
+}

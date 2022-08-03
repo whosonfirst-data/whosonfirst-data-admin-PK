@@ -1,0 +1,76 @@
+{
+  "id": 1780037005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64488,25.7533,68.64488,25.7533",
+    "geom:latitude":25.7533,
+    "geom:longitude":68.64488,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Colonel Muhammad Hanif",
+    "gn:country_code":"PK",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372242,
+    "gn:latitude":25.7533,
+    "gn:longitude":68.64488,
+    "gn:modification_date":"2018-04-08",
+    "gn:name":"Goth Colonel Muhammad Hanif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.62488,25.7333,68.66488,25.7733",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276332657,
+        1108692365,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372242
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8d0554d8077dd5bc1628e354b61946b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1276332657,
+            "neighbourhood_id":1780037005,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037005,
+    "wof:lastmodified":1659484755,
+    "wof:name":"Goth Colonel Muhammad Hanif",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276332657
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64488,
+    25.7533,
+    68.64488,
+    25.7533
+],
+  "geometry": {"coordinates":[68.64488,25.7533],"type":"Point"}
+}

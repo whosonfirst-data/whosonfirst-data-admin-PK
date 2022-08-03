@@ -1,0 +1,74 @@
+{
+  "id": 1780037887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.07331,34.99908,72.07331,34.99908",
+    "geom:latitude":34.99908,
+    "geom:longitude":72.07331,
+    "gn:country":"PK",
+    "gn:fcode":"PPL",
+    "gn:population":10,
+    "iso:country":"PK",
+    "lbl:bbox":"72.05331,34.97908,72.09331,35.01908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":11.0,
+    "qs:name":"Asad Ullah Khan Dirvi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890452363,
+        1108692419,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8426447,
+        "qs_pg:id":770853
+    },
+    "wof:country":"PK",
+    "wof:created":1469052814,
+    "wof:geomhash":"838e640ed8ceae09da8512d02c60581b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":890452363,
+            "neighbourhood_id":1780037887,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037887,
+    "wof:lastmodified":1659484722,
+    "wof:name":"Asad Ullah Khan Dirvi",
+    "wof:parent_id":1108692419,
+    "wof:placetype":"neighbourhood",
+    "wof:population":10,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        890452363
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.07331,
+    34.99908,
+    72.07331,
+    34.99908
+],
+  "geometry": {"coordinates":[72.07331000000001,34.99908],"type":"Point"}
+}

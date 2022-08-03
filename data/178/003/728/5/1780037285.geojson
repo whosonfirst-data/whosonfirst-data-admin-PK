@@ -1,0 +1,80 @@
+{
+  "id": 1780037285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62376,32.98159,70.62376,32.98159",
+    "geom:latitude":32.98159,
+    "geom:longitude":70.62376,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sher Ahmad Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":368,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332870,
+    "gn:latitude":32.98159,
+    "gn:longitude":70.62376,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Sher Ahmad Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.60376,32.96159,70.64376,33.00159",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sher Ahmad Kili",
+        "Sher Ahmad Kalle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209616069,
+        1108692137,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332870
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"68bcaf3097cd2c883ccbc9a75b5f8027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1209616069,
+            "neighbourhood_id":1780037285,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037285,
+    "wof:lastmodified":1659484813,
+    "wof:name":"Sher Ahmad Kalle",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209616069
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62376,
+    32.98159,
+    70.62376,
+    32.98159
+],
+  "geometry": {"coordinates":[70.62376,32.98159],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1780038353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.82331,32.78483,73.82331,32.78483",
+    "geom:latitude":32.78483,
+    "geom:longitude":73.82331,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mohmand Chak",
+    "gn:country_code":"PK",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181759,
+    "gn:latitude":32.78483,
+    "gn:longitude":73.82331,
+    "gn:modification_date":"2016-02-06",
+    "gn:name":"Mohmand Chak",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.80331,32.76483,73.84331,32.80483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Chak Muhammad",
+        "Chak Mahm\u016bd",
+        "Mohmand Chak"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259806727,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181759
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"68b8126414d1dabe34757289d0900cf2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1259806727,
+            "neighbourhood_id":1780038353,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038353,
+    "wof:lastmodified":1659484722,
+    "wof:name":"Mohmand Chak",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259806727
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.82331,
+    32.78483,
+    73.82331,
+    32.78483
+],
+  "geometry": {"coordinates":[73.82331000000001,32.78483],"type":"Point"}
+}

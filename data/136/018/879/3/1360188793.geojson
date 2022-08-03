@@ -2,7 +2,7 @@
   "id": 1360188793,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":1359297
     },
     "wof:country":"PK",
-    "wof:geomhash":"7b6b07d0f7e14afabb8acca399022037",
+    "wof:geomhash":"ffab5e5b4a8cee7ebf64ab4c08cee19d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1360188793,
-    "wof:lastmodified":1566591245,
+    "wof:lastmodified":1659484794,
     "wof:name":"Alam Khar Talpur",
     "wof:parent_id":1108692403,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037781
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.54583000000001,
+    68.54583,
     25.12778,
-    68.54583000000001,
+    68.54583,
     25.12778
 ],
-  "geometry": {"coordinates":[68.54583000000001,25.12778],"type":"Point"}
+  "geometry": {"coordinates":[68.54583,25.12778],"type":"Point"}
 }

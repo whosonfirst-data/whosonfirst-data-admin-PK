@@ -1,0 +1,76 @@
+{
+  "id": 1780036249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.68197,31.15695,72.68197,31.15695",
+    "geom:latitude":31.15695,
+    "geom:longitude":72.68197,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulistari Cinema",
+    "gn:country_code":"PK",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11491375,
+    "gn:latitude":31.15695,
+    "gn:longitude":72.68197,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gulistari Cinema",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.66197,31.13695,72.70197,31.17695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1326553199,
+        1108692413,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11491375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e071087212845762738e8a42e731dc64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1326553199,
+            "neighbourhood_id":1780036249,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036249,
+    "wof:lastmodified":1659484726,
+    "wof:name":"Gulistari Cinema",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326553199
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68197,
+    31.15695,
+    72.68197,
+    31.15695
+],
+  "geometry": {"coordinates":[72.68197000000001,31.15695],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780037385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65399,28.66292,70.65399,28.66292",
+    "geom:latitude":28.66292,
+    "geom:longitude":70.65399,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Aslam Madni",
+    "gn:country_code":"PK",
+    "gn:dem":91,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11547410,
+    "gn:latitude":28.66292,
+    "gn:longitude":70.65399,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Aslam Madni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.63399,28.64292,70.67399,28.68292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209721263,
+        1108692357,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11547410
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7d06adf1787aba9ca884b35971577d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":1209721263,
+            "neighbourhood_id":1780037385,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037385,
+    "wof:lastmodified":1659484744,
+    "wof:name":"Aslam Madni",
+    "wof:parent_id":1108692357,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209721263
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65399,
+    28.66292,
+    70.65399,
+    28.66292
+],
+  "geometry": {"coordinates":[70.65398999999999,28.66292],"type":"Point"}
+}

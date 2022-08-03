@@ -1,0 +1,79 @@
+{
+  "id": 1780037863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.62053,25.79742,66.62053,25.79742",
+    "geom:latitude":25.79742,
+    "geom:longitude":66.62053,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Goth Durra",
+    "gn:country_code":"PK",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1343537,
+    "gn:latitude":25.79742,
+    "gn:longitude":66.62053,
+    "gn:modification_date":"2016-04-11",
+    "gn:name":"Goth Durra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.60053,25.77742,66.64053,25.81742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Durra Goth"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1309816019,
+        1108692281,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1343537
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"062ffdb46086b2877300841065eca380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692281,
+            "locality_id":1309816019,
+            "neighbourhood_id":1780037863,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037863,
+    "wof:lastmodified":1659484727,
+    "wof:name":"Goth Durra",
+    "wof:parent_id":1108692281,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309816019
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.62053,
+    25.79742,
+    66.62053,
+    25.79742
+],
+  "geometry": {"coordinates":[66.62053,25.79742],"type":"Point"}
+}

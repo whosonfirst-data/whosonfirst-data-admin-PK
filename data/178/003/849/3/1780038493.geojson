@@ -1,0 +1,76 @@
+{
+  "id": 1780038493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.22446,32.04631,74.22446,32.04631",
+    "geom:latitude":32.04631,
+    "geom:longitude":74.22446,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khan Piara",
+    "gn:country_code":"PK",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413216,
+    "gn:latitude":32.04631,
+    "gn:longitude":74.22446,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Khan Piara",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.20446,32.02631,74.24446,32.06631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1226148295,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413216
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3f59467d12237ce20ad95e87e22e8182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1226148295,
+            "neighbourhood_id":1780038493,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038493,
+    "wof:lastmodified":1659484744,
+    "wof:name":"Khan Piara",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226148295
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.22446,
+    32.04631,
+    74.22446,
+    32.04631
+],
+  "geometry": {"coordinates":[74.22445999999999,32.04631],"type":"Point"}
+}

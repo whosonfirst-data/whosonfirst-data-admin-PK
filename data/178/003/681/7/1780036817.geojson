@@ -1,0 +1,79 @@
+{
+  "id": 1780036817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64756,30.07648,70.64756,30.07648",
+    "geom:latitude":30.07648,
+    "geom:longitude":70.64756,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kot Halbat",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505165,
+    "gn:latitude":30.07648,
+    "gn:longitude":70.64756,
+    "gn:modification_date":"2017-09-05",
+    "gn:name":"Kot Halbat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.62756,30.05648,70.66756,30.09648",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kot Halbat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293023849,
+        1108692163,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505165
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0d9f00195d4873faac4255f83df2c99c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":1293023849,
+            "neighbourhood_id":1780036817,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036817,
+    "wof:lastmodified":1659484754,
+    "wof:name":"Kot Halbat",
+    "wof:parent_id":1108692163,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293023849
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64756,
+    30.07648,
+    70.64756,
+    30.07648
+],
+  "geometry": {"coordinates":[70.64756,30.07648],"type":"Point"}
+}

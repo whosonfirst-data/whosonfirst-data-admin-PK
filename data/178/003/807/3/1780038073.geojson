@@ -1,0 +1,76 @@
+{
+  "id": 1780038073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84283,24.64333,68.84283,24.64333",
+    "geom:latitude":24.64333,
+    "geom:longitude":68.84283,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sumro",
+    "gn:country_code":"PK",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376024,
+    "gn:latitude":24.64333,
+    "gn:longitude":68.84283,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Sumro",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.82283,24.62333,68.86283,24.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1242782165,
+        1108692123,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376024
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ed2767306cb9b61d49285f1d46f8fc6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1242782165,
+            "neighbourhood_id":1780038073,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038073,
+    "wof:lastmodified":1659484746,
+    "wof:name":"Sumro",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242782165
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84283,
+    24.64333,
+    68.84283,
+    24.64333
+],
+  "geometry": {"coordinates":[68.84283000000001,24.64333],"type":"Point"}
+}

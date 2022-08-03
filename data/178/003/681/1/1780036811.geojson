@@ -1,0 +1,76 @@
+{
+  "id": 1780036811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42987,30.21286,71.42987,30.21286",
+    "geom:latitude":30.21286,
+    "geom:longitude":71.42987,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Tindiwala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409689,
+    "gn:latitude":30.21286,
+    "gn:longitude":71.42987,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Tindiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.40987,30.19286,71.44987,30.23286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293588815,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409689
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"958e0a6be073f3483286dedf60716a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1293588815,
+            "neighbourhood_id":1780036811,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036811,
+    "wof:lastmodified":1659484828,
+    "wof:name":"Tindiwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293588815
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42987,
+    30.21286,
+    71.42987,
+    30.21286
+],
+  "geometry": {"coordinates":[71.42986999999999,30.21286],"type":"Point"}
+}

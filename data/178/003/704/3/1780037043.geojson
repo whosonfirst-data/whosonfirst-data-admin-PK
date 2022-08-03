@@ -1,0 +1,76 @@
+{
+  "id": 1780037043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.9122,32.34827,74.9122,32.34827",
+    "geom:latitude":32.34827,
+    "geom:longitude":74.9122,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mahal Jalalpur",
+    "gn:country_code":"PK",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11465185,
+    "gn:latitude":32.34827,
+    "gn:longitude":74.9122,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Mahal Jalalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.8922,32.32827,74.9322,32.36827",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276227039,
+        1108692325,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11465185
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"51ecf3967abd49dbff4fd2924bbf6084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1276227039,
+            "neighbourhood_id":1780037043,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037043,
+    "wof:lastmodified":1659484800,
+    "wof:name":"Mahal Jalalpur",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276227039
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.9122,
+    32.34827,
+    74.9122,
+    32.34827
+],
+  "geometry": {"coordinates":[74.9122,32.34827],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1780037537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.22917,27.5475,68.22917,27.5475",
+    "geom:latitude":27.5475,
+    "geom:longitude":68.22917,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Baharpur",
+    "gn:country_code":"PK",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1357443,
+    "gn:latitude":27.5475,
+    "gn:longitude":68.22917,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Baharpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.20917,27.5275,68.24917,27.5675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bah\u0101rpur"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1260174523,
+        1108692277,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1357443
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"901383498704741830ef46d7860ae7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692277,
+            "locality_id":1260174523,
+            "neighbourhood_id":1780037537,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037537,
+    "wof:lastmodified":1659484780,
+    "wof:name":"Baharpur",
+    "wof:parent_id":1108692277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260174523
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.22917,
+    27.5475,
+    68.22917,
+    27.5475
+],
+  "geometry": {"coordinates":[68.22917,27.5475],"type":"Point"}
+}

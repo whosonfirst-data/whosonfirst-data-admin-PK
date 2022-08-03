@@ -1,0 +1,82 @@
+{
+  "id": 1780038575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21129,31.45204,73.21129,31.45204",
+    "geom:latitude":31.45204,
+    "geom:longitude":73.21129,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Two Hundred Five Rakh Branch",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110994,
+    "gn:latitude":31.45204,
+    "gn:longitude":73.21129,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Chak Two Hundred Five Rakh Branch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.19129,31.43204,73.23129,31.47204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sard\u0101r Kh\u0101nw\u0101la",
+        "Chak Two Hundred Five RB",
+        "Chak Two Hundred Five Rakh Branch",
+        "Waz\u012br Singhw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1226077525,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110994
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"914c4f7f34ea3776873cf66930dbab48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1226077525,
+            "neighbourhood_id":1780038575,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038575,
+    "wof:lastmodified":1659484821,
+    "wof:name":"Chak Two Hundred Five Rakh Branch",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226077525
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21129,
+    31.45204,
+    73.21129,
+    31.45204
+],
+  "geometry": {"coordinates":[73.21129000000001,31.45204],"type":"Point"}
+}

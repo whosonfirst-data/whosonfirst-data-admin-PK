@@ -1,0 +1,76 @@
+{
+  "id": 1780038195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.3,28.0,69.3,28.0",
+    "geom:latitude":28.0,
+    "geom:longitude":69.3,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Odhar Wali",
+    "gn:country_code":"PK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168729,
+    "gn:latitude":28.0,
+    "gn:longitude":69.3,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"Odhar Wali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"69.28,27.98,69.32,28.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259984011,
+        1108692191,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168729
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"44c437aacdb69e4d80c6b2cd902718ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692191,
+            "locality_id":1259984011,
+            "neighbourhood_id":1780038195,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038195,
+    "wof:lastmodified":1659484816,
+    "wof:name":"Odhar Wali",
+    "wof:parent_id":1108692191,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259984011
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.3,
+    28.0,
+    69.3,
+    28.0
+],
+  "geometry": {"coordinates":[69.3,28.0],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1780038417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51048,30.15376,71.51048,30.15376",
+    "geom:latitude":30.15376,
+    "geom:longitude":71.51048,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bheikiwala",
+    "gn:country_code":"PK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1356805,
+    "gn:latitude":30.15376,
+    "gn:longitude":71.51048,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bheikiwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.49048,30.13376,71.53048,30.17376",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bhirk\u012bw\u0101la",
+        "Basti Elpur",
+        "Bheikiwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1226448097,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1356805
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05e6ca26897392fb4c5ce90e875e3a68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1226448097,
+            "neighbourhood_id":1780038417,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038417,
+    "wof:lastmodified":1659484786,
+    "wof:name":"Bheikiwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226448097
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51048,
+    30.15376,
+    71.51048,
+    30.15376
+],
+  "geometry": {"coordinates":[71.51048,30.15376],"type":"Point"}
+}

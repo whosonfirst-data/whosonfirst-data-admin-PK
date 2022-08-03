@@ -1,0 +1,70 @@
+{
+  "id": 1780037299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.93456,30.57526,70.93456,30.57526",
+    "geom:latitude":30.57526,
+    "geom:longitude":70.93456,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Kumhar",
+    "gn:country_code":"PK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11178215,
+    "gn:latitude":30.57526,
+    "gn:longitude":70.93456,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Basti Kumhar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.91456,30.55526,70.95456,30.59526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209038939,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11178215
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"01a4d02e5a079d8c88ee45145e01d6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209038939,
+            "neighbourhood_id":1780037299
+        }
+    ],
+    "wof:id":1780037299,
+    "wof:lastmodified":1659484724,
+    "wof:name":"Basti Kumhar",
+    "wof:parent_id":85632659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209038939
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.93456,
+    30.57526,
+    70.93456,
+    30.57526
+],
+  "geometry": {"coordinates":[70.93456,30.57526],"type":"Point"}
+}

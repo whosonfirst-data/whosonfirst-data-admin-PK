@@ -2,7 +2,7 @@
   "id": 1276333763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11086425
     },
     "wof:country":"PK",
-    "wof:geomhash":"d8b2e762da2feaabb459a9a177cdf48b",
+    "wof:geomhash":"91e80b9a9d66ede59f98053e7166f112",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1276333763,
-    "wof:lastmodified":1566587091,
+    "wof:lastmodified":1659484812,
     "wof:name":"Jattuwala",
     "wof:parent_id":1108692127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036999
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.23111999999998,
+    73.23112,
     29.99876,
-    73.23111999999998,
+    73.23112,
     29.99876
 ],
-  "geometry": {"coordinates":[73.23111999999998,29.99876],"type":"Point"}
+  "geometry": {"coordinates":[73.23112,29.99876],"type":"Point"}
 }

@@ -1,0 +1,76 @@
+{
+  "id": 1780037651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.42485,28.28073,68.42485,28.28073",
+    "geom:latitude":28.28073,
+    "geom:longitude":68.42485,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Mochi Khana",
+    "gn:country_code":"PK",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465106,
+    "gn:latitude":28.28073,
+    "gn:longitude":68.42485,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mochi Khana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.40485,28.26073,68.44485,28.30073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310110099,
+        1108692215,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465106
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c8af8a195639bd2b987bd7877f273835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692215,
+            "locality_id":1310110099,
+            "neighbourhood_id":1780037651,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037651,
+    "wof:lastmodified":1659484741,
+    "wof:name":"Mochi Khana",
+    "wof:parent_id":1108692215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310110099
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.42485,
+    28.28073,
+    68.42485,
+    28.28073
+],
+  "geometry": {"coordinates":[68.42485000000001,28.28073],"type":"Point"}
+}

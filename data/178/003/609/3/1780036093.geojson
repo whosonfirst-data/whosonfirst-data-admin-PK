@@ -1,0 +1,76 @@
+{
+  "id": 1780036093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.08766,32.58099,74.08766,32.58099",
+    "geom:latitude":32.58099,
+    "geom:longitude":74.08766,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Nawan Wangpur",
+    "gn:country_code":"PK",
+    "gn:dem":231,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412875,
+    "gn:latitude":32.58099,
+    "gn:longitude":74.08766,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nawan Wangpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.06766,32.56099,74.10766,32.60099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1326930055,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412875
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"850cae4d1b4b240a273609f55ff9cfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1326930055,
+            "neighbourhood_id":1780036093,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036093,
+    "wof:lastmodified":1659484727,
+    "wof:name":"Nawan Wangpur",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326930055
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.08766,
+    32.58099,
+    74.08766,
+    32.58099
+],
+  "geometry": {"coordinates":[74.08766,32.58099],"type":"Point"}
+}

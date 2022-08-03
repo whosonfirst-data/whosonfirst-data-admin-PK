@@ -1,0 +1,76 @@
+{
+  "id": 1780037653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.33231,32.31112,72.33231,32.31112",
+    "geom:latitude":32.31112,
+    "geom:longitude":72.33231,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Badliwala",
+    "gn:country_code":"PK",
+    "gn:dem":186,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7109132,
+    "gn:latitude":32.31112,
+    "gn:longitude":72.33231,
+    "gn:modification_date":"2017-12-09",
+    "gn:name":"Badliwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.31231,32.29112,72.35231,32.33112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310111173,
+        1108692251,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7109132
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8c16adc57c0742c96668e3c5145c2d1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692251,
+            "locality_id":1310111173,
+            "neighbourhood_id":1780037653,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037653,
+    "wof:lastmodified":1659484799,
+    "wof:name":"Badliwala",
+    "wof:parent_id":1108692251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310111173
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.33231,
+    32.31112,
+    72.33231,
+    32.31112
+],
+  "geometry": {"coordinates":[72.33231000000001,32.31112],"type":"Point"}
+}

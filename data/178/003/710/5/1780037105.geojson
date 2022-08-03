@@ -1,0 +1,82 @@
+{
+  "id": 1780037105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97044,30.45138,70.97044,30.45138",
+    "geom:latitude":30.45138,
+    "geom:longitude":70.97044,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotla",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173060,
+    "gn:latitude":30.45138,
+    "gn:longitude":70.97044,
+    "gn:modification_date":"2017-10-03",
+    "gn:name":"Kotla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.95044,30.43138,70.99044,30.47138",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kotlew\u0101la"
+    ],
+    "name:eng_x_variant":[
+        "Kotla"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276553181,
+        1108692321,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173060
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2616363d3eb351342c3f76fbc798e81f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1276553181,
+            "neighbourhood_id":1780037105,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037105,
+    "wof:lastmodified":1659484819,
+    "wof:name":"Kotla",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276553181
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97044,
+    30.45138,
+    70.97044,
+    30.45138
+],
+  "geometry": {"coordinates":[70.97044,30.45138],"type":"Point"}
+}

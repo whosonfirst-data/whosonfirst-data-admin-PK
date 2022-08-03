@@ -1,0 +1,76 @@
+{
+  "id": 1780037763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.66102,31.98822,74.66102,31.98822",
+    "geom:latitude":31.98822,
+    "geom:longitude":74.66102,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kot Din Muhammad",
+    "gn:country_code":"PK",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7467636,
+    "gn:latitude":31.98822,
+    "gn:longitude":74.66102,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kot Din Muhammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.64102,31.96822,74.68102,32.00822",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1360084373,
+        1108692325,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7467636
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b8c1429688e59d3b8629a4bb3d6b7def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1360084373,
+            "neighbourhood_id":1780037763,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037763,
+    "wof:lastmodified":1659484740,
+    "wof:name":"Kot Din Muhammad",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360084373
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.66102,
+    31.98822,
+    74.66102,
+    31.98822
+],
+  "geometry": {"coordinates":[74.66101999999999,31.98822],"type":"Point"}
+}

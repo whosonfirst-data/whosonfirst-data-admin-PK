@@ -1,0 +1,76 @@
+{
+  "id": 1780037693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.32404,31.25451,72.32404,31.25451",
+    "geom:latitude":31.25451,
+    "geom:longitude":72.32404,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chy",
+    "gn:country_code":"PK",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329638,
+    "gn:latitude":31.25451,
+    "gn:longitude":72.32404,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chy",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.30404,31.23451,72.34404,31.27451",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310337707,
+        1108692223,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329638
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d532323d74024c4b25a4f4eafe29bf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1310337707,
+            "neighbourhood_id":1780037693,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037693,
+    "wof:lastmodified":1659484740,
+    "wof:name":"Chy",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310337707
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.32404,
+    31.25451,
+    72.32404,
+    31.25451
+],
+  "geometry": {"coordinates":[72.32404,31.25451],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780037227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.90677,31.74841,72.90677,31.74841",
+    "geom:latitude":31.74841,
+    "geom:longitude":72.90677,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Khichi",
+    "gn:country_code":"PK",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382409,
+    "gn:latitude":31.74841,
+    "gn:longitude":72.90677,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Khichi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.88677,31.72841,72.92677,31.76841",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209838783,
+        1108692155,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382409
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cc38f27dffdf222b583b3dbc484f6048",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":1209838783,
+            "neighbourhood_id":1780037227,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037227,
+    "wof:lastmodified":1659484785,
+    "wof:name":"Khichi",
+    "wof:parent_id":1108692155,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209838783
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.90677,
+    31.74841,
+    72.90677,
+    31.74841
+],
+  "geometry": {"coordinates":[72.90676999999999,31.74841],"type":"Point"}
+}

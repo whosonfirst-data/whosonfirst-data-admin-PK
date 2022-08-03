@@ -1,0 +1,76 @@
+{
+  "id": 1780037177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.46278,30.21785,71.46278,30.21785",
+    "geom:latitude":30.21785,
+    "geom:longitude":71.46278,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chah Thulwala",
+    "gn:country_code":"PK",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409693,
+    "gn:latitude":30.21785,
+    "gn:longitude":71.46278,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chah Thulwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.44278,30.19785,71.48278,30.23785",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209919639,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409693
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c375783fa359d75fc812f485458d35cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1209919639,
+            "neighbourhood_id":1780037177,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037177,
+    "wof:lastmodified":1659484769,
+    "wof:name":"Chah Thulwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209919639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.46278,
+    30.21785,
+    71.46278,
+    30.21785
+],
+  "geometry": {"coordinates":[71.46278,30.21785],"type":"Point"}
+}

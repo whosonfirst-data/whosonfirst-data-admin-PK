@@ -1,0 +1,76 @@
+{
+  "id": 1780038367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97611,31.70333,73.97611,31.70333",
+    "geom:latitude":31.70333,
+    "geom:longitude":73.97611,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muslimganj",
+    "gn:country_code":"PK",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331251,
+    "gn:latitude":31.70333,
+    "gn:longitude":73.97611,
+    "gn:modification_date":"1995-10-16",
+    "gn:name":"Muslimganj",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.95611,31.68333,73.99611,31.72333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1225949907,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331251
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"674b00707e1bd4f3029c75b56edac3b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1225949907,
+            "neighbourhood_id":1780038367,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038367,
+    "wof:lastmodified":1659484731,
+    "wof:name":"Muslimganj",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225949907
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97611,
+    31.70333,
+    73.97611,
+    31.70333
+],
+  "geometry": {"coordinates":[73.97611000000001,31.70333],"type":"Point"}
+}

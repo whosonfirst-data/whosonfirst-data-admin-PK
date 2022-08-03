@@ -1,0 +1,76 @@
+{
+  "id": 1780036855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.41,30.175,71.41,30.175",
+    "geom:latitude":30.175,
+    "geom:longitude":71.41,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chaman Zar Askari",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465406,
+    "gn:latitude":30.175,
+    "gn:longitude":71.41,
+    "gn:modification_date":"2001-11-17",
+    "gn:name":"Chaman Zar Askari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.39,30.155,71.43,30.195",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293200285,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465406
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"35d69e8197c98a1771990bd86d5ef7e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1293200285,
+            "neighbourhood_id":1780036855,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036855,
+    "wof:lastmodified":1659484745,
+    "wof:name":"Chaman Zar Askari",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293200285
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.41,
+    30.175,
+    71.41,
+    30.175
+],
+  "geometry": {"coordinates":[71.41,30.175],"type":"Point"}
+}

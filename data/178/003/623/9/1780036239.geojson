@@ -1,0 +1,76 @@
+{
+  "id": 1780036239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26933,31.78802,74.26933,31.78802",
+    "geom:latitude":31.78802,
+    "geom:longitude":74.26933,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ahmad Park",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11534946,
+    "gn:latitude":31.78802,
+    "gn:longitude":74.26933,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Ahmad Park",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.24933,31.76802,74.28933,31.80802",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1326835891,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11534946
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8e72924390c5b66c9f55969739f8db95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1326835891,
+            "neighbourhood_id":1780036239,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036239,
+    "wof:lastmodified":1659484729,
+    "wof:name":"Ahmad Park",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326835891
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26933,
+    31.78802,
+    74.26933,
+    31.78802
+],
+  "geometry": {"coordinates":[74.26933,31.78802],"type":"Point"}
+}

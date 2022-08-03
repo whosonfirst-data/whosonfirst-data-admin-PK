@@ -1,0 +1,76 @@
+{
+  "id": 1780037589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.52872,25.1343,68.52872,25.1343",
+    "geom:latitude":25.1343,
+    "geom:longitude":68.52872,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Polio Chambrioni",
+    "gn:country_code":"PK",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7322642,
+    "gn:latitude":25.1343,
+    "gn:longitude":68.52872,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Polio Chambrioni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.50872,25.1143,68.54872,25.1543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310403993,
+        1108692403,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7322642
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6beb5ede9343ec5472ebf9a5e5eb73a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692403,
+            "locality_id":1310403993,
+            "neighbourhood_id":1780037589,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037589,
+    "wof:lastmodified":1659484739,
+    "wof:name":"Polio Chambrioni",
+    "wof:parent_id":1108692403,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310403993
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.52872,
+    25.1343,
+    68.52872,
+    25.1343
+],
+  "geometry": {"coordinates":[68.52872000000001,25.1343],"type":"Point"}
+}

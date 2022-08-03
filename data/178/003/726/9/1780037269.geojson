@@ -1,0 +1,76 @@
+{
+  "id": 1780037269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59463,32.98981,70.59463,32.98981",
+    "geom:latitude":32.98981,
+    "geom:longitude":70.59463,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bahadur Kalle",
+    "gn:country_code":"PK",
+    "gn:dem":381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1436558,
+    "gn:latitude":32.98981,
+    "gn:longitude":70.59463,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Bahadur Kalle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.57463,32.96981,70.61463,33.00981",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209716701,
+        1108692137,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1436558
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6ecaa21e9003dce6142ab8b86cb1127b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":1209716701,
+            "neighbourhood_id":1780037269,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037269,
+    "wof:lastmodified":1659484754,
+    "wof:name":"Bahadur Kalle",
+    "wof:parent_id":1108692137,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209716701
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59463,
+    32.98981,
+    70.59463,
+    32.98981
+],
+  "geometry": {"coordinates":[70.59463,32.98981],"type":"Point"}
+}

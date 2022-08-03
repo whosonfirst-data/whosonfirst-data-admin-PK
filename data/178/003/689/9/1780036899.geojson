@@ -1,0 +1,79 @@
+{
+  "id": 1780036899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.00222,30.57361,67.00222,30.57361",
+    "geom:latitude":30.57361,
+    "geom:longitude":67.00222,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kili Lameran",
+    "gn:country_code":"PK",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6280346,
+    "gn:latitude":30.57361,
+    "gn:longitude":67.00222,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kili Lameran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.98222,30.55361,67.02222,30.59361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kili Lameran"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293106609,
+        1108692349,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6280346
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1c5ab8b548ba460a27ee07a7b270d9b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692349,
+            "locality_id":1293106609,
+            "neighbourhood_id":1780036899,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780036899,
+    "wof:lastmodified":1659484798,
+    "wof:name":"Kili Lameran",
+    "wof:parent_id":1108692349,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293106609
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.00222,
+    30.57361,
+    67.00222,
+    30.57361
+],
+  "geometry": {"coordinates":[67.00221999999999,30.57361],"type":"Point"}
+}

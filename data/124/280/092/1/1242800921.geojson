@@ -2,7 +2,7 @@
   "id": 1242800921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0634\u0647\u0631\u06a9 \u0634\u0627\u0647 \u0641\u06cc\u0635\u0644"
@@ -50,7 +50,7 @@
         "gn:id":11494297
     },
     "wof:country":"PK",
-    "wof:geomhash":"ca62f6837fba60bb004f30ed9c0bb071",
+    "wof:geomhash":"2dbed7d0808f1be59a3675e9f0953087",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +61,22 @@
         }
     ],
     "wof:id":1242800921,
-    "wof:lastmodified":1566592150,
+    "wof:lastmodified":1659484764,
     "wof:name":"Shah Faisal Town",
     "wof:parent_id":1108692421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037961
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.70333000000002,
+    72.70333,
     30.1638,
-    72.70333000000002,
+    72.70333,
     30.1638
 ],
-  "geometry": {"coordinates":[72.70333000000002,30.1638],"type":"Point"}
+  "geometry": {"coordinates":[72.70332999999999,30.1638],"type":"Point"}
 }

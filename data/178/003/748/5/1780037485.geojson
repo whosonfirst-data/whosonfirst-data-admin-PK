@@ -1,0 +1,88 @@
+{
+  "id": 1780037485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.07,32.97,74.07,32.97",
+    "geom:latitude":32.97,
+    "geom:longitude":74.07,
+    "gn:admin1_code":"6.0",
+    "gn:asciiname":"Bhimbar District",
+    "gn:country_code":"PK",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7648370,
+    "gn:latitude":32.97,
+    "gn:longitude":74.07,
+    "gn:modification_date":"2011-02-01",
+    "gn:name":"Bhimbar District",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.05,32.95,74.09,32.99",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1260001137,
+        1108692167,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7648370
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6ae25fc2c89351b20a177af6d75dc751",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260001137,
+            "neighbourhood_id":1780037485,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692167,
+            "disputed_id":1159339495,
+            "locality_id":1260001137,
+            "neighbourhood_id":1780037485,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1780037485,
+    "wof:lastmodified":1659484807,
+    "wof:name":"Bhimbar District",
+    "wof:parent_id":1108692167,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260001137
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.07,
+    32.97,
+    74.07,
+    32.97
+],
+  "geometry": {"coordinates":[74.06999999999999,32.97],"type":"Point"}
+}

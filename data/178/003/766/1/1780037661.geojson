@@ -1,0 +1,84 @@
+{
+  "id": 1780037661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.04613,31.48282,73.04613,31.48282",
+    "geom:latitude":31.48282,
+    "geom:longitude":73.04613,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Eight Jhang Branch",
+    "gn:country_code":"PK",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1175140,
+    "gn:latitude":31.48282,
+    "gn:longitude":73.04613,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Chak Eight Jhang Branch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.02613,31.46282,73.06613,31.50282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kamalpur Panj Garain",
+        "Panjgir\u0101in",
+        "Kam\u0101lpur Panjgir\u0101\u012bn",
+        "Kam\u0101lpur",
+        "Chak Eight Jhang Branch",
+        "Kam\u0101lpur Panjgir\u0101y\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310105419,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1175140
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"219809563ee3031871b5590e74499817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1310105419,
+            "neighbourhood_id":1780037661,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037661,
+    "wof:lastmodified":1659484826,
+    "wof:name":"Chak Eight Jhang Branch",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310105419
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.04613,
+    31.48282,
+    73.04613,
+    31.48282
+],
+  "geometry": {"coordinates":[73.04613000000001,31.48282],"type":"Point"}
+}

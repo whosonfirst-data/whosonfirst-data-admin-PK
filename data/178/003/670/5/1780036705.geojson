@@ -1,0 +1,76 @@
+{
+  "id": 1780036705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.2395,32.11302,74.2395,32.11302",
+    "geom:latitude":32.11302,
+    "geom:longitude":74.2395,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Qila Malla Singh",
+    "gn:country_code":"PK",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413189,
+    "gn:latitude":32.11302,
+    "gn:longitude":74.2395,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Qila Malla Singh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.2195,32.09302,74.2595,32.13302",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293906845,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413189
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da5563c77c45529c11e67e89be4d6c7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1293906845,
+            "neighbourhood_id":1780036705,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036705,
+    "wof:lastmodified":1659484721,
+    "wof:name":"Qila Malla Singh",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293906845
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.2395,
+    32.11302,
+    74.2395,
+    32.11302
+],
+  "geometry": {"coordinates":[74.23950000000001,32.11302],"type":"Point"}
+}

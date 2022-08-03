@@ -1,0 +1,76 @@
+{
+  "id": 1780038159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.72159,25.45099,68.72159,25.45099",
+    "geom:latitude":25.45099,
+    "geom:longitude":68.72159,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Goth Daru Mangal",
+    "gn:country_code":"PK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1359035,
+    "gn:latitude":25.45099,
+    "gn:longitude":68.72159,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Goth Daru Mangal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.70159,25.43099,68.74159,25.47099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243268299,
+        1108692401,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1359035
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"067102460a2513a640d45df0291d8684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692401,
+            "locality_id":1243268299,
+            "neighbourhood_id":1780038159,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038159,
+    "wof:lastmodified":1659484785,
+    "wof:name":"Goth Daru Mangal",
+    "wof:parent_id":1108692401,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243268299
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.72159,
+    25.45099,
+    68.72159,
+    25.45099
+],
+  "geometry": {"coordinates":[68.72159000000001,25.45099],"type":"Point"}
+}

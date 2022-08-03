@@ -1,0 +1,76 @@
+{
+  "id": 1780037193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19261,34.33558,73.19261,34.33558",
+    "geom:latitude":34.33558,
+    "geom:longitude":73.19261,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Lohar Bandi",
+    "gn:country_code":"PK",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390144,
+    "gn:latitude":34.33558,
+    "gn:longitude":73.19261,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Lohar Bandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.17261,34.31558,73.21261,34.35558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209621931,
+        1108692295,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390144
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"11b1604f2ec7c8b9ffa6ac12197a06ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":1209621931,
+            "neighbourhood_id":1780037193,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037193,
+    "wof:lastmodified":1659484797,
+    "wof:name":"Lohar Bandi",
+    "wof:parent_id":1108692295,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209621931
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19261,
+    34.33558,
+    73.19261,
+    34.33558
+],
+  "geometry": {"coordinates":[73.19261,34.33558],"type":"Point"}
+}

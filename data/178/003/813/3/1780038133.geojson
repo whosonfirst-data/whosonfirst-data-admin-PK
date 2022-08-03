@@ -1,0 +1,76 @@
+{
+  "id": 1780038133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.64722,30.73333,72.64722,30.73333",
+    "geom:latitude":30.73333,
+    "geom:longitude":72.64722,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thatta Bahlol",
+    "gn:country_code":"PK",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1387289,
+    "gn:latitude":30.73333,
+    "gn:longitude":72.64722,
+    "gn:modification_date":"2001-10-12",
+    "gn:name":"Thatta Bahlol",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.62722,30.71333,72.66722,30.75333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243177601,
+        1108692413,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1387289
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c5ea4b9753fd5e76b13180d682fd8bb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":1243177601,
+            "neighbourhood_id":1780038133,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038133,
+    "wof:lastmodified":1659484805,
+    "wof:name":"Thatta Bahlol",
+    "wof:parent_id":1108692413,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243177601
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.64722,
+    30.73333,
+    72.64722,
+    30.73333
+],
+  "geometry": {"coordinates":[72.64722,30.73333],"type":"Point"}
+}

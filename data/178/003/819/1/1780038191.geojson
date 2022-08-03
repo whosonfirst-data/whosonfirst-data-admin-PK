@@ -1,0 +1,76 @@
+{
+  "id": 1780038191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.48973,30.23135,71.48973,30.23135",
+    "geom:latitude":30.23135,
+    "geom:longitude":71.48973,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Zakria Town",
+    "gn:country_code":"PK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348827,
+    "gn:latitude":30.23135,
+    "gn:longitude":71.48973,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Zakria Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.46973,30.21135,71.50973,30.25135",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259388001,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348827
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8d9913212a347f0e18cd88130c47604c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1259388001,
+            "neighbourhood_id":1780038191,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038191,
+    "wof:lastmodified":1659484780,
+    "wof:name":"Zakria Town",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259388001
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.48973,
+    30.23135,
+    71.48973,
+    30.23135
+],
+  "geometry": {"coordinates":[71.48972999999999,30.23135],"type":"Point"}
+}

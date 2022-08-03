@@ -1,0 +1,76 @@
+{
+  "id": 1780037025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.02026,25.54203,69.02026,25.54203",
+    "geom:latitude":25.54203,
+    "geom:longitude":69.02026,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haji Aslam Goth",
+    "gn:country_code":"PK",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11601935,
+    "gn:latitude":25.54203,
+    "gn:longitude":69.02026,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Haji Aslam Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"69.00026,25.52203,69.04026,25.56203",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276661773,
+        1108692307,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11601935
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a920cf374920185c4111e76ee4063b3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692307,
+            "locality_id":1276661773,
+            "neighbourhood_id":1780037025,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037025,
+    "wof:lastmodified":1659484721,
+    "wof:name":"Haji Aslam Goth",
+    "wof:parent_id":1108692307,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276661773
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.02026,
+    25.54203,
+    69.02026,
+    25.54203
+],
+  "geometry": {"coordinates":[69.02025999999999,25.54203],"type":"Point"}
+}

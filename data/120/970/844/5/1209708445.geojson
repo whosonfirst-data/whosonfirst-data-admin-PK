@@ -2,7 +2,7 @@
   "id": 1209708445,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lalu Machhi"
@@ -44,7 +44,7 @@
         "gn:id":1414241
     },
     "wof:country":"PK",
-    "wof:geomhash":"767e01c26b4fbe616f9145163f6c8a7b",
+    "wof:geomhash":"a595f7b3df73a08575455605b31f1086",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +55,22 @@
         }
     ],
     "wof:id":1209708445,
-    "wof:lastmodified":1566588449,
+    "wof:lastmodified":1659484747,
     "wof:name":"Lalu Machhi",
     "wof:parent_id":1108692211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037231
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.37361999999999,
+    68.37362,
     25.37503,
-    68.37361999999999,
+    68.37362,
     25.37503
 ],
-  "geometry": {"coordinates":[68.37361999999999,25.37503],"type":"Point"}
+  "geometry": {"coordinates":[68.37362,25.37503],"type":"Point"}
 }

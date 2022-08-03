@@ -1,0 +1,76 @@
+{
+  "id": 1780036979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.95096,32.71553,73.95096,32.71553",
+    "geom:latitude":32.71553,
+    "geom:longitude":73.95096,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Qazi Karam Shah",
+    "gn:country_code":"PK",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380368,
+    "gn:latitude":32.71553,
+    "gn:longitude":73.95096,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Qazi Karam Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.93096,32.69553,73.97096,32.73553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276447723,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380368
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5c6c7cff63c79c4ba0ff603cf23f3454",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1276447723,
+            "neighbourhood_id":1780036979,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036979,
+    "wof:lastmodified":1659484774,
+    "wof:name":"Qazi Karam Shah",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276447723
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.95096,
+    32.71553,
+    73.95096,
+    32.71553
+],
+  "geometry": {"coordinates":[73.95095999999999,32.71553],"type":"Point"}
+}

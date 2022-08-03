@@ -1,0 +1,81 @@
+{
+  "id": 1780036927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.56058,32.3286,74.56058,32.3286",
+    "geom:latitude":32.3286,
+    "geom:longitude":74.56058,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dogri Guman",
+    "gn:country_code":"PK",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1179520,
+    "gn:latitude":32.3286,
+    "gn:longitude":74.56058,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Dogri Guman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.54058,32.3086,74.58058,32.3486",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Dogri Ghumman",
+        "Dugri",
+        "Dogri Guman"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293889111,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1179520
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b1b88130f70223a5b11b42fae41ab0a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1293889111,
+            "neighbourhood_id":1780036927,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036927,
+    "wof:lastmodified":1659484807,
+    "wof:name":"Dogri Guman",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293889111
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.56058,
+    32.3286,
+    74.56058,
+    32.3286
+],
+  "geometry": {"coordinates":[74.56058,32.3286],"type":"Point"}
+}

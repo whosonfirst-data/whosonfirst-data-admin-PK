@@ -1,0 +1,76 @@
+{
+  "id": 1780038059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.69303,32.08796,73.69303,32.08796",
+    "geom:latitude":32.08796,
+    "geom:longitude":73.69303,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kot Hashmat",
+    "gn:country_code":"PK",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173244,
+    "gn:latitude":32.08796,
+    "gn:longitude":73.69303,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Kot Hashmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.67303,32.06796,73.71303,32.10796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1242700877,
+        1108692201,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173244
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"cf86fb3b18e7b3eb44bbd06d6dfce104",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":1242700877,
+            "neighbourhood_id":1780038059,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038059,
+    "wof:lastmodified":1659484779,
+    "wof:name":"Kot Hashmat",
+    "wof:parent_id":1108692201,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242700877
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.69303,
+    32.08796,
+    73.69303,
+    32.08796
+],
+  "geometry": {"coordinates":[73.69302999999999,32.08796],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1780036671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.56851,34.21279,71.56851,34.21279",
+    "geom:latitude":34.21279,
+    "geom:longitude":71.56851,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Hakim Pehlwan",
+    "gn:country_code":"PK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333947,
+    "gn:latitude":34.21279,
+    "gn:longitude":71.56851,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Hakim Pehlwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.54851,34.19279,71.58851,34.23279",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hak\u012bm"
+    ],
+    "name:und_x_variant":[
+        "Pailwan Qila",
+        "Hakim Pehlwan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293001799,
+        1108692151,
+        85675763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333947
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"04be34d8433384e8b1fd9e62c7dfba85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1293001799,
+            "neighbourhood_id":1780036671,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1780036671,
+    "wof:lastmodified":1659484744,
+    "wof:name":"Hakim Pehlwan",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293001799
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.56851,
+    34.21279,
+    71.56851,
+    34.21279
+],
+  "geometry": {"coordinates":[71.56851,34.21279],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780036403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16463,33.59082,73.16463,33.59082",
+    "geom:latitude":33.59082,
+    "geom:longitude":73.16463,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Bhukar",
+    "gn:country_code":"PK",
+    "gn:dem":508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449785,
+    "gn:latitude":33.59082,
+    "gn:longitude":73.16463,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Bhukar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.14463,33.57082,73.18463,33.61082",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343246711,
+        1108692213,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449785
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bf181b7a6c7bcc51a474c9ba24eb6625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1343246711,
+            "neighbourhood_id":1780036403,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780036403,
+    "wof:lastmodified":1659484809,
+    "wof:name":"Bhukar",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343246711
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16463,
+    33.59082,
+    73.16463,
+    33.59082
+],
+  "geometry": {"coordinates":[73.16463,33.59082],"type":"Point"}
+}

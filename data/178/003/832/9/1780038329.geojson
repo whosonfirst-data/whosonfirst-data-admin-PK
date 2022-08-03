@@ -1,0 +1,76 @@
+{
+  "id": 1780038329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.69899,32.94422,73.69899,32.94422",
+    "geom:latitude":32.94422,
+    "geom:longitude":73.69899,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chittan",
+    "gn:country_code":"PK",
+    "gn:dem":235,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181058,
+    "gn:latitude":32.94422,
+    "gn:longitude":73.69899,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Chittan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.67899,32.92422,73.71899,32.96422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259588629,
+        1108692227,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181058
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1359bf6ad47963136ba2c7299ddbe032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1259588629,
+            "neighbourhood_id":1780038329,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038329,
+    "wof:lastmodified":1659484731,
+    "wof:name":"Chittan",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259588629
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.69899,
+    32.94422,
+    73.69899,
+    32.94422
+],
+  "geometry": {"coordinates":[73.69898999999999,32.94422],"type":"Point"}
+}

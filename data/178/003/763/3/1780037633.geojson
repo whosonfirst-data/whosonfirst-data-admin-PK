@@ -1,0 +1,79 @@
+{
+  "id": 1780037633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.37875,33.8948,73.37875,33.8948",
+    "geom:latitude":33.8948,
+    "geom:longitude":73.37875,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Pindi Point",
+    "gn:country_code":"PK",
+    "gn:dem":2181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7034173,
+    "gn:latitude":33.8948,
+    "gn:longitude":73.37875,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Pindi Point",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.35875,33.8748,73.39875,33.9148",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Pindi Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310011153,
+        1108692361,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7034173
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"661aafd3ac60afd60ee7b903d7e1339d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":1310011153,
+            "neighbourhood_id":1780037633,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037633,
+    "wof:lastmodified":1659484794,
+    "wof:name":"Pindi Point",
+    "wof:parent_id":1108692361,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310011153
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.37875,
+    33.8948,
+    73.37875,
+    33.8948
+],
+  "geometry": {"coordinates":[73.37875,33.8948],"type":"Point"}
+}

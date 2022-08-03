@@ -2,7 +2,7 @@
   "id": 1343751747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:srp_x_preferred":[
         "\u0421\u0443\u0434\u0430\u0440"
@@ -47,7 +47,7 @@
         "gn:id":1164440
     },
     "wof:country":"PK",
-    "wof:geomhash":"21f0757b0d204efcbfca07d990049617",
+    "wof:geomhash":"67d9f9107f600a06c95df860c7e9658b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +58,22 @@
         }
     ],
     "wof:id":1343751747,
-    "wof:lastmodified":1566584836,
+    "wof:lastmodified":1659484806,
     "wof:name":"Sudar",
     "wof:parent_id":1108692213,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036629
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.15068000000002,
+    73.15068,
     33.62822,
-    73.15068000000002,
+    73.15068,
     33.62822
 ],
-  "geometry": {"coordinates":[73.15068000000002,33.62822],"type":"Point"}
+  "geometry": {"coordinates":[73.15067999999999,33.62822],"type":"Point"}
 }

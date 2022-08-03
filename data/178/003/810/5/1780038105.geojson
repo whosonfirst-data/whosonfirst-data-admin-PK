@@ -1,0 +1,76 @@
+{
+  "id": 1780038105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.34624,32.83846,71.34624,32.83846",
+    "geom:latitude":32.83846,
+    "geom:longitude":71.34624,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Allah Khel",
+    "gn:country_code":"PK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1404918,
+    "gn:latitude":32.83846,
+    "gn:longitude":71.34624,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Allah Khel",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.32624,32.81846,71.36624,32.85846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243453915,
+        1108692305,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1404918
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b8c45448be4177d49706966a7c11ad4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1243453915,
+            "neighbourhood_id":1780038105,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038105,
+    "wof:lastmodified":1659484781,
+    "wof:name":"Allah Khel",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243453915
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.34624,
+    32.83846,
+    71.34624,
+    32.83846
+],
+  "geometry": {"coordinates":[71.34623999999999,32.83846],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780036373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8378,27.86119,68.8378,27.86119",
+    "geom:latitude":27.86119,
+    "geom:longitude":68.8378,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Fateh Tando",
+    "gn:country_code":"PK",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11350248,
+    "gn:latitude":27.86119,
+    "gn:longitude":68.8378,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Fateh Tando",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.8178,27.84119,68.8578,27.88119",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1344149737,
+        1108692379,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11350248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e6fbf9f3c603de8c25bc7f77ddc31906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692379,
+            "locality_id":1344149737,
+            "neighbourhood_id":1780036373,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036373,
+    "wof:lastmodified":1659484732,
+    "wof:name":"Fateh Tando",
+    "wof:parent_id":1108692379,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344149737
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8378,
+    27.86119,
+    68.8378,
+    27.86119
+],
+  "geometry": {"coordinates":[68.8378,27.86119],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1780036583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.13333,31.48333,73.13333,31.48333",
+    "geom:latitude":31.48333,
+    "geom:longitude":73.13333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Taragarh",
+    "gn:country_code":"PK",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163863,
+    "gn:latitude":31.48333,
+    "gn:longitude":73.13333,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Taragarh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.11333,31.46333,73.15333,31.50333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "T\u0101r\u0101garh Kal\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343458277,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163863
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"05715b9d94390332ab71215a9a9dcf2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1343458277,
+            "neighbourhood_id":1780036583,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036583,
+    "wof:lastmodified":1659484821,
+    "wof:name":"Taragarh",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343458277
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.13333,
+    31.48333,
+    73.13333,
+    31.48333
+],
+  "geometry": {"coordinates":[73.13333,31.48333],"type":"Point"}
+}

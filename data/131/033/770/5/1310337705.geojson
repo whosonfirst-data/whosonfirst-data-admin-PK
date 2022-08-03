@@ -2,7 +2,7 @@
   "id": 1310337705,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:bih_x_preferred":[
         "\u092b\u0924\u0947\u0939\u0917\u0922\u093c"
@@ -104,7 +104,7 @@
         "gn:id":1179334
     },
     "wof:country":"PK",
-    "wof:geomhash":"105f0ae73a58f10efb098f85c847918b",
+    "wof:geomhash":"73c5d771983d7ee898a80a7075bdab4b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -115,20 +115,22 @@
         }
     ],
     "wof:id":1310337705,
-    "wof:lastmodified":1566590936,
+    "wof:lastmodified":1659484758,
     "wof:name":"Fatehgarh",
     "wof:parent_id":1108692381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.52051999999998,
+    74.52052,
     32.48064,
-    74.52051999999998,
+    74.52052,
     32.48064
 ],
-  "geometry": {"coordinates":[74.52051999999998,32.48064],"type":"Point"}
+  "geometry": {"coordinates":[74.52052,32.48064],"type":"Point"}
 }

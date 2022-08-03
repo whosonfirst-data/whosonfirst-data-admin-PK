@@ -2,11 +2,11 @@
   "id": 421191095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"62.326469,25.1078675,62.326469,25.1078675",
+    "geom:bbox":"62.326469,25.107868,62.326469,25.107868",
     "geom:latitude":25.107868,
     "geom:longitude":62.326469,
     "iso:country":"PK",
@@ -14,7 +14,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -212,7 +212,7 @@
     },
     "wof:country":"PK",
     "wof:created":1459009679,
-    "wof:geomhash":"e539ebcb939d1d1ad8f329406b89ece8",
+    "wof:geomhash":"93a150f04905f9aca09c1121989f28cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -222,20 +222,22 @@
         }
     ],
     "wof:id":421191095,
-    "wof:lastmodified":1566591782,
+    "wof:lastmodified":1659484754,
     "wof:name":"Gawadar",
     "wof:parent_id":85675733,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037879
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     62.326469,
-    25.1078675,
+    25.107868,
     62.326469,
-    25.1078675
+    25.107868
 ],
-  "geometry": {"coordinates":[62.326469,25.1078675],"type":"Point"}
+  "geometry": {"coordinates":[62.326469,25.107868],"type":"Point"}
 }

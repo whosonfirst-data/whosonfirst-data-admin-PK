@@ -2,7 +2,7 @@
   "id": 1209708631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nazar Ali Jam\u0101l"
@@ -44,7 +44,7 @@
         "gn:id":1403356
     },
     "wof:country":"PK",
-    "wof:geomhash":"64ef72d25db7000bd906861f4c7ea084",
+    "wof:geomhash":"d3e664ec83aa0bfad6e1775251a9c2e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +55,22 @@
         }
     ],
     "wof:id":1209708631,
-    "wof:lastmodified":1566588461,
+    "wof:lastmodified":1659484724,
     "wof:name":"Nazar Ali Jamali",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.75171999999999,
+    68.75172,
     27.52234,
-    68.75171999999999,
+    68.75172,
     27.52234
 ],
-  "geometry": {"coordinates":[68.75171999999999,27.52234],"type":"Point"}
+  "geometry": {"coordinates":[68.75172000000001,27.52234],"type":"Point"}
 }

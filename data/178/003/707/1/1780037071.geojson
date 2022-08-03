@@ -1,0 +1,79 @@
+{
+  "id": 1780037071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.97529,30.46892,70.97529,30.46892",
+    "geom:latitude":30.46892,
+    "geom:longitude":70.97529,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Uttarwala",
+    "gn:country_code":"PK",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392196,
+    "gn:latitude":30.46892,
+    "gn:longitude":70.97529,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Uttarw\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.95529,30.44892,70.99529,30.48892",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Uttarw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276477071,
+        1108692321,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392196
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"93ffcd5839f148cc0d85911c5e78793c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1276477071,
+            "neighbourhood_id":1780037071,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037071,
+    "wof:lastmodified":1659484810,
+    "wof:name":"Uttarwala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276477071
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.97529,
+    30.46892,
+    70.97529,
+    30.46892
+],
+  "geometry": {"coordinates":[70.97529,30.46892],"type":"Point"}
+}

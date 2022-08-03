@@ -1,0 +1,76 @@
+{
+  "id": 1780037007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.95577,30.19888,66.95577,30.19888",
+    "geom:latitude":30.19888,
+    "geom:longitude":66.95577,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Kili Ramzan",
+    "gn:country_code":"PK",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100064,
+    "gn:latitude":30.19888,
+    "gn:longitude":66.95577,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Kili Ramzan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.93577,30.17888,66.97577,30.21888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276342963,
+        890438109,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100064
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7731015cb57b6603ee442ef0e4dfc434",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1276342963,
+            "neighbourhood_id":1780037007,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037007,
+    "wof:lastmodified":1659484782,
+    "wof:name":"Kili Ramzan",
+    "wof:parent_id":890438109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276342963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.95577,
+    30.19888,
+    66.95577,
+    30.19888
+],
+  "geometry": {"coordinates":[66.95577,30.19888],"type":"Point"}
+}

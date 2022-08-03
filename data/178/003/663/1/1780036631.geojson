@@ -1,0 +1,76 @@
+{
+  "id": 1780036631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.20278,27.54167,68.20278,27.54167",
+    "geom:latitude":27.54167,
+    "geom:longitude":68.20278,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Pir Mithal",
+    "gn:country_code":"PK",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1357447,
+    "gn:latitude":27.54167,
+    "gn:longitude":68.20278,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Pir Mithal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.18278,27.52167,68.22278,27.56167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343862751,
+        1108692277,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1357447
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f11eab6f0891e53b0a956d84cd3e6130",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692277,
+            "locality_id":1343862751,
+            "neighbourhood_id":1780036631,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036631,
+    "wof:lastmodified":1659484828,
+    "wof:name":"Pir Mithal",
+    "wof:parent_id":1108692277,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343862751
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.20278,
+    27.54167,
+    68.20278,
+    27.54167
+],
+  "geometry": {"coordinates":[68.20278,27.54167],"type":"Point"}
+}

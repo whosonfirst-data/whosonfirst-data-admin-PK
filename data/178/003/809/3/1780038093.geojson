@@ -1,0 +1,80 @@
+{
+  "id": 1780038093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.51111,32.50556,74.51111,32.50556",
+    "geom:latitude":32.50556,
+    "geom:longitude":74.51111,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Pakka Garha",
+    "gn:country_code":"PK",
+    "gn:dem":251,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1372008,
+    "gn:latitude":32.50556,
+    "gn:longitude":74.51111,
+    "gn:modification_date":"2001-09-27",
+    "gn:name":"Pakka Garha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.49111,32.48556,74.53111,32.52556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Cairio Chouk",
+        "Pakka Garha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1242976091,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1372008
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9a823de63e4497b4e017b108e8d204ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":1242976091,
+            "neighbourhood_id":1780038093,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038093,
+    "wof:lastmodified":1659484821,
+    "wof:name":"Pakka Garha",
+    "wof:parent_id":1108692381,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242976091
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.51111,
+    32.50556,
+    74.51111,
+    32.50556
+],
+  "geometry": {"coordinates":[74.51111,32.50556],"type":"Point"}
+}

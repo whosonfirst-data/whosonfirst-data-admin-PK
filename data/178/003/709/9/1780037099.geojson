@@ -1,0 +1,76 @@
+{
+  "id": 1780037099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.58379,32.59563,71.58379,32.59563",
+    "geom:latitude":32.59563,
+    "geom:longitude":71.58379,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guddi Khelanwala",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1333530,
+    "gn:latitude":32.59563,
+    "gn:longitude":71.58379,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Guddi Khelanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.56379,32.57563,71.60379,32.61563",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276553001,
+        1108692305,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1333530
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"77b237fe125e7b257fe9838f3ae7a15d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692305,
+            "locality_id":1276553001,
+            "neighbourhood_id":1780037099,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037099,
+    "wof:lastmodified":1659484762,
+    "wof:name":"Guddi Khelanwala",
+    "wof:parent_id":1108692305,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276553001
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.58379,
+    32.59563,
+    71.58379,
+    32.59563
+],
+  "geometry": {"coordinates":[71.58378999999999,32.59563],"type":"Point"}
+}

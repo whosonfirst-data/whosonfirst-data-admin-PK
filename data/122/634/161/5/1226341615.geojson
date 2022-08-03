@@ -2,7 +2,7 @@
   "id": 1226341615,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":1340638
     },
     "wof:country":"PK",
-    "wof:geomhash":"0db3e51b00a363313cdc6d89d9a01a31",
+    "wof:geomhash":"5740a65e004eaa267a6f01e0d98c709c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1226341615,
-    "wof:lastmodified":1566594349,
+    "wof:lastmodified":1659484796,
     "wof:name":"Dhok Fateh",
     "wof:parent_id":1108692119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038439
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.36093000000002,
+    72.36093,
     33.7572,
-    72.36093000000002,
+    72.36093,
     33.7572
 ],
-  "geometry": {"coordinates":[72.36093000000002,33.7572],"type":"Point"}
+  "geometry": {"coordinates":[72.36093,33.7572],"type":"Point"}
 }

@@ -1,0 +1,76 @@
+{
+  "id": 1780036751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.23876,31.98174,74.23876,31.98174",
+    "geom:latitude":31.98174,
+    "geom:longitude":74.23876,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kot Hari Chand",
+    "gn:country_code":"PK",
+    "gn:dem":216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330478,
+    "gn:latitude":31.98174,
+    "gn:longitude":74.23876,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kot Hari Chand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.21876,31.96174,74.25876,32.00174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293493173,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330478
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fea3ca7a19d457d7adbde994df59c081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1293493173,
+            "neighbourhood_id":1780036751,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036751,
+    "wof:lastmodified":1659484771,
+    "wof:name":"Kot Hari Chand",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293493173
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.23876,
+    31.98174,
+    74.23876,
+    31.98174
+],
+  "geometry": {"coordinates":[74.23876,31.98174],"type":"Point"}
+}

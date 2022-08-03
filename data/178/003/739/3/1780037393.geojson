@@ -1,0 +1,76 @@
+{
+  "id": 1780037393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.38384,31.38051,74.38384,31.38051",
+    "geom:latitude":31.38051,
+    "geom:longitude":74.38384,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Dariswali",
+    "gn:country_code":"PK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11535026,
+    "gn:latitude":31.38051,
+    "gn:longitude":74.38384,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Basti Dariswali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.36384,31.36051,74.40384,31.40051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1210016053,
+        1108692273,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11535026
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dd0d25891163e34f99d5780dd51a77e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":1210016053,
+            "neighbourhood_id":1780037393,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037393,
+    "wof:lastmodified":1659484778,
+    "wof:name":"Basti Dariswali",
+    "wof:parent_id":1108692273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1210016053
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.38384,
+    31.38051,
+    74.38384,
+    31.38051
+],
+  "geometry": {"coordinates":[74.38384000000001,31.38051],"type":"Point"}
+}

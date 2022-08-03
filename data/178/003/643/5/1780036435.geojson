@@ -1,0 +1,76 @@
+{
+  "id": 1780036435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.57167,30.14754,68.57167,30.14754",
+    "geom:latitude":30.14754,
+    "geom:longitude":68.57167,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Nasibabad",
+    "gn:country_code":"PK",
+    "gn:dem":1090,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11144998,
+    "gn:latitude":30.14754,
+    "gn:longitude":68.57167,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Nasibabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.55167,30.12754,68.59167,30.16754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343764293,
+        890420091,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11144998
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fa9ea5021dce26a1daf8ccd19c37a89a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":1343764293,
+            "neighbourhood_id":1780036435,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780036435,
+    "wof:lastmodified":1659484820,
+    "wof:name":"Nasibabad",
+    "wof:parent_id":890420091,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343764293
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.57167,
+    30.14754,
+    68.57167,
+    30.14754
+],
+  "geometry": {"coordinates":[68.57167,30.14754],"type":"Point"}
+}

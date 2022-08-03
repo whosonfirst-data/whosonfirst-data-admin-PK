@@ -1,0 +1,76 @@
+{
+  "id": 1780037501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11031,30.70212,73.11031,30.70212",
+    "geom:latitude":30.70212,
+    "geom:longitude":73.11031,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulberg Town",
+    "gn:country_code":"PK",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539401,
+    "gn:latitude":30.70212,
+    "gn:longitude":73.11031,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Gulberg Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.09031,30.68212,73.13031,30.72212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1260206727,
+        1108692363,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539401
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3fdd4667f1097eef12b310eadb003036",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":1260206727,
+            "neighbourhood_id":1780037501,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037501,
+    "wof:lastmodified":1659484797,
+    "wof:name":"Gulberg Town",
+    "wof:parent_id":1108692363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260206727
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11031,
+    30.70212,
+    73.11031,
+    30.70212
+],
+  "geometry": {"coordinates":[73.11031,30.70212],"type":"Point"}
+}

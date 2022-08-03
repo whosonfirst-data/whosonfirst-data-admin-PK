@@ -1,0 +1,91 @@
+{
+  "id": 1780038289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16356,33.5817,73.16356,33.5817",
+    "geom:latitude":33.5817,
+    "geom:longitude":73.16356,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Lohi Behr",
+    "gn:country_code":"PK",
+    "gn:dem":505,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171911,
+    "gn:latitude":33.5817,
+    "gn:longitude":73.16356,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Lohi Behr",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.14356,33.5617,73.18356,33.6017",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u0647\u06cc \u0628\u0647\u06cc\u0631"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0631\u06a9\u06be \u0644\u0648\u0626\u06cc \u0628\u06be\u06cc\u0631"
+    ],
+    "name:und_x_variant":[
+        "Lohi Bhirr",
+        "Lohi Bher",
+        "Lohi Behr"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06c1\u06cc \u0628\u06be\u06cc\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259767929,
+        1108692213,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171911,
+        "wk:page":"Lohi_Bher"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebb231b8f67e283cc7a6843708c66f16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692213,
+            "locality_id":1259767929,
+            "neighbourhood_id":1780038289,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780038289,
+    "wof:lastmodified":1659484748,
+    "wof:name":"Lohi Behr",
+    "wof:parent_id":1108692213,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259767929
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16356,
+    33.5817,
+    73.16356,
+    33.5817
+],
+  "geometry": {"coordinates":[73.16356,33.5817],"type":"Point"}
+}

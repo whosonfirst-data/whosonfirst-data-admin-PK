@@ -1,0 +1,82 @@
+{
+  "id": 1780038381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.07163,31.50989,73.07163,31.50989",
+    "geom:latitude":31.50989,
+    "geom:longitude":73.07163,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chak Seven Jhang Branch",
+    "gn:country_code":"PK",
+    "gn:dem":185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389248,
+    "gn:latitude":31.50989,
+    "gn:longitude":73.07163,
+    "gn:modification_date":"2017-03-05",
+    "gn:name":"Chak Seven Jhang Branch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.05163,31.48989,73.09163,31.52989",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Chak Seven",
+        "Kuh\u0101la",
+        "Chak Seven Jhang Branch",
+        "Nalka Koh\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1225949959,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389248
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da0984902149c399ba3ef97195155e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1225949959,
+            "neighbourhood_id":1780038381,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038381,
+    "wof:lastmodified":1659484815,
+    "wof:name":"Chak Seven Jhang Branch",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225949959
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.07163,
+    31.50989,
+    73.07163,
+    31.50989
+],
+  "geometry": {"coordinates":[73.07163,31.50989],"type":"Point"}
+}

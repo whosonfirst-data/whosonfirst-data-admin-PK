@@ -1,0 +1,70 @@
+{
+  "id": 1780037357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66458,32.05844,72.66458,32.05844",
+    "geom:latitude":32.05844,
+    "geom:longitude":72.66458,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhapsari",
+    "gn:country_code":"PK",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090812,
+    "gn:latitude":32.05844,
+    "gn:longitude":72.66458,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Dhapsari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.64458,32.03844,72.68458,32.07844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209105543,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090812
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"42f5d63ab0973c4b079abc3f5239f71d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209105543,
+            "neighbourhood_id":1780037357
+        }
+    ],
+    "wof:id":1780037357,
+    "wof:lastmodified":1659484782,
+    "wof:name":"Dhapsari",
+    "wof:parent_id":85632659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209105543
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66458,
+    32.05844,
+    72.66458,
+    32.05844
+],
+  "geometry": {"coordinates":[72.66458,32.05844],"type":"Point"}
+}

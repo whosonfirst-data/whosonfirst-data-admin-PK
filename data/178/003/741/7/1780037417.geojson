@@ -1,0 +1,88 @@
+{
+  "id": 1780037417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.65813,35.28721,75.65813,35.28721",
+    "geom:latitude":35.28721,
+    "geom:longitude":75.65813,
+    "gn:admin1_code":"7.0",
+    "gn:asciiname":"Kresmathung",
+    "gn:country_code":"PK",
+    "gn:dem":2255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7419814,
+    "gn:latitude":35.28721,
+    "gn:longitude":75.65813,
+    "gn:modification_date":"2010-08-07",
+    "gn:name":"Kresmathung",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"75.63813,35.26721,75.67813,35.30721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1193003963,
+        1108692133,
+        85632469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7419814
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0bb048351c74a1386b0c900ed986685a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1193003963,
+            "neighbourhood_id":1780037417,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692133,
+            "disputed_id":1159339495,
+            "locality_id":1193003963,
+            "neighbourhood_id":1780037417,
+            "region_id":85675745
+        }
+    ],
+    "wof:id":1780037417,
+    "wof:lastmodified":1659484772,
+    "wof:name":"Kresmathung",
+    "wof:parent_id":1108692133,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193003963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.65813,
+    35.28721,
+    75.65813,
+    35.28721
+],
+  "geometry": {"coordinates":[75.65813,35.28721],"type":"Point"}
+}

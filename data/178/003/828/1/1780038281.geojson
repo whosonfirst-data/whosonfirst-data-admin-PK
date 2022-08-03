@@ -1,0 +1,80 @@
+{
+  "id": 1780038281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.93594,30.97809,70.93594,30.97809",
+    "geom:latitude":30.97809,
+    "geom:longitude":70.93594,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Jute",
+    "gn:country_code":"PK",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354625,
+    "gn:latitude":30.97809,
+    "gn:longitude":70.93594,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Basti Jute",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.91594,30.95809,70.95594,30.99809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Basti Joote",
+        "Basti Jute"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259782963,
+        1108692283,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354625
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1d32f18796d953bd9377c49001f02eaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":1259782963,
+            "neighbourhood_id":1780038281,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038281,
+    "wof:lastmodified":1659484765,
+    "wof:name":"Basti Jute",
+    "wof:parent_id":1108692283,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259782963
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.93594,
+    30.97809,
+    70.93594,
+    30.97809
+],
+  "geometry": {"coordinates":[70.93594,30.97809],"type":"Point"}
+}

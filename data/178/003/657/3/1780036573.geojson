@@ -1,0 +1,94 @@
+{
+  "id": 1780036573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.57398,34.22909,71.57398,34.22909",
+    "geom:latitude":34.22909,
+    "geom:longitude":71.57398,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Amirabad",
+    "gn:country_code":"PK",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":10349754,
+    "gn:latitude":34.22909,
+    "gn:longitude":71.57398,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Amirabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.55398,34.20909,71.59398,34.24909",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0645\u064a\u0631 \u0623\u0628\u0627\u062f"
+    ],
+    "name:aze_x_preferred":[
+        "\u018fmirabad"
+    ],
+    "name:ceb_x_preferred":[
+        "Amirabad"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0645\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:swe_x_preferred":[
+        "Amirabad"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1344058035,
+        1108692151,
+        85675763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":10349754
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bd533030ea15fdc006375316751d2ab7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692151,
+            "locality_id":1344058035,
+            "neighbourhood_id":1780036573,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1780036573,
+    "wof:lastmodified":1659484723,
+    "wof:name":"Amirabad",
+    "wof:parent_id":1108692151,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344058035
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.57398,
+    34.22909,
+    71.57398,
+    34.22909
+],
+  "geometry": {"coordinates":[71.57398000000001,34.22909],"type":"Point"}
+}

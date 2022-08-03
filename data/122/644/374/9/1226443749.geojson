@@ -2,7 +2,7 @@
   "id": 1226443749,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Michan Khel Tal",
@@ -45,7 +45,7 @@
         "gn:id":1170420
     },
     "wof:country":"PK",
-    "wof:geomhash":"6c7db6da0f14418b980b6635e27d7315",
+    "wof:geomhash":"dc42c64f88d7a1bf3d3ef29114571bf4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +56,22 @@
         }
     ],
     "wof:id":1226443749,
-    "wof:lastmodified":1566594223,
+    "wof:lastmodified":1659484723,
     "wof:name":"Michan Khel Thal",
     "wof:parent_id":1108692275,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038419
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    70.91448000000003,
+    70.91448,
     32.5993,
-    70.91448000000003,
+    70.91448,
     32.5993
 ],
-  "geometry": {"coordinates":[70.91448000000003,32.5993],"type":"Point"}
+  "geometry": {"coordinates":[70.91448,32.5993],"type":"Point"}
 }

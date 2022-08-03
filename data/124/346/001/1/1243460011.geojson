@@ -2,7 +2,7 @@
   "id": 1243460011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:pnb_x_preferred":[
         "\u0645\u06cc\u0631 \u0645\u062d\u0645\u062f \u0645\u0639\u0635\u0648\u0645 \u0628\u06a9\u06be\u0631\u06cc"
@@ -50,7 +50,7 @@
         "gn:id":11180890
     },
     "wof:country":"PK",
-    "wof:geomhash":"22c5ff04b319b27fc2c26dfe70e7462f",
+    "wof:geomhash":"27b59fb60f959ea722c2d3b0de64e113",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,20 +61,22 @@
         }
     ],
     "wof:id":1243460011,
-    "wof:lastmodified":1566592510,
+    "wof:lastmodified":1659484794,
     "wof:name":"Masum Shah",
     "wof:parent_id":1108692313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038023
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    71.53029000000002,
+    71.53029,
     30.15389,
-    71.53029000000002,
+    71.53029,
     30.15389
 ],
-  "geometry": {"coordinates":[71.53029000000002,30.15389],"type":"Point"}
+  "geometry": {"coordinates":[71.53028999999999,30.15389],"type":"Point"}
 }

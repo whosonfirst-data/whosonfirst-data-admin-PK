@@ -1,0 +1,76 @@
+{
+  "id": 1780037893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.20687,32.15851,74.20687,32.15851",
+    "geom:latitude":32.15851,
+    "geom:longitude":74.20687,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sain Salam Shah",
+    "gn:country_code":"PK",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413156,
+    "gn:latitude":32.15851,
+    "gn:longitude":74.20687,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Sain Salam Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.18687,32.13851,74.22687,32.17851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243073037,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413156
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9ade322e9b0a1a0948ccb97f1087fadb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1243073037,
+            "neighbourhood_id":1780037893,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037893,
+    "wof:lastmodified":1659484779,
+    "wof:name":"Sain Salam Shah",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243073037
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.20687,
+    32.15851,
+    74.20687,
+    32.15851
+],
+  "geometry": {"coordinates":[74.20687,32.15851],"type":"Point"}
+}

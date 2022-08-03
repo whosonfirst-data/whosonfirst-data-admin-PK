@@ -1,0 +1,76 @@
+{
+  "id": 1780038277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.78056,32.81667,70.78056,32.81667",
+    "geom:latitude":32.81667,
+    "geom:longitude":70.78056,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Foujdar",
+    "gn:country_code":"PK",
+    "gn:dem":298,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334488,
+    "gn:latitude":32.81667,
+    "gn:longitude":70.78056,
+    "gn:modification_date":"2005-05-13",
+    "gn:name":"Foujd\u0101r",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.76056,32.79667,70.80056,32.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259784343,
+        1108692275,
+        85675763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334488
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6cc0047e5674ead0a7d6e3ab9fcd89d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1259784343,
+            "neighbourhood_id":1780038277,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1780038277,
+    "wof:lastmodified":1659484829,
+    "wof:name":"Foujdar",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259784343
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.78056,
+    32.81667,
+    70.78056,
+    32.81667
+],
+  "geometry": {"coordinates":[70.78055999999999,32.81667],"type":"Point"}
+}

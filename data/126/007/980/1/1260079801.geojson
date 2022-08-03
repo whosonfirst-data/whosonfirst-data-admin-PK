@@ -2,7 +2,7 @@
   "id": 1260079801,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":1355964
     },
     "wof:country":"PK",
-    "wof:geomhash":"02d9c263cf90cf5a6752f6e41dd455c7",
+    "wof:geomhash":"478eef356cc833967d170995b037fb9e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1260079801,
-    "wof:lastmodified":1566589803,
+    "wof:lastmodified":1659484775,
     "wof:name":"Basti Bhudda Khanwali",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037475
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    70.64721999999998,
+    70.64722,
     28.65,
-    70.64721999999998,
+    70.64722,
     28.65
 ],
-  "geometry": {"coordinates":[70.64721999999998,28.65],"type":"Point"}
+  "geometry": {"coordinates":[70.64722,28.65],"type":"Point"}
 }

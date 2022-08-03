@@ -1,0 +1,76 @@
+{
+  "id": 1780036159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4433,30.23059,71.4433,30.23059",
+    "geom:latitude":30.23059,
+    "geom:longitude":71.4433,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kharianwala",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348869,
+    "gn:latitude":30.23059,
+    "gn:longitude":71.4433,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Kharianwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.4233,30.21059,71.4633,30.25059",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1327053181,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348869
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"91ce64d79642dd60b95ac6a3268a927f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1327053181,
+            "neighbourhood_id":1780036159,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036159,
+    "wof:lastmodified":1659484741,
+    "wof:name":"Kharianwala",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327053181
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4433,
+    30.23059,
+    71.4433,
+    30.23059
+],
+  "geometry": {"coordinates":[71.44329999999999,30.23059],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1780038239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.16667,31.38333,73.16667,31.38333",
+    "geom:latitude":31.38333,
+    "geom:longitude":73.16667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Chadran",
+    "gn:country_code":"PK",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1181853,
+    "gn:latitude":31.38333,
+    "gn:longitude":73.16667,
+    "gn:modification_date":"2017-08-01",
+    "gn:name":"Chak Chadran",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.14667,31.36333,73.18667,31.40333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Chak Chaddhar\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259706821,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1181853
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"db4bddc085c5f60a069aa9d7f0cf3245",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1259706821,
+            "neighbourhood_id":1780038239,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038239,
+    "wof:lastmodified":1659484745,
+    "wof:name":"Chak Chadran",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259706821
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.16667,
+    31.38333,
+    73.16667,
+    31.38333
+],
+  "geometry": {"coordinates":[73.16667,31.38333],"type":"Point"}
+}

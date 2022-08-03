@@ -1,0 +1,76 @@
+{
+  "id": 1780037017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.54526,28.01618,69.54526,28.01618",
+    "geom:latitude":28.01618,
+    "geom:longitude":69.54526,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Wali Muhammad Kurai",
+    "gn:country_code":"PK",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1401148,
+    "gn:latitude":28.01618,
+    "gn:longitude":69.54526,
+    "gn:modification_date":"2011-05-08",
+    "gn:name":"Wali Muhammad Kurai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"69.52526,27.99618,69.56526,28.03618",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276661597,
+        1108692191,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1401148
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4715dd36c54f301b07c8943e30991d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692191,
+            "locality_id":1276661597,
+            "neighbourhood_id":1780037017,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037017,
+    "wof:lastmodified":1659484821,
+    "wof:name":"Wali Muhammad Kurai",
+    "wof:parent_id":1108692191,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276661597
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.54526,
+    28.01618,
+    69.54526,
+    28.01618
+],
+  "geometry": {"coordinates":[69.54526,28.01618],"type":"Point"}
+}

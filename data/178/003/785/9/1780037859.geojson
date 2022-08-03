@@ -1,0 +1,76 @@
+{
+  "id": 1780037859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.85837,27.70675,68.85837,27.70675",
+    "geom:latitude":27.70675,
+    "geom:longitude":68.85837,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Golimar Colony",
+    "gn:country_code":"PK",
+    "gn:dem":66,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1403411,
+    "gn:latitude":27.70675,
+    "gn:longitude":68.85837,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Golimar Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.83837,27.68675,68.87837,27.72675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1309898645,
+        1108692395,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1403411
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"96a92174732d87b931d22cc99afbaff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":1309898645,
+            "neighbourhood_id":1780037859,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037859,
+    "wof:lastmodified":1659484824,
+    "wof:name":"Golimar Colony",
+    "wof:parent_id":1108692395,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309898645
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.85837,
+    27.70675,
+    68.85837,
+    27.70675
+],
+  "geometry": {"coordinates":[68.85836999999999,27.70675],"type":"Point"}
+}

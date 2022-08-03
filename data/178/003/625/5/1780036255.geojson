@@ -1,0 +1,81 @@
+{
+  "id": 1780036255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.18009,31.38377,73.18009,31.38377",
+    "geom:latitude":31.38377,
+    "geom:longitude":73.18009,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Two Hundred Twenty-seven Rakh Branch",
+    "gn:country_code":"PK",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110988,
+    "gn:latitude":31.38377,
+    "gn:longitude":73.18009,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Chak Two Hundred Twenty-seven Rakh Branch",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.16009,31.36377,73.20009,31.40377",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kar\u0101rw\u0101la",
+        "Chak Two Hundred Twenty-Seven RB",
+        "Chak Two Hundred Twenty-seven Rakh Branch"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1326529385,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110988
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a6979d3472606d0b3d4b55563affedc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1326529385,
+            "neighbourhood_id":1780036255,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036255,
+    "wof:lastmodified":1659484768,
+    "wof:name":"Chak Two Hundred Twenty-seven Rakh Branch",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326529385
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.18009,
+    31.38377,
+    73.18009,
+    31.38377
+],
+  "geometry": {"coordinates":[73.18009000000001,31.38377],"type":"Point"}
+}

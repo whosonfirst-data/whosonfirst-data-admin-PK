@@ -1,0 +1,84 @@
+{
+  "id": 1780037427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.48925,32.60249,73.48925,32.60249",
+    "geom:latitude":32.60249,
+    "geom:longitude":73.48925,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Roshanpur",
+    "gn:country_code":"PK",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168025,
+    "gn:latitude":32.60249,
+    "gn:longitude":73.48925,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Roshanpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.46925,32.58249,73.50925,32.62249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Pindi Bah\u0101udd\u012bn",
+        "Roshanpur"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0646\u0688\u06cc \u0628\u06c1\u0627\u0624\u0627\u0644\u062f\u06cc\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1193142863,
+        1108692293,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168025,
+        "wk:page":"Pindi_Bahauddin"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b9df9edd85754683653f693e99142d67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":1193142863,
+            "neighbourhood_id":1780037427,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037427,
+    "wof:lastmodified":1659484753,
+    "wof:name":"Roshanpur",
+    "wof:parent_id":1108692293,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193142863
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.48925,
+    32.60249,
+    73.48925,
+    32.60249
+],
+  "geometry": {"coordinates":[73.48925,32.60249],"type":"Point"}
+}

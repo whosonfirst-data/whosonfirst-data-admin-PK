@@ -1,0 +1,79 @@
+{
+  "id": 1780037179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.99246,30.15553,66.99246,30.15553",
+    "geom:latitude":30.15553,
+    "geom:longitude":66.99246,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Lowar Karez",
+    "gn:country_code":"PK",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1342362,
+    "gn:latitude":30.15553,
+    "gn:longitude":66.99246,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Lowar Karez",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.97246,30.13553,67.01246,30.17553",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Luwar K\u0101rez"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209916273,
+        890438109,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1342362
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"759f30afffa1bdcc850f8cf6de05d369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":1209916273,
+            "neighbourhood_id":1780037179,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037179,
+    "wof:lastmodified":1659484768,
+    "wof:name":"Lowar Karez",
+    "wof:parent_id":890438109,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209916273
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.99246,
+    30.15553,
+    66.99246,
+    30.15553
+],
+  "geometry": {"coordinates":[66.99245999999999,30.15553],"type":"Point"}
+}

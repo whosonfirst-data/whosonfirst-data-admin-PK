@@ -1,0 +1,76 @@
+{
+  "id": 1780036925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.16233,32.19867,74.16233,32.19867",
+    "geom:latitude":32.19867,
+    "geom:longitude":74.16233,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kotli Jalainai",
+    "gn:country_code":"PK",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413135,
+    "gn:latitude":32.19867,
+    "gn:longitude":74.16233,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kotli Jalainai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.14233,32.17867,74.18233,32.21867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293889051,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413135
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"873a1537b2fed731e74dfcbee634d2d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1293889051,
+            "neighbourhood_id":1780036925,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036925,
+    "wof:lastmodified":1659484804,
+    "wof:name":"Kotli Jalainai",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293889051
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.16233,
+    32.19867,
+    74.16233,
+    32.19867
+],
+  "geometry": {"coordinates":[74.16233,32.19867],"type":"Point"}
+}

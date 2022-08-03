@@ -1,0 +1,79 @@
+{
+  "id": 1780038457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9657,30.47883,70.9657,30.47883",
+    "geom:latitude":30.47883,
+    "geom:longitude":70.9657,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kakewala",
+    "gn:country_code":"PK",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1392192,
+    "gn:latitude":30.47883,
+    "gn:longitude":70.9657,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Kakew\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.9457,30.45883,70.9857,30.49883",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kakew\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1226047967,
+        1108692321,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1392192
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d65b43b26ff31d4c21d96e03e757e8db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692321,
+            "locality_id":1226047967,
+            "neighbourhood_id":1780038457,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038457,
+    "wof:lastmodified":1659484766,
+    "wof:name":"Kakewala",
+    "wof:parent_id":1108692321,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226047967
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9657,
+    30.47883,
+    70.9657,
+    30.47883
+],
+  "geometry": {"coordinates":[70.9657,30.47883],"type":"Point"}
+}

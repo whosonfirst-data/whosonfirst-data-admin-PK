@@ -1,0 +1,79 @@
+{
+  "id": 1780037333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"75.15533,32.25313,75.15533,32.25313",
+    "geom:latitude":32.25313,
+    "geom:longitude":75.15533,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Muslim Town",
+    "gn:country_code":"PK",
+    "gn:dem":264,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11081512,
+    "gn:latitude":32.25313,
+    "gn:longitude":75.15533,
+    "gn:modification_date":"2016-03-12",
+    "gn:name":"Muslim Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"75.13533,32.23313,75.17533,32.27313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:hin_x_preferred":[
+        "\u092e\u0941\u0938\u094d\u0932\u093f\u092e \u091f\u093e\u0909\u0928"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209738787,
+        1108692325,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11081512
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6d7628ca6449d1441a1e592ad1c1e9bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":1209738787,
+            "neighbourhood_id":1780037333,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037333,
+    "wof:lastmodified":1659484738,
+    "wof:name":"Muslim Town",
+    "wof:parent_id":1108692325,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209738787
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    75.15533,
+    32.25313,
+    75.15533,
+    32.25313
+],
+  "geometry": {"coordinates":[75.15533000000001,32.25313],"type":"Point"}
+}

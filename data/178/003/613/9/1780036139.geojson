@@ -1,0 +1,76 @@
+{
+  "id": 1780036139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44745,30.23744,71.44745,30.23744",
+    "geom:latitude":30.23744,
+    "geom:longitude":71.44745,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Arianian",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348830,
+    "gn:latitude":30.23744,
+    "gn:longitude":71.44745,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Basti Arianian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.42745,30.21744,71.46745,30.25744",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1327236841,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348830
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d132611058398e9f5ae5d28cd2d98bde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1327236841,
+            "neighbourhood_id":1780036139,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036139,
+    "wof:lastmodified":1659484815,
+    "wof:name":"Basti Arianian",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327236841
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44745,
+    30.23744,
+    71.44745,
+    30.23744
+],
+  "geometry": {"coordinates":[71.44745,30.23744],"type":"Point"}
+}

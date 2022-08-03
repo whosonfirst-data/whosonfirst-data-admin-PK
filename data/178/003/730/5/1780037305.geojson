@@ -1,0 +1,76 @@
+{
+  "id": 1780037305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.02763,33.437,72.02763,33.437",
+    "geom:latitude":33.437,
+    "geom:longitude":72.02763,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Tehra",
+    "gn:country_code":"PK",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340921,
+    "gn:latitude":33.437,
+    "gn:longitude":72.02763,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Tehra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.00763,33.417,72.04763,33.457",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1209948637,
+        1108692119,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340921
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"305d427660f500ec8be7fbb622406c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":1209948637,
+            "neighbourhood_id":1780037305,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037305,
+    "wof:lastmodified":1659484747,
+    "wof:name":"Tehra",
+    "wof:parent_id":1108692119,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209948637
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.02763,
+    33.437,
+    72.02763,
+    33.437
+],
+  "geometry": {"coordinates":[72.02763,33.437],"type":"Point"}
+}

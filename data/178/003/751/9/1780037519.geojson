@@ -1,0 +1,76 @@
+{
+  "id": 1780037519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.65703,30.15424,72.65703,30.15424",
+    "geom:latitude":30.15424,
+    "geom:longitude":72.65703,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Marzipura",
+    "gn:country_code":"PK",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494312,
+    "gn:latitude":30.15424,
+    "gn:longitude":72.65703,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Marzipura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.63703,30.13424,72.67703,30.17424",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1260188233,
+        1108692421,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494312
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f57954ffcea2f34612a4731373ed8ea0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":1260188233,
+            "neighbourhood_id":1780037519,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037519,
+    "wof:lastmodified":1659484777,
+    "wof:name":"Marzipura",
+    "wof:parent_id":1108692421,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260188233
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.65703,
+    30.15424,
+    72.65703,
+    30.15424
+],
+  "geometry": {"coordinates":[72.65703000000001,30.15424],"type":"Point"}
+}

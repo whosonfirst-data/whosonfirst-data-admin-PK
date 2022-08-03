@@ -1,0 +1,79 @@
+{
+  "id": 1780037907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.05661,32.58693,74.05661,32.58693",
+    "geom:latitude":32.58693,
+    "geom:longitude":74.05661,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Amar Colony",
+    "gn:country_code":"PK",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1412868,
+    "gn:latitude":32.58693,
+    "gn:longitude":74.05661,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Amar Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.03661,32.56693,74.07661,32.60693",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Amar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1243369093,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1412868
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57fed85ea9d8452bd72a61362546ca6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1243369093,
+            "neighbourhood_id":1780037907,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037907,
+    "wof:lastmodified":1659484803,
+    "wof:name":"Amar Colony",
+    "wof:parent_id":1108692197,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243369093
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.05661,
+    32.58693,
+    74.05661,
+    32.58693
+],
+  "geometry": {"coordinates":[74.05661000000001,32.58693],"type":"Point"}
+}

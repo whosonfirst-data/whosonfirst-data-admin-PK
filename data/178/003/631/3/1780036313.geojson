@@ -1,0 +1,76 @@
+{
+  "id": 1780036313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.92597,27.85354,67.92597,27.85354",
+    "geom:latitude":27.85354,
+    "geom:longitude":67.92597,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Fazal Brahui",
+    "gn:country_code":"PK",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11115745,
+    "gn:latitude":27.85354,
+    "gn:longitude":67.92597,
+    "gn:modification_date":"2018-02-08",
+    "gn:name":"Goth Fazal Brahui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"67.90597,27.83354,67.94597,27.87354",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1327435845,
+        1108692355,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11115745
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ddec8425a072045d5dad4db9c46f3873",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1327435845,
+            "neighbourhood_id":1780036313,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036313,
+    "wof:lastmodified":1659484723,
+    "wof:name":"Goth Fazal Brahui",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327435845
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.92597,
+    27.85354,
+    67.92597,
+    27.85354
+],
+  "geometry": {"coordinates":[67.92597000000001,27.85354],"type":"Point"}
+}

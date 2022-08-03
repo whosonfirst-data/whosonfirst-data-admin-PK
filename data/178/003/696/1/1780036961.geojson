@@ -1,0 +1,76 @@
+{
+  "id": 1780036961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42573,30.21045,71.42573,30.21045",
+    "geom:latitude":30.21045,
+    "geom:longitude":71.42573,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Katlawaris Shah",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409690,
+    "gn:latitude":30.21045,
+    "gn:longitude":71.42573,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Katlawaris Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.40573,30.19045,71.44573,30.23045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1277005277,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409690
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7523a19315986b4cf5f78916919e362b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":1277005277,
+            "neighbourhood_id":1780036961,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036961,
+    "wof:lastmodified":1659484800,
+    "wof:name":"Katlawaris Shah",
+    "wof:parent_id":1108692313,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277005277
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42573,
+    30.21045,
+    71.42573,
+    30.21045
+],
+  "geometry": {"coordinates":[71.42573,30.21045],"type":"Point"}
+}

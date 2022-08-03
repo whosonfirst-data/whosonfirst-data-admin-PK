@@ -1,0 +1,76 @@
+{
+  "id": 1780038221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.30596,31.28236,72.30596,31.28236",
+    "geom:latitude":31.28236,
+    "geom:longitude":72.30596,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chah Lakhiwal",
+    "gn:country_code":"PK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11464216,
+    "gn:latitude":31.28236,
+    "gn:longitude":72.30596,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chah Lakhiwal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.28596,31.26236,72.32596,31.30236",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259488613,
+        1108692223,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11464216
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6aa944d9f2500c4ede0f8a70215ec892",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692223,
+            "locality_id":1259488613,
+            "neighbourhood_id":1780038221,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038221,
+    "wof:lastmodified":1659484725,
+    "wof:name":"Chah Lakhiwal",
+    "wof:parent_id":1108692223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259488613
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.30596,
+    31.28236,
+    72.30596,
+    31.28236
+],
+  "geometry": {"coordinates":[72.30596,31.28236],"type":"Point"}
+}

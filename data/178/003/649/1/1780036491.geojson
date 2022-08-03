@@ -1,0 +1,82 @@
+{
+  "id": 1780036491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.06667,31.35,73.06667,31.35",
+    "geom:latitude":31.35,
+    "geom:longitude":73.06667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sahibnagar",
+    "gn:country_code":"PK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1166554,
+    "gn:latitude":31.35,
+    "gn:longitude":73.06667,
+    "gn:modification_date":"1994-01-27",
+    "gn:name":"S\u0101hibnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.04667,31.33,73.08667,31.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0633\u0647\u06cc\u0628\u200c\u0646\u06af\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06c1\u06cc\u0628\u0646\u06af\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343667417,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1166554
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"289260f0d1165521b91c7758f6bfe074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":1343667417,
+            "neighbourhood_id":1780036491,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036491,
+    "wof:lastmodified":1659484785,
+    "wof:name":"Sahibnagar",
+    "wof:parent_id":1108692169,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343667417
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.06667,
+    31.35,
+    73.06667,
+    31.35
+],
+  "geometry": {"coordinates":[73.06667,31.35],"type":"Point"}
+}

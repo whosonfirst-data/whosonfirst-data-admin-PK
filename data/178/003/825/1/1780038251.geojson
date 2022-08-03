@@ -1,0 +1,76 @@
+{
+  "id": 1780038251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.18123,32.19401,74.18123,32.19401",
+    "geom:latitude":32.19401,
+    "geom:longitude":74.18123,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulshan-e-Ayazk",
+    "gn:country_code":"PK",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11453436,
+    "gn:latitude":32.19401,
+    "gn:longitude":74.18123,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Gulshan-e-Ayazk",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.16123,32.17401,74.20123,32.21401",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1259782933,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11453436
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e9357c0598d567cf303e2743595044e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":1259782933,
+            "neighbourhood_id":1780038251,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038251,
+    "wof:lastmodified":1659484757,
+    "wof:name":"Gulshan-e-Ayazk",
+    "wof:parent_id":1108692195,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259782933
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.18123,
+    32.19401,
+    74.18123,
+    32.19401
+],
+  "geometry": {"coordinates":[74.18123,32.19401],"type":"Point"}
+}

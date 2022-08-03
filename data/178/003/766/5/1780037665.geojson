@@ -1,0 +1,88 @@
+{
+  "id": 1780037665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.68177,32.92091,73.68177,32.92091",
+    "geom:latitude":32.92091,
+    "geom:longitude":73.68177,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Chak Lota",
+    "gn:country_code":"PK",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1171860,
+    "gn:latitude":32.92091,
+    "gn:longitude":73.68177,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Chak Lota",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.66177,32.90091,73.70177,32.94091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0644\u0648\u062a\u0627"
+    ],
+    "name:und_x_variant":[
+        "Lotah",
+        "Lota",
+        "Chak Lota"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u0679\u0627"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310105129,
+        1108692227,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1171860,
+        "wk:page":"Lota%2C_Punjab"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"108714b388bbb030b98d8a56b4cb394c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":1310105129,
+            "neighbourhood_id":1780037665,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037665,
+    "wof:lastmodified":1659484804,
+    "wof:name":"Chak Lota",
+    "wof:parent_id":1108692227,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310105129
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.68177,
+    32.92091,
+    73.68177,
+    32.92091
+],
+  "geometry": {"coordinates":[73.68177,32.92091],"type":"Point"}
+}

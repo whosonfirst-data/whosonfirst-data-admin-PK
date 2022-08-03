@@ -1,0 +1,88 @@
+{
+  "id": 1780037625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.00278,27.58056,68.00278,27.58056",
+    "geom:latitude":27.58056,
+    "geom:longitude":68.00278,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Sujawal",
+    "gn:country_code":"PK",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1357402,
+    "gn:latitude":27.58056,
+    "gn:longitude":68.00278,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Sujawal",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"67.98278,27.56056,68.02278,27.60056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0633\u062c\u0627\u0648\u0644"
+    ],
+    "name:snd_x_preferred":[
+        "\u0633\u062c\u0627\u0648\u0644"
+    ],
+    "name:swe_x_preferred":[
+        "Sujawal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u062c\u0627\u0648\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1310010311,
+        1108692355,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1357402
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e3678ec4896e23af26f3a543c17304ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692355,
+            "locality_id":1310010311,
+            "neighbourhood_id":1780037625,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037625,
+    "wof:lastmodified":1659484759,
+    "wof:name":"Sujawal",
+    "wof:parent_id":1108692355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310010311
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.00278,
+    27.58056,
+    68.00278,
+    27.58056
+],
+  "geometry": {"coordinates":[68.00278,27.58056],"type":"Point"}
+}

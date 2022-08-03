@@ -1,0 +1,76 @@
+{
+  "id": 1780036923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.77333,32.8225,70.77333,32.8225",
+    "geom:latitude":32.8225,
+    "geom:longitude":70.77333,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Sikandar Khan",
+    "gn:country_code":"PK",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1334489,
+    "gn:latitude":32.8225,
+    "gn:longitude":70.77333,
+    "gn:modification_date":"2005-05-13",
+    "gn:name":"Sikandar Kh\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.75333,32.8025,70.79333,32.8425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1293884369,
+        1108692275,
+        85675763
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1334489
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7fcc03775bf33074a7140a5f737eb52a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692275,
+            "locality_id":1293884369,
+            "neighbourhood_id":1780036923,
+            "region_id":85675763
+        }
+    ],
+    "wof:id":1780036923,
+    "wof:lastmodified":1659484773,
+    "wof:name":"Sikandar Khan",
+    "wof:parent_id":1108692275,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293884369
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.77333,
+    32.8225,
+    70.77333,
+    32.8225
+],
+  "geometry": {"coordinates":[70.77333,32.8225],"type":"Point"}
+}

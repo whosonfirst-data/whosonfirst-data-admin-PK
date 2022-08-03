@@ -1,0 +1,76 @@
+{
+  "id": 1780036603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.74306,29.12639,71.74306,29.12639",
+    "geom:latitude":29.12639,
+    "geom:longitude":71.74306,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Yazman Mandi",
+    "gn:country_code":"PK",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1376442,
+    "gn:latitude":29.12639,
+    "gn:longitude":71.74306,
+    "gn:modification_date":"2001-10-03",
+    "gn:name":"Yazm\u0101n Mandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.72306,29.10639,71.76306,29.14639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343285213,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1376442
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5b71eea3c8c39ca650c49d561ff9b998",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1343285213,
+            "neighbourhood_id":1780036603,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036603,
+    "wof:lastmodified":1659484828,
+    "wof:name":"Yazman Mandi",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343285213
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.74306,
+    29.12639,
+    71.74306,
+    29.12639
+],
+  "geometry": {"coordinates":[71.74306,29.12639],"type":"Point"}
+}

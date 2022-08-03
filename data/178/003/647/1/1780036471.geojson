@@ -1,0 +1,76 @@
+{
+  "id": 1780036471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.64423,25.7681,68.64423,25.7681",
+    "geom:latitude":25.7681,
+    "geom:longitude":68.64423,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Goth Abdullah Shah",
+    "gn:country_code":"PK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1358375,
+    "gn:latitude":25.7681,
+    "gn:longitude":68.64423,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Goth Abdullah Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.62423,25.7481,68.66423,25.7881",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343660233,
+        1108692365,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1358375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a2efd53f35e883e3d2c9e1e77f68ee9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1343660233,
+            "neighbourhood_id":1780036471,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036471,
+    "wof:lastmodified":1659484730,
+    "wof:name":"Goth Abdullah Shah",
+    "wof:parent_id":1108692365,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343660233
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.64423,
+    25.7681,
+    68.64423,
+    25.7681
+],
+  "geometry": {"coordinates":[68.64422999999999,25.7681],"type":"Point"}
+}

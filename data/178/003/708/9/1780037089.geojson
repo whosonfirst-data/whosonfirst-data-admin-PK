@@ -1,0 +1,76 @@
+{
+  "id": 1780037089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.27278,31.78389,74.27278,31.78389",
+    "geom:latitude":31.78389,
+    "geom:longitude":74.27278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rakh Jamadar",
+    "gn:country_code":"PK",
+    "gn:dem":210,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331307,
+    "gn:latitude":31.78389,
+    "gn:longitude":74.27278,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Rakh Jamadar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.25278,31.76389,74.29278,31.80389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276799323,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331307
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fb483b36db97495d9426ef9282ab3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":1276799323,
+            "neighbourhood_id":1780037089,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037089,
+    "wof:lastmodified":1659484739,
+    "wof:name":"Rakh Jamadar",
+    "wof:parent_id":1108692377,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276799323
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.27278,
+    31.78389,
+    74.27278,
+    31.78389
+],
+  "geometry": {"coordinates":[74.27278,31.78389],"type":"Point"}
+}

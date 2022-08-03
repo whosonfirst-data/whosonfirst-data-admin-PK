@@ -1,0 +1,79 @@
+{
+  "id": 1780038589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97202,31.22429,73.97202,31.22429",
+    "geom:latitude":31.22429,
+    "geom:longitude":73.97202,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Parnawan",
+    "gn:country_code":"PK",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1388286,
+    "gn:latitude":31.22429,
+    "gn:longitude":73.97202,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Parnawan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.95202,31.20429,73.99202,31.24429",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Parna W\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1225850617,
+        1108692239,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1388286
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ae356dc2ef22f657cd184953b42afa94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":1225850617,
+            "neighbourhood_id":1780038589,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038589,
+    "wof:lastmodified":1659484816,
+    "wof:name":"Parnawan",
+    "wof:parent_id":1108692239,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225850617
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97202,
+    31.22429,
+    73.97202,
+    31.22429
+],
+  "geometry": {"coordinates":[73.97202,31.22429],"type":"Point"}
+}

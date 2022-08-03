@@ -1,0 +1,76 @@
+{
+  "id": 1780036089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.8744,29.5548,67.8744,29.5548",
+    "geom:latitude":29.5548,
+    "geom:longitude":67.8744,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Dehpal Bostan",
+    "gn:country_code":"PK",
+    "gn:dem":137,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1394696,
+    "gn:latitude":29.5548,
+    "gn:longitude":67.8744,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Dehpal Bostan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"67.8544,29.5348,67.8944,29.5748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1326932621,
+        1108692383,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1394696
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d01f6e34cceda968b0766502ba4fdb1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692383,
+            "locality_id":1326932621,
+            "neighbourhood_id":1780036089,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780036089,
+    "wof:lastmodified":1659484756,
+    "wof:name":"Dehpal Bostan",
+    "wof:parent_id":1108692383,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326932621
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.8744,
+    29.5548,
+    67.8744,
+    29.5548
+],
+  "geometry": {"coordinates":[67.87439999999999,29.5548],"type":"Point"}
+}

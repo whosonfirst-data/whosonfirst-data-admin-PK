@@ -1,0 +1,79 @@
+{
+  "id": 1780036959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.69306,29.3875,71.69306,29.3875",
+    "geom:latitude":29.3875,
+    "geom:longitude":71.69306,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Faujian",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381879,
+    "gn:latitude":29.3875,
+    "gn:longitude":71.69306,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Basti Faujian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.67306,29.3675,71.71306,29.4075",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Basti Faujian"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1277005195,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381879
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5d5bc17ff4ad93600fdb70af2399e369",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":1277005195,
+            "neighbourhood_id":1780036959,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036959,
+    "wof:lastmodified":1659484759,
+    "wof:name":"Basti Faujian",
+    "wof:parent_id":1108692129,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277005195
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.69306,
+    29.3875,
+    71.69306,
+    29.3875
+],
+  "geometry": {"coordinates":[71.69306,29.3875],"type":"Point"}
+}

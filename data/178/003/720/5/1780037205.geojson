@@ -1,0 +1,73 @@
+{
+  "id": 1780037205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44589,30.23541,71.44589,30.23541",
+    "geom:latitude":30.23541,
+    "geom:longitude":71.44589,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thatti Sandila",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409676,
+    "gn:latitude":30.23541,
+    "gn:longitude":71.44589,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Thatti Sandila",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.42589,30.21541,71.46589,30.25541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Thatta Sand\u012bl\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209638773,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409676
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab0808630751bc368f65f00dcd0b26f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209638773,
+            "neighbourhood_id":1780037205
+        }
+    ],
+    "wof:id":1780037205,
+    "wof:lastmodified":1659484822,
+    "wof:name":"Thatti Sandila",
+    "wof:parent_id":85632659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209638773
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44589,
+    30.23541,
+    71.44589,
+    30.23541
+],
+  "geometry": {"coordinates":[71.44589000000001,30.23541],"type":"Point"}
+}

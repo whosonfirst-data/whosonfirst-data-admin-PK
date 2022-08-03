@@ -2,7 +2,7 @@
   "id": 1326835891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11534946
     },
     "wof:country":"PK",
-    "wof:geomhash":"355c6035fea6d9402a8243836d3de17b",
+    "wof:geomhash":"8e72924390c5b66c9f55969739f8db95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1326835891,
-    "wof:lastmodified":1566582688,
+    "wof:lastmodified":1659484729,
     "wof:name":"Ahmad Park",
     "wof:parent_id":1108692377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.26933000000002,
+    74.26933,
     31.78802,
-    74.26933000000002,
+    74.26933,
     31.78802
 ],
-  "geometry": {"coordinates":[74.26933000000002,31.78802],"type":"Point"}
+  "geometry": {"coordinates":[74.26933,31.78802],"type":"Point"}
 }

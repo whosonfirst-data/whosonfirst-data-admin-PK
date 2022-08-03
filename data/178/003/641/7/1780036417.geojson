@@ -1,0 +1,76 @@
+{
+  "id": 1780036417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.25743,30.0171,73.25743,30.0171",
+    "geom:latitude":30.0171,
+    "geom:longitude":73.25743,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Khachianwali Bhaini",
+    "gn:country_code":"PK",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11539897,
+    "gn:latitude":30.0171,
+    "gn:longitude":73.25743,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Khachianwali Bhaini",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.23743,29.9971,73.27743,30.0371",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1343858005,
+        1108692127,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11539897
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"88013565169226a43fc60d6b7b4cec2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1343858005,
+            "neighbourhood_id":1780036417,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036417,
+    "wof:lastmodified":1659484792,
+    "wof:name":"Khachianwali Bhaini",
+    "wof:parent_id":1108692127,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343858005
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.25743,
+    30.0171,
+    73.25743,
+    30.0171
+],
+  "geometry": {"coordinates":[73.25743,30.0171],"type":"Point"}
+}

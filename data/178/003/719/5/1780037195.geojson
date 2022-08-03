@@ -1,0 +1,73 @@
+{
+  "id": 1780037195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.62467,30.06538,70.62467,30.06538",
+    "geom:latitude":30.06538,
+    "geom:longitude":70.62467,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bihari Colony",
+    "gn:country_code":"PK",
+    "gn:dem":129,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505161,
+    "gn:latitude":30.06538,
+    "gn:longitude":70.62467,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bihari Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.60467,30.04538,70.64467,30.08538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bihari Colony"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        1209620841,
+        85632659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505161
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a5367c56d49f5954c153532b491255ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "locality_id":1209620841,
+            "neighbourhood_id":1780037195
+        }
+    ],
+    "wof:id":1780037195,
+    "wof:lastmodified":1659484740,
+    "wof:name":"Bihari Colony",
+    "wof:parent_id":85632659,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209620841
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.62467,
+    30.06538,
+    70.62467,
+    30.06538
+],
+  "geometry": {"coordinates":[70.62466999999999,30.06538],"type":"Point"}
+}

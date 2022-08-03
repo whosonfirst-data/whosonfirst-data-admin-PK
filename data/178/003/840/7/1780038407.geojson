@@ -1,0 +1,76 @@
+{
+  "id": 1780038407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.83357,24.67123,68.83357,24.67123",
+    "geom:latitude":24.67123,
+    "geom:longitude":68.83357,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Haji Ali Khalifa",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11375906,
+    "gn:latitude":24.67123,
+    "gn:longitude":68.83357,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Haji Ali Khalifa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.81357,24.65123,68.85357,24.69123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1226446805,
+        1108692123,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11375906
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b29ba78940a576f33d51c80fc6c01a63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":1226446805,
+            "neighbourhood_id":1780038407,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038407,
+    "wof:lastmodified":1659484736,
+    "wof:name":"Haji Ali Khalifa",
+    "wof:parent_id":1108692123,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226446805
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.83357,
+    24.67123,
+    68.83357,
+    24.67123
+],
+  "geometry": {"coordinates":[68.83356999999999,24.67123],"type":"Point"}
+}
