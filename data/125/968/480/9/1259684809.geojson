@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Tangi"
     ],
+    "name:eng_x_preferred":[
+        "Tangi"
+    ],
     "name:fra_x_preferred":[
         "Tangi"
     ],
@@ -46,6 +49,9 @@
     ],
     "name:tgl_x_preferred":[
         "Tangi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0646\u06af\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +65,7 @@
         "gn:id":1163928
     },
     "wof:country":"PK",
-    "wof:geomhash":"279a05ea49d5c2364cf9cbf37ec77012",
+    "wof:geomhash":"39f1174212d1289adf5952b975ed3f38",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1259684809,
-    "wof:lastmodified":1566593730,
+    "wof:lastmodified":1659986193,
     "wof:name":"Tangi",
     "wof:parent_id":1108692335,
     "wof:placetype":"locality",
@@ -80,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.00516999999998,
+    72.00517,
     33.9469,
-    72.00516999999998,
+    72.00517,
     33.9469
 ],
-  "geometry": {"coordinates":[72.00516999999998,33.9469],"type":"Point"}
+  "geometry": {"coordinates":[72.00517000000001,33.9469],"type":"Point"}
 }

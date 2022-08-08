@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Sanda"
     ],
+    "name:eng_x_preferred":[
+        "Sanda"
+    ],
     "name:fra_x_preferred":[
         "Sanda"
     ],
@@ -69,6 +72,9 @@
         "Sandah",
         "S\u0101nde"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u0646\u0688\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -81,7 +87,7 @@
         "gn:id":1166207
     },
     "wof:country":"PK",
-    "wof:geomhash":"385f36d61317d5198345581886df9cbc",
+    "wof:geomhash":"34f87b952cfc46277de41ef0a895ee22",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +98,7 @@
         }
     ],
     "wof:id":1259992077,
-    "wof:lastmodified":1566593386,
+    "wof:lastmodified":1659986182,
     "wof:name":"Sanda",
     "wof:parent_id":890420091,
     "wof:placetype":"locality",
@@ -102,10 +108,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.29406999999999,
+    69.29407,
     30.48323,
-    69.29406999999999,
+    69.29407,
     30.48323
 ],
-  "geometry": {"coordinates":[69.29406999999999,30.48323],"type":"Point"}
+  "geometry": {"coordinates":[69.29407,30.48323],"type":"Point"}
 }

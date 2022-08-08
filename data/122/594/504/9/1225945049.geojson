@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Bhera"
     ],
+    "name:eng_x_preferred":[
+        "Bhera"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u062d\u0635\u06cc\u0644 \u0628\u0647\u06cc\u0631\u0647"
     ],
@@ -51,6 +54,9 @@
         "Bhera"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u06be\u06cc\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u06be\u06cc\u0631\u06c1"
     ],
     "src:geom":"geonames",
@@ -65,7 +71,7 @@
         "gn:id":1338283
     },
     "wof:country":"PK",
-    "wof:geomhash":"71c2f5a31ac61740e614e490a865c7ba",
+    "wof:geomhash":"6a1490e4d61af501d68b50a8b6781f23",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1225945049,
-    "wof:lastmodified":1566594032,
+    "wof:lastmodified":1659986202,
     "wof:name":"Bhera",
     "wof:parent_id":1108692205,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.87156999999998,
+    72.87157,
     33.78469,
-    72.87156999999998,
+    72.87157,
     33.78469
 ],
-  "geometry": {"coordinates":[72.87156999999998,33.78469],"type":"Point"}
+  "geometry": {"coordinates":[72.87157000000001,33.78469],"type":"Point"}
 }

@@ -30,16 +30,22 @@
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Muslim Town"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0941\u0938\u094d\u0932\u093f\u092e \u091f\u093e\u0909\u0928"
     ],
+    "name:urd_x_preferred":[
+        "\u0645\u0633\u0644\u0645 \u0679\u0627\u0624\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
         1209738787,
-        1108692325,
-        85675753
+        1108692325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1780037333,
-    "wof:lastmodified":1659484738,
+    "wof:lastmodified":1659986244,
     "wof:name":"Muslim Town",
     "wof:parent_id":1108692325,
     "wof:placetype":"neighbourhood",

@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Im\u00e5m B\u00e5ra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0645\u0627\u0645 \u0628\u0627\u0691\u06c1"
+    ],
     "qs_pg:aaroncc":"PK",
     "qs_pg:gn_country":"PK",
     "qs_pg:gn_fcode":"PPLX",
@@ -52,10 +58,10 @@
     "woe:name_adm1":"Punjab",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
-        1108692361,
-        85675753
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,7 +83,7 @@
         }
     ],
     "wof:id":1126088835,
-    "wof:lastmodified":1659478468,
+    "wof:lastmodified":1659986132,
     "wof:name":"Im\u00e5m B\u00e5ra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

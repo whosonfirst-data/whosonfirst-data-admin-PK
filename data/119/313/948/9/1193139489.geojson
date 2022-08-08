@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Khudadad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062e\u062f\u0627\u062f\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":1395171
     },
     "wof:country":"PK",
-    "wof:geomhash":"a24e1396a1b9f6a4bdb1de05829155b4",
+    "wof:geomhash":"354c4cc2c2d2e65528febf2035f66717",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1193139489,
-    "wof:lastmodified":1566589549,
+    "wof:lastmodified":1659986031,
     "wof:name":"Khudadad",
     "wof:parent_id":1108692301,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.02306999999999,
+    67.02307,
     29.85787,
-    67.02306999999999,
+    67.02307,
     29.85787
 ],
-  "geometry": {"coordinates":[67.02306999999999,29.85787],"type":"Point"}
+  "geometry": {"coordinates":[67.02307,29.85787],"type":"Point"}
 }

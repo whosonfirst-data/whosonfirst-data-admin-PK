@@ -65,6 +65,9 @@
     "name:deu_x_preferred":[
         "Gujranwala"
     ],
+    "name:eng_x_preferred":[
+        "Gujranwala"
+    ],
     "name:epo_x_preferred":[
         "Gu\u011dranvalo"
     ],
@@ -159,6 +162,9 @@
         "\u0413\u0443\u0434\u0436\u0440\u0430\u043d\u0432\u0430\u043b\u0430"
     ],
     "name:urd_x_preferred":[
+        "\u06af\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u06c1"
+    ],
+    "name:urd_x_variant":[
         "\u06af\u0648\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u06c1"
     ],
     "name:uzb_x_preferred":[
@@ -188,7 +194,7 @@
         "gn:id":11464248
     },
     "wof:country":"PK",
-    "wof:geomhash":"e36f383749a0bcc74dbfccc5f37b39c4",
+    "wof:geomhash":"d983d34c12bff07d6845306894942e8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -199,7 +205,7 @@
         }
     ],
     "wof:id":1226465813,
-    "wof:lastmodified":1566594868,
+    "wof:lastmodified":1659986229,
     "wof:name":"Gujranwala",
     "wof:parent_id":1108692223,
     "wof:placetype":"locality",
@@ -210,9 +216,9 @@
 },
   "bbox": [
     72.38566,
-    31.43809000000001,
+    31.43809,
     72.38566,
-    31.43809000000001
+    31.43809
 ],
-  "geometry": {"coordinates":[72.38566,31.43809000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.38566,31.43809],"type":"Point"}
 }

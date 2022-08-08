@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Thal"
+    ],
     "name:und_x_variant":[
         "Thall",
         "Thal"
     ],
     "name:urd_x_preferred":[
+        "\u062a\u06be\u0644"
+    ],
+    "name:urd_x_variant":[
         "\u062a\u06be\u0627\u0644"
     ],
     "src:geom":"geonames",
@@ -49,7 +55,7 @@
         "wk:page":"Thall"
     },
     "wof:country":"PK",
-    "wof:geomhash":"0024e7fb34b87e6db436819721441227",
+    "wof:geomhash":"6fc70199fbd8e33ce0ea74d20cb11908",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1276228805,
-    "wof:lastmodified":1566587356,
+    "wof:lastmodified":1659985971,
     "wof:name":"Thal",
     "wof:parent_id":1108692203,
     "wof:placetype":"locality",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     70.551,
-    33.36454000000001,
+    33.36454,
     70.551,
-    33.36454000000001
+    33.36454
 ],
-  "geometry": {"coordinates":[70.551,33.36454000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.551,33.36454],"type":"Point"}
 }

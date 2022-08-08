@@ -32,12 +32,18 @@
     "name:ceb_x_preferred":[
         "Gh\u0101ro"
     ],
+    "name:eng_x_preferred":[
+        "Gharo"
+    ],
     "name:pnb_x_preferred":[
         "\u06af\u06be\u0627\u0631\u0648"
     ],
     "name:und_x_variant":[
         "Ghoro",
         "Gharo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u06be\u0627\u0631\u0648"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -48,7 +54,7 @@
         "gn:id":1351907
     },
     "wof:country":"PK",
-    "wof:geomhash":"225618c10f74a67361407caa6d009c17",
+    "wof:geomhash":"ca74fab42623e3fc243ebc7c5334f67f",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1209316799,
-    "wof:lastmodified":1566588098,
+    "wof:lastmodified":1659985990,
     "wof:name":"Gharo",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -66,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.53688000000001,
+    66.53688,
     27.40432,
-    66.53688000000001,
+    66.53688,
     27.40432
 ],
-  "geometry": {"coordinates":[66.53688000000001,27.40432],"type":"Point"}
+  "geometry": {"coordinates":[66.53688,27.40432],"type":"Point"}
 }

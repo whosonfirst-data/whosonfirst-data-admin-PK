@@ -20,6 +20,12 @@
     "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Nawa\u00e5b\u00e5d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0648\u0627\u0628 \u0622\u0628\u0627\u062f"
+    ],
     "qs_pg:aaroncc":"PK",
     "qs_pg:gn_country":"PK",
     "qs_pg:gn_fcode":"PPLX",
@@ -52,11 +58,11 @@
     "woe:name_adm1":"Sindh",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
         421191101,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,7 +84,7 @@
         }
     ],
     "wof:id":1126065039,
-    "wof:lastmodified":1659478464,
+    "wof:lastmodified":1659986132,
     "wof:name":"Nawa\u00e5b\u00e5d",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",

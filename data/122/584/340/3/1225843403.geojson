@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bashirabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0634\u06cc\u0631 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":1397087
     },
     "wof:country":"PK",
-    "wof:geomhash":"116fc21ae325870c3a053f07243e4488",
+    "wof:geomhash":"7fccc66f0d7a07def04a5e438c0fc0ee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1225843403,
-    "wof:lastmodified":1566595186,
+    "wof:lastmodified":1659986239,
     "wof:name":"Bashirabad",
     "wof:parent_id":1108692379,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.80100999999999,
+    68.80101,
     28.08063,
-    68.80100999999999,
+    68.80101,
     28.08063
 ],
-  "geometry": {"coordinates":[68.80100999999999,28.08063],"type":"Point"}
+  "geometry": {"coordinates":[68.80101000000001,28.08063],"type":"Point"}
 }

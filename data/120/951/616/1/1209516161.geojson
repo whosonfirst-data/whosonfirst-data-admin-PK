@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Asghar"
     ],
+    "name:urd_x_preferred":[
+        "\u0627\u0635\u063a\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +47,7 @@
         "gn:id":1373998
     },
     "wof:country":"PK",
-    "wof:geomhash":"5e42af720c2dd05ff83abf829d6f85ad",
+    "wof:geomhash":"af75e439091b2777f82ec66d62f7bf5a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1209516161,
-    "wof:lastmodified":1566588944,
+    "wof:lastmodified":1659986012,
     "wof:name":"Asghar",
     "wof:parent_id":1108692289,
     "wof:placetype":"locality",
@@ -65,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.82864000000002,
+    71.82864,
     35.0249,
-    71.82864000000002,
+    71.82864,
     35.0249
 ],
-  "geometry": {"coordinates":[71.82864000000002,35.0249],"type":"Point"}
+  "geometry": {"coordinates":[71.82863999999999,35.0249],"type":"Point"}
 }

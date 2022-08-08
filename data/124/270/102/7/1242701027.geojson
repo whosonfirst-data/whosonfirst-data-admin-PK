@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "N\u0101row\u0101l"
     ],
+    "name:eng_x_preferred":[
+        "Narowal"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0627\u0631\u0648\u0648\u0627\u0644"
     ],
@@ -65,7 +68,7 @@
         "gn:id":1169277
     },
     "wof:country":"PK",
-    "wof:geomhash":"7ad5c39dce5b5ac5270caac6108241e1",
+    "wof:geomhash":"c24ce71cee96626804364029c2580588",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1242701027,
-    "wof:lastmodified":1566592631,
+    "wof:lastmodified":1659986159,
     "wof:name":"Narowal",
     "wof:parent_id":1108692201,
     "wof:placetype":"locality",
@@ -87,9 +90,9 @@
 },
   "bbox": [
     73.41591,
-    32.12419000000001,
+    32.12419,
     73.41591,
-    32.12419000000001
+    32.12419
 ],
-  "geometry": {"coordinates":[73.41591,32.12419000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.41591,32.12419],"type":"Point"}
 }

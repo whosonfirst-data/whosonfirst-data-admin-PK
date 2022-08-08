@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shahpur"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u067e\u0648\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,7 +48,7 @@
         "wk:page":"Shahpur%2C_Pakistan"
     },
     "wof:country":"PK",
-    "wof:geomhash":"13fdb0ce20bcc69e3ea13bb0df3b03fa",
+    "wof:geomhash":"f34053bb8545f05bf9c4417366ab533d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1293721663,
-    "wof:lastmodified":1566586461,
+    "wof:lastmodified":1659985949,
     "wof:name":"Shahpur",
     "wof:parent_id":1108692283,
     "wof:placetype":"locality",
@@ -63,10 +69,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.94353000000002,
+    70.94353,
     31.09072,
-    70.94353000000002,
+    70.94353,
     31.09072
 ],
-  "geometry": {"coordinates":[70.94353000000002,31.09072],"type":"Point"}
+  "geometry": {"coordinates":[70.94353,31.09072],"type":"Point"}
 }

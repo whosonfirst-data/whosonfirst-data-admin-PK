@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Jumman Shah"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0645\u0646 \u0634\u0627\u06c1"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":1417996
     },
     "wof:country":"PK",
-    "wof:geomhash":"080785656f55e4fe16aa063773a2723c",
+    "wof:geomhash":"1ad95cf0ef301d0485c8c00fe59de558",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343267473,
-    "wof:lastmodified":1566584772,
+    "wof:lastmodified":1659985907,
     "wof:name":"Jumman Shah",
     "wof:parent_id":1108692287,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.78348000000003,
+    71.78348,
     29.50648,
-    71.78348000000003,
+    71.78348,
     29.50648
 ],
-  "geometry": {"coordinates":[71.78348000000003,29.50648],"type":"Point"}
+  "geometry": {"coordinates":[71.78348,29.50648],"type":"Point"}
 }

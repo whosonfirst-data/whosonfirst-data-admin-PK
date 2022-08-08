@@ -116,6 +116,9 @@
     "name:ell_x_preferred":[
         "\u0399\u03c3\u03bb\u03b1\u03bc\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
+    "name:eng_x_preferred":[
+        "Islamabad"
+    ],
     "name:epo_x_preferred":[
         "Islamabado"
     ],
@@ -470,7 +473,7 @@
         "gn:id":11457317
     },
     "wof:country":"PK",
-    "wof:geomhash":"e22319ad3d3e13b400f9f743b905afe4",
+    "wof:geomhash":"a3d0d9be6de0a4bd680cc71c689426f4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -481,7 +484,7 @@
         }
     ],
     "wof:id":1343661281,
-    "wof:lastmodified":1566584158,
+    "wof:lastmodified":1659985891,
     "wof:name":"Islamabad",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",
@@ -491,10 +494,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.45345999999998,
+    73.45346,
     33.27745,
-    73.45345999999998,
+    73.45346,
     33.27745
 ],
-  "geometry": {"coordinates":[73.45345999999998,33.27745],"type":"Point"}
+  "geometry": {"coordinates":[73.45346000000001,33.27745],"type":"Point"}
 }

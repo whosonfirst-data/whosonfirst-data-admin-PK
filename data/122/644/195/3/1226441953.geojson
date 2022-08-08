@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ghaziwala"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0627\u0632\u06cc \u0648\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":7335165
     },
     "wof:country":"PK",
-    "wof:geomhash":"6448970a1f478c39d73c6165c770337a",
+    "wof:geomhash":"550474dfef768190a9daa39486a3c434",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226441953,
-    "wof:lastmodified":1566594167,
+    "wof:lastmodified":1659986207,
     "wof:name":"Ghaziwala",
     "wof:parent_id":1108692247,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.06154000000002,
+    72.06154,
     30.59654,
-    72.06154000000002,
+    72.06154,
     30.59654
 ],
-  "geometry": {"coordinates":[72.06154000000002,30.59654],"type":"Point"}
+  "geometry": {"coordinates":[72.06153999999999,30.59654],"type":"Point"}
 }

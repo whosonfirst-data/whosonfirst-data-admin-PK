@@ -48,6 +48,9 @@
     "name:deu_x_preferred":[
         "Thatta"
     ],
+    "name:eng_x_preferred":[
+        "Thatta"
+    ],
     "name:epo_x_preferred":[
         "Thatta"
     ],
@@ -119,11 +122,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
         1259902923,
-        1108692195,
-        85675753
+        1108692195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -142,7 +145,7 @@
         }
     ],
     "wof:id":1780038213,
-    "wof:lastmodified":1659484815,
+    "wof:lastmodified":1659986242,
     "wof:name":"Thatta",
     "wof:parent_id":1108692195,
     "wof:placetype":"neighbourhood",

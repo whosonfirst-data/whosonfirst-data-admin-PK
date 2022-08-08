@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Landi"
     ],
+    "name:eng_x_preferred":[
+        "Landi"
+    ],
     "name:fra_x_preferred":[
         "Landi"
     ],
@@ -56,6 +59,9 @@
     "name:und_x_variant":[
         "Landai"
     ],
+    "name:urd_x_preferred":[
+        "\u0644\u0646\u0688\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -68,7 +74,7 @@
         "gn:id":1335180
     },
     "wof:country":"PK",
-    "wof:geomhash":"43ee16309e17abf28b0a764a8c7b3f7d",
+    "wof:geomhash":"75aa7ef07ae73cfc3382b08b91a547e1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1209017883,
-    "wof:lastmodified":1566588315,
+    "wof:lastmodified":1659985996,
     "wof:name":"Landi",
     "wof:parent_id":1108692311,
     "wof:placetype":"locality",
@@ -89,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.41436999999998,
+    71.41437,
     34.47865,
-    71.41436999999998,
+    71.41437,
     34.47865
 ],
-  "geometry": {"coordinates":[71.41436999999998,34.47865],"type":"Point"}
+  "geometry": {"coordinates":[71.41437000000001,34.47865],"type":"Point"}
 }

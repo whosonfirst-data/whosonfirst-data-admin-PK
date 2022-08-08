@@ -29,10 +29,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Islampura"
+    ],
     "name:hin_x_preferred":[
         "\u0907\u0938\u094d\u0932\u093e\u092e\u092a\u0941\u0930\u093e"
     ],
     "name:urd_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645 \u067e\u0648\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u0627\u0633\u0644\u0627\u0645 \u067e\u0648\u0631\u06c1"
     ],
     "src:geom":"geonames",
@@ -47,7 +53,7 @@
         "gn:id":11544901
     },
     "wof:country":"PK",
-    "wof:geomhash":"244b10aa161a23589c5dd725b19dd717",
+    "wof:geomhash":"feb3df5e65875dfd57f19f5f77d0a039",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1242783273,
-    "wof:lastmodified":1566592747,
+    "wof:lastmodified":1659986163,
     "wof:name":"Islampura",
     "wof:parent_id":1108692339,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.88325999999998,
+    73.88326,
     30.56731,
-    73.88325999999998,
+    73.88326,
     30.56731
 ],
-  "geometry": {"coordinates":[73.88325999999998,30.56731],"type":"Point"}
+  "geometry": {"coordinates":[73.88326000000001,30.56731],"type":"Point"}
 }

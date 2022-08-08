@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hussainabad"
+    ],
     "name:und_x_variant":[
         "Badm\u0101shw\u0101li Dhok"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +50,7 @@
         "gn:id":1340770
     },
     "wof:country":"PK",
-    "wof:geomhash":"3a11d8962df49ffdc7ccd5332907b6ce",
+    "wof:geomhash":"86dca4f1a1527a8c7e373cce2c72e4ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1344062463,
-    "wof:lastmodified":1566583681,
+    "wof:lastmodified":1659985880,
     "wof:name":"Hussainabad",
     "wof:parent_id":1108692119,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.32403000000002,
+    72.32403,
     33.30904,
-    72.32403000000002,
+    72.32403,
     33.30904
 ],
-  "geometry": {"coordinates":[72.32403000000002,33.30904],"type":"Point"}
+  "geometry": {"coordinates":[72.32402999999999,33.30904],"type":"Point"}
 }

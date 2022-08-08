@@ -38,6 +38,9 @@
     "name:ces_x_preferred":[
         "Chanp\u00far"
     ],
+    "name:eng_x_preferred":[
+        "Khanpur"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0646\u067e\u0648\u0631"
     ],
@@ -78,6 +81,9 @@
         "Khanpur"
     ],
     "name:urd_x_preferred":[
+        "\u062e\u0627\u0646\u067e\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u062e\u0627\u0646 \u067e\u0648\u0631"
     ],
     "name:war_x_preferred":[
@@ -95,7 +101,7 @@
         "gn:id":1174162
     },
     "wof:country":"PK",
-    "wof:geomhash":"8e3e5f61d1c1ca2815e8bb87d0560785",
+    "wof:geomhash":"9ebf71be1a161b7f59b3bed47904cccc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1360008987,
-    "wof:lastmodified":1566591084,
+    "wof:lastmodified":1659986083,
     "wof:name":"Khanpur",
     "wof:parent_id":1108692223,
     "wof:placetype":"locality",
@@ -116,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.01666999999998,
+    72.01667,
     30.85,
-    72.01666999999998,
+    72.01667,
     30.85
 ],
-  "geometry": {"coordinates":[72.01666999999998,30.85],"type":"Point"}
+  "geometry": {"coordinates":[72.01667,30.85],"type":"Point"}
 }

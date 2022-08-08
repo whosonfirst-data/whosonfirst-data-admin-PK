@@ -30,16 +30,22 @@
     "mz:is_current":1,
     "mz:is_funky":0,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sharifpura"
+    ],
     "name:und_x_variant":[
         "Shar\u012bfpur"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u06cc\u0641 \u067e\u0648\u0631\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
         1260309019,
-        1108692313,
-        85675753
+        1108692313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1780037491,
-    "wof:lastmodified":1659484783,
+    "wof:lastmodified":1659986243,
     "wof:name":"Sharifpura",
     "wof:parent_id":1108692313,
     "wof:placetype":"neighbourhood",

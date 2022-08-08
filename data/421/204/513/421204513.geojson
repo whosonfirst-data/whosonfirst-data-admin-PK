@@ -27,6 +27,9 @@
     "name:und_x_variant":[
         "Baghdad Lines"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u063a\u062f\u0627\u062f\u06cc"
+    ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":1183974,
@@ -53,11 +56,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
-        1108692233,
         421191101,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":421204513,
-    "wof:lastmodified":1659476960,
+    "wof:lastmodified":1659986112,
     "wof:name":"Baghdadi",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",

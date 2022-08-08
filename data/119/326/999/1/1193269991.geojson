@@ -41,6 +41,9 @@
     "name:deu_x_preferred":[
         "Bela"
     ],
+    "name:eng_x_preferred":[
+        "Bela"
+    ],
     "name:eus_x_preferred":[
         "Bela"
     ],
@@ -77,6 +80,9 @@
     "name:tgl_x_preferred":[
         "Bela"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u06cc\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85675735,
@@ -91,7 +97,7 @@
         "gn:id":10944552
     },
     "wof:country":"PK",
-    "wof:geomhash":"fff6eefb0bfa7a3adf45bc0dc07f81ab",
+    "wof:geomhash":"3e33f27d796ee031285ea904e3ee48e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":1193269991,
-    "wof:lastmodified":1566589751,
+    "wof:lastmodified":1659986038,
     "wof:name":"Bela",
     "wof:parent_id":1108692331,
     "wof:placetype":"locality",
@@ -121,10 +127,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.76274000000002,
+    73.76274,
     34.60658,
-    73.76274000000002,
+    73.76274,
     34.60658
 ],
-  "geometry": {"coordinates":[73.76274000000002,34.60658],"type":"Point"}
+  "geometry": {"coordinates":[73.76273999999999,34.60658],"type":"Point"}
 }

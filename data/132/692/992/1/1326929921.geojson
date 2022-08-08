@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Islam Nagar"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645 \u0646\u06af\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":7324985
     },
     "wof:country":"PK",
-    "wof:geomhash":"d6cfde403d6e78eb7c97077a4b03259b",
+    "wof:geomhash":"4092a9db6c596876e9c16a8caf3798f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326929921,
-    "wof:lastmodified":1566581814,
+    "wof:lastmodified":1659985841,
     "wof:name":"Islam Nagar",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.03114000000002,
+    71.03114,
     30.29558,
-    71.03114000000002,
+    71.03114,
     30.29558
 ],
-  "geometry": {"coordinates":[71.03114000000002,30.29558],"type":"Point"}
+  "geometry": {"coordinates":[71.03113999999999,30.29558],"type":"Point"}
 }

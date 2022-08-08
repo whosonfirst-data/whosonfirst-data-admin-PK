@@ -44,6 +44,9 @@
     "name:spa_x_preferred":[
         "Thul"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -53,7 +56,7 @@
         "gn:id":1406047
     },
     "wof:country":"PK",
-    "wof:geomhash":"a984e219f372620a9b9458b84246ba28",
+    "wof:geomhash":"6db8e81c7b28dd35dbcffe1ae8a6cda8",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209620749,
-    "wof:lastmodified":1566588277,
+    "wof:lastmodified":1659985995,
     "wof:name":"Thul",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -71,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.59855999999998,
+    70.59856,
     30.3507,
-    70.59855999999998,
+    70.59856,
     30.3507
 ],
-  "geometry": {"coordinates":[70.59855999999998,30.3507],"type":"Point"}
+  "geometry": {"coordinates":[70.59856000000001,30.3507],"type":"Point"}
 }

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dhok Awan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06be\u0648\u06a9 \u0627\u0639\u0648\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":1379443
     },
     "wof:country":"PK",
-    "wof:geomhash":"4be718713d6afd909fbf142bfc4a2c04",
+    "wof:geomhash":"a2e87561d9e5a4769828261c95fcd99c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343458195,
-    "wof:lastmodified":1566584653,
+    "wof:lastmodified":1659985904,
     "wof:name":"Dhok Awan",
     "wof:parent_id":1108692227,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.41060999999998,
+    73.41061,
     33.07278,
-    73.41060999999998,
+    73.41061,
     33.07278
 ],
-  "geometry": {"coordinates":[73.41060999999998,33.07278],"type":"Point"}
+  "geometry": {"coordinates":[73.41061000000001,33.07278],"type":"Point"}
 }

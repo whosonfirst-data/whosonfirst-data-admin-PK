@@ -35,8 +35,14 @@
     "name:deu_x_preferred":[
         "Daur"
     ],
+    "name:eng_x_preferred":[
+        "Daur"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0443\u0440"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +56,7 @@
         "gn:id":1377948
     },
     "wof:country":"PK",
-    "wof:geomhash":"89d08791fa92144228945f4109349a58",
+    "wof:geomhash":"3aea60f6e54683160e368e6b69e96069",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1327334595,
-    "wof:lastmodified":1566582345,
+    "wof:lastmodified":1659985853,
     "wof:name":"Daur",
     "wof:parent_id":1108692415,
     "wof:placetype":"locality",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.82873000000002,
+    72.82873,
     34.75055,
-    72.82873000000002,
+    72.82873,
     34.75055
 ],
-  "geometry": {"coordinates":[72.82873000000002,34.75055],"type":"Point"}
+  "geometry": {"coordinates":[72.82872999999999,34.75055],"type":"Point"}
 }

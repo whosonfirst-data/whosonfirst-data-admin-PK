@@ -32,8 +32,14 @@
     "name:ceb_x_preferred":[
         "Duki"
     ],
+    "name:eng_x_preferred":[
+        "Duki"
+    ],
     "name:swe_x_preferred":[
         "Duki"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u06a9\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         "gn:id":11022737
     },
     "wof:country":"PK",
-    "wof:geomhash":"22aab3b9cfe3681d6ad68de0c6fe2e26",
+    "wof:geomhash":"73b0d925a08e5e9009ff12fa42c12304",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1327333141,
-    "wof:lastmodified":1566582308,
+    "wof:lastmodified":1659985852,
     "wof:name":"Duki",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.21736999999999,
+    70.21737,
     28.18513,
-    70.21736999999999,
+    70.21737,
     28.18513
 ],
-  "geometry": {"coordinates":[70.21736999999999,28.18513],"type":"Point"}
+  "geometry": {"coordinates":[70.21737,28.18513],"type":"Point"}
 }

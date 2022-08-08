@@ -35,6 +35,9 @@
     "name:snd_x_preferred":[
         "\u0628\u0644\u0648\u0686 \u06b3\u0648\u067a"
     ],
+    "name:urd_x_preferred":[
+        "\u0628\u0644\u0648\u0686 \u06af\u0648\u0679\u06be"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -47,7 +50,7 @@
         "gn:id":7352303
     },
     "wof:country":"PK",
-    "wof:geomhash":"b0860eeaa67fdcb8d7c6345a7ba7136e",
+    "wof:geomhash":"77c1584366c3e9173165c630fb2d830c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209719829,
-    "wof:lastmodified":1566588622,
+    "wof:lastmodified":1659986003,
     "wof:name":"Baloch Goth",
     "wof:parent_id":1108692379,
     "wof:placetype":"locality",
@@ -68,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.53553000000001,
+    68.53553,
     27.78592,
-    68.53553000000001,
+    68.53553,
     27.78592
 ],
-  "geometry": {"coordinates":[68.53553000000001,27.78592],"type":"Point"}
+  "geometry": {"coordinates":[68.53552999999999,27.78592],"type":"Point"}
 }

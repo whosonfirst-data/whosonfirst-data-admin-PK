@@ -35,11 +35,17 @@
     "name:ceb_x_preferred":[
         "Alipur"
     ],
+    "name:eng_x_preferred":[
+        "Alipur"
+    ],
     "name:swe_x_preferred":[
         "Alipur"
     ],
     "name:und_x_variant":[
         "Al\u012bpura"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0644\u06cc \u067e\u0648\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         "gn:id":1421531
     },
     "wof:country":"PK",
-    "wof:geomhash":"83e1c9b1357ee274645027c7cd544482",
+    "wof:geomhash":"bee4ca416dd95352ab4e66d7e3218c13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1209721177,
-    "wof:lastmodified":1566589343,
+    "wof:lastmodified":1659986024,
     "wof:name":"Alipur",
     "wof:parent_id":1108692247,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.19178000000002,
+    72.19178,
     30.15883,
-    72.19178000000002,
+    72.19178,
     30.15883
 ],
-  "geometry": {"coordinates":[72.19178000000002,30.15883],"type":"Point"}
+  "geometry": {"coordinates":[72.19177999999999,30.15883],"type":"Point"}
 }

@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dhok Awan"
+    ],
     "name:und_x_variant":[
         "Dhok Bhusi\u0101n"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06be\u0648\u06a9 \u0627\u0639\u0648\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +50,7 @@
         "gn:id":1371129
     },
     "wof:country":"PK",
-    "wof:geomhash":"c9e63cfff61395323f265e1ac2af41b8",
+    "wof:geomhash":"26aa90c8214e6d64a0ba320e07fbb03d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1327035541,
-    "wof:lastmodified":1566582471,
+    "wof:lastmodified":1659985856,
     "wof:name":"Dhok Awan",
     "wof:parent_id":1108692227,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.26035999999998,
+    73.26036,
     32.95354,
-    73.26035999999998,
+    73.26036,
     32.95354
 ],
-  "geometry": {"coordinates":[73.26035999999998,32.95354],"type":"Point"}
+  "geometry": {"coordinates":[73.26036000000001,32.95354],"type":"Point"}
 }

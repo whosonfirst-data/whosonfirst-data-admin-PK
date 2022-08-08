@@ -59,6 +59,9 @@
     "name:deu_x_preferred":[
         "Sialkot"
     ],
+    "name:eng_x_preferred":[
+        "Sialkot"
+    ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0627\u0644\u06a9\u0648\u062a"
     ],
@@ -167,7 +170,7 @@
         "gn:id":1164910
     },
     "wof:country":"PK",
-    "wof:geomhash":"e7e9ccd67374ff9958a61d8fda4d183d",
+    "wof:geomhash":"b95e98992525f031062a0466823a6e0d",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -175,7 +178,7 @@
         }
     ],
     "wof:id":1209438295,
-    "wof:lastmodified":1566589257,
+    "wof:lastmodified":1659986021,
     "wof:name":"Sialkot",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -185,10 +188,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.85094000000002,
+    71.85094,
     30.91514,
-    71.85094000000002,
+    71.85094,
     30.91514
 ],
-  "geometry": {"coordinates":[71.85094000000002,30.91514],"type":"Point"}
+  "geometry": {"coordinates":[71.85093999999999,30.91514],"type":"Point"}
 }

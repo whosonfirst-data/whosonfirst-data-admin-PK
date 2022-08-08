@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Dinga"
     ],
+    "name:eng_x_preferred":[
+        "Dinga"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0646\u06af\u0627"
     ],
@@ -45,6 +48,9 @@
         "Dinga"
     ],
     "name:urd_x_preferred":[
+        "\u0688\u0646\u06af\u06c1"
+    ],
+    "name:urd_x_variant":[
         "\u0688\u06cc\u0646\u06af\u0627"
     ],
     "src:geom":"geonames",
@@ -59,7 +65,7 @@
         "gn:id":1370550
     },
     "wof:country":"PK",
-    "wof:geomhash":"bb39b1c9f75244f2b04cd3c83833dc84",
+    "wof:geomhash":"fc8f7c7a09c46bdb35cc3e262c659bad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":1276123735,
-    "wof:lastmodified":1566587625,
+    "wof:lastmodified":1659985978,
     "wof:name":"Dinga",
     "wof:parent_id":1108692149,
     "wof:placetype":"locality",
@@ -80,10 +86,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.17414000000002,
+    72.17414,
     32.71931,
-    72.17414000000002,
+    72.17414,
     32.71931
 ],
-  "geometry": {"coordinates":[72.17414000000002,32.71931],"type":"Point"}
+  "geometry": {"coordinates":[72.17413999999999,32.71931],"type":"Point"}
 }

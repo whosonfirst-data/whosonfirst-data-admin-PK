@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Wazirabad"
     ],
+    "name:eng_x_preferred":[
+        "Wazirabad"
+    ],
     "name:fas_x_preferred":[
         "\u0648\u0632\u06cc\u0631\u0622\u0628\u0627\u062f"
     ],
@@ -84,6 +87,9 @@
         "Wazirabad"
     ],
     "name:urd_x_preferred":[
+        "\u0648\u0632\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_variant":[
         "\u0648\u0632\u06cc\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:zho_x_preferred":[
@@ -98,7 +104,7 @@
         "gn:id":11046888
     },
     "wof:country":"PK",
-    "wof:geomhash":"93626707a33d52d72014af1835c23458",
+    "wof:geomhash":"36f8cf9be0ab2bf087c78ccd624a2b3b",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -106,7 +112,7 @@
         }
     ],
     "wof:id":1209235949,
-    "wof:lastmodified":1566588570,
+    "wof:lastmodified":1659986002,
     "wof:name":"Wazirabad",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -116,10 +122,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.64936999999998,
+    73.64937,
     33.50932,
-    73.64936999999998,
+    73.64937,
     33.50932
 ],
-  "geometry": {"coordinates":[73.64936999999998,33.50932],"type":"Point"}
+  "geometry": {"coordinates":[73.64937,33.50932],"type":"Point"}
 }

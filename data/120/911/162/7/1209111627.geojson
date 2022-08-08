@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Hussainabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u0633\u06cc\u0646 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -38,7 +44,7 @@
         "gn:id":11466012
     },
     "wof:country":"PK",
-    "wof:geomhash":"e3c361c6bd2f9a4569d29a5559f856d3",
+    "wof:geomhash":"6d618d420d730f1c06a8ec72bf894fc4",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1209111627,
-    "wof:lastmodified":1566589048,
+    "wof:lastmodified":1659986014,
     "wof:name":"Hussainabad",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
@@ -56,10 +62,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.04701999999997,
+    72.04702,
     31.28219,
-    72.04701999999997,
+    72.04702,
     31.28219
 ],
-  "geometry": {"coordinates":[72.04701999999997,31.28219],"type":"Point"}
+  "geometry": {"coordinates":[72.04702,31.28219],"type":"Point"}
 }

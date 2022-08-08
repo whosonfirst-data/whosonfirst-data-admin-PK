@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Nasirabad"
     ],
+    "name:eng_x_preferred":[
+        "Nasirabad"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0635\u06cc\u0631\u0622\u0628\u0627\u062f"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:swe_x_preferred":[
         "Nasirabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0635\u06cc\u0631\u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         "gn:id":11365679
     },
     "wof:country":"PK",
-    "wof:geomhash":"e52a09b08f96edb54b4881a7603cce62",
+    "wof:geomhash":"c5d8d59389459f026d1964f9b2e3a68e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1293686131,
-    "wof:lastmodified":1566585767,
+    "wof:lastmodified":1659985932,
     "wof:name":"Nasirabad",
     "wof:parent_id":1108692223,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.93826999999997,
+    71.93827,
     30.95823,
-    71.93826999999997,
+    71.93827,
     30.95823
 ],
-  "geometry": {"coordinates":[71.93826999999997,30.95823],"type":"Point"}
+  "geometry": {"coordinates":[71.93827,30.95823],"type":"Point"}
 }
