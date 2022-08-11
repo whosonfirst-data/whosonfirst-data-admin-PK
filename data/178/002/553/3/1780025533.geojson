@@ -1,0 +1,62 @@
+{
+  "id": 1780025533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000005,
+    "geom:bbox":"67.136731,24.844819,67.141521,24.84673",
+    "geom:latitude":24.845764,
+    "geom:longitude":67.139144,
+    "iso:country":"PK",
+    "lbl:latitude":24.845765,
+    "lbl:longitude":67.139144,
+    "mps:latitude":24.845765,
+    "mps:longitude":67.139144,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Allahabad Colony"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0644\u06c1 \u0622\u0628\u0627\u062f \u06a9\u0627\u0644\u0648\u0646\u06cc"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"6394800a81043b94da55e1d7682d3833",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025533,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025533,
+    "wof:lastmodified":1660240312,
+    "wof:name":"Allahabad Colony",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.136731,
+    24.844819,
+    67.141521,
+    24.84673
+],
+  "geometry": {"coordinates":[[[67.136951,24.844819],[67.136731,24.845802],[67.141278,24.84673],[67.141521,24.845689],[67.141341,24.845651],[67.136951,24.844819]]],"type":"Polygon"}
+}

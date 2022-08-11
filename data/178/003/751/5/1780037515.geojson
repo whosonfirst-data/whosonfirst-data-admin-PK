@@ -1,0 +1,76 @@
+{
+  "id": 1780037515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.8085,25.29962,68.8085,25.29962",
+    "geom:latitude":25.29962,
+    "geom:longitude":68.8085,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Shah jo Kot",
+    "gn:country_code":"PK",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1360051,
+    "gn:latitude":25.29962,
+    "gn:longitude":68.8085,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Shah jo Kot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.7885,25.27962,68.8285,25.31962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890433641,
+        1108692401,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1360051
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"718e181a352c79a063ae9cd345c1fd3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692401,
+            "locality_id":890433641,
+            "neighbourhood_id":1780037515,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037515,
+    "wof:lastmodified":1660244299,
+    "wof:name":"Shah jo Kot",
+    "wof:parent_id":890433641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260186619
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.8085,
+    25.29962,
+    68.8085,
+    25.29962
+],
+  "geometry": {"coordinates":[68.8085,25.29962],"type":"Point"}
+}

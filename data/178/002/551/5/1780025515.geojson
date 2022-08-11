@@ -1,0 +1,62 @@
+{
+  "id": 1780025515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00003,
+    "geom:bbox":"67.164338,24.823278,67.170926,24.829414",
+    "geom:latitude":24.826483,
+    "geom:longitude":67.167617,
+    "iso:country":"PK",
+    "lbl:latitude":24.826524,
+    "lbl:longitude":67.167616,
+    "mps:latitude":24.826524,
+    "mps:longitude":67.167616,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Korangi Sector 44 A"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0648\u0631\u0646\u06af\u06cc \u0633\u06cc\u06a9\u0679\u0631 44 \u0627\u06d2"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"697bb3ccc06d2fcb2ac2c3da24a6f6e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025515,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025515,
+    "wof:lastmodified":1660240302,
+    "wof:name":"Korangi Sector 44 A",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.164338,
+    24.823278,
+    67.170926,
+    24.829414
+],
+  "geometry": {"coordinates":[[[67.164338,24.828754],[67.167191,24.82936],[67.167811,24.829414],[67.169241,24.829254],[67.16950799999999,24.829286],[67.169764,24.829382],[67.169989,24.828496],[67.17092599999999,24.824282],[67.166748,24.823485],[67.165637,24.823278],[67.165318,24.824565],[67.164338,24.828754]]],"type":"Polygon"}
+}

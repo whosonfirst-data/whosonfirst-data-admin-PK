@@ -53,6 +53,9 @@
     "name:deu_x_preferred":[
         "Muzaffarabad"
     ],
+    "name:eng_x_preferred":[
+        "Muzaffarabad"
+    ],
     "name:epo_x_preferred":[
         "Muzaffarabad"
     ],
@@ -132,6 +135,9 @@
         "\u041c\u0443\u0437\u0430\u0444\u0444\u0430\u0440\u0430\u0431\u0430\u0434"
     ],
     "name:urd_x_preferred":[
+        "\u0645\u0638\u0641\u0631\u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_variant":[
         "\u0645\u0638\u0641\u0631 \u0622\u0628\u0627\u062f"
     ],
     "name:xmf_x_preferred":[
@@ -144,7 +150,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692165
     ],
     "wof:breaches":[],
@@ -159,11 +165,11 @@
             "country_id":85632659,
             "county_id":1108692165,
             "locality_id":1344057619,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1344057619,
-    "wof:lastmodified":1566584601,
+    "wof:lastmodified":1660239664,
     "wof:name":"Muzaffarabad",
     "wof:parent_id":1108692165,
     "wof:placetype":"locality",

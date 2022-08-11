@@ -4,33 +4,48 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000112,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.8,31.75,73.8,31.75",
-    "geom:latitude":31.75,
-    "geom:longitude":73.8,
+    "geom:bbox":"73.789736,31.745627,73.806953,31.755016",
+    "geom:latitude":31.750078,
+    "geom:longitude":73.798709,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":69321,
     "iso:country":"PK",
-    "lbl:bbox":"73.78,31.73,73.82,31.77",
+    "lbl:latitude":31.750192,
+    "lbl:longitude":73.798709,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":8.0,
+    "name:eng_x_preferred":[
+        "Ch\u016bhar K\u0101na"
+    ],
     "name:und_x_variant":[
         "Chuchar-kana Mandi"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0648\u06c1\u0631 \u06a9\u0627\u0646\u0627"
     ],
     "qs:name":"Ch\u016bhar K\u0101na",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
+    "reversegeo:latitude":31.750192,
+    "reversegeo:longitude":73.798709,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +55,20 @@
     },
     "wof:country":"PK",
     "wof:created":1469051852,
-    "wof:geomhash":"c955f7acb4fed48cc4cbb6d54a7c3c03",
+    "wof:geomhash":"158570485c43a3345c7442bc405ea6ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692377,
             "locality_id":890430423,
             "region_id":85675753
         }
     ],
     "wof:id":890430423,
-    "wof:lastmodified":1566591795,
+    "wof:lastmodified":1660241816,
     "wof:name":"Ch\u016bhar K\u0101na",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692377,
     "wof:placetype":"locality",
     "wof:population":69321,
     "wof:population_rank":8,
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.8,
-    31.75,
-    73.8,
-    31.75
+    73.789736,
+    31.745627,
+    73.806953,
+    31.755016
 ],
-  "geometry": {"coordinates":[73.8,31.75],"type":"Point"}
+  "geometry": {"coordinates":[[[73.789736,31.75065],[73.79184100000001,31.751625],[73.793847,31.752469],[73.79650599999999,31.753472],[73.799519,31.754662],[73.800211,31.755],[73.800462,31.755016],[73.801879,31.754698],[73.804641,31.754108],[73.80665500000001,31.753671],[73.806476,31.752875],[73.806245,31.751514],[73.80695299999999,31.751434],[73.806882,31.750877],[73.80685,31.750288],[73.80564,31.749906],[73.805425,31.749762],[73.805059,31.749428],[73.80495500000001,31.749189],[73.80454899999999,31.748075],[73.804159,31.746395],[73.802942,31.746316],[73.798993,31.746061],[73.796665,31.74591],[73.79403000000001,31.745719],[73.79242600000001,31.745627],[73.79150300000001,31.747338],[73.789736,31.75065]]],"type":"Polygon"}
 }

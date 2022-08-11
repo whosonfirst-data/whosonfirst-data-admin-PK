@@ -35,12 +35,21 @@
     "name:ceb_x_preferred":[
         "Alipur"
     ],
+    "name:eng_x_preferred":[
+        "Alipur"
+    ],
     "name:swe_x_preferred":[
         "Alipur"
     ],
+    "name:urd_x_preferred":[
+        "\u0639\u0644\u06cc \u067e\u0648\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +59,17 @@
     "wof:geomhash":"8d90279151b737dbbb238251faad8785",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209246771
+            "county_id":1108692197,
+            "locality_id":1209246771,
+            "region_id":85675753
         }
     ],
     "wof:id":1209246771,
-    "wof:lastmodified":1566588566,
+    "wof:lastmodified":1660238213,
     "wof:name":"Alipur",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

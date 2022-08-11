@@ -2,7 +2,7 @@
   "id": 1293133255,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sanduw\u0101la",
@@ -47,7 +47,7 @@
         "gn:id":7111438
     },
     "wof:country":"PK",
-    "wof:geomhash":"0d3e2358c1e57f5971dfe843408795a7",
+    "wof:geomhash":"16b570d85bfcb7d06d6731084e83f3b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +58,22 @@
         }
     ],
     "wof:id":1293133255,
-    "wof:lastmodified":1566585601,
+    "wof:lastmodified":1660242796,
     "wof:name":"Chak Two Hundred Six Rakh Branch",
     "wof:parent_id":1108692169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036765
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.23836999999997,
+    73.23837,
     31.44757,
-    73.23836999999997,
+    73.23837,
     31.44757
 ],
-  "geometry": {"coordinates":[73.23836999999997,31.44757],"type":"Point"}
+  "geometry": {"coordinates":[73.23837,31.44757],"type":"Point"}
 }

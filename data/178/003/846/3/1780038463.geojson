@@ -1,0 +1,76 @@
+{
+  "id": 1780038463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.49456,30.24249,71.49456,30.24249",
+    "geom:latitude":30.24249,
+    "geom:longitude":71.49456,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Doharta",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409680,
+    "gn:latitude":30.24249,
+    "gn:longitude":71.49456,
+    "gn:modification_date":"2016-11-23",
+    "gn:name":"Doharta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.47456,30.22249,71.51456,30.26249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409680
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a6f1571f415cfcc8d089cfbbfb88910b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780038463,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038463,
+    "wof:lastmodified":1660244828,
+    "wof:name":"Doharta",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226042113
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.49456,
+    30.24249,
+    71.49456,
+    30.24249
+],
+  "geometry": {"coordinates":[71.49456000000001,30.24249],"type":"Point"}
+}

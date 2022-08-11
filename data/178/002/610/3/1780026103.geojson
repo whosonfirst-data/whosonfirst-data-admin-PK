@@ -1,0 +1,62 @@
+{
+  "id": 1780026103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:bbox":"67.184304,24.969362,67.190719,24.974411",
+    "geom:latitude":24.971847,
+    "geom:longitude":67.187658,
+    "iso:country":"PK",
+    "lbl:latitude":24.97192,
+    "lbl:longitude":67.187658,
+    "mps:latitude":24.97192,
+    "mps:longitude":67.187658,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hakeem Villas"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u06a9\u0645 \u0648\u0644\u0627\u0632"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"a75fccaf299929cfa082f55166d8fad1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026103,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026103,
+    "wof:lastmodified":1660240641,
+    "wof:name":"Hakeem Villas",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.184304,
+    24.969362,
+    67.190719,
+    24.974411
+],
+  "geometry": {"coordinates":[[[67.184304,24.970637],[67.186142,24.974411],[67.188157,24.973874],[67.190719,24.973062],[67.18962000000001,24.969362],[67.18549899999999,24.970352],[67.184304,24.970637]]],"type":"Polygon"}
+}

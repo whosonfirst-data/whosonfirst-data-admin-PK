@@ -1,0 +1,76 @@
+{
+  "id": 1780037591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.91111,31.77361,72.91111,31.77361",
+    "geom:latitude":31.77361,
+    "geom:longitude":72.91111,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chah Ratewala",
+    "gn:country_code":"PK",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382226,
+    "gn:latitude":31.77361,
+    "gn:longitude":72.91111,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Chah Ratewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.89111,31.75361,72.93111,31.79361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1276546783,
+        1108692155,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382226
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ce2fdb629a9f52889cdd2d64ec0ee906",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":1276546783,
+            "neighbourhood_id":1780037591,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037591,
+    "wof:lastmodified":1660244343,
+    "wof:name":"Chah Ratewala",
+    "wof:parent_id":1276546783,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310405269
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.91111,
+    31.77361,
+    72.91111,
+    31.77361
+],
+  "geometry": {"coordinates":[72.91110999999999,31.77361],"type":"Point"}
+}

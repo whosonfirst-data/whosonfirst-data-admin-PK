@@ -38,12 +38,21 @@
     "name:deu_x_preferred":[
         "Sultanabad"
     ],
+    "name:eng_x_preferred":[
+        "Sultanabad"
+    ],
     "name:und_x_variant":[
         "Khow\u0101ja"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675757,
+        1108692401
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +62,17 @@
     "wof:geomhash":"9d11a18657e91b5154074e94547492b3",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209419355
+            "county_id":1108692401,
+            "locality_id":1209419355,
+            "region_id":85675757
         }
     ],
     "wof:id":1209419355,
-    "wof:lastmodified":1566588497,
+    "wof:lastmodified":1660238242,
     "wof:name":"Sultanabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692401,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

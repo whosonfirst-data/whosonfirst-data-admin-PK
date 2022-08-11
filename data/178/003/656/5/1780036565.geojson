@@ -1,0 +1,79 @@
+{
+  "id": 1780036565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.66505,30.71832,72.66505,30.71832",
+    "geom:latitude":30.71832,
+    "geom:longitude":72.66505,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thatta Dulman",
+    "gn:country_code":"PK",
+    "gn:dem":157,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1387285,
+    "gn:latitude":30.71832,
+    "gn:longitude":72.66505,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thatta Dulman",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.64505,30.69832,72.68505,30.73832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Thatta Dulma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167251,
+        1108692413,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1387285
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a0e3fb6cec81cc3172ff9a93591e3f36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692413,
+            "locality_id":421167251,
+            "neighbourhood_id":1780036565,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036565,
+    "wof:lastmodified":1660243769,
+    "wof:name":"Thatta Dulman",
+    "wof:parent_id":421167251,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344180507
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.66505,
+    30.71832,
+    72.66505,
+    30.71832
+],
+  "geometry": {"coordinates":[72.66504999999999,30.71832],"type":"Point"}
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1780026911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000162,
+    "geom:bbox":"73.023019,33.713235,73.043967,33.727464",
+    "geom:latitude":33.721245,
+    "geom:longitude":73.032702,
+    "iso:country":"PK",
+    "lbl:latitude":33.721069,
+    "lbl:longitude":73.032702,
+    "mps:latitude":33.721069,
+    "mps:longitude":73.032702,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sector E-8"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u06a9\u0679\u0631 E-8"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"7fc73453ae575785808aa69b01a59040",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780026911,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780026911,
+    "wof:lastmodified":1660241109,
+    "wof:name":"Sector E-8",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.023019,
+    33.713235,
+    73.043967,
+    33.727464
+],
+  "geometry": {"coordinates":[[[73.02301900000001,33.72391],[73.03988099999999,33.727464],[73.04396699999999,33.722091],[73.02706999999999,33.713235],[73.026042,33.71445],[73.02565,33.715346],[73.02565,33.716521],[73.025482,33.717585],[73.02301900000001,33.72391]]],"type":"Polygon"}
+}

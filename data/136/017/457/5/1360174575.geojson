@@ -29,12 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dhok Awan"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06be\u0648\u06a9 \u0627\u0639\u0648\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +51,14 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
             "locality_id":1360174575,
             "region_id":85675741
         }
     ],
     "wof:id":1360174575,
-    "wof:lastmodified":1566591314,
+    "wof:lastmodified":1660239724,
     "wof:name":"Dhok Awan",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

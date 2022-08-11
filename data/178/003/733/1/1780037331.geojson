@@ -1,0 +1,79 @@
+{
+  "id": 1780037331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.37157,32.48106,74.37157,32.48106",
+    "geom:latitude":32.48106,
+    "geom:longitude":74.37157,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Fazalpura",
+    "gn:country_code":"PK",
+    "gn:dem":240,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1380628,
+    "gn:latitude":32.48106,
+    "gn:longitude":74.37157,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Fazalpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.35157,32.46106,74.39157,32.50106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Fazlpura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421200371,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1380628
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"876859d8258480c460f008c68caefc93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":421200371,
+            "neighbourhood_id":1780037331,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037331,
+    "wof:lastmodified":1660244200,
+    "wof:name":"Fazalpura",
+    "wof:parent_id":421200371,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209738587
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.37157,
+    32.48106,
+    74.37157,
+    32.48106
+],
+  "geometry": {"coordinates":[74.37157000000001,32.48106],"type":"Point"}
+}

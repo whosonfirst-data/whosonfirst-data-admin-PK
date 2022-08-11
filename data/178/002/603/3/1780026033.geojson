@@ -1,0 +1,62 @@
+{
+  "id": 1780026033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:bbox":"67.145148,24.967761,67.1527,24.973741",
+    "geom:latitude":24.970807,
+    "geom:longitude":67.149075,
+    "iso:country":"PK",
+    "lbl:latitude":24.970742,
+    "lbl:longitude":67.149333,
+    "mps:latitude":24.970742,
+    "mps:longitude":67.149333,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Income Tax CHS"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0646\u06a9\u0645 \u0679\u06cc\u06a9\u0633 CHS"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"709f5457eb55a1f04bb47c4a8040bb8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026033,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026033,
+    "wof:lastmodified":1660240600,
+    "wof:name":"Income Tax CHS",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.145148,
+    24.967761,
+    67.1527,
+    24.973741
+],
+  "geometry": {"coordinates":[[[67.14964999999999,24.967761],[67.147527,24.96942],[67.14514800000001,24.971222],[67.14632,24.972463],[67.147164,24.971844],[67.14899200000001,24.973741],[67.150138,24.972843],[67.1527,24.970835],[67.14964999999999,24.967761]]],"type":"Polygon"}
+}

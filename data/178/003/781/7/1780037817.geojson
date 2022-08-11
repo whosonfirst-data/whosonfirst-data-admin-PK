@@ -1,0 +1,76 @@
+{
+  "id": 1780037817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.12639,31.03472,73.12639,31.03472",
+    "geom:latitude":31.03472,
+    "geom:longitude":73.12639,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chak Four Hundred Twenty",
+    "gn:country_code":"PK",
+    "gn:dem":178,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1389280,
+    "gn:latitude":31.03472,
+    "gn:longitude":73.12639,
+    "gn:modification_date":"2001-10-17",
+    "gn:name":"Chak Four Hundred Twenty",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.10639,31.01472,73.14639,31.05472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175759,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1389280
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"57a472efacd062c44835347d1ea0d22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":421175759,
+            "neighbourhood_id":1780037817,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037817,
+    "wof:lastmodified":1660244469,
+    "wof:name":"Chak Four Hundred Twenty",
+    "wof:parent_id":421175759,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309905445
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.12639,
+    31.03472,
+    73.12639,
+    31.03472
+],
+  "geometry": {"coordinates":[73.12639,31.03472],"type":"Point"}
+}

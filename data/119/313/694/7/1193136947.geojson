@@ -32,8 +32,14 @@
     "name:ceb_x_preferred":[
         "Chak"
     ],
+    "name:eng_x_preferred":[
+        "Chak"
+    ],
     "name:swe_x_preferred":[
         "Chak"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06a9"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         "gn:id":11081262
     },
     "wof:country":"PK",
-    "wof:geomhash":"ecaf8b599e20522bca7c4fde823ba2e4",
+    "wof:geomhash":"c8d0c10f4d99888848b314603061f32a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1193136947,
-    "wof:lastmodified":1566589545,
+    "wof:lastmodified":1660238150,
     "wof:name":"Chak",
     "wof:parent_id":1108692325,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    75.11506999999997,
+    75.11507,
     32.43967,
-    75.11506999999997,
+    75.11507,
     32.43967
 ],
-  "geometry": {"coordinates":[75.11506999999997,32.43967],"type":"Point"}
+  "geometry": {"coordinates":[75.11507,32.43967],"type":"Point"}
 }

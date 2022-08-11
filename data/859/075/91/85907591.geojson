@@ -4,21 +4,20 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000074,
     "geom:area_square_m":0.0,
-    "geom:bbox":"67.009442,24.860753,67.009442,24.860753",
-    "geom:latitude":24.860753,
-    "geom:longitude":67.009442,
+    "geom:bbox":"67.006936,24.856863,67.020173,24.866969",
+    "geom:latitude":24.862227,
+    "geom:longitude":67.013373,
     "gn:id":"",
     "iso:country":"PK",
-    "lbl:bbox":"67.004442,24.855753,67.014442,24.865753",
-    "lbl:latitude":24.860753,
-    "lbl:longitude":67.009442,
+    "lbl:latitude":24.862489,
+    "lbl:longitude":67.013273,
     "lbl:max_zoom":18.0,
     "mps:latitude":24.867583,
     "mps:longitude":67.005866,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -28,6 +27,9 @@
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Runchor"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0646\u0686\u06be\u0648\u0631"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_id":0,
@@ -51,17 +53,20 @@
     "qs:woe_lau":0,
     "qs:woe_local":2211096,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":24.862489,
+    "reversegeo:longitude":67.013273,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85675757,
         102191569,
         85632659,
         421191101,
-        1108692233
+        1108692233,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,7 +77,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fd5a988c98bba0fe52cc620055d4b898",
+    "wof:geomhash":"4c8ce7af1bbad7a473f858a13c54afc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +92,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351428,
+    "wof:lastmodified":1660241795,
     "wof:name":"Runchor",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
@@ -97,10 +102,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.009442,
-    24.860753,
-    67.009442,
-    24.860753
+    67.006936,
+    24.856863,
+    67.020173,
+    24.866969
 ],
-  "geometry": {"coordinates":[67.00944200000001,24.860753],"type":"Point"}
+  "geometry": {"coordinates":[[[67.011019,24.856863],[67.007952,24.860469],[67.006936,24.861615],[67.007525,24.862198],[67.00756699999999,24.862237],[67.008865,24.863446],[67.010964,24.865434],[67.012647,24.866969],[67.015162,24.866238],[67.01669699999999,24.865859],[67.01760299999999,24.865406],[67.018343,24.864953],[67.01853199999999,24.864798],[67.018703,24.864657],[67.01956300000001,24.863196],[67.020173,24.862142],[67.01656699999999,24.860108],[67.015852,24.859697],[67.01482900000001,24.85911],[67.011019,24.856863]]],"type":"Polygon"}
 }

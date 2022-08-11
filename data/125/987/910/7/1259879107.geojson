@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Mandi B\u016brew\u0101la"
     ],
+    "name:eng_x_preferred":[
+        "Burewala"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u0631\u06cc\u0648\u0627\u0644\u0627"
     ],
@@ -86,7 +89,7 @@
         "gn:id":1403200
     },
     "wof:country":"PK",
-    "wof:geomhash":"49c2cc0cd28a690b8d29a78808c07492",
+    "wof:geomhash":"f39002d9e47a134183a51d2230eb3d52",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +100,7 @@
         }
     ],
     "wof:id":1259879107,
-    "wof:lastmodified":1566593942,
+    "wof:lastmodified":1660238759,
     "wof:name":"Burewala",
     "wof:parent_id":1108692163,
     "wof:placetype":"locality",
@@ -107,10 +110,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.60349000000002,
+    70.60349,
     29.89516,
-    70.60349000000002,
+    70.60349,
     29.89516
 ],
-  "geometry": {"coordinates":[70.60349000000002,29.89516],"type":"Point"}
+  "geometry": {"coordinates":[70.60348999999999,29.89516],"type":"Point"}
 }

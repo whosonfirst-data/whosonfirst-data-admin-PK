@@ -1,0 +1,79 @@
+{
+  "id": 1780037483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.22928,32.05315,74.22928,32.05315",
+    "geom:latitude":32.05315,
+    "geom:longitude":74.22928,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Thatta Mughlan",
+    "gn:country_code":"PK",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413215,
+    "gn:latitude":32.05315,
+    "gn:longitude":74.22928,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Thatta Mughlan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.20928,32.03315,74.24928,32.07315",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Thatta Chawa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421182299,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413215
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"adfd383a1a417f298e0d63333e28e6a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":421182299,
+            "neighbourhood_id":1780037483,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037483,
+    "wof:lastmodified":1660244282,
+    "wof:name":"Thatta Mughlan",
+    "wof:parent_id":421182299,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260002639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.22928,
+    32.05315,
+    74.22928,
+    32.05315
+],
+  "geometry": {"coordinates":[74.22928,32.05315],"type":"Point"}
+}

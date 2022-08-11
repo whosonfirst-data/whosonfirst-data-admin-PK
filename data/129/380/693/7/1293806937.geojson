@@ -53,6 +53,9 @@
     "name:deu_x_preferred":[
         "Bahawalpur"
     ],
+    "name:eng_x_preferred":[
+        "Bahawalpur"
+    ],
     "name:epo_x_preferred":[
         "Bahavalpur"
     ],
@@ -147,6 +150,9 @@
         "\u0411\u0430\u0445\u0430\u0432\u0430\u043b\u043f\u0443\u0440"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u06c1\u0627\u0648\u0644 \u067e\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u06c1\u0627\u0648\u0644\u067e\u0648\u0631"
     ],
     "name:uzb_x_preferred":[
@@ -176,7 +182,7 @@
         "gn:id":1183878
     },
     "wof:country":"PK",
-    "wof:geomhash":"334d80a9ee43537a08f048476b4dc9c5",
+    "wof:geomhash":"74b8003c095cd604ac7195228e97e158",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -187,7 +193,7 @@
         }
     ],
     "wof:id":1293806937,
-    "wof:lastmodified":1566586334,
+    "wof:lastmodified":1660239158,
     "wof:name":"Bahawalpur",
     "wof:parent_id":1108692247,
     "wof:placetype":"locality",
@@ -197,10 +203,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.98333000000002,
+    71.98333,
     30.53333,
-    71.98333000000002,
+    71.98333,
     30.53333
 ],
-  "geometry": {"coordinates":[71.98333000000002,30.53333],"type":"Point"}
+  "geometry": {"coordinates":[71.98333,30.53333],"type":"Point"}
 }

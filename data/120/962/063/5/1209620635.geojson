@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Qadirabad"
+    ],
     "name:fas_x_preferred":[
         "\u0642\u0627\u062f\u0631\u0622\u0628\u0627\u062f"
     ],
@@ -43,24 +46,30 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692155
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11488645
     },
     "wof:country":"PK",
-    "wof:geomhash":"3d2342819cc7fe60f904ad9eeb9bff26",
+    "wof:geomhash":"24d7642d0aee42ca0056cabeaf612731",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209620635
+            "county_id":1108692155,
+            "locality_id":1209620635,
+            "region_id":85675753
         }
     ],
     "wof:id":1209620635,
-    "wof:lastmodified":1566588265,
+    "wof:lastmodified":1660238273,
     "wof:name":"Qadirabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -68,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.88261999999997,
+    72.88262,
     31.86807,
-    72.88261999999997,
+    72.88262,
     31.86807
 ],
-  "geometry": {"coordinates":[72.88261999999997,31.86807],"type":"Point"}
+  "geometry": {"coordinates":[72.88262,31.86807],"type":"Point"}
 }

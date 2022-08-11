@@ -32,14 +32,20 @@
     "name:diq_x_preferred":[
         "\u011eeribabad"
     ],
+    "name:eng_x_preferred":[
+        "Gharibabad"
+    ],
     "name:und_x_variant":[
         "Ghar\u012bbpura"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0631\u06cc\u0628 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692335
     ],
     "wof:breaches":[],
@@ -54,11 +60,11 @@
             "country_id":85632659,
             "county_id":1108692335,
             "locality_id":1344157799,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1344157799,
-    "wof:lastmodified":1566583604,
+    "wof:lastmodified":1660239678,
     "wof:name":"Gharibabad",
     "wof:parent_id":1108692335,
     "wof:placetype":"locality",

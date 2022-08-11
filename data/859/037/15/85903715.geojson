@@ -4,25 +4,24 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000008,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.378676,31.54308,74.378676,31.54308",
-    "geom:latitude":31.54308,
-    "geom:longitude":74.378676,
+    "geom:bbox":"74.377383,31.549806,74.383116,31.551413",
+    "geom:latitude":31.550624,
+    "geom:longitude":74.38027,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:latitude":31.5468,
     "gn:longitude":74.3806,
     "gn:population":0,
     "iso:country":"PK",
-    "lbl:bbox":"74.373676,31.53808,74.383676,31.54808",
-    "lbl:latitude":31.54308,
-    "lbl:longitude":74.378676,
+    "lbl:latitude":31.550615,
+    "lbl:longitude":74.38027,
     "lbl:max_zoom":18.0,
     "mps:latitude":31.53951,
     "mps:longitude":74.377423,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -40,6 +39,9 @@
     "name:und_x_variant":[
         "Sadr B\u00e5z\u00e5r",
         "Sadr B\u0101z\u0101r Colony"
+    ],
+    "name:urd_x_preferred":[
+        "\u0635\u062f\u0631 \u0628\u0627\u0632\u0627\u0631"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_fcode":"PPL",
@@ -84,16 +86,20 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424922,
     "qs_pg:woe_id":2206909,
-    "src:geom":"mz",
+    "reversegeo:latitude":31.550615,
+    "reversegeo:longitude":74.38027,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692273
+        421204525,
+        1108692273,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,13 +111,13 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"68ee2b04323ab2cbedf403c18920a4ab",
+    "wof:geomhash":"d5592afff12bda346ea7b555cf6e98cc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692273,
-            "locality_id":-1,
+            "locality_id":421204525,
             "neighbourhood_id":85903715,
             "region_id":85675753
         }
@@ -120,9 +126,9 @@
     "wof:lang":[
         "unk"
     ],
-    "wof:lastmodified":1582351427,
+    "wof:lastmodified":1660241788,
     "wof:name":"Sadr B\u00e5z\u00e5r",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -132,10 +138,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.378676,
-    31.54308,
-    74.378676,
-    31.54308
+    74.377383,
+    31.549806,
+    74.383116,
+    31.551413
 ],
-  "geometry": {"coordinates":[74.378676,31.54308],"type":"Point"}
+  "geometry": {"coordinates":[[[74.37738299999999,31.550021],[74.37745200000001,31.551413],[74.38031599999999,31.551311],[74.383116,31.551286],[74.383008,31.549806],[74.380229,31.54992],[74.37933099999999,31.549957],[74.37738299999999,31.550021]]],"type":"Polygon"}
 }

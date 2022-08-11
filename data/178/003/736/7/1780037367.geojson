@@ -1,0 +1,76 @@
+{
+  "id": 1780037367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.51564,30.17438,71.51564,30.17438",
+    "geom:latitude":30.17438,
+    "geom:longitude":71.51564,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chah Nawanwala",
+    "gn:country_code":"PK",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180883,
+    "gn:latitude":30.17438,
+    "gn:longitude":71.51564,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Chah Nawanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.49564,30.15438,71.53564,30.19438",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180883
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebc3a02d6b0fcc2594a984237836cae9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780037367,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037367,
+    "wof:lastmodified":1660244219,
+    "wof:name":"Chah Nawanwala",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209438247
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.51564,
+    30.17438,
+    71.51564,
+    30.17438
+],
+  "geometry": {"coordinates":[71.51564,30.17438],"type":"Point"}
+}

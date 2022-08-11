@@ -1,0 +1,79 @@
+{
+  "id": 1780036553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.65323,29.36761,71.65323,29.36761",
+    "geom:latitude":29.36761,
+    "geom:longitude":71.65323,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dera Azmat",
+    "gn:country_code":"PK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180279,
+    "gn:latitude":29.36761,
+    "gn:longitude":71.65323,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Dera Azmat",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.63323,29.34761,71.67323,29.38761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dera Izzat"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421200425,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180279
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2eec1bdfe4964135b616e4ff31c802bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421200425,
+            "neighbourhood_id":1780036553,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036553,
+    "wof:lastmodified":1660243761,
+    "wof:name":"Dera Azmat",
+    "wof:parent_id":421200425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344162437
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.65323,
+    29.36761,
+    71.65323,
+    29.36761
+],
+  "geometry": {"coordinates":[71.65322999999999,29.36761],"type":"Point"}
+}

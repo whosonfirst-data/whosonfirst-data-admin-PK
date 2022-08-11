@@ -1,0 +1,79 @@
+{
+  "id": 1780038395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66111,30.05801,70.66111,30.05801",
+    "geom:latitude":30.05801,
+    "geom:longitude":70.66111,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Abrindwala",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505160,
+    "gn:latitude":30.05801,
+    "gn:longitude":70.66111,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Abrindwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.64111,30.03801,70.68111,30.07801",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Abrindwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175767,
+        1108692163,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505160
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a7f50b6a553d026d409b3d5ba07ab9f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":421175767,
+            "neighbourhood_id":1780038395,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038395,
+    "wof:lastmodified":1660244789,
+    "wof:name":"Abrindwala",
+    "wof:parent_id":421175767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226753233
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66111,
+    30.05801,
+    70.66111,
+    30.05801
+],
+  "geometry": {"coordinates":[70.66110999999999,30.05801],"type":"Point"}
+}

@@ -4,21 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000016,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.54798,32.33298,74.54798,32.33298",
-    "geom:latitude":32.33298,
-    "geom:longitude":74.54798,
+    "geom:bbox":"74.558558,32.327387,74.56365,32.330722",
+    "geom:latitude":32.32906,
+    "geom:longitude":74.561112,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":20897,
     "iso:country":"PK",
-    "lbl:bbox":"74.52798,32.31298,74.56798,32.35298",
+    "lbl:latitude":32.32907,
+    "lbl:longitude":74.561112,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
+    "name:eng_x_preferred":[
+        "Kot Ghul\u0101m Muhammad"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u062a \u063a\u0644\u0627\u0645 \u0645\u062d\u0645\u062f"
     ],
@@ -32,12 +36,20 @@
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"7",
+    "reversegeo:latitude":32.32907,
+    "reversegeo:longitude":74.561112,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wd:wordcount":1027,
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,19 +59,20 @@
     },
     "wof:country":"PK",
     "wof:created":1469051987,
-    "wof:geomhash":"891ddd6440f2dfe85406d25af4b8215f",
+    "wof:geomhash":"64566814cc3e3d22c7c8a23591fb65c0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692381,
             "locality_id":890433627,
             "region_id":85675753
         }
     ],
     "wof:id":890433627,
-    "wof:lastmodified":1566591801,
+    "wof:lastmodified":1660241841,
     "wof:name":"Kot Ghul\u0101m Muhammad",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692381,
     "wof:placetype":"locality",
     "wof:population":20897,
     "wof:population_rank":7,
@@ -69,10 +82,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.54798,
-    32.33298,
-    74.54798,
-    32.33298
+    74.558558,
+    32.327387,
+    74.56365,
+    32.330722
 ],
-  "geometry": {"coordinates":[74.54798,32.33298],"type":"Point"}
+  "geometry": {"coordinates":[[[74.558606,32.330722],[74.560154,32.330704],[74.56111900000001,32.330706],[74.562082,32.330684],[74.563445,32.330684],[74.56360100000001,32.330674],[74.563638,32.330641],[74.56365,32.330599],[74.56361800000001,32.330038],[74.56363,32.329703],[74.56361,32.329186],[74.563593,32.328259],[74.563593,32.327773],[74.56359500000001,32.327596],[74.563577,32.327475],[74.56352699999999,32.327421],[74.56343099999999,32.327397],[74.563039,32.327387],[74.562146,32.327391],[74.56116299999999,32.327431],[74.56080900000001,32.327451],[74.560697,32.327403],[74.560227,32.327435],[74.55950900000001,32.327451],[74.55872100000001,32.327447],[74.558558,32.327471],[74.55861,32.328577],[74.558626,32.329707],[74.558606,32.330722]]],"type":"Polygon"}
 }

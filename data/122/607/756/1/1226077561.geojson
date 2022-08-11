@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Jand"
+    ],
     "name:hrv_x_preferred":[
         "Jand"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0627\u0646\u0688"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +50,7 @@
         "gn:id":11441719
     },
     "wof:country":"PK",
-    "wof:geomhash":"ea85a7c9341e50f5f7b73f2f0f3524fd",
+    "wof:geomhash":"411ffd783ea6bd871b0966e6941595a5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1226077561,
-    "wof:lastmodified":1566595090,
+    "wof:lastmodified":1660238410,
     "wof:name":"Jand",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.46198000000003,
+    73.46198,
     33.67991,
-    73.46198000000003,
+    73.46198,
     33.67991
 ],
-  "geometry": {"coordinates":[73.46198000000003,33.67991],"type":"Point"}
+  "geometry": {"coordinates":[73.46198,33.67991],"type":"Point"}
 }

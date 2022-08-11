@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mustafabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0635\u0637\u0641\u06cc \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":1169619
     },
     "wof:country":"PK",
-    "wof:geomhash":"e9025273b133919fe525d528e9274b20",
+    "wof:geomhash":"74b6d85c9f3df8a1415a394f53a6cbe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1343393023,
-    "wof:lastmodified":1566583458,
+    "wof:lastmodified":1660239574,
     "wof:name":"Mustafabad",
     "wof:parent_id":1108692367,
     "wof:placetype":"locality",
@@ -63,9 +69,9 @@
 },
   "bbox": [
     72.81278,
-    32.06639000000001,
+    32.06639,
     72.81278,
-    32.06639000000001
+    32.06639
 ],
-  "geometry": {"coordinates":[72.81278,32.06639000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.81278,32.06639],"type":"Point"}
 }

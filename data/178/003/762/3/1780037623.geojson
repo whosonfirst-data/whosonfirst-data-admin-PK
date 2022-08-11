@@ -1,0 +1,79 @@
+{
+  "id": 1780037623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.58885,30.37538,68.58885,30.37538",
+    "geom:latitude":30.37538,
+    "geom:longitude":68.58885,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Arbsin City",
+    "gn:country_code":"PK",
+    "gn:dem":1444,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1353311,
+    "gn:latitude":30.37538,
+    "gn:longitude":68.58885,
+    "gn:modification_date":"2016-06-05",
+    "gn:name":"Arbsin City",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.56885,30.35538,68.60885,30.39538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Arbsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175765,
+        890420091,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1353311
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0d91a581982a07e8c17dcc4e145e9f0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890420091,
+            "locality_id":421175765,
+            "neighbourhood_id":1780037623,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037623,
+    "wof:lastmodified":1660244361,
+    "wof:name":"Arbsin City",
+    "wof:parent_id":421175765,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310307017
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.58885,
+    30.37538,
+    68.58885,
+    30.37538
+],
+  "geometry": {"coordinates":[68.58884999999999,30.37538],"type":"Point"}
+}

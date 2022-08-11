@@ -1,0 +1,82 @@
+{
+  "id": 1780037335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36275,34.76982,72.36275,34.76982",
+    "geom:latitude":34.76982,
+    "geom:longitude":72.36275,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Landaikas",
+    "gn:country_code":"PK",
+    "gn:dem":929,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1384683,
+    "gn:latitude":34.76982,
+    "gn:longitude":72.36275,
+    "gn:modification_date":"2017-08-02",
+    "gn:name":"Landaikas",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.34275,34.74982,72.38275,34.78982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mohallah Lund-i-Kas"
+    ],
+    "name:und_x_variant":[
+        "H\u0101ji B\u0101ba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421172857,
+        1108692399,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1384683
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4e01e4a39656b00655123ed04c24e1e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692399,
+            "locality_id":421172857,
+            "neighbourhood_id":1780037335,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037335,
+    "wof:lastmodified":1660244202,
+    "wof:name":"Landaikas",
+    "wof:parent_id":421172857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209421677
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36275,
+    34.76982,
+    72.36275,
+    34.76982
+],
+  "geometry": {"coordinates":[72.36275000000001,34.76982],"type":"Point"}
+}

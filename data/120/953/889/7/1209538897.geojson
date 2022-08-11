@@ -29,9 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Lokowala"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0648\u06a9\u0648 \u0648\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +50,17 @@
     "wof:geomhash":"d631e576a634eff825ff3357b0510b6f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209538897
+            "county_id":1108692127,
+            "locality_id":1209538897,
+            "region_id":85675753
         }
     ],
     "wof:id":1209538897,
-    "wof:lastmodified":1566588143,
+    "wof:lastmodified":1660238262,
     "wof:name":"Lokowala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

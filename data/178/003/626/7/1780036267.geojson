@@ -1,0 +1,76 @@
+{
+  "id": 1780036267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.67586,32.0896,73.67586,32.0896",
+    "geom:latitude":32.0896,
+    "geom:longitude":73.67586,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jharianwala",
+    "gn:country_code":"PK",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7329909,
+    "gn:latitude":32.0896,
+    "gn:longitude":73.67586,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jharianwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.65586,32.0696,73.69586,32.1096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421198681,
+        1108692201,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7329909
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"30fa47375e00d8fe1a052a8d26df9af6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":421198681,
+            "neighbourhood_id":1780036267,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036267,
+    "wof:lastmodified":1660243597,
+    "wof:name":"Jharianwala",
+    "wof:parent_id":421198681,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326635371
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.67586,
+    32.0896,
+    73.67586,
+    32.0896
+],
+  "geometry": {"coordinates":[73.67586,32.0896],"type":"Point"}
+}

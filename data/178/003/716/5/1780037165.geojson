@@ -1,0 +1,85 @@
+{
+  "id": 1780037165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.38977,31.89676,72.38977,31.89676",
+    "geom:latitude":31.89676,
+    "geom:longitude":72.38977,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Sulki",
+    "gn:country_code":"PK",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1164383,
+    "gn:latitude":31.89676,
+    "gn:longitude":72.38977,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Sulki",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.36977,31.87676,72.40977,31.91676",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fra_x_preferred":[
+        "Sulki"
+    ],
+    "name:pol_x_preferred":[
+        "Sulki"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u043b\u044c\u043a\u0456"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421205177,
+        1108692367,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1164383
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"123087e16604c9961c392020b7b6115b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":421205177,
+            "neighbourhood_id":1780037165,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037165,
+    "wof:lastmodified":1660244105,
+    "wof:name":"Sulki",
+    "wof:parent_id":421205177,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209009611
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.38977,
+    31.89676,
+    72.38977,
+    31.89676
+],
+  "geometry": {"coordinates":[72.38977,31.89676],"type":"Point"}
+}

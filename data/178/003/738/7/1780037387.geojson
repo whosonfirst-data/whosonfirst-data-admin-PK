@@ -1,0 +1,74 @@
+{
+  "id": 1780037387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.14053,33.66369,73.14053,33.66369",
+    "geom:latitude":33.66369,
+    "geom:longitude":73.14053,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Capital Development Authority Scheme Two",
+    "gn:country_code":"PK",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449808,
+    "gn:latitude":33.66369,
+    "gn:longitude":73.14053,
+    "gn:modification_date":"2017-02-05",
+    "gn:name":"Capital Development Authority Scheme Two",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.12053,33.64369,73.16053,33.68369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449808
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0f2e5847cf87c4eae7895308f2290dcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780037387,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780037387,
+    "wof:lastmodified":1660244231,
+    "wof:name":"Capital Development Authority Scheme Two",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1210006561
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.14053,
+    33.66369,
+    73.14053,
+    33.66369
+],
+  "geometry": {"coordinates":[73.14053,33.66369],"type":"Point"}
+}

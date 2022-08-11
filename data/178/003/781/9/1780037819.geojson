@@ -1,0 +1,79 @@
+{
+  "id": 1780037819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.38611,30.35,73.38611,30.35",
+    "geom:latitude":30.35,
+    "geom:longitude":73.38611,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mand",
+    "gn:country_code":"PK",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416601,
+    "gn:latitude":30.35,
+    "gn:longitude":73.38611,
+    "gn:modification_date":"2002-01-15",
+    "gn:name":"Mand",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.36611,30.33,73.40611,30.37",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Mand"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167225,
+        1108692343,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416601
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e9ce456d2db162c2af262662bb0912c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":421167225,
+            "neighbourhood_id":1780037819,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037819,
+    "wof:lastmodified":1660244470,
+    "wof:name":"Mand",
+    "wof:parent_id":421167225,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309905379
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.38611,
+    30.35,
+    73.38611,
+    30.35
+],
+  "geometry": {"coordinates":[73.38611,30.35],"type":"Point"}
+}

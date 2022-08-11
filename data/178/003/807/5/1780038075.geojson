@@ -1,0 +1,76 @@
+{
+  "id": 1780038075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.44439,30.24349,71.44439,30.24349",
+    "geom:latitude":30.24349,
+    "geom:longitude":71.44439,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nandlewala",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11348868,
+    "gn:latitude":30.24349,
+    "gn:longitude":71.44439,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Nandlewala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.42439,30.22349,71.46439,30.26349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11348868
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a59c407d2ce2d74057ca9644a149cf06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780038075,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038075,
+    "wof:lastmodified":1660244614,
+    "wof:name":"Nandlewala",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242783463
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.44439,
+    30.24349,
+    71.44439,
+    30.24349
+],
+  "geometry": {"coordinates":[71.44439,30.24349],"type":"Point"}
+}

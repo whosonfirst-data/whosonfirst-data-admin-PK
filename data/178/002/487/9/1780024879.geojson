@@ -1,0 +1,62 @@
+{
+  "id": 1780024879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00002,
+    "geom:bbox":"74.429468,31.565545,74.435292,31.572457",
+    "geom:latitude":31.568403,
+    "geom:longitude":74.433306,
+    "iso:country":"PK",
+    "lbl:latitude":31.568044,
+    "lbl:longitude":74.433261,
+    "mps:latitude":31.568044,
+    "mps:longitude":74.433261,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jalal Colony"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u0644\u0627\u0644 \u06a9\u0627\u0644\u0648\u0646\u06cc"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421204525,
+        1108692273,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"ec89cb2e7286cffb8ff63333d318cd98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":421204525,
+            "neighbourhood_id":1780024879,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780024879,
+    "wof:lastmodified":1660241740,
+    "wof:name":"Jalal Colony",
+    "wof:parent_id":421204525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.429468,
+    31.565545,
+    74.435292,
+    31.572457
+],
+  "geometry": {"coordinates":[[[74.43511100000001,31.565545],[74.434217,31.565658],[74.430854,31.566892],[74.429468,31.567351],[74.429827,31.56764],[74.433325,31.570663],[74.434584,31.571922],[74.435292,31.572457],[74.43517199999999,31.567836],[74.43511100000001,31.565545]]],"type":"Polygon"}
+}

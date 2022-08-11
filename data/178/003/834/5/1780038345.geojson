@@ -1,0 +1,76 @@
+{
+  "id": 1780038345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.22022,29.98823,73.22022,29.98823",
+    "geom:latitude":29.98823,
+    "geom:longitude":73.22022,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhani Sabhanwali",
+    "gn:country_code":"PK",
+    "gn:dem":155,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11085880,
+    "gn:latitude":29.98823,
+    "gn:longitude":73.22022,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Dhani Sabhanwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.20022,29.96823,73.24022,30.00823",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1125820229,
+        1108692127,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11085880
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d1f36d1e5f7a9cdef52dba37150c8bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":1125820229,
+            "neighbourhood_id":1780038345,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038345,
+    "wof:lastmodified":1660244761,
+    "wof:name":"Dhani Sabhanwali",
+    "wof:parent_id":1125820229,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259879237
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.22022,
+    29.98823,
+    73.22022,
+    29.98823
+],
+  "geometry": {"coordinates":[73.22022,29.98823],"type":"Point"}
+}

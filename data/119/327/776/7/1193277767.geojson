@@ -32,11 +32,17 @@
     "name:ceb_x_preferred":[
         "Kamalabad"
     ],
+    "name:eng_x_preferred":[
+        "Kamalabad"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0645\u0627\u0644\u200c\u0622\u0628\u0627\u062f"
     ],
     "name:swe_x_preferred":[
         "Kamalabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0645\u0627\u0644 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +56,7 @@
         "gn:id":11268190
     },
     "wof:country":"PK",
-    "wof:geomhash":"538d89d9ae316f40b1bceb5a12217702",
+    "wof:geomhash":"f24c069e9e9d226ad60cac845c15e612",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1193277767,
-    "wof:lastmodified":1566589699,
+    "wof:lastmodified":1660238174,
     "wof:name":"Kamalabad",
     "wof:parent_id":1108692231,
     "wof:placetype":"locality",
@@ -71,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.66996999999999,
+    66.66997,
     29.37876,
-    66.66996999999999,
+    66.66997,
     29.37876
 ],
-  "geometry": {"coordinates":[66.66996999999999,29.37876],"type":"Point"}
+  "geometry": {"coordinates":[66.66997000000001,29.37876],"type":"Point"}
 }

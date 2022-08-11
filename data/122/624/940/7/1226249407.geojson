@@ -38,6 +38,9 @@
     "name:ell_x_preferred":[
         "\u03a4\u03ad\u03bb\u03b9"
     ],
+    "name:eng_x_preferred":[
+        "Teli"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0644\u06cc"
     ],
@@ -87,6 +90,9 @@
         "\u0422\u0435\u043b\u0456"
     ],
     "name:urd_x_preferred":[
+        "\u062a\u06cc\u0644\u06cc"
+    ],
+    "name:urd_x_variant":[
         "\u0679\u06cc\u0644\u06cc"
     ],
     "name:vie_x_preferred":[
@@ -96,7 +102,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692165
     ],
     "wof:breaches":[],
@@ -111,11 +117,11 @@
             "country_id":85632659,
             "county_id":1108692165,
             "locality_id":1226249407,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1226249407,
-    "wof:lastmodified":1636502062,
+    "wof:lastmodified":1660238444,
     "wof:name":"Teli",
     "wof:parent_id":1108692165,
     "wof:placetype":"locality",

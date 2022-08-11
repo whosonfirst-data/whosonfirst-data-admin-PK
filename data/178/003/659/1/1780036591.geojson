@@ -1,0 +1,76 @@
+{
+  "id": 1780036591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.34906,32.48091,74.34906,32.48091",
+    "geom:latitude":32.48091,
+    "geom:longitude":74.34906,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rasulpura",
+    "gn:country_code":"PK",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457079,
+    "gn:latitude":32.48091,
+    "gn:longitude":74.34906,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Rasulpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.32906,32.46091,74.36906,32.50091",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421200371,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457079
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33df897ca0cde94d112ce38ff5d4a1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":421200371,
+            "neighbourhood_id":1780036591,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036591,
+    "wof:lastmodified":1660243784,
+    "wof:name":"Rasulpura",
+    "wof:parent_id":421200371,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343458075
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.34906,
+    32.48091,
+    74.34906,
+    32.48091
+],
+  "geometry": {"coordinates":[74.34905999999999,32.48091],"type":"Point"}
+}

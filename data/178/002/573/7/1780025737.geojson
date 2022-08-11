@@ -1,0 +1,62 @@
+{
+  "id": 1780025737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000022,
+    "geom:bbox":"67.051904,24.941221,67.06188,24.949121",
+    "geom:latitude":24.945144,
+    "geom:longitude":67.056845,
+    "iso:country":"PK",
+    "lbl:latitude":24.945133,
+    "lbl:longitude":67.056845,
+    "mps:latitude":24.945133,
+    "mps:longitude":67.056845,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Nazimabad Block M"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u0646\u0627\u0638\u0645 \u0622\u0628\u0627\u062f \u0628\u0644\u0627\u06a9 M"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"77a9bd57f35e680dad5d3b8fed4d3e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025737,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025737,
+    "wof:lastmodified":1660240429,
+    "wof:name":"North Nazimabad Block M",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.051904,
+    24.941221,
+    67.06188,
+    24.949121
+],
+  "geometry": {"coordinates":[[[67.053344,24.949121],[67.055958,24.947084],[67.059983,24.944062],[67.06188,24.942692],[67.06059399999999,24.941377],[67.060428,24.941221],[67.057912,24.943058],[67.05552,24.944831],[67.053726,24.946176],[67.05190399999999,24.9475],[67.053344,24.949121]]],"type":"Polygon"}
+}

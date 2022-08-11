@@ -1,0 +1,76 @@
+{
+  "id": 1780036791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.84934,32.82273,73.84934,32.82273",
+    "geom:latitude":32.82273,
+    "geom:longitude":73.84934,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Thapla",
+    "gn:country_code":"PK",
+    "gn:dem":304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1163619,
+    "gn:latitude":32.82273,
+    "gn:longitude":73.84934,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Thapla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.82934,32.80273,73.86934,32.84273",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890436603,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1163619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4b00d957eb8ffdc495f18b5d73679504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":890436603,
+            "neighbourhood_id":1780036791,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036791,
+    "wof:lastmodified":1660243895,
+    "wof:name":"Thapla",
+    "wof:parent_id":890436603,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293594787
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.84934,
+    32.82273,
+    73.84934,
+    32.82273
+],
+  "geometry": {"coordinates":[73.84934,32.82273],"type":"Point"}
+}

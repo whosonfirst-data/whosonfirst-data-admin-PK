@@ -1,0 +1,76 @@
+{
+  "id": 1780037381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.26415,28.5001,66.26415,28.5001",
+    "geom:latitude":28.5001,
+    "geom:longitude":66.26415,
+    "gn:admin1_code":"2",
+    "gn:asciiname":"Rodeni",
+    "gn:country_code":"PK",
+    "gn:dem":1769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1395081,
+    "gn:latitude":28.5001,
+    "gn:longitude":66.26415,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Rodeni",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.24415,28.4801,66.28415,28.5201",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167215,
+        1108692231,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1395081
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"674d1ea4f1eb7cc7b0470e3485ac096c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692231,
+            "locality_id":421167215,
+            "neighbourhood_id":1780037381,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037381,
+    "wof:lastmodified":1660244227,
+    "wof:name":"Rodeni",
+    "wof:parent_id":421167215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209728055
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.26415,
+    28.5001,
+    66.26415,
+    28.5001
+],
+  "geometry": {"coordinates":[66.26415,28.5001],"type":"Point"}
+}

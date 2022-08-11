@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Faq\u012brw\u0101li"
     ],
+    "name:eng_x_preferred":[
+        "Faqirwali"
+    ],
     "name:fas_x_preferred":[
         "\u0641\u0642\u06cc\u0631\u0648\u0627\u0644\u06cc"
     ],
@@ -42,11 +45,17 @@
         "Faqirwali"
     ],
     "name:urd_x_preferred":[
+        "\u0641\u0642\u06cc\u0631 \u0648\u0627\u0644\u06cc"
+    ],
+    "name:urd_x_variant":[
         "\u0641\u0642\u06cc\u0631\u0648\u0627\u0644\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +65,17 @@
     "wof:geomhash":"14f65e0bbe439a2b45761e2eade8281c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209214153
+            "county_id":1108692321,
+            "locality_id":1209214153,
+            "region_id":85675753
         }
     ],
     "wof:id":1209214153,
-    "wof:lastmodified":1566589170,
+    "wof:lastmodified":1660238203,
     "wof:name":"Faqirwali",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

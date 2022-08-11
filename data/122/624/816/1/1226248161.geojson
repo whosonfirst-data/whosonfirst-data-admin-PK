@@ -2,7 +2,7 @@
   "id": 1226248161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lochhmanw\u0101la",
@@ -46,7 +46,7 @@
         "gn:id":7110998
     },
     "wof:country":"PK",
-    "wof:geomhash":"ae10d0357ceff6b1e6ea9656a96ee855",
+    "wof:geomhash":"a5f99d218f369197033516724edbe641",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +57,22 @@
         }
     ],
     "wof:id":1226248161,
-    "wof:lastmodified":1566594775,
+    "wof:lastmodified":1660242209,
     "wof:name":"Chak Two Hundred Ten Rakh Branch",
     "wof:parent_id":1108692169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038533
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     73.20777,
-    31.43114000000001,
+    31.43114,
     73.20777,
-    31.43114000000001
+    31.43114
 ],
-  "geometry": {"coordinates":[73.20777,31.43114000000001],"type":"Point"}
+  "geometry": {"coordinates":[73.20777,31.43114],"type":"Point"}
 }

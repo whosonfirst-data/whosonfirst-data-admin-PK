@@ -1,0 +1,79 @@
+{
+  "id": 1780038169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.96532,31.73555,73.96532,31.73555",
+    "geom:latitude":31.73555,
+    "geom:longitude":73.96532,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bahadra",
+    "gn:country_code":"PK",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331263,
+    "gn:latitude":31.73555,
+    "gn:longitude":73.96532,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Bahadra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.94532,31.71555,73.98532,31.75555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bhadra"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203157,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331263
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c1b95b0544fe600f2ca34ff35b0e6ccb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":421203157,
+            "neighbourhood_id":1780038169,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038169,
+    "wof:lastmodified":1660244669,
+    "wof:name":"Bahadra",
+    "wof:parent_id":421203157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243263459
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.96532,
+    31.73555,
+    73.96532,
+    31.73555
+],
+  "geometry": {"coordinates":[73.96532000000001,31.73555],"type":"Point"}
+}

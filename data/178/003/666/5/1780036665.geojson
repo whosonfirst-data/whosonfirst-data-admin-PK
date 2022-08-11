@@ -1,0 +1,76 @@
+{
+  "id": 1780036665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.27368,24.36009,68.27368,24.36009",
+    "geom:latitude":24.36009,
+    "geom:longitude":68.27368,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Muhammad Ismail",
+    "gn:country_code":"PK",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7353686,
+    "gn:latitude":24.36009,
+    "gn:longitude":68.27368,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Goth Muhammad Ismail",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.25368,24.34009,68.29368,24.38009",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421197391,
+        1108692393,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7353686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"935b781ddca0f7e2ca1898c632a6cf28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692393,
+            "locality_id":421197391,
+            "neighbourhood_id":1780036665,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036665,
+    "wof:lastmodified":1660243824,
+    "wof:name":"Goth Muhammad Ismail",
+    "wof:parent_id":421197391,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293004933
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.27368,
+    24.36009,
+    68.27368,
+    24.36009
+],
+  "geometry": {"coordinates":[68.27368,24.36009],"type":"Point"}
+}

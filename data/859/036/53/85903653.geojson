@@ -4,20 +4,19 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000156,
     "geom:area_square_m":0.0,
-    "geom:bbox":"71.519348,33.993928,71.519348,33.993928",
-    "geom:latitude":33.993928,
-    "geom:longitude":71.519348,
+    "geom:bbox":"71.496664,33.978254,71.514684,33.992744",
+    "geom:latitude":33.984519,
+    "geom:longitude":71.506723,
     "iso:country":"PK",
-    "lbl:bbox":"71.514348,33.988928,71.524348,33.998928",
-    "lbl:latitude":33.993928,
-    "lbl:longitude":71.519348,
+    "lbl:latitude":33.984597,
+    "lbl:longitude":71.506551,
     "lbl:max_zoom":18.0,
     "mps:latitude":33.993473,
     "mps:longitude":71.519138,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -30,6 +29,9 @@
     ],
     "name:eng_x_variant":[
         "Abdara"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u0628 \u062f\u0627\u0631\u06c1"
     ],
     "qs:gn_adm0_cc":"PK",
     "qs:gn_id":0,
@@ -52,16 +54,19 @@
     "qs:woe_lau":0,
     "qs:woe_local":2211344,
     "qs:woe_ver":"7.10.0",
-    "src:geom":"mz",
+    "reversegeo:latitude":33.984597,
+    "reversegeo:longitude":71.506551,
+    "src:geom":"whosonfirst",
     "src:geom_alt":[
-        "quattroshapes"
+        "quattroshapes",
+        "mz"
     ],
-    "src:lbl_centroid":"yerbashapes",
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        1360701001,
         102191569,
         85632659,
-        1108692347
+        1108692347,
+        1360701001
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,7 +76,7 @@
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"4488ee74b0149eeec46cca882e6f99e3",
+    "wof:geomhash":"c4ce56311b37baaa53926586fe28664f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,7 +91,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351427,
+    "wof:lastmodified":1660241770,
     "wof:name":"Abdarra",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -96,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.519348,
-    33.993928,
-    71.519348,
-    33.993928
+    71.496664,
+    33.978254,
+    71.514684,
+    33.992744
 ],
-  "geometry": {"coordinates":[71.51934799999999,33.993928],"type":"Point"}
+  "geometry": {"coordinates":[[[71.506935,33.992744],[71.507312,33.991717],[71.50750499999999,33.991332],[71.50840100000001,33.991457],[71.508459,33.990956],[71.509837,33.988701],[71.51027999999999,33.988181],[71.51298800000001,33.987044],[71.514048,33.98636],[71.514376,33.983025],[71.514684,33.978254],[71.509919,33.978573],[71.506805,33.978839],[71.504383,33.979345],[71.502413,33.979877],[71.50164100000001,33.98033],[71.501082,33.980942],[71.499565,33.983657],[71.498341,33.985759],[71.497542,33.98717],[71.496664,33.987809],[71.496861,33.98807],[71.497979,33.988205],[71.49873100000001,33.988263],[71.499849,33.988272],[71.500022,33.988783],[71.50184299999999,33.988639],[71.50193,33.990922],[71.50326,33.990431],[71.50488900000001,33.989959],[71.50537,33.990778],[71.505939,33.991751],[71.506935,33.992744]]],"type":"Polygon"}
 }

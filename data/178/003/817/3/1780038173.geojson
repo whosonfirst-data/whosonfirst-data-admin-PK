@@ -1,0 +1,76 @@
+{
+  "id": 1780038173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.0286,31.37982,73.0286,31.37982",
+    "geom:latitude":31.37982,
+    "geom:longitude":73.0286,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhukpura",
+    "gn:country_code":"PK",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110616,
+    "gn:latitude":31.37982,
+    "gn:longitude":73.0286,
+    "gn:modification_date":"2017-08-03",
+    "gn:name":"Bhukpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.0086,31.35982,73.0486,31.39982",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421181503,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110616
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ebd6b88a8e54b8bf8a000aa093e85f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":421181503,
+            "neighbourhood_id":1780038173,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038173,
+    "wof:lastmodified":1660244670,
+    "wof:name":"Bhukpura",
+    "wof:parent_id":421181503,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243263265
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.0286,
+    31.37982,
+    73.0286,
+    31.37982
+],
+  "geometry": {"coordinates":[73.0286,31.37982],"type":"Point"}
+}

@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dajal"
+    ],
     "name:und_x_variant":[
         "Basti D\u0101jal"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0627\u062c\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +50,7 @@
         "gn:id":1366683
     },
     "wof:country":"PK",
-    "wof:geomhash":"1752855f7384bafdcce0ead3d1d0dafa",
+    "wof:geomhash":"57382673d284ecc85e6ed55d927c0437",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1259879549,
-    "wof:lastmodified":1566593901,
+    "wof:lastmodified":1660238761,
     "wof:name":"Dajal",
     "wof:parent_id":1108692143,
     "wof:placetype":"locality",
@@ -66,9 +72,9 @@
 },
   "bbox": [
     71.00415,
-    31.73932000000001,
+    31.73932,
     71.00415,
-    31.73932000000001
+    31.73932
 ],
-  "geometry": {"coordinates":[71.00415,31.73932000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.00415,31.73932],"type":"Point"}
 }

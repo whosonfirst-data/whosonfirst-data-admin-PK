@@ -1,0 +1,91 @@
+{
+  "id": 1780036525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.87076,32.80476,73.87076,32.80476",
+    "geom:latitude":32.80476,
+    "geom:longitude":73.87076,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Faisal Town",
+    "gn:country_code":"PK",
+    "gn:dem":281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11069013,
+    "gn:latitude":32.80476,
+    "gn:longitude":73.87076,
+    "gn:modification_date":"2016-02-08",
+    "gn:name":"Faisal Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.85076,32.78476,73.89076,32.82476",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Faisal Town"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u06cc\u0635\u0644 \u062a\u0627\u0648\u0646"
+    ],
+    "name:hin_x_preferred":[
+        "\u092b\u0948\u0938\u0932 \u091f\u093e\u0909\u0928"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0641\u06cc\u0635\u0644 \u0679\u0627\u0624\u0646"
+    ],
+    "name:urd_x_preferred":[
+        "\u0641\u06cc\u0635\u0644 \u0679\u0627\u0624\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890436603,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11069013
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ab6d02895b444e1ef5ad5f0ab2c41ced",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":890436603,
+            "neighbourhood_id":1780036525,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036525,
+    "wof:lastmodified":1660241860,
+    "wof:name":"Faisal Town",
+    "wof:parent_id":890436603,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343560649
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.87076,
+    32.80476,
+    73.87076,
+    32.80476
+],
+  "geometry": {"coordinates":[73.87076,32.80476],"type":"Point"}
+}

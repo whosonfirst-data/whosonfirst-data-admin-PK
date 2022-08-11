@@ -1,0 +1,76 @@
+{
+  "id": 1780036363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.97908,31.68741,73.97908,31.68741",
+    "geom:latitude":31.68741,
+    "geom:longitude":73.97908,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jiwanpur Kalan",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331247,
+    "gn:latitude":31.68741,
+    "gn:longitude":73.97908,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jiwanpur Kalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.95908,31.66741,73.99908,31.70741",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203157,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331247
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"265dc08168746a574746832e9d1be511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":421203157,
+            "neighbourhood_id":1780036363,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036363,
+    "wof:lastmodified":1660243654,
+    "wof:name":"Jiwanpur Kalan",
+    "wof:parent_id":421203157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343393269
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.97908,
+    31.68741,
+    73.97908,
+    31.68741
+],
+  "geometry": {"coordinates":[73.97908,31.68741],"type":"Point"}
+}

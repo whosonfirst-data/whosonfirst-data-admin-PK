@@ -1,0 +1,80 @@
+{
+  "id": 1780036385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.50178,32.51485,74.50178,32.51485",
+    "geom:latitude":32.51485,
+    "geom:longitude":74.50178,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bauka",
+    "gn:country_code":"PK",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1372016,
+    "gn:latitude":32.51485,
+    "gn:longitude":74.50178,
+    "gn:modification_date":"2001-09-27",
+    "gn:name":"Bauka",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.48178,32.49485,74.52178,32.53485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Bonkan",
+        "Bauka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175525,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1372016
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f9dd99b3b097171755916b0e7ab46113",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":421175525,
+            "neighbourhood_id":1780036385,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036385,
+    "wof:lastmodified":1660243667,
+    "wof:name":"Bauka",
+    "wof:parent_id":421175525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344156641
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.50178,
+    32.51485,
+    74.50178,
+    32.51485
+],
+  "geometry": {"coordinates":[74.50178,32.51485],"type":"Point"}
+}

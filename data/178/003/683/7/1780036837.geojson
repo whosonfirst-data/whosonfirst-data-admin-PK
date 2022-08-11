@@ -1,0 +1,76 @@
+{
+  "id": 1780036837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19688,32.55436,73.19688,32.55436",
+    "geom:latitude":32.55436,
+    "geom:longitude":73.19688,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Chalpur",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379752,
+    "gn:latitude":32.55436,
+    "gn:longitude":73.19688,
+    "gn:modification_date":"2017-02-04",
+    "gn:name":"Chalpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.17688,32.53436,73.21688,32.57436",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890417989,
+        1108692367,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379752
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"68fb1c3e5d0077d66967a88187278ce8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":890417989,
+            "neighbourhood_id":1780036837,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036837,
+    "wof:lastmodified":1660243923,
+    "wof:name":"Chalpur",
+    "wof:parent_id":890417989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292908855
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19688,
+    32.55436,
+    73.19688,
+    32.55436
+],
+  "geometry": {"coordinates":[73.19687999999999,32.55436],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1780037419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.43008,31.1214,74.43008,31.1214",
+    "geom:latitude":31.1214,
+    "geom:longitude":74.43008,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Rasulpur",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331736,
+    "gn:latitude":31.1214,
+    "gn:longitude":74.43008,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Rasulpur",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.41008,31.1014,74.45008,31.1414",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:fas_x_preferred":[
+        "\u0631\u0633\u0648\u0644\u200c\u067e\u0648\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0633\u0648\u0644\u067e\u0648\u0631"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203947,
+        1108692239,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331736
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"83b2f7791976d4f77fede997b28ded0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":421203947,
+            "neighbourhood_id":1780037419,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037419,
+    "wof:lastmodified":1660244245,
+    "wof:name":"Rasulpur",
+    "wof:parent_id":421203947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193015615
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.43008,
+    31.1214,
+    74.43008,
+    31.1214
+],
+  "geometry": {"coordinates":[74.43008,31.1214],"type":"Point"}
+}

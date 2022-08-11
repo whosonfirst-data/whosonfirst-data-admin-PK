@@ -1,0 +1,76 @@
+{
+  "id": 1780037449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.55307,29.71538,72.55307,29.71538",
+    "geom:latitude":29.71538,
+    "geom:longitude":72.55307,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Hasilpur Purana",
+    "gn:country_code":"PK",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11489821,
+    "gn:latitude":29.71538,
+    "gn:longitude":72.55307,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Hasilpur Purana",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.53307,29.69538,72.57307,29.73538",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167261,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11489821
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"4258bef3bb1fb30589a84de1bc3fe9c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421167261,
+            "neighbourhood_id":1780037449,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037449,
+    "wof:lastmodified":1660244264,
+    "wof:name":"Hasilpur Purana",
+    "wof:parent_id":421167261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1193275045
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.55307,
+    29.71538,
+    72.55307,
+    29.71538
+],
+  "geometry": {"coordinates":[72.55307000000001,29.71538],"type":"Point"}
+}

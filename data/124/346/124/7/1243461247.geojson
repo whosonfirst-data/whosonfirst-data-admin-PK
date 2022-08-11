@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Sabirabad"
     ],
+    "name:eng_x_preferred":[
+        "Sabirabad"
+    ],
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05d1\u05d9\u05e8\u05d0\u05d1\u05d0\u05d3"
     ],
@@ -50,11 +53,14 @@
     "name:swe_x_preferred":[
         "Sabirabad"
     ],
+    "name:urd_x_preferred":[
+        "\u0635\u0627\u0628\u0631 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692397
     ],
     "wof:breaches":[],
@@ -69,11 +75,11 @@
             "country_id":85632659,
             "county_id":1108692397,
             "locality_id":1243461247,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1243461247,
-    "wof:lastmodified":1636502044,
+    "wof:lastmodified":1660238661,
     "wof:name":"Sabirabad",
     "wof:parent_id":1108692397,
     "wof:placetype":"locality",

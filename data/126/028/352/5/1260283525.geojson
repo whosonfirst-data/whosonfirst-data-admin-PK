@@ -2,7 +2,7 @@
   "id": 1260283525,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -28,7 +28,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u067e\u0644\u0627\u0631\u062f \u06a9\u0648\u062a"
@@ -52,7 +52,7 @@
         "gn:id":1167780
     },
     "wof:country":"PK",
-    "wof:geomhash":"f04577108b4d6e5e14945a6cc9d72741",
+    "wof:geomhash":"3386f921b08dbf3727c883507b94796a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +63,22 @@
         }
     ],
     "wof:id":1260283525,
-    "wof:lastmodified":1566590057,
+    "wof:lastmodified":1660242594,
     "wof:name":"Pollard Kot",
     "wof:parent_id":1108692169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037539
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.01666999999998,
+    73.01667,
     31.38333,
-    73.01666999999998,
+    73.01667,
     31.38333
 ],
-  "geometry": {"coordinates":[73.01666999999998,31.38333],"type":"Point"}
+  "geometry": {"coordinates":[73.01667,31.38333],"type":"Point"}
 }

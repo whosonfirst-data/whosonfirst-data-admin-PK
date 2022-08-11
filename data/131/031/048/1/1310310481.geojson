@@ -2,7 +2,7 @@
   "id": 1310310481,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kharaj",
@@ -47,7 +47,7 @@
         "gn:id":1174067
     },
     "wof:country":"PK",
-    "wof:geomhash":"fc12f82c9666ad8ba737112fb2c6223a",
+    "wof:geomhash":"1be233a3ab1af878df58402664bed189",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +58,22 @@
         }
     ],
     "wof:id":1310310481,
-    "wof:lastmodified":1566590457,
+    "wof:lastmodified":1660243001,
     "wof:name":"Chak Fifty North Branch",
     "wof:parent_id":1108692367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037605
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     72.70827,
-    32.03740999999999,
+    32.03741,
     72.70827,
-    32.03740999999999
+    32.03741
 ],
-  "geometry": {"coordinates":[72.70827,32.03740999999999],"type":"Point"}
+  "geometry": {"coordinates":[72.70827,32.03741],"type":"Point"}
 }

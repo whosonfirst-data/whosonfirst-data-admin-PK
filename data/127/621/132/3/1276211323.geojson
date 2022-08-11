@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Shapur"
     ],
+    "name:eng_x_preferred":[
+        "Shahpur"
+    ],
     "name:nld_x_preferred":[
         "Shahpur"
     ],
@@ -44,12 +47,14 @@
     "name:por_x_preferred":[
         "Shahpur"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u067e\u0648\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,15 +66,14 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
             "locality_id":1276211323,
             "region_id":85675741
         }
     ],
     "wof:id":1276211323,
-    "wof:lastmodified":1566586879,
+    "wof:lastmodified":1660238875,
     "wof:name":"Shahpur",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

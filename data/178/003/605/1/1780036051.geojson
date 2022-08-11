@@ -1,0 +1,76 @@
+{
+  "id": 1780036051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.22649,29.5801,72.22649,29.5801",
+    "geom:latitude":29.5801,
+    "geom:longitude":72.22649,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Bhuranwali",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1383193,
+    "gn:latitude":29.5801,
+    "gn:longitude":72.22649,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Bhuranwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.20649,29.5601,72.24649,29.6001",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421197857,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1383193
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8475cae3e763d1399e308ac1fc93edc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421197857,
+            "neighbourhood_id":1780036051,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036051,
+    "wof:lastmodified":1660243474,
+    "wof:name":"Bhuranwali",
+    "wof:parent_id":421197857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326753673
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.22649,
+    29.5801,
+    72.22649,
+    29.5801
+],
+  "geometry": {"coordinates":[72.22649,29.5801],"type":"Point"}
+}

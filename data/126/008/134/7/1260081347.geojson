@@ -35,6 +35,9 @@
     "name:deu_x_preferred":[
         "Kharan"
     ],
+    "name:eng_x_preferred":[
+        "Kharan"
+    ],
     "name:ita_x_preferred":[
         "Kharan"
     ],
@@ -44,11 +47,14 @@
     "name:ukr_x_preferred":[
         "\u0425\u0430\u0440\u0430\u043d"
     ],
+    "name:urd_x_preferred":[
+        "\u062e\u0627\u0631\u0627\u0646"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692399
     ],
     "wof:breaches":[],
@@ -63,11 +69,11 @@
             "country_id":85632659,
             "county_id":1108692399,
             "locality_id":1260081347,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1260081347,
-    "wof:lastmodified":1566589857,
+    "wof:lastmodified":1660238806,
     "wof:name":"Kharan",
     "wof:parent_id":1108692399,
     "wof:placetype":"locality",

@@ -1,0 +1,80 @@
+{
+  "id": 1780037363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.11756,33.66501,73.11756,33.66501",
+    "geom:latitude":33.66501,
+    "geom:longitude":73.11756,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Ghagriot",
+    "gn:country_code":"PK",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178676,
+    "gn:latitude":33.66501,
+    "gn:longitude":73.11756,
+    "gn:modification_date":"2015-04-08",
+    "gn:name":"Ghagriot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.09756,33.64501,73.13756,33.68501",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ghagriot"
+    ],
+    "name:und_x_variant":[
+        "Gaghrot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178676
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e4261c8c39bcc68ead5122ac2f04404c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780037363,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780037363,
+    "wof:lastmodified":1660244216,
+    "wof:name":"Ghagriot",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209102253
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.11756,
+    33.66501,
+    73.11756,
+    33.66501
+],
+  "geometry": {"coordinates":[73.11756,33.66501],"type":"Point"}
+}

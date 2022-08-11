@@ -1,0 +1,77 @@
+{
+  "id": 1780037259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.00345,25.51974,69.00345,25.51974",
+    "geom:latitude":25.51974,
+    "geom:longitude":69.00345,
+    "gn:admin1_code":"5.0",
+    "gn:admin2_code":"1376894.0",
+    "gn:asciiname":"Malaka Town",
+    "gn:country_code":"PK",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9253686,
+    "gn:latitude":25.51974,
+    "gn:longitude":69.00345,
+    "gn:modification_date":"2014-07-24",
+    "gn:name":"Malaka Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.98345,25.49974,69.02345,25.53974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421169699,
+        1108692307,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9253686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0abc593293ee6d344162e760c7779081",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692307,
+            "locality_id":421169699,
+            "neighbourhood_id":1780037259,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037259,
+    "wof:lastmodified":1660244159,
+    "wof:name":"Malaka Town",
+    "wof:parent_id":421169699,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209713773
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.00345,
+    25.51974,
+    69.00345,
+    25.51974
+],
+  "geometry": {"coordinates":[69.00345,25.51974],"type":"Point"}
+}

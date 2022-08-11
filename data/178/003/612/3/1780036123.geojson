@@ -1,0 +1,79 @@
+{
+  "id": 1780036123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.64444,29.40556,71.64444,29.40556",
+    "geom:latitude":29.40556,
+    "geom:longitude":71.64444,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Charoya",
+    "gn:country_code":"PK",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381896,
+    "gn:latitude":29.40556,
+    "gn:longitude":71.64444,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Basti Charoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.62444,29.38556,71.66444,29.42556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Basti Charoya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421200425,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381896
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"596342966da65779abf02433e54ca8b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421200425,
+            "neighbourhood_id":1780036123,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036123,
+    "wof:lastmodified":1660243515,
+    "wof:name":"Basti Charoya",
+    "wof:parent_id":421200425,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327157281
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.64444,
+    29.40556,
+    71.64444,
+    29.40556
+],
+  "geometry": {"coordinates":[71.64444,29.40556],"type":"Point"}
+}

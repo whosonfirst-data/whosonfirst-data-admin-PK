@@ -1,0 +1,79 @@
+{
+  "id": 1780036981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.70686,31.46109,73.70686,31.46109",
+    "geom:latitude":31.46109,
+    "geom:longitude":73.70686,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Naliwala",
+    "gn:country_code":"PK",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419802,
+    "gn:latitude":31.46109,
+    "gn:longitude":73.70686,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Naliwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.68686,31.44109,73.72686,31.48109",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "M\u0101liw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421193375,
+        1108692323,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419802
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1afecb31f9094147e65252e23b5e9178",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692323,
+            "locality_id":421193375,
+            "neighbourhood_id":1780036981,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036981,
+    "wof:lastmodified":1660244003,
+    "wof:name":"Naliwala",
+    "wof:parent_id":421193375,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276447731
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.70686,
+    31.46109,
+    73.70686,
+    31.46109
+],
+  "geometry": {"coordinates":[73.70686000000001,31.46109],"type":"Point"}
+}

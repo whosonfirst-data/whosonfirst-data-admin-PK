@@ -38,6 +38,9 @@
     "name:ces_x_preferred":[
         "Chanp\u00far"
     ],
+    "name:eng_x_preferred":[
+        "Khanpur"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0646\u067e\u0648\u0631"
     ],
@@ -78,6 +81,9 @@
         "Khanpur"
     ],
     "name:urd_x_preferred":[
+        "\u062e\u0627\u0646\u067e\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u062e\u0627\u0646 \u067e\u0648\u0631"
     ],
     "name:war_x_preferred":[
@@ -87,7 +93,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692145
     ],
     "wof:breaches":[],
@@ -102,11 +108,11 @@
             "country_id":85632659,
             "county_id":1108692145,
             "locality_id":1242684487,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1242684487,
-    "wof:lastmodified":1566592336,
+    "wof:lastmodified":1660238562,
     "wof:name":"Khanpur",
     "wof:parent_id":1108692145,
     "wof:placetype":"locality",

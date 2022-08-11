@@ -1,0 +1,62 @@
+{
+  "id": 1780025461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000031,
+    "geom:bbox":"67.100458,24.822319,67.105818,24.83176",
+    "geom:latitude":24.827108,
+    "geom:longitude":67.103256,
+    "iso:country":"PK",
+    "lbl:latitude":24.826865,
+    "lbl:longitude":67.103205,
+    "mps:latitude":24.826865,
+    "mps:longitude":67.103205,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "MBCH Society"
+    ],
+    "name:urd_x_preferred":[
+        "MBCH \u0633\u0648\u0633\u0627\u0626\u0679\u06cc"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"f2879bc909ccd5de5412aad415d0df9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025461,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025461,
+    "wof:lastmodified":1660240271,
+    "wof:name":"MBCH Society",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.100458,
+    24.822319,
+    67.105818,
+    24.83176
+],
+  "geometry": {"coordinates":[[[67.105805,24.830987],[67.104072,24.830636],[67.10499,24.826515],[67.105818,24.822947],[67.102593,24.822319],[67.102161,24.824091],[67.100458,24.830762],[67.105628,24.83176],[67.105805,24.830987]]],"type":"Polygon"}
+}

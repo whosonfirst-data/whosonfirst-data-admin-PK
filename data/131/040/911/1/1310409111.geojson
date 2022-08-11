@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Tangi"
     ],
+    "name:eng_x_preferred":[
+        "Tangi"
+    ],
     "name:fra_x_preferred":[
         "Tangi"
     ],
@@ -47,11 +50,14 @@
     "name:tgl_x_preferred":[
         "Tangi"
     ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0646\u06af\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675749,
+        1360701001,
         1108692255
     ],
     "wof:breaches":[],
@@ -66,11 +72,11 @@
             "country_id":85632659,
             "county_id":1108692255,
             "locality_id":1310409111,
-            "region_id":85675749
+            "region_id":1360701001
         }
     ],
     "wof:id":1310409111,
-    "wof:lastmodified":1566590392,
+    "wof:lastmodified":1660239295,
     "wof:name":"Tangi",
     "wof:parent_id":1108692255,
     "wof:placetype":"locality",

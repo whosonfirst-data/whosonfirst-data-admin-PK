@@ -1,0 +1,76 @@
+{
+  "id": 1780036835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.11874,31.79028,71.11874,31.79028",
+    "geom:latitude":31.79028,
+    "geom:longitude":71.11874,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Zaraniyanwali",
+    "gn:country_code":"PK",
+    "gn:dem":174,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1366213,
+    "gn:latitude":31.79028,
+    "gn:longitude":71.11874,
+    "gn:modification_date":"2018-04-07",
+    "gn:name":"Zaraniyanwali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.09874,31.77028,71.13874,31.81028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421190517,
+        1108692143,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1366213
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5fdc1768c1002a913240f5cc269d9694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":421190517,
+            "neighbourhood_id":1780036835,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036835,
+    "wof:lastmodified":1660243922,
+    "wof:name":"Zaraniyanwali",
+    "wof:parent_id":421190517,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1292908837
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.11874,
+    31.79028,
+    71.11874,
+    31.79028
+],
+  "geometry": {"coordinates":[71.11874,31.79028],"type":"Point"}
+}

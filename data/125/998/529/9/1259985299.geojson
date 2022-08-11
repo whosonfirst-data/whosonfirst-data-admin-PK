@@ -35,6 +35,9 @@
     "name:ceb_x_preferred":[
         "Jar\u0101nw\u0101la"
     ],
+    "name:eng_x_preferred":[
+        "Jaranwala"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u0647"
     ],
@@ -69,6 +72,9 @@
         "J\u0101r\u0101nw\u0101la"
     ],
     "name:urd_x_preferred":[
+        "\u062c\u0627\u0631\u0627\u0646 \u0648\u0627\u0644\u0627"
+    ],
+    "name:urd_x_variant":[
         "\u062c\u0691\u0627\u0646\u0648\u0627\u0644\u06c1"
     ],
     "name:war_x_preferred":[
@@ -86,7 +92,7 @@
         "gn:id":7322099
     },
     "wof:country":"PK",
-    "wof:geomhash":"83212662c9ab375052d3ece6d53f6249",
+    "wof:geomhash":"c661569abbedda3e36062c8629a38ae2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -97,7 +103,7 @@
         }
     ],
     "wof:id":1259985299,
-    "wof:lastmodified":1566593258,
+    "wof:lastmodified":1660238792,
     "wof:name":"Jaranwala",
     "wof:parent_id":1108692143,
     "wof:placetype":"locality",
@@ -107,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.24479000000002,
+    71.24479,
     31.6334,
-    71.24479000000002,
+    71.24479,
     31.6334
 ],
-  "geometry": {"coordinates":[71.24479000000002,31.6334],"type":"Point"}
+  "geometry": {"coordinates":[71.24478999999999,31.6334],"type":"Point"}
 }

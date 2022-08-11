@@ -35,6 +35,9 @@
     "name:cat_x_preferred":[
         "Shapur"
     ],
+    "name:eng_x_preferred":[
+        "Shahpur"
+    ],
     "name:nld_x_preferred":[
         "Shahpur"
     ],
@@ -43,6 +46,9 @@
     ],
     "name:por_x_preferred":[
         "Shahpur"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u067e\u0648\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -56,7 +62,7 @@
         "gn:id":1409747
     },
     "wof:country":"PK",
-    "wof:geomhash":"f0bd862daa43c9d032f526f349b74408",
+    "wof:geomhash":"86c7504c1b818ff37c73e0f244ec8bec",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +73,7 @@
         }
     ],
     "wof:id":1343464179,
-    "wof:lastmodified":1566583759,
+    "wof:lastmodified":1660239588,
     "wof:name":"Shahpur",
     "wof:parent_id":1108692313,
     "wof:placetype":"locality",
@@ -77,10 +83,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.43838000000002,
+    71.43838,
     30.04079,
-    71.43838000000002,
+    71.43838,
     30.04079
 ],
-  "geometry": {"coordinates":[71.43838000000002,30.04079],"type":"Point"}
+  "geometry": {"coordinates":[71.43838,30.04079],"type":"Point"}
 }

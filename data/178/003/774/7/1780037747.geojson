@@ -1,0 +1,79 @@
+{
+  "id": 1780037747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.0308,25.9972,63.0308,25.9972",
+    "geom:latitude":25.9972,
+    "geom:longitude":63.0308,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Gush Tang",
+    "gn:country_code":"PK",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1178285,
+    "gn:latitude":25.9972,
+    "gn:longitude":63.0308,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Gush Tang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"63.0108,25.9772,63.0508,26.0172",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Gishtang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421176983,
+        1108692241,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1178285
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"297ecc2dd6bae1ab5a14d7b9d54f2196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692241,
+            "locality_id":421176983,
+            "neighbourhood_id":1780037747,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037747,
+    "wof:lastmodified":1660244428,
+    "wof:name":"Gush Tang",
+    "wof:parent_id":421176983,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360092865
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.0308,
+    25.9972,
+    63.0308,
+    25.9972
+],
+  "geometry": {"coordinates":[63.0308,25.9972],"type":"Point"}
+}

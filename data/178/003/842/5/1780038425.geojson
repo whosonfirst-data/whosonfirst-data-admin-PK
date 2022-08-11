@@ -1,0 +1,76 @@
+{
+  "id": 1780038425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.37278,33.90171,73.37278,33.90171",
+    "geom:latitude":33.90171,
+    "geom:longitude":73.37278,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Cliffden",
+    "gn:country_code":"PK",
+    "gn:dem":1887,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11454127,
+    "gn:latitude":33.90171,
+    "gn:longitude":73.37278,
+    "gn:modification_date":"2017-02-06",
+    "gn:name":"Cliffden",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.35278,33.88171,73.39278,33.92171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167233,
+        1108692361,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11454127
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9462639e3f3912329223a607f64e3c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421167233,
+            "neighbourhood_id":1780038425,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038425,
+    "wof:lastmodified":1660244806,
+    "wof:name":"Cliffden",
+    "wof:parent_id":421167233,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226265979
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.37278,
+    33.90171,
+    73.37278,
+    33.90171
+],
+  "geometry": {"coordinates":[73.37278000000001,33.90171],"type":"Point"}
+}

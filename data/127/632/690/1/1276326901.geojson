@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Thul"
     ],
+    "name:eng_x_preferred":[
+        "Thul"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0647\u0648\u0644"
     ],
@@ -45,6 +48,9 @@
         "Thu Mir Khan",
         "Thul M\u012br Kh\u0101n"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +63,7 @@
         "gn:id":1163416
     },
     "wof:country":"PK",
-    "wof:geomhash":"2f35b12184eac4cf0a63bed34eae62a6",
+    "wof:geomhash":"baf141e7d8dc3a6508e9c1fabbcf23c7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":1276326901,
-    "wof:lastmodified":1566587227,
+    "wof:lastmodified":1660238897,
     "wof:name":"Thul",
     "wof:parent_id":1108692159,
     "wof:placetype":"locality",
@@ -78,10 +84,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.48248000000001,
+    67.48248,
     26.60769,
-    67.48248000000001,
+    67.48248,
     26.60769
 ],
-  "geometry": {"coordinates":[67.48248000000001,26.60769],"type":"Point"}
+  "geometry": {"coordinates":[67.48248,26.60769],"type":"Point"}
 }

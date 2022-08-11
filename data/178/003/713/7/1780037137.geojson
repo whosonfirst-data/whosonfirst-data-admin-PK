@@ -1,0 +1,76 @@
+{
+  "id": 1780037137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.60986,33.00154,70.60986,33.00154",
+    "geom:latitude":33.00154,
+    "geom:longitude":70.60986,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kot Barra",
+    "gn:country_code":"PK",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335783,
+    "gn:latitude":33.00154,
+    "gn:longitude":70.60986,
+    "gn:modification_date":"2015-08-07",
+    "gn:name":"Kot Barra",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.58986,32.98154,70.62986,33.02154",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421195435,
+        1108692137,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335783
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2ff282e8c7925e250dc11ac815415fa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":421195435,
+            "neighbourhood_id":1780037137,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037137,
+    "wof:lastmodified":1660244089,
+    "wof:name":"Kot Barra",
+    "wof:parent_id":421195435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276547855
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.60986,
+    33.00154,
+    70.60986,
+    33.00154
+],
+  "geometry": {"coordinates":[70.60986,33.00154],"type":"Point"}
+}

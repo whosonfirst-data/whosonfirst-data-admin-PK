@@ -1,0 +1,82 @@
+{
+  "id": 1780037535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.96709,30.2527,66.96709,30.2527",
+    "geom:latitude":30.2527,
+    "geom:longitude":66.96709,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Shaikh Manda",
+    "gn:country_code":"PK",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165424,
+    "gn:latitude":30.2527,
+    "gn:longitude":66.96709,
+    "gn:modification_date":"2018-01-09",
+    "gn:name":"Shaikh Manda",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.94709,30.2327,66.98709,30.2727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sheikh Manda",
+        "Shaikh Mandah",
+        "Sheikh Mandah",
+        "Shaikh Manda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173215,
+        890438109,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165424
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d3a1d925d954b88a81440dfb5be38561",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":421173215,
+            "neighbourhood_id":1780037535,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037535,
+    "wof:lastmodified":1660244311,
+    "wof:name":"Shaikh Manda",
+    "wof:parent_id":421173215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260292639
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.96709,
+    30.2527,
+    66.96709,
+    30.2527
+],
+  "geometry": {"coordinates":[66.96709,30.2527],"type":"Point"}
+}

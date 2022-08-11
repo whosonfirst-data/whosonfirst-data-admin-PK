@@ -1,0 +1,76 @@
+{
+  "id": 1780038107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.59861,32.98722,70.59861,32.98722",
+    "geom:latitude":32.98722,
+    "geom:longitude":70.59861,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Bhittanni Kili",
+    "gn:country_code":"PK",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332895,
+    "gn:latitude":32.98722,
+    "gn:longitude":70.59861,
+    "gn:modification_date":"1999-03-18",
+    "gn:name":"Bhittanni Kili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.57861,32.96722,70.61861,33.00722",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421195435,
+        1108692137,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332895
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"97fbee10429118f3eb046ec0bb84673d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":421195435,
+            "neighbourhood_id":1780038107,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780038107,
+    "wof:lastmodified":1660244632,
+    "wof:name":"Bhittanni Kili",
+    "wof:parent_id":421195435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243455197
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.59861,
+    32.98722,
+    70.59861,
+    32.98722
+],
+  "geometry": {"coordinates":[70.59860999999999,32.98722],"type":"Point"}
+}

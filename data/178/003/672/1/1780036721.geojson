@@ -1,0 +1,79 @@
+{
+  "id": 1780036721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.86895,35.20249,71.86895,35.20249",
+    "geom:latitude":35.20249,
+    "geom:longitude":71.86895,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Rehankot",
+    "gn:country_code":"PK",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1373780,
+    "gn:latitude":35.20249,
+    "gn:longitude":71.86895,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Rehankot",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.84895,35.18249,71.88895,35.22249",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Rehankot"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167273,
+        1108692419,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1373780
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b42636e56489067ac0a4aa33b847a612",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692419,
+            "locality_id":421167273,
+            "neighbourhood_id":1780036721,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780036721,
+    "wof:lastmodified":1660243857,
+    "wof:name":"Rehankot",
+    "wof:parent_id":421167273,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293488351
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.86895,
+    35.20249,
+    71.86895,
+    35.20249
+],
+  "geometry": {"coordinates":[71.86895,35.20249],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1780025573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"67.008666,24.853733,67.012079,24.856863",
+    "geom:latitude":24.855276,
+    "geom:longitude":67.010296,
+    "iso:country":"PK",
+    "lbl:latitude":24.855299,
+    "lbl:longitude":67.01027,
+    "mps:latitude":24.855299,
+    "mps:longitude":67.01027,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gari Khata"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0691\u06be\u06cc \u06a9\u06be\u0627\u062a\u06c1"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"69ffc5411225d2f390e3bc7bedf025fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025573,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025573,
+    "wof:lastmodified":1660240334,
+    "wof:name":"Gari Khata",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.008666,
+    24.853733,
+    67.012079,
+    24.856863
+],
+  "geometry": {"coordinates":[[[67.011019,24.856863],[67.012079,24.855088],[67.00939,24.853733],[67.009057,24.854308],[67.00866600000001,24.855498],[67.009873,24.856188],[67.011019,24.856863]]],"type":"Polygon"}
+}

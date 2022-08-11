@@ -2,7 +2,7 @@
   "id": 1259776139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":7922768
     },
     "wof:country":"PK",
-    "wof:geomhash":"634865d376f68f9cc8bbc061560cc9a7",
+    "wof:geomhash":"cc9055312feb6393dc4e6b6f9a39abfc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1259776139,
-    "wof:lastmodified":1566593467,
+    "wof:lastmodified":1660242504,
     "wof:name":"Goth Abdul Karim Sommo",
     "wof:parent_id":1108692219,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038229
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.32611999999999,
+    68.32612,
     25.44422,
-    68.32611999999999,
+    68.32612,
     25.44422
 ],
-  "geometry": {"coordinates":[68.32611999999999,25.44422],"type":"Point"}
+  "geometry": {"coordinates":[68.32612,25.44422],"type":"Point"}
 }

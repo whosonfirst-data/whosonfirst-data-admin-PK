@@ -44,26 +44,35 @@
     "name:spa_x_preferred":[
         "Thul"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0644"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692163
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1406047
     },
     "wof:country":"PK",
-    "wof:geomhash":"a984e219f372620a9b9458b84246ba28",
+    "wof:geomhash":"6db8e81c7b28dd35dbcffe1ae8a6cda8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209620749
+            "county_id":1108692163,
+            "locality_id":1209620749,
+            "region_id":85675753
         }
     ],
     "wof:id":1209620749,
-    "wof:lastmodified":1566588277,
+    "wof:lastmodified":1660238274,
     "wof:name":"Thul",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -71,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.59855999999998,
+    70.59856,
     30.3507,
-    70.59855999999998,
+    70.59856,
     30.3507
 ],
-  "geometry": {"coordinates":[70.59855999999998,30.3507],"type":"Point"}
+  "geometry": {"coordinates":[70.59856000000001,30.3507],"type":"Point"}
 }

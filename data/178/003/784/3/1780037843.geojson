@@ -1,0 +1,76 @@
+{
+  "id": 1780037843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.57153,30.15625,73.57153,30.15625",
+    "geom:latitude":30.15625,
+    "geom:longitude":73.57153,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shewapura",
+    "gn:country_code":"PK",
+    "gn:dem":167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11540545,
+    "gn:latitude":30.15625,
+    "gn:longitude":73.57153,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Shewapura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.55153,30.13625,73.59153,30.17625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421194179,
+        1108692127,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11540545
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ac8c3b8c65c7066b41e05e809917a6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692127,
+            "locality_id":421194179,
+            "neighbourhood_id":1780037843,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037843,
+    "wof:lastmodified":1660244485,
+    "wof:name":"Shewapura",
+    "wof:parent_id":421194179,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1309929137
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.57153,
+    30.15625,
+    73.57153,
+    30.15625
+],
+  "geometry": {"coordinates":[73.57153,30.15625],"type":"Point"}
+}

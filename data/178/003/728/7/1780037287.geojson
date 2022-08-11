@@ -1,0 +1,79 @@
+{
+  "id": 1780037287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.82095,24.67275,68.82095,24.67275",
+    "geom:latitude":24.67275,
+    "geom:longitude":68.82095,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Patar",
+    "gn:country_code":"PK",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11375899,
+    "gn:latitude":24.67275,
+    "gn:longitude":68.82095,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Patar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.80095,24.65275,68.84095,24.69275",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Patar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421176971,
+        1108692123,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11375899
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33e5e008f65a713848817c135cc79abd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":421176971,
+            "neighbourhood_id":1780037287,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037287,
+    "wof:lastmodified":1660244177,
+    "wof:name":"Patar",
+    "wof:parent_id":421176971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209619447
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.82095,
+    24.67275,
+    68.82095,
+    24.67275
+],
+  "geometry": {"coordinates":[68.82095,24.67275],"type":"Point"}
+}

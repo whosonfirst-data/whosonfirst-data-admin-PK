@@ -1,0 +1,76 @@
+{
+  "id": 1780038541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.73332,32.95049,73.73332,32.95049",
+    "geom:latitude":32.95049,
+    "geom:longitude":73.73332,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhok Solan",
+    "gn:country_code":"PK",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371355,
+    "gn:latitude":32.95049,
+    "gn:longitude":73.73332,
+    "gn:modification_date":"2009-11-05",
+    "gn:name":"Dhok Solan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.71332,32.93049,73.75332,32.97049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421180063,
+        1108692227,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371355
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e870f8d976e1c5a43a9c6c6a09247a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":421180063,
+            "neighbourhood_id":1780038541,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038541,
+    "wof:lastmodified":1660244872,
+    "wof:name":"Dhok Solan",
+    "wof:parent_id":421180063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226242061
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.73332,
+    32.95049,
+    73.73332,
+    32.95049
+],
+  "geometry": {"coordinates":[73.73332000000001,32.95049],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1780025959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00001,
+    "geom:bbox":"67.064411,24.999868,67.066356,25.006458",
+    "geom:latitude":25.003167,
+    "geom:longitude":67.065389,
+    "iso:country":"PK",
+    "lbl:latitude":25.003166,
+    "lbl:longitude":67.065389,
+    "mps:latitude":25.003166,
+    "mps:longitude":67.065389,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Karachi Sector 5-H"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u06a9\u0631\u0627\u0686\u06cc \u0633\u06cc\u06a9\u0679\u0631 5-H"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"2bbce57e7cb892c85cf3f0e3d2d77f25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025959,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025959,
+    "wof:lastmodified":1660240558,
+    "wof:name":"North Karachi Sector 5-H",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.064411,
+    24.999868,
+    67.066356,
+    25.006458
+],
+  "geometry": {"coordinates":[[[67.065955,25.006458],[67.066356,24.999948],[67.064823,24.999868],[67.064747,25.0011],[67.064623,25.003143],[67.064481,25.005467],[67.06441100000001,25.006393],[67.065955,25.006458]]],"type":"Polygon"}
+}

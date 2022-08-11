@@ -29,9 +29,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bashirabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0634\u06cc\u0631 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675733,
+        1108692217
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +50,17 @@
     "wof:geomhash":"f8968f7a1aa58040084faf3475c7fd73",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209216885
+            "county_id":1108692217,
+            "locality_id":1209216885,
+            "region_id":85675733
         }
     ],
     "wof:id":1209216885,
-    "wof:lastmodified":1566589164,
+    "wof:lastmodified":1660238207,
     "wof:name":"Bashirabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

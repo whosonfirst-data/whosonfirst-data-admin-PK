@@ -1,0 +1,76 @@
+{
+  "id": 1780036715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.66059,28.668,70.66059,28.668",
+    "geom:latitude":28.668,
+    "geom:longitude":70.66059,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhandan",
+    "gn:country_code":"PK",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7634772,
+    "gn:latitude":28.668,
+    "gn:longitude":70.66059,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bhandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.64059,28.648,70.68059,28.688",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421197855,
+        1108692357,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7634772
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"da18bf265891b8238da5dcfb9a5e9be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":421197855,
+            "neighbourhood_id":1780036715,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036715,
+    "wof:lastmodified":1660243853,
+    "wof:name":"Bhandan",
+    "wof:parent_id":421197855,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293412867
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.66059,
+    28.668,
+    70.66059,
+    28.668
+],
+  "geometry": {"coordinates":[70.66059,28.668],"type":"Point"}
+}

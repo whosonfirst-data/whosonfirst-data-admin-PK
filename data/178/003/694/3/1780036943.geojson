@@ -1,0 +1,76 @@
+{
+  "id": 1780036943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.02167,31.69889,74.02167,31.69889",
+    "geom:latitude":31.69889,
+    "geom:longitude":74.02167,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kaniawala",
+    "gn:country_code":"PK",
+    "gn:dem":206,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330567,
+    "gn:latitude":31.69889,
+    "gn:longitude":74.02167,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kaniawala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.00167,31.67889,74.04167,31.71889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203157,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330567
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"a728269bffe8b8e51297693ccd660275",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":421203157,
+            "neighbourhood_id":1780036943,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036943,
+    "wof:lastmodified":1660243981,
+    "wof:name":"Kaniawala",
+    "wof:parent_id":421203157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277074019
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.02167,
+    31.69889,
+    74.02167,
+    31.69889
+],
+  "geometry": {"coordinates":[74.02167,31.69889],"type":"Point"}
+}

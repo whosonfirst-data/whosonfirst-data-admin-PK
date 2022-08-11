@@ -4,17 +4,18 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000012,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.39083,30.55083,73.39083,30.55083",
-    "geom:latitude":30.55083,
-    "geom:longitude":73.39083,
+    "geom:bbox":"73.383609,30.555461,73.388553,30.558139",
+    "geom:latitude":30.556673,
+    "geom:longitude":73.386269,
     "iso:country":"PK",
-    "lbl:bbox":"73.37083,30.53083,73.41083,30.57083",
+    "lbl:latitude":30.556602,
+    "lbl:longitude":73.386466,
     "lbl:max_zoom":14.0,
     "lbl:min_zoom":9.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -144,6 +145,9 @@
         "\u0411\u0430\u0445\u0430\u0432\u0430\u043b\u043d\u0430\u0433\u0430\u0440"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u06c1\u0627\u0648\u0644 \u0646\u06af\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u06c1\u0627\u0648\u0644\u0646\u06af\u0631"
     ],
     "name:vie_x_preferred":[
@@ -173,13 +177,20 @@
     "qs:qs_id":1307164,
     "qs:woe_adm0":23424922,
     "qs:woe_id":2210799,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":30.556602,
+    "reversegeo:longitude":73.386466,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"quattroshapes",
     "wd:wordcount":1427,
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -190,19 +201,20 @@
     },
     "wof:country":"PK",
     "wof:created":1459008705,
-    "wof:geomhash":"3541e509d7ec0381a9dcd5cf682236dc",
+    "wof:geomhash":"5bcff8232e8babcafa53f3bfb221a6c5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692339,
             "locality_id":421166877,
             "region_id":85675753
         }
     ],
     "wof:id":421166877,
-    "wof:lastmodified":1566591766,
+    "wof:lastmodified":1660241226,
     "wof:name":"Bahawalnagar",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692339,
     "wof:placetype":"locality",
     "wof:population":126700,
     "wof:population_rank":9,
@@ -212,10 +224,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.39083,
-    30.55083,
-    73.39083,
-    30.55083
+    73.383609,
+    30.555461,
+    73.388553,
+    30.558139
 ],
-  "geometry": {"coordinates":[73.39082999999999,30.55083],"type":"Point"}
+  "geometry": {"coordinates":[[[73.38364900000001,30.557495],[73.383832,30.557439],[73.384238,30.557431],[73.38462800000001,30.557435],[73.384899,30.557503],[73.38516199999999,30.557539],[73.385715,30.557578],[73.38596200000001,30.557614],[73.385966,30.557674],[73.385958,30.55812],[73.388521,30.558139],[73.388553,30.556591],[73.388525,30.555461],[73.38688500000001,30.555477],[73.384525,30.555477],[73.38363699999999,30.555481],[73.383641,30.555704],[73.383669,30.555931],[73.38367700000001,30.556062],[73.38360900000001,30.556169],[73.38362499999999,30.556325],[73.383657,30.556516],[73.38366499999999,30.556906],[73.38364900000001,30.557495]]],"type":"Polygon"}
 }

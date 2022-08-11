@@ -47,6 +47,9 @@
     "name:deu_x_preferred":[
         "Thatta"
     ],
+    "name:eng_x_preferred":[
+        "Thatta"
+    ],
     "name:epo_x_preferred":[
         "Thatta"
     ],
@@ -115,7 +118,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -125,14 +131,17 @@
     "wof:geomhash":"4ae813c984e5aa810fcddb0d64548280",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209620517
+            "county_id":1108692367,
+            "locality_id":1209620517,
+            "region_id":85675753
         }
     ],
     "wof:id":1209620517,
-    "wof:lastmodified":1566588288,
+    "wof:lastmodified":1660238272,
     "wof:name":"Thatta",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692367,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -1,0 +1,79 @@
+{
+  "id": 1780038565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.91349,31.83831,70.91349,31.83831",
+    "geom:latitude":31.83831,
+    "geom:longitude":70.91349,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Shahjahan Town",
+    "gn:country_code":"PK",
+    "gn:dem":172,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1419035,
+    "gn:latitude":31.83831,
+    "gn:longitude":70.91349,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Shahjahan Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.89349,31.81831,70.93349,31.85831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kachi Paindew\u0101li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421200367,
+        1108692165,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1419035
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9e7b6be1e30c49c5f41f96dc178e926e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":421200367,
+            "neighbourhood_id":1780038565,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780038565,
+    "wof:lastmodified":1660244885,
+    "wof:name":"Shahjahan Town",
+    "wof:parent_id":421200367,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226540765
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.91349,
+    31.83831,
+    70.91349,
+    31.83831
+],
+  "geometry": {"coordinates":[70.91349,31.83831],"type":"Point"}
+}

@@ -32,6 +32,12 @@
     "name:ceb_x_preferred":[
         "Alizai"
     ],
+    "name:eng_x_preferred":[
+        "Alizai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0644\u06cc \u0632\u0626\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +50,7 @@
         "gn:id":11232839
     },
     "wof:country":"PK",
-    "wof:geomhash":"9c5466ebe239d757b07ffacb1912a881",
+    "wof:geomhash":"d1b7a88993182e092d84b683036b568a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1243466911,
-    "wof:lastmodified":1566592521,
+    "wof:lastmodified":1660238662,
     "wof:name":"Alizai",
     "wof:parent_id":1108692349,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.32014000000001,
+    67.32014,
     30.62011,
-    67.32014000000001,
+    67.32014,
     30.62011
 ],
-  "geometry": {"coordinates":[67.32014000000001,30.62011],"type":"Point"}
+  "geometry": {"coordinates":[67.32013999999999,30.62011],"type":"Point"}
 }

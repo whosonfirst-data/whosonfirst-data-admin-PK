@@ -1,0 +1,88 @@
+{
+  "id": 1780036783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.42711,30.22357,71.42711,30.22357",
+    "geom:latitude":30.22357,
+    "geom:longitude":71.42711,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Tibbi",
+    "gn:country_code":"PK",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409686,
+    "gn:latitude":30.22357,
+    "gn:longitude":71.42711,
+    "gn:modification_date":"2001-12-13",
+    "gn:name":"Tibbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.40711,30.20357,71.44711,30.24357",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:ben_x_preferred":[
+        "\u09b0\u09be\u0993\u09af\u09bc\u09be\u09a4\u09b8\u09b0"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09b0\u09be\u09f1\u09be\u09a4\u09b8\u09b0"
+    ],
+    "name:hin_x_preferred":[
+        "\u091f\u093f\u092c\u094d\u092c\u0940"
+    ],
+    "name:por_x_preferred":[
+        "Rawatsar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409686
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ece5b126a715ca89fb033e446722cdb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780036783,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036783,
+    "wof:lastmodified":1660243892,
+    "wof:name":"Tibbi",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293612587
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.42711,
+    30.22357,
+    71.42711,
+    30.22357
+],
+  "geometry": {"coordinates":[71.42711,30.22357],"type":"Point"}
+}

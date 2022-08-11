@@ -32,14 +32,20 @@
     "name:ckb_x_preferred":[
         "\u0639\u06d5\u0632\u06cc\u0632\u0627\u0648\u0627"
     ],
+    "name:eng_x_preferred":[
+        "Azizabad"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0632\u06cc\u0632\u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0632\u06cc\u0632 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692115
     ],
     "wof:breaches":[],
@@ -47,18 +53,18 @@
         "gn:id":10988677
     },
     "wof:country":"PK",
-    "wof:geomhash":"0d9223beddacfe2644032098122ef57f",
+    "wof:geomhash":"301432404593188ff072acc1b6143ead",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692115,
             "locality_id":1292904673,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1292904673,
-    "wof:lastmodified":1566586036,
+    "wof:lastmodified":1660239018,
     "wof:name":"Azizabad",
     "wof:parent_id":1108692115,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.27920999999998,
+    73.27921,
     34.22955,
-    73.27920999999998,
+    73.27921,
     34.22955
 ],
-  "geometry": {"coordinates":[73.27920999999998,34.22955],"type":"Point"}
+  "geometry": {"coordinates":[73.27921000000001,34.22955],"type":"Point"}
 }

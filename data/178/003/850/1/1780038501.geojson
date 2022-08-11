@@ -1,0 +1,76 @@
+{
+  "id": 1780038501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23585,27.57558,68.23585,27.57558",
+    "geom:latitude":27.57558,
+    "geom:longitude":68.23585,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sumar Sangi",
+    "gn:country_code":"PK",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8300421,
+    "gn:latitude":27.57558,
+    "gn:longitude":68.23585,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Sumar Sangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.21585,27.55558,68.25585,27.59558",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421168809,
+        1108692277,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8300421
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f79bc19eb332f4d3c5faa7c4e572134c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692277,
+            "locality_id":421168809,
+            "neighbourhood_id":1780038501,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038501,
+    "wof:lastmodified":1660244849,
+    "wof:name":"Sumar Sangi",
+    "wof:parent_id":421168809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226141107
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23585,
+    27.57558,
+    68.23585,
+    27.57558
+],
+  "geometry": {"coordinates":[68.23585,27.57558],"type":"Point"}
+}

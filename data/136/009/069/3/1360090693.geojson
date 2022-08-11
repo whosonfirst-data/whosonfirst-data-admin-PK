@@ -2,7 +2,7 @@
   "id": 1360090693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11180882
     },
     "wof:country":"PK",
-    "wof:geomhash":"6ca5a5a7f57d8d1fbe18c83676a0550a",
+    "wof:geomhash":"13d0ee9ffc30944fce4e49e90b775036",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1360090693,
-    "wof:lastmodified":1566591115,
+    "wof:lastmodified":1660243443,
     "wof:name":"Basti Bharni",
     "wof:parent_id":1108692313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037751
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    71.52823000000002,
+    71.52823,
     30.17873,
-    71.52823000000002,
+    71.52823,
     30.17873
 ],
-  "geometry": {"coordinates":[71.52823000000002,30.17873],"type":"Point"}
+  "geometry": {"coordinates":[71.52822999999999,30.17873],"type":"Point"}
 }

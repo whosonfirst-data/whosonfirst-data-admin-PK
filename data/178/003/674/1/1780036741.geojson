@@ -1,0 +1,84 @@
+{
+  "id": 1780036741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.48136,26.0981,68.48136,26.0981",
+    "geom:latitude":26.0981,
+    "geom:longitude":68.48136,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Sarhari",
+    "gn:country_code":"PK",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180765,
+    "gn:latitude":26.0981,
+    "gn:longitude":68.48136,
+    "gn:modification_date":"2017-06-06",
+    "gn:name":"Sarhari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.46136,26.0781,68.50136,26.1181",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sarh\u0101ri",
+        "Sarhari"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0631\u06c1\u0627\u0631\u06cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1125865685,
+        1108692365,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180765,
+        "wk:page":"Sarhari"
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b29b43daf806df6d7e58ba639e7d0f1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":1125865685,
+            "neighbourhood_id":1780036741,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036741,
+    "wof:lastmodified":1660243869,
+    "wof:name":"Sarhari",
+    "wof:parent_id":1125865685,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293491971
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.48136,
+    26.0981,
+    68.48136,
+    26.0981
+],
+  "geometry": {"coordinates":[68.48136,26.0981],"type":"Point"}
+}

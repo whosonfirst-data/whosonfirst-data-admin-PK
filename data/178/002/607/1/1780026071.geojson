@@ -1,0 +1,62 @@
+{
+  "id": 1780026071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000017,
+    "geom:bbox":"67.119095,24.979678,67.126215,24.985693",
+    "geom:latitude":24.982658,
+    "geom:longitude":67.122599,
+    "iso:country":"PK",
+    "lbl:latitude":24.982615,
+    "lbl:longitude":67.122544,
+    "mps:latitude":24.982615,
+    "mps:longitude":67.122544,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Rock CHS"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u06a9 CHS"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"f27387ae5e470f87ce630e0f31ed3187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026071,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026071,
+    "wof:lastmodified":1660240622,
+    "wof:name":"Rock CHS",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.119095,
+    24.979678,
+    67.126215,
+    24.985693
+],
+  "geometry": {"coordinates":[[[67.11981,24.983227],[67.119938,24.983409],[67.119095,24.984113],[67.120621,24.985693],[67.123024,24.983868],[67.126215,24.981542],[67.124415,24.979678],[67.12284200000001,24.98091],[67.12275699999999,24.980825],[67.11981,24.983227]]],"type":"Polygon"}
+}

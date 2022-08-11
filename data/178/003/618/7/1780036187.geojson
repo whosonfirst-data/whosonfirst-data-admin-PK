@@ -1,0 +1,76 @@
+{
+  "id": 1780036187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.4054,30.366,73.4054,30.366",
+    "geom:latitude":30.366,
+    "geom:longitude":73.4054,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Mohalla Faridnagar",
+    "gn:country_code":"PK",
+    "gn:dem":166,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11543767,
+    "gn:latitude":30.366,
+    "gn:longitude":73.4054,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Mohalla Faridnagar",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.3854,30.346,73.4254,30.386",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167225,
+        1108692343,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11543767
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"125a3f7a3af2b09ff0f35996f2b942d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692343,
+            "locality_id":421167225,
+            "neighbourhood_id":1780036187,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036187,
+    "wof:lastmodified":1660243552,
+    "wof:name":"Mohalla Faridnagar",
+    "wof:parent_id":421167225,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327356617
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.4054,
+    30.366,
+    73.4054,
+    30.366
+],
+  "geometry": {"coordinates":[73.4054,30.366],"type":"Point"}
+}

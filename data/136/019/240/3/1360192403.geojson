@@ -32,6 +32,12 @@
     "name:diq_x_preferred":[
         "\u011eeribabad"
     ],
+    "name:eng_x_preferred":[
+        "Gharibabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0631\u06cc\u0628 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -44,7 +50,7 @@
         "gn:id":11249426
     },
     "wof:country":"PK",
-    "wof:geomhash":"98b80bc18060c9bde0eb2449ff573743",
+    "wof:geomhash":"63665e8360456421bd102a15a4b66d0c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1360192403,
-    "wof:lastmodified":1566591391,
+    "wof:lastmodified":1660239741,
     "wof:name":"Gharibabad",
     "wof:parent_id":1108692217,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.10956999999999,
+    68.10957,
     28.18935,
-    68.10956999999999,
+    68.10957,
     28.18935
 ],
-  "geometry": {"coordinates":[68.10956999999999,28.18935],"type":"Point"}
+  "geometry": {"coordinates":[68.10957000000001,28.18935],"type":"Point"}
 }

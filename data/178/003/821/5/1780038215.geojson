@@ -1,0 +1,76 @@
+{
+  "id": 1780038215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.65001,30.02792,70.65001,30.02792",
+    "geom:latitude":30.02792,
+    "geom:longitude":70.65001,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Fateh Khanwala",
+    "gn:country_code":"PK",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7505175,
+    "gn:latitude":30.02792,
+    "gn:longitude":70.65001,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Fateh Khanwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.63001,30.00792,70.67001,30.04792",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175767,
+        1108692163,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7505175
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1eef541c4746b1b912fb63d00994e4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":421175767,
+            "neighbourhood_id":1780038215,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038215,
+    "wof:lastmodified":1660244694,
+    "wof:name":"Fateh Khanwala",
+    "wof:parent_id":421175767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259902941
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.65001,
+    30.02792,
+    70.65001,
+    30.02792
+],
+  "geometry": {"coordinates":[70.65000999999999,30.02792],"type":"Point"}
+}

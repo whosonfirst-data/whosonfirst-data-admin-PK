@@ -1,0 +1,79 @@
+{
+  "id": 1780037675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.98058,31.96809,73.98058,31.96809",
+    "geom:latitude":31.96809,
+    "geom:longitude":73.98058,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gahri",
+    "gn:country_code":"PK",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331144,
+    "gn:latitude":31.96809,
+    "gn:longitude":73.98058,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gahri",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.96058,31.94809,74.00058,31.98809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Garhi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421180819,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331144
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c27f4fcc63d330bde2c67c847097f46c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":421180819,
+            "neighbourhood_id":1780037675,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037675,
+    "wof:lastmodified":1660244391,
+    "wof:name":"Gahri",
+    "wof:parent_id":421180819,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310506863
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.98058,
+    31.96809,
+    73.98058,
+    31.96809
+],
+  "geometry": {"coordinates":[73.98058,31.96809],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780036103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.10236,27.85095,69.10236,27.85095",
+    "geom:latitude":27.85095,
+    "geom:longitude":69.10236,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Jumma Goth",
+    "gn:country_code":"PK",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1361282,
+    "gn:latitude":27.85095,
+    "gn:longitude":69.10236,
+    "gn:modification_date":"2016-12-03",
+    "gn:name":"Jumma Goth",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"69.08236,27.83095,69.12236,27.87095",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167223,
+        1108692395,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1361282
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2fdeb9fd7ec6789dbdef8a616b37dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692395,
+            "locality_id":421167223,
+            "neighbourhood_id":1780036103,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036103,
+    "wof:lastmodified":1660243505,
+    "wof:name":"Jumma Goth",
+    "wof:parent_id":421167223,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327229925
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.10236,
+    27.85095,
+    69.10236,
+    27.85095
+],
+  "geometry": {"coordinates":[69.10236,27.85095],"type":"Point"}
+}

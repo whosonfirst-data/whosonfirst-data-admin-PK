@@ -1,0 +1,76 @@
+{
+  "id": 1780036297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61272,32.9829,70.61272,32.9829",
+    "geom:latitude":32.9829,
+    "geom:longitude":70.61272,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Juma Khan",
+    "gn:country_code":"PK",
+    "gn:dem":372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1332865,
+    "gn:latitude":32.9829,
+    "gn:longitude":70.61272,
+    "gn:modification_date":"2018-02-06",
+    "gn:name":"Juma Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.59272,32.9629,70.63272,33.0029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421195435,
+        1108692137,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1332865
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"c00afa1563b0068197134343c6858fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":421195435,
+            "neighbourhood_id":1780036297,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780036297,
+    "wof:lastmodified":1660243616,
+    "wof:name":"Juma Khan",
+    "wof:parent_id":421195435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326530657
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61272,
+    32.9829,
+    70.61272,
+    32.9829
+],
+  "geometry": {"coordinates":[70.61272,32.9829],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1780037759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.64756,30.07289,70.64756,30.07289",
+    "geom:latitude":30.07289,
+    "geom:longitude":70.64756,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Canal Lodge",
+    "gn:country_code":"PK",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7909207,
+    "gn:latitude":30.07289,
+    "gn:longitude":70.64756,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Canal Lodge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.62756,30.05289,70.66756,30.09289",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Canal Lodge"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175767,
+        1108692163,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7909207
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"43d2b47c2a24ba62cafd283b67008365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692163,
+            "locality_id":421175767,
+            "neighbourhood_id":1780037759,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037759,
+    "wof:lastmodified":1660244435,
+    "wof:name":"Canal Lodge",
+    "wof:parent_id":421175767,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360308795
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.64756,
+    30.07289,
+    70.64756,
+    30.07289
+],
+  "geometry": {"coordinates":[70.64756,30.07289],"type":"Point"}
+}

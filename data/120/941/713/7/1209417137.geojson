@@ -29,29 +29,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Saeedabad"
+    ],
     "name:und_x_variant":[
         "Tolai"
     ],
+    "name:urd_x_preferred":[
+        "\u0633\u0639\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675733,
+        1108692253
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11234630
     },
     "wof:country":"PK",
-    "wof:geomhash":"4adc76aad57050812083b61b71f6e3cb",
+    "wof:geomhash":"97ec514407a19b006538939b3d32f781",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209417137
+            "county_id":1108692253,
+            "locality_id":1209417137,
+            "region_id":85675733
         }
     ],
     "wof:id":1209417137,
-    "wof:lastmodified":1566588483,
+    "wof:lastmodified":1660238241,
     "wof:name":"Saeedabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -59,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.66771999999999,
+    66.66772,
     27.62822,
-    66.66771999999999,
+    66.66772,
     27.62822
 ],
-  "geometry": {"coordinates":[66.66771999999999,27.62822],"type":"Point"}
+  "geometry": {"coordinates":[66.66772,27.62822],"type":"Point"}
 }

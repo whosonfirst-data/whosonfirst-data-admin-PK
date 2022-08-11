@@ -1,0 +1,88 @@
+{
+  "id": 1780037961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.70333,30.1638,72.70333,30.1638",
+    "geom:latitude":30.1638,
+    "geom:longitude":72.70333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shah Faisal Town",
+    "gn:country_code":"PK",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11494297,
+    "gn:latitude":30.1638,
+    "gn:longitude":72.70333,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Shah Faisal Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.68333,30.1438,72.72333,30.1838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shah Faisal Town"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u06a9 \u0634\u0627\u0647 \u0641\u06cc\u0635\u0644"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u0445-\u0424\u0430\u0439\u0441\u0430\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u06c1 \u0641\u06cc\u0635\u0644 \u0679\u0627\u0624\u0646"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167287,
+        1108692421,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11494297
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2dbed7d0808f1be59a3675e9f0953087",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692421,
+            "locality_id":421167287,
+            "neighbourhood_id":1780037961,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037961,
+    "wof:lastmodified":1660241280,
+    "wof:name":"Shah Faisal Town",
+    "wof:parent_id":421167287,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242800921
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.70333,
+    30.1638,
+    72.70333,
+    30.1638
+],
+  "geometry": {"coordinates":[72.70332999999999,30.1638],"type":"Point"}
+}

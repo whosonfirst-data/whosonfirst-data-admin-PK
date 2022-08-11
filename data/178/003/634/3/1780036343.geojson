@@ -1,0 +1,76 @@
+{
+  "id": 1780036343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.57917,32.5,74.57917,32.5",
+    "geom:latitude":32.5,
+    "geom:longitude":74.57917,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kakeali",
+    "gn:country_code":"PK",
+    "gn:dem":252,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1381512,
+    "gn:latitude":32.5,
+    "gn:longitude":74.57917,
+    "gn:modification_date":"2001-10-09",
+    "gn:name":"K\u0101ke\u0101li",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.55917,32.48,74.59917,32.52",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175525,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1381512
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"31ed07660957bdb032b306a6290a881f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":421175525,
+            "neighbourhood_id":1780036343,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036343,
+    "wof:lastmodified":1660243642,
+    "wof:name":"Kakeali",
+    "wof:parent_id":421175525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343963611
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.57917,
+    32.5,
+    74.57917,
+    32.5
+],
+  "geometry": {"coordinates":[74.57917,32.5],"type":"Point"}
+}

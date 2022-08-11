@@ -1,0 +1,76 @@
+{
+  "id": 1780038067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.36053,27.67073,68.36053,27.67073",
+    "geom:latitude":27.67073,
+    "geom:longitude":68.36053,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Shah Nawaz",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1411607,
+    "gn:latitude":27.67073,
+    "gn:longitude":68.36053,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Shah Nawaz",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.34053,27.65073,68.38053,27.69073",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421174355,
+        1108692277,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1411607
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"070262826bd79f567bdfa072725a5f56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692277,
+            "locality_id":421174355,
+            "neighbourhood_id":1780038067,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038067,
+    "wof:lastmodified":1660244608,
+    "wof:name":"Shah Nawaz",
+    "wof:parent_id":421174355,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242770555
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.36053,
+    27.67073,
+    68.36053,
+    27.67073
+],
+  "geometry": {"coordinates":[68.36053,27.67073],"type":"Point"}
+}

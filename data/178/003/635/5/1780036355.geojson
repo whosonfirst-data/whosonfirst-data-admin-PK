@@ -1,0 +1,76 @@
+{
+  "id": 1780036355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.26738,31.81704,74.26738,31.81704",
+    "geom:latitude":31.81704,
+    "geom:longitude":74.26738,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Shahzad Town",
+    "gn:country_code":"PK",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11534932,
+    "gn:latitude":31.81704,
+    "gn:longitude":74.26738,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Shahzad Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.24738,31.79704,74.28738,31.83704",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421197859,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11534932
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"8503d01278b88421ec65a9997bde525c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":421197859,
+            "neighbourhood_id":1780036355,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036355,
+    "wof:lastmodified":1660243649,
+    "wof:name":"Shahzad Town",
+    "wof:parent_id":421197859,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343393089
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.26738,
+    31.81704,
+    74.26738,
+    31.81704
+],
+  "geometry": {"coordinates":[74.26738,31.81704],"type":"Point"}
+}

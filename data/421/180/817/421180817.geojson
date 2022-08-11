@@ -4,21 +4,28 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"72.95372,32.20651,72.95372,32.20651",
-    "geom:latitude":32.20651,
-    "geom:longitude":72.95372,
+    "geom:bbox":"72.941704,32.199549,72.963053,32.211942",
+    "geom:latitude":32.205125,
+    "geom:longitude":72.952623,
     "iso:country":"PK",
-    "lbl:bbox":"72.93372,32.18651,72.97372,32.22651",
+    "lbl:latitude":32.20574,
+    "lbl:longitude":72.953351,
     "lbl:max_zoom":15.0,
     "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":10.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Liliani"
+    ],
     "name:und_x_variant":[
         "Lali\u0101ni"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u06cc\u0644\u0627\u0646\u06cc"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -38,12 +45,19 @@
     "qs:qs_id":461812,
     "qs:woe_adm0":23424922,
     "qs:woe_id":2202137,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":32.20574,
+    "reversegeo:longitude":72.953351,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"quattroshapes",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692367
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,19 +67,20 @@
     },
     "wof:country":"PK",
     "wof:created":1459009272,
-    "wof:geomhash":"c509bf1aea0e685340123ed28ff737c0",
+    "wof:geomhash":"e63c57691b249338565814595a8d03be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692367,
             "locality_id":421180817,
             "region_id":85675753
         }
     ],
     "wof:id":421180817,
-    "wof:lastmodified":1566591776,
+    "wof:lastmodified":1660241500,
     "wof:name":"Liliani",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692367,
     "wof:placetype":"locality",
     "wof:population":12211,
     "wof:population_rank":6,
@@ -75,10 +90,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.95372,
-    32.20651,
-    72.95372,
-    32.20651
+    72.941704,
+    32.199549,
+    72.963053,
+    32.211942
 ],
-  "geometry": {"coordinates":[72.95372,32.20651],"type":"Point"}
+  "geometry": {"coordinates":[[[72.941704,32.202804],[72.94296199999999,32.203529],[72.943527,32.204277],[72.944084,32.203903],[72.94461,32.204667],[72.94519099999999,32.204285],[72.94588299999999,32.205009],[72.94611399999999,32.205089],[72.947157,32.206092],[72.94768999999999,32.206585],[72.948701,32.207724],[72.950158,32.209347],[72.95062,32.209889],[72.950851,32.209753],[72.951654,32.21074],[72.95209199999999,32.211234],[72.951981,32.211322],[72.952522,32.211942],[72.954902,32.211083],[72.957418,32.210191],[72.960275,32.209148],[72.963053,32.208114],[72.961724,32.2068],[72.960936,32.205941],[72.95981399999999,32.204619],[72.958834,32.203425],[72.958556,32.203155],[72.958078,32.202844],[72.956836,32.202183],[72.95584100000001,32.201634],[72.95520500000001,32.201276],[72.95468700000001,32.200615],[72.95417,32.200018],[72.95399500000001,32.199923],[72.952984,32.199787],[72.950405,32.199668],[72.948741,32.19962],[72.947245,32.199573],[72.946608,32.199549],[72.946242,32.199748],[72.941704,32.202804]]],"type":"Polygon"}
 }

@@ -1,0 +1,76 @@
+{
+  "id": 1780037921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.37241,32.33583,74.37241,32.33583",
+    "geom:latitude":32.33583,
+    "geom:longitude":74.37241,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Guhmail Colony",
+    "gn:country_code":"PK",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11457059,
+    "gn:latitude":32.33583,
+    "gn:longitude":74.37241,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Guhmail Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.35241,32.31583,74.39241,32.35583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421194183,
+        1108692381,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11457059
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"99bd1db5f15360c78a8481fdbff0cf05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692381,
+            "locality_id":421194183,
+            "neighbourhood_id":1780037921,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037921,
+    "wof:lastmodified":1660244528,
+    "wof:name":"Guhmail Colony",
+    "wof:parent_id":421194183,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243090857
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.37241,
+    32.33583,
+    74.37241,
+    32.33583
+],
+  "geometry": {"coordinates":[74.37241,32.33583],"type":"Point"}
+}

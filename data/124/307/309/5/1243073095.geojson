@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shadiwal"
+    ],
     "name:fra_x_preferred":[
         "Shadiwal"
     ],
     "name:por_x_preferred":[
         "Shadiwal"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0627\u062f\u06cc \u0648\u0627\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         "gn:id":7331354
     },
     "wof:country":"PK",
-    "wof:geomhash":"381b319d5df9458486277e8eeb9e72be",
+    "wof:geomhash":"1dfd0c69ceb9eb0a1beca52342e5d413",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1243073095,
-    "wof:lastmodified":1566591808,
+    "wof:lastmodified":1660238619,
     "wof:name":"Shadiwal",
     "wof:parent_id":1108692201,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.32786999999998,
+    73.32787,
     31.86935,
-    73.32786999999998,
+    73.32787,
     31.86935
 ],
-  "geometry": {"coordinates":[73.32786999999998,31.86935],"type":"Point"}
+  "geometry": {"coordinates":[73.32787,31.86935],"type":"Point"}
 }

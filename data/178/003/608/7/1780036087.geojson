@@ -1,0 +1,76 @@
+{
+  "id": 1780036087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.55964,29.69368,72.55964,29.69368",
+    "geom:latitude":29.69368,
+    "geom:longitude":72.55964,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Sixty-two",
+    "gn:country_code":"PK",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11489827,
+    "gn:latitude":29.69368,
+    "gn:longitude":72.55964,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chak Sixty-two",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.53964,29.67368,72.57964,29.71368",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421167261,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11489827
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3717d6274057f1be3d7c937fe45e3eb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421167261,
+            "neighbourhood_id":1780036087,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036087,
+    "wof:lastmodified":1660243495,
+    "wof:name":"Chak Sixty-two",
+    "wof:parent_id":421167261,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326936065
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.55964,
+    29.69368,
+    72.55964,
+    29.69368
+],
+  "geometry": {"coordinates":[72.55964,29.69368],"type":"Point"}
+}

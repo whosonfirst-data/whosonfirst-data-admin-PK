@@ -1,0 +1,76 @@
+{
+  "id": 1780038275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.03291,31.40636,73.03291,31.40636",
+    "geom:latitude":31.40636,
+    "geom:longitude":73.03291,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gulfishan",
+    "gn:country_code":"PK",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7110612,
+    "gn:latitude":31.40636,
+    "gn:longitude":73.03291,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Gulfishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.01291,31.38636,73.05291,31.42636",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421181503,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7110612
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6b6cd41155d4e842ef4cc5cfc2daf00e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":421181503,
+            "neighbourhood_id":1780038275,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038275,
+    "wof:lastmodified":1660244723,
+    "wof:name":"Gulfishan",
+    "wof:parent_id":421181503,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259788919
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.03291,
+    31.40636,
+    73.03291,
+    31.40636
+],
+  "geometry": {"coordinates":[73.03291,31.40636],"type":"Point"}
+}

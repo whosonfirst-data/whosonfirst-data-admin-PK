@@ -32,14 +32,20 @@
     "name:ceb_x_preferred":[
         "Zaida"
     ],
+    "name:eng_x_preferred":[
+        "Zaida"
+    ],
     "name:swe_x_preferred":[
         "Zaida"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06cc\u062f\u06c1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692205
     ],
     "wof:breaches":[],
@@ -47,18 +53,18 @@
         "gn:id":1378443
     },
     "wof:country":"PK",
-    "wof:geomhash":"ef19feeb204d1d2140770ca4fce7fd31",
+    "wof:geomhash":"7f4f9c05beef96a54907885789925db3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692205,
             "locality_id":1326831311,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1326831311,
-    "wof:lastmodified":1566582693,
+    "wof:lastmodified":1660239414,
     "wof:name":"Zaida",
     "wof:parent_id":1108692205,
     "wof:placetype":"locality",
@@ -69,9 +75,9 @@
 },
   "bbox": [
     72.77009,
-    34.30439000000001,
+    34.30439,
     72.77009,
-    34.30439000000001
+    34.30439
 ],
-  "geometry": {"coordinates":[72.77009,34.30439000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.77009,34.30439],"type":"Point"}
 }

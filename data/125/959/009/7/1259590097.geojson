@@ -29,14 +29,20 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Qayyumabad"
+    ],
     "name:snd_x_preferred":[
         "\u0642\u064a\u0648\u0645 \u0622\u0628\u0627\u062f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0642\u06cc\u0648\u0645 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692347
     ],
     "wof:breaches":[],
@@ -51,11 +57,11 @@
             "country_id":85632659,
             "county_id":1108692347,
             "locality_id":1259590097,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1259590097,
-    "wof:lastmodified":1566593753,
+    "wof:lastmodified":1660238721,
     "wof:name":"Qayyumabad",
     "wof:parent_id":1108692347,
     "wof:placetype":"locality",

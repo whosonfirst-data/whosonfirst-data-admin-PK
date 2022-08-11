@@ -1,0 +1,76 @@
+{
+  "id": 1780036897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.20444,31.25222,74.20444,31.25222",
+    "geom:latitude":31.25222,
+    "geom:longitude":74.20444,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Burhanpura",
+    "gn:country_code":"PK",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1330619,
+    "gn:latitude":31.25222,
+    "gn:longitude":74.20444,
+    "gn:modification_date":"1999-03-17",
+    "gn:name":"Burh\u0101npura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.18444,31.23222,74.22444,31.27222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421198683,
+        1108692239,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1330619
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"ee1a0a55a4023b216b89dda30926268b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":421198683,
+            "neighbourhood_id":1780036897,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036897,
+    "wof:lastmodified":1660243953,
+    "wof:name":"Burhanpura",
+    "wof:parent_id":421198683,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293104375
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.20444,
+    31.25222,
+    74.20444,
+    31.25222
+],
+  "geometry": {"coordinates":[74.20444000000001,31.25222],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1780038319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.37748,25.35219,68.37748,25.35219",
+    "geom:latitude":25.35219,
+    "geom:longitude":68.37748,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Quarter Gard",
+    "gn:country_code":"PK",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7923033,
+    "gn:latitude":25.35219,
+    "gn:longitude":68.37748,
+    "gn:modification_date":"2012-01-21",
+    "gn:name":"Quarter Gard",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.35748,25.33219,68.39748,25.37219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Quarter Gard"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421168813,
+        1108692211,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7923033
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e2030d7d85acc816059267b81b58a262",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692211,
+            "locality_id":421168813,
+            "neighbourhood_id":1780038319,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038319,
+    "wof:lastmodified":1660244746,
+    "wof:name":"Quarter Gard",
+    "wof:parent_id":421168813,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259581567
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.37748,
+    25.35219,
+    68.37748,
+    25.35219
+],
+  "geometry": {"coordinates":[68.37748000000001,25.35219],"type":"Point"}
+}

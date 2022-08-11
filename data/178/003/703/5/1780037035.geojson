@@ -1,0 +1,79 @@
+{
+  "id": 1780037035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.22215,32.05721,74.22215,32.05721",
+    "geom:latitude":32.05721,
+    "geom:longitude":74.22215,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Mellowala",
+    "gn:country_code":"PK",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1413214,
+    "gn:latitude":32.05721,
+    "gn:longitude":74.22215,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Mellowala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.20215,32.03721,74.24215,32.07721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Mehlaw\u0101la"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421182299,
+        1108692195,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1413214
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"25702a48c66ee189a4640e652386c7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692195,
+            "locality_id":421182299,
+            "neighbourhood_id":1780037035,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037035,
+    "wof:lastmodified":1660244034,
+    "wof:name":"Mellowala",
+    "wof:parent_id":421182299,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276252401
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.22215,
+    32.05721,
+    74.22215,
+    32.05721
+],
+  "geometry": {"coordinates":[74.22215,32.05721],"type":"Point"}
+}

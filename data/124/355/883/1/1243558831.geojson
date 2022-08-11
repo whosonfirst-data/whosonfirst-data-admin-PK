@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Thul"
     ],
+    "name:eng_x_preferred":[
+        "Thul"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0647\u0648\u0644"
     ],
@@ -40,6 +43,9 @@
     ],
     "name:spa_x_preferred":[
         "Thul"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0644"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +59,7 @@
         "gn:id":1163413
     },
     "wof:country":"PK",
-    "wof:geomhash":"1d33af9616e890fd69c7d992f28d6962",
+    "wof:geomhash":"088847d27eaa0e31093fac4691a41705",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1243558831,
-    "wof:lastmodified":1566592116,
+    "wof:lastmodified":1660238681,
     "wof:name":"Thul",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
@@ -74,10 +80,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.48333000000001,
+    69.48333,
     28.23333,
-    69.48333000000001,
+    69.48333,
     28.23333
 ],
-  "geometry": {"coordinates":[69.48333000000001,28.23333],"type":"Point"}
+  "geometry": {"coordinates":[69.48333,28.23333],"type":"Point"}
 }

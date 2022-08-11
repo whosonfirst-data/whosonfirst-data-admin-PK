@@ -2,7 +2,7 @@
   "id": 1293482747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kh\u0101n Muhammad Rela"
@@ -44,7 +44,7 @@
         "gn:id":1357429
     },
     "wof:country":"PK",
-    "wof:geomhash":"516418d6b6d57edecba993236253e1ba",
+    "wof:geomhash":"7cfe00190b9fc90461c00cc1ab2ece51",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +55,22 @@
         }
     ],
     "wof:id":1293482747,
-    "wof:lastmodified":1566585378,
+    "wof:lastmodified":1660242842,
     "wof:name":"Jan Muhammad Rela",
     "wof:parent_id":1108692277,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036719
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.18415999999999,
+    68.18416,
     27.56992,
-    68.18415999999999,
+    68.18416,
     27.56992
 ],
-  "geometry": {"coordinates":[68.18415999999999,27.56992],"type":"Point"}
+  "geometry": {"coordinates":[68.18416000000001,27.56992],"type":"Point"}
 }

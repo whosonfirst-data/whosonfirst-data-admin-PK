@@ -2,7 +2,7 @@
   "id": 1293479769,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,45 +27,45 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1165192
     },
     "wof:country":"PK",
-    "wof:geomhash":"9f36794647db07dfeea848f27dee1c8e",
+    "wof:geomhash":"2c522ddc20267b06dd12673a9968c29e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
             "locality_id":1293479769,
             "region_id":85675741
         }
     ],
     "wof:id":1293479769,
-    "wof:lastmodified":1566585498,
+    "wof:lastmodified":1660242840,
     "wof:name":"Sher Dhamial",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.20624000000002,
+    73.20624,
     33.58322,
-    73.20624000000002,
+    73.20624,
     33.58322
 ],
-  "geometry": {"coordinates":[73.20624000000002,33.58322],"type":"Point"}
+  "geometry": {"coordinates":[73.20623999999999,33.58322],"type":"Point"}
 }

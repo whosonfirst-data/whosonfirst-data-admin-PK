@@ -1,0 +1,74 @@
+{
+  "id": 1780036757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20624,33.58322,73.20624,33.58322",
+    "geom:latitude":33.58322,
+    "geom:longitude":73.20624,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sher Dhamial",
+    "gn:country_code":"PK",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1165192,
+    "gn:latitude":33.58322,
+    "gn:longitude":73.20624,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Sher Dhamial",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.18624,33.56322,73.22624,33.60322",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1165192
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"2c522ddc20267b06dd12673a9968c29e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780036757,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780036757,
+    "wof:lastmodified":1660243877,
+    "wof:name":"Sher Dhamial",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293479769
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20624,
+    33.58322,
+    73.20624,
+    33.58322
+],
+  "geometry": {"coordinates":[73.20623999999999,33.58322],"type":"Point"}
+}

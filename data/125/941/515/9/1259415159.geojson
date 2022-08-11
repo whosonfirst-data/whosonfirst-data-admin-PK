@@ -38,6 +38,9 @@
     "name:ceb_x_preferred":[
         "Daulatpur"
     ],
+    "name:eng_x_preferred":[
+        "Daulatpur"
+    ],
     "name:fra_x_preferred":[
         "Daulatpur"
     ],
@@ -52,6 +55,9 @@
     ],
     "name:swe_x_preferred":[
         "Daulatpur"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u0644\u062a \u067e\u0648\u0631"
     ],
     "name:zho_x_preferred":[
         "\u8fbe\u4e4c\u62c9\u7279\u666e\u5c14"
@@ -68,7 +74,7 @@
         "gn:id":11539910
     },
     "wof:country":"PK",
-    "wof:geomhash":"cb46994570389fb6f7c51bdc914f8eb3",
+    "wof:geomhash":"95086b66f71640b56b29d229685a5a05",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -79,7 +85,7 @@
         }
     ],
     "wof:id":1259415159,
-    "wof:lastmodified":1566593530,
+    "wof:lastmodified":1660238702,
     "wof:name":"Daulatpur",
     "wof:parent_id":1108692127,
     "wof:placetype":"locality",
@@ -89,10 +95,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.35143000000002,
+    73.35143,
     30.06898,
-    73.35143000000002,
+    73.35143,
     30.06898
 ],
-  "geometry": {"coordinates":[73.35143000000002,30.06898],"type":"Point"}
+  "geometry": {"coordinates":[73.35142999999999,30.06898],"type":"Point"}
 }

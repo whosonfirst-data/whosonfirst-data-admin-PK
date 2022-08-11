@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Hafizabad"
     ],
+    "name:eng_x_preferred":[
+        "Hafizabad"
+    ],
     "name:fas_x_preferred":[
         "\u062d\u0627\u0641\u0638\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -73,7 +76,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,14 +89,17 @@
     "wof:geomhash":"9b56d89c7b5a2cf98f6d52c262e9533e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209538779
+            "county_id":1108692283,
+            "locality_id":1209538779,
+            "region_id":85675753
         }
     ],
     "wof:id":1209538779,
-    "wof:lastmodified":1566588156,
+    "wof:lastmodified":1660238259,
     "wof:name":"Hafizabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692283,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

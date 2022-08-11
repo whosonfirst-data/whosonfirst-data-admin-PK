@@ -1,0 +1,76 @@
+{
+  "id": 1780036531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.61697,30.88851,73.61697,30.88851",
+    "geom:latitude":30.88851,
+    "geom:longitude":73.61697,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ahmad Colony",
+    "gn:country_code":"PK",
+    "gn:dem":187,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11544029,
+    "gn:latitude":30.88851,
+    "gn:longitude":73.61697,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Ahmad Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.59697,30.86851,73.63697,30.90851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203691,
+        1108692339,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11544029
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bcb5d3572ff95e2896f6985181c28d97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692339,
+            "locality_id":421203691,
+            "neighbourhood_id":1780036531,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036531,
+    "wof:lastmodified":1660243751,
+    "wof:name":"Ahmad Colony",
+    "wof:parent_id":421203691,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343584447
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.61697,
+    30.88851,
+    73.61697,
+    30.88851
+],
+  "geometry": {"coordinates":[73.61696999999999,30.88851],"type":"Point"}
+}

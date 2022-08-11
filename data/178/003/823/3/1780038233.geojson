@@ -1,0 +1,79 @@
+{
+  "id": 1780038233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.48261,31.10475,74.48261,31.10475",
+    "geom:latitude":31.10475,
+    "geom:longitude":74.48261,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Kasar Garh",
+    "gn:country_code":"PK",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1331729,
+    "gn:latitude":31.10475,
+    "gn:longitude":74.48261,
+    "gn:modification_date":"2017-04-07",
+    "gn:name":"Kasar Garh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.46261,31.08475,74.50261,31.12475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kesargarh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203947,
+        1108692239,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1331729
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6abe29bd12feec3ed107a845f22a0a50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692239,
+            "locality_id":421203947,
+            "neighbourhood_id":1780038233,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038233,
+    "wof:lastmodified":1660244704,
+    "wof:name":"Kasar Garh",
+    "wof:parent_id":421203947,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1259706813
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.48261,
+    31.10475,
+    74.48261,
+    31.10475
+],
+  "geometry": {"coordinates":[74.48260999999999,31.10475],"type":"Point"}
+}

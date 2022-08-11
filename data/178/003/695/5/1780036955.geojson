@@ -1,0 +1,76 @@
+{
+  "id": 1780036955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.23353,29.14219,71.23353,29.14219",
+    "geom:latitude":29.14219,
+    "geom:longitude":71.23353,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chacha Basti",
+    "gn:country_code":"PK",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7391611,
+    "gn:latitude":29.14219,
+    "gn:longitude":71.23353,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Chacha Basti",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.21353,29.12219,71.25353,29.16219",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421169881,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7391611
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b72458262aee59d2a0bb854a69f0555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421169881,
+            "neighbourhood_id":1780036955,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036955,
+    "wof:lastmodified":1660243988,
+    "wof:name":"Chacha Basti",
+    "wof:parent_id":421169881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277073809
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.23353,
+    29.14219,
+    71.23353,
+    29.14219
+],
+  "geometry": {"coordinates":[71.23353,29.14219],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1780025177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000007,
+    "geom:bbox":"67.051526,24.883932,67.056674,24.887024",
+    "geom:latitude":24.885513,
+    "geom:longitude":67.054085,
+    "iso:country":"PK",
+    "lbl:latitude":24.885497,
+    "lbl:longitude":67.054085,
+    "mps:latitude":24.885497,
+    "mps:longitude":67.054085,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Hyderabad Colony"
+    ],
+    "name:urd_x_preferred":[
+        "\u062d\u06cc\u062f\u0631\u0622\u0628\u0627\u062f \u06a9\u0627\u0644\u0648\u0646\u06cc"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"aa52ed3fd64920428cf61b741601b054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025177,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025177,
+    "wof:lastmodified":1660240105,
+    "wof:name":"Hyderabad Colony",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.051526,
+    24.883932,
+    67.056674,
+    24.887024
+],
+  "geometry": {"coordinates":[[[67.05499,24.883932],[67.054108,24.884527],[67.05319799999999,24.885111],[67.052156,24.885843],[67.051526,24.886319],[67.051952,24.886545],[67.05252,24.886803],[67.053151,24.887024],[67.055903,24.885338],[67.056674,24.884857],[67.056028,24.884522],[67.05499,24.883932]]],"type":"Polygon"}
+}

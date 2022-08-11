@@ -1,0 +1,76 @@
+{
+  "id": 1780036907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.23181,27.55592,68.23181,27.55592",
+    "geom:latitude":27.55592,
+    "geom:longitude":68.23181,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Arzi",
+    "gn:country_code":"PK",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11347899,
+    "gn:latitude":27.55592,
+    "gn:longitude":68.23181,
+    "gn:modification_date":"2016-11-24",
+    "gn:name":"Goth Arzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.21181,27.53592,68.25181,27.57592",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421168809,
+        1108692277,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11347899
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3d41a04cd2c41b0cc1d93bc85392d072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692277,
+            "locality_id":421168809,
+            "neighbourhood_id":1780036907,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036907,
+    "wof:lastmodified":1660243960,
+    "wof:name":"Goth Arzi",
+    "wof:parent_id":421168809,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293198895
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.23181,
+    27.55592,
+    68.23181,
+    27.55592
+],
+  "geometry": {"coordinates":[68.23181,27.55592],"type":"Point"}
+}

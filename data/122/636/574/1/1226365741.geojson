@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chandian"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u0627\u0646\u0688\u06cc\u0627\u06ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":11542622
     },
     "wof:country":"PK",
-    "wof:geomhash":"19cbf53273173803a53b19937adb71b8",
+    "wof:geomhash":"2fe0dda5cf0adaca310db2774fcafae2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226365741,
-    "wof:lastmodified":1566595110,
+    "wof:lastmodified":1660238465,
     "wof:name":"Chandian",
     "wof:parent_id":1108692343,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.18111999999998,
+    73.18112,
     30.05504,
-    73.18111999999998,
+    73.18112,
     30.05504
 ],
-  "geometry": {"coordinates":[73.18111999999998,30.05504],"type":"Point"}
+  "geometry": {"coordinates":[73.18112000000001,30.05504],"type":"Point"}
 }

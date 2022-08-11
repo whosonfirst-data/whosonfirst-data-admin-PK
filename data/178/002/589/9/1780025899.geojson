@@ -1,0 +1,62 @@
+{
+  "id": 1780025899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000006,
+    "geom:bbox":"67.059583,24.968171,67.061336,24.972003",
+    "geom:latitude":24.970081,
+    "geom:longitude":67.060452,
+    "iso:country":"PK",
+    "lbl:latitude":24.970088,
+    "lbl:longitude":67.060452,
+    "mps:latitude":24.970088,
+    "mps:longitude":67.060452,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "North Karachi Sector 11-C-2"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0627\u0631\u062a\u06be \u06a9\u0631\u0627\u0686\u06cc \u0633\u06cc\u06a9\u0679\u0631 11-C-2"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"8ec47f05e5f0c727c02d19d9f2e7f720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025899,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025899,
+    "wof:lastmodified":1660240523,
+    "wof:name":"North Karachi Sector 11-C-2",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.059583,
+    24.968171,
+    67.061336,
+    24.972003
+],
+  "geometry": {"coordinates":[[[67.06106800000001,24.972003],[67.061336,24.968235],[67.05982,24.968171],[67.059583,24.971943],[67.06106800000001,24.972003]]],"type":"Polygon"}
+}

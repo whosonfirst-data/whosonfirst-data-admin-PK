@@ -1,0 +1,76 @@
+{
+  "id": 1780036161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.98843,31.38092,72.98843,31.38092",
+    "geom:latitude":31.38092,
+    "geom:longitude":72.98843,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Taj Colony",
+    "gn:country_code":"PK",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7321098,
+    "gn:latitude":31.38092,
+    "gn:longitude":72.98843,
+    "gn:modification_date":"2010-08-06",
+    "gn:name":"Taj Colony",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.96843,31.36092,73.00843,31.40092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421181503,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321098
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"979dcaefe8b319a3003f8304ad3b20df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":421181503,
+            "neighbourhood_id":1780036161,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036161,
+    "wof:lastmodified":1660243536,
+    "wof:name":"Taj Colony",
+    "wof:parent_id":421181503,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327053291
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.98843,
+    31.38092,
+    72.98843,
+    31.38092
+],
+  "geometry": {"coordinates":[72.98842999999999,31.38092],"type":"Point"}
+}

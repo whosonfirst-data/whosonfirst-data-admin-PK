@@ -1,0 +1,76 @@
+{
+  "id": 1780037471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"69.54799,28.01731,69.54799,28.01731",
+    "geom:latitude":28.01731,
+    "geom:longitude":69.54799,
+    "gn:admin1_code":"5",
+    "gn:asciiname":"Allahwaraya Kalora",
+    "gn:country_code":"PK",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1401181,
+    "gn:latitude":28.01731,
+    "gn:longitude":69.54799,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Allahwaraya Kalora",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"69.52799,27.99731,69.56799,28.03731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421193711,
+        1108692191,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1401181
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6627774991d7de77e0ec609c2ea3b34c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692191,
+            "locality_id":421193711,
+            "neighbourhood_id":1780037471,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037471,
+    "wof:lastmodified":1660244274,
+    "wof:name":"Allahwaraya Kalora",
+    "wof:parent_id":421193711,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260078503
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    69.54799,
+    28.01731,
+    69.54799,
+    28.01731
+],
+  "geometry": {"coordinates":[69.54799,28.01731],"type":"Point"}
+}

@@ -4,13 +4,14 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000038,
     "geom:area_square_m":0.0,
-    "geom:bbox":"66.9918,24.8556,66.9918,24.8556",
-    "geom:latitude":24.8556,
-    "geom:longitude":66.9918,
+    "geom:bbox":"66.987448,24.851774,66.996417,24.859526",
+    "geom:latitude":24.85571,
+    "geom:longitude":66.99267,
     "iso:country":"PK",
-    "lbl:bbox":"66.9868,24.8506,66.9968,24.8606",
+    "lbl:latitude":24.855747,
+    "lbl:longitude":66.993486,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -73,7 +74,13 @@
     "qs:qs_id":1168424,
     "qs:woe_adm0":23424922,
     "qs:woe_id":2199943,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.855747,
+    "reversegeo:longitude":66.993486,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":694,
     "wof:belongsto":[
         102191569,
@@ -90,7 +97,7 @@
     },
     "wof:country":"PK",
     "wof:created":1459009741,
-    "wof:geomhash":"e2852849728631ada7bbdea38afaa344",
+    "wof:geomhash":"9ee99d0b573dc31a0b3cedc423b15ab7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -102,7 +109,7 @@
         }
     ],
     "wof:id":421192565,
-    "wof:lastmodified":1578086871,
+    "wof:lastmodified":1660241580,
     "wof:name":"Khadda",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
@@ -112,10 +119,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    66.9918,
-    24.8556,
-    66.9918,
-    24.8556
+    66.987448,
+    24.851774,
+    66.996417,
+    24.859526
 ],
-  "geometry": {"coordinates":[66.9918,24.8556],"type":"Point"}
+  "geometry": {"coordinates":[[[66.987448,24.855967],[66.987864,24.856137],[66.988567,24.856461],[66.98958399999999,24.856969],[66.99023099999999,24.857279],[66.992164,24.858185],[66.993657,24.858902],[66.994443,24.859211],[66.995338,24.859526],[66.995402,24.859313],[66.99601199999999,24.857307],[66.996336,24.855837],[66.99641,24.855004],[66.99641699999999,24.854025],[66.99564700000001,24.853581],[66.994783,24.853192],[66.994089,24.852841],[66.993118,24.851916],[66.99299999999999,24.851774],[66.992841,24.852064],[66.99234199999999,24.853081],[66.992064,24.853451],[66.988246,24.854103],[66.987821,24.855074],[66.987448,24.855967]]],"type":"Polygon"}
 }

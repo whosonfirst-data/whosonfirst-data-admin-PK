@@ -2,7 +2,7 @@
   "id": 85903709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -17,7 +17,7 @@
     "mps:latitude":24.862984,
     "mps:longitude":67.028387,
     "mz:hierarchy_label":0,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:is_funky":0,
     "mz:is_hard_boundary":0,
     "mz:is_landuse_aoi":0,
@@ -90,11 +90,11 @@
     ],
     "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
-        85675757,
         102191569,
         85632659,
         421191101,
-        1108692233
+        1108692233,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -119,12 +119,14 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1582351427,
+    "wof:lastmodified":1660245268,
     "wof:name":"Sadr",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        85907575
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

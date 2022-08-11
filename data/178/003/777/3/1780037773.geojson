@@ -1,0 +1,79 @@
+{
+  "id": 1780037773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.3307,29.8655,67.3307,29.8655",
+    "geom:latitude":29.8655,
+    "geom:longitude":67.3307,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Idgah",
+    "gn:country_code":"PK",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7101123,
+    "gn:latitude":29.8655,
+    "gn:longitude":67.3307,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Idgah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"67.3107,29.8455,67.3507,29.8855",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Idgah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421199187,
+        1108692229,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7101123
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"218484b69681a45669c2f2398ae2be7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692229,
+            "locality_id":421199187,
+            "neighbourhood_id":1780037773,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780037773,
+    "wof:lastmodified":1660244444,
+    "wof:name":"Idgah",
+    "wof:parent_id":421199187,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360186721
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.3307,
+    29.8655,
+    67.3307,
+    29.8655
+],
+  "geometry": {"coordinates":[67.33069999999999,29.8655],"type":"Point"}
+}

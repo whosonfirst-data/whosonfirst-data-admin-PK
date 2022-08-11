@@ -4,23 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000057,
     "geom:area_square_m":0.0,
-    "geom:bbox":"73.03917,33.58549,73.03917,33.58549",
-    "geom:latitude":33.58549,
-    "geom:longitude":73.03917,
+    "geom:bbox":"73.030735,33.58142,73.044638,33.589019",
+    "geom:latitude":33.584584,
+    "geom:longitude":73.037141,
     "gn:country":"PK",
     "gn:fcode":"PPLX",
     "gn:latitude":33.58549,
     "gn:longitude":73.03917,
     "gn:population":0,
     "iso:country":"PK",
-    "lbl:bbox":"73.03417,33.58049,73.04417,33.59049",
-    "lbl:latitude":33.58549,
-    "lbl:longitude":73.03917,
+    "lbl:latitude":33.585,
+    "lbl:longitude":73.036667,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -32,6 +31,9 @@
     ],
     "name:und_x_variant":[
         "\u00c5dra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0622\u062f\u0631\u0627"
     ],
     "qs_pg:aaroncc":"PK",
     "qs_pg:gn_country":"PK",
@@ -53,17 +55,23 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424922,
     "qs_pg:woe_id":2189950,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":33.585,
+    "reversegeo:longitude":73.036667,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424922,
     "woe:name_adm0":"Pakistan",
     "woe:name_adm1":"Punjab",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692361
+        421173213,
+        1108692361,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,21 +81,21 @@
     },
     "wof:country":"PK",
     "wof:created":1497315335,
-    "wof:geomhash":"6b1f2a14070a9a7438ddf784e95c9745",
+    "wof:geomhash":"5bb502e3420b2086e1fce68170f2ed5b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692361,
-            "locality_id":-1,
+            "locality_id":421173213,
             "neighbourhood_id":1126096549,
             "region_id":85675753
         }
     ],
     "wof:id":1126096549,
-    "wof:lastmodified":1566591806,
+    "wof:lastmodified":1660241358,
     "wof:name":"\u00c5dra",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -97,10 +105,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.03917,
-    33.58549,
-    73.03917,
-    33.58549
+    73.030735,
+    33.58142,
+    73.044638,
+    33.589019
 ],
-  "geometry": {"coordinates":[73.03917,33.58549],"type":"Point"}
+  "geometry": {"coordinates":[[[73.03073500000001,33.582497],[73.030968,33.583321],[73.031381,33.584335],[73.032073,33.585192],[73.032794,33.586088],[73.03341,33.58657],[73.033643,33.586784],[73.034676,33.587725],[73.03610999999999,33.589019],[73.037454,33.588348],[73.038881,33.587522],[73.039818,33.586976],[73.040476,33.58664],[73.040994,33.586529],[73.04192399999999,33.585919],[73.04167200000001,33.585303],[73.041518,33.584422],[73.041364,33.584002],[73.04137799999999,33.583736],[73.041518,33.583526],[73.04230099999999,33.583106],[73.042693,33.58291],[73.043421,33.582882],[73.044218,33.582882],[73.044498,33.582798],[73.04463800000001,33.582617],[73.04463,33.582415],[73.044624,33.582281],[73.044337,33.582008],[73.043994,33.582106],[73.04356799999999,33.582134],[73.04325300000001,33.582092],[73.04256700000001,33.581945],[73.041623,33.581763],[73.040398,33.581525],[73.039671,33.58142],[73.039041,33.581511],[73.03700499999999,33.58184],[73.035053,33.582134],[73.033647,33.582386],[73.032471,33.582568],[73.03203000000001,33.582568],[73.03138,33.582589],[73.030841,33.582526],[73.03073500000001,33.582497]]],"type":"Polygon"}
 }

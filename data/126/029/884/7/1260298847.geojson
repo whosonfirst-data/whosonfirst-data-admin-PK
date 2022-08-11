@@ -32,6 +32,9 @@
     "name:cat_x_preferred":[
         "Kotri"
     ],
+    "name:eng_x_preferred":[
+        "Kotri"
+    ],
     "name:fas_x_preferred":[
         "\u06a9\u0648\u062a\u0631\u06cc"
     ],
@@ -60,7 +63,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675749,
+        1360701001,
         1108692271
     ],
     "wof:breaches":[],
@@ -68,18 +71,18 @@
         "gn:id":1447537
     },
     "wof:country":"PK",
-    "wof:geomhash":"3121d4cf9f0059ced628a7df9c1af48a",
+    "wof:geomhash":"6f2498ffbc6a2fc34b5eb04203cab1ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692271,
             "locality_id":1260298847,
-            "region_id":85675749
+            "region_id":1360701001
         }
     ],
     "wof:id":1260298847,
-    "wof:lastmodified":1566590028,
+    "wof:lastmodified":1660238848,
     "wof:name":"Kotri",
     "wof:parent_id":1108692271,
     "wof:placetype":"locality",
@@ -89,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.87980999999999,
-    33.95659000000001,
-    69.87980999999999,
-    33.95659000000001
+    69.87981,
+    33.95659,
+    69.87981,
+    33.95659
 ],
-  "geometry": {"coordinates":[69.87980999999999,33.95659000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.87981000000001,33.95659],"type":"Point"}
 }

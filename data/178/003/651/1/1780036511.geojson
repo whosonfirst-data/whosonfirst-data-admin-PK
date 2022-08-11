@@ -1,0 +1,76 @@
+{
+  "id": 1780036511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.21655,29.51543,71.21655,29.51543",
+    "geom:latitude":29.51543,
+    "geom:longitude":71.21655,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Basti Nunari",
+    "gn:country_code":"PK",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1410918,
+    "gn:latitude":29.51543,
+    "gn:longitude":71.21655,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Basti Nunari",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.19655,29.49543,71.23655,29.53543",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890436605,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1410918
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8a64ca42d0537456fe73507fe550ba8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890436605,
+            "neighbourhood_id":1780036511,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036511,
+    "wof:lastmodified":1660243740,
+    "wof:name":"Basti Nunari",
+    "wof:parent_id":890436605,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343358741
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.21655,
+    29.51543,
+    71.21655,
+    29.51543
+],
+  "geometry": {"coordinates":[71.21655,29.51543],"type":"Point"}
+}

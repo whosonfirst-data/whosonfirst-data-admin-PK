@@ -29,26 +29,38 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ghaziwala"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0627\u0632\u06cc \u0648\u0627\u0644\u0627"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692321
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1368144
     },
     "wof:country":"PK",
-    "wof:geomhash":"97bc0c1c0b07206d83b474359087c2bd",
+    "wof:geomhash":"132d9c8328173ee7255be2ea575f4672",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209414575
+            "county_id":1108692321,
+            "locality_id":1209414575,
+            "region_id":85675753
         }
     ],
     "wof:id":1209414575,
-    "wof:lastmodified":1566588513,
+    "wof:lastmodified":1660238235,
     "wof:name":"Ghaziwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -56,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.07916999999998,
+    71.07917,
     30.30833,
-    71.07916999999998,
+    71.07917,
     30.30833
 ],
-  "geometry": {"coordinates":[71.07916999999998,30.30833],"type":"Point"}
+  "geometry": {"coordinates":[71.07917,30.30833],"type":"Point"}
 }

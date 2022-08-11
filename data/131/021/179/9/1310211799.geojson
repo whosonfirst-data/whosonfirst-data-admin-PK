@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "B\u0101rkh\u0101n"
     ],
+    "name:eng_x_preferred":[
+        "Barkhan"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0627\u0631\u062e\u0627\u0646"
     ],
@@ -57,13 +60,16 @@
         "Barkhan"
     ],
     "name:urd_x_preferred":[
+        "\u0628\u0627\u0631\u06a9\u06be\u0627\u0646"
+    ],
+    "name:urd_x_variant":[
         "\u0628\u0627\u0631\u062e\u0627\u0646"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692373
     ],
     "wof:breaches":[],
@@ -71,18 +77,18 @@
         "gn:id":1478751
     },
     "wof:country":"PK",
-    "wof:geomhash":"e3fea765350870d0d501984991ab2345",
+    "wof:geomhash":"d95fe71baa133466c229d321e42fd1e7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692373,
             "locality_id":1310211799,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1310211799,
-    "wof:lastmodified":1566590832,
+    "wof:lastmodified":1660239269,
     "wof:name":"Barkhan",
     "wof:parent_id":1108692373,
     "wof:placetype":"locality",
@@ -92,10 +98,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    72.73536999999997,
-    35.11425999999999,
-    72.73536999999997,
-    35.11425999999999
+    72.73537,
+    35.11426,
+    72.73537,
+    35.11426
 ],
-  "geometry": {"coordinates":[72.73536999999997,35.11425999999999],"type":"Point"}
+  "geometry": {"coordinates":[72.73537,35.11426],"type":"Point"}
 }

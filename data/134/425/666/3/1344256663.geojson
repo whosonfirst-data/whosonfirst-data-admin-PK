@@ -29,8 +29,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Lakhi"
+    ],
     "name:und_x_variant":[
         "Lakh\u012bw\u0101la"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u06a9\u06be\u06cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -44,7 +50,7 @@
         "gn:id":1368307
     },
     "wof:country":"PK",
-    "wof:geomhash":"11988913923e495fd9ffa1fbf165ac05",
+    "wof:geomhash":"b3204cc246c16ed60c13f0d35aebde20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1344256663,
-    "wof:lastmodified":1566583522,
+    "wof:lastmodified":1660239694,
     "wof:name":"Lakhi",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
@@ -65,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    71.08894000000002,
+    71.08894,
     30.14812,
-    71.08894000000002,
+    71.08894,
     30.14812
 ],
-  "geometry": {"coordinates":[71.08894000000002,30.14812],"type":"Point"}
+  "geometry": {"coordinates":[71.08893999999999,30.14812],"type":"Point"}
 }

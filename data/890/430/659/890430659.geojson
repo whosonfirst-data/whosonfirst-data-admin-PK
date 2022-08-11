@@ -4,33 +4,48 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000001,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.85845,30.77339,70.85845,30.77339",
-    "geom:latitude":30.77339,
-    "geom:longitude":70.85845,
+    "geom:bbox":"70.858069,30.772557,70.859056,30.773867",
+    "geom:latitude":30.773205,
+    "geom:longitude":70.858584,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":1000,
     "iso:country":"PK",
-    "lbl:bbox":"70.83845,30.75339,70.87845,30.79339",
+    "lbl:latitude":30.773087,
+    "lbl:longitude":70.858624,
     "lbl:max_zoom":16.0,
     "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Basti Aukharvand"
+    ],
     "name:und_x_variant":[
         "Basti Aukharwand"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0633\u062a\u06cc \u0627\u0648\u06a9\u06be\u0631\u0648\u0646\u0688"
     ],
     "qs:name":"Basti Aukharvand",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"2",
+    "reversegeo:latitude":30.773087,
+    "reversegeo:longitude":70.858624,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,19 +54,20 @@
     },
     "wof:country":"PK",
     "wof:created":1469051861,
-    "wof:geomhash":"2614a7d122d1e617defd63dbe45b0ad0",
+    "wof:geomhash":"792e8f83d31ee0a992e404df0335211b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692283,
             "locality_id":890430659,
             "region_id":85675753
         }
     ],
     "wof:id":890430659,
-    "wof:lastmodified":1566591795,
+    "wof:lastmodified":1660241823,
     "wof:name":"Basti Aukharvand",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692283,
     "wof:placetype":"locality",
     "wof:population":1000,
     "wof:population_rank":3,
@@ -61,10 +77,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.85845,
-    30.77339,
-    70.85845,
-    30.77339
+    70.858069,
+    30.772557,
+    70.859056,
+    30.773867
 ],
-  "geometry": {"coordinates":[70.85845,30.77339],"type":"Point"}
+  "geometry": {"coordinates":[[[70.858531,30.773803],[70.858885,30.773711],[70.859044,30.77364],[70.859056,30.77356],[70.859036,30.773481],[70.85891700000001,30.773469],[70.858921,30.773345],[70.859032,30.773274],[70.859056,30.77321],[70.859032,30.77288],[70.85902,30.772557],[70.858634,30.772565],[70.85827999999999,30.772557],[70.858296,30.77276],[70.85825199999999,30.7729],[70.85823600000001,30.773047],[70.85824,30.773266],[70.858073,30.773278],[70.858069,30.773588],[70.858121,30.773851],[70.858149,30.773867],[70.858531,30.773803]]],"type":"Polygon"}
 }

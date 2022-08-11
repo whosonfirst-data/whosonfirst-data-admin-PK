@@ -26,7 +26,7 @@
     "lbl:bbox":"73.09019,33.52084,73.13019,33.56084",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
-    "mz:hierarchy_label":1,
+    "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
@@ -42,8 +42,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675741,
-        1108692213
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,15 +54,14 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
             "locality_id":1193037299,
             "region_id":85675741
         }
     ],
     "wof:id":1193037299,
-    "wof:lastmodified":1566589618,
+    "wof:lastmodified":1660244922,
     "wof:name":"Kund",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

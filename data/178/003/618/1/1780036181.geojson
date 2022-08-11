@@ -1,0 +1,76 @@
+{
+  "id": 1780036181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.9372,30.98228,70.9372,30.98228",
+    "geom:latitude":30.98228,
+    "geom:longitude":70.9372,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Lurkian",
+    "gn:country_code":"PK",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1354616,
+    "gn:latitude":30.98228,
+    "gn:longitude":70.9372,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Basti Lurkian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.9172,30.96228,70.9572,31.00228",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421178579,
+        1108692283,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1354616
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0f5e7d175bd58bebcc079784116c25b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692283,
+            "locality_id":421178579,
+            "neighbourhood_id":1780036181,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036181,
+    "wof:lastmodified":1660243548,
+    "wof:name":"Basti Lurkian",
+    "wof:parent_id":421178579,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327332919
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.9372,
+    30.98228,
+    70.9372,
+    30.98228
+],
+  "geometry": {"coordinates":[70.9372,30.98228],"type":"Point"}
+}

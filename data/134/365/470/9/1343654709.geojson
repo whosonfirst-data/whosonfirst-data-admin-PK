@@ -2,7 +2,7 @@
   "id": 1343654709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hoy\u0101t Magsi"
@@ -44,7 +44,7 @@
         "gn:id":1401182
     },
     "wof:country":"PK",
-    "wof:geomhash":"9c1e2f3e32fc2d76dc36195688323316",
+    "wof:geomhash":"d384f0e07cd313f107dfe52feaa46035",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +55,22 @@
         }
     ],
     "wof:id":1343654709,
-    "wof:lastmodified":1566583348,
+    "wof:lastmodified":1660243306,
     "wof:name":"Goth Hayat Khan Magsi",
     "wof:parent_id":1108692191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036327
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    69.57139000000001,
+    69.57139,
     28.02901,
-    69.57139000000001,
+    69.57139,
     28.02901
 ],
-  "geometry": {"coordinates":[69.57139000000001,28.02901],"type":"Point"}
+  "geometry": {"coordinates":[69.57138999999999,28.02901],"type":"Point"}
 }

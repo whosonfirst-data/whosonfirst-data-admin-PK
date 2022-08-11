@@ -1,0 +1,76 @@
+{
+  "id": 1780038439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.36093,33.7572,72.36093,33.7572",
+    "geom:latitude":33.7572,
+    "geom:longitude":72.36093,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Dhok Fateh",
+    "gn:country_code":"PK",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1340638,
+    "gn:latitude":33.7572,
+    "gn:longitude":72.36093,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Dhok Fateh",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.34093,33.7372,72.38093,33.7772",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421195861,
+        1108692119,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1340638
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5740a65e004eaa267a6f01e0d98c709c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":421195861,
+            "neighbourhood_id":1780038439,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038439,
+    "wof:lastmodified":1660244815,
+    "wof:name":"Dhok Fateh",
+    "wof:parent_id":421195861,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226341615
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.36093,
+    33.7572,
+    72.36093,
+    33.7572
+],
+  "geometry": {"coordinates":[72.36093,33.7572],"type":"Point"}
+}

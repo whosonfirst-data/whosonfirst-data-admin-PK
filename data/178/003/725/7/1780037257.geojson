@@ -1,0 +1,76 @@
+{
+  "id": 1780037257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.80583,25.78882,68.80583,25.78882",
+    "geom:latitude":25.78882,
+    "geom:longitude":68.80583,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Haji Ali Ahmad",
+    "gn:country_code":"PK",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7381880,
+    "gn:latitude":25.78882,
+    "gn:longitude":68.80583,
+    "gn:modification_date":"2017-11-09",
+    "gn:name":"Goth Haji Ali Ahmad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.78583,25.76882,68.82583,25.80882",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421176975,
+        1108692365,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7381880
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"089f45e264765a979ed3acb6c2d46b7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":421176975,
+            "neighbourhood_id":1780037257,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037257,
+    "wof:lastmodified":1660244158,
+    "wof:name":"Goth Haji Ali Ahmad",
+    "wof:parent_id":421176975,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209713907
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.80583,
+    25.78882,
+    68.80583,
+    25.78882
+],
+  "geometry": {"coordinates":[68.80583,25.78882],"type":"Point"}
+}

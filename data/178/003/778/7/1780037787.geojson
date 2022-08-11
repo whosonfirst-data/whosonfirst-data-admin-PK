@@ -1,0 +1,79 @@
+{
+  "id": 1780037787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.61429,32.99885,70.61429,32.99885",
+    "geom:latitude":32.99885,
+    "geom:longitude":70.61429,
+    "gn:admin1_code":"3.0",
+    "gn:asciiname":"Kot Dain",
+    "gn:country_code":"PK",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1335782,
+    "gn:latitude":32.99885,
+    "gn:longitude":70.61429,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Kot Dain",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.59429,32.97885,70.63429,33.01885",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kot D\u0101in"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421195435,
+        1108692137,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1335782
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5197b64becc8892affbc79b05ce8c5ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692137,
+            "locality_id":421195435,
+            "neighbourhood_id":1780037787,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037787,
+    "wof:lastmodified":1660244452,
+    "wof:name":"Kot Dain",
+    "wof:parent_id":421195435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1360292395
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.61429,
+    32.99885,
+    70.61429,
+    32.99885
+],
+  "geometry": {"coordinates":[70.61429,32.99885],"type":"Point"}
+}

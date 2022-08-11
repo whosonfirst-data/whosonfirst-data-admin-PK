@@ -1,0 +1,77 @@
+{
+  "id": 1780038005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.18643,33.59235,73.18643,33.59235",
+    "geom:latitude":33.59235,
+    "geom:longitude":73.18643,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pind Daiyan",
+    "gn:country_code":"PK",
+    "gn:dem":536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1168035,
+    "gn:latitude":33.59235,
+    "gn:longitude":73.18643,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Pind Daiyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.16643,33.57235,73.20643,33.61235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Pind Daia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1168035
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"0d41b81f0dabf6df96b74a23fa809e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780038005,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780038005,
+    "wof:lastmodified":1660244574,
+    "wof:name":"Pind Daiyan",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242662225
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.18643,
+    33.59235,
+    73.18643,
+    33.59235
+],
+  "geometry": {"coordinates":[73.18643,33.59235],"type":"Point"}
+}

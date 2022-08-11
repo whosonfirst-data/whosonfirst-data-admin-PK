@@ -2,7 +2,7 @@
   "id": 1292907731,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ism\u0101\u012bl Ch\u0101ng"
@@ -47,7 +47,7 @@
         "gn:id":1414176
     },
     "wof:country":"PK",
-    "wof:geomhash":"dec453dc65303231f069d38c4924f34a",
+    "wof:geomhash":"3e8c4f871f9a85bd62374051c8a1f375",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +58,22 @@
         }
     ],
     "wof:id":1292907731,
-    "wof:lastmodified":1566586057,
+    "wof:lastmodified":1660242757,
     "wof:name":"Ismal Chang",
     "wof:parent_id":1108692211,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780036843
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.38091999999999,
+    68.38092,
     25.43526,
-    68.38091999999999,
+    68.38092,
     25.43526
 ],
-  "geometry": {"coordinates":[68.38091999999999,25.43526],"type":"Point"}
+  "geometry": {"coordinates":[68.38092,25.43526],"type":"Point"}
 }

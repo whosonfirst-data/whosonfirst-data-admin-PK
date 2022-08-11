@@ -4,23 +4,22 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000021,
     "geom:area_square_m":0.0,
-    "geom:bbox":"74.3276,31.5764,74.3276,31.5764",
-    "geom:latitude":31.5764,
-    "geom:longitude":74.3276,
+    "geom:bbox":"74.323868,31.575251,74.33372,31.579022",
+    "geom:latitude":31.576868,
+    "geom:longitude":74.328179,
     "gn:country":"PK",
     "gn:fcode":"PPLX",
     "gn:latitude":31.5764,
     "gn:longitude":74.3276,
     "gn:population":0,
     "iso:country":"PK",
-    "lbl:bbox":"74.3226,31.5714,74.3326,31.5814",
-    "lbl:latitude":31.5764,
-    "lbl:longitude":74.3276,
+    "lbl:latitude":31.577043,
+    "lbl:longitude":74.327843,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "name:eng_x_preferred":[
@@ -28,6 +27,9 @@
     ],
     "name:eng_x_variant":[
         "R\u0101mgali"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645 \u06af\u0644\u06cc"
     ],
     "qs_pg:aaroncc":"PK",
     "qs_pg:gn_country":"PK",
@@ -49,17 +51,23 @@
     "qs_pg:qs_pg_placetype_gp":"Suburb",
     "qs_pg:woe_adm0":23424922,
     "qs_pg:woe_id":2206402,
-    "src:geom":"qs_pg",
-    "src:lbl_centroid":"qs_pg",
+    "reversegeo:latitude":31.577043,
+    "reversegeo:longitude":74.327843,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "qs_pg"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "woe:adm0_id":23424922,
     "woe:name_adm0":"Pakistan",
     "woe:name_adm1":"Punjab",
     "woe:placetype":"Suburb",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692273
+        421204525,
+        1108692273,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -69,21 +77,21 @@
     },
     "wof:country":"PK",
     "wof:created":1497316814,
-    "wof:geomhash":"d2ae842e481b358d23aa618f61cbf783",
+    "wof:geomhash":"09af87e0b93af02cd7e0312ca901f669",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692273,
-            "locality_id":-1,
+            "locality_id":421204525,
             "neighbourhood_id":1126105271,
             "region_id":85675753
         }
     ],
     "wof:id":1126105271,
-    "wof:lastmodified":1566591803,
+    "wof:lastmodified":1660241729,
     "wof:name":"Ramgali",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
@@ -93,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    74.3276,
-    31.5764,
-    74.3276,
-    31.5764
+    74.323868,
+    31.575251,
+    74.33372,
+    31.579022
 ],
-  "geometry": {"coordinates":[74.3276,31.5764],"type":"Point"}
+  "geometry": {"coordinates":[[[74.323868,31.576363],[74.324161,31.577532],[74.324343,31.577994],[74.32452499999999,31.578308],[74.324805,31.57856],[74.32530300000001,31.579022],[74.32573600000001,31.579022],[74.326128,31.578994],[74.32653999999999,31.578938],[74.326904,31.578819],[74.32691800000001,31.578707],[74.32752000000001,31.578511],[74.32814999999999,31.57828],[74.32922000000001,31.577805],[74.32987799999999,31.577588],[74.329899,31.577469],[74.330241,31.57735],[74.331025,31.577021],[74.331417,31.576846],[74.33183699999999,31.576671],[74.332438,31.576482],[74.333145,31.576328],[74.33372,31.576244],[74.33348100000001,31.575615],[74.333187,31.575258],[74.33262000000001,31.575293],[74.33083600000001,31.575251],[74.33013699999999,31.575265],[74.32961899999999,31.575342],[74.32881399999999,31.575524],[74.328636,31.575555],[74.32568000000001,31.57607],[74.323868,31.576363]]],"type":"Polygon"}
 }

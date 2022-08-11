@@ -41,6 +41,9 @@
     "name:cym_x_preferred":[
         "Dir"
     ],
+    "name:eng_x_preferred":[
+        "Dir"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0631"
     ],
@@ -56,11 +59,14 @@
     "name:und_x_variant":[
         "Dherr"
     ],
+    "name:urd_x_preferred":[
+        "\u062f\u06cc\u0631"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675749,
+        1360701001,
         1108692389
     ],
     "wof:breaches":[],
@@ -68,18 +74,18 @@
         "gn:id":1426179
     },
     "wof:country":"PK",
-    "wof:geomhash":"6395c407674161b0bdf3eb1f6e311f17",
+    "wof:geomhash":"073b897436361e08bb961162f25f39b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692389,
             "locality_id":1259993077,
-            "region_id":85675749
+            "region_id":1360701001
         }
     ],
     "wof:id":1259993077,
-    "wof:lastmodified":1566593380,
+    "wof:lastmodified":1660238795,
     "wof:name":"Dir",
     "wof:parent_id":1108692389,
     "wof:placetype":"locality",
@@ -90,9 +96,9 @@
 },
   "bbox": [
     69.8903,
-    32.53149000000001,
+    32.53149,
     69.8903,
-    32.53149000000001
+    32.53149
 ],
-  "geometry": {"coordinates":[69.8903,32.53149000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.8903,32.53149],"type":"Point"}
 }

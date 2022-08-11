@@ -47,6 +47,9 @@
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03b1\u03c4\u03bf\u03cd"
     ],
+    "name:eng_x_preferred":[
+        "Dadu"
+    ],
     "name:fra_x_preferred":[
         "Dadu"
     ],
@@ -82,7 +85,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692163
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,14 +98,17 @@
     "wof:geomhash":"50e9d15cc09ced6fba703ebe4dc912bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209220171
+            "county_id":1108692163,
+            "locality_id":1209220171,
+            "region_id":85675753
         }
     ],
     "wof:id":1209220171,
-    "wof:lastmodified":1636501998,
+    "wof:lastmodified":1660238210,
     "wof:name":"Dadu",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -1,0 +1,60 @@
+{
+  "id": 1780026935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000252,
+    "geom:bbox":"72.93487,33.692062,72.961164,33.709479",
+    "geom:latitude":33.701744,
+    "geom:longitude":72.948267,
+    "iso:country":"PK",
+    "lbl:latitude":33.701612,
+    "lbl:longitude":72.948068,
+    "mps:latitude":33.701612,
+    "mps:longitude":72.948068,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Sector D-12"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u06a9\u0679\u0631 D-12"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"a3eb36bf03e598ff353ca6a4ad23dd08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780026935,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780026935,
+    "wof:lastmodified":1660241124,
+    "wof:name":"Sector D-12",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.93487,
+    33.692062,
+    72.961164,
+    33.709479
+],
+  "geometry": {"coordinates":[[[72.954671,33.709479],[72.956643,33.706726],[72.961164,33.700714],[72.944833,33.692062],[72.94203400000001,33.69598],[72.93487,33.705495],[72.942482,33.707006],[72.952501,33.709245],[72.95334099999999,33.709189],[72.95423599999999,33.709189],[72.954671,33.709479]]],"type":"Polygon"}
+}

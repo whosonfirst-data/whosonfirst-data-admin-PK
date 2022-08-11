@@ -4,33 +4,48 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.00002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"62.42348,25.89658,62.42348,25.89658",
-    "geom:latitude":25.89658,
-    "geom:longitude":62.42348,
+    "geom:bbox":"62.421026,25.894978,62.42608,25.900629",
+    "geom:latitude":25.898039,
+    "geom:longitude":62.423526,
     "gn:country":"PK",
     "gn:fcode":"PPL",
     "gn:population":160,
     "iso:country":"PK",
-    "lbl:bbox":"62.40348,25.87658,62.44348,25.91658",
+    "lbl:latitude":25.898096,
+    "lbl:longitude":62.423574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Hot Chat Sarri"
+    ],
     "name:und_x_variant":[
         "Hot Ch\u0101t"
+    ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0627\u0679 \u0686\u0627\u0679 \u0633\u0627\u0631\u06cc"
     ],
     "qs:name":"Hot Chat Sarri",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"1",
+    "reversegeo:latitude":25.898096,
+    "reversegeo:longitude":62.423574,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -40,19 +55,20 @@
     },
     "wof:country":"PK",
     "wof:created":1469051317,
-    "wof:geomhash":"6747daef489d42fe59cc644f5a8005f6",
+    "wof:geomhash":"78d0c6e7573a5272cb7b398476a3d286",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692241,
             "locality_id":890420095,
             "region_id":85675733
         }
     ],
     "wof:id":890420095,
-    "wof:lastmodified":1566591800,
+    "wof:lastmodified":1660241801,
     "wof:name":"Hot Chat Sarri",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692241,
     "wof:placetype":"locality",
     "wof:population":160,
     "wof:population_rank":1,
@@ -62,10 +78,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    62.42348,
-    25.89658,
-    62.42348,
-    25.89658
+    62.421026,
+    25.894978,
+    62.42608,
+    25.900629
 ],
-  "geometry": {"coordinates":[62.42348,25.89658],"type":"Point"}
+  "geometry": {"coordinates":[[[62.42138,25.897935],[62.421181,25.898528],[62.421093,25.898802],[62.421093,25.899169],[62.421026,25.899829],[62.421559,25.899969],[62.422486,25.900168],[62.423099,25.900287],[62.424058,25.900522],[62.424675,25.900629],[62.424942,25.900442],[62.42534,25.900068],[62.425813,25.899499],[62.42608,25.899053],[62.426036,25.89842],[62.425997,25.898118],[62.425841,25.897923],[62.425825,25.897386],[62.425762,25.896828],[62.425626,25.896637],[62.425332,25.896434],[62.424747,25.89612],[62.424281,25.895881],[62.423983,25.895646],[62.423418,25.895443],[62.422992,25.895272],[62.422797,25.895073],[62.422506,25.894978],[62.422307,25.89499],[62.422152,25.895145],[62.422021,25.895571],[62.421921,25.895877],[62.421857,25.89608],[62.421662,25.896287],[62.421543,25.896351],[62.421499,25.896792],[62.421507,25.897143],[62.421463,25.897652],[62.42138,25.897935]]],"type":"Polygon"}
 }

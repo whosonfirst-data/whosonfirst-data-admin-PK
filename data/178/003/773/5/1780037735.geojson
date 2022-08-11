@@ -1,0 +1,77 @@
+{
+  "id": 1780037735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.26047,31.90205,73.26047,31.90205",
+    "geom:latitude":31.90205,
+    "geom:longitude":73.26047,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Ghullah",
+    "gn:country_code":"PK",
+    "gn:dem":191,
+    "gn:elevation":"90.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLF",
+    "gn:geonameid":8436580,
+    "gn:latitude":31.90205,
+    "gn:longitude":73.26047,
+    "gn:modification_date":"2013-01-03",
+    "gn:name":"Chak Ghullah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.24047,31.88205,73.28047,31.92205",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890430247,
+        1108692201,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8436580
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5a88c7f85c9b86055b2e79e3d1918caf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692201,
+            "locality_id":890430247,
+            "neighbourhood_id":1780037735,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037735,
+    "wof:lastmodified":1660244423,
+    "wof:name":"Chak Ghullah",
+    "wof:parent_id":890430247,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310600819
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.26047,
+    31.90205,
+    73.26047,
+    31.90205
+],
+  "geometry": {"coordinates":[73.26047,31.90205],"type":"Point"}
+}

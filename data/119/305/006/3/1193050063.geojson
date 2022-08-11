@@ -104,6 +104,9 @@
     "name:ell_x_preferred":[
         "\u03a7\u03b1\u03ca\u03bd\u03c4\u03b5\u03c1\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
+    "name:eng_x_preferred":[
+        "Hyderabad"
+    ],
     "name:epo_x_preferred":[
         "Hajderabado"
     ],
@@ -361,7 +364,7 @@
         "gn:id":1177364
     },
     "wof:country":"PK",
-    "wof:geomhash":"08378832b02ed0c069cd0ea21443f8ea",
+    "wof:geomhash":"a6568cac25ea57dd06a5e56b200c6f3c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -372,7 +375,7 @@
         }
     ],
     "wof:id":1193050063,
-    "wof:lastmodified":1566589627,
+    "wof:lastmodified":1660238142,
     "wof:name":"Hyderabad",
     "wof:parent_id":1108692143,
     "wof:placetype":"locality",
@@ -383,9 +386,9 @@
 },
   "bbox": [
     71.69621,
-    31.34602000000001,
+    31.34602,
     71.69621,
-    31.34602000000001
+    31.34602
 ],
-  "geometry": {"coordinates":[71.69620999999999,31.34602000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.69620999999999,31.34602],"type":"Point"}
 }

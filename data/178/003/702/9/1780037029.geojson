@@ -1,0 +1,76 @@
+{
+  "id": 1780037029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.99583,31.70139,72.99583,31.70139",
+    "geom:latitude":31.70139,
+    "geom:longitude":72.99583,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kot Amir Shah",
+    "gn:country_code":"PK",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382404,
+    "gn:latitude":31.70139,
+    "gn:longitude":72.99583,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kot Amir Shah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.97583,31.68139,73.01583,31.72139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421199707,
+        1108692155,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382404
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"04aa77a3edbd259623f5b5e51382a85c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692155,
+            "locality_id":421199707,
+            "neighbourhood_id":1780037029,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037029,
+    "wof:lastmodified":1660244030,
+    "wof:name":"Kot Amir Shah",
+    "wof:parent_id":421199707,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276252189
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.99583,
+    31.70139,
+    72.99583,
+    31.70139
+],
+  "geometry": {"coordinates":[72.99583,31.70139],"type":"Point"}
+}

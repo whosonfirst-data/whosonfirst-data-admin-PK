@@ -32,6 +32,9 @@
     "name:aze_x_preferred":[
         "\u015e\u0259rifabad"
     ],
+    "name:eng_x_preferred":[
+        "Sharifabad"
+    ],
     "name:fas_x_preferred":[
         "\u0634\u0631\u06cc\u0641\u200c\u0622\u0628\u0627\u062f"
     ],
@@ -41,9 +44,15 @@
     "name:und_x_variant":[
         "H\u0101ji\u0101n ki Dhok"
     ],
+    "name:urd_x_preferred":[
+        "\u0634\u0631\u0641 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +62,17 @@
     "wof:geomhash":"089e3b63c0d91be781ff2a34a5679efc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209105751
+            "county_id":1108692361,
+            "locality_id":1209105751,
+            "region_id":85675753
         }
     ],
     "wof:id":1209105751,
-    "wof:lastmodified":1566589230,
+    "wof:lastmodified":1660238192,
     "wof:name":"Sharifabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692361,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

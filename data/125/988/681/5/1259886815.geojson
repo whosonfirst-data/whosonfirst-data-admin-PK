@@ -32,6 +32,9 @@
     "name:ceb_x_preferred":[
         "Nasirabad"
     ],
+    "name:eng_x_preferred":[
+        "Nasirabad"
+    ],
     "name:fas_x_preferred":[
         "\u0646\u0635\u06cc\u0631\u0622\u0628\u0627\u062f"
     ],
@@ -41,11 +44,14 @@
     "name:swe_x_preferred":[
         "Nasirabad"
     ],
+    "name:urd_x_preferred":[
+        "\u0646\u0635\u06cc\u0631\u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692145
     ],
     "wof:breaches":[],
@@ -60,11 +66,11 @@
             "country_id":85632659,
             "county_id":1108692145,
             "locality_id":1259886815,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1259886815,
-    "wof:lastmodified":1566593978,
+    "wof:lastmodified":1660238767,
     "wof:name":"Nasirabad",
     "wof:parent_id":1108692145,
     "wof:placetype":"locality",

@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wahidabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0648\u062d\u06cc\u062f \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":11545908
     },
     "wof:country":"PK",
-    "wof:geomhash":"3d46cb120d490a3d597436702c618863",
+    "wof:geomhash":"3b2c32ee0fd9b39328436493ffc1bcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1259984035,
-    "wof:lastmodified":1566593280,
+    "wof:lastmodified":1660238788,
     "wof:name":"Wahidabad",
     "wof:parent_id":1108692379,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    68.60453000000001,
+    68.60453,
     28.05224,
-    68.60453000000001,
+    68.60453,
     28.05224
 ],
-  "geometry": {"coordinates":[68.60453000000001,28.05224],"type":"Point"}
+  "geometry": {"coordinates":[68.60453,28.05224],"type":"Point"}
 }

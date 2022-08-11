@@ -29,11 +29,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Mehar"
+    ],
     "name:hin_x_preferred":[
         "\u092e\u0947\u0939\u0930"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u06be\u0631"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06c1\u0631"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -47,7 +53,7 @@
         "gn:id":10986054
     },
     "wof:country":"PK",
-    "wof:geomhash":"f5539813ad6bece4f8279ed74c7b7677",
+    "wof:geomhash":"aba02bf368860112509559b09ce4209e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1242973043,
-    "wof:lastmodified":1566592824,
+    "wof:lastmodified":1660238602,
     "wof:name":"Mehar",
     "wof:parent_id":1108692241,
     "wof:placetype":"locality",
@@ -68,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    61.95863000000001,
+    61.95863,
     26.0983,
-    61.95863000000001,
+    61.95863,
     26.0983
 ],
-  "geometry": {"coordinates":[61.95863000000001,26.0983],"type":"Point"}
+  "geometry": {"coordinates":[61.95863,26.0983],"type":"Point"}
 }

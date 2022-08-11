@@ -1,0 +1,79 @@
+{
+  "id": 1780037057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.19915,34.15014,73.19915,34.15014",
+    "geom:latitude":34.15014,
+    "geom:longitude":73.19915,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Malikpura",
+    "gn:country_code":"PK",
+    "gn:dem":1317,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1416307,
+    "gn:latitude":34.15014,
+    "gn:longitude":73.19915,
+    "gn:modification_date":"2017-01-05",
+    "gn:name":"Malikpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.17915,34.13014,73.21915,34.17014",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Malakpura"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1141906435,
+        1108692115,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1416307
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b16f7e22544805dba1379c9cc902a401",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692115,
+            "locality_id":1141906435,
+            "neighbourhood_id":1780037057,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037057,
+    "wof:lastmodified":1660244045,
+    "wof:name":"Malikpura",
+    "wof:parent_id":1141906435,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276763603
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.19915,
+    34.15014,
+    73.19915,
+    34.15014
+],
+  "geometry": {"coordinates":[73.19915,34.15014],"type":"Point"}
+}

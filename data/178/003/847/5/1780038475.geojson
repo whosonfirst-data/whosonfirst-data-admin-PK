@@ -1,0 +1,76 @@
+{
+  "id": 1780038475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.72462,32.94978,73.72462,32.94978",
+    "geom:latitude":32.94978,
+    "geom:longitude":73.72462,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Dhok Pira Ghaib",
+    "gn:country_code":"PK",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371356,
+    "gn:latitude":32.94978,
+    "gn:longitude":73.72462,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Dhok Pira Ghaib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.70462,32.92978,73.74462,32.96978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421180063,
+        1108692227,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371356
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"9b4f417c50d4ed4cd02f849dafcbfc59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":421180063,
+            "neighbourhood_id":1780038475,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038475,
+    "wof:lastmodified":1660244836,
+    "wof:name":"Dhok Pira Ghaib",
+    "wof:parent_id":421180063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226669239
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.72462,
+    32.94978,
+    73.72462,
+    32.94978
+],
+  "geometry": {"coordinates":[73.72462,32.94978],"type":"Point"}
+}

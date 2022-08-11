@@ -1,0 +1,78 @@
+{
+  "id": 1780038543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.21152,33.60796,73.21152,33.60796",
+    "geom:latitude":33.60796,
+    "geom:longitude":73.21152,
+    "gn:admin1_code":"8.0",
+    "gn:asciiname":"Darwala",
+    "gn:country_code":"PK",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1180473,
+    "gn:latitude":33.60796,
+    "gn:longitude":73.21152,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Darwala",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.19152,33.58796,73.23152,33.62796",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Derwala",
+        "Darwala"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1180473
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"6c5aedbf150995f019d81d44b2408d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780038543,
+            "region_id":85675741
+        }
+    ],
+    "wof:id":1780038543,
+    "wof:lastmodified":1660244873,
+    "wof:name":"Darwala",
+    "wof:parent_id":421168811,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226127165
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.21152,
+    33.60796,
+    73.21152,
+    33.60796
+],
+  "geometry": {"coordinates":[73.21151999999999,33.60796],"type":"Point"}
+}

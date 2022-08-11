@@ -2,7 +2,7 @@
   "id": 1310337455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "R\u0101i Chand",
@@ -46,7 +46,7 @@
         "gn:id":1389232
     },
     "wof:country":"PK",
-    "wof:geomhash":"823d41127ddff4371e864a655cde4415",
+    "wof:geomhash":"164933e7a3490ce07126a4dafb176472",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +57,22 @@
         }
     ],
     "wof:id":1310337455,
-    "wof:lastmodified":1566590945,
+    "wof:lastmodified":1660243007,
     "wof:name":"Ghafurabad",
     "wof:parent_id":1108692155,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.00036999999998,
+    73.00037,
     31.72001,
-    73.00036999999998,
+    73.00037,
     31.72001
 ],
-  "geometry": {"coordinates":[73.00036999999998,31.72001],"type":"Point"}
+  "geometry": {"coordinates":[73.00037,31.72001],"type":"Point"}
 }

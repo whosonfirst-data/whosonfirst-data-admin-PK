@@ -1,0 +1,79 @@
+{
+  "id": 1780037635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.7676,32.89933,73.7676,32.89933",
+    "geom:latitude":32.89933,
+    "geom:longitude":73.7676,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Rajor",
+    "gn:country_code":"PK",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1167375,
+    "gn:latitude":32.89933,
+    "gn:longitude":73.7676,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Rajor",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.7476,32.87933,73.7876,32.91933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Rajar"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1125865697,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1167375
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"58956130bb5f75641293582dc3194cf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1125865697,
+            "neighbourhood_id":1780037635,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037635,
+    "wof:lastmodified":1660244368,
+    "wof:name":"Rajor",
+    "wof:parent_id":1125865697,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310011493
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.7676,
+    32.89933,
+    73.7676,
+    32.89933
+],
+  "geometry": {"coordinates":[73.7676,32.89933],"type":"Point"}
+}

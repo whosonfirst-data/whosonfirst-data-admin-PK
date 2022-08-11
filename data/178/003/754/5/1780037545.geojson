@@ -1,0 +1,76 @@
+{
+  "id": 1780037545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50856,30.15208,71.50856,30.15208",
+    "geom:latitude":30.15208,
+    "geom:longitude":71.50856,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Basti Ghazipura",
+    "gn:country_code":"PK",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11180887,
+    "gn:latitude":30.15208,
+    "gn:longitude":71.50856,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Basti Ghazipura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.48856,30.13208,71.52856,30.17208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11180887
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"96ecab6b286052663e952008078df035",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780037545,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037545,
+    "wof:lastmodified":1660244316,
+    "wof:name":"Basti Ghazipura",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260283503
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50856,
+    30.15208,
+    71.50856,
+    30.15208
+],
+  "geometry": {"coordinates":[71.50856,30.15208],"type":"Point"}
+}

@@ -2,7 +2,7 @@
   "id": 1310098375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +41,7 @@
         "gn:id":11591029
     },
     "wof:country":"PK",
-    "wof:geomhash":"509b3661a483a123a2c708731ff355c9",
+    "wof:geomhash":"1c796ecdce4a5fb2d95a77f8f9ffcc13",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +52,22 @@
         }
     ],
     "wof:id":1310098375,
-    "wof:lastmodified":1566590454,
+    "wof:lastmodified":1660242978,
     "wof:name":"Khuda ki Basti",
     "wof:parent_id":1108692365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780037603
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    68.66129000000001,
+    68.66129,
     25.74691,
-    68.66129000000001,
+    68.66129,
     25.74691
 ],
-  "geometry": {"coordinates":[68.66129000000001,25.74691],"type":"Point"}
+  "geometry": {"coordinates":[68.66128999999999,25.74691],"type":"Point"}
 }

@@ -2,7 +2,7 @@
   "id": 1226540759,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kamar",
@@ -38,7 +38,7 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692115
     ],
     "wof:breaches":[],
@@ -53,16 +53,18 @@
             "country_id":85632659,
             "county_id":1108692115,
             "locality_id":1226540759,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1226540759,
-    "wof:lastmodified":1566595062,
+    "wof:lastmodified":1660242244,
     "wof:name":"Kumharan Kalan",
     "wof:parent_id":1108692115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038569
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

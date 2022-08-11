@@ -1,0 +1,76 @@
+{
+  "id": 1780037663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.9652,32.71145,73.9652,32.71145",
+    "geom:latitude":32.71145,
+    "geom:longitude":73.9652,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Darbari Mahalla",
+    "gn:country_code":"PK",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11449561,
+    "gn:latitude":32.71145,
+    "gn:longitude":73.9652,
+    "gn:modification_date":"2018-05-12",
+    "gn:name":"Darbari Mahalla",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.9452,32.69145,73.9852,32.73145",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1125902953,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11449561
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d172867b5721b455b78e3936209b6efb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1125902953,
+            "neighbourhood_id":1780037663,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037663,
+    "wof:lastmodified":1660244385,
+    "wof:name":"Darbari Mahalla",
+    "wof:parent_id":1125902953,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310105249
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.9652,
+    32.71145,
+    73.9652,
+    32.71145
+],
+  "geometry": {"coordinates":[73.9652,32.71145],"type":"Point"}
+}

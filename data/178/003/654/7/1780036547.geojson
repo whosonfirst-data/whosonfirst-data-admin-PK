@@ -1,0 +1,80 @@
+{
+  "id": 1780036547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.68445,32.9062,73.68445,32.9062",
+    "geom:latitude":32.9062,
+    "geom:longitude":73.68445,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bagga",
+    "gn:country_code":"PK",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1184003,
+    "gn:latitude":32.9062,
+    "gn:longitude":73.68445,
+    "gn:modification_date":"2017-02-03",
+    "gn:name":"Bagga",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.66445,32.8862,73.70445,32.9262",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Baggah",
+        "Bagga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421180063,
+        1108692227,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1184003
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e7cb778b5cd3ee09f2ffd57b1344e36f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692227,
+            "locality_id":421180063,
+            "neighbourhood_id":1780036547,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036547,
+    "wof:lastmodified":1660243759,
+    "wof:name":"Bagga",
+    "wof:parent_id":421180063,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344262643
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.68445,
+    32.9062,
+    73.68445,
+    32.9062
+],
+  "geometry": {"coordinates":[73.68445,32.9062],"type":"Point"}
+}

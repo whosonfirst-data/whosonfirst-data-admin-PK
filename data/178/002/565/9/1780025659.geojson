@@ -1,0 +1,62 @@
+{
+  "id": 1780025659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000004,
+    "geom:bbox":"67.060519,24.877963,67.063359,24.881222",
+    "geom:latitude":24.879659,
+    "geom:longitude":67.061928,
+    "iso:country":"PK",
+    "lbl:latitude":24.879658,
+    "lbl:longitude":67.061928,
+    "mps:latitude":24.879658,
+    "mps:longitude":67.061928,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Maniya"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u0627\u0646\u06cc\u0627"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"4e59ba648b7ad48c4c1dc0c1f9ee9337",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025659,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025659,
+    "wof:lastmodified":1660240385,
+    "wof:name":"Maniya",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.060519,
+    24.877963,
+    67.063359,
+    24.881222
+],
+  "geometry": {"coordinates":[[[67.060519,24.879136],[67.060981,24.879381],[67.061403,24.879862],[67.06209699999999,24.880812],[67.062403,24.881222],[67.06335900000001,24.880602],[67.062839,24.879931],[67.06199599999999,24.878821],[67.061323,24.877963],[67.061077,24.878335],[67.060519,24.879136]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780036595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.65308,25.78051,68.65308,25.78051",
+    "geom:latitude":25.78051,
+    "geom:longitude":68.65308,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Muhammad Sharif",
+    "gn:country_code":"PK",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11372241,
+    "gn:latitude":25.78051,
+    "gn:longitude":68.65308,
+    "gn:modification_date":"2016-12-06",
+    "gn:name":"Goth Muhammad Sharif",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.63308,25.76051,68.67308,25.80051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421184863,
+        1108692365,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11372241
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"5babab676d22cdf0747d3be07348d29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692365,
+            "locality_id":421184863,
+            "neighbourhood_id":1780036595,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036595,
+    "wof:lastmodified":1660243786,
+    "wof:name":"Goth Muhammad Sharif",
+    "wof:parent_id":421184863,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1343453897
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.65308,
+    25.78051,
+    68.65308,
+    25.78051
+],
+  "geometry": {"coordinates":[68.65308,25.78051],"type":"Point"}
+}

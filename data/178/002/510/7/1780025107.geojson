@@ -1,0 +1,62 @@
+{
+  "id": 1780025107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000003,
+    "geom:bbox":"67.038717,24.882625,67.041065,24.885517",
+    "geom:latitude":24.884174,
+    "geom:longitude":67.039901,
+    "iso:country":"PK",
+    "lbl:latitude":24.884096,
+    "lbl:longitude":67.039785,
+    "mps:latitude":24.884096,
+    "mps:longitude":67.039785,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Jiwani Apartments"
+    ],
+    "name:urd_x_preferred":[
+        "\u062c\u06cc\u0648\u0627\u0646\u06cc \u0627\u067e\u0627\u0631\u0679\u0645\u0646\u0679\u0633"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"a1fdfe3336ef6d1a92a85592db269802",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025107,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780025107,
+    "wof:lastmodified":1660240065,
+    "wof:name":"Jiwani Apartments",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.038717,
+    24.882625,
+    67.041065,
+    24.885517
+],
+  "geometry": {"coordinates":[[[67.038729,24.884324],[67.039186,24.884604],[67.03977999999999,24.884933],[67.040451,24.885275],[67.04089,24.885511],[67.041065,24.885517],[67.040843,24.88493],[67.040401,24.883757],[67.039962,24.882625],[67.039509,24.883149],[67.03871700000001,24.884217],[67.038729,24.884324]]],"type":"Polygon"}
+}

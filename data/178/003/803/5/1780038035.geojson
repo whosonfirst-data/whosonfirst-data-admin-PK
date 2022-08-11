@@ -1,0 +1,76 @@
+{
+  "id": 1780038035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.84165,24.6452,68.84165,24.6452",
+    "geom:latitude":24.6452,
+    "geom:longitude":68.84165,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Abdul Jabar Gopang",
+    "gn:country_code":"PK",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11376022,
+    "gn:latitude":24.6452,
+    "gn:longitude":68.84165,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Abdul Jabar Gopang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.82165,24.6252,68.86165,24.6652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421176971,
+        1108692123,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11376022
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"f3a48a987821d17133bcf56a16727fbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692123,
+            "locality_id":421176971,
+            "neighbourhood_id":1780038035,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780038035,
+    "wof:lastmodified":1660244590,
+    "wof:name":"Abdul Jabar Gopang",
+    "wof:parent_id":421176971,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243256371
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.84165,
+    24.6452,
+    68.84165,
+    24.6452
+],
+  "geometry": {"coordinates":[68.84165,24.6452],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780038165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.27361,32.15556,71.27361,32.15556",
+    "geom:latitude":32.15556,
+    "geom:longitude":71.27361,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Sawia",
+    "gn:country_code":"PK",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1405259,
+    "gn:latitude":32.15556,
+    "gn:longitude":71.27361,
+    "gn:modification_date":"2001-11-14",
+    "gn:name":"Sawia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.25361,32.13556,71.29361,32.17556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890421851,
+        1108692143,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1405259
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"81144253a25db6a154b90c1792fda8cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692143,
+            "locality_id":890421851,
+            "neighbourhood_id":1780038165,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038165,
+    "wof:lastmodified":1660244666,
+    "wof:name":"Sawia",
+    "wof:parent_id":890421851,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243269325
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.27361,
+    32.15556,
+    71.27361,
+    32.15556
+],
+  "geometry": {"coordinates":[71.27361000000001,32.15556],"type":"Point"}
+}

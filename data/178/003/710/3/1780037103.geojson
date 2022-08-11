@@ -1,0 +1,76 @@
+{
+  "id": 1780037103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.43787,30.16696,71.43787,30.16696",
+    "geom:latitude":30.16696,
+    "geom:longitude":71.43787,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Faruqpura",
+    "gn:country_code":"PK",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1465404,
+    "gn:latitude":30.16696,
+    "gn:longitude":71.43787,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Faruqpura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.41787,30.14696,71.45787,30.18696",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1465404
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"bb178bbd2627e8b08ea4a76004fa3d46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780037103,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037103,
+    "wof:lastmodified":1660244069,
+    "wof:name":"Faruqpura",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1276552975
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.43787,
+    30.16696,
+    71.43787,
+    30.16696
+],
+  "geometry": {"coordinates":[71.43787,30.16696],"type":"Point"}
+}

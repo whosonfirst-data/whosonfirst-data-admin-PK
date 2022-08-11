@@ -1,0 +1,79 @@
+{
+  "id": 1780037971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.72671,27.08462,67.72671,27.08462",
+    "geom:latitude":27.08462,
+    "geom:longitude":67.72671,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Rawar Khan",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1350450,
+    "gn:latitude":27.08462,
+    "gn:longitude":67.72671,
+    "gn:modification_date":"2018-02-07",
+    "gn:name":"Rawar Khan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"67.70671,27.06462,67.74671,27.10462",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "R\u0101wat Kh\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890441755,
+        1108692159,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1350450
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"dd7489366c0053746fefa327a8ea39a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692159,
+            "locality_id":890441755,
+            "neighbourhood_id":1780037971,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780037971,
+    "wof:lastmodified":1660244556,
+    "wof:name":"Rawar Khan",
+    "wof:parent_id":890441755,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1242872321
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.72671,
+    27.08462,
+    67.72671,
+    27.08462
+],
+  "geometry": {"coordinates":[67.72671,27.08462],"type":"Point"}
+}

@@ -38,6 +38,9 @@
     "name:ces_x_preferred":[
         "Chanp\u00far"
     ],
+    "name:eng_x_preferred":[
+        "Khanpur"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u0627\u0646\u067e\u0648\u0631"
     ],
@@ -81,6 +84,9 @@
         "Kh\u0101npur Malot"
     ],
     "name:urd_x_preferred":[
+        "\u062e\u0627\u0646\u067e\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u062e\u0627\u0646 \u067e\u0648\u0631"
     ],
     "name:war_x_preferred":[
@@ -98,7 +104,7 @@
         "gn:id":7101278
     },
     "wof:country":"PK",
-    "wof:geomhash":"930614212f2b56260b06ab7c72c32ab6",
+    "wof:geomhash":"3a55b8ab9af2a4a86f6611aa166b5380",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -109,7 +115,7 @@
         }
     ],
     "wof:id":1344151869,
-    "wof:lastmodified":1566583601,
+    "wof:lastmodified":1660239674,
     "wof:name":"Khanpur",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",
@@ -119,10 +125,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.50863000000003,
+    73.50863,
     33.24886,
-    73.50863000000003,
+    73.50863,
     33.24886
 ],
-  "geometry": {"coordinates":[73.50863000000003,33.24886],"type":"Point"}
+  "geometry": {"coordinates":[73.50863,33.24886],"type":"Point"}
 }

@@ -1,0 +1,76 @@
+{
+  "id": 1780038127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.08333,30.7,73.08333,30.7",
+    "geom:latitude":30.7,
+    "geom:longitude":73.08333,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Gurmukh Singhwala",
+    "gn:country_code":"PK",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1177472,
+    "gn:latitude":30.7,
+    "gn:longitude":73.08333,
+    "gn:modification_date":"1996-05-08",
+    "gn:name":"Gurmukh Singhw\u0101la",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.06333,30.68,73.10333,30.72",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443583,
+        1108692363,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1177472
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"fb0a6d888b09daf107e37e424dd235d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692363,
+            "locality_id":890443583,
+            "neighbourhood_id":1780038127,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038127,
+    "wof:lastmodified":1660244644,
+    "wof:name":"Gurmukh Singhwala",
+    "wof:parent_id":890443583,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243171675
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.08333,
+    30.7,
+    73.08333,
+    30.7
+],
+  "geometry": {"coordinates":[73.08333,30.7],"type":"Point"}
+}

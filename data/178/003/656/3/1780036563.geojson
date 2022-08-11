@@ -1,0 +1,85 @@
+{
+  "id": 1780036563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.97204,31.34717,72.97204,31.34717",
+    "geom:latitude":31.34717,
+    "geom:longitude":72.97204,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Jalali",
+    "gn:country_code":"PK",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1382460,
+    "gn:latitude":31.34717,
+    "gn:longitude":72.97204,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Jalali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.95204,31.32717,72.99204,31.36717",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Jalali"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0644\u0627\u0644\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u0436\u0430\u043b\u0430\u043b\u0438"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421181503,
+        1108692169,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1382460
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"312191d42a0d98ec3179548521f9bc69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":421181503,
+            "neighbourhood_id":1780036563,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036563,
+    "wof:lastmodified":1660243768,
+    "wof:name":"Jalali",
+    "wof:parent_id":421181503,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1344180329
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.97204,
+    31.34717,
+    72.97204,
+    31.34717
+],
+  "geometry": {"coordinates":[72.97204000000001,31.34717],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1780026013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000023,
+    "geom:bbox":"67.104081,24.973602,67.110154,24.980429",
+    "geom:latitude":24.977075,
+    "geom:longitude":67.106725,
+    "iso:country":"PK",
+    "lbl:latitude":24.977281,
+    "lbl:longitude":67.106679,
+    "mps:latitude":24.977281,
+    "mps:longitude":67.106679,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Central Government Employees CHS"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679\u0631\u0644 \u06af\u0648\u0631\u0646\u0645\u0646\u0679 \u0627\u06cc\u0645\u067e\u0644\u0627\u0626\u06cc\u0632 CHS"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"cbc3340540ddd81f82bf2456600d631c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026013,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026013,
+    "wof:lastmodified":1660240589,
+    "wof:name":"Central Government Employees CHS",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.104081,
+    24.973602,
+    67.110154,
+    24.980429
+],
+  "geometry": {"coordinates":[[[67.10673300000001,24.980429],[67.107884,24.97955],[67.11015399999999,24.977751],[67.109539,24.977095],[67.10723299999999,24.974774],[67.106402,24.973895],[67.105135,24.973602],[67.104331,24.97675],[67.10408099999999,24.977642],[67.10597,24.979636],[67.10673300000001,24.980429]]],"type":"Polygon"}
+}

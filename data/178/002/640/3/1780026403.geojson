@@ -1,0 +1,62 @@
+{
+  "id": 1780026403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000047,
+    "geom:bbox":"67.129318,25.012881,67.139433,25.022189",
+    "geom:latitude":25.017538,
+    "geom:longitude":67.134371,
+    "iso:country":"PK",
+    "lbl:latitude":25.01753,
+    "lbl:longitude":67.134372,
+    "mps:latitude":25.01753,
+    "mps:longitude":67.134372,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Gulshan-e-Maymar Sector W"
+    ],
+    "name:urd_x_preferred":[
+        "\u06af\u0644\u0634\u0646 \u0645\u0639\u0645\u0627\u0631 \u0633\u06cc\u06a9\u0679\u0631 W"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"543c20368409bcd0153e976c3c7eae8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026403,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026403,
+    "wof:lastmodified":1660240808,
+    "wof:name":"Gulshan-e-Maymar Sector W",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.129318,
+    25.012881,
+    67.139433,
+    25.022189
+],
+  "geometry": {"coordinates":[[[67.129318,25.016731],[67.134556,25.022189],[67.139433,25.018355],[67.138177,25.017061],[67.134198,25.012881],[67.13012000000001,25.01609],[67.129318,25.016731]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1780036145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.4919,30.15147,71.4919,30.15147",
+    "geom:latitude":30.15147,
+    "geom:longitude":71.4919,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kota Muhammad Baqa",
+    "gn:country_code":"PK",
+    "gn:dem":122,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1409715,
+    "gn:latitude":30.15147,
+    "gn:longitude":71.4919,
+    "gn:modification_date":"2001-12-13",
+    "gn:name":"Kota Muhammad Baqa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.4719,30.13147,71.5119,30.17147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1409715
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"73574cc6a0d64e72b050296ee04bc718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780036145,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036145,
+    "wof:lastmodified":1660243527,
+    "wof:name":"Kota Muhammad Baqa",
+    "wof:parent_id":890443585,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1327237115
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.4919,
+    30.15147,
+    71.4919,
+    30.15147
+],
+  "geometry": {"coordinates":[71.4919,30.15147],"type":"Point"}
+}

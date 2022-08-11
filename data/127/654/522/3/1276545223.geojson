@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Jampur"
+    ],
     "name:fas_x_preferred":[
         "\u062c\u0627\u0645\u200c\u067e\u0648\u0631"
     ],
@@ -51,6 +54,9 @@
         "Jampur"
     ],
     "name:urd_x_preferred":[
+        "\u062c\u0627\u0645\u067e\u0648\u0631"
+    ],
+    "name:urd_x_variant":[
         "\u062c\u0627\u0645 \u067e\u0648\u0631"
     ],
     "src:geom":"geonames",
@@ -65,7 +71,7 @@
         "gn:id":1401417
     },
     "wof:country":"PK",
-    "wof:geomhash":"6c7d2ed3cc170f5db4b2f96190502ee8",
+    "wof:geomhash":"cf49e6b2cef19aaa07d424c86788859b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -76,7 +82,7 @@
         }
     ],
     "wof:id":1276545223,
-    "wof:lastmodified":1566587971,
+    "wof:lastmodified":1660238939,
     "wof:name":"Jampur",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
@@ -86,10 +92,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    69.72258000000001,
+    69.72258,
     28.24643,
-    69.72258000000001,
+    69.72258,
     28.24643
 ],
-  "geometry": {"coordinates":[69.72258000000001,28.24643],"type":"Point"}
+  "geometry": {"coordinates":[69.72257999999999,28.24643],"type":"Point"}
 }

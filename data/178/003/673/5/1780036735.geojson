@@ -1,0 +1,76 @@
+{
+  "id": 1780036735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.97066,30.22699,66.97066,30.22699",
+    "geom:latitude":30.22699,
+    "geom:longitude":66.97066,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Karez Atta Muhammad",
+    "gn:country_code":"PK",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":9100613,
+    "gn:latitude":30.22699,
+    "gn:longitude":66.97066,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Karez Atta Muhammad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"66.95066,30.20699,66.99066,30.24699",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173215,
+        890438109,
+        85675733
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":9100613
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7811e3ca320d61870e27375ecee53bd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":890438109,
+            "locality_id":421173215,
+            "neighbourhood_id":1780036735,
+            "region_id":85675733
+        }
+    ],
+    "wof:id":1780036735,
+    "wof:lastmodified":1660243865,
+    "wof:name":"Karez Atta Muhammad",
+    "wof:parent_id":421173215,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1293495457
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.97066,
+    30.22699,
+    66.97066,
+    30.22699
+],
+  "geometry": {"coordinates":[66.97066,30.22699],"type":"Point"}
+}

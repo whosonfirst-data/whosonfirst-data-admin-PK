@@ -1,0 +1,82 @@
+{
+  "id": 1780038377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.46046,32.59018,73.46046,32.59018",
+    "geom:latitude":32.59018,
+    "geom:longitude":73.46046,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Kotla Saiyidan",
+    "gn:country_code":"PK",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1173252,
+    "gn:latitude":32.59018,
+    "gn:longitude":73.46046,
+    "gn:modification_date":"2018-05-08",
+    "gn:name":"Kotla Saiyidan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.44046,32.57018,73.48046,32.61018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Kuthala Saidan",
+        "Koth\u0101ia Saiyid\u0101n",
+        "Koth\u0101la Saiyid\u0101n",
+        "Kotla Saiyidan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421178575,
+        1108692293,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1173252
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"07102732fa69a44ac92ba5025ec64611",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692293,
+            "locality_id":421178575,
+            "neighbourhood_id":1780038377,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038377,
+    "wof:lastmodified":1660244779,
+    "wof:name":"Kotla Saiyidan",
+    "wof:parent_id":421178575,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225949851
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.46046,
+    32.59018,
+    73.46046,
+    32.59018
+],
+  "geometry": {"coordinates":[73.46046,32.59018],"type":"Point"}
+}

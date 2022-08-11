@@ -1,0 +1,79 @@
+{
+  "id": 1780037913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.46685,31.92083,70.46685,31.92083",
+    "geom:latitude":31.92083,
+    "geom:longitude":70.46685,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Qasamabad",
+    "gn:country_code":"PK",
+    "gn:dem":221,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1425411,
+    "gn:latitude":31.92083,
+    "gn:longitude":70.46685,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Qasamabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.44685,31.90083,70.48685,31.94083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Q\u0101sim\u0101b\u0101d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421176979,
+        1108692165,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1425411
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7586ba9c2a8ff5af393a3d9c79d4432d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692165,
+            "locality_id":421176979,
+            "neighbourhood_id":1780037913,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037913,
+    "wof:lastmodified":1660244523,
+    "wof:name":"Qasamabad",
+    "wof:parent_id":421176979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1243364799
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.46685,
+    31.92083,
+    70.46685,
+    31.92083
+],
+  "geometry": {"coordinates":[70.46684999999999,31.92083],"type":"Point"}
+}

@@ -38,6 +38,9 @@
     "name:deu_x_preferred":[
         "Thal"
     ],
+    "name:eng_x_preferred":[
+        "Thal"
+    ],
     "name:epo_x_preferred":[
         "Thal"
     ],
@@ -59,6 +62,9 @@
     "name:swe_x_preferred":[
         "Thal"
     ],
+    "name:urd_x_preferred":[
+        "\u062a\u06be\u0644"
+    ],
     "name:vol_x_preferred":[
         "Thal"
     ],
@@ -74,7 +80,7 @@
         "gn:id":1355144
     },
     "wof:country":"PK",
-    "wof:geomhash":"55f6fc1ab5cc1f35f8133b1fc8cde2fc",
+    "wof:geomhash":"c5205fe5a131fad63d40c9749d2911aa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,7 +91,7 @@
         }
     ],
     "wof:id":1292902989,
-    "wof:lastmodified":1566586037,
+    "wof:lastmodified":1660239016,
     "wof:name":"Thal",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
@@ -95,10 +101,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.05641999999999,
+    70.05642,
     28.45441,
-    70.05641999999999,
+    70.05642,
     28.45441
 ],
-  "geometry": {"coordinates":[70.05641999999999,28.45441],"type":"Point"}
+  "geometry": {"coordinates":[70.05642,28.45441],"type":"Point"}
 }

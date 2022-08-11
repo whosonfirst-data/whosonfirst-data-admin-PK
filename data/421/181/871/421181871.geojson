@@ -4,18 +4,25 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000014,
     "geom:area_square_m":0.0,
-    "geom:bbox":"67.02556,24.87167,67.02556,24.87167",
-    "geom:latitude":24.87167,
-    "geom:longitude":67.02556,
+    "geom:bbox":"67.012647,24.864798,67.018811,24.869812",
+    "geom:latitude":24.867264,
+    "geom:longitude":67.01598,
     "iso:country":"PK",
-    "lbl:bbox":"67.02056,24.86667,67.03056,24.87667",
+    "lbl:latitude":24.867483,
+    "lbl:longitude":67.01577,
     "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":15.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Ramswamy Quarters"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0627\u0645\u0633\u0648\u0627\u0645\u06cc \u06a9\u0648\u0627\u0631\u0679\u0631\u0632"
+    ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLX",
     "qs:gn_id":1167198,
@@ -34,7 +41,13 @@
     "qs:qs_id":507406,
     "qs:woe_adm0":23424922,
     "qs:woe_id":2206445,
-    "src:geom":"quattroshapes",
+    "reversegeo:latitude":24.867483,
+    "reversegeo:longitude":67.01577,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
         102191569,
         85632659,
@@ -50,7 +63,7 @@
     },
     "wof:country":"PK",
     "wof:created":1459009309,
-    "wof:geomhash":"564c9050d03dcc4da6bd5bad8084f005",
+    "wof:geomhash":"6ffc17eeffba42c45e45542476bcab5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":421181871,
-    "wof:lastmodified":1578086870,
+    "wof:lastmodified":1660241507,
     "wof:name":"Ramswamy Quarters",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
@@ -72,10 +85,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    67.02556,
-    24.87167,
-    67.02556,
-    24.87167
+    67.012647,
+    24.864798,
+    67.018811,
+    24.869812
 ],
-  "geometry": {"coordinates":[67.02556,24.87167],"type":"Point"}
+  "geometry": {"coordinates":[[[67.012647,24.866969],[67.01445200000001,24.868813],[67.014859,24.869269],[67.015344,24.869812],[67.01611200000001,24.869138],[67.01717499999999,24.868139],[67.017475,24.867849],[67.017985,24.867276],[67.01830099999999,24.866923],[67.018496,24.866618],[67.01878499999999,24.865508],[67.018811,24.865187],[67.01876900000001,24.86505],[67.01868,24.864929],[67.01853199999999,24.864798],[67.018343,24.864953],[67.01760299999999,24.865406],[67.01669699999999,24.865859],[67.015162,24.866238],[67.012647,24.866969]]],"type":"Polygon"}
 }

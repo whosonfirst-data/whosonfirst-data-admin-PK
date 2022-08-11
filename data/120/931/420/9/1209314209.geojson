@@ -116,6 +116,9 @@
     "name:ell_x_preferred":[
         "\u0399\u03c3\u03bb\u03b1\u03bc\u03b1\u03bc\u03c0\u03ac\u03bd\u03c4"
     ],
+    "name:eng_x_preferred":[
+        "Islamabad"
+    ],
     "name:epo_x_preferred":[
         "Islamabado"
     ],
@@ -457,7 +460,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -467,14 +473,17 @@
     "wof:geomhash":"01aaf6e6c43d938c051eb0c74835def7",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209314209
+            "county_id":1108692127,
+            "locality_id":1209314209,
+            "region_id":85675753
         }
     ],
     "wof:id":1209314209,
-    "wof:lastmodified":1566588095,
+    "wof:lastmodified":1660238217,
     "wof:name":"Islamabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692127,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

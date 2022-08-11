@@ -1,0 +1,76 @@
+{
+  "id": 1780037543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.1956,34.33053,73.1956,34.33053",
+    "geom:latitude":34.33053,
+    "geom:longitude":73.1956,
+    "gn:admin1_code":"3",
+    "gn:asciiname":"Muhammadabad",
+    "gn:country_code":"PK",
+    "gn:dem":1080,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1390102,
+    "gn:latitude":34.33053,
+    "gn:longitude":73.1956,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Muhammadabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.1756,34.31053,73.2156,34.35053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203943,
+        1108692295,
+        1360701001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1390102
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"1f1d9055abc0d31a80ee131591c5b419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692295,
+            "locality_id":421203943,
+            "neighbourhood_id":1780037543,
+            "region_id":1360701001
+        }
+    ],
+    "wof:id":1780037543,
+    "wof:lastmodified":1660244315,
+    "wof:name":"Muhammadabad",
+    "wof:parent_id":421203943,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1260285421
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.1956,
+    34.33053,
+    73.1956,
+    34.33053
+],
+  "geometry": {"coordinates":[73.1956,34.33053],"type":"Point"}
+}

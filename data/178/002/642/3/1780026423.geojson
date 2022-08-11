@@ -1,0 +1,62 @@
+{
+  "id": 1780026423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000015,
+    "geom:bbox":"67.123817,25.00474,67.129393,25.01009",
+    "geom:latitude":25.007393,
+    "geom:longitude":67.126568,
+    "iso:country":"PK",
+    "lbl:latitude":25.007554,
+    "lbl:longitude":67.126801,
+    "mps:latitude":25.007554,
+    "mps:longitude":67.126801,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Abuzar Ghafan Society"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u0632\u0631 \u063a\u0641\u0627\u0631\u06cc \u0633\u0648\u0633\u0627\u0626\u0679\u06cc"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"91f407e1eaf326293e92eee1289b8798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026423,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026423,
+    "wof:lastmodified":1660240820,
+    "wof:name":"Abuzar Ghafan Society",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.123817,
+    25.00474,
+    67.129393,
+    25.01009
+],
+  "geometry": {"coordinates":[[[67.123817,25.006748],[67.125247,25.008053],[67.124904,25.008323],[67.126559,25.01009],[67.12844699999999,25.008557],[67.12939299999999,25.007828],[67.12633099999999,25.00474],[67.124005,25.006588],[67.123817,25.006748]]],"type":"Polygon"}
+}

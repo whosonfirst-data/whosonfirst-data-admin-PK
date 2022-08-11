@@ -29,6 +29,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dhok Chaudhrian"
+    ],
+    "name:urd_x_preferred":[
+        "\u0688\u06be\u0648\u06a9 \u0686\u0648\u062f\u06be\u0631\u06cc\u0627\u06ba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -41,7 +47,7 @@
         "gn:id":11425485
     },
     "wof:country":"PK",
-    "wof:geomhash":"072ad74e4397e2382de3ae85dd8e29ac",
+    "wof:geomhash":"5a3a57380a812c0e63d22e18166109f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326930061,
-    "wof:lastmodified":1566581744,
+    "wof:lastmodified":1660239429,
     "wof:name":"Dhok Chaudhrian",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",
@@ -62,10 +68,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    73.36088000000002,
+    73.36088,
     33.11736,
-    73.36088000000002,
+    73.36088,
     33.11736
 ],
-  "geometry": {"coordinates":[73.36088000000002,33.11736],"type":"Point"}
+  "geometry": {"coordinates":[73.36087999999999,33.11736],"type":"Point"}
 }

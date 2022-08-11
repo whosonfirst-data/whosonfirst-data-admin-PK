@@ -1,0 +1,76 @@
+{
+  "id": 1780037301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.20463,32.55593,73.20463,32.55593",
+    "geom:latitude":32.55593,
+    "geom:longitude":73.20463,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kotli Shaikhan",
+    "gn:country_code":"PK",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1379748,
+    "gn:latitude":32.55593,
+    "gn:longitude":73.20463,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kotli Shaikhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.18463,32.53593,73.22463,32.57593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        890417989,
+        1108692367,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1379748
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"163d7694f21ccf389f6acee97ceced56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":890417989,
+            "neighbourhood_id":1780037301,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037301,
+    "wof:lastmodified":1660244185,
+    "wof:name":"Kotli Shaikhan",
+    "wof:parent_id":890417989,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209038557
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.20463,
+    32.55593,
+    73.20463,
+    32.55593
+],
+  "geometry": {"coordinates":[73.20462999999999,32.55593],"type":"Point"}
+}

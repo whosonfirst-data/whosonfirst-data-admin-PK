@@ -1,0 +1,62 @@
+{
+  "id": 1780024903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000029,
+    "geom:bbox":"74.379741,31.539638,74.383008,31.54992",
+    "geom:latitude":31.544756,
+    "geom:longitude":74.381439,
+    "iso:country":"PK",
+    "lbl:latitude":31.544683,
+    "lbl:longitude":74.381439,
+    "mps:latitude":31.544683,
+    "mps:longitude":74.381439,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Bengali Mohallah"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0646\u06af\u0627\u0644\u06cc \u0645\u062d\u0644\u06c1"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421204525,
+        1108692273,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"1e6d48395246e33d601ffe6596d27403",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":421204525,
+            "neighbourhood_id":1780024903,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780024903,
+    "wof:lastmodified":1660241742,
+    "wof:name":"Bengali Mohallah",
+    "wof:parent_id":421204525,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.379741,
+    31.539638,
+    74.383008,
+    31.54992
+],
+  "geometry": {"coordinates":[[[74.382707,31.539638],[74.379741,31.539919],[74.380048,31.546107],[74.380229,31.54992],[74.383008,31.549806],[74.38286100000001,31.542757],[74.382707,31.539638]]],"type":"Polygon"}
+}

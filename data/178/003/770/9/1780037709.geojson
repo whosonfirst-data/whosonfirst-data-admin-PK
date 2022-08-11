@@ -1,0 +1,91 @@
+{
+  "id": 1780037709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.68427,32.03715,72.68427,32.03715",
+    "geom:latitude":32.03715,
+    "geom:longitude":72.68427,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Sultanabad",
+    "gn:country_code":"PK",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7090803,
+    "gn:latitude":32.03715,
+    "gn:longitude":72.68427,
+    "gn:modification_date":"2018-01-11",
+    "gn:name":"Sultanabad",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.66427,32.01715,72.70427,32.05715",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:aze_x_preferred":[
+        "Sultanabad"
+    ],
+    "name:cat_x_preferred":[
+        "Sultanabad"
+    ],
+    "name:deu_x_preferred":[
+        "Sultanabad"
+    ],
+    "name:eng_x_preferred":[
+        "Sultanabad"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0644\u0637\u0627\u0646 \u0622\u0628\u0627\u062f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421175531,
+        1108692367,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7090803
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"33abace1e4ea88af99215c69d498bb61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692367,
+            "locality_id":421175531,
+            "neighbourhood_id":1780037709,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037709,
+    "wof:lastmodified":1660241413,
+    "wof:name":"Sultanabad",
+    "wof:parent_id":421175531,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310029021
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.68427,
+    32.03715,
+    72.68427,
+    32.03715
+],
+  "geometry": {"coordinates":[72.68427,32.03715],"type":"Point"}
+}

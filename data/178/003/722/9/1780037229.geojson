@@ -1,0 +1,76 @@
+{
+  "id": 1780037229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.91245,32.34293,74.91245,32.34293",
+    "geom:latitude":32.34293,
+    "geom:longitude":74.91245,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Nawan Pind",
+    "gn:country_code":"PK",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7465496,
+    "gn:latitude":32.34293,
+    "gn:longitude":74.91245,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Nawan Pind",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.89245,32.32293,74.93245,32.36293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421196455,
+        1108692325,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7465496
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b2f5e37b58b23a1914dedbe2c25c911a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692325,
+            "locality_id":421196455,
+            "neighbourhood_id":1780037229,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037229,
+    "wof:lastmodified":1660244143,
+    "wof:name":"Nawan Pind",
+    "wof:parent_id":421196455,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1209838961
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.91245,
+    32.34293,
+    74.91245,
+    32.34293
+],
+  "geometry": {"coordinates":[74.91245000000001,32.34293],"type":"Point"}
+}

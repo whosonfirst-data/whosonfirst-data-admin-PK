@@ -2,7 +2,7 @@
   "id": 1259789147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
+    "edtf:cessation":"2022-08-02",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -27,7 +27,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bughni",
@@ -46,7 +46,7 @@
         "gn:id":7110990
     },
     "wof:country":"PK",
-    "wof:geomhash":"2bc383236a5d347cc5ca361565971883",
+    "wof:geomhash":"64adab34c722d8a70172ef53add12733",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +57,22 @@
         }
     ],
     "wof:id":1259789147,
-    "wof:lastmodified":1566593568,
+    "wof:lastmodified":1660242525,
     "wof:name":"Chak Two Hundred Twenty-eight Rakh Branch",
     "wof:parent_id":1108692169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1780038259
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.19048000000002,
+    73.19048,
     31.37571,
-    73.19048000000002,
+    73.19048,
     31.37571
 ],
-  "geometry": {"coordinates":[73.19048000000002,31.37571],"type":"Point"}
+  "geometry": {"coordinates":[73.19047999999999,31.37571],"type":"Point"}
 }

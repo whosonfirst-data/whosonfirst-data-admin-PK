@@ -1,0 +1,62 @@
+{
+  "id": 1780026055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000021,
+    "geom:bbox":"67.13996,24.98631,67.146312,24.99319",
+    "geom:latitude":24.989655,
+    "geom:longitude":67.143288,
+    "iso:country":"PK",
+    "lbl:latitude":24.989123,
+    "lbl:longitude":67.142976,
+    "mps:latitude":24.989123,
+    "mps:longitude":67.142976,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:eng_x_preferred":[
+        "Radio Pakistan CHS"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u06cc\u0688\u06cc\u0648 \u067e\u0627\u06a9\u0633\u062a\u0627\u0646 CHS"
+    ],
+    "src:geom":"whosonfirst",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:country":"PK",
+    "wof:geomhash":"8227ac3d2b5be8340d031223c4c6b2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026055,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780026055,
+    "wof:lastmodified":1660240613,
+    "wof:name":"Radio Pakistan CHS",
+    "wof:parent_id":421191101,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.13996,
+    24.98631,
+    67.146312,
+    24.99319
+],
+  "geometry": {"coordinates":[[[67.144373,24.99319],[67.14631199999999,24.99161],[67.14464700000001,24.989784],[67.14565,24.989015],[67.143974,24.987382],[67.142809,24.98631],[67.14243399999999,24.98661],[67.13996,24.98873],[67.141999,24.990799],[67.144373,24.99319]]],"type":"Polygon"}
+}

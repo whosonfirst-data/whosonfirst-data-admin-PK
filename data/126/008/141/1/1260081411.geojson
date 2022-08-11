@@ -32,11 +32,17 @@
     "name:ceb_x_preferred":[
         "Alizai"
     ],
+    "name:eng_x_preferred":[
+        "Alizai"
+    ],
+    "name:urd_x_preferred":[
+        "\u0639\u0644\u06cc \u0632\u0626\u06cc"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675763,
+        1360701001,
         1108692263
     ],
     "wof:breaches":[],
@@ -51,11 +57,11 @@
             "country_id":85632659,
             "county_id":1108692263,
             "locality_id":1260081411,
-            "region_id":85675763
+            "region_id":1360701001
         }
     ],
     "wof:id":1260081411,
-    "wof:lastmodified":1566589896,
+    "wof:lastmodified":1660238807,
     "wof:name":"Alizai",
     "wof:parent_id":1108692263,
     "wof:placetype":"locality",

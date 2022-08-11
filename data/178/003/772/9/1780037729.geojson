@@ -1,0 +1,79 @@
+{
+  "id": 1780037729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"73.75527,32.91425,73.75527,32.91425",
+    "geom:latitude":32.91425,
+    "geom:longitude":73.75527,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Kothian",
+    "gn:country_code":"PK",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1371512,
+    "gn:latitude":32.91425,
+    "gn:longitude":73.75527,
+    "gn:modification_date":"2018-05-10",
+    "gn:name":"Kothian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"73.73527,32.89425,73.77527,32.93425",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Koli\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1125865697,
+        1108692197,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1371512
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"b68770f2384886b1dde74002988aeaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692197,
+            "locality_id":1125865697,
+            "neighbourhood_id":1780037729,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780037729,
+    "wof:lastmodified":1660244419,
+    "wof:name":"Kothian",
+    "wof:parent_id":1125865697,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1310606763
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    73.75527,
+    32.91425,
+    73.75527,
+    32.91425
+],
+  "geometry": {"coordinates":[73.75527,32.91425],"type":"Point"}
+}

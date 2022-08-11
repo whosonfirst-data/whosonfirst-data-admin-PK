@@ -1,0 +1,76 @@
+{
+  "id": 1780036949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.24335,29.58594,72.24335,29.58594",
+    "geom:latitude":29.58594,
+    "geom:longitude":72.24335,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Twenty-three",
+    "gn:country_code":"PK",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11482568,
+    "gn:latitude":29.58594,
+    "gn:longitude":72.24335,
+    "gn:modification_date":"2017-03-06",
+    "gn:name":"Chak Twenty-three",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.22335,29.56594,72.26335,29.60594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421197857,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11482568
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"3b0cf1a8837f3f628402a807744b40bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421197857,
+            "neighbourhood_id":1780036949,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036949,
+    "wof:lastmodified":1660243984,
+    "wof:name":"Chak Twenty-three",
+    "wof:parent_id":421197857,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1277079857
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.24335,
+    29.58594,
+    72.24335,
+    29.58594
+],
+  "geometry": {"coordinates":[72.24335000000001,29.58594],"type":"Point"}
+}

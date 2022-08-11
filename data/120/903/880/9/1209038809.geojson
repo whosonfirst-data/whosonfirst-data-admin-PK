@@ -32,12 +32,21 @@
     "name:ckb_x_preferred":[
         "\u0639\u06d5\u0632\u06cc\u0632\u0627\u0648\u0627"
     ],
+    "name:eng_x_preferred":[
+        "Azizabad"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0632\u06cc\u0632\u0622\u0628\u0627\u062f"
     ],
+    "name:urd_x_preferred":[
+        "\u0639\u0632\u06cc\u0632 \u0622\u0628\u0627\u062f"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +56,17 @@
     "wof:geomhash":"fa914be85e697ad304dc908aecff9ef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209038809
+            "county_id":1108692421,
+            "locality_id":1209038809,
+            "region_id":85675753
         }
     ],
     "wof:id":1209038809,
-    "wof:lastmodified":1566588875,
+    "wof:lastmodified":1660238186,
     "wof:name":"Azizabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -1,0 +1,76 @@
+{
+  "id": 1780038461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"72.50212,33.90863,72.50212,33.90863",
+    "geom:latitude":33.90863,
+    "geom:longitude":72.50212,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Bhangi",
+    "gn:country_code":"PK",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1182757,
+    "gn:latitude":33.90863,
+    "gn:longitude":72.50212,
+    "gn:modification_date":"2017-01-04",
+    "gn:name":"Bhangi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"72.48212,33.88863,72.52212,33.92863",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173979,
+        1108692119,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1182757
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"87fcb91c3b565ef9c3d22f9267b042ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692119,
+            "locality_id":421173979,
+            "neighbourhood_id":1780038461,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038461,
+    "wof:lastmodified":1660244827,
+    "wof:name":"Bhangi",
+    "wof:parent_id":421173979,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226048279
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    72.50212,
+    33.90863,
+    72.50212,
+    33.90863
+],
+  "geometry": {"coordinates":[72.50212000000001,33.90863],"type":"Point"}
+}

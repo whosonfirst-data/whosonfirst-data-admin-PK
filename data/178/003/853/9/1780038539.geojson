@@ -1,0 +1,76 @@
+{
+  "id": 1780038539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"74.02898,31.69456,74.02898,31.69456",
+    "geom:latitude":31.69456,
+    "geom:longitude":74.02898,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Christian Town",
+    "gn:country_code":"PK",
+    "gn:dem":207,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11531644,
+    "gn:latitude":31.69456,
+    "gn:longitude":74.02898,
+    "gn:modification_date":"2017-05-09",
+    "gn:name":"Christian Town",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"74.00898,31.67456,74.04898,31.71456",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421203157,
+        1108692377,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11531644
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"e8a1e816ad08b0763967fb68561093fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692377,
+            "locality_id":421203157,
+            "neighbourhood_id":1780038539,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038539,
+    "wof:lastmodified":1660244870,
+    "wof:name":"Christian Town",
+    "wof:parent_id":421203157,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1226242363
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    74.02898,
+    31.69456,
+    74.02898,
+    31.69456
+],
+  "geometry": {"coordinates":[74.02898,31.69456],"type":"Point"}
+}

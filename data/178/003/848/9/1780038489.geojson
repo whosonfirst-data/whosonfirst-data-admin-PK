@@ -1,0 +1,91 @@
+{
+  "id": 1780038489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.25783,29.1561,71.25783,29.1561",
+    "geom:latitude":29.1561,
+    "geom:longitude":71.25783,
+    "gn:admin1_code":"4",
+    "gn:asciiname":"Islampura",
+    "gn:country_code":"PK",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1414691,
+    "gn:latitude":29.1561,
+    "gn:longitude":71.25783,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Islampura",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"71.23783,29.1361,71.27783,29.1761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Islampura"
+    ],
+    "name:hin_x_preferred":[
+        "\u0907\u0938\u094d\u0932\u093e\u092e\u092a\u0941\u0930\u093e"
+    ],
+    "name:und_x_variant":[
+        "Islam\u0101b\u0101d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0633\u0644\u0627\u0645 \u067e\u0648\u0631\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0627\u0633\u0644\u0627\u0645 \u067e\u0648\u0631\u06c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421169881,
+        1108692129,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1414691
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7c16572f06d84d9d53dc670f01e166bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692129,
+            "locality_id":421169881,
+            "neighbourhood_id":1780038489,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780038489,
+    "wof:lastmodified":1660241337,
+    "wof:name":"Islampura",
+    "wof:parent_id":421169881,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1225867871
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.25783,
+    29.1561,
+    71.25783,
+    29.1561
+],
+  "geometry": {"coordinates":[71.25783,29.1561],"type":"Point"}
+}

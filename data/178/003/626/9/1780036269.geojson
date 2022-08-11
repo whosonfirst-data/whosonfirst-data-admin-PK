@@ -1,0 +1,76 @@
+{
+  "id": 1780036269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.30289,26.59313,68.30289,26.59313",
+    "geom:latitude":26.59313,
+    "geom:longitude":68.30289,
+    "gn:admin1_code":"5.0",
+    "gn:asciiname":"Goth Shah Wali",
+    "gn:country_code":"PK",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11366301,
+    "gn:latitude":26.59313,
+    "gn:longitude":68.30289,
+    "gn:modification_date":"2018-03-10",
+    "gn:name":"Goth Shah Wali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"68.28289,26.57313,68.32289,26.61313",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421199255,
+        1108692371,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11366301
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"7dddde87fb8f13d840f9b71e834b5814",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692371,
+            "locality_id":421199255,
+            "neighbourhood_id":1780036269,
+            "region_id":85675757
+        }
+    ],
+    "wof:id":1780036269,
+    "wof:lastmodified":1660243598,
+    "wof:name":"Goth Shah Wali",
+    "wof:parent_id":421199255,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326622893
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.30289,
+    26.59313,
+    68.30289,
+    26.59313
+],
+  "geometry": {"coordinates":[68.30289,26.59313],"type":"Point"}
+}

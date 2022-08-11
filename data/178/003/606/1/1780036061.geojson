@@ -1,0 +1,76 @@
+{
+  "id": 1780036061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.12015,28.32127,70.12015,28.32127",
+    "geom:latitude":28.32127,
+    "geom:longitude":70.12015,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chak Ten",
+    "gn:country_code":"PK",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1355261,
+    "gn:latitude":28.32127,
+    "gn:longitude":70.12015,
+    "gn:modification_date":"2017-10-05",
+    "gn:name":"Chak Ten",
+    "gn:population":0,
+    "gn:timezone":"Asia/Karachi",
+    "iso:country":"PK",
+    "lbl:bbox":"70.10015,28.30127,70.14015,28.34127",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:min_zoom":12.0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421182005,
+        1108692357,
+        85675753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1355261
+    },
+    "wof:country":"PK",
+    "wof:geomhash":"d5143dc5bedd76503330c0adb8a839ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692357,
+            "locality_id":421182005,
+            "neighbourhood_id":1780036061,
+            "region_id":85675753
+        }
+    ],
+    "wof:id":1780036061,
+    "wof:lastmodified":1660243481,
+    "wof:name":"Chak Ten",
+    "wof:parent_id":421182005,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        1326735735
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.12015,
+    28.32127,
+    70.12015,
+    28.32127
+],
+  "geometry": {"coordinates":[70.12015,28.32127],"type":"Point"}
+}

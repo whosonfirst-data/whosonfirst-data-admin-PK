@@ -4,30 +4,46 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
+    "geom:area":0.000002,
     "geom:area_square_m":0.0,
-    "geom:bbox":"70.86516,30.78961,70.86516,30.78961",
-    "geom:latitude":30.78961,
-    "geom:longitude":70.86516,
+    "geom:bbox":"70.863918,30.789261,70.865549,30.790503",
+    "geom:latitude":30.789964,
+    "geom:longitude":70.864802,
     "gn:country":"PK",
     "gn:fcode":"HSE",
     "gn:population":25,
     "iso:country":"PK",
+    "lbl:latitude":30.789957,
+    "lbl:longitude":70.864802,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:is_funky":1,
     "mz:min_zoom":11.0,
+    "name:eng_x_preferred":[
+        "Ghaziwala"
+    ],
+    "name:urd_x_preferred":[
+        "\u063a\u0627\u0632\u06cc \u0648\u0627\u0644\u0627"
+    ],
     "qs:name":"Ghaziwala",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
     "qs:pop_sr":"1",
+    "reversegeo:latitude":30.789957,
+    "reversegeo:longitude":70.864802,
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "unknown"
+    ],
+    "src:lbl_centroid":"whosonfirst",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -36,19 +52,20 @@
     },
     "wof:country":"PK",
     "wof:created":1469052387,
-    "wof:geomhash":"ab0a1b8fb234f3feed46324796d94f09",
+    "wof:geomhash":"f2a090de82e236ec29fcfdab4f086acb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692283,
             "locality_id":890442915,
             "region_id":85675753
         }
     ],
     "wof:id":890442915,
-    "wof:lastmodified":1566591801,
+    "wof:lastmodified":1660241894,
     "wof:name":"Ghaziwala",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692283,
     "wof:placetype":"locality",
     "wof:population":25,
     "wof:population_rank":1,
@@ -58,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    70.86516,
-    30.78961,
-    70.86516,
-    30.78961
+    70.863918,
+    30.789261,
+    70.865549,
+    30.790503
 ],
-  "geometry": {"coordinates":[70.86516,30.78961],"type":"Point"}
+  "geometry": {"coordinates":[[[70.863918,30.790495],[70.865522,30.790503],[70.865526,30.78991],[70.865549,30.789341],[70.86520299999999,30.789285],[70.865155,30.789433],[70.864857,30.789421],[70.864519,30.789377],[70.864503,30.789261],[70.864383,30.789341],[70.86427999999999,30.789556],[70.864164,30.789715],[70.86404899999999,30.789938],[70.863957,30.790121],[70.863922,30.79026],[70.863918,30.790495]]],"type":"Polygon"}
 }
