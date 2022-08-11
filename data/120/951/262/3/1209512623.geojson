@@ -43,6 +43,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692353,
         85632659
     ],
     "wof:breaches":[],
@@ -53,14 +58,26 @@
     "wof:geomhash":"5502645e77d8daf7a10b48db76cac3be",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1209512623,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209512623
+            "county_id":1108692353,
+            "disputed_id":1159339497,
+            "locality_id":1209512623,
+            "region_id":85675735
         }
     ],
     "wof:id":1209512623,
-    "wof:lastmodified":1659986012,
+    "wof:lastmodified":1660238251,
     "wof:name":"Chak",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692353,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -39,9 +39,8 @@
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
+        421168811,
         85632659,
-        1276855841,
-        1108692213,
         85675741
     ],
     "wof:breaches":[],
@@ -54,16 +53,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "county_id":1108692213,
-            "locality_id":1276855841,
+            "locality_id":421168811,
             "neighbourhood_id":1780037067,
             "region_id":85675741
         }
     ],
     "wof:id":1780037067,
-    "wof:lastmodified":1659484804,
+    "wof:lastmodified":1660244051,
     "wof:name":"Sumbal Kurk",
-    "wof:parent_id":1108692213,
+    "wof:parent_id":421168811,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

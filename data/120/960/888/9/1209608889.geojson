@@ -37,7 +37,12 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        85675745,
+        1159339495,
+        102191569,
+        85632659,
+        1108692193,
+        85632469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +52,26 @@
     "wof:geomhash":"a31e8285754e497667257e5828e3143c",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209608889
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1209608889,
+            "region_id":85675745
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692193,
+            "disputed_id":1159339495,
+            "locality_id":1209608889,
+            "region_id":85675745
         }
     ],
     "wof:id":1209608889,
-    "wof:lastmodified":1659986010,
+    "wof:lastmodified":1660238265,
     "wof:name":"Hussainabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692193,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

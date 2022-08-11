@@ -119,7 +119,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -135,14 +136,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692231,
             "locality_id":421200337,
             "region_id":85675733
         }
     ],
     "wof:id":421200337,
-    "wof:lastmodified":1659986120,
+    "wof:lastmodified":1660241677,
     "wof:name":"Kelat",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692231,
     "wof:placetype":"locality",
     "wof:population":26701,
     "wof:population_rank":7,

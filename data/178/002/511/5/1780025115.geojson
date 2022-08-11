@@ -22,15 +22,30 @@
         "\u0688\u06cc\u0641\u0646\u0633 \u0648\u06cc\u0648 \u06c1\u0627\u0624\u0633\u0646\u06af \u0633\u0648\u0633\u0627\u0626\u0679\u06cc"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"b288a165442633702cd6c78fb78fb72b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025115,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780025115,
-    "wof:lastmodified":1659986273,
+    "wof:lastmodified":1660240070,
     "wof:name":"Defense View Housing Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

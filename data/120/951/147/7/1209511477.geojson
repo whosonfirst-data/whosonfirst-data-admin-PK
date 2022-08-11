@@ -64,7 +64,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,14 +76,16 @@
     "wof:geomhash":"b608ad50600168da13574192c2ca761f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209511477
+            "locality_id":1209511477,
+            "region_id":85675741
         }
     ],
     "wof:id":1209511477,
-    "wof:lastmodified":1659482183,
+    "wof:lastmodified":1660244951,
     "wof:name":"Pari",
-    "wof:parent_id":85632659,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

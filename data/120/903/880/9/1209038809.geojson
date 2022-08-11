@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"fa914be85e697ad304dc908aecff9ef9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209038809
+            "county_id":1108692421,
+            "locality_id":1209038809,
+            "region_id":85675753
         }
     ],
     "wof:id":1209038809,
-    "wof:lastmodified":1659986010,
+    "wof:lastmodified":1660238186,
     "wof:name":"Azizabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692421,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

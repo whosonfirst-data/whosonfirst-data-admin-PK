@@ -75,7 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +92,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692247,
             "locality_id":421194173,
             "region_id":85675753
         }
     ],
     "wof:id":421194173,
-    "wof:lastmodified":1659986107,
+    "wof:lastmodified":1660241596,
     "wof:name":"Talamba",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692247,
     "wof:placetype":"locality",
     "wof:population":28151,
     "wof:population_rank":7,

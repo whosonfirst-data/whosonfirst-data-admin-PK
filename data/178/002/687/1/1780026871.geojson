@@ -22,15 +22,28 @@
         "\u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u0633\u0644\u0627\u0645\u06a9 \u06cc\u0648\u0646\u06cc\u0648\u0631\u0633\u0679\u06cc \u0627\u0633\u0644\u0627\u0645 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"ed8de786ce764856b7b6df01aed84ca3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780026871,
+            "region_id":85675741
+        }
+    ],
     "wof:id":1780026871,
-    "wof:lastmodified":1659986259,
+    "wof:lastmodified":1660241085,
     "wof:name":"International Islamic University Islamabad",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168811,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

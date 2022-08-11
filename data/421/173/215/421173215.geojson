@@ -356,7 +356,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        890438109
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -377,15 +378,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":890438109,
             "locality_id":421173215,
             "region_id":85675733
         }
     ],
     "wof:id":421173215,
-    "wof:lastmodified":1659986115,
+    "wof:lastmodified":1660241389,
     "wof:megacity":1,
     "wof:name":"Quetta",
-    "wof:parent_id":85675733,
+    "wof:parent_id":890438109,
     "wof:placetype":"locality",
     "wof:population":733675,
     "wof:population_rank":11,

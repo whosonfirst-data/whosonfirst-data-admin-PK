@@ -53,7 +53,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692403
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,14 +69,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692403,
             "locality_id":421205171,
             "region_id":85675757
         }
     ],
     "wof:id":421205171,
-    "wof:lastmodified":1659986113,
+    "wof:lastmodified":1660241760,
     "wof:name":"Bulri",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692403,
     "wof:placetype":"locality",
     "wof:population":4997,
     "wof:population_rank":4,

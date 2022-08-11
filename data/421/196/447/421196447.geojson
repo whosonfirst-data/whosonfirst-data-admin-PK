@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +73,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692379,
             "locality_id":421196447,
             "region_id":85675757
         }
     ],
     "wof:id":421196447,
-    "wof:lastmodified":1659986117,
+    "wof:lastmodified":1660241617,
     "wof:name":"Lakhi",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692379,
     "wof:placetype":"locality",
     "wof:population":13600,
     "wof:population_rank":6,

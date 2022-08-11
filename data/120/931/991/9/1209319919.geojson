@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"58fbc01441ad82cd266f2c3c4c0ece04",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209319919
+            "county_id":1108692273,
+            "locality_id":1209319919,
+            "region_id":85675753
         }
     ],
     "wof:id":1209319919,
-    "wof:lastmodified":1659985989,
+    "wof:lastmodified":1660238225,
     "wof:name":"Nai Abadi",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

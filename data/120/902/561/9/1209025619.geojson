@@ -37,7 +37,9 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +49,16 @@
     "wof:geomhash":"934815554678589912b0faa5216c4764",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209025619
+            "locality_id":1209025619,
+            "region_id":85675741
         }
     ],
     "wof:id":1209025619,
-    "wof:lastmodified":1659482183,
+    "wof:lastmodified":1660244931,
     "wof:name":"Dheri Qila",
-    "wof:parent_id":85632659,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

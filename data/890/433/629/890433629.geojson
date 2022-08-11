@@ -45,7 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692305
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,14 +63,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692305,
             "locality_id":890433629,
             "region_id":85675753
         }
     ],
     "wof:id":890433629,
-    "wof:lastmodified":1659986130,
+    "wof:lastmodified":1660241842,
     "wof:name":"Kamar Mush\u0101ni",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692305,
     "wof:placetype":"locality",
     "wof:population":15867,
     "wof:population_rank":6,

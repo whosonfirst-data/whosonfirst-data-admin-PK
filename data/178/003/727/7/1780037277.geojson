@@ -36,8 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209220235,
-        85632659
+        102191569,
+        85632659,
+        421180063,
+        1108692227,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,18 @@
     "wof:geomhash":"3429cc4a506f9d7ce90c1598b78f0b45",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209220235,
-            "neighbourhood_id":1780037277
+            "county_id":1108692227,
+            "locality_id":421180063,
+            "neighbourhood_id":1780037277,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037277,
-    "wof:lastmodified":1659484782,
+    "wof:lastmodified":1660244170,
     "wof:name":"Saila",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421180063,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

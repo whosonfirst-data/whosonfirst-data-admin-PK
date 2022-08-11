@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209327109,
-        85632659
+        102191569,
+        85632659,
+        421167203,
+        890455843,
+        85675733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"a166b83ce61ff785e4940f01ff66ed6b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209327109,
-            "neighbourhood_id":1780037295
+            "county_id":890455843,
+            "locality_id":421167203,
+            "neighbourhood_id":1780037295,
+            "region_id":85675733
         }
     ],
     "wof:id":1780037295,
-    "wof:lastmodified":1659484777,
+    "wof:lastmodified":1660244181,
     "wof:name":"Harifal Colony",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421167203,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675757,
+        1108692417
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"0b7223997c693baff79c3b85bc4eff11",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209110485
+            "county_id":1108692417,
+            "locality_id":1209110485,
+            "region_id":85675757
         }
     ],
     "wof:id":1209110485,
-    "wof:lastmodified":1659484822,
+    "wof:lastmodified":1660241979,
     "wof:name":"Rehman Colony",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692417,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[

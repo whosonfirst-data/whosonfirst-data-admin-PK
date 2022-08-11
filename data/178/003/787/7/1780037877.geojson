@@ -39,8 +39,9 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        421191109,
         85632659,
+        890440385,
+        1108692219,
         85675757
     ],
     "wof:breaches":[],
@@ -55,15 +56,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":421191109,
+            "county_id":1108692219,
+            "locality_id":890440385,
             "neighbourhood_id":1780037877,
             "region_id":85675757
         }
     ],
     "wof:id":1780037877,
-    "wof:lastmodified":1659484757,
+    "wof:lastmodified":1660244503,
     "wof:name":"Sewan Sharif",
-    "wof:parent_id":85675757,
+    "wof:parent_id":890440385,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

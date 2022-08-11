@@ -60,8 +60,9 @@
     "wd:wordcount":95,
     "wof:belongsto":[
         102191569,
-        421191097,
         85632659,
+        1125865751,
+        1108692303,
         85675757
     ],
     "wof:breaches":[],
@@ -76,15 +77,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":421191097,
+            "county_id":1108692303,
+            "locality_id":1125865751,
             "neighbourhood_id":1780037875,
             "region_id":85675757
         }
     ],
     "wof:id":1780037875,
-    "wof:lastmodified":1659484757,
+    "wof:lastmodified":1660244502,
     "wof:name":"Halu",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1125865751,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

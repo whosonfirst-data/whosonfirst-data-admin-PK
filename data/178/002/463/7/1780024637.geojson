@@ -22,13 +22,27 @@
         "\u0631\u0634\u06cc\u062f \u0679\u0627\u0624\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"ac4db0c4a7d039a4ca14116fe1fd1fd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024637,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024637,
-    "wof:lastmodified":1659986262,
+    "wof:lastmodified":1660239790,
     "wof:name":"Rasheed Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

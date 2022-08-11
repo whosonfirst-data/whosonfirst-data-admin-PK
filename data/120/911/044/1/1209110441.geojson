@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675757,
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"f32ed1e39af6a9ecb4959a1528e777c2",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209110441
+            "county_id":1108692233,
+            "locality_id":1209110441,
+            "region_id":85675757
         }
     ],
     "wof:id":1209110441,
-    "wof:lastmodified":1659482183,
+    "wof:lastmodified":1660244933,
     "wof:name":"Goth Gul",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -22,15 +22,30 @@
         "\u0648\u0646\u062a\u06be\u0627\u0644\u06cc \u0645\u06cc\u0645\u0646 CHS"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"86ee7297790bc09b4d3d78eead478692",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026065,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026065,
-    "wof:lastmodified":1659986293,
+    "wof:lastmodified":1660240619,
     "wof:name":"Vanthali Memon CHS",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

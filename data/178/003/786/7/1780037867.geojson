@@ -39,8 +39,9 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
-        421193145,
         85632659,
+        1125865697,
+        1108692197,
         85675753
     ],
     "wof:breaches":[],
@@ -55,15 +56,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":421193145,
+            "county_id":1108692197,
+            "locality_id":1125865697,
             "neighbourhood_id":1780037867,
             "region_id":85675753
         }
     ],
     "wof:id":1780037867,
-    "wof:lastmodified":1659484753,
+    "wof:lastmodified":1660244497,
     "wof:name":"Sari Alamgir",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1125865697,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

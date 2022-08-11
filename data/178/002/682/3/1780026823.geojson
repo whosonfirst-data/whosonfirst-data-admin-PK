@@ -22,15 +22,30 @@
         "\u0634\u06cc\u062e \u067e\u0648\u0631"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"059b6a6df4072af5fbdf15e551ff582d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026823,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026823,
-    "wof:lastmodified":1659986282,
+    "wof:lastmodified":1660241381,
     "wof:name":"Sheikhpur",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

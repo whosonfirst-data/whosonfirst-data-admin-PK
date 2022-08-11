@@ -22,13 +22,27 @@
         "\u0627\u0634\u0631\u0641\u06cc\u06c1 \u06a9\u0627\u0644\u0648\u0646\u06cc"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"ca26e8e48d91be298de554025b4d3ebf",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024697,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024697,
-    "wof:lastmodified":1659986291,
+    "wof:lastmodified":1660239825,
     "wof:name":"Ashrafia Colony",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

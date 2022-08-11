@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692377
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692377,
             "locality_id":890430423,
             "region_id":85675753
         }
     ],
     "wof:id":890430423,
-    "wof:lastmodified":1659986127,
+    "wof:lastmodified":1660241816,
     "wof:name":"Ch\u016bhar K\u0101na",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692377,
     "wof:placetype":"locality",
     "wof:population":69321,
     "wof:population_rank":8,

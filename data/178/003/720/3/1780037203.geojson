@@ -41,8 +41,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209638683,
-        85632659
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,15 +55,18 @@
     "wof:geomhash":"fa3c3b17dae8b8f1347e020499c167c0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209638683,
-            "neighbourhood_id":1780037203
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780037203,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037203,
-    "wof:lastmodified":1659484757,
+    "wof:lastmodified":1660244127,
     "wof:name":"Naiwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":890443585,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

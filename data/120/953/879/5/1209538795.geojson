@@ -36,7 +36,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,14 +49,17 @@
     "wof:geomhash":"006b4d77ecb5afaa4f7ac1b400aa7aea",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209538795
+            "county_id":1108692169,
+            "locality_id":1209538795,
+            "region_id":85675753
         }
     ],
     "wof:id":1209538795,
-    "wof:lastmodified":1659484733,
+    "wof:lastmodified":1660242030,
     "wof:name":"Chak Two Hundred Five Rakh Branch",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[

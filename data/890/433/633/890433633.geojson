@@ -152,7 +152,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -167,14 +168,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692361,
             "locality_id":890433633,
             "region_id":85675753
         }
     ],
     "wof:id":890433633,
-    "wof:lastmodified":1659986130,
+    "wof:lastmodified":1660241845,
     "wof:name":"Kah\u016bta",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692361,
     "wof:placetype":"locality",
     "wof:population":22551,
     "wof:population_rank":7,

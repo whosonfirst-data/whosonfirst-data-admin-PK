@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209214351,
-        85632659
+        102191569,
+        85632659,
+        421193257,
+        1108692239,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"585e4bfa11589b02ff294cdfb4a23fcc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209214351,
-            "neighbourhood_id":1780037349
+            "county_id":1108692239,
+            "locality_id":421193257,
+            "neighbourhood_id":1780037349,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037349,
-    "wof:lastmodified":1659484829,
+    "wof:lastmodified":1660244210,
     "wof:name":"Thatta Balochan",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421193257,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

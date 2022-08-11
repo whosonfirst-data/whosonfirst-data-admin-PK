@@ -22,15 +22,30 @@
         "\u0627\u0648\u0631\u0646\u06af\u06cc \u0679\u0627\u0624\u0646 \u0633\u06cc\u06a9\u0679\u0631 13"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"e7f3807f95e5dd4909ddf81be1cd4dd4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026275,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026275,
-    "wof:lastmodified":1659986259,
+    "wof:lastmodified":1660240740,
     "wof:name":"Orangi Town Sector 13",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

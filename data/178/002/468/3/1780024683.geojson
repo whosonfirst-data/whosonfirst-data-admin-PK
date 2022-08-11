@@ -22,13 +22,27 @@
         "\u0628\u0627\u0686\u0627 \u062e\u0627\u0646 \u0627\u0646\u0679\u0631\u0646\u06cc\u0634\u0646\u0644 \u0627\u06cc\u0626\u0631\u067e\u0648\u0631\u0679"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"95944fef0537d1910bda02a9453ef4bc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024683,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024683,
-    "wof:lastmodified":1659986294,
+    "wof:lastmodified":1660239818,
     "wof:name":"Bacha Khan International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

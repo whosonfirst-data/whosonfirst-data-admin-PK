@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692283,
             "locality_id":890430659,
             "region_id":85675753
         }
     ],
     "wof:id":890430659,
-    "wof:lastmodified":1659986127,
+    "wof:lastmodified":1660241823,
     "wof:name":"Basti Aukharvand",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692283,
     "wof:placetype":"locality",
     "wof:population":1000,
     "wof:population_rank":3,

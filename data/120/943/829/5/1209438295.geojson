@@ -163,7 +163,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -173,14 +176,17 @@
     "wof:geomhash":"b95e98992525f031062a0466823a6e0d",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209438295
+            "county_id":1108692223,
+            "locality_id":1209438295,
+            "region_id":85675753
         }
     ],
     "wof:id":1209438295,
-    "wof:lastmodified":1659986021,
+    "wof:lastmodified":1660238250,
     "wof:name":"Sialkot",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

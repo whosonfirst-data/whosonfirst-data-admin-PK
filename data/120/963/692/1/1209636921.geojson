@@ -43,6 +43,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
         85632659
     ],
     "wof:breaches":[],
@@ -53,14 +58,26 @@
     "wof:geomhash":"1f6faf6a87de2c7ed3b7120957ad6efc",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1209636921,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209636921
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1209636921,
+            "region_id":85675735
         }
     ],
     "wof:id":1209636921,
-    "wof:lastmodified":1659985997,
+    "wof:lastmodified":1660238277,
     "wof:name":"Jhanda",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

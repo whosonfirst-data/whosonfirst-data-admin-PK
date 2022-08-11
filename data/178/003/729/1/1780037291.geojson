@@ -89,8 +89,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209320293,
-        85632659
+        102191569,
+        85632659,
+        421181503,
+        1108692169,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -100,15 +103,18 @@
     "wof:geomhash":"57733a32e531a48089c290511b0ed2b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209320293,
-            "neighbourhood_id":1780037291
+            "county_id":1108692169,
+            "locality_id":421181503,
+            "neighbourhood_id":1780037291,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037291,
-    "wof:lastmodified":1659484780,
+    "wof:lastmodified":1660244178,
     "wof:name":"Jamalpur",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421181503,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

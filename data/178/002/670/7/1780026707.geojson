@@ -22,15 +22,30 @@
         "\u06af\u0644\u0628\u06c1\u0627\u0631 \u0627\u0633\u06a9\u06cc\u0645"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"6db9bb2cfcb8fbf7bce8bba10baa7a33",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026707,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026707,
-    "wof:lastmodified":1659986287,
+    "wof:lastmodified":1660241385,
     "wof:name":"Gulbahar Scheme",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

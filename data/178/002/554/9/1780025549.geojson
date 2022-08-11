@@ -22,15 +22,30 @@
         "\u0641\u06cc\u0644\u06a9\u0646 \u06a9\u0645\u067e\u0644\u06cc\u06a9\u0633 \u0641\u06cc\u0635\u0644"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"0439f2c23752710c3c69cc2069771cbc",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025549,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780025549,
-    "wof:lastmodified":1659986280,
+    "wof:lastmodified":1660240321,
     "wof:name":"Falcon Complex Faisal",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

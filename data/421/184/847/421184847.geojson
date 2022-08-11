@@ -93,7 +93,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -109,14 +110,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692339,
             "locality_id":421184847,
             "region_id":85675753
         }
     ],
     "wof:id":421184847,
-    "wof:lastmodified":1659986122,
+    "wof:lastmodified":1660241523,
     "wof:name":"Haveli",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692339,
     "wof:placetype":"locality",
     "wof:population":65289,
     "wof:population_rank":8,

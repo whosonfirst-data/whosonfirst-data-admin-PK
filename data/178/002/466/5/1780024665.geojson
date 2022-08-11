@@ -22,13 +22,27 @@
         "\u0645\u0627\u0646\u06a9\u0627\u0631\u0627\u0624"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"79a6b6b340a8848fb49e1d9e2c9e7df2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024665,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024665,
-    "wof:lastmodified":1659986296,
+    "wof:lastmodified":1660239807,
     "wof:name":"Manakrao",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

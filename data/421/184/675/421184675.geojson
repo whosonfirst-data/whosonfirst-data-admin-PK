@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +58,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692233,
             "locality_id":421184675,
             "region_id":85675757
         }
     ],
     "wof:id":421184675,
-    "wof:lastmodified":1659482186,
+    "wof:lastmodified":1660245253,
     "wof:name":"Karachi Lines",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692233,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

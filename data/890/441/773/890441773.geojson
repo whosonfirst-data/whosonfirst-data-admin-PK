@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692259
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692259,
             "locality_id":890441773,
             "region_id":85675733
         }
     ],
     "wof:id":890441773,
-    "wof:lastmodified":1659986126,
+    "wof:lastmodified":1660241888,
     "wof:name":"Khadan Kh\u0101k",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692259,
     "wof:placetype":"locality",
     "wof:population":6622,
     "wof:population_rank":5,

@@ -22,15 +22,30 @@
         "\u0628\u06be\u06af\u062a \u067e\u0648\u0631\u0627"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421204525,
+        1108692273,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"bfcbcda5bdf5a9b99c2564a11f42cf74",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":421204525,
+            "neighbourhood_id":1780024741,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780024741,
-    "wof:lastmodified":1659986287,
+    "wof:lastmodified":1660241733,
     "wof:name":"Bhagatpura",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

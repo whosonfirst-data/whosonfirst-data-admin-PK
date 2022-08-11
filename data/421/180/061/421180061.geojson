@@ -76,7 +76,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692227
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -93,14 +94,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692227,
             "locality_id":421180061,
             "region_id":85675753
         }
     ],
     "wof:id":421180061,
-    "wof:lastmodified":1659986115,
+    "wof:lastmodified":1660241477,
     "wof:name":"Khewra",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692227,
     "wof:placetype":"locality",
     "wof:population":32620,
     "wof:population_rank":7,

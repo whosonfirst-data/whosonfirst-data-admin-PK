@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,14 +117,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692281,
             "locality_id":421167205,
             "region_id":85675733
         }
     ],
     "wof:id":421167205,
-    "wof:lastmodified":1659986110,
+    "wof:lastmodified":1660241230,
     "wof:name":"Uthal",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692281,
     "wof:placetype":"locality",
     "wof:population":16483,
     "wof:population_rank":6,

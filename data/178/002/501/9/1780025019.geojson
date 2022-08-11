@@ -22,15 +22,30 @@
         "\u0628\u0627\u0628\u0648 \u0633\u0627\u0628\u0648"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421204525,
+        1108692273,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"e6ab39b4a8cf87460e664b7ae403d590",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":421204525,
+            "neighbourhood_id":1780025019,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780025019,
-    "wof:lastmodified":1659986275,
+    "wof:lastmodified":1660241752,
     "wof:name":"Babu Sabu",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

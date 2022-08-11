@@ -81,7 +81,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,14 +99,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692143,
             "locality_id":421178573,
             "region_id":85675753
         }
     ],
     "wof:id":421178573,
-    "wof:lastmodified":1659986124,
+    "wof:lastmodified":1660241450,
     "wof:name":"Mankera",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692143,
     "wof:placetype":"locality",
     "wof:population":10819,
     "wof:population_rank":6,

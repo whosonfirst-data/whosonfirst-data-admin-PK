@@ -22,13 +22,27 @@
         "\u0634\u0627\u06c1\u06cc\u0646 \u0645\u0633\u0644\u0645 \u0679\u0627\u0624\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"840236a786d9c5f0011bd74de4d5801a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024639,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024639,
-    "wof:lastmodified":1659986262,
+    "wof:lastmodified":1660239791,
     "wof:name":"Shaheen Muslim Town",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

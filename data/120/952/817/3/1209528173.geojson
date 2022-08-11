@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675733,
+        1108692231
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"6a9fc6cdacb6bd7b07c268899e27c0cf",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209528173
+            "county_id":1108692231,
+            "locality_id":1209528173,
+            "region_id":85675733
         }
     ],
     "wof:id":1209528173,
-    "wof:lastmodified":1659985998,
+    "wof:lastmodified":1660238258,
     "wof:name":"Gharibabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692231,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -75,7 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -91,14 +92,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692149,
             "locality_id":421193595,
             "region_id":85675753
         }
     ],
     "wof:id":421193595,
-    "wof:lastmodified":1659986108,
+    "wof:lastmodified":1660241589,
     "wof:name":"Choa Saidan Shah",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692149,
     "wof:placetype":"locality",
     "wof:population":15344,
     "wof:population_rank":6,

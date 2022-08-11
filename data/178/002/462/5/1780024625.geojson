@@ -22,13 +22,27 @@
         "\u0634\u0648\u0628\u0627 \u0628\u0627\u0632\u0627\u0631"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"be1ace69d4ce4428a7c8f7f78f85a1df",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024625,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024625,
-    "wof:lastmodified":1659986268,
+    "wof:lastmodified":1660239783,
     "wof:name":"Shuba Bazaar",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

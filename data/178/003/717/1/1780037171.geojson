@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209539021,
-        85632659
+        102191569,
+        85632659,
+        421169881,
+        1108692129,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"ae16c41572bb009fb53207d5d2446b35",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209539021,
-            "neighbourhood_id":1780037171
+            "county_id":1108692129,
+            "locality_id":421169881,
+            "neighbourhood_id":1780037171,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037171,
-    "wof:lastmodified":1659484814,
+    "wof:lastmodified":1660244109,
     "wof:name":"Basti Qureshian",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421169881,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

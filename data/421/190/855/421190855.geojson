@@ -53,10 +53,11 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":58,
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692273
+        421204525,
+        1108692273,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,15 +75,15 @@
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692273,
-            "locality_id":-1,
+            "locality_id":421204525,
             "neighbourhood_id":421190855,
             "region_id":85675753
         }
     ],
     "wof:id":421190855,
-    "wof:lastmodified":1659986118,
+    "wof:lastmodified":1660241755,
     "wof:name":"Railway Colony",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

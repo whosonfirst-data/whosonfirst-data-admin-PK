@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209314011,
-        85632659
+        102191569,
+        85632659,
+        421200425,
+        1108692129,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"46e50e8513710b50512f020493b2a6f9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209314011,
-            "neighbourhood_id":1780037155
+            "county_id":1108692129,
+            "locality_id":421200425,
+            "neighbourhood_id":1780037155,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037155,
-    "wof:lastmodified":1659484763,
+    "wof:lastmodified":1660244099,
     "wof:name":"Ghalla Mandi",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421200425,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

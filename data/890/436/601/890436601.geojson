@@ -41,7 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692357
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +57,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692357,
             "locality_id":890436601,
             "region_id":85675753
         }
     ],
     "wof:id":890436601,
-    "wof:lastmodified":1659986128,
+    "wof:lastmodified":1660241859,
     "wof:name":"Kot Sam\u0101ba",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692357,
     "wof:placetype":"locality",
     "wof:population":22953,
     "wof:population_rank":7,

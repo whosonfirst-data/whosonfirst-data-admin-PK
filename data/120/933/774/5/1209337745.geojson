@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692381
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"2b24b70d6916e2fbfd7c262a4942446e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209337745
+            "county_id":1108692381,
+            "locality_id":1209337745,
+            "region_id":85675753
         }
     ],
     "wof:id":1209337745,
-    "wof:lastmodified":1659986013,
+    "wof:lastmodified":1660238230,
     "wof:name":"Bilal Colony",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

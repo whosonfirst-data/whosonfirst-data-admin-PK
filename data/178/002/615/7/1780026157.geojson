@@ -22,15 +22,30 @@
         "\u0639\u0628\u0627\u0633 \u0679\u0627\u0624\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"1b4e0b567cc49799c529e47e44aa2246",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026157,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026157,
-    "wof:lastmodified":1659986285,
+    "wof:lastmodified":1660240672,
     "wof:name":"Abbas Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -80,7 +80,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692237
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -96,14 +97,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692237,
             "locality_id":421197197,
             "region_id":85675757
         }
     ],
     "wof:id":421197197,
-    "wof:lastmodified":1659986118,
+    "wof:lastmodified":1660241626,
     "wof:name":"Kandhkot",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692237,
     "wof:placetype":"locality",
     "wof:population":88468,
     "wof:population_rank":8,

@@ -37,7 +37,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,14 +50,17 @@
     "wof:geomhash":"d14021495fb6cf8a3310cf97bdc039ef",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209111771
+            "county_id":1108692325,
+            "locality_id":1209111771,
+            "region_id":85675753
         }
     ],
     "wof:id":1209111771,
-    "wof:lastmodified":1659986014,
+    "wof:lastmodified":1660238198,
     "wof:name":"Mustafabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692325,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

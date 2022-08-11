@@ -22,15 +22,30 @@
         "\u06af\u0644\u0634\u0646 \u0639\u0645\u06cc\u0631"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"0d31a9891182b52fd9d945f1e1b77282",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025339,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780025339,
-    "wof:lastmodified":1659986248,
+    "wof:lastmodified":1660240199,
     "wof:name":"Gulshan-e-Umair",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

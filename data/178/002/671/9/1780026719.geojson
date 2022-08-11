@@ -22,15 +22,30 @@
         "\u06a9\u0648\u0631\u0646\u06af \u0679\u0627\u0624\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"ae110a5ffd0a5cd07b223a453a21ea9c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026719,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026719,
-    "wof:lastmodified":1659986282,
+    "wof:lastmodified":1660241386,
     "wof:name":"Korang Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -272,7 +272,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        890455843
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -289,14 +290,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":890455843,
             "locality_id":421167203,
             "region_id":85675733
         }
     ],
     "wof:id":421167203,
-    "wof:lastmodified":1659986109,
+    "wof:lastmodified":1660241229,
     "wof:name":"Zhob",
-    "wof:parent_id":85675733,
+    "wof:parent_id":890455843,
     "wof:placetype":"locality",
     "wof:population":50537,
     "wof:population_rank":8,

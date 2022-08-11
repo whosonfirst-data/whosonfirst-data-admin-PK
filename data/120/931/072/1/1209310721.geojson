@@ -31,7 +31,9 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +43,16 @@
     "wof:geomhash":"ad1d6f18fd4ec056abb411d4457ff63e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209310721
+            "locality_id":1209310721,
+            "region_id":85675741
         }
     ],
     "wof:id":1209310721,
-    "wof:lastmodified":1659482182,
+    "wof:lastmodified":1660244943,
     "wof:name":"Bar Khanzada",
-    "wof:parent_id":85632659,
+    "wof:parent_id":85675741,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -96,7 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692301
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -113,14 +114,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692301,
             "locality_id":421198687,
             "region_id":85675733
         }
     ],
     "wof:id":421198687,
-    "wof:lastmodified":1659986117,
+    "wof:lastmodified":1660241649,
     "wof:name":"Mastung",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692301,
     "wof:placetype":"locality",
     "wof:population":29082,
     "wof:population_rank":7,

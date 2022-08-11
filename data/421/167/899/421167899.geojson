@@ -266,7 +266,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692257
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -283,14 +284,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692257,
             "locality_id":421167899,
             "region_id":85675733
         }
     ],
     "wof:id":421167899,
-    "wof:lastmodified":1659986111,
+    "wof:lastmodified":1660241294,
     "wof:name":"Chaman",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692257,
     "wof:placetype":"locality",
     "wof:population":88568,
     "wof:population_rank":8,

@@ -37,8 +37,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209104551,
-        85632659
+        102191569,
+        85632659,
+        890440435,
+        1108692277,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +51,18 @@
     "wof:geomhash":"501837b7fc147082de5fa13dc0b3a260",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209104551,
-            "neighbourhood_id":1780037351
+            "county_id":1108692277,
+            "locality_id":890440435,
+            "neighbourhood_id":1780037351,
+            "region_id":85675757
         }
     ],
     "wof:id":1780037351,
-    "wof:lastmodified":1659484728,
+    "wof:lastmodified":1660244211,
     "wof:name":"Goth Jam Shoro",
-    "wof:parent_id":85632659,
+    "wof:parent_id":890440435,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

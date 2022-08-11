@@ -46,7 +46,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675757,
+        1108692159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -56,14 +59,17 @@
     "wof:geomhash":"806b9c19b284ac1d25bbf61fe0038439",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209213213
+            "county_id":1108692159,
+            "locality_id":1209213213,
+            "region_id":85675757
         }
     ],
     "wof:id":1209213213,
-    "wof:lastmodified":1659986019,
+    "wof:lastmodified":1660238202,
     "wof:name":"Sharifabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -66,8 +66,11 @@
         "state_id":2346498
     },
     "wof:belongsto":[
+        85675753,
+        102191569,
         85632659,
-        85675753
+        421181503,
+        1108692169
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -82,14 +85,18 @@
     "wof:hierarchy":[
         {
             "campus_id":102535597,
+            "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692169,
+            "locality_id":421181503,
+            "neighbourhood_id":-1,
             "region_id":85675753
         }
     ],
     "wof:id":102535597,
-    "wof:lastmodified":1631751105,
+    "wof:lastmodified":1660241504,
     "wof:name":"Faisalabad Airport",
-    "wof:parent_id":85675753,
+    "wof:parent_id":421181503,
     "wof:placetype":"campus",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

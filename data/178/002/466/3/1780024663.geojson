@@ -22,13 +22,27 @@
         "\u067e\u0634\u0627\u0648\u0631 \u06a9\u0646\u0679\u0648\u0646\u0645\u0646\u0679"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"4648b1f1a8b88ac13d384d4e27794bde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024663,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024663,
-    "wof:lastmodified":1659986296,
+    "wof:lastmodified":1660239805,
     "wof:name":"Peshawar Cantonment",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -40,7 +40,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675733,
+        1108692253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +53,17 @@
     "wof:geomhash":"97ec514407a19b006538939b3d32f781",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209417137
+            "county_id":1108692253,
+            "locality_id":1209417137,
+            "region_id":85675733
         }
     ],
     "wof:id":1209417137,
-    "wof:lastmodified":1659986000,
+    "wof:lastmodified":1660238241,
     "wof:name":"Saeedabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

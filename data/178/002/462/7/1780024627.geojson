@@ -22,13 +22,27 @@
         "\u0645\u062d\u0644\u06c1 \u06c1\u062f\u0627"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"9eca468f703f635cfc98e4adef832817",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024627,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024627,
-    "wof:lastmodified":1659986268,
+    "wof:lastmodified":1660239785,
     "wof:name":"Mohalla Hudda",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

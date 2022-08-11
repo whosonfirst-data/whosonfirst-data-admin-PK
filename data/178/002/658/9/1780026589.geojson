@@ -22,15 +22,30 @@
         "\u0688\u06be\u0648\u06a9 \u06a9\u0634\u0645\u06cc\u0631\u06cc\u0627\u06ba"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"07e8edcd78a74d22e9f1f9f5d161dbd3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026589,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026589,
-    "wof:lastmodified":1659986264,
+    "wof:lastmodified":1660241364,
     "wof:name":"Dhoke Kashmirian",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -338,7 +338,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -359,15 +360,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692313,
             "locality_id":890443585,
             "region_id":85675753
         }
     ],
     "wof:id":890443585,
-    "wof:lastmodified":1659986129,
+    "wof:lastmodified":1660241902,
     "wof:megacity":1,
     "wof:name":"Mult\u0101n",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692313,
     "wof:placetype":"locality",
     "wof:population":1437230,
     "wof:population_rank":12,

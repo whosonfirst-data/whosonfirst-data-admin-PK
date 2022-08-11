@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692245
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692245,
             "locality_id":890441299,
             "region_id":85675757
         }
     ],
     "wof:id":890441299,
-    "wof:lastmodified":1659986126,
+    "wof:lastmodified":1660241878,
     "wof:name":"Karaundi",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:population":8604,
     "wof:population_rank":5,

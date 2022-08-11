@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209514791,
-        85632659
+        102191569,
+        85632659,
+        421169261,
+        1108692143,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"1a88ec59d826522c3ec0b09de8be5301",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209514791,
-            "neighbourhood_id":1780037313
+            "county_id":1108692143,
+            "locality_id":421169261,
+            "neighbourhood_id":1780037313,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037313,
-    "wof:lastmodified":1659484765,
+    "wof:lastmodified":1660244190,
     "wof:name":"Basti Kutane",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421169261,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

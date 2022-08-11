@@ -61,7 +61,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675733,
+        1108692147
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,14 +74,17 @@
     "wof:geomhash":"319b3a967de780b92cdd8e3ee909d3a9",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209422861
+            "county_id":1108692147,
+            "locality_id":1209422861,
+            "region_id":85675733
         }
     ],
     "wof:id":1209422861,
-    "wof:lastmodified":1659986016,
+    "wof:lastmodified":1660238247,
     "wof:name":"Landi",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692339
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"db4321a2a3577ddfc0c08f9cd66c6f88",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209638785
+            "county_id":1108692339,
+            "locality_id":1209638785,
+            "region_id":85675753
         }
     ],
     "wof:id":1209638785,
-    "wof:lastmodified":1659484823,
+    "wof:lastmodified":1660242051,
     "wof:name":"Daroli",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[

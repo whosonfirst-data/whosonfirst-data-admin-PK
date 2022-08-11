@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209620721,
-        85632659
+        102191569,
+        85632659,
+        421200339,
+        1108692305,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"2463440e7fb6289ebb77fa6b1a1a319b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209620721,
-            "neighbourhood_id":1780037197
+            "county_id":1108692305,
+            "locality_id":421200339,
+            "neighbourhood_id":1780037197,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037197,
-    "wof:lastmodified":1659484797,
+    "wof:lastmodified":1660244125,
     "wof:name":"Sohrabwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421200339,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

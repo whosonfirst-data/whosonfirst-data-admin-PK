@@ -66,7 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692355
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -81,14 +82,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692355,
             "locality_id":421194603,
             "region_id":85675757
         }
     ],
     "wof:id":421194603,
-    "wof:lastmodified":1659986107,
+    "wof:lastmodified":1660241607,
     "wof:name":"Nasirabad",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692355,
     "wof:placetype":"locality",
     "wof:population":27809,
     "wof:population_rank":7,

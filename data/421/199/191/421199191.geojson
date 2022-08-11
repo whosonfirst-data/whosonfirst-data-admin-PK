@@ -80,7 +80,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -97,14 +98,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692201,
             "locality_id":421199191,
             "region_id":85675753
         }
     ],
     "wof:id":421199191,
-    "wof:lastmodified":1659986119,
+    "wof:lastmodified":1660241659,
     "wof:name":"Pindi Battian",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692201,
     "wof:placetype":"locality",
     "wof:population":35088,
     "wof:population_rank":7,

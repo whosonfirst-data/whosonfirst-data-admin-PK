@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675757,
+        1108692159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"5aee8da46789c30305a03f034506b62e",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209008509
+            "county_id":1108692159,
+            "locality_id":1209008509,
+            "region_id":85675757
         }
     ],
     "wof:id":1209008509,
-    "wof:lastmodified":1659985991,
+    "wof:lastmodified":1660238175,
     "wof:name":"Kulachi",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

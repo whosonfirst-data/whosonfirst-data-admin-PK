@@ -105,7 +105,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692349
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -122,14 +123,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692349,
             "locality_id":421178399,
             "region_id":85675733
         }
     ],
     "wof:id":421178399,
-    "wof:lastmodified":1659986124,
+    "wof:lastmodified":1660241443,
     "wof:name":"Pishin",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692349,
     "wof:placetype":"locality",
     "wof:population":24239,
     "wof:population_rank":7,

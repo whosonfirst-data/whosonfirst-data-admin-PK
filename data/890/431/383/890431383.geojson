@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692363
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692363,
             "locality_id":890431383,
             "region_id":85675753
         }
     ],
     "wof:id":890431383,
-    "wof:lastmodified":1659986128,
+    "wof:lastmodified":1660241834,
     "wof:name":"Chak \u0100zam Saffo",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692363,
     "wof:placetype":"locality",
     "wof:population":38216,
     "wof:population_rank":7,

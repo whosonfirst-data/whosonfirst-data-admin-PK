@@ -49,10 +49,11 @@
     ],
     "src:lbl_centroid":"whosonfirst",
     "wof:belongsto":[
-        85675753,
         102191569,
         85632659,
-        1108692361
+        421173213,
+        1108692361,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -68,15 +69,15 @@
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692361,
-            "locality_id":-1,
+            "locality_id":421173213,
             "neighbourhood_id":421184939,
             "region_id":85675753
         }
     ],
     "wof:id":421184939,
-    "wof:lastmodified":1659986121,
+    "wof:lastmodified":1660241533,
     "wof:name":"Workshopi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

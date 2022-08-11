@@ -56,7 +56,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692379
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -71,14 +72,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692379,
             "locality_id":421179755,
             "region_id":85675757
         }
     ],
     "wof:id":421179755,
-    "wof:lastmodified":1659986123,
+    "wof:lastmodified":1660241469,
     "wof:name":"Madeji",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692379,
     "wof:placetype":"locality",
     "wof:population":14802,
     "wof:population_rank":6,

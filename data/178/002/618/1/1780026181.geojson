@@ -22,15 +22,30 @@
         "\u0628\u06be\u0679 \u0622\u0626\u06cc \u0644\u06cc\u0646\u0688"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"2c18a4e391b5d252a983ea7217ba1d03",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026181,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026181,
-    "wof:lastmodified":1659986259,
+    "wof:lastmodified":1660240686,
     "wof:name":"Bhitt Island",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

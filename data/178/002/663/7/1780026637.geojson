@@ -22,15 +22,30 @@
         "\u0645\u0631\u06cc\u0631 \u062d\u0633\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"b76300025bd2c864e1dd202444606653",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026637,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026637,
-    "wof:lastmodified":1659986291,
+    "wof:lastmodified":1660241367,
     "wof:name":"Marir Hassan",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -60,7 +60,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +78,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692313,
             "locality_id":890435429,
             "region_id":85675753
         }
     ],
     "wof:id":890435429,
-    "wof:lastmodified":1659986131,
+    "wof:lastmodified":1660241856,
     "wof:name":"Q\u0101dirpur R\u0101n",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692313,
     "wof:placetype":"locality",
     "wof:population":20407,
     "wof:population_rank":7,

@@ -22,15 +22,28 @@
         "\u0633\u06cc\u06a9\u0679\u0631 G-13"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        421168811,
+        85632659,
+        85675741
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"3eb5880d732356c128122690eb70ac81",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "locality_id":421168811,
+            "neighbourhood_id":1780026931,
+            "region_id":85675741
+        }
+    ],
     "wof:id":1780026931,
-    "wof:lastmodified":1659986264,
+    "wof:lastmodified":1660241121,
     "wof:name":"Sector G-13",
-    "wof:parent_id":-1,
+    "wof:parent_id":421168811,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

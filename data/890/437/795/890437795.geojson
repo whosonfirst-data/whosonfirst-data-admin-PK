@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692321
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692321,
             "locality_id":890437795,
             "region_id":85675753
         }
     ],
     "wof:id":890437795,
-    "wof:lastmodified":1659986127,
+    "wof:lastmodified":1660241865,
     "wof:name":"Jatoi Shim\u0101li",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:population":47144,
     "wof:population_rank":7,

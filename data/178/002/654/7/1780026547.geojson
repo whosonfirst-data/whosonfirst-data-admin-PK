@@ -22,15 +22,30 @@
         "\u0646\u0627\u0646\u06a9 \u067e\u0648\u0631\u0627"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"b24effcdf82d4bf8d6212ee2c16b72b7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026547,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026547,
-    "wof:lastmodified":1659986296,
+    "wof:lastmodified":1660241361,
     "wof:name":"Nanakpura",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

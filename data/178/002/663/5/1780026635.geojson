@@ -22,15 +22,30 @@
         "\u0688\u06be\u0648\u06a9 \u0686\u0631\u0627\u063a \u062f\u06cc\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"641fdf8881f59182ac05711328a6d00c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026635,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026635,
-    "wof:lastmodified":1659986292,
+    "wof:lastmodified":1660241367,
     "wof:name":"Dhoke Chiragh Din",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

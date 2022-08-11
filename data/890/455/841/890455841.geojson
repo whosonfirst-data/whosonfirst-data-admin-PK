@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -58,14 +59,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692365,
             "locality_id":890455841,
             "region_id":85675757
         }
     ],
     "wof:id":890455841,
-    "wof:lastmodified":1659986128,
+    "wof:lastmodified":1660241924,
     "wof:name":"T\u0101ndo Mittha Kh\u0101n",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692365,
     "wof:placetype":"locality",
     "wof:population":2723,
     "wof:population_rank":4,

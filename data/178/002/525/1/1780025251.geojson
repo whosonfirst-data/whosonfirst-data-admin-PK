@@ -22,15 +22,30 @@
         "\u062d\u0633\u0646 \u0627\u0648\u0644\u06cc\u0627\u0621"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"fea32e74e67aee37c3fe24b957e9d8d7",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025251,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780025251,
-    "wof:lastmodified":1659986300,
+    "wof:lastmodified":1660240148,
     "wof:name":"Hassan Auliya",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

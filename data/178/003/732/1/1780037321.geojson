@@ -36,8 +36,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209337871,
-        85632659
+        102191569,
+        85632659,
+        421175525,
+        1108692381,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,15 +50,18 @@
     "wof:geomhash":"b0928d5f9ccbb9162557f5ab8b542c01",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209337871,
-            "neighbourhood_id":1780037321
+            "county_id":1108692381,
+            "locality_id":421175525,
+            "neighbourhood_id":1780037321,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037321,
-    "wof:lastmodified":1659484721,
+    "wof:lastmodified":1660244195,
     "wof:name":"Godpur",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421175525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

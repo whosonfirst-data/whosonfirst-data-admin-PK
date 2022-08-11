@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209619447,
-        85632659
+        102191569,
+        85632659,
+        421176971,
+        1108692123,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"33e5e008f65a713848817c135cc79abd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209619447,
-            "neighbourhood_id":1780037287
+            "county_id":1108692123,
+            "locality_id":421176971,
+            "neighbourhood_id":1780037287,
+            "region_id":85675757
         }
     ],
     "wof:id":1780037287,
-    "wof:lastmodified":1659484827,
+    "wof:lastmodified":1660244177,
     "wof:name":"Patar",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421176971,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

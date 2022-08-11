@@ -22,15 +22,30 @@
         "\u0645\u0633\u0644\u0645 \u0679\u0627\u0624\u0646"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421204525,
+        1108692273,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"a93cc2e8f64f665ea86457e890ac34e9",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692273,
+            "locality_id":421204525,
+            "neighbourhood_id":1780025029,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780025029,
-    "wof:lastmodified":1659986248,
+    "wof:lastmodified":1660241753,
     "wof:name":"Muslim Town",
-    "wof:parent_id":-1,
+    "wof:parent_id":421204525,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

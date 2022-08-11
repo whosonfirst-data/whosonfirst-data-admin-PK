@@ -81,7 +81,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692281
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -98,14 +99,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692281,
             "locality_id":421203545,
             "region_id":85675733
         }
     ],
     "wof:id":421203545,
-    "wof:lastmodified":1659986113,
+    "wof:lastmodified":1660241715,
     "wof:name":"Gadani",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692281,
     "wof:placetype":"locality",
     "wof:population":13427,
     "wof:population_rank":6,

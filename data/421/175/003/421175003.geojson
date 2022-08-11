@@ -68,7 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692195
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -85,14 +86,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692195,
             "locality_id":421175003,
             "region_id":85675753
         }
     ],
     "wof:id":421175003,
-    "wof:lastmodified":1659986117,
+    "wof:lastmodified":1660241404,
     "wof:name":"Eminabad",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692195,
     "wof:placetype":"locality",
     "wof:population":22679,
     "wof:population_rank":7,

@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209319953,
-        85632659
+        102191569,
+        85632659,
+        421167287,
+        1108692421,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"9a4e34ffa957c8d57a40a22aba637ccd",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209319953,
-            "neighbourhood_id":1780037159
+            "county_id":1108692421,
+            "locality_id":421167287,
+            "neighbourhood_id":1780037159,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037159,
-    "wof:lastmodified":1659484749,
+    "wof:lastmodified":1660244102,
     "wof:name":"Yaqubabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421167287,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

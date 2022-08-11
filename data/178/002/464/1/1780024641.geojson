@@ -22,13 +22,27 @@
         "\u0628\u06cc\u0691\u06cc \u0628\u0627\u063a"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"bec25b100b21da1c3701dea1a7f140a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024641,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024641,
-    "wof:lastmodified":1659986263,
+    "wof:lastmodified":1660239792,
     "wof:name":"Beri Bagh",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -72,7 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692329
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -89,14 +90,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692329,
             "locality_id":421168465,
             "region_id":85675757
         }
     ],
     "wof:id":421168465,
-    "wof:lastmodified":1659986106,
+    "wof:lastmodified":1660241299,
     "wof:name":"Kandiaro",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692329,
     "wof:placetype":"locality",
     "wof:population":26807,
     "wof:population_rank":7,

@@ -22,15 +22,30 @@
         "\u0688\u06be\u0648\u06a9 \u0645\u0646\u06af\u062a\u0627\u0644"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"4393c4b0fab2e43a12a7f56d7d0f7766",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026541,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026541,
-    "wof:lastmodified":1659986296,
+    "wof:lastmodified":1660241361,
     "wof:name":"Dhoke Mangtal",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

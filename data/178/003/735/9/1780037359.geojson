@@ -35,8 +35,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209102259,
-        85632659
+        102191569,
+        421168811,
+        85632659,
+        85675741
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +48,17 @@
     "wof:geomhash":"2cb16902d3a193b7bc2ddc7652c690f8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209102259,
-            "neighbourhood_id":1780037359
+            "locality_id":421168811,
+            "neighbourhood_id":1780037359,
+            "region_id":85675741
         }
     ],
     "wof:id":1780037359,
-    "wof:lastmodified":1659484825,
+    "wof:lastmodified":1660244215,
     "wof:name":"Dhok Ashraf",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421168811,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

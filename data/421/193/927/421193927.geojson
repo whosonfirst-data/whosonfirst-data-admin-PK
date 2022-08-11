@@ -186,7 +186,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692421
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -202,14 +203,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692421,
             "locality_id":421193927,
             "region_id":85675753
         }
     ],
     "wof:id":421193927,
-    "wof:lastmodified":1659986108,
+    "wof:lastmodified":1660241593,
     "wof:name":"Vehari",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692421,
     "wof:placetype":"locality",
     "wof:population":112840,
     "wof:population_rank":9,

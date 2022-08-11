@@ -67,7 +67,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692223
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -77,14 +80,17 @@
     "wof:geomhash":"4bf58a0f5decd8b049b5368c0c7d9436",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209105483
+            "county_id":1108692223,
+            "locality_id":1209105483,
+            "region_id":85675753
         }
     ],
     "wof:id":1209105483,
-    "wof:lastmodified":1659986020,
+    "wof:lastmodified":1660238188,
     "wof:name":"Sadiqabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

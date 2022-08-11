@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -73,14 +74,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692219,
             "locality_id":421193713,
             "region_id":85675757
         }
     ],
     "wof:id":421193713,
-    "wof:lastmodified":1659986108,
+    "wof:lastmodified":1660241592,
     "wof:name":"Nooriabad",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692219,
     "wof:placetype":"locality",
     "wof:population":1000,
     "wof:population_rank":3,

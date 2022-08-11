@@ -57,7 +57,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692365
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -72,14 +73,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692365,
             "locality_id":421167257,
             "region_id":85675757
         }
     ],
     "wof:id":421167257,
-    "wof:lastmodified":1659986109,
+    "wof:lastmodified":1660241262,
     "wof:name":"Jhol",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692365,
     "wof:placetype":"locality",
     "wof:population":16067,
     "wof:population_rank":6,

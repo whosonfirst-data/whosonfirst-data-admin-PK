@@ -41,7 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692283
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,14 +56,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692283,
             "locality_id":890442917,
             "region_id":85675753
         }
     ],
     "wof:id":890442917,
-    "wof:lastmodified":1659986130,
+    "wof:lastmodified":1660241895,
     "wof:name":"Basti Machi",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692283,
     "wof:placetype":"locality",
     "wof:population":500,
     "wof:population_rank":2,

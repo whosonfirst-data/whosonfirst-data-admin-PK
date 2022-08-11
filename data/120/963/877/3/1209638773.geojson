@@ -34,7 +34,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692313
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,14 +47,17 @@
     "wof:geomhash":"ab0808630751bc368f65f00dcd0b26f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209638773
+            "county_id":1108692313,
+            "locality_id":1209638773,
+            "region_id":85675753
         }
     ],
     "wof:id":1209638773,
-    "wof:lastmodified":1659484822,
+    "wof:lastmodified":1660242049,
     "wof:name":"Thatti Sandila",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692313,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[

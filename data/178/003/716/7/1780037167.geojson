@@ -38,8 +38,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209008629,
-        85632659
+        102191569,
+        85632659,
+        421168813,
+        1108692211,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +52,18 @@
     "wof:geomhash":"db4ce0dc7852b945cfe4884a2610d160",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209008629,
-            "neighbourhood_id":1780037167
+            "county_id":1108692211,
+            "locality_id":421168813,
+            "neighbourhood_id":1780037167,
+            "region_id":85675757
         }
     ],
     "wof:id":1780037167,
-    "wof:lastmodified":1659484748,
+    "wof:lastmodified":1660244106,
     "wof:name":"Mullah Farash",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421168813,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

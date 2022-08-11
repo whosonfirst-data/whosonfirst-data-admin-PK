@@ -99,7 +99,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692201
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -115,14 +116,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692201,
             "locality_id":890433631,
             "region_id":85675753
         }
     ],
     "wof:id":890433631,
-    "wof:lastmodified":1659986131,
+    "wof:lastmodified":1660241844,
     "wof:name":"K\u0101leke Mandi",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692201,
     "wof:placetype":"locality",
     "wof:population":16361,
     "wof:population_rank":6,

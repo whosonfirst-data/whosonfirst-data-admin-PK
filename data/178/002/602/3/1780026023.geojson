@@ -22,15 +22,30 @@
         "\u06a9\u0648\u06a9\u0646 \u0645\u0633\u0644\u0645 CHS"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"2f913c583932930a17c80c004b2b621a",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026023,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026023,
-    "wof:lastmodified":1659986261,
+    "wof:lastmodified":1660240594,
     "wof:name":"Kokan Muslim CHS",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

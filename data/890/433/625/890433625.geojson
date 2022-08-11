@@ -27,7 +27,11 @@
     "qs:pop_sr":"8",
     "src:population":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        421173215,
+        890438109,
+        85675733
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,14 +43,18 @@
     "wof:geomhash":"4281e27778f28a0e80fb44f84be793e8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "neighbourhood_id":890433625
+            "county_id":890438109,
+            "locality_id":421173215,
+            "neighbourhood_id":890433625,
+            "region_id":85675733
         }
     ],
     "wof:id":890433625,
-    "wof:lastmodified":1659477308,
+    "wof:lastmodified":1660245282,
     "wof:name":"Kot Malik",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173215,
     "wof:placetype":"neighbourhood",
     "wof:population":69359,
     "wof:population_rank":8,

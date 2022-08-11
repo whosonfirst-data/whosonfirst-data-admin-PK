@@ -89,7 +89,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692219
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -105,14 +106,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692219,
             "locality_id":890440385,
             "region_id":85675757
         }
     ],
     "wof:id":890440385,
-    "wof:lastmodified":1659986126,
+    "wof:lastmodified":1660241872,
     "wof:name":"Sehw\u0101n",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692219,
     "wof:placetype":"locality",
     "wof:population":41150,
     "wof:population_rank":7,

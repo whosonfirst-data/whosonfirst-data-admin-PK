@@ -31,7 +31,10 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692293
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,14 +44,17 @@
     "wof:geomhash":"163d7694f21ccf389f6acee97ceced56",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209038557
+            "county_id":1108692293,
+            "locality_id":1209038557,
+            "region_id":85675753
         }
     ],
     "wof:id":1209038557,
-    "wof:lastmodified":1659484743,
+    "wof:lastmodified":1660241966,
     "wof:name":"Kotli Shaikhan",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[

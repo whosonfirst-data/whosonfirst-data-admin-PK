@@ -43,7 +43,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692273
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +56,17 @@
     "wof:geomhash":"d529cbdbc0d63adc1635908f79c1deb0",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209414367
+            "county_id":1108692273,
+            "locality_id":1209414367,
+            "region_id":85675753
         }
     ],
     "wof:id":1209414367,
-    "wof:lastmodified":1659986000,
+    "wof:lastmodified":1660238233,
     "wof:name":"Shadiwal",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

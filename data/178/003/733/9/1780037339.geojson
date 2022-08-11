@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209420523,
-        85632659
+        102191569,
+        85632659,
+        421190527,
+        1108692247,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"c95c727389bf7bf4d2dffbc78c06127a",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209420523,
-            "neighbourhood_id":1780037339
+            "county_id":1108692247,
+            "locality_id":421190527,
+            "neighbourhood_id":1780037339,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037339,
-    "wof:lastmodified":1659484742,
+    "wof:lastmodified":1660244204,
     "wof:name":"Nawan Shahr Saiyidanwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421190527,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

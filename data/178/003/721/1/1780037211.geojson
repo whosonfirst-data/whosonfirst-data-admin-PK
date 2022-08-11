@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209638387,
-        85632659
+        102191569,
+        85632659,
+        421167251,
+        1108692413,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"9dd57bf4ac991952d511a88462815c97",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209638387,
-            "neighbourhood_id":1780037211
+            "county_id":1108692413,
+            "locality_id":421167251,
+            "neighbourhood_id":1780037211,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037211,
-    "wof:lastmodified":1659484801,
+    "wof:lastmodified":1660244133,
     "wof:name":"Thatta Baqalwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421167251,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

@@ -64,7 +64,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675753,
+        1108692119
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,14 +77,17 @@
     "wof:geomhash":"3002df5298f1a803d9057e8a06fa24d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209614695
+            "county_id":1108692119,
+            "locality_id":1209614695,
+            "region_id":85675753
         }
     ],
     "wof:id":1209614695,
-    "wof:lastmodified":1659986008,
+    "wof:lastmodified":1660238268,
     "wof:name":"Daulatpur",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

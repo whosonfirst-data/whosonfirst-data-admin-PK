@@ -22,13 +22,27 @@
         "\u062a\u06c1\u06a9\u0627\u0644"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        1108692347,
+        1360701001
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"d97b39d5d140a72a246e430782eb7d8c",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692347,
+            "locality_id":-1,
+            "neighbourhood_id":1780024701,
+            "region_id":1360701001
+        }
+    ],
     "wof:id":1780024701,
-    "wof:lastmodified":1659986257,
+    "wof:lastmodified":1660239828,
     "wof:name":"Tahkal",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

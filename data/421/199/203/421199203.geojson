@@ -171,7 +171,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692383
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -188,14 +189,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692383,
             "locality_id":421199203,
             "region_id":85675733
         }
     ],
     "wof:id":421199203,
-    "wof:lastmodified":1659986119,
+    "wof:lastmodified":1660241666,
     "wof:name":"Sibi",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692383,
     "wof:placetype":"locality",
     "wof:population":64069,
     "wof:population_rank":8,

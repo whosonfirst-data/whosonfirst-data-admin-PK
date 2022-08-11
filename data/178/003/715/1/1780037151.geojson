@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209318817,
-        85632659
+        102191569,
+        85632659,
+        421168465,
+        1108692329,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"67f73a44f593ea0a97ebd2b3b9d2ac51",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209318817,
-            "neighbourhood_id":1780037151
+            "county_id":1108692329,
+            "locality_id":421168465,
+            "neighbourhood_id":1780037151,
+            "region_id":85675757
         }
     ],
     "wof:id":1780037151,
-    "wof:lastmodified":1659484782,
+    "wof:lastmodified":1660244097,
     "wof:name":"Goth Ashraf Pirzado",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421168465,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

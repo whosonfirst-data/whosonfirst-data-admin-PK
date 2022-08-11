@@ -202,8 +202,9 @@
     "wd:wordcount":3463,
     "wof:belongsto":[
         102191569,
-        421191095,
         85632659,
+        1125903075,
+        1108692199,
         85675733
     ],
     "wof:breaches":[],
@@ -219,15 +220,16 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":421191095,
+            "county_id":1108692199,
+            "locality_id":1125903075,
             "neighbourhood_id":1780037879,
             "region_id":85675733
         }
     ],
     "wof:id":1780037879,
-    "wof:lastmodified":1659484754,
+    "wof:lastmodified":1660244505,
     "wof:name":"Gawadar",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1125903075,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

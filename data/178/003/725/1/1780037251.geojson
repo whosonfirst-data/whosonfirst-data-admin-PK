@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209407617,
-        85632659
+        102191569,
+        85632659,
+        421169699,
+        1108692307,
+        85675757
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"99ad877cc65a2e8f40283f5a6e071bf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209407617,
-            "neighbourhood_id":1780037251
+            "county_id":1108692307,
+            "locality_id":421169699,
+            "neighbourhood_id":1780037251,
+            "region_id":85675757
         }
     ],
     "wof:id":1780037251,
-    "wof:lastmodified":1659484828,
+    "wof:lastmodified":1660244155,
     "wof:name":"Goth Ghulam Rasul Bijarani",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421169699,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

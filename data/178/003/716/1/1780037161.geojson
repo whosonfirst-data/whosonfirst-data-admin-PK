@@ -35,8 +35,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209319885,
-        85632659
+        102191569,
+        85632659,
+        421190517,
+        1108692143,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,15 +49,18 @@
     "wof:geomhash":"643c1098b0b467c41dec6cb156477dc8",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209319885,
-            "neighbourhood_id":1780037161
+            "county_id":1108692143,
+            "locality_id":421190517,
+            "neighbourhood_id":1780037161,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037161,
-    "wof:lastmodified":1659484746,
+    "wof:lastmodified":1660244103,
     "wof:name":"Tibba Chanawaranwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":421190517,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

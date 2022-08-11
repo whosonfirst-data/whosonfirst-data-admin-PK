@@ -22,15 +22,30 @@
         "PTV \u0633\u0648\u0633\u0627\u0626\u0679\u06cc"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"36f89bd587bcd0b3aea967d5d95949d4",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026425,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026425,
-    "wof:lastmodified":1659986257,
+    "wof:lastmodified":1660240821,
     "wof:name":"PTV Society",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

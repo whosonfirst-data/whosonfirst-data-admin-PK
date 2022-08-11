@@ -75,7 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692251
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -92,14 +93,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692251,
             "locality_id":421168463,
             "region_id":85675753
         }
     ],
     "wof:id":421168463,
-    "wof:lastmodified":1659986106,
+    "wof:lastmodified":1660241298,
     "wof:name":"Joharabad",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692251,
     "wof:placetype":"locality",
     "wof:population":46545,
     "wof:population_rank":7,

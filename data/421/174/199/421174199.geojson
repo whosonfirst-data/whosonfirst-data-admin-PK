@@ -78,7 +78,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692149
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,14 +96,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692149,
             "locality_id":421174199,
             "region_id":85675753
         }
     ],
     "wof:id":421174199,
-    "wof:lastmodified":1659986114,
+    "wof:lastmodified":1660241397,
     "wof:name":"Kalar Kahar",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692149,
     "wof:placetype":"locality",
     "wof:population":15800,
     "wof:population_rank":6,

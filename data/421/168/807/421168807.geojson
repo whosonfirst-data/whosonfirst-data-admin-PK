@@ -262,7 +262,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675757
+        85675757,
+        1108692371
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -279,14 +280,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692371,
             "locality_id":421168807,
             "region_id":85675757
         }
     ],
     "wof:id":421168807,
-    "wof:lastmodified":1659986106,
+    "wof:lastmodified":1660241306,
     "wof:name":"Nawabshah",
-    "wof:parent_id":85675757,
+    "wof:parent_id":1108692371,
     "wof:placetype":"locality",
     "wof:population":229504,
     "wof:population_rank":10,

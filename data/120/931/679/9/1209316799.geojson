@@ -47,7 +47,10 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
-        85632659
+        102191569,
+        85632659,
+        85675733,
+        1108692253
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -57,14 +60,17 @@
     "wof:geomhash":"ca74fab42623e3fc243ebc7c5334f67f",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209316799
+            "county_id":1108692253,
+            "locality_id":1209316799,
+            "region_id":85675733
         }
     ],
     "wof:id":1209316799,
-    "wof:lastmodified":1659985990,
+    "wof:lastmodified":1660238222,
     "wof:name":"Gharo",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692253,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

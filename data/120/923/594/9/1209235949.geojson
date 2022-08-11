@@ -97,6 +97,11 @@
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
+        85675735,
+        1159339497,
+        102191569,
+        85632469,
+        1108692269,
         85632659
     ],
     "wof:breaches":[],
@@ -107,14 +112,26 @@
     "wof:geomhash":"36f8cf9be0ab2bf087c78ccd624a2b3b",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
+            "country_id":85632469,
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1209235949,
+            "region_id":85675735
+        },
+        {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209235949
+            "county_id":1108692269,
+            "disputed_id":1159339497,
+            "locality_id":1209235949,
+            "region_id":85675735
         }
     ],
     "wof:id":1209235949,
-    "wof:lastmodified":1659986002,
+    "wof:lastmodified":1660238211,
     "wof:name":"Wazirabad",
-    "wof:parent_id":85632659,
+    "wof:parent_id":1108692269,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

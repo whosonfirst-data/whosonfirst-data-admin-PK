@@ -22,15 +22,30 @@
         "\u0628\u06a9\u0631\u0627 \u067e\u06cc\u0691\u06cc"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"7b85461315d4983b29dd1db9282dc272",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780025593,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780025593,
-    "wof:lastmodified":1659986249,
+    "wof:lastmodified":1660240346,
     "wof:name":"Bakra Piri",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

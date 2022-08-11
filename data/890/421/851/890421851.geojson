@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692143,
             "locality_id":890421851,
             "region_id":85675753
         }
     ],
     "wof:id":890421851,
-    "wof:lastmodified":1659986129,
+    "wof:lastmodified":1660241804,
     "wof:name":"Kal\u016br Kot",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692143,
     "wof:placetype":"locality",
     "wof:population":25574,
     "wof:population_rank":7,

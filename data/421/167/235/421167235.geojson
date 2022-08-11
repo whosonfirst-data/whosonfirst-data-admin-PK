@@ -159,7 +159,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692247
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,14 +177,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692247,
             "locality_id":421167235,
             "region_id":85675753
         }
     ],
     "wof:id":421167235,
-    "wof:lastmodified":1659986109,
+    "wof:lastmodified":1660241248,
     "wof:name":"Mian Channu",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692247,
     "wof:placetype":"locality",
     "wof:population":76226,
     "wof:population_rank":8,

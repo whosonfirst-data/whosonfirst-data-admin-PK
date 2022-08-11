@@ -32,8 +32,11 @@
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
-        1209314245,
-        85632659
+        102191569,
+        85632659,
+        890443585,
+        1108692313,
+        85675753
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,15 +46,18 @@
     "wof:geomhash":"9f16aec5d38847b5da207c1ce69a9d16",
     "wof:hierarchy":[
         {
+            "continent_id":102191569,
             "country_id":85632659,
-            "locality_id":1209314245,
-            "neighbourhood_id":1780037153
+            "county_id":1108692313,
+            "locality_id":890443585,
+            "neighbourhood_id":1780037153,
+            "region_id":85675753
         }
     ],
     "wof:id":1780037153,
-    "wof:lastmodified":1659484810,
+    "wof:lastmodified":1660244098,
     "wof:name":"Nalwala",
-    "wof:parent_id":85632659,
+    "wof:parent_id":890443585,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

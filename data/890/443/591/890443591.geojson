@@ -159,7 +159,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692413
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -176,14 +177,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692413,
             "locality_id":890443591,
             "region_id":85675753
         }
     ],
     "wof:id":890443591,
-    "wof:lastmodified":1659986129,
+    "wof:lastmodified":1660241906,
     "wof:name":"Gojra",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692413,
     "wof:placetype":"locality",
     "wof:population":139726,
     "wof:population_rank":9,

@@ -62,7 +62,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692325
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -78,14 +79,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692325,
             "locality_id":421196455,
             "region_id":85675753
         }
     ],
     "wof:id":421196455,
-    "wof:lastmodified":1659986117,
+    "wof:lastmodified":1660241623,
     "wof:name":"Zaffarwal",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692325,
     "wof:placetype":"locality",
     "wof:population":23078,
     "wof:population_rank":7,

@@ -78,7 +78,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692127
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -95,14 +96,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692127,
             "locality_id":421167271,
             "region_id":85675753
         }
     ],
     "wof:id":421167271,
-    "wof:lastmodified":1659986110,
+    "wof:lastmodified":1660241270,
     "wof:name":"Dunga Bunga",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692127,
     "wof:placetype":"locality",
     "wof:population":25893,
     "wof:population_rank":7,

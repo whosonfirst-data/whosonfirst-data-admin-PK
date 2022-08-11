@@ -22,15 +22,30 @@
         "\u0686\u06a9\u0644\u0627\u0644\u06c1 \u0631\u06cc\u0644\u0648\u06d2 \u0627\u0633\u06a9\u06cc\u0645"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421173213,
+        1108692361,
+        85675753
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"aecb3c0701b587b001686da9d26bef68",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692361,
+            "locality_id":421173213,
+            "neighbourhood_id":1780026711,
+            "region_id":85675753
+        }
+    ],
     "wof:id":1780026711,
-    "wof:lastmodified":1659986283,
+    "wof:lastmodified":1660241373,
     "wof:name":"Chaklala Railway Scheme",
-    "wof:parent_id":-1,
+    "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],

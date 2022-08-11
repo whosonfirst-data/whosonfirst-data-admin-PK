@@ -44,7 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675733
+        85675733,
+        1108692241
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,14 +60,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692241,
             "locality_id":890455191,
             "region_id":85675733
         }
     ],
     "wof:id":890455191,
-    "wof:lastmodified":1659986128,
+    "wof:lastmodified":1660241920,
     "wof:name":"Jath",
-    "wof:parent_id":85675733,
+    "wof:parent_id":1108692241,
     "wof:placetype":"locality",
     "wof:population":80,
     "wof:population_rank":1,

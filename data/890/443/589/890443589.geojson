@@ -272,7 +272,8 @@
     "wof:belongsto":[
         102191569,
         85632659,
-        85675753
+        85675753,
+        1108692197
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -289,14 +290,15 @@
         {
             "continent_id":102191569,
             "country_id":85632659,
+            "county_id":1108692197,
             "locality_id":890443589,
             "region_id":85675753
         }
     ],
     "wof:id":890443589,
-    "wof:lastmodified":1659986129,
+    "wof:lastmodified":1660241905,
     "wof:name":"Gujr\u0101t",
-    "wof:parent_id":85675753,
+    "wof:parent_id":1108692197,
     "wof:placetype":"locality",
     "wof:population":301506,
     "wof:population_rank":10,

@@ -22,15 +22,30 @@
         "\u0627\u062d\u0633\u0627\u0646 \u0622\u0628\u0627\u062f"
     ],
     "src:geom":"whosonfirst",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191569,
+        85632659,
+        421191101,
+        1108692233,
+        85675757
+    ],
     "wof:breaches":[],
     "wof:country":"PK",
     "wof:geomhash":"5e8fd63f1b907db841558d5d9a72fc2d",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632659,
+            "county_id":1108692233,
+            "locality_id":421191101,
+            "neighbourhood_id":1780026969,
+            "region_id":85675757
+        }
+    ],
     "wof:id":1780026969,
-    "wof:lastmodified":1659986293,
+    "wof:lastmodified":1660241143,
     "wof:name":"Ahsanabad",
-    "wof:parent_id":-1,
+    "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
