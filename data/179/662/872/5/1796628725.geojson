@@ -1,34 +1,24 @@
 {
-  "id": 1327326539,
+  "id": 1796628725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"2022-11-14",
+    "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"69.13976,27.88971,69.13976,27.88971",
     "geom:latitude":27.88971,
     "geom:longitude":69.13976,
-    "gn:admin1_code":"5.0",
-    "gn:asciiname":"Sardar Muhammad Murad Khan Bahalo",
-    "gn:country_code":"PK",
-    "gn:dem":67,
-    "gn:feature_class":"P",
-    "gn:feature_code":"PPL",
-    "gn:geonameid":11372049,
-    "gn:latitude":27.88971,
-    "gn:longitude":69.13976,
-    "gn:modification_date":"2018-03-10",
-    "gn:name":"Sardar Muhammad Murad Khan Bahalo",
-    "gn:population":0,
-    "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
     "lbl:bbox":"69.11976,27.86971,69.15976,27.90971",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kot Bullo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -37,9 +27,7 @@
         85675757
     ],
     "wof:breaches":[],
-    "wof:concordances":{
-        "gn:id":11372049
-    },
+    "wof:concordances":{},
     "wof:country":"PK",
     "wof:geomhash":"0fa4163b4266ebdaefbeca40ea827362",
     "wof:hierarchy":[
@@ -47,20 +35,20 @@
             "continent_id":102191569,
             "country_id":85632659,
             "county_id":1108692395,
-            "locality_id":1327326539,
+            "locality_id":1796628725,
             "region_id":85675757
         }
     ],
-    "wof:id":1327326539,
-    "wof:lastmodified":1668448706,
-    "wof:name":"Sardar Muhammad Murad Khan Bahalo",
+    "wof:id":1796628725,
+    "wof:lastmodified":1668448713,
+    "wof:name":"Kot Bullo",
     "wof:parent_id":1108692395,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[
+    "wof:superseded_by":[],
+    "wof:supersedes":[
         1796628725
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
