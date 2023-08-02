@@ -18,6 +18,12 @@
     "mz:is_current":1,
     "mz:min_zoom":7.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Khairpur"
+    ],
+    "name:aze_x_preferred":[
+        "Xayrpur"
+    ],
     "name:ben_x_preferred":[
         "\u0996\u09c8\u09b0\u09aa\u09c1\u09b0"
     ],
@@ -33,11 +39,17 @@
     "name:eng_x_preferred":[
         "Khairpur"
     ],
+    "name:epo_x_preferred":[
+        "\u0124airpur"
+    ],
     "name:fas_x_preferred":[
         "\u062e\u06cc\u0631\u067e\u0648\u0631\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
     ],
     "name:fas_x_variant":[
         "\u062e\u06cc\u0631\u067e\u0648\u0631"
+    ],
+    "name:fin_x_preferred":[
+        "Khairpur"
     ],
     "name:fra_x_preferred":[
         "Khairpur"
@@ -66,6 +78,9 @@
     "name:nld_x_preferred":[
         "Khairpur"
     ],
+    "name:nob_x_preferred":[
+        "Khairpur"
+    ],
     "name:pnb_x_preferred":[
         "\u062e\u06cc\u0631\u067e\u0648\u0631"
     ],
@@ -80,6 +95,9 @@
     ],
     "name:rus_x_variant":[
         "\u0425\u0430\u0439\u0440\u043f\u0443\u0440\u0430"
+    ],
+    "name:skr_x_preferred":[
+        "\u062e\u06cc\u0631\u067e\u0648\u0631"
     ],
     "name:snd_x_preferred":[
         "\u062e\u064a\u0631\u067e\u0648\u0631"
@@ -159,7 +177,7 @@
         }
     ],
     "wof:id":421200705,
-    "wof:lastmodified":1660241701,
+    "wof:lastmodified":1690854256,
     "wof:name":"Khairpur",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",

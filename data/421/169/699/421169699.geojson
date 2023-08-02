@@ -21,8 +21,20 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0631\u0628\u0648\u0631 \u062e\u0627\u0633"
     ],
+    "name:ara_x_variant":[
+        "\u0645\u064a\u0631\u0628\u0648\u0631 \u062e\u0627\u0635"
+    ],
+    "name:arz_x_preferred":[
+        "\u0645\u064a\u0631\u0628\u0648\u0631 \u062e\u0627\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Mirpur Khas"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0 \u0996\u09be\u09b8"
+    ],
+    "name:cat_x_preferred":[
+        "M\u012brpur Kh\u0101s"
     ],
     "name:ceb_x_preferred":[
         "Mirpur Khas"
@@ -39,6 +51,9 @@
     "name:eng_x_preferred":[
         "Mirpur Khas"
     ],
+    "name:epo_x_preferred":[
+        "Mirpur \u0124as"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0631\u067e\u0648\u0631 \u062e\u0627\u0635\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
     ],
@@ -51,6 +66,9 @@
     "name:fra_x_preferred":[
         "Mirpur Khas"
     ],
+    "name:gle_x_preferred":[
+        "Mirpur Khas"
+    ],
     "name:guj_x_preferred":[
         "\u0aae\u0ac0\u0ab0\u0aaa\u0ac1\u0ab0 \u0a96\u0abe\u0ab8"
     ],
@@ -59,6 +77,9 @@
     ],
     "name:hin_x_preferred":[
         "\u092e\u0940\u0930\u092a\u0941\u0930 \u0916\u093e\u0938"
+    ],
+    "name:hin_x_variant":[
+        "\u092e\u0940\u0930\u092a\u0941\u0930  \u0916\u093e\u0938"
     ],
     "name:ind_x_preferred":[
         "Mirpur Khas"
@@ -138,6 +159,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc0\u0bb0\u0bcd\u0baa\u0bc1\u0bb0\u0bcd \u0b95\u0bbe\u0bb8\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc0\u0bb0\u0bcd\u0baa\u0bc1\u0bb0\u0bcd  \u0b95\u0bbe\u0bb8\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2e\u0c40\u0c30\u0c4d\u0c2a\u0c42\u0c30\u0c4d \u0c16\u0c3e\u0c38\u0c4d"
     ],
@@ -155,6 +179,9 @@
     ],
     "name:urd_x_variant":[
         "\u0645\u06cc\u0631 \u067e\u0648\u0631 \u062e\u0627\u0635"
+    ],
+    "name:vec_x_preferred":[
+        "Mirpur Khas"
     ],
     "name:vie_x_preferred":[
         "Mirpur Khas"
@@ -313,7 +340,7 @@
         }
     ],
     "wof:id":421169699,
-    "wof:lastmodified":1660241335,
+    "wof:lastmodified":1690854228,
     "wof:name":"Mirpur Khas",
     "wof:parent_id":1108692307,
     "wof:placetype":"locality",

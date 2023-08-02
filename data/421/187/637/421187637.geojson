@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u0645\u0638\u0641\u0631 \u0623\u0628\u0627\u062f"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0638\u0641\u0631 \u0627\u0628\u0627\u062f"
+    ],
+    "name:ast_x_preferred":[
+        "Muzaffarabad"
+    ],
     "name:aze_x_preferred":[
         "M\u00fcz\u0259ff\u0259rabad"
     ],
@@ -33,6 +39,9 @@
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u099c\u09be\u09ab\u09cd \u09ab\u09b0\u09be\u09ac\u09be\u09a6"
     ],
+    "name:ben_x_variant":[
+        "\u09ae\u09c1\u099c\u09be\u09ab\u09ab\u09be\u09b0\u09be\u09ac\u09be\u09a6"
+    ],
     "name:cat_x_preferred":[
         "Muzaffarabad"
     ],
@@ -41,6 +50,9 @@
     ],
     "name:ces_x_preferred":[
         "Muzaffarab\u00e1d"
+    ],
+    "name:ckb_x_preferred":[
+        "\u0645\u0632\u06d5\u0641\u06d5\u0631 \u0626\u0627\u0628\u0627\u062f"
     ],
     "name:dan_x_preferred":[
         "Muzaffarabad"
@@ -93,6 +105,9 @@
     "name:kan_x_preferred":[
         "\u0cae\u0cc1\u0c9c\u0cab\u0cb0\u0cbe\u0cac\u0cbe\u0ca6\u0ccd"
     ],
+    "name:kas_x_preferred":[
+        "\u0645\u0638\u0641\u0631 \u0622\u0628\u0627\u062f"
+    ],
     "name:kor_x_preferred":[
         "\ubb34\uc790\ud30c\ub77c\ubc14\ub4dc"
     ],
@@ -111,6 +126,9 @@
     "name:msa_x_preferred":[
         "Muzaffarabad"
     ],
+    "name:nep_x_preferred":[
+        "\u092e\u0941\u091c\u092b\u094d\u092b\u0930\u0906\u092c\u093e\u0926"
+    ],
     "name:nld_x_preferred":[
         "Muzaffarabad"
     ],
@@ -119,6 +137,9 @@
     ],
     "name:nor_x_preferred":[
         "Muzaffarabad"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a41\u0a1c\u0a3c\u0a71\u0a2b\u0a30\u0a3e\u0a2c\u0a3e\u0a26"
     ],
     "name:pnb_x_preferred":[
         "\u0645\u0638\u0641\u0631 \u0622\u0628\u0627\u062f"
@@ -138,6 +159,9 @@
     "name:sin_x_preferred":[
         "\u0db8\u0dd4\u0dc3\u0dcf\u0dc6\u0dbb\u0dcf\u0db6\u0dcf\u0daf\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u0645\u0638\u0641\u0631 \u0622\u0628\u0627\u062f"
+    ],
     "name:spa_x_preferred":[
         "Muzaffarabad"
     ],
@@ -153,8 +177,14 @@
     "name:tel_x_preferred":[
         "\u0c2e\u0c41\u0c1c\u0c2b\u0c30\u0c3e\u0c2c\u0c3e\u0c26\u0c4d"
     ],
+    "name:tgk_x_preferred":[
+        "\u041c\u0443\u0437\u0430\u0444\u0444\u0430\u0440\u043e\u0431\u043e\u0434"
+    ],
     "name:tha_x_preferred":[
         "\u0e21\u0e39\u0e0b\u0e32\u0e1f\u0e1f\u0e32\u0e23\u0e32\u0e1a\u0e31\u0e14"
+    ],
+    "name:tha_x_variant":[
+        "\u0e21\u0e39\u0e0b\u0e31\u0e1f\u0e1f\u0e32\u0e23\u0e32\u0e1a\u0e32\u0e14"
     ],
     "name:tur_x_preferred":[
         "Muzafferabad"
@@ -245,7 +275,7 @@
         }
     ],
     "wof:id":421187637,
-    "wof:lastmodified":1660241542,
+    "wof:lastmodified":1690854239,
     "wof:name":"Muzaffarabad",
     "wof:parent_id":1108692319,
     "wof:placetype":"locality",

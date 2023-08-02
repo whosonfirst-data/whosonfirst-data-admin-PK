@@ -18,8 +18,14 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Sanghar"
+    ],
     "name:ceb_x_preferred":[
         "S\u0101nghar"
+    ],
+    "name:deu_x_preferred":[
+        "Sanghar"
     ],
     "name:eng_x_preferred":[
         "Sanghar"
@@ -41,6 +47,9 @@
     ],
     "name:pnb_x_preferred":[
         "\u0633\u0627\u0646\u06af\u06be\u0691"
+    ],
+    "name:pol_x_preferred":[
+        "Sanghar"
     ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d\u0433\u0445\u0430\u0440"
@@ -66,6 +75,9 @@
     ],
     "name:zho_tw_x_preferred":[
         "\u6851\u52a0\u723e"
+    ],
+    "name:zho_x_preferred":[
+        "\u6851\u514b\u5c14"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLA2",
@@ -121,7 +133,7 @@
         }
     ],
     "wof:id":421203695,
-    "wof:lastmodified":1660241718,
+    "wof:lastmodified":1690854231,
     "wof:name":"Sangar",
     "wof:parent_id":1108692365,
     "wof:placetype":"locality",

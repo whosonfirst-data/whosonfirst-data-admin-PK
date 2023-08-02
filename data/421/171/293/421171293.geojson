@@ -182,11 +182,17 @@
     "name:oci_x_preferred":[
         "Teli"
     ],
+    "name:pan_x_preferred":[
+        "\u0a24\u0a47\u0a32\u0a40"
+    ],
     "name:pcd_x_preferred":[
         "Teli"
     ],
     "name:pms_x_preferred":[
         "Teli"
+    ],
+    "name:pnb_x_preferred":[
+        "\u062a\u06cc\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Teli"
@@ -215,7 +221,9 @@
     "name:spa_x_preferred":[
         "Teli"
     ],
-    "name:spa_x_variant":[],
+    "name:sqi_x_preferred":[
+        "Teli"
+    ],
     "name:srd_x_preferred":[
         "Teli"
     ],
@@ -285,11 +293,11 @@
     "src:lbl_centroid":"whosonfirst",
     "wd:wordcount":614,
     "wof:belongsto":[
+        85675753,
         102191569,
         85632659,
         421173213,
-        1108692361,
-        85675753
+        1108692361
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -312,7 +320,7 @@
         }
     ],
     "wof:id":421171293,
-    "wof:lastmodified":1660241387,
+    "wof:lastmodified":1690854270,
     "wof:name":"Teli",
     "wof:parent_id":421173213,
     "wof:placetype":"neighbourhood",

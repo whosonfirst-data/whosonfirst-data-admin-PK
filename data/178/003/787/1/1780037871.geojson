@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u0646\u0627\u0648\u0634\u064a\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0646\u0627\u0648\u0634\u064a\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Nowshera"
+    ],
     "name:ben_x_preferred":[
         "\u09a8\u0993\u09b6\u09c7\u09b0\u09be"
     ],
@@ -41,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Nowshera"
+    ],
+    "name:epo_x_preferred":[
+        "No\u015dera"
     ],
     "name:fas_x_preferred":[
         "\u0646\u0648\u0634\u0647\u0631\u0647"
@@ -102,11 +111,17 @@
     "name:por_x_preferred":[
         "Nowshera"
     ],
+    "name:pus_x_preferred":[
+        "\u0646\u0648\u069a\u0627\u0631"
+    ],
     "name:rus_x_preferred":[
         "\u041d\u0430\u0443\u0448\u0435\u0440\u0430"
     ],
     "name:sin_x_preferred":[
         "\u0db1\u0ddc\u0dc2\u0dbb\u0dcf"
+    ],
+    "name:snd_x_preferred":[
+        "\u0646\u0648\u0634\u0647\u0631\u0647"
     ],
     "name:spa_x_preferred":[
         "Nowshera"
@@ -161,11 +176,11 @@
     "qs:woe_id":2211306,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
+        1360701001,
         102191569,
         85632659,
         890431455,
-        1108692335,
-        1360701001
+        1108692335
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -189,7 +204,7 @@
         }
     ],
     "wof:id":1780037871,
-    "wof:lastmodified":1660244499,
+    "wof:lastmodified":1690854305,
     "wof:name":"Nowshera",
     "wof:parent_id":890431455,
     "wof:placetype":"neighbourhood",

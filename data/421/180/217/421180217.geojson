@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Shigar"
+    ],
     "name:eng_x_preferred":[
         "Shigar"
     ],
@@ -26,8 +29,17 @@
     "name:ita_x_preferred":[
         "Shigar"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b7\u30ac\u30fc\u30eb"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d37\u0d3f\u0d17\u0d3e\u0d7c"
+    ],
     "name:nld_x_preferred":[
         "Shigar"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u06af\u0631"
     ],
     "name:rus_x_preferred":[
         "\u0428\u0438\u0433\u0430\u0440"
@@ -37,6 +49,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0634\u06af\u0631"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e0c\u683c\u723e\u6b77\u53f2\u4f4f\u5340\u548c\u5e02\u96c6\u5340"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -104,7 +119,7 @@
         }
     ],
     "wof:id":421180217,
-    "wof:lastmodified":1566591776,
+    "wof:lastmodified":1690854236,
     "wof:name":"Shigar",
     "wof:parent_id":1108692133,
     "wof:placetype":"locality",

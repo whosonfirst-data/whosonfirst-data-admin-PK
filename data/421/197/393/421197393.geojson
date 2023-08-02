@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Jaranwala"
+    ],
     "name:ben_x_preferred":[
         "\u099c\u09be\u09b0\u09be\u09a8\u0993\u09af\u09bc\u09be\u09b2\u09be"
     ],
@@ -30,11 +36,17 @@
     "name:dan_x_preferred":[
         "Jaranwala"
     ],
+    "name:deu_x_preferred":[
+        "Jaranwala"
+    ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03b1\u03c1\u03ac\u03bd\u03b3\u03bf\u03c5\u03b1\u03bb\u03b1"
     ],
     "name:eng_x_preferred":[
         "Jaranwala"
+    ],
+    "name:epo_x_preferred":[
+        "\u011caranvala"
     ],
     "name:fas_x_preferred":[
         "\u062c\u0631\u0627\u0646\u0648\u0627\u0644\u0647\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
@@ -53,6 +65,9 @@
     ],
     "name:hin_x_preferred":[
         "\u091c\u0930\u093e\u0902\u0935\u093e\u0932\u093e"
+    ],
+    "name:hin_x_variant":[
+        "\u091c\u0922\u093c\u093e\u0901\u0935\u093e\u0932\u093e"
     ],
     "name:ind_x_preferred":[
         "Jaranwala"
@@ -87,6 +102,9 @@
     "name:nob_x_preferred":[
         "Jarnawala"
     ],
+    "name:pan_x_preferred":[
+        "\u0a1c\u0a5c\u0a4d\u0a39\u0a3e\u0a02\u0a35\u0a3e\u0a32\u0a3e"
+    ],
     "name:pnb_x_preferred":[
         "\u062c\u0691\u0627\u0646\u0648\u0627\u0644\u06c1"
     ],
@@ -104,6 +122,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0da2\u0dbb\u0db1\u0dca\u0dc0\u0dbd\u0dcf"
+    ],
+    "name:snd_x_preferred":[
+        "\u062c\u0699\u0627\u0646\u0648\u0627\u0644\u0627"
     ],
     "name:spa_x_preferred":[
         "Jaranwala"
@@ -135,11 +156,17 @@
     "name:urd_x_variant":[
         "\u062c\u0691\u0627\u0646\u0648\u0627\u0644\u06c1"
     ],
+    "name:uzb_x_preferred":[
+        "Jaranwala"
+    ],
     "name:vie_x_preferred":[
         "Jaranwala"
     ],
     "name:war_x_preferred":[
         "Jaranwala"
+    ],
+    "name:zho_x_preferred":[
+        "\u5091\u862d\u74e6\u62c9"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPL",
@@ -195,7 +222,7 @@
         }
     ],
     "wof:id":421197393,
-    "wof:lastmodified":1660241631,
+    "wof:lastmodified":1690854251,
     "wof:name":"Jaranwala",
     "wof:parent_id":1108692169,
     "wof:placetype":"locality",

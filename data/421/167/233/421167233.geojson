@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0645\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Murree"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09c1\u09b0\u09c0"
+    ],
+    "name:bho_x_preferred":[
+        "\u092e\u0930\u0940"
     ],
     "name:bos_x_preferred":[
         "Murree"
@@ -51,6 +60,9 @@
     "name:fra_x_preferred":[
         "Murree"
     ],
+    "name:gle_x_preferred":[
+        "Murree"
+    ],
     "name:heb_x_preferred":[
         "\u05de\u05e8\u05d9"
     ],
@@ -60,14 +72,26 @@
     "name:jpn_x_preferred":[
         "\u30de\u30ea\u30fc"
     ],
+    "name:kor_x_preferred":[
+        "\ubb34\ub9ac\uc5d0"
+    ],
     "name:nld_x_preferred":[
         "Murree"
     ],
     "name:nno_x_preferred":[
         "Murree"
     ],
+    "name:nob_x_preferred":[
+        "Murree"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2e\u0a30\u0a40"
+    ],
     "name:pnb_x_preferred":[
         "\u0645\u0631\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Murree"
     ],
     "name:por_x_preferred":[
         "Murree"
@@ -75,8 +99,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0443\u0440\u0435\u0435"
     ],
+    "name:rus_x_variant":[
+        "\u041c\u0443\u0440\u0440\u0438"
+    ],
     "name:slv_x_preferred":[
         "Murree"
+    ],
+    "name:snd_x_preferred":[
+        "\u06aa\u0648\u06be \u0645\u0631\u064a"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bae\u0bc1\u0bb0\u0bcd\u0bb0\u0bc7"
     ],
     "name:urd_x_preferred":[
         "\u0645\u0631\u06cc"
@@ -138,7 +171,7 @@
         }
     ],
     "wof:id":421167233,
-    "wof:lastmodified":1660241247,
+    "wof:lastmodified":1690854222,
     "wof:name":"Murree",
     "wof:parent_id":1108692361,
     "wof:placetype":"locality",

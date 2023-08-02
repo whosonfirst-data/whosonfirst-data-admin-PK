@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u0628\u0627\u0643\u0628\u062a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u0627\u0643\u0628\u062a\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Pakpattan"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09be\u0995\u09aa\u09be\u09a0\u09be\u09a8"
     ],
@@ -33,11 +39,17 @@
     "name:dan_x_preferred":[
         "Pakpattan"
     ],
+    "name:deu_x_preferred":[
+        "Pakpattan"
+    ],
     "name:ell_x_preferred":[
         "\u03a0\u03ac\u03ba\u03c0\u03b1\u03c4\u03c4\u03b1\u03bd"
     ],
     "name:eng_x_preferred":[
         "Pakpattan"
+    ],
+    "name:epo_x_preferred":[
+        "Pakpatan"
     ],
     "name:fas_x_preferred":[
         "\u067e\u0627\u06a9\u067e\u062a\u0646\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
@@ -107,6 +119,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0db4\u0d9a\u0dca\u0db4\u0da7\u0dca\u0da7\u0db1\u0dca"
+    ],
+    "name:skr_x_preferred":[
+        "\u067e\u0627\u06a9\u067e\u062a\u0768"
     ],
     "name:snd_x_preferred":[
         "\u067e\u0627\u06aa \u067e\u062a\u0646"
@@ -204,7 +219,7 @@
         }
     ],
     "wof:id":421167225,
-    "wof:lastmodified":1660241242,
+    "wof:lastmodified":1690854224,
     "wof:name":"Pakpattan",
     "wof:parent_id":1108692343,
     "wof:placetype":"locality",

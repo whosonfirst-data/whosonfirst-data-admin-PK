@@ -18,11 +18,17 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Umerkot"
+    ],
     "name:bel_x_preferred":[
         "\u0423\u043c\u0435\u0440\u043a\u043e\u0442"
     ],
     "name:cat_x_preferred":[
         "Umarkot"
+    ],
+    "name:deu_x_preferred":[
+        "Umerkot"
     ],
     "name:ell_x_preferred":[
         "\u039f\u03c5\u03bc\u03b1\u03c1\u03ba\u03cc\u03c4"
@@ -30,8 +36,14 @@
     "name:eng_x_preferred":[
         "Umerkot"
     ],
+    "name:epo_x_preferred":[
+        "Umerkot"
+    ],
     "name:fas_x_preferred":[
         "\u0639\u0645\u0631\u06a9\u0648\u062a"
+    ],
+    "name:fin_x_preferred":[
+        "Umerkot"
     ],
     "name:fra_x_preferred":[
         "Umarkot"
@@ -45,6 +57,9 @@
     "name:hin_x_variant":[
         "\u0909\u092e\u0930\u0915\u094b\u091f"
     ],
+    "name:ita_x_preferred":[
+        "Amarkot"
+    ],
     "name:jpn_x_preferred":[
         "\u30a6\u30de\u30eb\u30b3\u30fc\u30c8"
     ],
@@ -52,6 +67,9 @@
         "\u10e3\u10db\u10d4\u10e0\u10d9\u10dd\u10e2\u10d8"
     ],
     "name:nld_x_preferred":[
+        "Umerkot"
+    ],
+    "name:nob_x_preferred":[
         "Umerkot"
     ],
     "name:pnb_x_preferred":[
@@ -80,6 +98,9 @@
     ],
     "name:urd_x_variant":[
         "\u0639\u0645\u0631\u06a9\u0648\u0679"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e4c\u9ed8\u514b\u7279"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLA2",
@@ -135,7 +156,7 @@
         }
     ],
     "wof:id":421203949,
-    "wof:lastmodified":1660241722,
+    "wof:lastmodified":1690854232,
     "wof:name":"Umarkot",
     "wof:parent_id":1108692417,
     "wof:placetype":"locality",

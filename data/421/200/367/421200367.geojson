@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u062f\u064a\u0631\u0627 \u0627\u0633\u0645\u0627\u0639\u064a\u0644 \u062e\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062f\u064a\u0631\u0627 \u0627\u0633\u0645\u0627\u0639\u064a\u0644 \u062e\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Dera Ismail Khan"
+    ],
     "name:ben_x_preferred":[
         "\u09a1\u09c7\u09cd\u09b0\u09be \u0987\u09b8\u09ae\u09be\u0987\u09b2 \u0996\u09be\u09a8"
+    ],
+    "name:ben_x_variant":[
+        "\u09a1\u09c7\u09b0\u09be \u0987\u09b8\u09ae\u09be\u0987\u09b2 \u0996\u09be\u09a8"
     ],
     "name:cat_x_preferred":[
         "Dera Ismail Khan"
@@ -42,6 +51,9 @@
     "name:eng_x_preferred":[
         "Dera Ismail Khan"
     ],
+    "name:epo_x_preferred":[
+        "Dera Ismail \u0124an"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u06cc\u0631\u0647 \u0627\u0633\u0645\u0627\u0639\u06cc\u0644\u200c\u062e\u0627\u0646\u060c \u067e\u0627\u06a9\u0633\u062a\u0627\u0646"
     ],
@@ -54,6 +66,9 @@
     "name:fra_x_preferred":[
         "Dera Ismail Khan"
     ],
+    "name:gle_x_preferred":[
+        "Dera Ismail Khan"
+    ],
     "name:guj_x_preferred":[
         "\u0aa1\u0ac7\u0ab0\u0abe \u0a87\u0ab8\u0acd\u0aae\u0abe\u0a88\u0ab2 \u0a96\u0abe\u0aa8"
     ],
@@ -63,8 +78,14 @@
     "name:hin_x_preferred":[
         "\u0921\u0947\u0930\u093e \u0907\u0938\u094d\u092e\u093e\u0907\u0932 \u0916\u093e\u0928"
     ],
+    "name:hin_x_variant":[
+        "\u0921\u0947\u0930\u093e \u0907\u0938\u094d\u092e\u093e\u0907\u0932 \u0916\u093c\u093e\u0928"
+    ],
     "name:hun_x_preferred":[
         "Dera Ismail Khan"
+    ],
+    "name:hye_x_preferred":[
+        "\u0534\u0565\u0580\u0561 \u053b\u057d\u0574\u0561\u0575\u056b\u056c \u053d\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Dera Ismail Khan"
@@ -126,8 +147,14 @@
     "name:sin_x_preferred":[
         "\u0daf\u0dd9\u0dbb\u0dcf \u0d89\u0dc3\u0dca\u0db8\u0dba\u0dd2\u0dbd\u0dca \u0d9b\u0dcf\u0db1\u0dca"
     ],
+    "name:snd_x_preferred":[
+        "\u068a\u064a\u0631\u0627 \u0627\u0633\u0645\u0627\u0626\u064a\u0644 \u062e\u0627\u0646"
+    ],
     "name:spa_x_preferred":[
         "Dera Ismail Khan"
+    ],
+    "name:spa_x_variant":[
+        "D\u00e9ra Isma\u00edl J\u00e1n"
     ],
     "name:srp_x_preferred":[
         "\u0414\u0435\u0440\u0430 \u0418\u0441\u043c\u0430\u0438\u043b \u0425\u0430\u043d"
@@ -155,6 +182,9 @@
     ],
     "name:urd_x_variant":[
         "\u0688\u06cc\u0631\u06c1 \u0627\u0633\u0645\u0627\u0639\u06cc\u0644 \u062e\u0627\u0646"
+    ],
+    "name:vec_x_preferred":[
+        "Dera Ismail Khan"
     ],
     "name:vie_x_preferred":[
         "Dera Ismail Khan"
@@ -308,7 +338,7 @@
         }
     ],
     "wof:id":421200367,
-    "wof:lastmodified":1660241680,
+    "wof:lastmodified":1690854257,
     "wof:name":"Dera Ismail Khan",
     "wof:parent_id":1108692165,
     "wof:placetype":"locality",

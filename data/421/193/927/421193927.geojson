@@ -21,6 +21,12 @@
     "name:ara_x_preferred":[
         "\u0648\u0647\u0627\u0631\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0648\u0647\u0627\u0631\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Vehari"
+    ],
     "name:bel_x_preferred":[
         "\u0412\u0456\u0445\u0430\u0440\u044b"
     ],
@@ -96,8 +102,14 @@
     "name:nob_x_preferred":[
         "Vehari"
     ],
+    "name:pan_x_preferred":[
+        "\u0a35\u0a3f\u0a39\u0a3e\u0a5c\u0a40"
+    ],
     "name:pnb_x_preferred":[
         "\u0648\u06cc\u06c1\u0627\u0691\u06cc"
+    ],
+    "name:pnb_x_variant":[
+        "\u0648\u06c1\u0627\u0691\u06cc"
     ],
     "name:pol_x_preferred":[
         "Vehari"
@@ -209,7 +221,7 @@
         }
     ],
     "wof:id":421193927,
-    "wof:lastmodified":1660241593,
+    "wof:lastmodified":1690854218,
     "wof:name":"Vehari",
     "wof:parent_id":1108692421,
     "wof:placetype":"locality",

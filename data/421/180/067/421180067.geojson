@@ -24,6 +24,12 @@
     "name:ara_x_variant":[
         "\u062a\u062a\u0627"
     ],
+    "name:ast_x_preferred":[
+        "Thatta"
+    ],
+    "name:aze_x_preferred":[
+        "Tatta"
+    ],
     "name:ben_x_preferred":[
         "\u09a5\u09be\u099f\u09cd\u099f\u09be"
     ],
@@ -87,6 +93,9 @@
     "name:kat_x_preferred":[
         "\u10d7\u10d0\u10e2\u10d0"
     ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0442\u0442\u0430"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\ud0c0"
     ],
@@ -113,6 +122,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a20\u0a71\u0a1f\u0a3e"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0679\u06be\u0679\u06c1"
     ],
     "name:pol_x_preferred":[
         "Thatta"
@@ -153,8 +165,14 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0442\u0430"
     ],
+    "name:ukr_x_variant":[
+        "\u0422\u0430\u0442\u0442\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u0679\u06be\u0679\u06c1"
+    ],
+    "name:uzb_x_preferred":[
+        "Tatta"
     ],
     "name:vie_x_preferred":[
         "Thatta"
@@ -218,7 +236,7 @@
         }
     ],
     "wof:id":421180067,
-    "wof:lastmodified":1660241480,
+    "wof:lastmodified":1690854239,
     "wof:name":"Thatta",
     "wof:parent_id":1108692411,
     "wof:placetype":"locality",
