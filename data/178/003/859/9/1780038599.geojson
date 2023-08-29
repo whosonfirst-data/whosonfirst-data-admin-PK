@@ -25,11 +25,26 @@
     "name:ara_x_variant":[
         "\u0643\u0648\u0627\u062f\u0631"
     ],
+    "name:ast_x_preferred":[
+        "Gwadar"
+    ],
+    "name:awa_x_preferred":[
+        "\u0917\u094d\u0935\u093e\u0926\u0930"
+    ],
+    "name:aze_x_preferred":[
+        "Quvadar"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0413\u0432\u0430\u0434\u0430\u0440"
     ],
+    "name:bel_x_variant":[
+        "\u0413\u0432\u0430\u0434\u0430\u0440"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09a6\u09b0"
+    ],
+    "name:ben_x_variant":[
+        "\u0997\u09cb\u09af\u09bc\u09be\u09a6\u09be\u09b0"
     ],
     "name:cat_x_preferred":[
         "Gwadar"
@@ -73,6 +88,9 @@
     "name:hun_x_preferred":[
         "Gwadar"
     ],
+    "name:ibo_x_preferred":[
+        "Gwadar"
+    ],
     "name:ind_x_preferred":[
         "Gwadar"
     ],
@@ -93,6 +111,9 @@
     ],
     "name:lit_x_preferred":[
         "Gvadaras"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d17\u0d4d\u0d35\u0d3e\u0d26\u0d7c"
     ],
     "name:mar_x_preferred":[
         "\u0917\u094d\u0935\u093e\u0926\u0930"
@@ -269,11 +290,11 @@
     "reversegeo:longitude":62.328588,
     "src:geom":"naturalearth",
     "wof:belongsto":[
+        85675733,
         102191569,
         85632659,
         1125903075,
-        1108692199,
-        85675733
+        1108692199
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -293,7 +314,7 @@
         }
     ],
     "wof:id":1780038599,
-    "wof:lastmodified":1660244903,
+    "wof:lastmodified":1690854304,
     "wof:name":"Gwadar",
     "wof:parent_id":1125903075,
     "wof:placetype":"neighbourhood",

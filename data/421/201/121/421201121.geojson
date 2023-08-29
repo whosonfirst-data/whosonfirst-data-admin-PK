@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0623\u0648\u0643\u0627\u0631\u0627"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0648\u0643\u0627\u0631\u0627"
+    ],
+    "name:ast_x_preferred":[
+        "Okara"
+    ],
     "name:ben_x_preferred":[
         "\u0993\u0995\u09be\u09b0\u09be"
+    ],
+    "name:cat_x_preferred":[
+        "Okara"
     ],
     "name:ceb_x_preferred":[
         "Ok\u0101ra"
@@ -37,6 +46,9 @@
         "\u039f\u03ba\u03ac\u03c1\u03b1"
     ],
     "name:eng_x_preferred":[
+        "Okara"
+    ],
+    "name:epo_x_preferred":[
         "Okara"
     ],
     "name:fas_x_preferred":[
@@ -96,6 +108,9 @@
     "name:pan_x_preferred":[
         "\u0a13\u0a15\u0a3e\u0a30\u0a3e"
     ],
+    "name:pan_x_variant":[
+        "\u0a13\u0a15\u0a3e\u0a5c\u0a3e"
+    ],
     "name:pnb_x_preferred":[
         "\u0627\u0648\u06a9\u0627\u0691\u06c1"
     ],
@@ -110,6 +125,9 @@
     ],
     "name:sin_x_preferred":[
         "\u0d94\u0d9a\u0dcf\u0dbb\u0dcf \u0db4\u0d9a\u0dd2\u0dc3\u0dca\u0dad\u0dcf\u0db1\u0dba"
+    ],
+    "name:snd_x_preferred":[
+        "\u0627\u0648\u06aa\u0627\u0699\u0627"
     ],
     "name:spa_x_preferred":[
         "Okara"
@@ -299,7 +317,7 @@
         }
     ],
     "wof:id":421201121,
-    "wof:lastmodified":1660241707,
+    "wof:lastmodified":1690854259,
     "wof:name":"Okara",
     "wof:parent_id":1108692339,
     "wof:placetype":"locality",

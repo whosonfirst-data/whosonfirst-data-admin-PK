@@ -39,8 +39,14 @@
     "name:arz_x_preferred":[
         "\u062f\u0628\u0627\u0628\u0647"
     ],
+    "name:arz_x_variant":[
+        "\u062a\u0627\u0646\u0643"
+    ],
     "name:ast_x_preferred":[
         "Carru de combate"
+    ],
+    "name:ast_x_variant":[
+        "Tank"
     ],
     "name:azb_x_preferred":[
         "\u062a\u0627\u0646\u06a9"
@@ -83,6 +89,9 @@
     ],
     "name:ceb_x_preferred":[
         "T\u0101nk District"
+    ],
+    "name:ceb_x_variant":[
+        "T\u0101nk"
     ],
     "name:ces_x_preferred":[
         "Tank"
@@ -339,11 +348,17 @@
     "name:sin_x_preferred":[
         "\u0da7\u0dd1\u0db1\u0dca\u0d9a\u0dca"
     ],
+    "name:skr_x_preferred":[
+        "\u0679\u0627\u0646\u06a9"
+    ],
     "name:slk_x_preferred":[
         "Tank"
     ],
     "name:slv_x_preferred":[
         "Tank"
+    ],
+    "name:snd_x_preferred":[
+        "\u067d\u0627\u0646\u06aa"
     ],
     "name:spa_x_preferred":[
         "Carro de combate"
@@ -489,7 +504,7 @@
         }
     ],
     "wof:id":421200373,
-    "wof:lastmodified":1660241683,
+    "wof:lastmodified":1690854258,
     "wof:name":"Tank",
     "wof:parent_id":1108692407,
     "wof:placetype":"locality",

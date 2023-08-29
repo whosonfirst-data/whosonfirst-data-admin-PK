@@ -18,20 +18,38 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064a\u0627\u0646\u0648\u0627\u0644\u064a"
+    ],
+    "name:ast_x_preferred":[
+        "Mianwali"
+    ],
+    "name:awa_x_preferred":[
+        "\u092e\u093f\u092f\u093e\u0902\u0935\u093e\u0932\u0940"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u09af\u09bc\u09be\u09a8\u0993\u09af\u09bc\u09be\u09b2\u09c0"
     ],
     "name:cat_x_preferred":[
         "Mianwali"
     ],
+    "name:deu_x_preferred":[
+        "Mianwali"
+    ],
     "name:eng_x_preferred":[
         "Mianwali"
+    ],
+    "name:epo_x_preferred":[
+        "Mianvali"
     ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0627\u0646\u0648\u0627\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
         "Mianwali"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d9\u05d0\u05e0\u05d5\u05d5\u05d0\u05dc\u05d9"
     ],
     "name:hin_x_preferred":[
         "\u092e\u093f\u092f\u093e\u0902\u0935\u093e\u0932\u0940"
@@ -49,6 +67,9 @@
         "Mianvalis"
     ],
     "name:nld_x_preferred":[
+        "Mianwali"
+    ],
+    "name:nob_x_preferred":[
         "Mianwali"
     ],
     "name:pan_x_preferred":[
@@ -89,6 +110,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u06cc\u0627\u0646\u0648\u0627\u0644\u06cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f05\u74e6\u5229"
     ],
     "qs:gn_country":"PK",
     "qs:gn_fcode":"PPLA2",
@@ -144,7 +168,7 @@
         }
     ],
     "wof:id":421200339,
-    "wof:lastmodified":1660241679,
+    "wof:lastmodified":1690854255,
     "wof:name":"Mianwali",
     "wof:parent_id":1108692305,
     "wof:placetype":"locality",

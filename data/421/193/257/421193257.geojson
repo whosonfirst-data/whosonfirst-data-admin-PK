@@ -18,10 +18,16 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Pattoki"
+    ],
     "name:bul_x_preferred":[
         "\u041f\u0430\u0442\u043e\u043a\u0438"
     ],
     "name:ceb_x_preferred":[
+        "Pattoki"
+    ],
+    "name:deu_x_preferred":[
         "Pattoki"
     ],
     "name:eng_x_preferred":[
@@ -42,11 +48,17 @@
     "name:pnb_x_preferred":[
         "\u062a\u0635\u06cc\u0644 \u067e\u062a\u0648\u06a9\u06cc"
     ],
+    "name:pnb_x_variant":[
+        "\u067e\u062a\u0648\u06a9\u06cc"
+    ],
     "name:por_x_preferred":[
         "Pattoki"
     ],
     "name:rus_x_preferred":[
         "\u041f\u0430\u0442\u0442\u043e\u043a\u0438"
+    ],
+    "name:snd_x_preferred":[
+        "\u067e\u062a\u0648\u06aa\u064a"
     ],
     "name:spa_x_preferred":[
         "Pattoki"
@@ -114,7 +126,7 @@
         }
     ],
     "wof:id":421193257,
-    "wof:lastmodified":1660241584,
+    "wof:lastmodified":1690854216,
     "wof:name":"Pattoki",
     "wof:parent_id":1108692239,
     "wof:placetype":"locality",

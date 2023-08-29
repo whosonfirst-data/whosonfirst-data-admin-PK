@@ -18,6 +18,12 @@
     "mz:is_current":1,
     "mz:min_zoom":8.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:arz_x_preferred":[
+        "\u062a\u0648\u0628\u0627 \u062a\u064a\u0643 \u0633\u064a\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Toba Tek Singh"
+    ],
     "name:ceb_x_preferred":[
         "Toba Tek Singh"
     ],
@@ -57,11 +63,17 @@
     "name:pnb_x_preferred":[
         "\u0679\u0648\u0628\u06c1 \u0679\u06cc\u06a9 \u0633\u0646\u06af\u06be"
     ],
+    "name:pnb_x_variant":[
+        "\u0679\u0648\u0628\u06be\u0627 \u0679\u06cc\u06a9 \u0633\u0646\u06af\u06be"
+    ],
     "name:pol_x_preferred":[
         "Toba Tek Singh"
     ],
     "name:rus_x_preferred":[
         "\u0422\u043e\u0431\u0430-\u0422\u0435\u043a-\u0421\u0438\u043d\u0433\u0445"
+    ],
+    "name:snd_x_preferred":[
+        "\u067d\u0648\u0628\u0627 \u067d\u064a\u06aa \u0633\u0646\u06af\u06be"
     ],
     "name:spa_x_preferred":[
         "Toba Tek Singh"
@@ -132,7 +144,7 @@
         }
     ],
     "wof:id":421196453,
-    "wof:lastmodified":1660241621,
+    "wof:lastmodified":1690854247,
     "wof:name":"Toba Tek Singh",
     "wof:parent_id":1108692413,
     "wof:placetype":"locality",
