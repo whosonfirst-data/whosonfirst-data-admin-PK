@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":81.699463,
-    "geom:area_square_m":877345547417.939087,
+    "geom:area_square_m":873858608753.950684,
     "geom:bbox":"60.872972,23.693722,77.010453,37.084107",
     "geom:latitude":29.950205,
     "geom:longitude":69.370595,
@@ -14,6 +14,9 @@
     "iso:country":"PK",
     "itu:country_code":[
         "92"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "PK"
@@ -1181,7 +1184,8 @@
         "whosonfirst"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"92",
     "statoids:ds":"PK",
     "statoids:fifa":"PAK",
@@ -1242,7 +1246,7 @@
         "wof",
         "whosonfirst-interior"
     ],
-    "wof:geomhash":"24f1ab63e0df9f9cbc4a9bb0b6208a94",
+    "wof:geomhash":"d9c40cf5a4674434e291ad8e7c3badea",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1258,12 +1262,12 @@
         "urd",
         "eng"
     ],
-    "wof:lastmodified":1690854153,
+    "wof:lastmodified":1694639635,
     "wof:name":"Pakistan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":182142594,
-    "wof:population_rank":17,
+    "wof:population":216565318,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:shortcode":"PK",
     "wof:superseded_by":[],
