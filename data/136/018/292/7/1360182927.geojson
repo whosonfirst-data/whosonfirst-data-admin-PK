@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"68.59817,27.07172,68.59817,27.07172",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":7351859
     },
     "wof:country":"PK",
-    "wof:geomhash":"f6f7f09c6cbda745d308d70c8ccca371",
+    "wof:geomhash":"37013e734cc0ed3c85c2b889e0fd7f63",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1360182927,
-    "wof:lastmodified":1566591230,
+    "wof:lastmodified":1706240588,
     "wof:name":"Nandi Thari",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193274001
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     68.59817,
-    27.07172000000001,
+    27.07172,
     68.59817,
-    27.07172000000001
+    27.07172
 ],
-  "geometry": {"coordinates":[68.59817,27.07172000000001],"type":"Point"}
+  "geometry": {"coordinates":[68.59817,27.07172],"type":"Point"}
 }

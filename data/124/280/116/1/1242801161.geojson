@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1166189
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1330153
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"2202858a4675e8b4ee842f324d3ad8bb",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1242801161,
-    "wof:lastmodified":1566592143,
+    "wof:lastmodified":1706240593,
     "wof:name":"Sandrana",
     "wof:parent_id":1108692223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293906821
+    ],
     "wof:tags":[]
 },
   "bbox": [

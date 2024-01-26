@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1361657
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7352248
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"9c8ce9ef06f96ba0c95c9cc87d8413c6",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1225948723,
-    "wof:lastmodified":1566594038,
+    "wof:lastmodified":1706240591,
     "wof:name":"Sacha Mohan",
     "wof:parent_id":1108692191,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360188933
+    ],
     "wof:tags":[]
 },
   "bbox": [

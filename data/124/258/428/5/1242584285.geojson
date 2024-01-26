@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":1450912
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7041463
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"84fba0f54f5aac6ad73059e4d5f28078",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1242584285,
-    "wof:lastmodified":1566592479,
+    "wof:lastmodified":1706240592,
     "wof:name":"Safaid Dheri",
     "wof:parent_id":1108692347,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344263749
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -46,8 +46,13 @@
     "wof:concordances":{
         "gn:id":1179785
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1362364
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"3fd329bc66a326aeba4e7641eba9e788",
+    "wof:geomhash":"2855d6d7a801636beef01e84dbd214e5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,20 +63,22 @@
         }
     ],
     "wof:id":1309898783,
-    "wof:lastmodified":1566591740,
+    "wof:lastmodified":1706240598,
     "wof:name":"Dingan Bhurgari",
     "wof:parent_id":1108692307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360283777
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    69.25303000000001,
+    69.25303,
     25.3994,
-    69.25303000000001,
+    69.25303,
     25.3994
 ],
-  "geometry": {"coordinates":[69.25303000000001,25.3994],"type":"Point"}
+  "geometry": {"coordinates":[69.25303,25.3994],"type":"Point"}
 }

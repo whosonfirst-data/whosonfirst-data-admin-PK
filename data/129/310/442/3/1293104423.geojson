@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"74.23664,31.804,74.23664,31.804",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Qila Mas\u012bta"
@@ -44,7 +46,7 @@
         "gn:id":1330391
     },
     "wof:country":"PK",
-    "wof:geomhash":"6d0b603d6582cc0e2521641e7f7d876f",
+    "wof:geomhash":"28667cc3cb651f137d3092e4b02fca53",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1293104423,
-    "wof:lastmodified":1566586405,
+    "wof:lastmodified":1706240594,
     "wof:name":"Jamke",
     "wof:parent_id":1108692377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1259388415
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    74.23664000000002,
+    74.23664,
     31.804,
-    74.23664000000002,
+    74.23664,
     31.804
 ],
-  "geometry": {"coordinates":[74.23664000000002,31.804],"type":"Point"}
+  "geometry": {"coordinates":[74.23663999999999,31.804],"type":"Point"}
 }

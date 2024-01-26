@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"73.33311,32.20937,73.33311,32.20937",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bharowal",
@@ -46,7 +48,7 @@
         "gn:id":1182824
     },
     "wof:country":"PK",
-    "wof:geomhash":"b55b7d2b285d58e4754d9ae8b52868b5",
+    "wof:geomhash":"fccc5765ed07cd906ac024f7b259fa1c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1360291099,
-    "wof:lastmodified":1566591288,
+    "wof:lastmodified":1706240598,
     "wof:name":"Bherowal",
     "wof:parent_id":1108692293,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1293389437
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    73.33310999999998,
+    73.33311,
     32.20937,
-    73.33310999999998,
+    73.33311,
     32.20937
 ],
-  "geometry": {"coordinates":[73.33310999999998,32.20937],"type":"Point"}
+  "geometry": {"coordinates":[73.33311,32.20937],"type":"Point"}
 }

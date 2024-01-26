@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1367796
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7325325
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"95da478b78d3d37ddca215cd87d6fed0",
+    "wof:geomhash":"c5b9419930a8990be13311bb89585614",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1209738527,
-    "wof:lastmodified":1566589105,
+    "wof:lastmodified":1706240590,
     "wof:name":"Khatakwala",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243090631
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    71.01619000000002,
+    71.01619,
     30.47394,
-    71.01619000000002,
+    71.01619,
     30.47394
 ],
-  "geometry": {"coordinates":[71.01619000000002,30.47394],"type":"Point"}
+  "geometry": {"coordinates":[71.01618999999999,30.47394],"type":"Point"}
 }

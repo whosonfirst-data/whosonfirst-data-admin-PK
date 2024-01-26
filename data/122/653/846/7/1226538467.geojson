@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"67.18484,27.04409,67.18484,27.04409",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Harar"
@@ -197,7 +199,7 @@
         "gn:id":8300480
     },
     "wof:country":"PK",
-    "wof:geomhash":"12832c3b7e33cf33927ebe8533cf829a",
+    "wof:geomhash":"cc77745c093e3a7a06084dffc08af25c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -208,20 +210,22 @@
         }
     ],
     "wof:id":1226538467,
-    "wof:lastmodified":1566595009,
+    "wof:lastmodified":1706240588,
     "wof:name":"Harar",
     "wof:parent_id":1108692159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193130049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    67.18484000000001,
+    67.18484,
     27.04409,
-    67.18484000000001,
+    67.18484,
     27.04409
 ],
-  "geometry": {"coordinates":[67.18484000000001,27.04409],"type":"Point"}
+  "geometry": {"coordinates":[67.18483999999999,27.04409],"type":"Point"}
 }

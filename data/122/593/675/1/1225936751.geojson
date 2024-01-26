@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1362265
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1176264
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"a5dd2cfcc78a3d8ea02a59aef332f1bd",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1225936751,
-    "wof:lastmodified":1566594093,
+    "wof:lastmodified":1706240590,
     "wof:name":"Jamesabad",
     "wof:parent_id":1108692307,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260276257
+    ],
     "wof:tags":[]
 },
   "bbox": [

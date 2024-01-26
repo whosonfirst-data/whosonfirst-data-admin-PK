@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":1181931
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7352609
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"f4721426e1a4d2e324b3ad58e3f98d4a",
+    "wof:geomhash":"82a59371be5fa88a41ab1b09815fff61",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -53,20 +58,22 @@
         }
     ],
     "wof:id":1209218865,
-    "wof:lastmodified":1566589169,
+    "wof:lastmodified":1706240589,
     "wof:name":"Goth Mumal Chahi",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1242969225
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    68.26961999999999,
+    68.26962,
     26.86088,
-    68.26961999999999,
+    68.26962,
     26.86088
 ],
-  "geometry": {"coordinates":[68.26961999999999,26.86088],"type":"Point"}
+  "geometry": {"coordinates":[68.26962,26.86088],"type":"Point"}
 }

@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":1405197
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1342500
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"1b6d68d08dc5c5cad2ff2d81a7d9bde9",
+    "wof:geomhash":"a320d26b6eccb4f584a56bf9c77bc30c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1326735767,
-    "wof:lastmodified":1566581693,
+    "wof:lastmodified":1706240599,
     "wof:name":"Ashraf Khanwala",
     "wof:parent_id":1108692143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326936053
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    71.39166999999998,
+    71.39167,
     32.09583,
-    71.39166999999998,
+    71.39167,
     32.09583
 ],
-  "geometry": {"coordinates":[71.39166999999998,32.09583],"type":"Point"}
+  "geometry": {"coordinates":[71.39167,32.09583],"type":"Point"}
 }

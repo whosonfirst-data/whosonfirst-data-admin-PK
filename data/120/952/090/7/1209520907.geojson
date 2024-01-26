@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Hela Wattu\u0101n"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -36,6 +39,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1332081
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1176939
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"9ac441d91450bd10fe954f742a1e34b6",
@@ -46,13 +54,15 @@
         }
     ],
     "wof:id":1209520907,
-    "wof:lastmodified":1566588390,
+    "wof:lastmodified":1706240589,
     "wof:name":"Jogiana",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310428589
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":1409895
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1167865
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"e5599833089116d9ebbcb88df7a8a53c",
+    "wof:geomhash":"39ede017d0ee6b65f841cfb83e6e9738",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1209715073,
-    "wof:lastmodified":1566588630,
+    "wof:lastmodified":1706240590,
     "wof:name":"Piroana Janubi",
     "wof:parent_id":1108692223,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259582961
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    71.95416999999998,
+    71.95417,
     30.69167,
-    71.95416999999998,
+    71.95417,
     30.69167
 ],
-  "geometry": {"coordinates":[71.95416999999998,30.69167],"type":"Point"}
+  "geometry": {"coordinates":[71.95417,30.69167],"type":"Point"}
 }

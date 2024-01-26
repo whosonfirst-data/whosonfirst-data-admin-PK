@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"70.43883,29.13225,70.43883,29.13225",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":7326025
     },
     "wof:country":"PK",
-    "wof:geomhash":"4d4e858085205af3a491ed013a06e8e5",
+    "wof:geomhash":"e07e9019a22e85e5faf5651dc0e88ba2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1276681763,
-    "wof:lastmodified":1566587305,
+    "wof:lastmodified":1706240595,
     "wof:name":"Thathalwala Khu",
     "wof:parent_id":1108692359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276252157
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    70.43883000000002,
+    70.43883,
     29.13225,
-    70.43883000000002,
+    70.43883,
     29.13225
 ],
-  "geometry": {"coordinates":[70.43883000000002,29.13225],"type":"Point"}
+  "geometry": {"coordinates":[70.43883,29.13225],"type":"Point"}
 }

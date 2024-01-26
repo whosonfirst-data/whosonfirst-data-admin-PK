@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1402637
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7351859
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"166b179dc073c5d86b42c3d1319fd5cf",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1193274001,
-    "wof:lastmodified":1566589694,
+    "wof:lastmodified":1706240588,
     "wof:name":"Nandi Thari",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360182927
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":1371749
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7402793
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"36b32c8546f2469596131113fe3f4727",
     "wof:hierarchy":[
@@ -49,13 +54,15 @@
         }
     ],
     "wof:id":1209220003,
-    "wof:lastmodified":1566588717,
+    "wof:lastmodified":1706240589,
     "wof:name":"Shaikh Panja",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293395701
+    ],
     "wof:tags":[]
 },
   "bbox": [

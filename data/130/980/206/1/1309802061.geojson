@@ -29,6 +29,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Hussain Pato",
+        "Husain P\u0101ta",
+        "Goth Husain Pato"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7353235
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1176752
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"ecd59f5fcd3b621daa2a183538f08bb6",
@@ -52,13 +62,15 @@
         }
     ],
     "wof:id":1309802061,
-    "wof:lastmodified":1566591712,
+    "wof:lastmodified":1706240598,
     "wof:name":"Goth Husain Pato",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343666247
+    ],
     "wof:tags":[]
 },
   "bbox": [

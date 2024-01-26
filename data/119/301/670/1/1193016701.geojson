@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shushgh\u0101l Lasht"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8355646
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1164954
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"ec406db5b384ccfe04dcdd79d2f63b14",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1193016701,
-    "wof:lastmodified":1566589504,
+    "wof:lastmodified":1706240588,
     "wof:name":"Lasht",
     "wof:parent_id":1108692157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293201463
+    ],
     "wof:tags":[]
 },
   "bbox": [

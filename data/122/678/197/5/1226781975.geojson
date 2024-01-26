@@ -62,6 +62,9 @@
     "name:swe_x_preferred":[
         "Az\u012bzpur"
     ],
+    "name:und_x_variant":[
+        "Ch\u0101h B\u016btew\u0101la"
+    ],
     "name:urd_x_preferred":[
         "\u0639\u0632\u06cc\u0632 \u067e\u0648\u0631"
     ],
@@ -82,6 +85,11 @@
     "wof:concordances":{
         "gn:id":7393411
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1393296
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"a647e4748ecda16ad028346ec97bb0b6",
     "wof:hierarchy":[
@@ -94,13 +102,15 @@
         }
     ],
     "wof:id":1226781975,
-    "wof:lastmodified":1566594743,
+    "wof:lastmodified":1706240592,
     "wof:name":"Azizpur",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276878171
+    ],
     "wof:tags":[]
 },
   "bbox": [

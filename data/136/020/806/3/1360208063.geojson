@@ -23,9 +23,20 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KSE9E0551B3C3C466F9753802C1E48C9ED",
+    "ks:ks_name":"Jodhpur",
+    "ks:ks_pop":1184,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|467922",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2502357",
     "lbl:bbox":"74.43278,30.84389,74.47278,30.88389",
+    "lbl:latitude":30.863846,
+    "lbl:longitude":74.450055,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.863846,
+    "mps:longitude":74.450055,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
@@ -64,6 +75,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b6\u03bf\u03bd\u03c4\u03c7\u03c0\u03bf\u03cd\u03c1"
+    ],
+    "name:eng_x_preferred":[
+        "Jodhpur"
     ],
     "name:epo_x_preferred":[
         "\u011codhpur"
@@ -213,6 +227,9 @@
         "\u7126\u7279\u5e03\u5c14"
     ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -221,7 +238,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421355
+        "gn:id":1421355,
+        "ks:id":"KSE9E0551B3C3C466F9753802C1E48C9ED"
     },
     "wof:country":"PK",
     "wof:geomhash":"7e595780a5530ee8a66dfb9f0df2337a",
@@ -235,13 +253,17 @@
         }
     ],
     "wof:id":1360208063,
-    "wof:lastmodified":1566591199,
+    "wof:lastmodified":1706240600,
     "wof:name":"Jodhpur",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":1184,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051313
+    ],
     "wof:tags":[]
 },
   "bbox": [

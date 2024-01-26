@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1350710
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6367140
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"7f5dbd7330d9e022410281706d193005",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1310307025,
-    "wof:lastmodified":1566590548,
+    "wof:lastmodified":1706240599,
     "wof:name":"Masum Khan Kili",
     "wof:parent_id":1108692257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344064765
+    ],
     "wof:tags":[]
 },
   "bbox": [

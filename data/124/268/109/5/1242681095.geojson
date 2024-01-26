@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Janjal"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1426232
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1425915
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"c4763d57e097ed9ae47fa9541c4ffee3",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1242681095,
-    "wof:lastmodified":1566592348,
+    "wof:lastmodified":1706240592,
     "wof:name":"Janjal Saidan",
     "wof:parent_id":1108692389,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259692945
+    ],
     "wof:tags":[]
 },
   "bbox": [

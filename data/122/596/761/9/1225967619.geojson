@@ -44,7 +44,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":7101150
+        "gn:id":7101150,
+        "wk:page":"Chak_Jamal"
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1181799
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"41ab28c0bbae76aa01beff19faf33db0",
@@ -58,13 +64,15 @@
         }
     ],
     "wof:id":1225967619,
-    "wof:lastmodified":1566594604,
+    "wof:lastmodified":1706240591,
     "wof:name":"Chak Jamal",
     "wof:parent_id":1108692227,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277071701
+    ],
     "wof:tags":[]
 },
   "bbox": [

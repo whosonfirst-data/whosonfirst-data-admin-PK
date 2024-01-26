@@ -11,6 +11,7 @@
     "geom:longitude":67.013373,
     "gn:id":"",
     "iso:country":"PK",
+    "lbl:bbox":"67.004391,24.856362,67.014391,24.866362",
     "lbl:latitude":24.862489,
     "lbl:longitude":67.013273,
     "lbl:max_zoom":18.0,
@@ -24,6 +25,7 @@
     "mz:is_official":0,
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
     "mz:tier_locality":2,
     "name:eng_x_preferred":[
         "Runchor"
@@ -53,6 +55,21 @@
     "qs:woe_lau":0,
     "qs:woe_local":2211096,
     "qs:woe_ver":"7.10.0",
+    "qs_pg:name":"Runchor",
+    "qs_pg:name_adm0":"Pakistan",
+    "qs_pg:name_adm1":"Sindh",
+    "qs_pg:photos":946,
+    "qs_pg:photos_1k":192,
+    "qs_pg:photos_9k":4,
+    "qs_pg:photos_9r":6,
+    "qs_pg:photos_all":946,
+    "qs_pg:photos_sr":10,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1085682,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424922,
+    "qs_pg:woe_id":22726260,
     "reversegeo:latitude":24.862489,
     "reversegeo:longitude":67.013273,
     "src:geom":"whosonfirst",
@@ -61,17 +78,29 @@
         "mz"
     ],
     "src:lbl_centroid":"whosonfirst",
+    "woe:adm0_id":23424922,
+    "woe:name_adm0":"Pakistan",
+    "woe:name_adm1":"Sindh",
+    "woe:placetype":"Suburb",
     "wof:belongsto":[
+        85675757,
         102191569,
         85632659,
         421191101,
-        1108692233,
-        85675757
+        1108692233
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":22726260,
         "qs_pg:id":1085682
+    },
+    "wof:concordances_alt":{
+        "gp:id":[
+            22726260
+        ],
+        "qs_pg:id":[
+            1085682
+        ]
     },
     "wof:country":"PK",
     "wof:geom_alt":[
@@ -92,13 +121,15 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1660241795,
+    "wof:lastmodified":1706240587,
     "wof:name":"Runchor",
     "wof:parent_id":421191101,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1126091487
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -32,6 +32,9 @@
     "name:hin_x_preferred":[
         "\u0915\u093e\u0902\u0935\u0932\u0940"
     ],
+    "name:und_x_variant":[
+        "Kh\u0101nunw\u0101li"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632659
@@ -40,8 +43,13 @@
     "wof:concordances":{
         "gn:id":7330810
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1370486
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"6b0767c4f874e59a33c1d0bc9feb6b5a",
+    "wof:geomhash":"e6ad7fbe4b66fb724e41c8c905029eaf",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -49,20 +57,22 @@
         }
     ],
     "wof:id":1209111469,
-    "wof:lastmodified":1566589068,
+    "wof:lastmodified":1706240588,
     "wof:name":"Kanwali",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293104363
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    72.03043000000002,
-    32.75069000000001,
-    72.03043000000002,
-    32.75069000000001
+    72.03043,
+    32.75069,
+    72.03043,
+    32.75069
 ],
-  "geometry": {"coordinates":[72.03043000000002,32.75069000000001],"type":"Point"}
+  "geometry": {"coordinates":[72.03043,32.75069],"type":"Point"}
 }

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"72.20811,36.38841,72.20811,36.38841",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Shushgh\u0101l Lasht"
@@ -44,7 +46,7 @@
         "gn:id":1164954
     },
     "wof:country":"PK",
-    "wof:geomhash":"cff4983f14f1885293959483108a5a34",
+    "wof:geomhash":"4b43d58127a533b8a36c614913c321ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1293201463,
-    "wof:lastmodified":1566586178,
+    "wof:lastmodified":1706240587,
     "wof:name":"Lasht",
     "wof:parent_id":1108692157,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1193016701
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    72.20810999999998,
+    72.20811,
     36.38841,
-    72.20810999999998,
+    72.20811,
     36.38841
 ],
-  "geometry": {"coordinates":[72.20810999999998,36.38841],"type":"Point"}
+  "geometry": {"coordinates":[72.20811,36.38841],"type":"Point"}
 }

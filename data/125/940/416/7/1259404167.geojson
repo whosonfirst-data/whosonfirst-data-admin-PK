@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":11070436
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            11070437
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"1dd1a4a522d247d15847cfb5e5cbe2ef",
+    "wof:geomhash":"c98e6bad23e2d9c21ec873feb17fdf24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +68,22 @@
         }
     ],
     "wof:id":1259404167,
-    "wof:lastmodified":1566593533,
+    "wof:lastmodified":1706240594,
     "wof:name":"Arshadabad",
     "wof:parent_id":1108692167,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309927441
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    74.17985999999998,
+    74.17986,
     32.89347,
-    74.17985999999998,
+    74.17986,
     32.89347
 ],
-  "geometry": {"coordinates":[74.17985999999998,32.89347],"type":"Point"}
+  "geometry": {"coordinates":[74.17986000000001,32.89347],"type":"Point"}
 }

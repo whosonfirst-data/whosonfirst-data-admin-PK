@@ -40,8 +40,13 @@
     "wof:concordances":{
         "gn:id":1369304
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1369275
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"8db4bda38776d629fd1d579219a9f946",
+    "wof:geomhash":"0b00167c71c571d4897e62e5d27f0abb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +57,22 @@
         }
     ],
     "wof:id":1326723285,
-    "wof:lastmodified":1566581582,
+    "wof:lastmodified":1706240599,
     "wof:name":"Goth Bakhshan Lashari",
     "wof:parent_id":1108692371,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343266035
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    68.14721999999999,
+    68.14722,
     26.26667,
-    68.14721999999999,
+    68.14722,
     26.26667
 ],
-  "geometry": {"coordinates":[68.14721999999999,26.26667],"type":"Point"}
+  "geometry": {"coordinates":[68.14722,26.26667],"type":"Point"}
 }

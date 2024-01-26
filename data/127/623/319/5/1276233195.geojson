@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Dhok Gulamir"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":11138681
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7081299
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"af380cb0a0b922e57807ec7e98a60af6",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1276233195,
-    "wof:lastmodified":1566587568,
+    "wof:lastmodified":1706240595,
     "wof:name":"Dhok Malangan",
     "wof:parent_id":1108692119,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326553467
+    ],
     "wof:tags":[]
 },
   "bbox": [

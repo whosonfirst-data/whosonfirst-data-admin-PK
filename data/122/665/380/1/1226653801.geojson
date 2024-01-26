@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":7346891
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7346964
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"cedae6b833ea453fe3780049af8ed478",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1226653801,
-    "wof:lastmodified":1566594981,
+    "wof:lastmodified":1706240592,
     "wof:name":"Goth Jam",
     "wof:parent_id":1108692217,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293891457
+    ],
     "wof:tags":[]
 },
   "bbox": [

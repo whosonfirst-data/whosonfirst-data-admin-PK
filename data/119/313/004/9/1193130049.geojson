@@ -196,6 +196,11 @@
     "wof:concordances":{
         "gn:id":1177165
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8300480
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"3bda21918376882c1fff2e52c1bf6930",
     "wof:hierarchy":[
@@ -208,13 +213,15 @@
         }
     ],
     "wof:id":1193130049,
-    "wof:lastmodified":1566589565,
+    "wof:lastmodified":1706240588,
     "wof:name":"Harar",
     "wof:parent_id":1108692159,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226538467
+    ],
     "wof:tags":[]
 },
   "bbox": [

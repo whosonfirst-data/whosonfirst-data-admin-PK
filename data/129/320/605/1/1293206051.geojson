@@ -23,13 +23,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KSD8E32E56F2F040D989B73C1FCC18B082",
+    "ks:ks_name":"Guddar Dhandi",
+    "ks:ks_pop":2082,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0311000300952600",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2500501",
     "lbl:bbox":"74.38694,30.7675,74.42694,30.8075",
+    "lbl:latitude":30.784672,
+    "lbl:longitude":74.406229,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.784672,
+    "mps:longitude":74.406229,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Guddar Dhandi"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -38,7 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421397
+        "gn:id":1421397,
+        "ks:id":"KSD8E32E56F2F040D989B73C1FCC18B082"
     },
     "wof:country":"PK",
     "wof:geomhash":"b6c5dda3e16c29884ffc9bb120d6005a",
@@ -52,13 +70,17 @@
         }
     ],
     "wof:id":1293206051,
-    "wof:lastmodified":1566586115,
+    "wof:lastmodified":1706240597,
     "wof:name":"Guddar Dhandi",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":2082,
+    "wof:population_rank":4,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051203
+    ],
     "wof:tags":[]
 },
   "bbox": [

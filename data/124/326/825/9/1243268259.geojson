@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Goth Nawab Din"
     ],
+    "name:und_x_variant":[
+        "M\u0101ha\u012bn Shaikh"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7354186
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1331892
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"ca4c52331857f4b1442b27588e8802e6",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1243268259,
-    "wof:lastmodified":1566593126,
+    "wof:lastmodified":1706240593,
     "wof:name":"Goth Nawab Din",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309716439
+    ],
     "wof:tags":[]
 },
   "bbox": [

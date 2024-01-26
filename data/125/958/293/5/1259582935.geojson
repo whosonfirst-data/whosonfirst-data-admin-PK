@@ -52,6 +52,11 @@
     "wof:concordances":{
         "gn:id":1178182
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1371873
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"b37ff1c5f148c7630c468c03cdea4561",
     "wof:hierarchy":[
@@ -64,13 +69,15 @@
         }
     ],
     "wof:id":1259582935,
-    "wof:lastmodified":1566593812,
+    "wof:lastmodified":1706240594,
     "wof:name":"Gondal",
     "wof:parent_id":1108692381,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343857639
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1409053
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7347079
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"f69545d34eb5195368ea235c12ead476",
+    "wof:geomhash":"4f298a0f4f3ba34ac02c54322e1a77f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1242701101,
-    "wof:lastmodified":1566592638,
+    "wof:lastmodified":1706240592,
     "wof:name":"Basti Janghi Khan Gopang",
     "wof:parent_id":1108692357,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327265833
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    70.66313000000002,
+    70.66313,
     29.09095,
-    70.66313000000002,
+    70.66313,
     29.09095
 ],
-  "geometry": {"coordinates":[70.66313000000002,29.09095],"type":"Point"}
+  "geometry": {"coordinates":[70.66313,29.09095],"type":"Point"}
 }

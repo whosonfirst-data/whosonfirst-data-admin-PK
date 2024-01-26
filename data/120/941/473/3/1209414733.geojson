@@ -67,6 +67,11 @@
     "wof:concordances":{
         "gn:id":1331377
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7467127
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"a89bc6198e3197870ac3564ca9a3d1f3",
     "wof:hierarchy":[
@@ -76,13 +81,15 @@
         }
     ],
     "wof:id":1209414733,
-    "wof:lastmodified":1566588507,
+    "wof:lastmodified":1706240589,
     "wof:name":"Sarai",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276369295
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -56,8 +56,13 @@
     "wof:concordances":{
         "gn:id":1173851
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1412901
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"8db1d0ccf192fbe5b1b6fa7e9d5d2e30",
+    "wof:geomhash":"6d3523951f980493d6ae647383f0e248",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,20 +73,22 @@
         }
     ],
     "wof:id":1343267103,
-    "wof:lastmodified":1566584822,
+    "wof:lastmodified":1706240600,
     "wof:name":"Khokhar",
     "wof:parent_id":1108692197,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344162675
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    74.01541999999998,
+    74.01542,
     32.56271,
-    74.01541999999998,
+    74.01542,
     32.56271
 ],
-  "geometry": {"coordinates":[74.01541999999998,32.56271],"type":"Point"}
+  "geometry": {"coordinates":[74.01542000000001,32.56271],"type":"Point"}
 }

@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":1162076
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8305416
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"e4727aa523cd28e3b78d6c366cc68818",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1327335665,
-    "wof:lastmodified":1566582266,
+    "wof:lastmodified":1706240599,
     "wof:name":"Zik",
     "wof:parent_id":1108692121,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343870797
+    ],
     "wof:tags":[]
 },
   "bbox": [
