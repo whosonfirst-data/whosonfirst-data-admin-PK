@@ -23,13 +23,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KS91303867203E4BEBB7FF48C391EE2521",
+    "ks:ks_name":"Bodal",
+    "ks:ks_pop":345,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0311000200949400",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2501197",
     "lbl:bbox":"74.37167,30.79389,74.41167,30.83389",
+    "lbl:latitude":30.814923,
+    "lbl:longitude":74.39161,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.814923,
+    "mps:longitude":74.39161,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bodal"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -38,10 +55,11 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421403
+        "gn:id":1421403,
+        "ks:id":"KS91303867203E4BEBB7FF48C391EE2521"
     },
     "wof:country":"PK",
-    "wof:geomhash":"78d64448284fb17d2d82a9b938a2db8e",
+    "wof:geomhash":"6d943b92b36e00a4c214acf52e8b13ce",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +70,24 @@
         }
     ],
     "wof:id":1259488681,
-    "wof:lastmodified":1566593414,
+    "wof:lastmodified":1706240594,
     "wof:name":"Bodal",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":345,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051255
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    74.39166999999998,
+    74.39167,
     30.81389,
-    74.39166999999998,
+    74.39167,
     30.81389
 ],
-  "geometry": {"coordinates":[74.39166999999998,30.81389],"type":"Point"}
+  "geometry": {"coordinates":[74.39167,30.81389],"type":"Point"}
 }

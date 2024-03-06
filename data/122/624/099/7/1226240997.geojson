@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":1331805
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7354136
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"b5ddfb36b8cc5183d549d758d6db2b3d",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1226240997,
-    "wof:lastmodified":1566594793,
+    "wof:lastmodified":1706240591,
     "wof:name":"Goth Khairo Dakhan",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326823123
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1395890
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7329477
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"0cfa17ccd96d4df628b04a329a0754ec",
+    "wof:geomhash":"a75a0da68a7ab3fa4abe3f4042ebaa6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1259903031,
-    "wof:lastmodified":1566593367,
+    "wof:lastmodified":1706240595,
     "wof:name":"Qabulanwala",
     "wof:parent_id":1108692359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1277108741
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    70.57094000000002,
-    29.69137000000001,
-    70.57094000000002,
-    29.69137000000001
+    70.57094,
+    29.69137,
+    70.57094,
+    29.69137
 ],
-  "geometry": {"coordinates":[70.57094000000002,29.69137000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.57093999999999,29.69137],"type":"Point"}
 }

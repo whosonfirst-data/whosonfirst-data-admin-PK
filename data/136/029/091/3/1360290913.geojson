@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"70.92218,29.32878,70.92218,29.32878",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Basti Bakhti\u0101ri"
@@ -44,7 +46,7 @@
         "gn:id":1393058
     },
     "wof:country":"PK",
-    "wof:geomhash":"7552f43d837bf925376215f8d0afcdff",
+    "wof:geomhash":"f595dd68d1ef0f1f0647dde059bbfd55",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +57,22 @@
         }
     ],
     "wof:id":1360290913,
-    "wof:lastmodified":1566591278,
+    "wof:lastmodified":1706240596,
     "wof:name":"Basti Lal Khan",
     "wof:parent_id":1108692129,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1276681649
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    70.92218000000003,
+    70.92218,
     29.32878,
-    70.92218000000003,
+    70.92218,
     29.32878
 ],
-  "geometry": {"coordinates":[70.92218000000003,29.32878],"type":"Point"}
+  "geometry": {"coordinates":[70.92218,29.32878],"type":"Point"}
 }

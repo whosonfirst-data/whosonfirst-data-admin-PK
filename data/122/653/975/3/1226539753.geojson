@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Sathi\u0101li"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1419749
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1165870
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"754a4021abdb0b81f5b33a7d11d95ba9",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1226539753,
-    "wof:lastmodified":1566595020,
+    "wof:lastmodified":1706240591,
     "wof:name":"Chak Twenty-five",
     "wof:parent_id":1108692323,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327338751
+    ],
     "wof:tags":[]
 },
   "bbox": [

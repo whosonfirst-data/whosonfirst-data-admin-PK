@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"70.59774,29.95864,70.59774,29.95864",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Loh\u0101rw\u0101li",
@@ -46,7 +48,7 @@
         "gn:id":1403218
     },
     "wof:country":"PK",
-    "wof:geomhash":"2d9960e60d644d6ea91b15af94b2c006",
+    "wof:geomhash":"c97908f6904be4905a8a58acb9d4ef1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,20 +59,22 @@
         }
     ],
     "wof:id":1276233249,
-    "wof:lastmodified":1566587538,
+    "wof:lastmodified":1706240592,
     "wof:name":"Loharwala",
     "wof:parent_id":1108692163,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1226747119
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     70.59774,
-    29.95864000000001,
+    29.95864,
     70.59774,
-    29.95864000000001
+    29.95864
 ],
-  "geometry": {"coordinates":[70.59774,29.95864000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.59774,29.95864],"type":"Point"}
 }

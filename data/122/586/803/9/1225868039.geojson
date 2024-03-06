@@ -85,6 +85,11 @@
     "wof:concordances":{
         "gn:id":1388802
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1164922
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"7ce2356c619ff4ea58c1c1bcab01a3d3",
     "wof:hierarchy":[
@@ -97,13 +102,15 @@
         }
     ],
     "wof:id":1225868039,
-    "wof:lastmodified":1566594575,
+    "wof:lastmodified":1706240590,
     "wof:name":"Sial",
     "wof:parent_id":1108692169,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259414933
+    ],
     "wof:tags":[]
 },
   "bbox": [

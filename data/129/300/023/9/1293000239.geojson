@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1393103
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7391018
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"7df0aad83610afdbfc227e5b3c2fe005",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1293000239,
-    "wof:lastmodified":1566584978,
+    "wof:lastmodified":1706240597,
     "wof:name":"Basti Sial",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310707219
+    ],
     "wof:tags":[]
 },
   "bbox": [

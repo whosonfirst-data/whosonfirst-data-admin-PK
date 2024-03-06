@@ -41,6 +41,11 @@
     "wof:concordances":{
         "gn:id":1184037
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1388118
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"a29c065231b32acfae913e850f16c567",
     "wof:hierarchy":[
@@ -50,13 +55,15 @@
         }
     ],
     "wof:id":1209420321,
-    "wof:lastmodified":1566589142,
+    "wof:lastmodified":1706240589,
     "wof:name":"Bado Ratta",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243459999
+    ],
     "wof:tags":[]
 },
   "bbox": [

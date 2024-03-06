@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"63.77866,29.37389,63.77866,29.37389",
@@ -27,7 +29,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -41,7 +43,7 @@
         "gn:id":10983739
     },
     "wof:country":"PK",
-    "wof:geomhash":"0d294bfb9bc6b2c3b2ea09f0061c9f9a",
+    "wof:geomhash":"497335c6ab645686d0c73f1cf6782bd9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,20 +54,22 @@
         }
     ],
     "wof:id":1310212859,
-    "wof:lastmodified":1566590822,
+    "wof:lastmodified":1706240592,
     "wof:name":"Mubarak Gis",
     "wof:parent_id":1108692147,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1242585417
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     63.77866,
-    29.37389000000001,
+    29.37389,
     63.77866,
-    29.37389000000001
+    29.37389
 ],
-  "geometry": {"coordinates":[63.77866,29.37389000000001],"type":"Point"}
+  "geometry": {"coordinates":[63.77866,29.37389],"type":"Point"}
 }

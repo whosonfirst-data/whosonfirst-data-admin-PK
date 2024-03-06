@@ -46,6 +46,11 @@
     "wof:concordances":{
         "gn:id":7325233
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1368030
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"af1c737fa9c07387dce3eb7ab6197bec",
     "wof:hierarchy":[
@@ -58,13 +63,15 @@
         }
     ],
     "wof:id":1193160325,
-    "wof:lastmodified":1566589748,
+    "wof:lastmodified":1706240588,
     "wof:name":"Dadwala",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1226545401
+    ],
     "wof:tags":[]
 },
   "bbox": [

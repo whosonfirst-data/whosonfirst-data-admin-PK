@@ -23,13 +23,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KSFC1169661D034D70A231D10C0277E3EA",
+    "ks:ks_name":"Chhanga Khurd",
+    "ks:ks_pop":1273,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|216371",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2503380",
     "lbl:bbox":"74.43694,30.88694,74.47694,30.92694",
+    "lbl:latitude":30.905486,
+    "lbl:longitude":74.457232,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.905486,
+    "mps:longitude":74.457232,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chhanga Khurd"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -38,7 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421284
+        "gn:id":1421284,
+        "ks:id":"KSFC1169661D034D70A231D10C0277E3EA"
     },
     "wof:country":"PK",
     "wof:geomhash":"14c9590accb4cfe369c50613a76337c7",
@@ -52,13 +70,17 @@
         }
     ],
     "wof:id":1293104163,
-    "wof:lastmodified":1566586403,
+    "wof:lastmodified":1706240597,
     "wof:name":"Chhanga Khurd",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":1273,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051361
+    ],
     "wof:tags":[]
 },
   "bbox": [

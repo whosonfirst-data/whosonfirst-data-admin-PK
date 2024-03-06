@@ -23,22 +23,40 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KSEF13DD783F4B46FEBE255DE8D8132CB1",
+    "ks:ks_name":"Ahmad Dhandi",
+    "ks:ks_pop":1535,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0311000300952700",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2500333",
     "lbl:bbox":"74.36056,30.75639,74.40056,30.79639",
+    "lbl:latitude":30.776667,
+    "lbl:longitude":74.378574,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.776667,
+    "mps:longitude":74.378574,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Ahmad Dhandi"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         85632659
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421396
+        "gn:id":1421396,
+        "ks:id":"KSEF13DD783F4B46FEBE255DE8D8132CB1"
     },
     "wof:country":"PK",
-    "wof:geomhash":"164d4ff6c672b3802a2fd7bd94961b6b",
+    "wof:geomhash":"efd3278ba34c0686857248f91ce08c3c",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -46,20 +64,24 @@
         }
     ],
     "wof:id":1209520931,
-    "wof:lastmodified":1566588410,
+    "wof:lastmodified":1706240589,
     "wof:name":"Ahmad Dhandi",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
+    "wof:population":1535,
+    "wof:population_rank":3,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051193
+    ],
     "wof:tags":[]
 },
   "bbox": [
     74.38056,
-    30.77639000000001,
+    30.77639,
     74.38056,
-    30.77639000000001
+    30.77639
 ],
-  "geometry": {"coordinates":[74.38056,30.77639000000001],"type":"Point"}
+  "geometry": {"coordinates":[74.38056,30.77639],"type":"Point"}
 }

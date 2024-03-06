@@ -29,6 +29,9 @@
     "mz:hierarchy_label":0,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Mohammad Sult\u0101n\u0101b\u0101d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7043757
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1331642
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"03bc433428023cd7257b4f490de34ce4",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1193050013,
-    "wof:lastmodified":1660244924,
+    "wof:lastmodified":1706240588,
     "wof:name":"Progiapur",
     "wof:parent_id":1108692273,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309744087
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -35,6 +35,10 @@
     "name:msa_x_preferred":[
         "Malikpur"
     ],
+    "name:und_x_variant":[
+        "Behrampur",
+        "Bahr\u0101mpur"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -45,6 +49,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1416575
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1183837
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"5460a203ecf0035cda2346e66ad1c88b",
@@ -58,13 +67,15 @@
         }
     ],
     "wof:id":1276117537,
-    "wof:lastmodified":1566587030,
+    "wof:lastmodified":1706240595,
     "wof:name":"Malikpur",
     "wof:parent_id":1108692343,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293807021
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -23,13 +23,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KS97CBB8AA8DB644F2BA546D682FF630D3",
+    "ks:ks_name":"Lohra Nawab Sahib",
+    "ks:ks_pop":352,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0311000200951900",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2500372",
     "lbl:bbox":"74.4675,30.75917,74.5075,30.79917",
+    "lbl:latitude":30.779801,
+    "lbl:longitude":74.486373,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.779801,
+    "mps:longitude":74.486373,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Lohra Nawab Sahib"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -38,7 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421383
+        "gn:id":1421383,
+        "ks:id":"KS97CBB8AA8DB644F2BA546D682FF630D3"
     },
     "wof:country":"PK",
     "wof:geomhash":"5a33ed8a1298d510acdb65545eaa8f98",
@@ -52,13 +70,17 @@
         }
     ],
     "wof:id":1360008731,
-    "wof:lastmodified":1566591074,
+    "wof:lastmodified":1706240600,
     "wof:name":"Lohra Nawab Sahib",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":352,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051195
+    ],
     "wof:tags":[]
 },
   "bbox": [

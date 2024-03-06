@@ -44,8 +44,13 @@
     "wof:concordances":{
         "gn:id":1177010
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1362122
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"991b37a06a285cb7553777dbe3ce37f3",
+    "wof:geomhash":"c04fc65a40f810a4ce4106b2d06cd109",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,20 +61,22 @@
         }
     ],
     "wof:id":1259476021,
-    "wof:lastmodified":1566593608,
+    "wof:lastmodified":1706240594,
     "wof:name":"Hathungo",
     "wof:parent_id":1108692365,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293486045
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    69.45581999999999,
+    69.45582,
     25.78921,
-    69.45581999999999,
+    69.45582,
     25.78921
 ],
-  "geometry": {"coordinates":[69.45581999999999,25.78921],"type":"Point"}
+  "geometry": {"coordinates":[69.45582,25.78921],"type":"Point"}
 }

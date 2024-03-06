@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1417396
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1417395
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"cb7a0df10eec787367a8b6ca9933accf",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1276799377,
-    "wof:lastmodified":1566587652,
+    "wof:lastmodified":1706240596,
     "wof:name":"Rori",
     "wof:parent_id":1108692339,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327466267
+    ],
     "wof:tags":[]
 },
   "bbox": [

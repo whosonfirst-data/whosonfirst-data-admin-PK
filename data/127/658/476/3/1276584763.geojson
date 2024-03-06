@@ -23,13 +23,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KS5BE91ADD2E844D23B5317F55313D872F",
+    "ks:ks_name":"Lakhmirke Hithar",
+    "ks:ks_pop":357,
+    "ks:ks_popsource":2011,
+    "ks:ks_source_id":"P|615187",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2502899",
     "lbl:bbox":"74.40778,30.8675,74.44778,30.9075",
+    "lbl:latitude":30.886181,
+    "lbl:longitude":74.427938,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.886181,
+    "mps:longitude":74.427938,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Lakhmirke Hithar"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2011",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -38,7 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421294
+        "gn:id":1421294,
+        "ks:id":"KS5BE91ADD2E844D23B5317F55313D872F"
     },
     "wof:country":"PK",
     "wof:geomhash":"7eb64ba0b5bf7693e6e679af087565fe",
@@ -52,13 +70,17 @@
         }
     ],
     "wof:id":1276584763,
-    "wof:lastmodified":1566587183,
+    "wof:lastmodified":1706240596,
     "wof:name":"Lakhmirke Hithar",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":357,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051341
+    ],
     "wof:tags":[]
 },
   "bbox": [

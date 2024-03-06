@@ -23,13 +23,30 @@
     "gn:population":0,
     "gn:timezone":"Asia/Karachi",
     "iso:country":"PK",
+    "ks:ks_id":"KSB26F566DAC5744E4838AEA57A76C91C1",
+    "ks:ks_name":"Chak Mabain Hardo Dhandi",
+    "ks:ks_pop":905,
+    "ks:ks_popsource":2001,
+    "ks:ks_source_id":"S|0311000300952500",
+    "ks:ks_type":"VILLAGE",
+    "ks:ks_ua_id":"ESA_2500093",
     "lbl:bbox":"74.38556,30.74667,74.42556,30.78667",
+    "lbl:latitude":30.766547,
+    "lbl:longitude":74.404286,
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
+    "mps:latitude":30.766547,
+    "mps:longitude":74.404286,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chak Mabain Hardo Dhandi"
+    ],
     "src:geom":"geonames",
+    "src:lbl_centroid":"mapshaper",
+    "src:population":"karmashapes",
+    "src:population_year":"2001",
     "wof:belongsto":[
         102191569,
         85632469,
@@ -38,7 +55,8 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gn:id":1421390
+        "gn:id":1421390,
+        "ks:id":"KSB26F566DAC5744E4838AEA57A76C91C1"
     },
     "wof:country":"PK",
     "wof:geomhash":"35072f52f5f5cf467d1eeeb9ea18e83e",
@@ -52,13 +70,17 @@
         }
     ],
     "wof:id":1260188263,
-    "wof:lastmodified":1566589954,
+    "wof:lastmodified":1706240595,
     "wof:name":"Chak Mabain Hardo Dhandi",
     "wof:parent_id":890508949,
     "wof:placetype":"locality",
+    "wof:population":905,
+    "wof:population_rank":2,
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1830051169
+    ],
     "wof:tags":[]
 },
   "bbox": [

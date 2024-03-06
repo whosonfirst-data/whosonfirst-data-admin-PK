@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1395888
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7329559
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"22f8e5b94ef044301263b4702894f0c3",
+    "wof:geomhash":"a6a6586ec45f2a5fd38eed2a15a59fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1276369051,
-    "wof:lastmodified":1566587989,
+    "wof:lastmodified":1706240595,
     "wof:name":"Basti Muhammad Bashir",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327237093
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    70.73333000000002,
+    70.73333,
     29.60833,
-    70.73333000000002,
+    70.73333,
     29.60833
 ],
-  "geometry": {"coordinates":[70.73333000000002,29.60833],"type":"Point"}
+  "geometry": {"coordinates":[70.73333,29.60833],"type":"Point"}
 }

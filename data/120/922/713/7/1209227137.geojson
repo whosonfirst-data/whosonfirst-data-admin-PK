@@ -37,6 +37,11 @@
     "wof:concordances":{
         "gn:id":1397312
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1397311
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"8e10627fea988313023e050d3a18a7f3",
     "wof:hierarchy":[
@@ -46,13 +51,15 @@
         }
     ],
     "wof:id":1209227137,
-    "wof:lastmodified":1566588721,
+    "wof:lastmodified":1706240589,
     "wof:name":"Landi Kili",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343274421
+    ],
     "wof:tags":[]
 },
   "bbox": [

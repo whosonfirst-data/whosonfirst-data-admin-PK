@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1365798
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1366356
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"56a37678ad0a7cc040fc9c28d9dd137c",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1276878461,
-    "wof:lastmodified":1566586988,
+    "wof:lastmodified":1706240597,
     "wof:name":"Janan Chap",
     "wof:parent_id":1108692143,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343493329
+    ],
     "wof:tags":[]
 },
   "bbox": [

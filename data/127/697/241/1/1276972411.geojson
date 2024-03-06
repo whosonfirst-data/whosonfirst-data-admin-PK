@@ -32,6 +32,9 @@
     "name:eng_x_preferred":[
         "Syed Haji Sh\u0101h"
     ],
+    "name:und_x_variant":[
+        "Tyyab N\u0101nga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -42,6 +45,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7353860
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1402533
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"fea31da5d850585ef1b949cd69e283bd",
@@ -55,13 +63,15 @@
         }
     ],
     "wof:id":1276972411,
-    "wof:lastmodified":1566587767,
+    "wof:lastmodified":1706240597,
     "wof:name":"Syed Haji Shah",
     "wof:parent_id":1108692245,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344149701
+    ],
     "wof:tags":[]
 },
   "bbox": [

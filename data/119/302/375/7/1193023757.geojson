@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1176772
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            10988869
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"375efad8fac63b01863e65f2ea917a70",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1193023757,
-    "wof:lastmodified":1566589673,
+    "wof:lastmodified":1706240588,
     "wof:name":"Gorich Categ",
     "wof:parent_id":1108692425,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209227149
+    ],
     "wof:tags":[]
 },
   "bbox": [

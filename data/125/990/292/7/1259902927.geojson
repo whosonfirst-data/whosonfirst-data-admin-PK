@@ -40,6 +40,11 @@
     "wof:concordances":{
         "gn:id":1388329
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1347099
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"1114de1470580c00cc3d6405ac042016",
     "wof:hierarchy":[
@@ -52,13 +57,15 @@
         }
     ],
     "wof:id":1259902927,
-    "wof:lastmodified":1566593362,
+    "wof:lastmodified":1706240595,
     "wof:name":"Balarke",
     "wof:parent_id":1108692377,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344156389
+    ],
     "wof:tags":[]
 },
   "bbox": [

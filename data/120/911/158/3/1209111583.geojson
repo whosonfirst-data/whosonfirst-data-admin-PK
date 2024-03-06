@@ -42,8 +42,13 @@
     "wof:concordances":{
         "gn:id":1335231
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7096862
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"5d08c1d25cfe1884a09897c93d174a31",
+    "wof:geomhash":"a1cdd79a839c44edbbcc1131cf0d16a7",
     "wof:hierarchy":[
         {
             "country_id":85632659,
@@ -51,20 +56,22 @@
         }
     ],
     "wof:id":1209111583,
-    "wof:lastmodified":1566589023,
+    "wof:lastmodified":1706240588,
     "wof:name":"Ali Haidarpur",
     "wof:parent_id":85632659,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225868203
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    71.95499000000002,
+    71.95499,
     33.06273,
-    71.95499000000002,
+    71.95499,
     33.06273
 ],
-  "geometry": {"coordinates":[71.95499000000002,33.06273],"type":"Point"}
+  "geometry": {"coordinates":[71.95499,33.06273],"type":"Point"}
 }

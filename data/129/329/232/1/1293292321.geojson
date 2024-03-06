@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1393065
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            8534156
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"0f625828d4b8a17c749bd6f55b8f3b3b",
+    "wof:geomhash":"4da016e4e3046f9736b149ee6d5d92e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1293292321,
-    "wof:lastmodified":1566586221,
+    "wof:lastmodified":1706240598,
     "wof:name":"Muhammadwala",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327133791
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    70.85949000000002,
+    70.85949,
     29.32983,
-    70.85949000000002,
+    70.85949,
     29.32983
 ],
-  "geometry": {"coordinates":[70.85949000000002,29.32983],"type":"Point"}
+  "geometry": {"coordinates":[70.85948999999999,29.32983],"type":"Point"}
 }

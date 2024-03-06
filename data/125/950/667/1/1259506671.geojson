@@ -45,6 +45,11 @@
     "wof:concordances":{
         "gn:id":1403035
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7326014
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"bb1fcfc8858454251f2f956db7c134b0",
     "wof:hierarchy":[
@@ -57,13 +62,15 @@
         }
     ],
     "wof:id":1259506671,
-    "wof:lastmodified":1566593645,
+    "wof:lastmodified":1706240594,
     "wof:name":"Miranwala Khu",
     "wof:parent_id":1108692359,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1292908979
+    ],
     "wof:tags":[]
 },
   "bbox": [

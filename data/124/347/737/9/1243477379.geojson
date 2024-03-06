@@ -44,6 +44,11 @@
     "wof:concordances":{
         "gn:id":1165334
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1331081
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"c83c03bb91b0e304fd2e38f3cf16e4a7",
     "wof:hierarchy":[
@@ -56,13 +61,15 @@
         }
     ],
     "wof:id":1243477379,
-    "wof:lastmodified":1566592532,
+    "wof:lastmodified":1706240593,
     "wof:name":"Shamsa",
     "wof:parent_id":1108692195,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276340521
+    ],
     "wof:tags":[]
 },
   "bbox": [

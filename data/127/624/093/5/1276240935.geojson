@@ -29,6 +29,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:und_x_variant":[
+        "Amrat"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -39,6 +42,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6261903
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1351352
+        ]
     },
     "wof:country":"PK",
     "wof:geomhash":"ac6dbd44cbaed3ea9c0dd61a3667c8f3",
@@ -52,13 +60,15 @@
         }
     ],
     "wof:id":1276240935,
-    "wof:lastmodified":1566587578,
+    "wof:lastmodified":1706240595,
     "wof:name":"Kili Gul Baran",
     "wof:parent_id":1108692257,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293013105
+    ],
     "wof:tags":[]
 },
   "bbox": [

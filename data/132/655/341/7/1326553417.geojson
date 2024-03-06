@@ -43,8 +43,13 @@
     "wof:concordances":{
         "gn:id":1408842
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1408844
+        ]
+    },
     "wof:country":"PK",
-    "wof:geomhash":"36bf19c22edc35912e8ab75299230ce7",
+    "wof:geomhash":"4954d60bc7870f06a087f1f0f2e305d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,20 +60,22 @@
         }
     ],
     "wof:id":1326553417,
-    "wof:lastmodified":1566582741,
+    "wof:lastmodified":1706240599,
     "wof:name":"Basti Jaskani",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327139805
+    ],
     "wof:tags":[]
 },
   "bbox": [
-    70.71311999999998,
-    29.33392000000001,
-    70.71311999999998,
-    29.33392000000001
+    70.71312,
+    29.33392,
+    70.71312,
+    29.33392
 ],
-  "geometry": {"coordinates":[70.71311999999998,29.33392000000001],"type":"Point"}
+  "geometry": {"coordinates":[70.71312,29.33392],"type":"Point"}
 }

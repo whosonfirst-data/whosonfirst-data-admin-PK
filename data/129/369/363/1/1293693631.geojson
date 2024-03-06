@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1390808
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1184314
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"f9aff10f3930b292826b1e565178a88a",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1293693631,
-    "wof:lastmodified":1566585802,
+    "wof:lastmodified":1706240598,
     "wof:name":"Asharai",
     "wof:parent_id":1108692373,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327135145
+    ],
     "wof:tags":[]
 },
   "bbox": [

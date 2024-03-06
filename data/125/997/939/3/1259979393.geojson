@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":1408824
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7331631
+        ]
+    },
     "wof:country":"PK",
     "wof:geomhash":"49c750faa145843a316067ea07e19610",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1259979393,
-    "wof:lastmodified":1566593320,
+    "wof:lastmodified":1706240595,
     "wof:name":"Santre",
     "wof:parent_id":1108692321,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-pk",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293588813
+    ],
     "wof:tags":[]
 },
   "bbox": [
